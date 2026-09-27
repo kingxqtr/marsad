@@ -1,0 +1,604 @@
+{
+  "topic": "ai-coding-agents",
+  "generatedAt": "2026-09-27",
+  "news": [
+    {
+      "id": "microsoft-copilot-home-code-autopilot",
+      "date": "2026-09-25",
+      "type": "product",
+      "importance": 3,
+      "sourceType": "official",
+      "sourceName": "The Official Microsoft Blog",
+      "url": "https://blogs.microsoft.com/blog/2026/09/25/introducing-the-new-copilot-with-home-code-and-autopilot/",
+      "originalTitle": "Introducing the new Copilot with Home, Code and Autopilot",
+      "company": "Microsoft",
+      "tool": "Microsoft 365 Copilot",
+      "ar": {
+        "title": "Microsoft تعيد بناء Copilot للأعمال حول أوضاع Home وCode وAutopilot",
+        "summary": "أعلنت Microsoft نسخة جديدة من Copilot للمؤسسات تجمع ثلاثة أوضاع في تطبيق واحد: Home للمحادثة وتفويض المهام، وCode لبناء تطبيقات صغيرة، وAutopilot وكيلاً يعمل باستمرار، ويبدأ الطرح مع برنامج الوصول المبكر.",
+        "details": "أعلنت Microsoft في 25 سبتمبر إعادة تصميم Copilot المخصص للمؤسسات ليجمع ثلاثة أوضاع داخل تطبيق واحد.\n\n- Home: يدمج Chat وCowork ويضم وظائف Word وExcel وPowerPoint، لكتابة المستندات وإعداد الميزانيات والعروض دون التنقل بين التطبيقات.\n- Code: يتيح لغير المبرمجين وصف أداة أو لوحة بيانات أو تطبيق داخلي بلغة عادية، ويعتمد على تقنيات GitHub Copilot ويعمل في بيئة معزولة داخل مستأجر Microsoft 365 الخاص بالمؤسسة.\n- Autopilot: وكيل دائم يتولى المهام المتكررة ويتابع المحادثات ويواصل العمل حتى عندما يكون المستخدم غير متصل.\n\nيبدأ طرح Home وCode لأعضاء برنامج Frontier للوصول المبكر خلال الأسابيع المقبلة ثم يتوسع لاحقاً، فيما يتوسع Autopilot إلى معاينة خاصة بنهاية سبتمبر.\n\nوتنقسم التسعيرة إلى شقين: ترخيص ثابت لكل مستخدم يغطي المحادثة وتطبيقات Office، وفوترة حسب الاستخدام لأعمال الوكلاء في Cowork وCode وAutopilot، مع أدوات جديدة للمسؤولين لضبط الإنفاق."
+      },
+      "en": {
+        "title": "Microsoft rebuilds its work Copilot around Home, Code and Autopilot",
+        "summary": "Microsoft is reshaping Copilot for organisations into one app with three modes: Home for chat and delegated tasks, Code for building small apps, and Autopilot, an always-on agent. Rollout starts with early-access customers.",
+        "details": "Microsoft announced on 25 September a redesigned Copilot for organisations that brings three modes together in a single app.\n\n- Home: merges Chat and Cowork and embeds Word, Excel and PowerPoint features, so people can draft documents, model budgets or build decks without switching apps.\n- Code: lets non-developers describe a widget, dashboard or internal app in plain language; it builds on GitHub Copilot technology and runs sandboxed inside the company's Microsoft 365 tenant.\n- Autopilot: a persistent agent that handles recurring tasks, follows up on threads and keeps working while the user is offline.\n\nHome and Code roll out first to the Frontier early-access program in the coming weeks, with wider availability to follow; Autopilot expands to a private preview at the end of September.\n\nPricing is splitting in two: a fixed per-user licence covers chat and the Office apps, while agent work in Cowork, Code and Autopilot is billed by usage, with new admin tools to control spending."
+      }
+    },
+    {
+      "id": "slack-dreamforce-2026-slackbot-slack-code",
+      "date": "2026-09-15",
+      "type": "product",
+      "importance": 2,
+      "sourceType": "official",
+      "sourceName": "Slack Blog",
+      "url": "https://slack.com/blog/news/ai-powered-interface-for-work",
+      "originalTitle": "Dreamforce 2026: Slack's newest innovations turn AI into a true teammate",
+      "company": "Salesforce",
+      "tool": "Slack",
+      "ar": {
+        "title": "Slack تكشف عن Slack Code وتُدخل Slackbot إلى القنوات خلال Dreamforce",
+        "summary": "قدّمت Slack في مؤتمر Dreamforce مساحة Slack Code للمطورين والوكلاء، ولوحات بيانات حية، ووضعاً بملء الشاشة لـSlackbot، مؤكدة أن المساعد تجاوز مليون مستخدم نشط شهرياً.",
+        "details": "استغلت Slack مؤتمر Dreamforce التابع لشركة Salesforce في 15 سبتمبر لعرض حزمة من ميزات الذكاء الاصطناعي تتمحور حول مساعدها المدمج Slackbot.\n\n- Slack Code: مساحة مشتركة يعمل فيها المطورون ووكلاء الذكاء الاصطناعي على الشيفرة معاً، مع عرض التعديلات والمعاينات الحية لكامل الفريق.\n- Slackforce Surfaces: يحوّل Slackbot طلباً مكتوباً في المحادثة إلى لوحة بيانات حية قابلة للتصفية مبنية على بيانات Salesforce.\n- Big mode: مساحة عمل بملء الشاشة للبحث والكتابة والتحليل.\n- Slackbot داخل القنوات: في مرحلة تجريبية مبكرة ليتعاون الفريق مع المساعد بشكل جماعي.\n\nوأوضحت Slack أن Slackbot تجاوز مليون مستخدم نشط شهرياً بزيادة 145% عن الربع السابق. وتتوفر Code وSurfaces وBig mode حالياً، بينما تصل المحادثة الصوتية ثنائية الاتجاه وتوليد الفيديو لاحقاً في 2026. ويأتي Slackbot ضمن خطتي Business+ وEnterprise+، ويمكن لبقية العملاء استخدامه عبر Flex Credits."
+      },
+      "en": {
+        "title": "Slack unveils Slack Code and brings Slackbot into channels at Dreamforce",
+        "summary": "At Dreamforce, Slack introduced Slack Code for developers and AI agents, live data 'Surfaces' and a full-screen Slackbot mode, and said its Slackbot assistant has passed 1 million monthly active users.",
+        "details": "Slack used Salesforce's Dreamforce conference on 15 September to present a batch of AI features built around Slackbot, its built-in assistant.\n\n- Slack Code: a shared space where developers and AI agents work on code together, with diffs and working previews visible to the whole team.\n- Slackforce Surfaces: Slackbot turns a request typed in conversation into a live, filterable dashboard built from Salesforce data.\n- Big mode: a full-screen Slackbot workspace for research, writing and analysis.\n- Slackbot in channels: now in an early pilot, so a team can work with the assistant together.\n\nSlack said Slackbot has crossed 1 million monthly active users, up 145% from the previous quarter. Code, Surfaces and Big mode are available now, while two-way voice and video generation are due later in 2026. Slackbot is included in the Business+ and Enterprise+ plans, and other customers can use it through Flex Credits."
+      }
+    },
+    {
+      "id": "cursor-projects-launch",
+      "date": "2026-09-10",
+      "type": "coding",
+      "importance": 2,
+      "sourceType": "official",
+      "sourceName": "Cursor Blog",
+      "url": "https://cursor.com/blog/projects",
+      "originalTitle": "Introducing Projects",
+      "company": "Anysphere",
+      "tool": "Cursor",
+      "ar": {
+        "title": "Cursor تطلق ميزة Projects لإدارة أعمال البرمجة الطويلة عبر وكلاء متعددين",
+        "summary": "تتيح ميزة Projects الجديدة في Cursor لوكيل منسّق إدارة مهام كبيرة مثل الميزات أو عمليات الترحيل لأسابيع أو أشهر، وتوزيعها على وكلاء فرعيين يعملون على حاسوب سحابي حتى بعد إغلاق الجهاز.",
+        "details": "أطلقت Cursor في 10 سبتمبر ميزة Projects بصيغة تجريبية، وهي مخصصة للأعمال الكبيرة مثل تطوير ميزة جديدة أو تنفيذ عملية ترحيل أو بناء تطبيق كامل.\n\nيدير كل مشروع وكيل منسّق لا يكتب الشيفرة بنفسه، بل يخطط للعمل ويوزع المهام على وكلاء آخرين قد يصل عددهم إلى الآلاف. ويعمل المشروع على حاسوب سحابي خاص به، فيستمر التنفيذ بعد إغلاق الحاسوب المحمول، بينما تحافظ الملفات المشتركة على السياق بين الوكلاء على مدى أشهر.\n\n- تسمح الاشتراكات للمنسّق بمتابعة قنوات Slack وطلبات الدمج وتشغيل مهام مجدولة دون أوامر من المستخدم.\n- تقول Cursor إنها استخدمت الميزة داخلياً في عمليات ترحيل شملت مئات طلبات الدمج.\n- وفي اختباراتها، دمج المستخدمون الذين يعتمدون أساساً على Projects نحو ستة أضعاف طلبات الدمج.\n\nيجري طرح الميزة لجميع المستخدمين من الشريط الجانبي، ولم تعلن Cursor تسعيراً منفصلاً لها."
+      },
+      "en": {
+        "title": "Cursor launches Projects for long-running, multi-agent coding work",
+        "summary": "Cursor's new Projects feature lets a coordinator agent run large jobs such as features or migrations over weeks or months, delegating to many subagents on a cloud computer that keeps working after the laptop is closed.",
+        "details": "Cursor introduced Projects on 10 September, a beta feature aimed at bigger pieces of work such as a new feature, a migration or a whole app.\n\nEach Project is run by a coordinator agent that does not write code itself; it plans the work and hands tasks to other agents, potentially thousands of subagents. A Project lives on its own cloud computer, so work continues after the user closes their laptop, and shared files keep context across agents over months.\n\n- Subscriptions let the coordinator watch Slack channels, track pull requests or run scheduled jobs without being prompted.\n- Cursor says it used Projects internally for migrations spanning hundreds of pull requests.\n- In its own testing, users who relied mainly on Projects merged about six times as many pull requests.\n\nProjects is rolling out to all users from the left-hand sidebar; Cursor did not publish separate pricing for it."
+      }
+    },
+    {
+      "id": "cognition-series-e-48b-valuation",
+      "date": "2026-09-08",
+      "type": "business",
+      "importance": 3,
+      "sourceType": "official",
+      "sourceName": "Cognition Blog",
+      "url": "https://cognition.com/blog/series-e",
+      "originalTitle": "Do it all with Devin: Announcing our Series E",
+      "company": "Cognition",
+      "tool": "Devin",
+      "ar": {
+        "title": "Cognition مطوّرة Devin تجمع أكثر من ملياري دولار بتقييم 48 مليار دولار",
+        "summary": "أغلقت Cognition جولة تمويل من الفئة E تجاوزت ملياري دولار بقيادة Andreessen Horowitz وAccel، ما رفع تقييم الشركة المطوّرة لوكيل البرمجة Devin إلى 48 مليار دولار مع اقتراب إيراداتها السنوية من 900 مليون دولار.",
+        "details": "أعلنت Cognition في 8 سبتمبر أنها جمعت أكثر من ملياري دولار في جولة تمويل من الفئة E بتقييم يبلغ 48 مليار دولار. وقادت الجولة Andreessen Horowitz وAccel بمشاركة عدد كبير من المستثمرين، منهم Founders Fund وGeneral Catalyst وBenchmark وKleiner Perkins.\n\nوذكرت الشركة أن معدل إيراداتها السنوية ارتفع من 492 مليون دولار إلى نحو 900 مليون دولار منذ جولتها السابقة في مايو 2026، ومن عملائها NVIDIA وGE Aerospace وCiti وMercedes-Benz. وفي 25 سبتمبر أعلنت أنها تجاوزت مليار دولار من الإيرادات السنوية.\n\nوإلى جانب التمويل، استعرضت Cognition قدرات أحدث في Devin:\n- Auto-Triage للتحقيق في الأعطال والحوادث.\n- Security Swarm لاكتشاف الثغرات الأمنية وفرزها.\n- Automations لبدء العمل تلقائياً انطلاقاً من أحداث في Slack وGitHub وLinear وأدوات أخرى."
+      },
+      "en": {
+        "title": "Cognition, maker of Devin, raises over $2 billion at a $48 billion valuation",
+        "summary": "Cognition closed a Series E round of more than $2 billion led by Andreessen Horowitz and Accel, valuing the maker of the Devin coding agent at $48 billion as its run-rate revenue neared $900 million.",
+        "details": "Cognition announced on 8 September that it has raised more than $2 billion in a Series E round at a $48 billion valuation. Andreessen Horowitz and Accel led the round, joined by a long list of backers including Founders Fund, General Catalyst, Benchmark and Kleiner Perkins.\n\nThe company said its run-rate revenue grew from $492 million to almost $900 million since its previous raise in May 2026. Customers named in the post include NVIDIA, GE Aerospace, Citi and Mercedes-Benz. On 25 September Cognition added that it had passed $1 billion in annualised revenue run rate.\n\nAlongside the funding, Cognition highlighted newer Devin capabilities:\n- Auto-Triage, which investigates incidents.\n- Security Swarm, which finds and triages vulnerabilities.\n- Automations, which start work from events in Slack, GitHub, Linear and other tools."
+      }
+    },
+    {
+      "id": "kiro-web-cloud-sessions-ga",
+      "date": "2026-09-03",
+      "type": "coding",
+      "importance": 2,
+      "sourceType": "official",
+      "sourceName": "Kiro Blog",
+      "url": "https://kiro.dev/blog/agentic-engineering-in-the-cloud/",
+      "originalTitle": "Agentic engineering in the cloud",
+      "company": "Amazon Web Services",
+      "tool": "Kiro",
+      "ar": {
+        "title": "AWS تتيح Kiro Web وجلسات الوكلاء السحابية للجميع",
+        "summary": "أصبحت الجلسات السحابية في Kiro، التي تتيح لوكلاء البرمجة مواصلة العمل في بيئات سحابية معزولة من المتصفح أو المحرر أو سطر الأوامر أو الهاتف، متاحة رسمياً للخطط المدفوعة دون رسوم منفصلة للحوسبة.",
+        "details": "أعلنت Amazon Web Services في 3 سبتمبر الإتاحة العامة لـKiro Web والجلسات السحابية في أداة البرمجة Kiro، بعد مرحلة معاينة بدأت في أغسطس.\n\nتعمل الجلسات السحابية داخل بيئات معزولة في السحابة، ما يسمح للمطور بتسليم المهمة بعد اكتمال الخطة ومتابعتها لاحقاً من المتصفح أو محرر Kiro أو سطر الأوامر أو الهاتف. كما تنقل ميزة الإعدادات السحابية الجديدة ملفات التوجيه والوكلاء المخصصين والمهارات من البيئة المحلية.\n\n- متاحة ضمن اشتراكات Pro وPro+ وPro Max وPower، دون رسوم منفصلة للحوسبة إذ تُخصم من الأرصدة المضمنة في الخطة.\n- تستطيع تشغيل متصفح عبر Playwright لإعادة إنتاج الأخطاء والتحقق منها، وتنسيق التعديلات بين مستودعات GitHub وGitLab.\n- تدعم الأتمتة للمهام المتكررة مثل تحديث الاعتماديات وفرز البلاغات.\n\nتعمل الخدمة عند الإطلاق في منطقة US East (N. Virginia)، ويمكن للمؤسسات تسجيل الدخول عبر أنظمة الدخول الموحد المعتمدة لديها."
+      },
+      "en": {
+        "title": "AWS makes Kiro Web and cloud agent sessions generally available",
+        "summary": "Kiro's cloud sessions, which let coding agents keep working in cloud sandboxes started from the browser, IDE, CLI or phone, are now generally available on paid plans with no separate charge for compute.",
+        "details": "Amazon Web Services announced on 3 September that Kiro Web and cloud sessions for its Kiro coding tool are generally available, after a preview that began in August.\n\nCloud sessions run in sandboxes in the cloud, so a developer can hand off a task once the plan is ready and pick it up later from the browser, the Kiro IDE, the CLI or mobile. A new cloud configuration option carries over a developer's local steering files, custom agents and skills.\n\n- Included with the Pro, Pro+, Pro Max and Power subscriptions; cloud compute has no separate charge and draws on the plan's existing credits.\n- Can drive a browser with Playwright to reproduce and check bugs, and coordinate changes across GitHub and GitLab repositories.\n- Supports automations for recurring work such as dependency updates and triage.\n\nAt launch the service runs in the US East (N. Virginia) region, and enterprises can sign in through their existing single sign-on."
+      }
+    },
+    {
+      "id": "manus-resumes-independent-operations",
+      "date": "2026-09-01",
+      "type": "business",
+      "importance": 2,
+      "sourceType": "official",
+      "sourceName": "Manus Blog",
+      "url": "https://manus.im/blog/manus-resumes-independent-operations",
+      "originalTitle": "Manus Resumes Independent Operations",
+      "company": "Manus",
+      "tool": "Manus",
+      "ar": {
+        "title": "Manus تستأنف عملها كشركة مستقلة بعد انفصالها عن Meta",
+        "summary": "أعلنت Manus المطوّرة لوكيل الذكاء الاصطناعي عودتها رسمياً إلى العمل المستقل بقيادة فريقها المؤسس، بعد عملية نسخ احتياطي وحذف للبيانات في أغسطس مرتبطة بانفصالها عن Meta.",
+        "details": "أعلنت Manus، المطوّرة لوكيل ذكاء اصطناعي متعدد الاستخدامات، في 1 سبتمبر أنها استأنفت رسمياً عملها كشركة مستقلة، مع استمرار فريقها المؤسس في قيادتها. ووصفت نفسها بأنها مختبر مستقل للوكلاء، ووعدت بتكامل أعمق مع سير العمل ووكلاء أكثر مبادرة.\n\nوجاءت الخطوة بعد إشعار نشرته الشركة في 11 أغسطس أوضحت فيه أنها مضطرة، في إطار انفصالها عن Meta وللالتزام بمتطلبات تنظيمية في بعض الدول، إلى حذف بيانات بعض المستخدمين التي أُنشئت في 29 ديسمبر 2025 أو بعده.\n\n- أُتيح للمستخدمين المتأثرين نسخ بياناتهم احتياطياً حتى 23 أغسطس بتوقيت سنغافورة.\n- جرى الحذف يومي 23 و24 أغسطس، وفُتح باب الاستعادة من النسخ الاحتياطية في 25 أغسطس.\n- تؤكد Manus أنه لا يوجد موعد نهائي لاستعادة البيانات المحفوظة.\n\nولم يكن على المستخدمين غير المتأثرين اتخاذ أي إجراء."
+      },
+      "en": {
+        "title": "Manus formally resumes independent operations after separating from Meta",
+        "summary": "AI agent developer Manus says it is operating independently again under its founding team, following a data backup and deletion process in August that was tied to its separation from Meta.",
+        "details": "Manus, the developer of a general-purpose AI agent, announced on 1 September that it has formally resumed independent operations, with its founding team continuing to lead the company. It described itself as an independent agent lab and promised deeper workflow integration and more proactive agents.\n\nThe step follows an 11 August notice in which Manus said that, as part of its separation from Meta and to meet regulatory requirements in certain jurisdictions, it had to delete some users' data created on or after 29 December 2025.\n\n- Affected users could back up their data until 23 August (Singapore time).\n- Deletion took place on 23-24 August, and restoring from backups opened on 25 August.\n- Manus says there is no deadline for restoring backed-up data.\n\nUsers who were not affected did not need to take any action."
+      }
+    },
+    {
+      "id": "github-copilot-billing-policy-changes",
+      "date": "2026-08-28",
+      "type": "business",
+      "importance": 2,
+      "sourceType": "official",
+      "sourceName": "GitHub Changelog",
+      "url": "https://github.blog/changelog/2026-08-28-upcoming-changes-to-github-copilot-policies-and-billing/",
+      "originalTitle": "Upcoming changes to GitHub Copilot policies and billing",
+      "company": "GitHub",
+      "tool": "GitHub Copilot",
+      "ar": {
+        "title": "GitHub تعيد فتح اشتراكات Copilot Business وتنتقل إلى الدفع المسبق للمقاعد",
+        "summary": "أعادت GitHub في 1 سبتمبر فتح الاشتراك الذاتي في Copilot Business وEnterprise عبر البطاقة أو PayPal، ومن 1 أكتوبر يدفع العملاء الحاليون ثمن كل مقعد مسبقاً في بداية دورة الفوترة، دون تغيير في الأسعار.",
+        "details": "أعلنت GitHub في 28 أغسطس حزمة تغييرات في طريقة بيع خدمة Copilot وإدارتها.\n\n- اعتباراً من 1 سبتمبر، يمكن للعملاء الجدد الاشتراك مجدداً في Copilot Business وCopilot Enterprise باستخدام بطاقة ائتمان أو PayPal.\n- اعتباراً من 1 أكتوبر، يُحاسَب العملاء الحاليون عن كل مقعد مسبقاً في بداية كل دورة فوترة قبل منح الوصول، مع رسوم إضافية إذا تجاوز الاستخدام الحصة المضمنة.\n- إلغاء مقعد خلال الدورة لا يترتب عليه استرداد ويسري من الدورة التالية، بينما تُحتسب المقاعد المضافة خلال الدورة بالتناسب.\n\nوأكدت GitHub أن الأسعار المعلنة لن تتغير. كما حدد الإعلان نفسه تغييرات في السياسات تبدأ من 28 سبتمبر، منها تجربة Copilot موحدة على الموقع وتطبيق الهاتف، وإعداد افتراضي أعمق لمراجعة الشيفرة في Copilot."
+      },
+      "en": {
+        "title": "GitHub reopens Copilot Business signups and moves seats to upfront billing",
+        "summary": "GitHub reopened self-serve Copilot Business and Enterprise signups by card or PayPal on 1 September, and from 1 October existing customers pay for each seat upfront at the start of every billing cycle. Prices are unchanged.",
+        "details": "GitHub announced on 28 August a set of changes to how Copilot is sold and governed.\n\n- From 1 September, new customers can again sign up for Copilot Business and Copilot Enterprise with a credit card or PayPal.\n- From 1 October, existing customers are charged per seat upfront at the start of each billing cycle, before access is granted; extra charges apply if usage goes beyond the included allowance.\n- Removing a seat brings no refund and takes effect from the next cycle, while seats added mid-cycle stay prorated.\n\nGitHub stressed that list prices are not changing. The same announcement also sets policy changes from 28 September, including a single Copilot experience on github.com and mobile and a deeper default level for Copilot code review."
+      }
+    },
+    {
+      "id": "perplexity-portable-computer-local-agent",
+      "date": "2026-08-25",
+      "type": "product",
+      "importance": 2,
+      "sourceType": "official",
+      "sourceName": "Perplexity Blog",
+      "url": "https://www.perplexity.ai/hub/blog/introducing-portable-computer-for-local-first-ai",
+      "originalTitle": "Introducing Portable Computer for local-first AI",
+      "company": "Perplexity",
+      "tool": "Perplexity Computer",
+      "ar": {
+        "title": "Perplexity تطلق Portable Computer نسخة محلية من وكيلها الذكي",
+        "summary": "يشغّل Portable Computer من Perplexity وكيل Computer على أجهزة المستخدم نفسه، بدءاً بجهاز DGX Spark من NVIDIA وحواسيب Linux المزودة ببطاقات RTX، فتبقى الملفات على الجهاز ولا تستهلك المهام المحلية أي أرصدة.",
+        "details": "أطلقت Perplexity في 25 أغسطس خدمة Portable Computer، وهي نسخة من وكيلها Perplexity Computer تعمل على أجهزة يملكها المستخدم. وطُورت الخدمة بالتعاون مع NVIDIA، وتبدأ بجهاز الذكاء الاصطناعي المكتبي DGX Spark وحواسيب Linux المزودة ببطاقات رسوميات NVIDIA RTX.\n\nتبدأ المهام على الجهاز افتراضياً، ويطلب الوكيل الإذن قبل إرسال أي خطوة إلى نموذج سحابي أقوى. ولا يستهلك العمل المنفذ محلياً أي أرصدة فوترة، وتبقى ملفات المستخدم على جهازه.\n\n- متاحة لمشتركي Pro وMax وEnterprise Pro وEnterprise Max.\n- تعمل بنماذج مفتوحة الأوزان بحجم نحو 27 مليار معامل، من بينها PPLX 27B الذي عدّلته Perplexity لبيئة الوكيل الخاصة بها.\n- نشرت الشركة لاحقاً نسخة لنظام Windows، وأضافت في 24 سبتمبر دعم حواسيب AMD Ryzen AI Max."
+      },
+      "en": {
+        "title": "Perplexity launches Portable Computer, a local-first version of its AI agent",
+        "summary": "Perplexity's Portable Computer runs its Computer agent on the user's own hardware, starting with NVIDIA's DGX Spark and Linux PCs with RTX graphics cards, so files stay on the device and local tasks use no credits.",
+        "details": "Perplexity introduced Portable Computer on 25 August, a version of its Perplexity Computer agent that runs on hardware the user already owns. It was built with NVIDIA, starting with the DGX Spark desktop AI computer and Linux machines with NVIDIA RTX graphics cards.\n\nTasks start on the device by default, and the agent asks for permission before sending an individual step to a more powerful cloud model. Work that stays local does not consume billing credits, and the user's files remain on the machine.\n\n- Available to Pro, Max, Enterprise Pro and Enterprise Max subscribers.\n- Runs open-weight models of about 27 billion parameters, including PPLX 27B, which Perplexity tuned for its own agent harness.\n- Perplexity has since released a Windows version and, on 24 September, added support for AMD Ryzen AI Max PCs."
+      }
+    },
+    {
+      "id": "jetbrains-junie-local-free-mac",
+      "date": "2026-08-24",
+      "type": "coding",
+      "importance": 2,
+      "sourceType": "official",
+      "sourceName": "JetBrains Blog",
+      "url": "https://blog.jetbrains.com/junie/2026/08/junie-local-launch/",
+      "originalTitle": "Junie Can Now Run Entirely on Your Mac – No Credits, No Cloud",
+      "company": "JetBrains",
+      "tool": "Junie",
+      "ar": {
+        "title": "JetBrains تطلق Junie Local وكيل برمجة مجانياً يعمل بالكامل على Mac",
+        "summary": "يشغّل Junie Local وكيل البرمجة من JetBrains بالكامل على جهاز Mac باستخدام نموذج مفتوح معدّل، فلا تغادر الشيفرة الجهاز ولا تُستهلك أي أرصدة. الخدمة مجانية لكنها تتطلب Mac بمعالج M5 وذاكرة 64 غيغابايت.",
+        "details": "أطلقت JetBrains في 24 أغسطس وضع Junie Local لوكيل البرمجة Junie، والذي يعمل بالكامل على الجهاز. ويكفي كتابة الأمر /local داخل Junie لتنزيل النموذج وتشغيل خادم محلي وتحويل الوكيل إليه دون إعدادات يدوية.\n\n- النموذج: نسخة مضغوطة بدقة 4 بت من Qwen 3.6 27B اختارتها JetBrains وعدّلتها لحلقة عمل الوكيل، بحجم تنزيل يقارب 20 غيغابايت.\n- العتاد: جهاز Mac بمعالج Apple M5 وذاكرة 64 غيغابايت، إذ تفتقر معالجات M4 إلى تعليمات يعتمد عليها التشغيل.\n- التكلفة: مجاني دون رموز أو حصص أو اشتراك أو بيانات بطاقة.\n\nولأن شيئاً لا يُرسل إلى السحابة بعد تنزيل النموذج، يناسب هذا الخيار المطورين الملتزمين بقواعد خصوصية صارمة. وتقول JetBrains إن نتائجه في اختباراتها الداخلية تقارب Claude Sonnet 4.5، وإنها تعمل على خفض متطلبات العتاد. وأضاف تحديث في سبتمبر نموذجاً أسرع ودعماً تجريبياً لحواسيب Windows ذات بطاقات NVIDIA RTX."
+      },
+      "en": {
+        "title": "JetBrains launches Junie Local, a free coding agent that runs fully on a Mac",
+        "summary": "Junie Local runs JetBrains' coding agent entirely on the user's Mac with a tuned open model, so code never leaves the machine and no credits are used. It is free but needs an M5 Mac with 64 GB of RAM.",
+        "details": "JetBrains released Junie Local on 24 August, a mode of its Junie coding agent that works fully on-device. Typing /local inside Junie downloads the model, starts a local server and switches the agent over, with no manual setup.\n\n- Model: a 4-bit version of Qwen 3.6 27B, chosen and tuned for Junie's agent loop, about a 20 GB download.\n- Hardware: an Apple M5 Mac with 64 GB of RAM; JetBrains says M4 chips lack instructions the setup relies on.\n- Cost: free, with no tokens, quota, subscription or card details required.\n\nBecause nothing goes to the cloud once the model is downloaded, the option suits developers with strict privacy rules. JetBrains says results on its internal tests are comparable to Claude Sonnet 4.5, and it is working to lower the hardware bar. A September update added a faster model and experimental support for Windows PCs with NVIDIA RTX cards."
+      }
+    },
+    {
+      "id": "google-ask-gemini-in-chat",
+      "date": "2026-08-19",
+      "type": "product",
+      "importance": 2,
+      "sourceType": "official",
+      "sourceName": "Google Workspace Updates Blog",
+      "url": "https://workspaceupdates.googleblog.com/2026/08/ask-gemini-in-chat.html",
+      "originalTitle": "Introducing Ask Gemini in Chat: your new partner in productivity",
+      "company": "Google",
+      "tool": "Gemini in Google Workspace",
+      "ar": {
+        "title": "Google تضيف أداة Ask Gemini إلى Google Chat لمستخدمي Workspace",
+        "summary": "تحوّل أداة Ask Gemini in Chat تطبيق Google Chat إلى سطر أوامر للعمل، إذ تبحث في Gmail وDrive وCalendar وتلخص المحادثات وتكتب الرسائل وتحدد الاجتماعات. بدأ الطرح في 26 أغسطس بالإنجليزية أولاً.",
+        "details": "أعلنت Google في 19 أغسطس عن Ask Gemini in Chat، وهي طريقة جديدة لاستخدام Gemini مباشرة داخل Google Chat، مدعومة بما تسميه Workspace Intelligence.\n\n- تبحث عن المعلومات في Gmail وDrive وCalendar.\n- تلخص المحادثات الجارية وتكتب مسودات الرسائل.\n- تحدد مواعيد الاجتماعات وتدير المهام ويمكنها توليد الصور.\n- تحتفظ بجلسات منفصلة لكل موضوع.\n\nبدأ الطرح في 26 أغسطس وقد يستغرق حتى 15 يوماً ليشمل الجميع، ويغطي إصدارات Business Standard وPlus وEnterprise Standard وPlus وGoogle AI Pro for Education. وتقتصر الأداة عند الإطلاق على الحسابات باللغة الإنجليزية مع وعد بإضافة لغات أخرى لاحقاً، ما يعني أن مستخدمي العربية سينتظرون.\n\nوستُزال لوحة Gemini الجانبية الحالية في Chat مع إمكانية تصدير سجل المحادثات، فيما يستمر الوصول الترويجي بحدود استخدام أعلى حتى 1 أكتوبر 2026."
+      },
+      "en": {
+        "title": "Google brings an 'Ask Gemini' command bar into Google Chat",
+        "summary": "Ask Gemini in Chat turns Google Chat into a command line for work: it searches Gmail, Drive and Calendar, summarises conversations, drafts messages and schedules meetings. Rollout began on 26 August, in English first.",
+        "details": "Google announced Ask Gemini in Chat on 19 August, a new way to use Gemini directly inside Google Chat, powered by what Google calls Workspace Intelligence.\n\n- Finds information across Gmail, Drive and Calendar.\n- Summarises ongoing conversations and drafts messages.\n- Schedules meetings, manages tasks and can generate images.\n- Keeps separate sessions for different topics.\n\nThe rollout started on 26 August and could take up to 15 days to reach everyone. It covers Business Standard and Plus, Enterprise Standard and Plus, and Google AI Pro for Education. At launch it works only for English-language accounts, with more languages promised later, so Arabic-language users will have to wait.\n\nThe existing Gemini side panel in Chat is being removed, and users can export their conversation history. Promotional access with higher usage limits runs until 1 October 2026."
+      }
+    },
+    {
+      "id": "replit-free-mode-gpt-5-6-luna",
+      "date": "2026-08-18",
+      "type": "business",
+      "importance": 2,
+      "sourceType": "official",
+      "sourceName": "Replit Blog",
+      "url": "https://replit.com/blog/replit-introduces-free-mode",
+      "originalTitle": "Replit Introduces Free Mode",
+      "company": "Replit",
+      "tool": "Replit Agent",
+      "ar": {
+        "title": "Replit تضيف وضع Free Mode لتنفيذ مهام Agent اليومية دون استهلاك الأرصدة",
+        "summary": "يتيح وضع Free Mode الجديد في Replit، المعتمد على نموذج GPT-5.6 Luna من OpenAI، للمشتركين في الخطط المدفوعة المحادثة والتخطيط وتنفيذ المهام اليومية دون استهلاك أرصدتهم الشهرية، ضمن حدود تتجدد كل خمس ساعات.",
+        "details": "قدّمت Replit في 18 أغسطس وضع Free Mode الجديد في Replit Agent، والذي يعمل بنموذج GPT-5.6 Luna منخفض التكلفة من OpenAI. ورغم اسمه، فهو ميزة للمشتركين في الخطط المدفوعة وليس خطة مجانية جديدة.\n\n- لم تعد المهام اليومية مثل المحادثة والعصف الذهني والتعديلات الروتينية تستهلك الأرصدة الشهرية.\n- تتجدد حدود الاستخدام كل خمس ساعات؛ ويستطيع مشتركو Core (20 دولاراً شهرياً) إنجاز ما يصل إلى 30 ضعف ما كانوا ينجزونه سابقاً مع ما يصل إلى 30 ساعة محادثة شهرياً، بينما يحصل مشتركو Pro على حدود أعلى.\n- تبقى المهام الأثقل أو الأعلى قيمة ضمن وضعي Power وMax اللذين يستهلكان الأرصدة ويستخدمان نماذج أقوى.\n\nوتتوفر الميزة لمستخدمي Core وPro فور تسجيل الدخول إلى Replit."
+      },
+      "en": {
+        "title": "Replit adds Free Mode so everyday Agent tasks no longer use credits",
+        "summary": "Replit's new Free Mode, powered by OpenAI's GPT-5.6 Luna, lets paying subscribers chat, plan and run everyday Agent tasks without spending monthly credits, within limits that reset every five hours.",
+        "details": "Replit introduced Free Mode on 18 August, a new mode in Replit Agent that runs on OpenAI's low-cost GPT-5.6 Luna model. Despite the name, it is a benefit for paying subscribers rather than a new free plan.\n\n- Everyday work such as chatting, brainstorming and routine edits no longer draws on monthly credits.\n- Usage limits reset every five hours; Core subscribers ($20 a month) can build up to 30 times more than before and get up to 30 hours of chat a month, while Pro subscribers get higher limits.\n- Heavier or high-value jobs still run in Power Mode or Max Mode, which consume credits and use stronger models.\n\nThe feature is available to Core and Pro users as soon as they sign in to Replit."
+      }
+    },
+    {
+      "id": "claude-code-design-research-preview",
+      "date": "2026-08-17",
+      "type": "coding",
+      "importance": 2,
+      "sourceType": "official",
+      "sourceName": "Claude Code Docs: What's new",
+      "url": "https://code.claude.com/docs/en/whats-new/2026-w34",
+      "originalTitle": "Week 34 · August 17–21, 2026",
+      "company": "Anthropic",
+      "tool": "Claude Code",
+      "ar": {
+        "title": "Claude Code يضيف الأمر /design لرسم نماذج واجهات قابلة للتعديل قبل كتابة الشيفرة",
+        "summary": "أضافت Anthropic الأمر /design إلى Claude Code كمعاينة بحثية، إذ يحوّل الوصف إلى لوحة من نماذج الواجهات القابلة للتعديل، ليختار المستخدم أحدها ويعدّله ثم يتولى Claude بناءه.",
+        "details": "أطلقت Anthropic في 17 أغسطس الأمر /design في Claude Code بصيغة معاينة بحثية، وهو ينقل أسلوب لوحات التصميم في Claude Design إلى أداة سطر الأوامر وتطبيق Claude Code لسطح المكتب.\n\nيصف المستخدم الشاشة المطلوبة أو يشارك لقطة شاشة أو تصميماً قائماً، فينشر Claude لوحة تضم عدة نماذج قابلة للتعديل، ثم يختار المستخدم أحدها ويعدّله ليكتب Claude الشيفرة اللازمة لتنفيذه. ولأن الناتج ملف تصميم حقيقي وليس صورة، يمكن لمستخدمي خطط Team وEnterprise منح زملائهم صلاحية التعديل عليه.\n\n- متاح في خطط Pro وMax وTeam وEnterprise، ويتطلب الإصدار 2.1.234 أو أحدث.\n- أضاف الأسبوع نفسه نمط إخراج Concise الذي يبدأ بالنتيجة مباشرة دون مقدمات.\n- خرجت ميزة Remote Control من مرحلة المعاينة، وبات الحاسوب الذي يشغّلها يظهر كبطاقة جهاز في تطبيق Claude على الهاتف."
+      },
+      "en": {
+        "title": "Claude Code adds /design to draft editable UI mockups before writing code",
+        "summary": "Anthropic added a /design command to Claude Code as a research preview: it turns a brief into a canvas of editable interface mockups, lets the user pick and adjust one, then has Claude build it.",
+        "details": "Anthropic released /design for Claude Code on 17 August as a research preview. It brings the artboard workflow of Claude Design into the command-line tool and the Claude Code desktop app.\n\nThe user describes a screen, shares a screenshot or points to an existing design. Claude publishes a canvas with several editable mockups; the user chooses and tweaks one, and Claude then writes the code for it. Because the result is a real design file rather than an image, Team and Enterprise users can give colleagues edit access.\n\n- Available on Pro, Max, Team and Enterprise plans; requires Claude Code 2.1.234 or later.\n- The same week added a Concise output style that gives the result first, without preamble.\n- Remote Control left research preview, and a computer running it now appears as a device card in the Claude mobile app."
+      }
+    },
+    {
+      "id": "spacex-completes-cursor-acquisition",
+      "date": "2026-08-14",
+      "type": "business",
+      "importance": 3,
+      "sourceType": "official",
+      "sourceName": "Cursor Blog",
+      "url": "https://cursor.com/blog/joining-spacex",
+      "originalTitle": "Cursor is now a part of SpaceX",
+      "company": "Anysphere",
+      "tool": "Cursor",
+      "ar": {
+        "title": "SpaceX تستكمل الاستحواذ على Anysphere مطوّرة Cursor",
+        "summary": "أعلنت Cursor في 14 أغسطس انضمامها رسمياً إلى SpaceX، لتكتمل عملية بدأت بشراكة لتدريب النماذج في أبريل، ووعدت بنماذج أقوى بتكلفة أقل بفضل أسطول وحدات GPU لدى SpaceX.",
+        "details": "أعلنت Cursor في 14 أغسطس أنها أصبحت رسمياً جزءاً من SpaceX، لتكتمل عملية بدأت في أبريل حين أعلنت الشركتان شراكة لتسريع تدريب نماذج الذكاء الاصطناعي.\n\nوقالت Cursor، التي تطورها شركة Anysphere، إن الصفقة تمنحها الوصول إلى ما وصفته بأكبر أسطول من وحدات معالجة الرسوميات في العالم، وتتوقع أن ينعكس ذلك على المستخدمين في صورة نماذج أقوى بتكلفة أقل، مستشهدة بإصدار Grok 4.6 الأخير مثالاً على ذلك.\n\n- تبقى خطوط المنتجات كما هي: المحرر والوكلاء والوكلاء السحابيون وأداة سطر الأوامر والمتجر.\n- تؤكد الشركة أن مهمتها لم تتغير، وهي تمكين المطورين من قضاء وقت أقل في كتابة الشيفرة ووقت أطول في حل المشكلات الصعبة.\n- لم يتضمن إعلان Cursor تفاصيل مالية أو تغييرات في الأسعار.\n\nوبعد ثلاثة أيام، أطلقت Cursor خدمة Origin لاستضافة مستودعات الشيفرة."
+      },
+      "en": {
+        "title": "SpaceX completes its acquisition of Cursor maker Anysphere",
+        "summary": "Cursor announced on 14 August that it is now part of SpaceX, completing a process that began with a model-training partnership in April. It promises more capable models at lower cost using SpaceX's GPU fleet.",
+        "details": "Cursor said on 14 August that it has officially become part of SpaceX, closing a process that started in April when the two companies announced a partnership to speed up the training of AI models.\n\nCursor, which is developed by Anysphere, said the deal gives it access to what it described as the largest fleet of GPUs in the world. It expects this to mean more capable models at lower cost for users, pointing to the recent Grok 4.6 release as an early example.\n\n- The product lines stay in place: the editor and agents, cloud agents, the CLI and the marketplace.\n- The company says its mission is unchanged: letting developers spend less time writing code and more time on hard problems.\n- Cursor's post did not detail financial terms or any pricing changes.\n\nThree days later, Cursor launched Origin, its own hosting service for code repositories."
+      }
+    },
+    {
+      "id": "lovable-series-c-400m",
+      "date": "2026-08-12",
+      "type": "business",
+      "importance": 2,
+      "sourceType": "official",
+      "sourceName": "Lovable Blog",
+      "url": "https://lovable.dev/blog/series-c",
+      "originalTitle": "We just raised $400M in Series C funding to help people run their businesses",
+      "company": "Lovable",
+      "tool": "Lovable",
+      "ar": {
+        "title": "Lovable تجمع 400 مليون دولار بتقييم 13.3 مليار دولار",
+        "summary": "جمعت منصة بناء التطبيقات السويدية Lovable تمويلاً من الفئة C بقيمة 400 مليون دولار بقيادة Menlo Ventures وصندوق Scaleup Europe التابع لـEQT، بتقييم 13.3 مليار دولار، فيما تجاوز عدد المشاريع المنشأة عليها 60 مليوناً.",
+        "details": "أعلنت Lovable، المنصة التي تتخذ من ستوكهولم مقراً لها وتبني التطبيقات انطلاقاً من أوامر بلغة عادية، في 12 أغسطس عن جولة تمويل من الفئة C بقيمة 400 مليون دولار بتقييم 13.3 مليار دولار.\n\nقادت الجولة Menlo Ventures، وشارك في قيادتها صندوق Scaleup Europe الذي تديره EQT. ومن المستثمرين الجدد Balderton Capital وTencent وKaszek، إلى جانب مستثمرين سابقين مثل Accel وCapitalG وDST Global وSalesforce Ventures.\n\n- أكثر من 60 مليون مشروع منذ إطلاق المنصة في نوفمبر 2024.\n- تستقبل التطبيقات المبنية على Lovable أكثر من 900 مليون زيارة شهرياً.\n- وصلت المنصة إلى نحو ثلثي شركات Fortune 500، ويبني قرابة 8 من كل 10 مستخدمين مشاريع يخططون لتحقيق دخل منها.\n\nوتعتزم الشركة إنفاق التمويل على المنتج والبنية التحتية والتوظيف ليصل فريقها إلى نحو 450 موظفاً، مع التوسع في لندن وبوسطن وسان فرانسيسكو ونيويورك والإبقاء على مقرها في ستوكهولم."
+      },
+      "en": {
+        "title": "Lovable raises $400 million at a $13.3 billion valuation",
+        "summary": "Swedish app-building platform Lovable raised a $400 million Series C led by Menlo Ventures and EQT's Scaleup Europe Fund, valuing it at $13.3 billion. Users have created more than 60 million projects on it.",
+        "details": "Lovable, the Stockholm-based platform that builds apps from plain-language prompts, announced on 12 August a $400 million Series C round at a $13.3 billion valuation.\n\nMenlo Ventures led the round, with the Scaleup Europe Fund managed by EQT as co-lead. New investors include Balderton Capital, Tencent and Kaszek, alongside returning backers such as Accel, CapitalG, DST Global and Salesforce Ventures.\n\n- More than 60 million projects created since the platform launched in November 2024.\n- Apps built on Lovable receive more than 900 million visits a month.\n- It has reached nearly two-thirds of Fortune 500 companies, and about 8 in 10 users build projects they plan to earn money from.\n\nThe company plans to spend the money on product, infrastructure and hiring, growing to about 450 staff and expanding in London, Boston, San Francisco and New York while keeping its headquarters in Stockholm."
+      }
+    },
+    {
+      "id": "mcp-spec-2026-07-28-stateless",
+      "date": "2026-07-28",
+      "type": "product",
+      "importance": 2,
+      "sourceType": "official",
+      "sourceName": "Model Context Protocol Blog",
+      "url": "https://blog.modelcontextprotocol.io/posts/2026-07-28/",
+      "originalTitle": "The 2026-07-28 Specification",
+      "company": "Agentic AI Foundation",
+      "tool": "Model Context Protocol",
+      "ar": {
+        "title": "مواصفة MCP الجديدة تجعل بروتوكول الوكلاء عديم الحالة وأسهل في التوسع",
+        "summary": "صدرت نسخة 2026-07-28 من Model Context Protocol، المعيار الذي يربط المساعدات الذكية بالأدوات والبيانات، متخلية عن الجلسات لصالح تصميم عديم الحالة، مع تشديد التفويض واعتماد إطار رسمي للإضافات.",
+        "details": "نشر القائمون على Model Context Protocol (MCP)، المعيار المفتوح الذي تعتمد عليه مساعدات ذكاء اصطناعي ووكلاء برمجة كثيرون للاتصال بالأدوات والبيانات، النسخة 2026-07-28 من المواصفة في 28 يوليو.\n\n- نواة عديمة الحالة: أُلغيت مصافحة بدء الجلسة ومعرّفها، فيمكن تشغيل خوادم MCP خلف موزعات أحمال عادية وتوسيعها دون تخزين مشترك.\n- طلبات متعددة الجولات: يستطيع الخادم طلب معلومات ناقصة، فيعيد العميل إرسال الطلب مع الإجابة.\n- ترويسات HTTP جديدة تكشف اسم العملية والأداة، ما يسهّل على البوابات وجدران الحماية توجيه الحركة وقياسها.\n- تخزين نتائج القوائم مؤقتاً، وتشديد التفويض، وتحويل ميزات مثل Tasks إلى إضافات رسمية.\n\nوتدعم حزم التطوير الرسمية للغات TypeScript وPython وGo وC# هذه النسخة، مع دعم تجريبي لـRust. ويقول المشروع إن حزمه الرئيسية تُنزّل نحو 500 مليون مرة شهرياً، وإن الميزات القديمة مثل نقل HTTP+SSE ستبقى 12 شهراً على الأقل قبل إزالتها."
+      },
+      "en": {
+        "title": "New MCP specification makes the agent protocol stateless and easier to scale",
+        "summary": "The 2026-07-28 release of the Model Context Protocol, the standard that connects AI assistants to tools and data, drops sessions for a stateless design, hardens authorisation and formalises extensions.",
+        "details": "The maintainers of the Model Context Protocol (MCP), the open standard many AI assistants and coding agents use to connect to tools and data, published the 2026-07-28 version of the specification on 28 July.\n\n- Stateless core: the session handshake and session ID are gone, so MCP servers can sit behind ordinary load balancers and scale out without shared storage.\n- Multi round-trip requests: a server can ask for missing input, and the client simply retries the call with the answer.\n- New HTTP headers expose the method and tool name, so gateways and firewalls can route and meter traffic.\n- Cacheable list results, tighter authorisation, and features such as Tasks recast as formal extensions.\n\nThe official SDKs for TypeScript, Python, Go and C# support the release, with Rust in beta. The project says its main SDKs see about 500 million downloads a month, and older features such as the legacy HTTP+SSE transport get at least 12 months before removal."
+      }
+    },
+    {
+      "id": "lovable-apps-in-chatgpt-claude-mcp",
+      "date": "2026-07-15",
+      "type": "coding",
+      "importance": 1,
+      "sourceType": "official",
+      "sourceName": "Lovable Blog",
+      "url": "https://lovable.dev/blog/agent-integrations",
+      "originalTitle": "Your Lovable app now works inside ChatGPT and Claude",
+      "company": "Lovable",
+      "tool": "Lovable",
+      "ar": {
+        "title": "تطبيقات Lovable أصبحت قابلة للاستخدام من داخل ChatGPT وClaude",
+        "summary": "باتت Lovable تمنح التطبيقات المنشورة خادم MCP خاصاً بها، ليتمكن المستخدمون من مطالبة ChatGPT أو Claude بقراءة البيانات أو تنفيذ مهام داخل التطبيق، مثل تقديم المصروفات، دون فتحه.",
+        "details": "أعلنت Lovable في 15 يوليو أن التطبيقات المبنية على منصتها أصبحت تعمل داخل ChatGPT وClaude من خلال تكاملات للوكلاء تعتمد على بروتوكول Model Context Protocol (MCP).\n\nفعندما يطلب المستخدم من أحد هذين المساعدين تنفيذ مهمة، يتصل المساعد بخادم MCP الخاص بالتطبيق ويقرأ قائمة مكتوبة بلغة عادية لما يستطيع التطبيق فعله، ثم يجلب المعلومات أو ينفذ الإجراءات، مثل تقديم مطالبة مصروفات أو إنشاء عرض سعر أو إعداد تقرير.\n\n- متاحة لأي تطبيق Lovable منشور للعامة، ويكفي أن يطلب صاحبه من Lovable تفعيلها.\n- تقترح Lovable الإجراءات التي يمكن إتاحتها، ويستطيع صاحب التطبيق تضييق النطاق والصلاحيات.\n- تتطلب الخوادم تسجيل الدخول عبر OAuth افتراضياً، وتخضع لفحص أمني عند النشر.\n- تستضيف Lovable الخادم وتحدّثه تلقائياً مع كل تغيير في التطبيق."
+      },
+      "en": {
+        "title": "Apps built with Lovable can now be used from inside ChatGPT and Claude",
+        "summary": "Lovable now gives published apps their own MCP server, so people can ask ChatGPT or Claude to read data or complete tasks in a Lovable-built app, such as submitting expenses, without opening it.",
+        "details": "Lovable announced on 15 July that apps built on its platform can work inside ChatGPT and Claude through agent integrations based on the Model Context Protocol (MCP).\n\nWhen a user asks one of these assistants to do something, it connects to the app's MCP server and reads a plain-language list of what the app can do. It can then fetch information or carry out actions, for example submitting an expense, creating a quote or producing a report.\n\n- Available for any publicly published Lovable app; the builder asks Lovable to switch it on.\n- Lovable suggests which actions to expose, and the builder can narrow the scope and access.\n- Servers require sign-in through OAuth by default and are security-checked when published.\n- Lovable hosts the server and keeps it in sync as the app changes."
+      }
+    },
+    {
+      "id": "openai-retires-atlas-browser-chatgpt-work",
+      "date": "2026-07-09",
+      "type": "product",
+      "importance": 3,
+      "sourceType": "official",
+      "sourceName": "OpenAI",
+      "url": "https://openai.com/index/chatgpt-for-your-most-ambitious-work/",
+      "originalTitle": "ChatGPT is now a partner for your most ambitious work",
+      "company": "OpenAI",
+      "tool": "ChatGPT Atlas",
+      "ar": {
+        "title": "OpenAI توقف متصفح Atlas وتنقل التصفح الذكي إلى ChatGPT",
+        "summary": "بالتزامن مع إطلاق وكيل ChatGPT Work في 9 يوليو، بدأت OpenAI إيقاف متصفحها المستقل Atlas الذي توقف عن العمل في 9 أغسطس، على أن تنتقل ميزات التصفح بالوكلاء إلى تطبيق ChatGPT لسطح المكتب.",
+        "details": "أعلنت OpenAI في 9 يوليو أنها ستوقف ChatGPT Atlas، متصفح الذكاء الاصطناعي لنظام macOS الذي أطلقته في أكتوبر 2025، ومنحت المستخدمين نحو شهر للانتقال، وقد توقف المتصفح عن العمل في 9 أغسطس 2026.\n\nوجاء الإعلان مع إطلاق ChatGPT Work، وهو وكيل جديد يعمل بتقنيات Codex ونموذج GPT-5.6، يستطيع تنفيذ مهام عبر تطبيقات المستخدم وملفاته ومتابعة المشروع لساعات لإنتاج مستندات وجداول وعروض وتطبيقات ويب مكتملة.\n\n- يضم تطبيق ChatGPT لسطح المكتب متصفحاً أكثر قدرة يدعم تعدد التبويبات وتنزيل الملفات وتسجيل الدخول إلى المواقع.\n- على سطح المكتب، تتيح ميزة Computer Use لـChatGPT تشغيل التطبيقات والمتصفح في الخلفية نيابة عن المستخدم.\n\nونصحت OpenAI مستخدمي Atlas بتصدير الإشارات المرجعية وحفظ الصفحات المهمة قبل موعد الإيقاف."
+      },
+      "en": {
+        "title": "OpenAI retires its Atlas browser and moves agentic browsing into ChatGPT",
+        "summary": "Alongside launching the ChatGPT Work agent on 9 July, OpenAI began winding down its standalone Atlas browser, which stopped working on 9 August. Its agentic browsing moves into the ChatGPT desktop app.",
+        "details": "OpenAI said on 9 July that it would retire ChatGPT Atlas, the AI browser for macOS it launched in October 2025, and gave users about a month to move. Atlas stopped working on 9 August 2026.\n\nThe announcement came with ChatGPT Work, a new agent powered by Codex and GPT-5.6 that can act across a user's apps and files and stay on a project for hours to deliver finished documents, spreadsheets, slides and web apps.\n\n- The ChatGPT desktop app now includes a more capable browser with multiple tabs, downloads and sign-in to websites.\n- On desktop, Computer Use lets ChatGPT operate apps and the browser in the background on the user's behalf.\n\nOpenAI advised Atlas users to export their bookmarks and save important pages before the shutdown date."
+      }
+    },
+    {
+      "id": "github-copilot-app-all-plans",
+      "date": "2026-07-07",
+      "type": "coding",
+      "importance": 2,
+      "sourceType": "official",
+      "sourceName": "GitHub Changelog",
+      "url": "https://github.blog/changelog/2026-07-07-github-copilot-app-available-to-all/",
+      "originalTitle": "GitHub Copilot app available to all",
+      "company": "GitHub",
+      "tool": "GitHub Copilot",
+      "ar": {
+        "title": "تطبيق GitHub Copilot لسطح المكتب متاح لكل الخطط بما فيها المجانية",
+        "summary": "أصبح تطبيق GitHub Copilot لسطح المكتب، المخصص للبرمجة عبر الوكلاء، متاحاً على macOS وWindows وLinux لجميع خطط Copilot، ويمكن تشغيله بمفتاح نموذج خاص دون أي اشتراك.",
+        "details": "أتاحت GitHub في 7 يوليو تطبيق GitHub Copilot للجميع، وهو تطبيق لسطح المكتب يتيح للمطورين تشغيل جلسات برمجة يقودها وكلاء الذكاء الاصطناعي من أجهزتهم بعد تسجيل الدخول بحساب GitHub.\n\n- الأنظمة: macOS وWindows وLinux.\n- الخطط: جميع فئات Copilot، ومنها Copilot Free وGitHub Education وCopilot Business وCopilot Enterprise.\n- استخدام مفتاح خاص: يمكن للمطور ربط مزوّد النماذج الخاص به وتشغيل الجلسات دون اشتراك في Copilot.\n\nولعملاء Business وEnterprise، يجب على مسؤول المؤسسة تفعيل سياسة Copilot CLI أولاً قبل أن يتمكن الأعضاء من استخدام التطبيق. وواصلت GitHub إضافة الميزات منذ الإطلاق، ومنها في 23 سبتمبر معاينة عامة لعزل محلي يحد من وصول الوكيل إلى الملفات والشبكات وبيانات الاعتماد."
+      },
+      "en": {
+        "title": "GitHub Copilot desktop app opens to every plan, including Copilot Free",
+        "summary": "GitHub's Copilot desktop app for agent-driven coding is now available on macOS, Windows and Linux on all Copilot plans, and developers can even run it with their own model key and no subscription.",
+        "details": "GitHub made the GitHub Copilot app available to everyone on 7 July. The desktop application lets developers run agent-driven coding sessions from their own computer after signing in with a GitHub account.\n\n- Platforms: macOS, Windows and Linux.\n- Plans: every Copilot tier, including Copilot Free, GitHub Education, Copilot Business and Copilot Enterprise.\n- Bring your own key: developers can connect their own model provider and run sessions without any Copilot subscription.\n\nFor Business and Enterprise customers, an organisation or enterprise administrator must first enable the Copilot CLI policy before members can use the app. GitHub has kept adding features since, including, on 23 September, a public preview of local sandboxing that limits an agent's access to files, networks and credentials."
+      }
+    },
+    {
+      "id": "notion-3-6-external-agents",
+      "date": "2026-07-01",
+      "type": "product",
+      "importance": 2,
+      "sourceType": "official",
+      "sourceName": "Notion Releases",
+      "url": "https://www.notion.com/releases/2026-07-01",
+      "originalTitle": "Notion 3.6: External Agents, HTML blocks, and more",
+      "company": "Notion Labs",
+      "tool": "Notion AI",
+      "ar": {
+        "title": "Notion 3.6 يتيح إسناد المهام إلى وكلاء Claude وCursor من داخل Notion",
+        "summary": "يضيف إصدار Notion 3.6 ميزة External Agents التي تتيح للفرق الإشارة إلى وكلاء مثل Claude وCursor وإسناد المهام إليهم من اللوحات المشتركة، إلى جانب كتل HTML تفاعلية ودعم ملفات Office.",
+        "details": "أطلقت Notion في 1 يوليو الإصدار 3.6 الذي يركز على وكلاء الذكاء الاصطناعي.\n\n- الوكلاء الخارجيون: يمكن إدخال وكلاء من خارج Notion مثل Claude وCursor، ليشير إليهم أعضاء الفريق ويسندوا إليهم المهام من اللوحات المشتركة كأي زميل.\n- كتل HTML تفاعلية: يستطيع الوكلاء بناء أدوات مدمجة داخل الصفحات، مثل حاسبة للعائد على الاستثمار أو اختبار قصير أو هيكل تنظيمي.\n- دعم Microsoft: أصبح بإمكان وكلاء Notion قراءة ملفات Word وExcel وPowerPoint وكتابتها، والتعامل مع بريد Outlook وتقويمه.\n- خمسة اتصالات MCP جديدة للوكلاء المخصصين: Mercury وMixpanel وMiro وBox وClickHouse.\n- نماذج إضافية منها Opus 4.8 وGrok 4.3 وGLM 5.2، وسجلات تدقيق لإجراءات الوكلاء في خطط Enterprise.\n\nكما تحسّن تمييز المتحدثين في ملاحظات الاجتماعات. وأتبعت Notion ذلك بالإصدار 3.7 في 15 سبتمبر، الذي أضاف مكتبة مهارات مشتركة للفرق ونسخة تجريبية عامة من Agent SDK."
+      },
+      "en": {
+        "title": "Notion 3.6 lets teams assign work to Claude and Cursor agents inside Notion",
+        "summary": "Notion 3.6 adds External Agents, so teams can @-mention and assign tasks to agents such as Claude and Cursor from shared boards, plus interactive HTML blocks and Office file support for Notion's own agents.",
+        "details": "Notion released version 3.6 on 1 July, focused on AI agents.\n\n- External Agents: outside agents such as Claude and Cursor can be brought into Notion, where teammates @-mention them and assign tasks from shared boards like any colleague.\n- Interactive HTML blocks: agents can build embedded tools inside pages, such as an ROI calculator, a quiz or an org chart.\n- Microsoft support: Notion's agents can read and write Word, Excel and PowerPoint files and work with Outlook mail and calendar.\n- Five new MCP connections for Custom Agents: Mercury, Mixpanel, Miro, Box and ClickHouse.\n- More models, including Opus 4.8, Grok 4.3 and GLM 5.2, plus audit logs of Custom Agent actions on Enterprise plans.\n\nAI meeting notes also got better speaker identification. Notion followed up with version 3.7 on 15 September, adding a shared Skills library for teams and a public beta of its Agent SDK."
+      }
+    },
+    {
+      "id": "cursor-ios-app-public-beta",
+      "date": "2026-06-29",
+      "type": "coding",
+      "importance": 2,
+      "sourceType": "official",
+      "sourceName": "Cursor Changelog",
+      "url": "https://cursor.com/changelog/ios-mobile-app",
+      "originalTitle": "Cursor Mobile App for iOS",
+      "company": "Anysphere",
+      "tool": "Cursor",
+      "ar": {
+        "title": "Cursor تطلق تطبيقاً لـiPhone لتشغيل وكلاء البرمجة وتوجيههم أثناء التنقل",
+        "summary": "يتيح تطبيق Cursor لنظام iOS، المتاح بنسخة تجريبية عامة لجميع الخطط المدفوعة، تشغيل الوكلاء السحابيين بالصوت أو الكتابة، والتحكم عن بُعد بالوكلاء العاملين على الحاسوب، ومراجعة طلبات الدمج ودمجها من الهاتف.",
+        "details": "أطلقت Cursor في 29 يونيو تطبيقاً لنظام iOS بنسخة تجريبية عامة، متاحاً لجميع الخطط المدفوعة.\n\n- تشغيل الوكلاء السحابيين: اختيار المستودع والنموذج وإطلاق الوكيل كما في تطبيق سطح المكتب، مع دعم الإدخال الصوتي والأوامر المختصرة.\n- التحكم عن بُعد: مواصلة توجيه وكيل يعمل على الحاسوب، مع خيار يُبقي الجهاز مستيقظاً ليظل متاحاً.\n- المتابعة: أنشطة حية على شاشة القفل وإشعارات عند انتهاء الوكيل أو حاجته إلى مدخلات أو جاهزيته للمراجعة.\n- المراجعة: الاطلاع على العروض ولقطات الشاشة والسجلات والتعديلات، ودمج طلبات الدمج من الهاتف.\n\nوفي خطط Teams وEnterprise، يجب على المسؤول تفعيل Remote Control من لوحة تحكم Cursor. وبعد شهر وسّعت Cursor التجربة لتشمل iPad مع واجهة كاملة لمراجعة طلبات الدمج وتقسيم الشاشة والتعليق بقلم Apple Pencil."
+      },
+      "en": {
+        "title": "Cursor releases an iPhone app to launch and steer coding agents on the go",
+        "summary": "Cursor's iOS app, in public beta on all paid plans, lets developers start cloud agents by voice or text, remotely control agents running on their computer, and review and merge pull requests from an iPhone.",
+        "details": "Cursor launched a mobile app for iOS in public beta on 29 June, available on all paid plans.\n\n- Start cloud agents: pick a repository, choose a model and launch an agent as on the desktop, with voice input and slash commands.\n- Remote control: keep directing an agent running on your computer; a setting can keep the machine awake so it stays reachable.\n- Stay informed: Live Activities on the lock screen and push notifications when an agent finishes, needs input or is ready for review.\n- Review work: check demos, screenshots, logs and code changes, and merge pull requests from the phone.\n\nOn Teams and Enterprise plans, an administrator must turn on Remote Control in the Cursor dashboard. A month later Cursor extended the experience to iPad, adding a full pull-request review view, split screen and Apple Pencil markup."
+      }
+    }
+  ],
+  "upcoming": [
+    {
+      "id": "github-copilot-unified-experience-sep-28",
+      "date": "2026-09-28",
+      "endDate": null,
+      "dateConfidence": "expected",
+      "type": "coding",
+      "sourceType": "official",
+      "sourceName": "GitHub Changelog",
+      "url": "https://github.blog/changelog/2026-08-28-upcoming-changes-to-github-copilot-policies-and-billing/",
+      "company": "GitHub",
+      "tool": "GitHub Copilot",
+      "ar": {
+        "title": "GitHub تدمج Copilot Chat والوكيل السحابي في تجربة موحدة",
+        "summary": "اعتباراً من 28 سبتمبر على أقرب تقدير، تعيد GitHub إطلاق Copilot Chat على الموقع وتطبيق الهاتف مع الوكيل السحابي كتجربة موحدة، وتصبح مراجعة الشيفرة في Copilot على مستوى Balanced افتراضياً.",
+        "details": "حددت GitHub مجموعة تغييرات في Copilot لنهاية سبتمبر، أعلنتها في 28 أغسطس.\n\n- تجربة موحدة: يُعاد إطلاق Copilot Chat على github.com وفي تطبيق GitHub Mobile مع الوكيل السحابي Copilot cloud agent كتجربة واحدة بسياسات موحدة ومفعّلة افتراضياً.\n- الاحتفاظ بالبيانات: يُحفظ سجل المحادثات في التجربة الموحدة طوال عمر الحساب بدلاً من 28 يوماً، ومن يختار عدم المشاركة يفقد الوصول إلى Copilot على الويب والهاتف بعد الإطلاق.\n- مراجعة الشيفرة: في 28 سبتمبر يتغير مستوى الجهد الافتراضي لمراجعة الشيفرة في Copilot من Lite إلى Balanced، وعلى من يفضّل Lite اختياره قبل ذلك لتحتفظ GitHub به.\n\nوبشكل منفصل، يتعين اعتباراً من 1 أكتوبر على عملاء Copilot Business وEnterprise الحاليين الذين يدفعون ببطاقة ائتمان أو عبر PayPal سداد قيمة كل مقعد مسبقاً قبل تفعيل وصول المستخدمين، دون تغيير في الأسعار.",
+        "location": "عبر الإنترنت (github.com وتطبيق GitHub Mobile)",
+        "dateNote": "تقول GitHub إن التجربة الموحدة لن تُطلق قبل 28 سبتمبر 2026، بينما يتغير الإعداد الافتراضي لمراجعة الشيفرة في 28 سبتمبر."
+      },
+      "en": {
+        "title": "GitHub to merge Copilot Chat and its cloud agent into one experience",
+        "summary": "From no earlier than 28 September, GitHub will relaunch Copilot Chat on github.com and mobile together with the Copilot cloud agent as one unified experience, and Copilot code review will default to the deeper Balanced level.",
+        "details": "GitHub has scheduled several Copilot changes for the end of September, announced on 28 August.\n\n- Unified experience: Copilot Chat on github.com, Copilot Chat in GitHub Mobile and the Copilot cloud agent will relaunch as a single experience with one set of policies, switched on by default.\n- Data retention: chat history in the unified experience is kept for the life of the account instead of 28 days; opting out means losing Copilot on the web and mobile after the launch.\n- Code review: on 28 September the default Copilot code review effort level changes from Lite to Balanced. Users who prefer Lite should select it before then, and GitHub will keep that choice.\n\nSeparately, from 1 October existing Copilot Business and Enterprise customers who pay by credit card or PayPal must pay for each seat upfront before users get access; prices are not changing.",
+        "location": "Online (github.com and GitHub Mobile)",
+        "dateNote": "GitHub says the unified experience launches no earlier than 28 September 2026; the code review default changes on 28 September."
+      }
+    },
+    {
+      "id": "openai-devday-2026",
+      "date": "2026-09-29",
+      "endDate": null,
+      "dateConfidence": "confirmed",
+      "type": "event",
+      "sourceType": "official",
+      "sourceName": "OpenAI DevDay",
+      "url": "https://devday.openai.com/",
+      "company": "OpenAI",
+      "tool": "",
+      "ar": {
+        "title": "مؤتمر OpenAI DevDay 2026 في سان فرانسيسكو",
+        "summary": "تعقد OpenAI مؤتمرها السنوي للمطورين في 29 سبتمبر في Fort Mason بسان فرانسيسكو، مع بث مجاني للكلمة الافتتاحية عبر الإنترنت، ويترقب المطورون أخباراً عن Codex وأدوات بناء الوكلاء وواجهة البرمجة.",
+        "details": "يُعقد مؤتمر OpenAI DevDay 2026 يوم الثلاثاء 29 سبتمبر في مركز Fort Mason بسان فرانسيسكو.\n\nويتضمن البرنامج عرضاً لما تعمل عليه فرق OpenAI، وجلسات تقنية حول واجهة البرمجة وأدوات المطورين، وعروضاً عملية وورش عمل، إضافة إلى فرص للتواصل بين المطورين. وكان الحضور الشخصي عبر طلبات مسبقة، لكن الكلمة الافتتاحية ستُبث مجاناً عبر الإنترنت، ويمكن التسجيل في موقع المؤتمر لتلقي تذكير قبل بدايتها.\n\nولم تنشر OpenAI جدول إعلاناتها بعد، إلا أن مطوري Codex وواجهة البرمجة يترقبون التحديثات، خاصة بعد أن أضافت الشركة في سبتمبر نموذجي GPT-6 Sol وLuna إلى Codex.",
+        "location": "Fort Mason، سان فرانسيسكو، الولايات المتحدة (بث مباشر للكلمة الافتتاحية)",
+        "dateNote": ""
+      },
+      "en": {
+        "title": "OpenAI DevDay 2026 in San Francisco",
+        "summary": "OpenAI holds its annual developer conference on 29 September at Fort Mason in San Francisco, with the opening keynote streamed free online. Developers are watching for news on Codex, agent tooling and the API.",
+        "details": "OpenAI DevDay 2026 takes place on Tuesday, 29 September, at Fort Mason in San Francisco.\n\nThe programme includes a closer look at what OpenAI teams are building, technical sessions on the API and developer tools, hands-on demos and workshops, and time for developers to network. In-person places were allocated through applications, but the opening keynote will be streamed free online, and viewers can sign up on the DevDay site for a reminder.\n\nOpenAI has not published its list of announcements. Developers who build with Codex and the API will be watching for updates, especially after the company brought its GPT-6 Sol and Luna models to Codex in September.",
+        "location": "Fort Mason, San Francisco, USA (keynote livestreamed)",
+        "dateNote": ""
+      }
+    },
+    {
+      "id": "agntcon-mcpcon-north-america-2026",
+      "date": "2026-10-22",
+      "endDate": "2026-10-23",
+      "dateConfidence": "confirmed",
+      "type": "event",
+      "sourceType": "official",
+      "sourceName": "Agentic AI Foundation",
+      "url": "https://aaif.io/press/agentic-ai-foundation-announces-global-2026-events-program-anchored-by-agntcon-mcpcon-north-america-and-europe/",
+      "company": "Agentic AI Foundation",
+      "tool": "Model Context Protocol",
+      "ar": {
+        "title": "مؤتمر AGNTCon + MCPCon لأمريكا الشمالية في سان خوسيه",
+        "summary": "يُعقد المؤتمر الرئيسي لمؤسسة Agentic AI Foundation حول وكلاء الذكاء الاصطناعي وبروتوكول Model Context Protocol يومي 22 و23 أكتوبر في سان خوسيه بكاليفورنيا، بعد نسخته الأوروبية في أمستردام خلال سبتمبر.",
+        "details": "يُعد AGNTCon + MCPCon لأمريكا الشمالية أحد حدثين رئيسيين تنظمهما مؤسسة Agentic AI Foundation التابعة لـLinux Foundation، والتي تحتضن بروتوكول Model Context Protocol (MCP). ويُعقد المؤتمر يومي 22 و23 أكتوبر 2026 في سان خوسيه بولاية كاليفورنيا.\n\nويجمع المؤتمر الشركات والمطورين الذين يبنون البنية التحتية لوكلاء ذكاء اصطناعي قابلين للتشغيل المشترك وجاهزين للاستخدام الفعلي، ويأتي بعد صدور مواصفة MCP بنسخة 2026-07-28 في يوليو.\n\nويشمل جدول المؤسسة أيضاً قمة MCP Dev Summit في تورونتو يومي 5 و6 أكتوبر، وأخرى في نيروبي يومي 19 و20 نوفمبر، فيما أقيمت النسخة الأوروبية من AGNTCon + MCPCon في أمستردام يومي 17 و18 سبتمبر.",
+        "location": "سان خوسيه، كاليفورنيا، الولايات المتحدة",
+        "dateNote": ""
+      },
+      "en": {
+        "title": "AGNTCon + MCPCon North America comes to San Jose",
+        "summary": "The Agentic AI Foundation's flagship conference on AI agents and the Model Context Protocol takes place on 22-23 October in San Jose, California, following the European edition in Amsterdam in September.",
+        "details": "AGNTCon + MCPCon North America is one of two flagship events run by the Agentic AI Foundation, the Linux Foundation body that hosts the Model Context Protocol (MCP). It is scheduled for 22-23 October 2026 in San Jose, California.\n\nThe conference brings together companies and developers building the infrastructure for interoperable, production-ready AI agents. It follows the release of the 2026-07-28 MCP specification in July.\n\nThe foundation's calendar also includes an MCP Dev Summit in Toronto on 5-6 October and another in Nairobi on 19-20 November. The European edition of AGNTCon + MCPCon took place in Amsterdam on 17-18 September.",
+        "location": "San Jose, California, USA",
+        "dateNote": ""
+      }
+    },
+    {
+      "id": "github-universe-2026",
+      "date": "2026-10-28",
+      "endDate": "2026-10-29",
+      "dateConfidence": "confirmed",
+      "type": "event",
+      "sourceType": "official",
+      "sourceName": "GitHub Universe",
+      "url": "https://githubuniverse.com/",
+      "company": "GitHub",
+      "tool": "GitHub Copilot",
+      "ar": {
+        "title": "مؤتمر GitHub Universe 2026 يعود إلى سان فرانسيسكو",
+        "summary": "يُعقد مؤتمر GitHub السنوي للمطورين يومي 28 و29 أكتوبر في مركز Fort Mason بسان فرانسيسكو، مع حضور افتراضي مجاني للكلمات الرئيسية، وعادة ما تكشف فيه GitHub عن أبرز تحديثات Copilot.",
+        "details": "يُعقد GitHub Universe 2026 يومي 28 و29 أكتوبر في مركز Fort Mason بسان فرانسيسكو، مع يوم تعليمي إضافي في مقر GitHub في 30 أكتوبر.\n\n- تبلغ تذكرة الحضور الشخصي 1,399 دولاراً، وتذكرة المجموعات 1,119 دولاراً عند شراء أربع تذاكر أو أكثر.\n- الحضور الافتراضي مجاني ويشمل البث المباشر للكلمات الرئيسية والجلسات عند الطلب.\n- تشمل الإضافات ورش عمل بسعر 99 دولاراً وقسيمة شهادة GitHub بسعر 30 دولاراً.\n\nويتمحور البرنامج حول إطلاق المنتجات وورش تطوير المهارات والتواصل، تحت شعار التطوير في عصر الوكلاء. وعادة ما تختار GitHub هذا المؤتمر لإعلان أهم أخبار Copilot في العام.",
+        "location": "مركز Fort Mason، سان فرانسيسكو، الولايات المتحدة (وعبر الإنترنت)",
+        "dateNote": ""
+      },
+      "en": {
+        "title": "GitHub Universe 2026 returns to San Francisco",
+        "summary": "GitHub's annual developer conference runs on 28-29 October at Fort Mason Center in San Francisco, with free virtual access to the keynotes. It is where GitHub usually unveils its biggest Copilot updates.",
+        "details": "GitHub Universe 2026 takes place on 28-29 October at the Fort Mason Center in San Francisco, with an extra Day of Learning at GitHub's headquarters on 30 October.\n\n- In-person passes cost $1,399, and group passes $1,119 each for four or more.\n- Virtual attendance is free and includes live keynote streams and on-demand sessions.\n- Add-ons include $99 workshops and a $30 GitHub certification voucher.\n\nThe programme is built around product launches, skills workshops and networking, with the agentic era as its theme. Universe is traditionally where GitHub makes its biggest Copilot announcements of the year.",
+        "location": "Fort Mason Center, San Francisco, USA (and online)",
+        "dateNote": ""
+      }
+    },
+    {
+      "id": "microsoft-ignite-2026",
+      "date": "2026-11-17",
+      "endDate": "2026-11-20",
+      "dateConfidence": "confirmed",
+      "type": "event",
+      "sourceType": "official",
+      "sourceName": "Microsoft Ignite",
+      "url": "https://ignite.microsoft.com/en-US/home",
+      "company": "Microsoft",
+      "tool": "Microsoft 365 Copilot",
+      "ar": {
+        "title": "مؤتمر Microsoft Ignite 2026 من 17 إلى 20 نوفمبر في سان فرانسيسكو",
+        "summary": "يُعقد مؤتمر Microsoft الرئيسي لقادة تقنية المعلومات والأعمال من 17 إلى 20 نوفمبر في مركز Moscone بسان فرانسيسكو وعبر الإنترنت، ويُنتظر أن يحظى Copilot ووكلاء الذكاء الاصطناعي بمساحة واسعة فيه.",
+        "details": "يُعقد مؤتمر Microsoft Ignite 2026 من 17 إلى 20 نوفمبر في مركز Moscone بسان فرانسيسكو، مع إمكانية الحضور الشخصي أو الرقمي.\n\nويُعد Ignite الحدث السنوي الأبرز لدى Microsoft لمحترفي تقنية المعلومات والمطورين وقادة الأعمال والشركاء، وعادة ما تستعرض فيه الشركة الموجة التالية من ميزات Microsoft 365 Copilot والوكلاء وخدمات الذكاء الاصطناعي في Azure.\n\nويأتي مؤتمر هذا العام بعد إعلان سبتمبر عن إعادة بناء Copilot للأعمال بثلاثة أوضاع هي Home وCode وAutopilot، وكان بعضها حينها في مرحلة الوصول المبكر أو المعاينة الخاصة، لذا يترقب الحضور أخباراً عن توسيع إتاحتها.",
+        "location": "مركز Moscone، سان فرانسيسكو، الولايات المتحدة (وعبر الإنترنت)",
+        "dateNote": ""
+      },
+      "en": {
+        "title": "Microsoft Ignite 2026 set for 17-20 November in San Francisco",
+        "summary": "Microsoft's flagship conference for IT and business leaders runs on 17-20 November at Moscone Center in San Francisco and online, with Copilot and AI agents expected to feature prominently.",
+        "details": "Microsoft Ignite 2026 takes place on 17-20 November at the Moscone Center in San Francisco, with both in-person and digital attendance.\n\nIgnite is Microsoft's main annual event for IT professionals, developers, business leaders and partners, and it is where the company typically presents the next wave of Microsoft 365 Copilot, agent and Azure AI features.\n\nThis year's event follows the September announcement of a rebuilt Copilot for work with three modes, Home, Code and Autopilot, some of which were still in early access or private preview at the time. Attendees will be watching for news on their wider availability.",
+        "location": "Moscone Center, San Francisco, USA (and online)",
+        "dateNote": ""
+      }
+    },
+    {
+      "id": "aws-reinvent-2026-kiro",
+      "date": "2026-11-30",
+      "endDate": "2026-12-04",
+      "dateConfidence": "confirmed",
+      "type": "event",
+      "sourceType": "official",
+      "sourceName": "AWS re:Invent",
+      "url": "https://aws.amazon.com/events/reinvent/faqs/",
+      "company": "Amazon Web Services",
+      "tool": "Kiro",
+      "ar": {
+        "title": "مؤتمر AWS re:Invent 2026 من 30 نوفمبر إلى 4 ديسمبر في لاس فيغاس",
+        "summary": "يُعقد أكبر مؤتمر سنوي لـAmazon Web Services في ستة مواقع بلاس فيغاس، ويترقب المطورون فيه أخبار Kiro، أداة البرمجة بالوكلاء من AWS التي أتاحت مؤخراً جلسات الوكلاء السحابية للجميع.",
+        "details": "يُعقد مؤتمر AWS re:Invent 2026 من 30 نوفمبر إلى 4 ديسمبر في لاس فيغاس، موزعاً على Caesars Forum وCaesars Palace وEncore وMGM Grand وThe Venetian وWynn.\n\nويضم الحدث الممتد خمسة أيام كلمات رئيسية وجلسات متخصصة وورش عمل ومختبرات عملية تغطي خدمات AWS السحابية وخدمات الذكاء الاصطناعي.\n\nوفي مجال البرمجة بالذكاء الاصطناعي، تتجه الأنظار إلى Kiro، أداة التطوير القائمة على المواصفات والوكلاء التي توصي بها AWS بديلاً لـAmazon Q Developer. ومنذ الصيف أضافت Kiro نظام التنسيق مفتوح المصدر Kiro Crew وأتاحت Kiro Web والجلسات السحابية للجميع، فيما ينتهي دعم إضافات Amazon Q Developer للمحررات واشتراكاتها المدفوعة في 30 أبريل 2027.",
+        "location": "لاس فيغاس، نيفادا، الولايات المتحدة",
+        "dateNote": ""
+      },
+      "en": {
+        "title": "AWS re:Invent 2026 runs 30 November to 4 December in Las Vegas",
+        "summary": "Amazon Web Services' largest annual conference takes place across six Las Vegas venues. Developers will look for news on Kiro, AWS's agentic coding tool, which recently made cloud agent sessions generally available.",
+        "details": "AWS re:Invent 2026 takes place from 30 November to 4 December in Las Vegas, spread across Caesars Forum, Caesars Palace, Encore, MGM Grand, The Venetian and Wynn.\n\nThe five-day event features keynotes, breakout sessions, workshops and hands-on labs covering AWS cloud and AI services.\n\nFor AI coding, the focus is Kiro, the spec-driven agentic development tool that AWS recommends in place of Amazon Q Developer. Since the summer Kiro has added the open-source Kiro Crew orchestration system and made Kiro Web and cloud sessions generally available, while support for Amazon Q Developer's IDE plugins and paid subscriptions ends on 30 April 2027.",
+        "location": "Las Vegas, Nevada, USA",
+        "dateNote": ""
+      }
+    }
+  ]
+}

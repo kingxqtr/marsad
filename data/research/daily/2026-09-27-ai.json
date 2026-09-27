@@ -1,0 +1,31 @@
+{
+  "topic": "ai",
+  "generatedAt": "2026-09-27",
+  "news": [
+    {
+      "id": "xiaomi-mimo-v2-6-pro-flash-open-source",
+      "date": "2026-09-21",
+      "type": "model",
+      "importance": 2,
+      "sourceType": "official",
+      "sourceName": "Xiaomi MiMo",
+      "url": "https://mimo.mi.com/models/en-US/mimo-v2.6-flash",
+      "originalTitle": "Xiaomi MiMo-V2.6 Series",
+      "company": "Xiaomi",
+      "tool": "MiMo-V2.6",
+      "ar": {
+        "title": "Xiaomi تطرح نماذج MiMo-V2.6 Pro وFlash مفتوحة الأوزان بسياق مليون رمز",
+        "summary": "أطلقت Xiaomi سلسلة MiMo-V2.6 بنموذجين رئيسيين هما Pro وFlash، يفهمان النص والصور والفيديو والصوت، ونشرت أوزانهما على Hugging Face.",
+        "details": "كشفت Xiaomi عن الجيل الجديد من نماذجها اللغوية MiMo-V2.6، ويضم نموذج Pro بنحو تريليون معامل ونموذج Flash الأصغر بنحو 311 مليار معامل، إلى جانب نموذج مقطَّر أصغر بحجم 9 مليارات معامل مبني على Qwen.\n\nالنموذجان متعددا الوسائط بالكامل، إذ يقبلان النص والصور والفيديو والصوت مدخلاتٍ، ويدعمان نافذة سياق تصل إلى مليون رمز، مع قدرات التفكير المتعمق واستدعاء الأدوات والبحث على الويب، وتقول الشركة إنهما موجهان لأعمال الوكلاء.\n\nوتقول Xiaomi إن نموذج Pro ينافس أبرز النماذج المغلقة في معظم اختبارات الوكلاء. أما Flash فسعره عبر واجهة البرمجة 0.14 دولار لكل مليون رمز إدخال و0.28 دولار لكل مليون رمز إخراج، وهو من أرخص النماذج في فئته.\n\n- الأوزان متاحة على حساب XiaomiMiMo في Hugging Face\n- يتوفر أيضاً عبر منصة MiMo الرسمية للمطورين"
+      },
+      "en": {
+        "title": "Xiaomi releases open-weight MiMo-V2.6 Pro and Flash with 1M-token context",
+        "summary": "Xiaomi launched its MiMo-V2.6 series, led by Pro and Flash models that understand text, images, video and audio, and published the weights on Hugging Face.",
+        "details": "Xiaomi has unveiled MiMo-V2.6, the next generation of its language models. The line-up includes a Pro model of about one trillion parameters, a smaller Flash model of roughly 311 billion parameters, and a compact 9-billion-parameter distilled model built on Qwen.\n\nBoth main models are fully multimodal, taking text, images, video and audio as input, and support a context window of up to one million tokens. They offer deep thinking, tool calling and web search, and Xiaomi aims them at agent workloads.\n\nXiaomi says Pro rivals leading closed models on most agent benchmarks. Flash is priced at $0.14 per million input tokens and $0.28 per million output tokens through the API, making it one of the cheapest models in its class.\n\n- Weights are available on the XiaomiMiMo Hugging Face account\n- The models are also offered through Xiaomi's official MiMo developer platform"
+      }
+    }
+  ],
+  "upcoming": [],
+  "removeUpcoming": [],
+  "removeNews": []
+}

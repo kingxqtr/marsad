@@ -1,0 +1,604 @@
+{
+  "topic": "ai-media",
+  "generatedAt": "2026-09-27",
+  "news": [
+    {
+      "id": "recraft-v4-1-flash-launch",
+      "date": "2026-09-23",
+      "type": "media",
+      "importance": 1,
+      "sourceType": "official",
+      "sourceName": "Recraft Blog",
+      "url": "https://www.recraft.ai/blog/meet-recraft-v4-1-flash",
+      "originalTitle": "Meet Recraft V4.1 Flash: The Fastest Image Model on the Market",
+      "company": "Recraft",
+      "tool": "Recraft V4.1 Flash",
+      "ar": {
+        "title": "Recraft تطلق نموذج V4.1 Flash لتوليد الصور بسرعة وتكلفة أقل",
+        "summary": "أطلقت Recraft نموذج V4.1 Flash المخصص للسرعة، وتقول إنه ينتج الصورة في نحو 1.3 ثانية وبجزء بسيط من تكلفة V4.1، وهو متاح في Recraft Studio وعبر واجهة API.",
+        "details": "أضافت Recraft نموذج V4.1 Flash إلى منصتها بوصفه نموذجاً مستقلاً صُمم للسرعة، وليس مجرد إعداد أسرع لنموذجها الحالي V4.1.\n\n- تقول الشركة إن متوسط الوقت من كتابة الوصف إلى الصورة النهائية يبلغ نحو 1.3 ثانية، ونحو 1.4 ثانية عبر واجهة API، مع 1.8 ثانية لأبطأ 5% من الطلبات تقريباً.\n- تؤكد Recraft أن النموذج يحافظ على الطابع البصري المميز لمنصتها عبر أنماط مختلفة بتكلفة تمثل جزءاً بسيطاً من تكلفة V4.1، من دون أن تعلن سعراً محدداً لكل صورة.\n- تتيح ميزة Refine إعادة توليد صورة Flash بنموذج V4.1 Pro بدقة 2048×2048 مع الإبقاء على التكوين والإضاءة نفسيهما بدلاً من تفسير الوصف من جديد.\n\nالنموذج متاح الآن في قائمة النماذج داخل Recraft Studio وعبر واجهة Recraft API. والفكرة للمصممين هي تجربة أفكار كثيرة بسرعة وتكلفة منخفضة، ثم رفع جودة الصور المختارة فقط."
+      },
+      "en": {
+        "title": "Recraft launches V4.1 Flash, a fast, low-cost image model",
+        "summary": "Recraft released V4.1 Flash, a speed-focused image model that it says delivers an image in about 1.3 seconds at a fraction of V4.1's cost. It is available in Recraft Studio and the API.",
+        "details": "Recraft has added V4.1 Flash to its lineup, presenting it as a separate model built for speed rather than a faster setting of its existing V4.1 model.\n\n- The company reports a median of about 1.3 seconds from prompt to finished image, and about 1.4 seconds through the API, with the slowest 5% of requests at roughly 1.8 seconds.\n- Recraft says Flash keeps its recognisable visual style across genres at a fraction of V4.1's cost, but did not publish an exact per-image price.\n- A Refine option re-renders a Flash result with V4.1 Pro at 2048x2048, keeping the same composition and lighting instead of reinterpreting the prompt.\n\nThe model is live in the Recraft Studio model picker and in the Recraft API. For designers, the idea is a quick drafting loop: explore many ideas cheaply with Flash, then upgrade only the chosen images to full quality."
+      }
+    },
+    {
+      "id": "canva-prosuite-launch",
+      "date": "2026-09-15",
+      "type": "product",
+      "importance": 2,
+      "sourceType": "official",
+      "sourceName": "Canva Newsroom",
+      "url": "https://www.canva.com/newsroom/news/canva-prosuite-launch/",
+      "originalTitle": "Craft, upgraded: introducing the Canva ProSuite",
+      "company": "Canva",
+      "tool": "Canva ProSuite",
+      "ar": {
+        "title": "Canva تجمع Affinity وCavalry وFlourish وLeonardo في حزمة ProSuite الجديدة",
+        "summary": "أعلنت Canva حزمة ProSuite التي تضم تطبيقاتها الاحترافية Affinity وCavalry وFlourish وLeonardo في منظومة مترابطة، مع أكثر من 100 ميزة جديدة وبقاء النسخ الأساسية من Affinity وCavalry مجانية.",
+        "details": "أطلقت Canva حزمة Canva ProSuite التي تجمع تطبيقاتها الموجهة للمحترفين: Affinity للتصميم وتحرير الصور والتنسيق، وCavalry للرسوم المتحركة، وFlourish لتصوير البيانات، وLeonardo لتوليد الصور بالذكاء الاصطناعي. وتقول الشركة إن أكثر من 100 ميزة جديدة تُطرح عبر التطبيقات الأربعة.\n\n- يضيف Affinity 3.3 أداة Blend التي طال انتظارها، ودعم البرمجة النصية، وموصلاً مع Claude للتعديلات الجماعية، وتحديثاً كبيراً لتحرير الصور يشمل محرك RAW محسّناً واستوديو للتصوير الفلكي، إلى جانب استيراد ملفات InDesign والربط مع Brand Kit في Canva.\n- يحصل Cavalry على أكثر من 50 تحسيناً، مع وعود قريبة بتحرير رسومه المتحركة داخل Canva وأدوات ذكاء اصطناعي لإزالة الخلفية وتوليد الرسوم المتجهة.\n- تبقى النسخ الأساسية من Affinity وCavalry مجانية، بينما تتطلب ميزات Canva AI Studio داخل Affinity اشتراكاً مدفوعاً في Canva.\n\nوتقول Canva إن نسخة Affinity الجديدة لأجهزة iPad ستصل في نوفمبر."
+      },
+      "en": {
+        "title": "Canva bundles Affinity, Cavalry, Flourish and Leonardo into a new ProSuite",
+        "summary": "Canva introduced ProSuite, grouping its professional apps Affinity, Cavalry, Flourish and Leonardo into one connected suite, with more than 100 new features. Core Affinity and Cavalry stay free.",
+        "details": "Canva has launched the Canva ProSuite, a new umbrella for its professional creative apps: Affinity for design, photo editing and layout; Cavalry for motion graphics; Flourish for data visualisation; and Leonardo for AI image generation. The company says more than 100 new features are rolling out across the four apps.\n\n- Affinity 3.3 adds a long-requested Blend Tool, scripting, a Claude connector for batch edits, a major photo update with an improved RAW engine and an astrophotography studio, InDesign (INDD) import and Canva Brand Kit integration.\n- Cavalry gets more than 50 upgrades, with editable Cavalry animations inside Canva and AI tools such as background removal and vector generation promised soon.\n- Core Affinity and Cavalry remain free; Canva AI Studio features inside Affinity need a paid Canva plan.\n\nCanva's pitch is an end-to-end workflow: design in Affinity, animate in Cavalry, visualise data in Flourish, generate variations in Leonardo, then hand off to teams in Canva. A new Affinity for iPad is due in November."
+      }
+    },
+    {
+      "id": "elevenlabs-umg-strategic-agreement",
+      "date": "2026-09-10",
+      "type": "business",
+      "importance": 3,
+      "sourceType": "official",
+      "sourceName": "ElevenLabs Blog",
+      "url": "https://elevenlabs.io/blog/umg",
+      "originalTitle": "Universal Music Group and ElevenLabs announce multi-year strategic agreement",
+      "company": "ElevenLabs",
+      "tool": "",
+      "ar": {
+        "title": "ElevenLabs توقّع اتفاق ترخيص متعدد السنوات مع Universal Music Group",
+        "summary": "اتفقت ElevenLabs وUniversal Music Group على شراكة متعددة السنوات تجمع الترخيص وتطوير المنتجات، تبدأ بمنصة جديدة لصناعة الموسيقى بالذكاء الاصطناعي مبنية على موسيقى مرخّصة وفنانين يختارون المشاركة.",
+        "details": "أعلنت Universal Music Group وElevenLabs اتفاقاً متعدد السنوات يجمع بين ترخيص الموسيقى والتطوير المشترك للمنتجات، وهو أول اتفاق لـElevenLabs مع إحدى شركات التسجيلات الكبرى.\n\n- أول ثمار الاتفاق منصة جديدة لصناعة الموسيقى بالذكاء الاصطناعي تتيح للجمهور الإبداع المشترك مع أعمال الفنانين وكتّاب الأغاني المشاركين، عبر الريمكس والدمج بين الأغاني وإعادة تقديم المقطوعات وتجارب صوتية مخصصة.\n- المنصة لا تزال قيد التطوير، ولم يُعلن موعد إطلاقها أو أسعارها، وتقول ElevenLabs إنها ستكون منفصلة عن منتجاتها الموسيقية الحالية مثل Music API وتطبيق ElevenMusic.\n- تقوم المشاركة على الفنانين الذين يختارون الانضمام مع الاستفادة من خبرة UMG في إدارة الحقوق، وتخطط الشركتان لمنتجات وتجارب إضافية خلال السنوات المقبلة.\n\nويأتي الاتفاق ضمن موجة اتفاقات عقدتها شركات الصوت بالذكاء الاصطناعي مع أصحاب الحقوق الموسيقية في 2026، ومنها تحالف Suno مع BMG في أغسطس."
+      },
+      "en": {
+        "title": "ElevenLabs signs multi-year licensing deal with Universal Music Group",
+        "summary": "ElevenLabs and Universal Music Group agreed a multi-year licensing and product partnership, starting with a new AI music creation platform for fans built on licensed music and artists who opt in.",
+        "details": "Universal Music Group (UMG) and ElevenLabs announced a multi-year agreement that combines music licensing with joint product development. It is ElevenLabs' first deal with a major record label.\n\n- The first product will be an AI-powered music creation platform where fans can co-create with music from participating artists and songwriters, for example through remixes, mashups, new interpretations of tracks and personalised vocal experiences.\n- The platform is still in development; no launch date or pricing has been announced. ElevenLabs says it will be separate from its existing music products, the Music API and the ElevenMusic app.\n- Participation is based on artists and songwriters who choose to take part, drawing on UMG's rights-management expertise, and more products and fan experiences are planned over the coming years.\n\nThe deal adds to a wave of 2026 agreements between AI audio companies and music rights holders, including Suno's alliance with BMG in August."
+      }
+    },
+    {
+      "id": "suno-v6-launch",
+      "date": "2026-09-09",
+      "type": "media",
+      "importance": 3,
+      "sourceType": "official",
+      "sourceName": "Suno Blog",
+      "url": "https://suno.com/blog/introducing-v6",
+      "originalTitle": "Introducing v6",
+      "company": "Suno",
+      "tool": "Suno v6",
+      "ar": {
+        "title": "Suno تطلق نماذج v6 الموسيقية بالتعاون مع Warner وBMG وBelieve",
+        "summary": "أطلقت Suno الجيل v6 من نماذج توليد الموسيقى، المطوَّر مع شركاء من القطاع بينهم Warner Music Group وBMG وBelieve؛ النموذجان v6 وv6-wild للمشتركين المدفوعين، وv6-mini متاح للجميع.",
+        "details": "أطلقت Suno الجيل v6 الذي تصفه بأنه أول جيل من نماذجها الموسيقية يُطوَّر بالشراكة مع صناعة الموسيقى، وذكرت من الشركاء Warner Music Group وBMG وBelieve.\n\n- النموذج v6: الإصدار الرئيسي لمشتركي Pro وPremier، ويركز على نتائج مصقولة وموثوقة.\n- النموذج v6-wild: متاح أيضاً لمشتركي Pro وPremier، ويقدم نتائج أقل قابلية للتوقع وأكثر تنوعاً لأغراض الاستكشاف.\n- النموذج v6-mini: نسخة أسرع وأخف متاحة لجميع المستخدمين، بمن فيهم أصحاب الحسابات المجانية.\n\nومن الأدوات الجديدة تعديل أجزاء محددة من الأغنية بلغة طبيعية، وصنع مزج بين عدة مصادر، وأخذ عينات صوتية وعزلها لبناء الإيقاعات، وتعديل أسطر من الكلمات دون إعادة توليد الأغنية كاملة، مع قبول النص والصوت والصور والفيديو كمدخلات.\n\nوتقول Suno إن نماذجها السابقة ستُسحب مع انتشار v6 لتعمل المنصة بالكامل على الجيل الجديد، وإنها تعتزم إطلاق تجارب يختار فيها الفنانون المشاركة ويحصلون على مقابل."
+      },
+      "en": {
+        "title": "Suno launches v6 music models built with Warner, BMG and Believe",
+        "summary": "Suno released v6, a new family of music models developed with industry partners including Warner Music Group, BMG and Believe. v6 and v6-wild are for paid plans; v6-mini is open to all users.",
+        "details": "Suno has launched v6, which it describes as its first generation of music models developed in partnership with the music industry. Partners named in the announcement are Warner Music Group, BMG and Believe.\n\n- v6: the flagship model for Pro and Premier subscribers, tuned for polished, reliable results.\n- v6-wild: also for Pro and Premier, designed to give less predictable, more varied output for exploration.\n- v6-mini: a faster, lighter model available to every user, including the free tier.\n\nNew tools include editing specific song sections in plain language, building mashups from several sources, sampling and isolating sounds to make beats, and changing individual lyric lines without regenerating the whole track. v6 accepts text, audio, images and video as inputs.\n\nSuno says its earlier models are being retired as v6 rolls out, so the platform will run entirely on the new generation. It also plans opt-in experiences where artists can take part and get paid."
+      }
+    },
+    {
+      "id": "openai-chatgpt-images-2-5",
+      "date": "2026-09-08",
+      "type": "media",
+      "importance": 3,
+      "sourceType": "official",
+      "sourceName": "OpenAI",
+      "url": "https://openai.com/index/introducing-chatgpt-images-2-5/",
+      "originalTitle": "Introducing ChatGPT Images 2.5",
+      "company": "OpenAI",
+      "tool": "GPT-Image-2.5",
+      "ar": {
+        "title": "OpenAI تطلق ChatGPT Images 2.5 ونموذجين جديدين من GPT-Image-2.5 للمطورين",
+        "summary": "أتاحت OpenAI تحديث Images 2.5 لجميع مستخدمي ChatGPT وChatGPT Work وCodex مع خفض زمن التوليد حتى 50% مقارنة بـImages 2.0، وأضافت نموذجي GPT-Image-2.5 Flare وSunburst إلى واجهة API.",
+        "details": "رفعت OpenAI توليد الصور في ChatGPT إلى الإصدار Images 2.5، ويجري طرحه لجميع مستخدمي ChatGPT وChatGPT Work وCodex على الويب وسطح المكتب والهاتف. وتقول الشركة إن الصور باتت أكثر طبيعية في الإضاءة وأغنى في الملمس، وأدق في الحفاظ على الأشخاص والعناصر في الصور المرجعية، وأكثر التزامًا بتعليمات التعديل عبر عدة خطوات، مع خفض زمن التوليد بنسبة تصل إلى 50% مقارنة بـImages 2.0.\n\n- يضيف ChatGPT تعليقات توضع مباشرة على الصورة لتعديل أجزاء محددة منها، وأداة Sketch التي تحوّل رسمًا سريعًا مع وصف مكتوب إلى صورة مكتملة، وقوالب جاهزة لصيغ مثل الملصقات والمنتجات الترويجية.\n- يمكن أيضًا مشاركة الأمر النصي الذي أنتج الصورة ليصنع الآخرون نسختهم الخاصة منها.\n\nوللمطورين نموذجان: GPT-Image-2.5 Flare الخيار الافتراضي لمعظم التطبيقات، وGPT-Image-2.5 Sunburst الذي يقدم دقة إضافية مقابل وقت توليد أطول. وتبقى أسعار الرموز كما في gpt-image-2، مع مستويي جودة جديدين xhigh وmax، ودقة تصل إلى 4K، وتبرز OpenAI دعم الخلفيات الشفافة."
+      },
+      "en": {
+        "title": "OpenAI rolls out ChatGPT Images 2.5 and two new GPT-Image-2.5 API models",
+        "summary": "OpenAI released Images 2.5 for all ChatGPT, ChatGPT Work and Codex users, cutting generation time by up to 50% versus Images 2.0, and added GPT-Image-2.5 Flare and Sunburst to its API.",
+        "details": "OpenAI has upgraded image generation in ChatGPT to Images 2.5, rolling out to all ChatGPT, ChatGPT Work and Codex users on web, desktop and mobile. The company says images have more natural lighting and richer texture, keep the subjects of reference photos more faithfully and follow multi-step edit requests more reliably. Generation latency is down by up to 50% compared with Images 2.0.\n\n- ChatGPT adds comments placed directly on an image for targeted edits, a Sketch tool that turns a quick drawing plus a written description into a finished image, and templates for formats such as posters and merchandise.\n- Users can also share the prompt behind an image so others can make their own version.\n\nFor developers there are two models: GPT-Image-2.5 Flare, the default for most apps, and GPT-Image-2.5 Sunburst, which adds extra precision at the cost of longer generation times. Token prices match gpt-image-2, new xhigh and max quality levels were added, output can reach 4K, and OpenAI highlights support for transparent backgrounds."
+      }
+    },
+    {
+      "id": "adobe-premiere-after-effects-generative-tools",
+      "date": "2026-09-08",
+      "type": "product",
+      "importance": 2,
+      "sourceType": "official",
+      "sourceName": "Adobe Blog",
+      "url": "https://blog.adobe.com/en/publish/2026/09/08/generate-create-directly-in-your-timeline-with-new-ai-powered-innovations-in-premiere-after-effects",
+      "originalTitle": "Generate and create directly in your timeline with new AI-powered innovations in Premiere and After Effects",
+      "company": "Adobe",
+      "tool": "Premiere",
+      "ar": {
+        "title": "Adobe تضيف توليد الفيديو والموسيقى والمؤثرات الصوتية داخل Premiere",
+        "summary": "أضافت Adobe إلى Premiere أدوات تولّد الفيديو والمؤثرات الصوتية والأجواء الصوتية والموسيقى مباشرة على الخط الزمني بنماذج Firefly ونماذج شركاء، مع مساعد ذكي تجريبي في After Effects.",
+        "details": "يحمل تحديث Adobe لشهر سبتمبر أدوات التوليد إلى الخط الزمني للتحرير في Premiere مباشرة، معتمداً على Firefly ونماذج شركاء مثل Veo من Google وKling وRunway وLuma.\n\n- أداة Generate Video تنشئ لقطات لملء الفراغات في المشهد مستعينة بإطارات من المشروع كمرجع.\n- أداة Generate Sound Effects يمكن توجيهها بصوت المحرر لضبط الإيقاع والتوقيت والشدة.\n- أداة Generate Soundscape (تجريبية) تحلل حتى 15 ثانية من الفيديو لبناء أجواء صوتية مناسبة.\n- أداة Generate Music (تجريبية) تؤلف مقطوعات أصلية مع التحكم في الإيقاع والتكرار، وتشمل حقوق المزامنة.\n\nوتضم الأدوات الصوتية التجريبية Enhance Audio للتحكم المنفصل في الحوار والموسيقى والأجواء، وSeparate Crosstalk لفصل المتحدثين المتداخلين، وDynamic Auto Ducking. ويحصل After Effects على مساعد ذكي تجريبي لتنظيم الملفات وإعادة التسمية الجماعية وإضافة العلامات. وفي اليوم نفسه أطلقت Runway لوحات تتيح نماذجها داخل Premiere Pro وAfter Effects."
+      },
+      "en": {
+        "title": "Adobe adds video, music and sound generation inside the Premiere timeline",
+        "summary": "Adobe added generative tools to Premiere that create video, sound effects, soundscapes and music directly on the timeline using Firefly and partner models, plus an AI Assistant beta in After Effects.",
+        "details": "Adobe's September update brings generation straight into the editing timeline in Premiere, powered by Firefly and partner models such as Google's Veo, Kling, Runway and Luma.\n\n- Generate Video creates footage to fill gaps in a sequence, using frames from the project as reference.\n- Generate Sound Effects can be guided by the editor's own voice to set rhythm, timing and intensity.\n- Generate Soundscape (beta) studies up to 15 seconds of video to build matching ambience.\n- Generate Music (beta) composes original tracks with tempo and looping controls, including sync rights.\n\nAudio tools in public beta include Enhance Audio for separate control of dialogue, music and ambience, Separate Crosstalk for splitting overlapping speakers, and Dynamic Auto Ducking. After Effects gains an AI Assistant in public beta for housekeeping such as organising assets, batch renaming and adding markers. The same day, Runway released panels that bring its models into Premiere Pro and After Effects."
+      }
+    },
+    {
+      "id": "google-lyria-3-5-gemini-api",
+      "date": "2026-09-03",
+      "type": "media",
+      "importance": 2,
+      "sourceType": "official",
+      "sourceName": "Gemini API Changelog",
+      "url": "https://ai.google.dev/gemini-api/docs/changelog",
+      "originalTitle": "Released the next generation of Google's music generation model: lyria-3.5",
+      "company": "Google",
+      "tool": "Lyria 3.5",
+      "ar": {
+        "title": "Google تتيح نموذج الموسيقى Lyria 3.5 للمطورين عبر Gemini API",
+        "summary": "أتاحت Google نموذج Lyria 3.5 في Gemini API لتوليد أغانٍ كاملة بأصوات غنائية وكلمات متزامنة بجودة ستيريو 44.1 كيلوهرتز، بسعر 0.08 دولار للأغنية في الفئة المدفوعة.",
+        "details": "أطلقت Google في 3 سبتمبر نموذج lyria-3.5، الجيل الجديد من نماذجها لتوليد الموسيقى، للمطورين عبر Gemini API. وتشير صفحة النموذج لدى Google DeepMind إلى أنه متاح أيضاً في Flow Music وتطبيق Gemini.\n\n- يولّد أغانيَ كاملة تصل مدتها إلى نحو ثلاث دقائق، ببنية متماسكة وغناء وكلمات متزامنة وتوزيع موسيقي كامل.\n- الصوت بجودة ستيريو عالية 44.1 كيلوهرتز، ويمكن أن يكون الوصف نصاً أو صورة.\n- يمكن إدخال كلمات خاصة باستخدام وسوم مثل [Verse] و[Chorus]، أو طلب موسيقى دون غناء، وتُكتب الكلمات بلغة الوصف.\n- تحمل كل مقطوعة علامة SynthID غير مسموعة تساعد على كشف الصوت المولّد بالذكاء الاصطناعي.\n\nوتبلغ تكلفة الأغنية الكاملة 0.08 دولار في الفئة المدفوعة من Gemini API، ولا يتوفر النموذج في الفئة المجانية."
+      },
+      "en": {
+        "title": "Google releases Lyria 3.5 music model to developers in the Gemini API",
+        "summary": "Google made Lyria 3.5 available in the Gemini API, generating full songs with vocals and timed lyrics in 44.1 kHz stereo. A full song costs $0.08 on the paid tier.",
+        "details": "Google released lyria-3.5, the next generation of its music generation model, to developers through the Gemini API on September 3. Google DeepMind's model page says Lyria 3.5 is also available in Flow Music and the Gemini app.\n\n- It generates full songs of up to about three minutes, with coherent structure, vocals, timed lyrics and full instrumental arrangements.\n- Output is high-fidelity 44.1 kHz stereo, and prompts can be text or an image.\n- Users can supply their own lyrics with section tags such as [Verse] and [Chorus], or ask for instrumental-only tracks; lyrics are written in the language of the prompt.\n- Every track carries an inaudible SynthID watermark so AI-made audio can be identified.\n\nIn the Gemini API a full song costs $0.08 on the paid tier, and the model is not offered on the free tier."
+      }
+    },
+    {
+      "id": "google-flow-gemini-omni-1-1-flash",
+      "date": "2026-08-27",
+      "type": "media",
+      "importance": 3,
+      "sourceType": "official",
+      "sourceName": "Google Blog",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/new-creative-controls-google-flow/",
+      "originalTitle": "Google Flow brings new creative control features to enhance video editing",
+      "company": "Google",
+      "tool": "Gemini Omni 1.1 Flash",
+      "ar": {
+        "title": "Google تضيف Gemini Omni 1.1 Flash إلى Flow مع تصدير 4K وتمديد المشاهد",
+        "summary": "أطلقت Google نموذج Gemini Omni 1.1 Flash وأضافت إلى تطبيق Flow التحكم في الإطارين الأول والأخير وتمديد المشاهد وتصدير الفيديو بدقة 1080p أو 4K، مع مسودات 360p أسرع وأرخص.",
+        "details": "أتاحت Google الإصدار العام من Gemini Omni 1.1 Flash، نموذجها لتوليد الفيديو وتحريره عبر المحادثة، وأضافت قدراته الجديدة إلى Google Flow على الويب وفي تطبيق Flow للهاتف.\n\n- الإطاران الأول والأخير: يحدد المبدع بداية اللقطة ونهايتها ويولّد النموذج الحركة بينهما، ما يساعد على ثبات الشخصيات وتخطيط حركة الكاميرا.\n- تمديد المشاهد: يقرأ النموذج حتى 10 ثوانٍ من المقطع السابق بدلاً من الثانية الأخيرة فقط، ويواصل التوليد بخطوات من 10 ثوانٍ حتى 40 ثانية إجمالاً.\n- التحكم في الدقة: مسودات 360p أسرع بنسبة تصل إلى 60% وبنحو ثلث تكلفة 720p، مع تصدير النسخ النهائية بدقة 1080p أو 4K.\n\nوالنموذج متاح كذلك في Google AI Studio ومنصة Gemini Enterprise Agent Platform، وفي تطبيق Gemini لميزة تمديد المشاهد. وتدرج Google النموذج التجريبي الأقدم gemini-omni-flash-preview للإيقاف في 30 سبتمبر."
+      },
+      "en": {
+        "title": "Google brings Gemini Omni 1.1 Flash to Flow with 4K export and scene extension",
+        "summary": "Google released Gemini Omni 1.1 Flash, adding start-and-end-frame control, scene extension and 1080p or 4K export to its Flow filmmaking app, with faster, cheaper 360p drafts.",
+        "details": "Google has made Gemini Omni 1.1 Flash, the production version of its conversational video generation and editing model, generally available, and brought its new controls to Google Flow on the web and in the Flow mobile app.\n\n- Start and end frames: creators set the first and last frame and the model generates the motion in between, which helps keep characters consistent and plan camera moves.\n- Scene extension: the model reads up to 10 seconds of the previous clip (earlier models used only the final second) and continues in 10-second steps, up to 40 seconds in total.\n- Resolution control: 360p drafts render up to 60% faster at about a third of the cost of 720p, and finished clips can be exported in 1080p or 4K.\n\nThe model is also available in Google AI Studio, the Gemini Enterprise Agent Platform and, for scene extension, the Gemini app. Google lists the older gemini-omni-flash-preview model for deprecation on September 30."
+      }
+    },
+    {
+      "id": "stability-ai-series-b-entertainment-investors",
+      "date": "2026-08-25",
+      "type": "business",
+      "importance": 2,
+      "sourceType": "official",
+      "sourceName": "Stability AI News",
+      "url": "https://stability.ai/news-updates/stability-ai-latest-funding-backed-by-entertainment-industry-biggest-names",
+      "originalTitle": "The Entertainment Industry's Biggest Names Back Stability AI in Latest Funding Round",
+      "company": "Stability AI",
+      "tool": "",
+      "ar": {
+        "title": "Stability AI تجمع 76 مليون دولار بمشاركة EA وكبرى شركات التسجيلات الثلاث",
+        "summary": "أغلقت Stability AI جولة تمويل من الفئة B بقيمة 76 مليون دولار بدعم من Electronic Arts وSony Music Group وUniversal Music Group وWarner Music Group، ليصل إجمالي تمويلها إلى 232 مليون دولار.",
+        "details": "أعلنت Stability AI جولة تمويل من الفئة B تضيف 76 مليون دولار من رأس المال الجديد، ليرتفع إجمالي تمويلها إلى 232 مليون دولار عبر جولات الأسهم والسندات القابلة للتحويل، من دون الكشف عن تقييم الشركة.\n\n- من المستثمرين الجدد Electronic Arts وSony Music Group وUniversal Music Group وWarner Music Group وAMD Ventures وPacific Alliance Ventures.\n- عاد للمشاركة Coatue وGreycroft وKadmos Capital وSean Parker وEric Schmidt، إلى جانب داعمين حاليين مثل Lightspeed وSound Ventures وWPP، ومن المستثمرين الأفراد المخرج James Cameron.\n- ينضم Thomas Laffont، الشريك المؤسس في Coatue، إلى مجلس الإدارة.\n\nوتقول الشركة إنها ستوجه التمويل إلى أدوات الإنتاج الإبداعي والبحث التطبيقي والخدمات الاحترافية. وتأتي الجولة بعد إطلاق Stable Audio 3.0، وهي نماذج موسيقية مفتوحة الأوزان دُرّبت على بيانات مرخّصة، وإضافة تجريبية لبرامج إنتاج الموسيقى مثل Logic Pro وAbleton Live طُرحت في 18 أغسطس."
+      },
+      "en": {
+        "title": "Stability AI raises $76M Series B with EA and the three major music labels",
+        "summary": "Stability AI closed a $76 million Series B backed by Electronic Arts, Sony Music Group, Universal Music Group and Warner Music Group, bringing its total funding to $232 million.",
+        "details": "Stability AI announced a Series B round that adds $76 million in new capital and lifts its total funding to $232 million across equity rounds and convertible notes. No valuation was disclosed.\n\n- New investors include Electronic Arts, Sony Music Group, Universal Music Group, Warner Music Group, AMD Ventures and Pacific Alliance Ventures.\n- Coatue, Greycroft, Kadmos Capital, Sean Parker and Eric Schmidt returned, alongside existing backers such as Lightspeed, Sound Ventures and WPP; film director James Cameron is among the individual investors.\n- Coatue co-founder Thomas Laffont joins the board.\n\nThe company says the money will go into creative production tools, applied research and professional services. The round follows the launch of Stable Audio 3.0, open-weight music models trained on licensed data, and an early-beta plugin for music software such as Logic Pro and Ableton Live released on August 18."
+      }
+    },
+    {
+      "id": "adobe-firefly-audio-generation-ga",
+      "date": "2026-08-20",
+      "type": "media",
+      "importance": 2,
+      "sourceType": "official",
+      "sourceName": "Adobe Blog",
+      "url": "https://blog.adobe.com/en/publish/2026/08/20/adobe-firefly-expands-its-creative-ai-studio-generate-music-speech-and-sound-effects-in-one-place",
+      "originalTitle": "Adobe Firefly expands its creative AI studio: generate music, speech, and sound effects in one place",
+      "company": "Adobe",
+      "tool": "Firefly",
+      "ar": {
+        "title": "Adobe تتيح توليد الموسيقى والتعليق الصوتي والمؤثرات الصوتية في Firefly بشكل عام",
+        "summary": "أصبح تطبيق Adobe Firefly يولّد الموسيقى والتعليق الصوتي والمؤثرات الصوتية في مكان واحد بنماذج Adobe الصوتية، مع خيار ElevenLabs للكلام، وأضاف فئة مجانية لمساعد Firefly الذكي.",
+        "details": "أتاحت Adobe أدوات الصوت في Firefly بشكل عام، ليصبح التطبيق مكاناً واحداً لإنشاء الموسيقى التصويرية والتعليق الصوتي والمؤثرات لمشاريع الفيديو.\n\n- أداة Generate Music تعتمد على Firefly Music Model لإنتاج مقطوعات أصلية مرخّصة تتوافق مع طول الفيديو وأجوائه.\n- أداة Generate Speech تعتمد على Firefly Speech Model مع خيار استخدام ElevenLabs، وتتيح التحكم في الصوت والسرعة والانفعال.\n- أداة Generate Sound Effects تعتمد على Firefly Audio Model لصنع أصوات تتبع توقيت اللقطات وحيويتها.\n\nوتصف Adobe المخرجات الصوتية بأنها آمنة للاستخدام التجاري ولا تتطلب اشتراكاً منفصلاً للترخيص. كما أضاف التحديث فئة مجانية لمساعد Firefly AI Assistant بعدد يومي من عمليات التوليد، ومهارتين جديدتين لإنشاء لوحات القصة والهوية البصرية.\n\nويواصل Firefly استضافة نماذج شركاء إلى جانب نماذج Adobe، منها نماذج Google وElevenLabs وKling AI وLuma AI وOpenAI وRunway، وأُضيف نموذج الفيديو Gemini Omni Flash في اليوم نفسه."
+      },
+      "en": {
+        "title": "Adobe Firefly makes music, speech and sound-effect generation generally available",
+        "summary": "Adobe's Firefly app now generates music, voiceovers and sound effects in one place with Adobe's own audio models, with ElevenLabs as a speech option, and adds a free tier for the Firefly AI Assistant.",
+        "details": "Adobe has made Firefly's audio tools generally available, turning the app into one place to create soundtracks, voiceovers and effects for video projects.\n\n- Generate Music uses the Firefly Music Model to produce licensed original tracks matched to a video's length and mood.\n- Generate Speech uses the Firefly Speech Model, with ElevenLabs as an optional engine, and offers control over voice, pacing and emotion.\n- Generate Sound Effects uses the Firefly Audio Model to create sounds that follow the timing and energy of the footage.\n\nAdobe describes the audio output as commercially safe and says no separate subscription is needed for licensing. The update also adds a free tier for the Firefly AI Assistant with daily generations, plus new Create Storyboard and Create Brand Kit skills.\n\nFirefly continues to host partner models alongside Adobe's own, including ones from Google, ElevenLabs, Kling AI, Luma AI, OpenAI and Runway; Google's Gemini Omni Flash video model was added the same day."
+      }
+    },
+    {
+      "id": "runway-ruby-sdr-to-hdr",
+      "date": "2026-08-19",
+      "type": "media",
+      "importance": 2,
+      "sourceType": "official",
+      "sourceName": "Runway Changelog",
+      "url": "https://runway.com/changelog",
+      "originalTitle": "Runway Ruby",
+      "company": "Runway",
+      "tool": "Ruby",
+      "ar": {
+        "title": "Runway تطلق Ruby لتحويل الفيديو العادي SDR إلى HDR حقيقي",
+        "summary": "أطلقت Runway نموذج Ruby لتصحيح الألوان، الذي يحوّل لقطات المدى الديناميكي القياسي، سواء كانت مولّدة بالذكاء الاصطناعي أو مصورة بالكاميرا، إلى HDR مع الحفاظ على البكسلات الأصلية والصوت.",
+        "details": "أطلقت Runway نموذج Ruby لتصحيح الألوان، ويحوّل فيديو SDR إلى HDR عبر توسيع نطاق السطوع والألوان دون إعادة توليد المصدر. ويعمل على مقاطع أي نموذج ذكاء اصطناعي، سواء من Runway أو من جهات أخرى، وعلى اللقطات المصورة بالكاميرا.\n\n- المدخلات: مقاطع SDR حتى 30 ثانية وبحد أقصى 4096 بكسل للضلع، مع الحفاظ على دقة المصدر وصوته.\n- صيغ التسليم: HDR10 أو HLG بترميز HEVC بعمق 10 بت، أو ProRes بمعيار BT.2020 PQ، أو تسلسلات OpenEXR بعمق 16 بت بمساحة BT.2020 الخطية أو ACEScg لخطوط المؤثرات البصرية.\n- الإتاحة: ضمن Tool Mode وWorkflows في Runway (تشير صفحة المنتج إلى خطط Max وما فوقها)، ولجميع المطورين عبر نقطة الوصول video_to_hdr في Runway Dev.\n\nوأضافت Runway لاحقاً وضع أداة مخصصاً لـRuby في 28 أغسطس، ودعم الحفاظ على قناة الشفافية في واجهة API في 11 سبتمبر، ما يسهّل دمج لقطات الذكاء الاصطناعي في أعمال احترافية بصيغة HDR."
+      },
+      "en": {
+        "title": "Runway launches Ruby, a model that converts SDR video into true HDR",
+        "summary": "Runway released Ruby, a colour-grading model that turns standard-dynamic-range footage, whether AI-generated or shot on camera, into HDR while keeping the original pixels and audio.",
+        "details": "Runway has launched Ruby, a colour-grading model that converts SDR video into HDR by extending brightness and colour range without re-rendering the source. It works on clips from any AI model, Runway's or a third party's, as well as on ordinary camera footage.\n\n- Input: SDR clips of up to 30 seconds and up to 4,096 pixels per side; output keeps the source resolution and audio.\n- Delivery formats: HDR10 or HLG as 10-bit HEVC, ProRes in BT.2020 PQ, or 16-bit OpenEXR sequences in linear BT.2020 or ACEScg for VFX pipelines.\n- Access: in Runway's Tool Mode and Workflows (the product page lists Max and higher plans) and for all developers through the video_to_hdr endpoint in Runway Dev.\n\nRunway has since added a dedicated Ruby tool mode (August 28) and alpha-channel preservation in the API (September 11), making it easier to fit AI footage into professional HDR deliverables."
+      }
+    },
+    {
+      "id": "suno-bmg-global-strategic-alliance",
+      "date": "2026-08-12",
+      "type": "business",
+      "importance": 2,
+      "sourceType": "official",
+      "sourceName": "BMG Newsroom",
+      "url": "https://www.bmg.com/news/bmg-and-suno-announce-global-strategic-alliance-advancing-ai-music-opportunities-and-revenue-streams",
+      "originalTitle": "BMG and Suno Announce Global Strategic Alliance Advancing AI Music Opportunities And Revenue Streams",
+      "company": "Suno",
+      "tool": "",
+      "ar": {
+        "title": "Suno وBMG توقعان تحالفاً عالمياً يشمل التسجيلات وحقوق النشر الموسيقي",
+        "summary": "اتفقت Suno وBMG على تحالف استراتيجي عالمي يشمل تسجيلات BMG وحقوق النشر الموسيقي لديها، ويسوّي استخدام Suno السابق لهذه الأعمال، ويتيح لفناني BMG وكتّاب أغانيها المشاركة الاختيارية مقابل تعويض.",
+        "details": "أعلنت BMG وSuno تحالفاً استراتيجياً عالمياً مرتبطاً بأول نموذج موسيقي تطوره Suno بالشراكة مع صناعة الموسيقى، وهو النموذج الذي أُطلق لاحقاً باسم v6.\n\n- يشمل الاتفاق مكتبة BMG من التسجيلات الصوتية وحقوق النشر الموسيقي.\n- يسوّي الاتفاق استخدام Suno السابق لتسجيلات BMG وأعمالها المنشورة.\n- المشاركة اختيارية لفناني BMG وكتّاب أغانيها، ومن يختار الانضمام تُحمى حقوقه ويحصل على تعويض.\n\nوركز الطرفان على حرية الاختيار ومصادر دخل جديدة للمبدعين، فيما أشارت Suno إلى ضوابط جديدة تسهّل التعرف على الموسيقى المولّدة عبرها وتحدّ من الإنتاج الكمي منخفض الجودة.\n\nوقبل الاتفاق بيومين أعلنت Suno حدوداً للتنزيل سرت في 3 سبتمبر: حتى 7 تنزيلات تجريبية مدى الحياة للحسابات المجانية دون حقوق تجارية، و20 شهرياً لمشتركي Pro، و60 لمشتركي Premier، ودون حد لمستخدمي Premier داخل Suno Studio."
+      },
+      "en": {
+        "title": "Suno and BMG sign global alliance covering recordings and publishing",
+        "summary": "Suno and BMG agreed a global strategic alliance that covers BMG's recorded-music and publishing catalogue, settles Suno's prior use of those works, and lets BMG artists and songwriters opt in and be paid.",
+        "details": "BMG and Suno announced a global strategic alliance tied to Suno's first music model developed in partnership with the music industry, which later launched as v6.\n\n- The agreement covers BMG's recorded music and music publishing repertoire.\n- It settles Suno's prior use of BMG recordings and published works.\n- Participation is optional for BMG artists and songwriters; those who opt in have their rights protected and are compensated.\n\nBoth sides framed the deal around choice and new revenue for creators. Suno also pointed to new safeguards meant to make Suno-generated music easier to identify and to curb mass production of low-quality content.\n\nTwo days earlier, Suno announced download limits that took effect on September 3: free accounts get up to seven lifetime trial downloads without commercial rights, Pro subscribers 20 a month, Premier 60 a month, and Premier users working in Suno Studio are uncapped."
+      }
+    },
+    {
+      "id": "luma-scenes-storyboard-video",
+      "date": "2026-08-11",
+      "type": "product",
+      "importance": 1,
+      "sourceType": "official",
+      "sourceName": "Luma News",
+      "url": "https://lumalabs.ai/news/introducing-luma-scenes",
+      "originalTitle": "Introducing Luma Scenes",
+      "company": "Luma AI",
+      "tool": "Luma Scenes",
+      "ar": {
+        "title": "Luma تطلق Scenes لبناء لوحة القصة قبل توليد فيديو الذكاء الاصطناعي",
+        "summary": "قدّمت Luma ميزة Scenes التي تحوّل الفكرة والصور المرجعية إلى لوحة قصة من إطارات رئيسية قابلة للتعديل قبل توليد الفيديو بنموذج Ray3.2 أو Seedance 2، لتقليل عمليات التوليد المهدرة.",
+        "details": "أطلقت Luma AI ميزة Luma Scenes التي تعتمد مبدأ المراجعة قبل التوليد، فبدلاً من إنتاج المقاطع مباشرة تنشئ أولاً لوحة قصة متسلسلة من إطارات رئيسية قابلة للتعديل انطلاقاً من فكرة مكتوبة وصور مرجعية.\n\n- تُنشأ لوحة القصة بنموذج Uni-1 من Luma، ويمكن إعادة توليد كل إطار والتعليق عليه وتعديل توقيته قبل توليد أي فيديو.\n- يتم التوليد النهائي بنموذج Ray3.2 من Luma المناسب للمقاطع القصيرة المتعددة، أو بنموذج Seedance 2 من ByteDance الذي ينتج عادة مقاطع أطول.\n- المخرجات بصيغة عمودية 9:16 أو أفقية 16:9، ويمكن تصديرها فيديو كاملاً أو مقاطع منفصلة.\n\nوتقدم Luma الميزة وسيلةً لخفض تكلفة إنتاج الفيديو بالذكاء الاصطناعي، إذ يتفق الفريق على اللقطات قبل دفع تكلفة التوليد الكامل. والميزة متاحة الآن في تطبيق Luma، ولم يتضمن الإعلان تفاصيل الأسعار."
+      },
+      "en": {
+        "title": "Luma launches Scenes to storyboard AI videos before rendering them",
+        "summary": "Luma introduced Scenes, which turns a brief and reference images into an editable storyboard of keyframes that users refine before rendering with Ray3.2 or Seedance 2, cutting wasted generations.",
+        "details": "Luma AI has launched Luma Scenes, a review-before-render workflow for AI video. Instead of generating clips straight away, Scenes first produces a sequenced storyboard of editable keyframes from a written brief and reference images.\n\n- Storyboards are generated by Luma's Uni-1 model; each keyframe can be regenerated, commented on and re-timed before any video is rendered.\n- Final rendering can use Luma's Ray3.2, suited to several short clips, or ByteDance's Seedance 2, which typically produces longer clips.\n- Output comes in 9:16 vertical or 16:9 horizontal, and can be exported as one full video or as separate clips.\n\nLuma presents Scenes as a way to cut the cost of AI video production, because teams agree on the shots before paying for full renders. The feature is live now in Luma's app; the announcement did not include pricing details."
+      }
+    },
+    {
+      "id": "gema-v-suno-munich-ruling",
+      "date": "2026-07-31",
+      "type": "policy",
+      "importance": 3,
+      "sourceType": "official",
+      "sourceName": "GEMA",
+      "url": "https://www.gema.de/en/w/gema-prevails-over-suno",
+      "originalTitle": "Court rules in favour of music creators: GEMA prevails over SUNO, raising the bar for international copyright law",
+      "company": "Suno",
+      "tool": "",
+      "ar": {
+        "title": "محكمة ميونخ تحكم لصالح GEMA ضد Suno في أول قضية أوروبية لموسيقى الذكاء الاصطناعي",
+        "summary": "حكمت المحكمة الإقليمية في ميونخ لصالح جمعية حقوق الموسيقى الألمانية GEMA ضد Suno، معتبرة أن تدريب النموذج على أغانٍ محمية وإعادة إنتاجها دون ترخيص ينتهك حقوق المؤلف، والحكم قابل للاستئناف.",
+        "details": "أصدرت المحكمة الإقليمية في ميونخ في 31 يوليو 2026 حكماً جاء في معظمه لصالح GEMA، جمعية حقوق الموسيقى في ألمانيا، في دعواها ضد Suno، وهو أول حكم أوروبي يتناول أداة لتوليد الموسيقى بالذكاء الاصطناعي.\n\n- تمحورت القضية حول ست أغانٍ شهيرة هي Forever Young وAtemlos وMambo No. 5 وRasputin وBig in Japan وDaddy Cool.\n- بحسب GEMA، رأت المحكمة أن تدريب أنظمة Suno على أعمال GEMA دون ترخيص، وتخزين نسخ من الأعمال المحمية، وتوليد مخرجات مشابهة للأصل، كلها تنتهك حقوق المؤلف.\n- وتقول GEMA إن المحكمة أكدت أن مزودي الذكاء الاصطناعي ملزمون بالحصول على ترخيص منها حتى وفق قانون حقوق المؤلف الأمريكي، في أول مرة تبت فيها محكمة أوروبية في تدريب جرى داخل الولايات المتحدة.\n\nالحكم غير نهائي ويمكن لـSuno استئنافه، ويأتي بعد فوز GEMA على OpenAI أمام المحكمة نفسها في نوفمبر 2025، وهو حكم لا يزال قيد الاستئناف. وتطالب GEMA شركات الذكاء الاصطناعي بترخيص أعمالها ودفع مقابل عادل للمبدعين."
+      },
+      "en": {
+        "title": "Munich court rules for GEMA against Suno in first European AI-music case",
+        "summary": "The Munich Regional Court sided with German music rights society GEMA against Suno, finding that training on and reproducing protected songs without a licence infringed copyright. The ruling can be appealed.",
+        "details": "The Munich Regional Court ruled largely in favour of GEMA, Germany's music rights society, in its case against Suno on July 31, 2026. It is the first European judgment on a generative AI music tool.\n\n- The case centred on six well-known works: Forever Young, Atemlos, Mambo No. 5, Rasputin, Big in Japan and Daddy Cool.\n- According to GEMA, the court found that training Suno's systems on GEMA repertoire without a licence, storing copies of protected works and generating outputs similar to the originals all infringed copyright.\n- GEMA says the court also held that, even under U.S. copyright law, AI providers need a licence from GEMA, the first time a European court has ruled on AI training carried out in the United States.\n\nThe judgment is not final and Suno can appeal. It follows GEMA's November 2025 win against OpenAI in the same court, which is under appeal. GEMA is calling on AI companies to license its repertoire and pay creators fairly."
+      }
+    },
+    {
+      "id": "bytedance-seedance-2-5-launch",
+      "date": "2026-07-31",
+      "type": "media",
+      "importance": 2,
+      "sourceType": "official",
+      "sourceName": "ByteDance Seed Blog",
+      "url": "https://seed.bytedance.com/en/blog/one-take-creation-flexible-referencing-introducing-seedance-2-5",
+      "originalTitle": "One-take Creation, Flexible Referencing: Introducing Seedance 2.5",
+      "company": "ByteDance",
+      "tool": "Seedance 2.5",
+      "ar": {
+        "title": "ByteDance تطلق Seedance 2.5 لتوليد فيديو مع صوت حتى 30 ثانية في لقطة واحدة",
+        "summary": "أطلق فريق ByteDance Seed نموذج Seedance 2.5 لتوليد الصوت والفيديو معاً حتى 30 ثانية في اللقطة، مع دعم عشرات المراجع من الصور والفيديو والصوت، وتعديل دقيق على مستوى التوقيت.",
+        "details": "أطلق فريق ByteDance Seed نموذج Seedance 2.5 لتوليد الصوت والفيديو معاً، ويستهدف السرد الأطول في لقطة واحدة.\n\n- المدة: حتى 30 ثانية في كل عملية توليد، مع إمكانية التمديد على عدة جولات للوصول إلى مقاطع تمتد لدقائق.\n- المراجع: حتى 30 صورة و10 مقاطع فيديو و10 مقاطع صوتية في الطلب الواحد.\n- التعديل: يمكن استهداف توقيتات محددة داخل المقطع، مع دعم استبدال الخلفية الخضراء وتعديل زاوية الكاميرا والتعديل المعتمد على المراجع.\n- الصوت: يُولَّد الصوت والصورة معاً، مع التحكم في الموسيقى الخلفية.\n\nوعند الإطلاق طُرح النموذج في تطبيقي Jimeng AI وDoubao في الصين، مع إعلان وصول واجهة API عبر BytePlus ModelArk قريباً. وسرعان ما وصل إلى أدوات إبداعية عالمية، إذ أضافته Luma في 6 أغسطس، ووسّعت Runway دعمه إلى دقة 1080p في 15 أغسطس."
+      },
+      "en": {
+        "title": "ByteDance launches Seedance 2.5 with 30-second video and audio in one take",
+        "summary": "ByteDance's Seed team released Seedance 2.5, a joint audio-video model that generates up to 30 seconds per shot, accepts dozens of image, video and audio references, and adds timestamp-level editing.",
+        "details": "ByteDance Seed has released Seedance 2.5, a joint audio-video model aimed at longer, single-take storytelling.\n\n- Length: up to 30 seconds per generation, and clips can be extended over several rounds into multi-minute pieces.\n- References: up to 30 images, 10 video clips and 10 audio clips in a single request.\n- Editing: changes can target precise timestamps, and the model supports green-screen background replacement, camera-angle edits and reference-based edits.\n- Sound: audio and picture are generated together, with control over background music.\n\nAt launch the model rolled out in ByteDance's Jimeng AI and Doubao apps in China, with API access on BytePlus ModelArk announced as coming soon. It quickly reached international creative tools too: Luma added it on August 6, and Runway extended it to 1080p on August 15."
+      }
+    },
+    {
+      "id": "minimax-h3-hailuo-video-model",
+      "date": "2026-07-31",
+      "type": "media",
+      "importance": 2,
+      "sourceType": "official",
+      "sourceName": "MiniMax News",
+      "url": "https://www.minimax.io/blog/minimax-h3",
+      "originalTitle": "MiniMax H3: An Open Model Breaking the Boundaries Between Tasks and Modalities",
+      "company": "MiniMax",
+      "tool": "MiniMax H3 (Hailuo)",
+      "ar": {
+        "title": "MiniMax تطلق H3 لتوليد فيديو بدقة 2K مع صوت ستيريو أصلي",
+        "summary": "كشفت MiniMax عن نموذج H3 متعدد الوسائط لمنصة Hailuo، يولّد فيديو بدقة 2K حتى 15 ثانية مع صوت ستيريو أصلي من مدخلات نصية وصور وفيديو وصوت، وتعتزم نشر أوزانه مفتوحة.",
+        "details": "أطلقت MiniMax، الشركة المطورة لتطبيق Hailuo للفيديو، نموذج MiniMax H3 الذي يتعامل مع النص والصور والفيديو والصوت كسياق واحد وينتج فيديو مصحوباً بالصوت.\n\n- المخرجات: مقاطع حتى 15 ثانية بدقة 2K افتراضياً، مع خيار أقل بدقة 768p.\n- الصوت: صوت ستيريو أصلي، إذ دُرّب النموذج على الصوت والصورة معاً.\n- المراجع والتعديل: يدعم المراجع والتعديل من صورة إلى صورة ومن صورة إلى فيديو ومن صوت إلى صوت، وكذلك الصوت والفيديو معاً.\n- السعر: تقول MiniMax إن سعر الثانية بدقة 2K أقل من ثلث سعر النماذج الرائجة، وإن سعر 768p أقل من نصف سعر 720p لدى المنافسين.\n\nويتوفر عرض تجريبي على موقع Hailuo AI، وأعلنت الشركة أنها ستنشر أوزان النموذج بعد الإطلاق بفترة قصيرة. وخلال أيام أصبح متاحاً أيضاً على منصات إبداعية أخرى مثل Luma."
+      },
+      "en": {
+        "title": "MiniMax releases H3, a 2K video model with native stereo sound",
+        "summary": "MiniMax unveiled H3, an omni-modal model for its Hailuo platform that generates 2K video of up to 15 seconds with native stereo audio from text, image, video and audio inputs, and plans to open its weights.",
+        "details": "MiniMax, the company behind the Hailuo video app, has released MiniMax H3, a single model that takes text, images, video and audio as context and produces video with sound.\n\n- Output: clips of up to 15 seconds at 2K by default, with a lower 768p option.\n- Audio: native stereo sound, with audio and video modelled together during training.\n- References and editing: H3 supports reference-based generation and editing for image-to-image, image-to-video, audio-to-audio and combined audio-video tasks.\n- Price: MiniMax claims its 2K per-second price is under a third of mainstream models, and its 768p price under half of what rivals charge for 720p.\n\nA demo is available on the Hailuo AI website, and MiniMax said it would publish the model weights shortly after launch. Within days the model was also offered on other creative platforms, including Luma."
+      }
+    },
+    {
+      "id": "midjourney-v8-2-default-model",
+      "date": "2026-07-24",
+      "type": "media",
+      "importance": 2,
+      "sourceType": "official",
+      "sourceName": "Midjourney Updates",
+      "url": "https://updates.midjourney.com/version-8-2/",
+      "originalTitle": "Version 8.2",
+      "company": "Midjourney",
+      "tool": "Midjourney V8.2",
+      "ar": {
+        "title": "Midjourney تجعل V8.2 نموذجها الافتراضي مع تركيز على الجماليات والتخصيص",
+        "summary": "أطلقت Midjourney الإصدار V8.2 وجعلته النموذج الافتراضي، مع جماليات أكثر جرأة وتراجع في الصور منخفضة الجودة وتخصيص يعكس ذوق كل مستخدم بدقة أكبر.",
+        "details": "أطلقت Midjourney الإصدار 8.2 وجعلته النموذج الافتراضي على منصتها، بعد أن أصبح V8.1 هو الافتراضي في يونيو.\n\n- الجماليات: تقول الشركة إن الصور باتت أكثر إبداعاً وجرأة ورقياً.\n- الموثوقية: تتوقع Midjourney انخفاضاً كبيراً في النتائج منخفضة الجودة.\n- التخصيص: يفهم V8.2 ذوق المستخدم بدقة أكبر، خصوصاً في الملفات التي تضم عدداً كبيراً من التقييمات، كما تعتمد ملفات التخصيص الجديدة على مجموعة صور أكبر وأفضل للتقييم.\n\nودعت الشركة المستخدمين إلى إنشاء ملفات تخصيص جديدة لـV8.2 ومقارنتها بملفاتهم الحالية.\n\nوبعد شهر، في 27 أغسطس، بدأت Midjourney اختباراً مجتمعياً لنموذج تحرير لـV8 يعدّل الصور بتعليمات نصية، ويستخدم حتى أربع صور مرجعية، ويدعم التعديل داخل أجزاء من الصورة وتوسيع حدودها، على موقعي midjourney.com وalpha.midjourney.com."
+      },
+      "en": {
+        "title": "Midjourney makes V8.2 its default model, focusing on style and personalization",
+        "summary": "Midjourney released V8.2 and made it the default model. The update targets bolder aesthetics, fewer low-quality images and personalization that better reflects each user's taste.",
+        "details": "Midjourney has released Version 8.2 and made it the default model on the platform, after V8.1 became the default in June.\n\n- Aesthetics: Midjourney says images should look more creative, bold and sophisticated.\n- Reliability: the company expects far fewer low-quality results.\n- Personalization: V8.2 reads each user's taste more accurately, especially for profiles with many ratings, and new V8.2 personalization profiles draw on a larger, improved pool of images to rate.\n\nMidjourney encouraged users to build fresh V8.2 profiles and compare them with their existing ones.\n\nA month later, on August 27, Midjourney opened community testing of an editing model for V8 that edits images from text instructions, uses up to four reference images and supports inpainting and outpainting, on both midjourney.com and alpha.midjourney.com."
+      }
+    },
+    {
+      "id": "bfl-flux-3-multimodal-model",
+      "date": "2026-07-23",
+      "type": "media",
+      "importance": 3,
+      "sourceType": "official",
+      "sourceName": "Black Forest Labs Blog",
+      "url": "https://bfl.ai/blog/flux-3",
+      "originalTitle": "FLUX 3 - Real World Models: Towards Multimodal Flow Models as the Backbone of Visual Intelligence",
+      "company": "Black Forest Labs",
+      "tool": "FLUX 3",
+      "ar": {
+        "title": "Black Forest Labs تكشف FLUX 3: نموذج واحد للصور والفيديو والصوت",
+        "summary": "أعلنت Black Forest Labs عن FLUX 3، وهو نموذج متعدد الوسائط دُرّب على الصور والفيديو والصوت معاً، يولّد مقاطع حتى 20 ثانية مع صوت وحوار، وفُتحت واجهة الفيديو للمطورين في 4 أغسطس.",
+        "details": "أعلنت Black Forest Labs، مطورة نماذج الصور FLUX، عن FLUX 3، وهو نموذج واحد دُرّب على الصور والفيديو والصوت معاً بدلاً من الجمع بين أنظمة منفصلة.\n\n- الفيديو: حتى 20 ثانية في كل عملية توليد مع صوت أصلي يشمل الحوار والمؤثرات والأجواء، ومزامنة حركة الشفاه بأكثر من 12 لغة.\n- الأوضاع: من نص إلى فيديو، ومن صورة إلى فيديو مع إطارات رئيسية، ومواصلة مقطع قائم، وتعدد اللقطات، إضافة إلى وضع مسودة للمعاينة السريعة.\n- الإتاحة: بدأ الوصول المبكر للفيديو في 23 يوليو، ثم أصبح متاحاً عبر BFL API وشركاء مختارين في 4 أغسطس، على أن تلحقه قدرات الصور، مع إعلان نسخة أساسية مفتوحة الأوزان باسم FLUX 3 Dev لم تصدر بعد.\n\nوأضافت تحديثات لاحقة أداة لرفع دقة الفيديو حتى 3 أضعاف في 20 أغسطس، ودعم دقتي 2K و4K بسعر يتراوح بين 0.40 و0.95 دولار للثانية في 10 سبتمبر. كما تستخدم الشركة النموذج نفسه في الروبوتات مع شريكها mimic في منشآت Audi."
+      },
+      "en": {
+        "title": "Black Forest Labs unveils FLUX 3, one model for images, video and audio",
+        "summary": "Black Forest Labs announced FLUX 3, a multimodal model trained jointly on images, video and audio that generates clips of up to 20 seconds with sound and dialogue. Its video API opened on August 4.",
+        "details": "Black Forest Labs, maker of the FLUX image models, has announced FLUX 3, a single model trained jointly on images, video and audio rather than separate systems stitched together.\n\n- Video: up to 20 seconds per generation with native audio, including dialogue, sound effects and ambience, plus lip-sync in more than a dozen languages.\n- Modes: text-to-video, image-to-video with keyframes, video continuation and multi-shot generation, plus a draft mode for quick previews.\n- Access: video opened in early access on July 23 and became available through the BFL API and selected partners on August 4; image generation is due to follow, and an open-weight FLUX 3 Dev backbone has been announced but not released.\n\nLater updates added a video upscaler of up to 3x (August 20) and native 2K and 4K output priced at $0.40 to $0.95 per second (September 10). BFL is also applying the same backbone to robotics with partner mimic, whose robots have been tested at Audi."
+      }
+    },
+    {
+      "id": "runway-media-router-launch",
+      "date": "2026-07-23",
+      "type": "product",
+      "importance": 2,
+      "sourceType": "official",
+      "sourceName": "Runway News",
+      "url": "https://runway.com/news/company-news/introducing-runway-media-router",
+      "originalTitle": "Introducing Runway Media Router",
+      "company": "Runway",
+      "tool": "Runway Media Router",
+      "ar": {
+        "title": "Runway تطلق Media Router لاختيار أنسب نموذج ذكاء اصطناعي لكل طلب",
+        "summary": "أضافت Runway أداة Media Router إلى منصتها للمطورين، وهي تختار تلقائياً بين نماذج الفيديو والصور والصوت، من Runway ومن جهات أخرى، وفق إعدادات التكلفة والجودة والسرعة.",
+        "details": "قدّمت Runway أداة Media Router ضمن منصتها للمطورين Runway Dev. فبدلاً من ربط التطبيق بنموذج واحد، يحدد المطور متطلبات الطلب وتختار الأداة نموذج الفيديو أو الصورة أو الصوت الأنسب.\n\n- تشمل النماذج عند الإطلاق Gen-4.5 وAleph 2.0 وAct-Two من Runway، إضافة إلى خيارات من جهات أخرى مثل Seedance من ByteDance وGPT Image 2 من OpenAI ونماذج ElevenLabs.\n- تُضبط الأولويات بين التكلفة، مثل وضع سقف لسعر الثانية من الفيديو أو للصورة الواحدة، والجودة وزمن الاستجابة.\n- يمكن للفرق السماح بمزودين ونماذج محددة أو حظرها، وفرض قيود صارمة، وإجراء تجارب تحقق قبل التشغيل الفعلي، وحفظ إعدادات قابلة لإعادة الاستخدام لكل سير عمل.\n\nالأداة متاحة الآن لنماذج الفيديو والصور والصوت عبر dev.runway.com، ولم تعلن Runway تسعيراً منفصلاً لها. وهي تستهدف مطوري التطبيقات الذين يتعاملون مع عدة نماذج توليدية ويريدون قواعد اختيار يتحكمون بها بدلاً من الاختيار اليدوي."
+      },
+      "en": {
+        "title": "Runway launches Media Router to pick the best AI model for each request",
+        "summary": "Runway added Media Router to its developer platform. It automatically chooses among video, image and audio models, from Runway and third parties, based on the cost, quality and speed settings a team sets.",
+        "details": "Runway has introduced Media Router in Runway Dev, its developer platform. Instead of hard-coding one model, developers describe what a request needs and the router picks the most suitable video, image or audio model.\n\n- Models covered at launch include Runway's Gen-4.5, Aleph 2.0 and Act-Two, plus third-party options such as ByteDance's Seedance, OpenAI's GPT Image 2 and ElevenLabs.\n- Priorities are set across cost (for example a price cap per second of video or per image), quality and latency.\n- Teams can allow or block specific providers and models, apply hard constraints, run dry-run checks before going live and save reusable configurations for each workflow.\n\nThe feature is live for video, image and audio models at dev.runway.com; Runway did not publish separate pricing for it. It is aimed at app builders who work with several generative models and want rules they control instead of picking models by hand."
+      }
+    },
+    {
+      "id": "google-nano-banana-2-lite-ga",
+      "date": "2026-06-30",
+      "type": "media",
+      "importance": 2,
+      "sourceType": "official",
+      "sourceName": "Gemini API Changelog",
+      "url": "https://ai.google.dev/gemini-api/docs/changelog",
+      "originalTitle": "Released gemini-3.1-flash-lite-image (Nano Banana 2 Lite) to general availability (GA)",
+      "company": "Google",
+      "tool": "Nano Banana 2 Lite",
+      "ar": {
+        "title": "Google تتيح Nano Banana 2 Lite، أسرع نماذجها للصور، بشكل عام للمطورين",
+        "summary": "نقلت Google نموذج Nano Banana 2 Lite إلى الإتاحة العامة في Gemini API، وتقدّمه بوصفه أسرع نماذجها وأقلها تكلفة لتوليد الصور وتعديلها بكميات كبيرة.",
+        "details": "أتاحت Google نموذج Nano Banana 2 Lite، ومعرّفه البرمجي gemini-3.1-flash-lite-image، بشكل عام في Gemini API. وتصفه الشركة بأنه أسرع نماذج الصور في عائلة Gemini وأقلها تكلفة، وقد صُمم للحالات التي تكون فيها السرعة والتكلفة الأولوية، مثل توليد الصور أو تعديلها على نطاق واسع.\n\n- الدقة: 1K فقط، من دون خيارات 512 بكسل أو 2K أو 4K المتاحة في النماذج الأكبر.\n- نسب العرض: عشر صيغ، من 1:1 و4:5 إلى 9:16 و16:9 و21:9.\n- الحدود: غير مُحسَّن للمراجع المتعددة أو التعديل عبر عدة جولات، ولا يدعم الاستناد إلى بحث Google، ويبقى Nano Banana 2 وNano Banana Pro الخيار لهذه المهام.\n- تحمل صوره، مثل بقية نماذج Nano Banana، علامة SynthID مائية غير مرئية.\n\nوخلال أيام بدأت منصات إبداعية بإتاحته، ومنها Recraft التي أضافته إلى Recraft Studio مطلع يوليو لتوليد الأفكار السريعة."
+      },
+      "en": {
+        "title": "Google makes Nano Banana 2 Lite, its fastest image model, generally available",
+        "summary": "Google moved Nano Banana 2 Lite to general availability in the Gemini API, presenting it as its fastest and cheapest model for generating and editing images at high volume.",
+        "details": "Google has released Nano Banana 2 Lite, model ID gemini-3.1-flash-lite-image, to general availability in the Gemini API. Google describes it as its fastest and cheapest Gemini image model, built for cases where speed and cost matter most, such as generating or editing images at scale.\n\n- Resolution: 1K only, without the 512px, 2K or 4K options of the larger models.\n- Aspect ratios: ten formats, from 1:1 and 4:5 to 9:16, 16:9 and 21:9.\n- Limits: not optimised for multiple reference images or multi-turn editing, and no Google Search grounding; Nano Banana 2 and Nano Banana Pro remain the choice for those tasks.\n- Like all Nano Banana models, its images carry an invisible SynthID watermark.\n\nWithin days, creative platforms began offering it: Recraft, for example, added Nano Banana 2 Lite to Recraft Studio in early July for rapid concept work."
+      }
+    }
+  ],
+  "upcoming": [
+    {
+      "id": "canva-world-tour-2026",
+      "date": "2026-09-14",
+      "endDate": "2026-11-30",
+      "dateConfidence": "confirmed",
+      "type": "event",
+      "sourceType": "official",
+      "sourceName": "Canva Newsroom",
+      "url": "https://www.canva.com/newsroom/news/canva-world-tour-2026/",
+      "company": "Canva",
+      "tool": "Canva AI",
+      "ar": {
+        "title": "جولة Canva العالمية 2026 مستمرة حتى 30 نوفمبر مع تدريب مجاني على الذكاء الاصطناعي",
+        "summary": "تتواصل حملة Canva التعليمية العالمية من 14 سبتمبر حتى 30 نوفمبر، وتجمع لقاءات ودورات محلية مع شهادة AI Essentials المجانية لتعلم أدوات Canva AI بالوتيرة التي تناسب كل متعلم.",
+        "details": "عادت جولة Canva World Tour لعام 2026، وتستمر حول العالم من 14 سبتمبر حتى 30 نوفمبر.\n\n- الشكل: تنظم فرق Canva في دول مختلفة لقاءات مجتمعية محلية ودورات تدريبية مباشرة، ويمكن البحث عن أقرب فعالية عبر صفحة canva.com/events.\n- شهادة AI Essentials: شهادة مجانية جديدة يمكن لأي شخص إكمالها بالسرعة التي تناسبه، وتشرح كيفية الاستفادة القصوى من أدوات Canva AI.\n- دروس Design School: دروس قصيرة مصممة للهاتف تعلّم مهارة واحدة في كل مرة، وبعضها لا يتجاوز 90 ثانية.\n\nويمكن متابعة المحتوى التعليمي كله عبر الإنترنت من خلال Design School في أي وقت خلال فترة الحملة، ما يتيح المشاركة حتى في غياب فعالية محلية قريبة.",
+        "location": "حول العالم (فعاليات محلية وعبر الإنترنت)",
+        "dateNote": "الحملة بدأت في 14 سبتمبر وتنتهي في 30 نوفمبر 2026."
+      },
+      "en": {
+        "title": "Canva World Tour 2026 runs through November 30 with free AI training",
+        "summary": "Canva's global learning campaign runs from September 14 to November 30, combining local meetups and live trainings with a free, self-paced AI Essentials certification for Canva AI.",
+        "details": "Canva World Tour is back for 2026, running worldwide from September 14 through November 30.\n\n- Format: Canva teams in different countries host local community meetups and live training sessions; an event finder is available at canva.com/events.\n- AI Essentials: a new free certification that anyone can complete at their own pace, covering how to get the most out of Canva AI.\n- Design School: short, mobile-first lessons that teach one skill at a time, some lasting about 90 seconds.\n\nAll of the learning content can also be followed online through Canva Design School at any time during the campaign, so people can take part even without a local event nearby.",
+        "location": "Worldwide (local events and online)",
+        "dateNote": "Campaign started September 14 and ends November 30, 2026."
+      }
+    },
+    {
+      "id": "runway-ai-summit-2026",
+      "date": "2026-09-30",
+      "endDate": null,
+      "dateConfidence": "confirmed",
+      "type": "event",
+      "sourceType": "official",
+      "sourceName": "Runway AI Summit",
+      "url": "https://summit.runwayml.com/",
+      "company": "Runway",
+      "tool": "",
+      "ar": {
+        "title": "قمة Runway AI Summit تنعقد في سان فرانسيسكو في 30 سبتمبر",
+        "summary": "تعقد Runway قمة ليوم واحد في قاعة The Masonic بسان فرانسيسكو، تتناول توليد الفيديو اللحظي ونماذج العالم والروبوتات وسياسات الذكاء الاصطناعي، بمشاركة متحدثين من Runway وNVIDIA وGoogle DeepMind.",
+        "details": "تستضيف Runway قمة Runway AI Summit يوم 30 سبتمبر 2026 من التاسعة صباحاً حتى السادسة مساءً بتوقيت سان فرانسيسكو، في قاعة The Masonic بالعنوان 1111 California St. وتبلغ تذكرة الحضور الشخصي 350 دولاراً، ولا تذكر صفحة الحدث بثاً مباشراً عبر الإنترنت.\n\n- المحاور: توليد الفيديو اللحظي لأعمال الشركات الإبداعية، ونماذج العالم في الروبوتات والذكاء الاصطناعي المادي، وسياسات الذكاء الاصطناعي في الولايات المتحدة، وأحدث أبحاث Runway.\n- المتحدثون: الرئيسان التنفيذيان المشاركان لـRunway كريستوبال فالينزويلا وأناستاسيس جرمانيديس، وكوان فونغ من Physical Intelligence، ومينغ-يو ليو من NVIDIA، وجون بارون من Google DeepMind، والرئيسة السابقة للجنة التجارة الفيدرالية مورين أولهاوزن، مع ممثلين عن Adobe وCanva وElevenLabs.\n\nوتفتتح القمة بكلمة رئيسية عن نماذج العالم ووحدة Runway Robotics.",
+        "location": "The Masonic، سان فرانسيسكو، الولايات المتحدة",
+        "dateNote": "من 9 صباحاً إلى 6 مساءً بتوقيت المحيط الهادئ، أي من 7 مساءً بتوقيت الرياض والدوحة (8 مساءً بتوقيت الإمارات) حتى فجر 1 أكتوبر."
+      },
+      "en": {
+        "title": "Runway AI Summit takes place in San Francisco on September 30",
+        "summary": "Runway's one-day summit at The Masonic in San Francisco covers real-time video generation, world models and robotics, and AI policy, with speakers from Runway, NVIDIA, Google DeepMind and others.",
+        "details": "Runway will host the Runway AI Summit on September 30, 2026, from 9am to 6pm local time at The Masonic, 1111 California St, San Francisco. In-person tickets cost $350; the event page does not mention a livestream.\n\n- Topics: real-time video generation for enterprise creative work, world models for robotics and physical AI, AI policy in the United States, and Runway's latest research.\n- Speakers: Runway co-CEOs Cristóbal Valenzuela and Anastasis Germanidis, Physical Intelligence co-founder Quan Vuong, NVIDIA's Ming-Yu Liu, Google DeepMind's Jon Barron and former FTC chair Maureen Ohlhausen, plus representatives from Adobe, Canva and ElevenLabs.\n\nThe programme opens with a keynote on world models and Runway Robotics.",
+        "location": "The Masonic, San Francisco, USA",
+        "dateNote": "9am-6pm Pacific time, which is 7pm in Riyadh and Doha (8pm in the UAE) until early October 1."
+      }
+    },
+    {
+      "id": "elevenlabs-summit-bengaluru-2026",
+      "date": "2026-10-06",
+      "endDate": null,
+      "dateConfidence": "confirmed",
+      "type": "event",
+      "sourceType": "official",
+      "sourceName": "ElevenLabs Events",
+      "url": "https://elevenlabs.io/summit/bengaluru",
+      "company": "ElevenLabs",
+      "tool": "",
+      "ar": {
+        "title": "قمة ElevenLabs تنتقل إلى بنغالور في 6 أكتوبر",
+        "summary": "تعقد ElevenLabs قمة ليوم كامل في فندق The Leela Bhartiya ببنغالور في 6 أكتوبر حول الذكاء الاصطناعي الصوتي في الأعمال والحكومة والإبداع، على أن تليها قمة نيويورك في 11 نوفمبر.",
+        "details": "تنقل ElevenLabs سلسلة قممها إلى الهند بفعالية تستمر يوماً كاملاً في بنغالور يوم 6 أكتوبر 2026 في The Leela Bhartiya، من التسجيل في 9:30 صباحاً حتى جلسة التواصل الختامية في 6:20 مساءً.\n\n- المحاور: كيف يغير الذكاء الاصطناعي الصوتي الأعمال والعمل الحكومي والإبداع في الهند، وتجربة العملاء، وإتاحة التقنية لذوي الاحتياجات، واستخدامات الإعلام والتسويق، والتنوع اللغوي في الهند.\n- من المتحدثين: المؤسس المشارك لـElevenLabs ماتي ستانيشيفسكي، ووزير تقنية المعلومات في ولاية كارناتاكا بريانك خارجي، والرئيس التنفيذي لـRazorpay هارشيل ماثور، ومؤسس CARS24 فيكرام تشوبرا، وصانعا المحتوى تانماي بات وفارون مايا.\n\nويتم التسجيل عبر موقع ElevenLabs. والمحطة التالية في جدول القمم هي نيويورك في 11 نوفمبر 2026.",
+        "location": "The Leela Bhartiya، بنغالور، الهند",
+        "dateNote": "من 9:30 صباحاً إلى 6:20 مساءً بتوقيت الهند، أي من 7:00 إلى 15:50 بتوقيت الرياض والدوحة."
+      },
+      "en": {
+        "title": "ElevenLabs Summit comes to Bengaluru on October 6",
+        "summary": "ElevenLabs will hold a full-day summit at The Leela Bhartiya in Bengaluru on October 6, focused on voice AI in business, government and creative work; a New York edition follows on November 11.",
+        "details": "ElevenLabs is taking its summit series to India with a full-day event in Bengaluru on October 6, 2026 at The Leela Bhartiya, running from 9:30am registration to a 6:20pm networking session.\n\n- Themes: how voice AI is changing business, government and creative work in India, customer experience, accessibility, media and marketing uses, and India's multilingual landscape.\n- Speakers listed include ElevenLabs co-founder Mati Staniszewski, Karnataka IT minister Priyank Kharge, Razorpay CEO Harshil Mathur, CARS24 founder Vikram Chopra and creators Tanmay Bhat and Varun Mayya.\n\nSign-up is through the ElevenLabs website. The next stop on the summit calendar is New York on November 11, 2026.",
+        "location": "The Leela Bhartiya, Bengaluru, India",
+        "dateNote": "9:30am-6:20pm India time, i.e. 7:00-15:50 in Riyadh and Doha."
+      }
+    },
+    {
+      "id": "adobe-max-2026-miami-beach",
+      "date": "2026-11-10",
+      "endDate": "2026-11-12",
+      "dateConfidence": "confirmed",
+      "type": "event",
+      "sourceType": "official",
+      "sourceName": "Adobe MAX",
+      "url": "https://max.adobe.com/",
+      "company": "Adobe",
+      "tool": "Firefly",
+      "ar": {
+        "title": "مؤتمر Adobe MAX 2026 في ميامي بيتش من 10 إلى 12 نوفمبر مع حضور مجاني عبر الإنترنت",
+        "summary": "ينعقد مؤتمر Adobe السنوي للإبداع في مركز ميامي بيتش للمؤتمرات من 10 إلى 12 نوفمبر، مع دورات تمهيدية في 8 و9 نوفمبر وجلسات مجانية عبر الإنترنت يومي 10 و11 نوفمبر.",
+        "details": "ينعقد Adobe MAX 2026، المؤتمر الرئيسي للشركة الذي اعتادت أن تكشف فيه أبرز تحديثات Creative Cloud وFirefly، من 10 إلى 12 نوفمبر 2026 في مركز ميامي بيتش للمؤتمرات بولاية فلوريدا.\n\n- الدورات التمهيدية: يومي 8 و9 نوفمبر، للحضور الشخصي فقط.\n- الحضور عبر الإنترنت: التسجيل مجاني، ويُبث البرنامج الإلكتروني يومي 10 و11 نوفمبر.\n- تذاكر الحضور الشخصي: 1,995 دولاراً بالسعر العادي منذ 16 سبتمبر، مع أسعار مخفضة للمجموعات المكونة من ثلاث تذاكر أو أكثر (1,695 دولاراً للتذكرة منذ 16 سبتمبر) وللجهات الحكومية وغير الربحية والتعليمية (1,295 دولاراً) وللطلاب (399 دولاراً).\n\nوتعد الكلمات الرئيسية أبرز ما يترقبه المبدعون الذين يتابعون Firefly وPhotoshop وPremiere ونماذج الشركاء المدمجة في تطبيقات Adobe.",
+        "location": "مركز ميامي بيتش للمؤتمرات، فلوريدا، الولايات المتحدة + عبر الإنترنت",
+        "dateNote": "دورات تمهيدية في 8-9 نوفمبر؛ البث المجاني عبر الإنترنت في 10-11 نوفمبر."
+      },
+      "en": {
+        "title": "Adobe MAX 2026 runs November 10-12 in Miami Beach, with free online access",
+        "summary": "Adobe's annual creativity conference takes place at the Miami Beach Convention Center on November 10-12, with preconference courses on November 8-9 and free online sessions on November 10-11.",
+        "details": "Adobe MAX 2026, the company's main creativity conference and its usual stage for major Creative Cloud and Firefly announcements, takes place November 10-12, 2026 at the Miami Beach Convention Center in Florida.\n\n- Preconference: in-person-only courses on November 8-9.\n- Online: registration is free, with the online programme running November 10-11.\n- In-person passes: $1,995 at the regular rate from September 16, with lower prices for groups of three or more ($1,695 per pass from September 16), government, non-profit and education ($1,295) and students ($399).\n\nFor creators following Firefly, Photoshop, Premiere and the partner models built into Adobe's apps, the keynotes are the main moments to watch.",
+        "location": "Miami Beach Convention Center, Florida, USA + online",
+        "dateNote": "Preconference November 8-9; free online programme November 10-11."
+      }
+    },
+    {
+      "id": "affinity-for-ipad-november-2026",
+      "date": "2026-11-15",
+      "endDate": null,
+      "dateConfidence": "expected",
+      "type": "release",
+      "sourceType": "official",
+      "sourceName": "Canva Newsroom",
+      "url": "https://www.canva.com/newsroom/news/canva-prosuite-launch/",
+      "company": "Canva",
+      "tool": "Affinity",
+      "ar": {
+        "title": "تطبيق Affinity الجديد لأجهزة iPad من Canva مرتقب في نوفمبر",
+        "summary": "قالت Canva إن نسخة جديدة من Affinity لأجهزة iPad ستصدر في نوفمبر، لتنقل تطبيقها المجاني للتصميم الاحترافي وتحرير الصور، وهو جزء من حزمة Canva ProSuite، إلى جهاز Apple اللوحي.",
+        "details": "ضمن إعلان حزمة Canva ProSuite في سبتمبر، قالت Canva إن تطبيق Affinity الجديد لأجهزة iPad سيصل في نوفمبر 2026، من دون تحديد يوم بعينه.\n\n- Affinity هو تطبيق Canva الاحترافي للتصميم المتجه وتحرير الصور وتنسيق الصفحات، ونسخته الأساسية مجانية، وقد صدر إصداره 3.3 مع إطلاق ProSuite.\n- تفتح خطط Canva المدفوعة ميزات Canva AI Studio داخل Affinity.\n- تربط الحزمة Affinity مع Cavalry للرسوم المتحركة وFlourish لتصوير البيانات وLeonardo لتوليد الصور بالذكاء الاصطناعي.\n\nولم تؤكد Canva بعد ما إذا كانت ميزات الذكاء الاصطناعي أو الربط مع بقية تطبيقات ProSuite ستتوفر في نسخة iPad منذ إطلاقها.",
+        "location": "",
+        "dateNote": "أعلنت Canva الشهر فقط (نوفمبر)؛ تاريخ 15 نوفمبر تقدير لمنتصف الشهر وليس موعداً معلناً."
+      },
+      "en": {
+        "title": "Canva's new Affinity for iPad is due in November",
+        "summary": "Canva says a new Affinity app for iPad will launch in November, bringing its free professional design and photo-editing app, part of the new Canva ProSuite, to Apple's tablet.",
+        "details": "As part of the Canva ProSuite announcement in September, Canva said the new Affinity for iPad lands in November 2026. It has not given an exact day.\n\n- Affinity is Canva's professional app for vector design, photo editing and page layout; its core version is free, and version 3.3 arrived with the ProSuite launch.\n- Paid Canva plans unlock Canva AI Studio features inside Affinity.\n- The ProSuite links Affinity with Cavalry for motion, Flourish for data visualisation and Leonardo for AI image generation.\n\nCanva has not yet confirmed whether AI features or links to the other ProSuite apps will be available on iPad at launch.",
+        "location": "",
+        "dateNote": "Canva only said November; November 15 is a mid-month estimate, not an announced date."
+      }
+    },
+    {
+      "id": "openai-legacy-gpt-image-models-shutdown",
+      "date": "2026-12-01",
+      "endDate": null,
+      "dateConfidence": "confirmed",
+      "type": "media",
+      "sourceType": "official",
+      "sourceName": "OpenAI API Deprecations",
+      "url": "https://developers.openai.com/api/docs/deprecations",
+      "company": "OpenAI",
+      "tool": "GPT Image",
+      "ar": {
+        "title": "OpenAI تزيل نماذج GPT Image الأقدم من واجهتها البرمجية في 1 ديسمبر",
+        "summary": "تعتزم OpenAI إيقاف النماذج gpt-image-1-mini وgpt-image-1.5 وchatgpt-image-latest في واجهتها البرمجية في 1 ديسمبر 2026، وتوصي بالانتقال إلى gpt-image-2.",
+        "details": "أبلغت OpenAI المطورين في 2 يونيو 2026 بأن ثلاثة نماذج أقدم لتوليد الصور ستُزال من واجهتها البرمجية في 1 ديسمبر 2026:\n\n- النموذج gpt-image-1-mini، والبديل الموصى به gpt-image-2.\n- النموذج gpt-image-1.5، والبديل الموصى به gpt-image-2.\n- النموذج chatgpt-image-latest، والبديل الموصى به gpt-image-2.\n\nوعلى التطبيقات والأدوات الإبداعية التي لا تزال تستخدم هذه النماذج الانتقال قبل الموعد، وإلا ستتوقف طلبات الصور لديها عن العمل. والبديل الرسمي هو gpt-image-2، كما يمكن تجربة نموذجي GPT-Image-2.5 Flare وSunburst اللذين صدرا في سبتمبر.\n\nويأتي ذلك ضمن مراجعة OpenAI لنماذج الوسائط هذا العام، إذ حددت صفحة الإيقاف لديها 24 سبتمبر 2026 موعداً لإزالة Sora 2 وواجهة Videos API.",
+        "location": "",
+        "dateNote": ""
+      },
+      "en": {
+        "title": "OpenAI will remove older GPT Image models from its API on December 1",
+        "summary": "OpenAI plans to shut down gpt-image-1-mini, gpt-image-1.5 and chatgpt-image-latest in its API on December 1, 2026, and recommends moving to gpt-image-2.",
+        "details": "OpenAI notified developers on June 2, 2026 that three older image models will be removed from its API on December 1, 2026:\n\n- gpt-image-1-mini, with gpt-image-2 as the recommended replacement.\n- gpt-image-1.5, with gpt-image-2 as the recommended replacement.\n- chatgpt-image-latest, with gpt-image-2 as the recommended replacement.\n\nApps and creative tools still calling these models need to migrate before the deadline, or their image requests will stop working. The official replacement is gpt-image-2, and the GPT-Image-2.5 Flare and Sunburst models released in September are another option.\n\nIt is part of a wider clean-up of OpenAI's media models this year: its deprecations page set September 24, 2026 as the removal date for Sora 2 and the Videos API.",
+        "location": "",
+        "dateNote": ""
+      }
+    }
+  ]
+}

@@ -1,0 +1,780 @@
+{
+  "topic": "once-human",
+  "generatedAt": "2026-09-27",
+  "news": [
+    {
+      "id": "oh-beast-whistle-fix-plan",
+      "date": "2026-09-23",
+      "type": "announcement",
+      "importance": 1,
+      "sourceType": "official",
+      "sourceName": "Once Human — Official Website",
+      "url": "https://www.oncehuman.game/news/devBlog/20260923/40781_1314860.html",
+      "originalTitle": "Special Notes on Beastmaster Beast Whistle Feature and Future Optimization Plans",
+      "ar": {
+        "title": "شرح تغييرات Beast Whistle وإصلاحات مقررة في 28 سبتمبر و21 أكتوبر و4 نوفمبر",
+        "summary": "بعد بلاغات عن توقف الصافرة عن استدعاء الحيوانات، شرح الفريق النظام الجديد وحدد إصلاحات لفئة Beastmaster عبر التحديثات الثلاثة المقبلة.",
+        "details": "منذ تحديث الفئات في 16 سبتمبر أبلغ كثير من لاعبي Beastmaster أن Beast Whistle لم تعد تستدعي الحيوانات. وأوضح الفريق أن ذلك مقصود: فالحيوانات تُحمل الآن وتُستدعى مباشرة من عنصرها، بينما دُمجت الصافرات الثلاث القديمة في Beast Whistle واحدة تُستخدم لإصدار الأوامر فقط. وتحولت الصافرة الحمراء القديمة تلقائيًا، ويمكن تحويل الصافرتين الأخريين باستخدامهما.\n\nالتحسينات المقررة:\n- تحديث 28 سبتمبر: صافرة واحدة تأمر عدة حيوانات معًا، وتصحيح عرض وزن الحيوانات المحمولة (الدب يزن فعليًا 10.5 لا 35 كما يظهر)\n- تحديث 21 أكتوبر: إصلاح سمة Nimble التي لا تعمل كما ينبغي\n- تحديث 4 نوفمبر: إصدار الأوامر عبر زر الوسم (زر الفأرة الأوسط على PC، وزر الوسم على الجوال، والنقر المزدوج على السهم العلوي في وحدة التحكم) عند حمل الصافرة\n\nوأكد الفريق أنه سيواصل تحسين استجابة الحيوانات المستدعاة للأوامر."
+      },
+      "en": {
+        "title": "Beast Whistle changes explained, with fixes set for Sept 28, Oct 21 and Nov 4",
+        "summary": "After reports that whistles no longer summon animals, the team explained the new system and set out Beastmaster fixes across the next three updates.",
+        "details": "Since the September 16 (PT) class update, many Beastmaster players have reported that their Beast Whistles no longer summon animals. The team explained this is by design: animals are now carried and summoned directly from their item, while the three old whistles were merged into a single \"Beast Whistle\" used only to give commands. The old red whistle was renamed automatically; the other two can be converted by using them.\n\nPlanned improvements:\n- September 28 update: one whistle can command several animals at once, and the carry-weight display is corrected (a bear actually weighs 10.5, not the 35 shown)\n- October 21 update: a fix for the \"Nimble\" trait, which does not work as intended\n- November 4 update: commands through the tag button (middle mouse on PC, tag button on mobile, double-tap Up on a controller's D-pad) while carrying a whistle\n\nThe team also said it will keep refining how summoned animals respond to commands."
+      }
+    },
+    {
+      "id": "oh-isles-of-abyss-release-date",
+      "date": "2026-09-19",
+      "type": "scenario",
+      "importance": 3,
+      "sourceType": "official",
+      "sourceName": "Once Human — Official YouTube",
+      "url": "https://www.youtube.com/watch?v=C8nwKvJF4Sc",
+      "originalTitle": "Once Human | Free Ocean Expansion: Isles of Abyss Coming October 21 (PT)",
+      "ar": {
+        "title": "توسعة Isles of Abyss المجانية لـOnce Human تصل في 21 أكتوبر (بتوقيت المحيط الهادئ)",
+        "summary": "أكبر تحديث مجاني للعبة، مع بناء السفن وخمس مناطق بحرية، يصل في 21 أكتوبر بتوقيت المحيط الهادئ (وتذكر Xbox موعد 22 أكتوبر) على PC والجوال وPS5 وXbox.",
+        "details": "أعلنت القنوات الرسمية لـOnce Human في 19 سبتمبر أن توسعة Ocean Expansion: Isles of Abyss ستصل مجانًا في 21 أكتوبر بتوقيت المحيط الهادئ، بعد أن عُرض إعلان موعد الإطلاق لأول مرة ضمن بث Xbox في معرض Tokyo Game Show 2026 يوم 17 سبتمبر. وتذكر Xbox موعد 22 أكتوبر، وهو الموعد المتوقع لوصولها إلى منطقة الخليج.\n\nيدور الإعلان حول مذكرات تجرفها الأمواج تضم ست قواعد للنجاة في محيط غريب وحيّ. وبحسب وصف Xbox، سيبني اللاعبون سفنهم الخاصة ويواجهون مخاطر عبر خمس مناطق بحرية، كما ذكرت Xbox أن التوسعة متاحة لمشتركي Game Pass.\n\nومن المحتوى المؤكد في ملاحظات الاختبار الأخير: الإبحار لتحدي Calamity Towers، ومهاجمة سفن Voyager الجوالة، وأربع فعاليات بقاء من نوع Haywire Zones، واستكشاف الحطام والمختبرات تحت الماء، وزنزانة The Sunken Lord لأربعة لاعبين.\n\nوتدعم التوسعة اللعب المشترك بين PC والجوال وPS5 وXbox Series X|S، كما أشارت ملاحظة أخرى للمطورين إلى تحديث للإصدار في 21 أكتوبر."
+      },
+      "en": {
+        "title": "Once Human's free Isles of Abyss ocean expansion launches October 21 (PT)",
+        "summary": "The biggest free update yet, with ship-building and five ocean regions, arrives October 21 (PT), a date Xbox lists as October 22, on PC, mobile, PS5 and Xbox.",
+        "details": "Once Human's official channels announced on September 19 that \"Ocean Expansion: Isles of Abyss\" will launch on October 21 (PT) as a free update, after the release-date trailer first aired in Xbox's Tokyo Game Show 2026 broadcast on September 17. Xbox lists the date as October 22, which is also when it should arrive in the Gulf.\n\nThe trailer centres on a washed-up journal listing six rules for surviving a strange, living ocean. According to Xbox's description, players will build their own ships and face threats across five ocean regions; Xbox also said the expansion is included for Game Pass members.\n\nContent confirmed in the final-test notes includes sailing to Calamity Towers, raiding roaming Voyager ships, four \"Haywire Zone\" survival events, underwater exploration of wrecks and labs, and a four-player dungeon, \"The Sunken Lord\".\n\nThe expansion supports cross-play across PC, mobile, PS5 and Xbox Series X|S, and a separate developer note also refers to a version update on October 21."
+      }
+    },
+    {
+      "id": "oh-meta-hotline-vol-9",
+      "date": "2026-09-17",
+      "type": "announcement",
+      "importance": 1,
+      "sourceType": "official",
+      "sourceName": "Once Human — Official Website",
+      "url": "https://www.oncehuman.game/news/update/20260916/40780_1314062.html",
+      "originalTitle": "Meta Hotline | Hot Feedback and Optimization Progress Vol. 9",
+      "ar": {
+        "title": "Meta Hotline 9: سلة تسوق وإضعاف Acting Physician وخيول قابلة للركوب",
+        "summary": "ردّ الفريق على أبرز طلبات اللاعبين: سلة تسوق للمتجر، وإعادة موازنة العدو الصعب Acting Physician، وخيول يمكن ركوبها وتربيتها بعد الحيوانات المائية.",
+        "details": "تناول التقرير التاسع من Meta Hotline لوحة Hot Charts حتى 16 سبتمبر:\n\n- سلة تسوق للمتجر: مقبول وقيد التخطيط، لتسهيل دفع ثمن عدة عناصر معًا واستخدام القسائم المرتبطة بقيمة الشراء\n- إضعاف Acting Physician: مقبول؛ أقرّ الفريق بأن شرح نقطة ضعفه (الشاشة الزرقاء) لم يكن واضحًا وبأن إحصاءاته مرتفعة، وستُراجع آلياته وأرقامه بالكامل\n- خيول قابلة للركوب والتربية: مقبول، بعد إتاحة ركوب الحيوانات المائية\n- استرداد المواد الأساسية عند تفكيك المباني: مقبول، مع تحسين قواعد التخزين\n- أولوية Portable Fridge على Corrosive Agent: عولج في 2 سبتمبر بتحويل Corrosive Agent إلى عنصر يُشغَّل ويُطفأ بمتانة 60 دقيقة\n- الانتقال إلى القاعدة مع حمولة زائدة في Phantom Pollution Zones: لا تغيير، لأن هذه المناطق تمنح غنائم مضاعفة\n\nولم تُحدد مواعيد للبنود المقبولة."
+      },
+      "en": {
+        "title": "Meta Hotline Vol. 9: shopping cart, Acting Physician nerf and horses planned",
+        "summary": "Top player requests answered: a shopping cart for the shop, a rebalance of the tough Acting Physician enemy, and rideable, breedable horses after aquatic mounts.",
+        "details": "The ninth Meta Hotline covered the Feedback Hot Charts as of September 16.\n\n- A shopping cart for the shop: accepted and in planning, to allow paying for several items at once and using spend-based coupons more easily\n- Nerf the Acting Physician: accepted; the team admitted the enemy's weak point (its blue terminal) was poorly explained and its elite stats too high, and a full review of its mechanics and numbers is planned\n- Rideable and breedable horses: accepted, to follow water-animal riding\n- Refunding base materials when dismantling buildings: accepted, with storage rules to be improved\n- Portable Fridge vs Corrosive Agent: already addressed on September 2, when the Corrosive Agent became an on/off item with 60 minutes of durability\n- Teleporting home while overloaded in Phantom Pollution Zones: unchanged, because those zones give double loot\n\nNo release dates were given for the accepted items."
+      }
+    },
+    {
+      "id": "oh-version-3-0-6-beast-riding",
+      "date": "2026-09-16",
+      "type": "update",
+      "importance": 3,
+      "sourceType": "official",
+      "sourceName": "Once Human — Official Website",
+      "url": "https://www.oncehuman.game/news/devBlog/20260916/40781_1314019.html",
+      "originalTitle": "Version 3.0.6 Update Announcement (September 16)",
+      "ar": {
+        "title": "تحديث 3.0.6: ركوب الحيوانات وانطلاق الاختبار الأخير لـIsles of Abyss",
+        "summary": "أضاف تحديث 16 سبتمبر ركوب الحيوانات لفئة Beastmaster، وتبسيط تربية الماشية، وإعادة تصميم Gardener، ودمج خوادم دائمة، وبدء الاختبار الأخير لـIsles of Abyss.",
+        "details": "وصل الإصدار 3.0.6 بعد صيانة في 16 سبتمبر الساعة 4:00 عصرًا بتوقيت المحيط الهادئ (2:00 فجر 17 سبتمبر بتوقيت الخليج)، بأحجام تقارب 9.6 غيغابايت على PS5 و13 غيغابايت على Xbox و7.6 غيغابايت لمشغّل PC و1.8 غيغابايت على الجوال.\n\nأبرز المحتوى:\n- ركوب الحيوانات: يستدعي Beastmaster الغزلان والخنازير البرية والدببة والجواميس ويركبها، ومع السرج تُفتح مهاراتها النشطة والسلبية\n- تبسيط التربية لتعتمد على الطاقة فقط (إزالة الألفة والترطيب)، وإضافة تتبّع الحيوانات إلى خريطة العالم\n- صناديق الزراعة المتنقلة لفئة Gardener تحمل أنواعًا متعددة من المحاصيل الميكانيكية الحيوية مع نظام متانة\n- دمج خوادم The Way of Winter الدائمة، وانطلاق الاختبار الأخير لـIsles of Abyss في أمريكا الشمالية\n- ضمان نجاح تحويل Shiny Mod في المحاولة السادسة بعد خمس محاولات فاشلة\n- مسبح Golden Shore Pool أصبح صالحًا للسباحة، ودعم Intel XeSS 3.0 وتوليد الإطارات على PC\n- تمديد موسم Visional Wheel S4: Gravity Abyss حتى 18 نوفمبر\n\nوأضاف المتجر صندوق Moon That Lingers ذا الطابع القمري، وحُدد التحديث التالي في 28 سبتمبر الساعة 4:00 عصرًا بتوقيت المحيط الهادئ."
+      },
+      "en": {
+        "title": "Version 3.0.6: beast riding arrives and Isles of Abyss final test begins",
+        "summary": "The September 16 (PT) patch added rideable animals for Beastmasters, simpler ranching, a Gardener rework, permanent-server merges and the Isles of Abyss final test.",
+        "details": "Version 3.0.6 went live after maintenance on September 16 at 4:00 PM PT (2:00 AM on September 17, Gulf time). Downloads were about 9.6 GB on PS5, 13 GB on Xbox, 7.6 GB on the PC launcher and 1.8 GB on mobile.\n\nHighlights:\n- Beast Riding: Beastmasters can summon and ride deer, boar, bear and wild buffalo; with a saddle they unlock each animal's active and passive skills\n- Ranching simplified around Energy (Tameness and Hydration removed), and animals added to world-map tracking\n- Gardener Portable Planter Boxes can hold several Biomechanical types, now with durability\n- The Way of Winter permanent servers merged; the Isles of Abyss final test opened in North America\n- Shiny Mods gain a pity system: the sixth attempt after five failures is guaranteed\n- The Golden Shore Pool became swimmable; Intel XeSS 3.0 and frame generation were added on PC\n- Visional Wheel S4: Gravity Abyss was extended to November 18 (PT)\n\nThe shop added the moon-themed Moon That Lingers crate, and the next update was set for September 28 at 4:00 PM PT."
+      }
+    },
+    {
+      "id": "oh-hyper-brawl-open-tournament",
+      "date": "2026-09-16",
+      "type": "community",
+      "importance": 1,
+      "sourceType": "official",
+      "sourceName": "Once Human — Official Website",
+      "url": "https://www.oncehuman.game/news/devBlog/20260916/40781_1314019.html",
+      "originalTitle": "Version 3.0.6 Update Announcement (September 16)",
+      "ar": {
+        "title": "أول بطولة مفتوحة Hyper Brawl على الخوادم المخصصة في أمريكا الشمالية وأوروبا",
+        "summary": "أعلنت Once Human أول بطولة مفتوحة لطور Hyper Brawl على الخوادم المخصصة: تصفيات حسب عدد الإقصاءات بين 19 و21 سبتمبر، ونهائي يضم 68 لاعبًا في 24 سبتمبر.",
+        "details": "مع الإصدار 3.0.6 أعلنت Once Human أول بطولة مفتوحة لطور Hyper Brawl، وهي باكورة سلسلة بطولات على الخوادم المخصصة (Custom Server). ويعتمد Hyper Brawl على RaidZone، وتدور معاركه داخل منطقة آمنة تضيق تدريجيًا.\n\nالنظام (بتوقيت الخادم، على خوادم أمريكا الشمالية وأوروبا):\n- التصفيات: من 19 إلى 21 سبتمبر يوميًا من 18:00 إلى 20:00، ويُحتسب الترتيب بعدد الإقصاءات، مع 20 مقعدًا متأهلًا في كل جولة\n- النهائي: 24 سبتمبر، يواجه فيه 60 متأهلًا ثمانية لاعبين مدعوين «غامضين» في مباراة تضم 68 لاعبًا\n- الجوائز: جوائز لم يُكشف عنها إضافة إلى Crystgin، ولقب Gun King الأول على الخوادم المخصصة\n\nوجعل التحديث نفسه Hyper Brawl طورًا رسميًا على الخوادم المخصصة بمراحل مجدولة يمكن ضبط كل منها على حدة، مع نقاط تموين عبر آلات البيع يحددها المضيف. وأشار الفريق إلى أن تفاصيل التسجيل ستصدر في إعلانات رسمية لاحقة."
+      },
+      "en": {
+        "title": "First Custom Server 'Hyper Brawl' Open Tournament set for NA and Europe",
+        "summary": "Once Human announced its first Custom Server Hyper Brawl Open Tournament: kill-ranked qualifiers on September 19–21 and a 68-player final on September 24.",
+        "details": "Alongside version 3.0.6, Once Human announced the first \"Hyper Brawl\" Open Tournament, the opening event of a Custom Server tournament series. Hyper Brawl is a RaidZone-based mode in which gunfights take place inside a steadily shrinking safe zone.\n\nFormat (server time, on North America and Europe servers):\n- Qualifiers: September 19–21, from 18:00 to 20:00 each day, ranked by kills, with 20 qualifying spots per round\n- Final: September 24, where the 60 qualifiers face 8 \"mysterious\" invited players in a 68-player match\n- Prizes: undisclosed \"mysterious prizes\" plus Crystgin, and the first Custom Server \"Gun King\" title\n\nThe same update made Hyper Brawl an official Custom Server mode, with timed stages that can each be configured separately and vending-machine supply points set by hosts. Registration details were to follow in separate official announcements."
+      }
+    },
+    {
+      "id": "oh-beastmaster-summon-limit-reversal",
+      "date": "2026-09-15",
+      "type": "announcement",
+      "importance": 2,
+      "sourceType": "official",
+      "sourceName": "Once Human — Official Website",
+      "url": "https://www.oncehuman.game/news/devBlog/20260915/40781_1313919.html",
+      "originalTitle": "Dev Blog | Animal Summon Limit Adjustments for Beastmasters & Other FAQ about Class System",
+      "ar": {
+        "title": "بعد اعتراض اللاعبين: Beastmaster يحتفظ باستدعاء ثلاثة حيوانات في Once Human",
+        "summary": "تراجع الاستوديو عن حصر استدعاء Beastmaster في حيوان واحد؛ ويسري حد الحيوان الواحد بين تحديثي 16 و28 سبتمبر قبل استعادة الحد إلى ثلاثة.",
+        "details": "أعلنت مدونة للمطورين في 12 سبتمبر أن فئة Beastmaster ستحصل على ميزة ركوب الحيوانات مع تقييد الاستدعاء بحيوان واحد فقط. وبعد موجة من ملاحظات المجتمع، أقرّ المطورون بأنهم أغفلوا سبب حب اللاعبين لهذه الفئة وتراجعوا عن القرار.\n\nما تقرر:\n- يحتفظ Beastmaster باستدعاء ثلاثة حيوانات في وقت واحد، ولبقية الفئات حيوان واحد\n- بسبب جدول التطوير سرى حد الحيوان الواحد بين تحديثي 16 و28 سبتمبر بتوقيت المحيط الهادئ، واعتذر الفريق عن ذلك\n- يحمل Beastmaster الحيوانات بوزن أقل بنسبة 70%\n- تحتفظ سمات تعدد الحيوانات والحيوانات المُربّاة بقيمتها\n\nوأكدت الأسئلة الشائعة إمكانية ركوب الغزلان والخنازير البرية والدببة والجواميس، وأن الحيوانات المائية هي التالية، وأن الركوب متاح في الزنزانات والفعاليات العامة. كما رُفعت نسبة نجاح التطعيم لمحصولي The Portal (من 50% إلى 80%) وRainfall Reaper (من 20% إلى 80%) لفئة Gardener."
+      },
+      "en": {
+        "title": "After backlash, Beastmasters will keep three animal summons in Once Human",
+        "summary": "The studio reversed plans to cap Beastmasters at one summoned animal. A one-animal limit applies from September 16 until the September 28 (PT) update restores three.",
+        "details": "A September 12 dev blog announced that the Beastmaster class would gain beast riding but be limited to one summoned animal at a time. After a wave of community feedback, the developers admitted they had overlooked why players love the class and changed course.\n\nWhat was decided:\n- Beastmasters keep three simultaneous summons; other classes get one\n- Because of the development schedule, the one-animal limit still applied between the September 16 and September 28 (PT) updates, for which the team apologised\n- Beastmasters carry animals with 70% less weight\n- Existing multi-animal traits and bred animals keep their value\n\nThe FAQ also confirmed that deer, boar, bear and wild buffalo can be ridden, that aquatic mounts come next, and that riding works in dungeons and public events. Gardeners get better grafting odds for two Biomechanical crops: The Portal (from 50% to 80%) and Rainfall Reaper (from 20% to 80%)."
+      }
+    },
+    {
+      "id": "oh-permanent-server-merge",
+      "date": "2026-09-14",
+      "type": "announcement",
+      "importance": 2,
+      "sourceType": "official",
+      "sourceName": "Once Human — Official Website",
+      "url": "https://www.oncehuman.game/news/devBlog/20260914/40781_1313806.html",
+      "originalTitle": "Dev Blog | Permanent Scenario Server Merge Notice",
+      "ar": {
+        "title": "Once Human تبدأ دمج الخوادم الدائمة للسيناريوهات بدءًا من The Way of Winter",
+        "summary": "لمعالجة العوالم شبه الفارغة وتفرّق الأصدقاء، تُدمج الخوادم الدائمة للسيناريو نفسه في خادم واحد لكل منطقة، مع الحفاظ على المستوى والموارد والتقنيات.",
+        "details": "أصبحت الخوادم الدائمة في Once Human، التي يبقى فيها اللاعبون بعد انتهاء السيناريو، مشتتة وقليلة السكان، وتفرّق الأصدقاء بينها. لذا أعلن الفريق دمج جميع الخوادم الدائمة للسيناريو نفسه في كل منطقة ضمن خادم جديد واحد يضم عددًا كافيًا من العوالم.\n\nقواعد الدمج:\n- انتقال مستوى الشخصية والموارد والتقنيات وعضوية المجموعات، مع إعادة ضبط المهام وفق تحديات الخادم الجديد\n- الحفاظ على إحداثيات المناطق قدر الإمكان، وتعويض من تُطوى قاعدته عبر البريد\n- دمج خوادم The Way of Winter بنسختيها 1.0 و2.0 مع إعادة نقاط التقنية بالبريد\n- حدود لعدد اللاعبين والمناطق والفعاليات النشطة في كل عالم\n\nوبعد ملاحظات اللاعبين، ضيّقت ملاحظات تحديث 16 سبتمبر المرحلة الأولى: دُمجت خوادم The Way of Winter خلال صيانة ذلك اليوم في جميع المناطق، وتقرر بدء دمج Deviation: Survive, Capture, Preserve في أمريكا الجنوبية في 17 سبتمبر على أن تتبعه مناطق أخرى، بينما لا توجد حاليًا خطط لدمج Manibus وEndless Dream."
+      },
+      "en": {
+        "title": "Once Human begins merging permanent servers, starting with The Way of Winter",
+        "summary": "To fix empty worlds and split friend groups, permanent servers of the same scenario are being merged into one per region, keeping levels, supplies and tech.",
+        "details": "Once Human's permanent servers, where players can stay after a scenario ends, had become fragmented, with low populations and friends stuck on different servers. The team announced it will merge all permanent servers of the same scenario in each region into a single new server with enough worlds.\n\nMerge rules:\n- Character level, supplies, tech and Hive membership carry over; task progress resets to the new server's challenges\n- Territories keep their coordinates where possible; displaced bases are packed up, with compensation by mail\n- The Way of Winter 1.0 and 2.0 servers are combined, with tech points restored by mail\n- Each world may cap players, territories and active events\n\nAfter feedback, the September 16 (PT) patch notes narrowed the first phase: The Way of Winter merged during that maintenance in all regions, and Deviation: Survive, Capture, Preserve was scheduled to start in South America on September 17, with other regions later. Manibus and Endless Dream have no merge plans for now."
+      }
+    },
+    {
+      "id": "oh-free-reshaping-hair-dye",
+      "date": "2026-09-13",
+      "type": "announcement",
+      "importance": 2,
+      "sourceType": "official",
+      "sourceName": "Once Human — Official Website",
+      "url": "https://www.oncehuman.game/news/devBlog/20260911/40781_1313623.html",
+      "originalTitle": "Dev Blog | Character Customization and Hair Dye Are Now Free",
+      "ar": {
+        "title": "تعديل الوجه والجسم وصبغ الشعر مجانًا في Once Human بدءًا من 28 سبتمبر",
+        "summary": "مع تحديث 28 سبتمبر يصبح تعديل الملامح وصبغ الشعر مجانيًا، وينخفض سعر رمز تغيير الجنس من 880 إلى 300 Crystgin، مع تعويض المشترين خلال الأشهر الثلاثة السابقة.",
+        "details": "قال استوديو Starry Studio إن تغيير مظهر الشخصية أصبح معقدًا ومكلفًا، إذ كان كل تعديل يتطلب Chrysalis Token وكل تغيير للون الشعر يتطلب Butterfly Dye من المتجر.\n\nمع تحديث 28 سبتمبر بتوقيت المحيط الهادئ:\n- تعديل الوجه والجسم وصبغ الشعر بلوحة الألوان مجانًا عبر المرآة في منطقة اللاعب\n- سحب Chrysalis Token وButterfly Dye من البيع، مع إمكانية تحويل ما يملكه اللاعبون منهما إلى Colorful Badges\n- الإبقاء على Metamorphosis Token لتغيير الجنس مع خفض سعره من 880 إلى 300 Crystgin\n\nالتعويضات، وتُرسل تلقائيًا بالبريد داخل اللعبة بعد التحديث:\n- استرداد كامل لما اشتُري من Chrysalis Token وButterfly Dye من المتجر خلال الأشهر الثلاثة السابقة لـ28 سبتمبر\n- 70% من فرق السعر البالغ 580 Crystgin (نحو 406 Crystgin) عن كل Metamorphosis Token اشتُري في الفترة نفسها"
+      },
+      "en": {
+        "title": "Once Human makes face, body reshaping and hair dye free from September 28",
+        "summary": "From the September 28 (PT) update, reshaping and palette hair dye no longer cost items; the gender-change token drops from 880 to 300 Crystgin, with refunds for recent buyers.",
+        "details": "Starry Studio said changing a character's look had become too complicated and costly, since every reshape needed a Chrysalis Token and every hair color change a Butterfly Dye bought from the shop.\n\nFrom the September 28 (PT) update:\n- Face and body reshaping and palette hair dye are free at the Floor Mirror in the player's territory\n- Chrysalis Tokens and Butterfly Dyes are withdrawn from sale; those already owned can be converted into Colorful Badges\n- The Metamorphosis Token, used to change gender, stays, but its price falls from 880 to 300 Crystgin\n\nCompensation, sent automatically by in-game mail after the update:\n- A full refund for Chrysalis Tokens and Butterfly Dyes bought in the shop in the three months before September 28\n- 70% of the 580-Crystgin price difference (about 406 Crystgin) for each Metamorphosis Token bought in that period"
+      }
+    },
+    {
+      "id": "oh-september-combat-balance",
+      "date": "2026-09-10",
+      "type": "update",
+      "importance": 1,
+      "sourceType": "official",
+      "sourceName": "Once Human — Official Website",
+      "url": "https://www.oncehuman.game/news/devBlog/20260910/40781_1313572.html",
+      "originalTitle": "Dev Blog | September Combat Balance Adjustment",
+      "ar": {
+        "title": "موازنة سبتمبر: إعادة تصميم MG4 – Conflicting Memories وتعديل Treacherous Tides",
+        "summary": "كشفت مدونة للمطورين إعادة تصميم رشاش MG4 – Conflicting Memories، وتحويل مكافأة مجموعة Treacherous Tides من الاعتماد على Sanity إلى الاعتماد على الصحة.",
+        "details": "قبل تحديث 16 سبتمبر، عرض فريق Once Human أحدث تعديلات الموازنة التي تستهدف العتاد الأقل استخدامًا.\n\nرشاش MG4 – Conflicting Memories:\n- تفعيل Shrapnel كل 6 إصابات بدل 12\n- بعد إعادة التلقيم أو كل 12 إصابة يتحول Shrapnel التالي إلى Memory Storm يصيب جميع الأهداف في النطاق\n- كل إصابة بـShrapnel تمنح 0.5 ثانية من Super Armor قابلة للتراكم\n\nمجموعة Treacherous Tides:\n- مكافأة الضرر ترتبط الآن بانخفاض الصحة بدل انخفاض Sanity، فلا حاجة لإبقاء Sanity منخفضة\n- رفع درع القطع الأربع من 20% إلى 30% من الصحة القصوى\n- إلغاء المكافأة الثابتة للقطع الثلاث وخفض مكافأة القطعتين إلى 10%\n\nوبعد اعتراض اللاعبين، تراجعت ملاحظات تحديث 16 سبتمبر جزئيًا عن إضعاف المجموعة: بقيت مكافأة القطعتين 12%، وأصبحت مكافأة القطع الثلاث تبدأ من 8% عند اكتمال الصحة وتصل إلى 28%."
+      },
+      "en": {
+        "title": "September balance: MG4 – Conflicting Memories rework, Treacherous Tides changes",
+        "summary": "A dev blog previewed a rework of the MG4 – Conflicting Memories machine gun and a switch of the Treacherous Tides armor set from Sanity-based to HP-based damage.",
+        "details": "Ahead of the September 16 (PT) update, the Once Human team outlined its latest balance pass, aimed at less-used gear.\n\nMG4 – Conflicting Memories:\n- Shrapnel now triggers every 6 hits instead of every 12\n- After a reload, or every 12 hits, the next Shrapnel becomes a \"Memory Storm\" that hits all targets in range\n- Each Shrapnel hit grants 0.5 seconds of stackable Super Armor\n\nTreacherous Tides set:\n- The damage bonus now scales with low HP instead of low Sanity, so players no longer need to keep Sanity down\n- The 4-piece shield rises from 20% to 30% of max HP\n- The flat 3-piece bonus was removed and the 2-piece bonus lowered to 10%\n\nAfter player pushback, the September 16 patch notes partly reversed the Treacherous Tides cuts: the 2-piece bonus stays at 12%, and the 3-piece bonus starts at 8% at full HP and rises to 28%."
+      }
+    },
+    {
+      "id": "oh-raidzone-console-server-schedule",
+      "date": "2026-09-04",
+      "type": "platform",
+      "importance": 1,
+      "sourceType": "official",
+      "sourceName": "Once Human — Official Website",
+      "url": "https://www.oncehuman.game/news/update/20260904/40780_1313144.html",
+      "originalTitle": "Announcement on Server Opening Plan Adjustments for Once Human: RaidZone Console Exclusive Servers",
+      "ar": {
+        "title": "جدول منتظم لخوادم RaidZone الخاصة بالمنصات في أمريكا الشمالية وأوروبا",
+        "summary": "استجابةً للطلب، حددت Once Human مواعيد أسبوعية ونصف شهرية لإعادة فتح خوادم RaidZone الخاصة بالمنصات في أمريكا الشمالية وأوروبا، وأوقفتها في مناطق أخرى.",
+        "details": "بعد طلب كبير من لاعبي المنصات المنزلية عقب الإطلاق، عدّلت Once Human طريقة فتح خوادم RaidZone المخصصة للمنصات فقط.\n\nفي أمريكا الشمالية وأوروبا:\n- خادم [Console] Vanilla-A0001: يُعاد فتحه أسبوعيًا بدءًا من 5 سبتمبر الساعة 08:00 بتوقيت الخادم\n- خادم [Console] Softcore-A0001: كل أسبوعين بدءًا من 9 سبتمبر\n- خادم [Console] Softcore-B0001: خادم ثانٍ بالوضع المريح كل أسبوعين بدءًا من 16 سبتمبر\n- خادم [Console] Hardcore-A0001: لن يُعاد فتحه بعد انتهاء دورته الحالية\n\nأما في أمريكا الجنوبية واليابان وكوريا الجنوبية وجنوب شرق آسيا وهونغ كونغ وماكاو وتايوان، فلن يُعاد فتح الخادم المريح الخاص بالمنصات بعد انتهائه، مع بقاء خوادم RaidZone المشتركة بين المنصات متاحة.\n\nويُفتح التسجيل قبل ثلاثة أيام من كل افتتاح، وقد تُضاف خوادم أخرى بحسب الإقبال."
+      },
+      "en": {
+        "title": "RaidZone console-only servers move to a regular schedule in NA and Europe",
+        "summary": "Responding to demand, Once Human set weekly and biweekly reopenings for RaidZone console-exclusive servers in North America and Europe, while ending them elsewhere.",
+        "details": "Following strong demand after the console launch, Once Human changed how RaidZone console-exclusive servers open.\n\nNorth America and Europe:\n- [Console] Vanilla-A0001: reopens weekly, first on September 5 at 08:00 server time\n- [Console] Softcore-A0001: reopens every two weeks, from September 9\n- [Console] Softcore-B0001: a second casual server, every two weeks from September 16\n- [Console] Hardcore-A0001 will not reopen once its current run ends\n\nIn South America, Japan, South Korea, Southeast Asia and Hong Kong/Macao/Taiwan, the console-only casual server will not reopen after it ends; cross-platform RaidZone servers remain available there.\n\nSign-ups open three days before each opening, and extra servers may be added depending on demand."
+      }
+    },
+    {
+      "id": "oh-version-3-0-5-storage-search",
+      "date": "2026-09-02",
+      "type": "update",
+      "importance": 2,
+      "sourceType": "official",
+      "sourceName": "Once Human — Official Website",
+      "url": "https://www.oncehuman.game/news/update/20260902/40780_1312959.html",
+      "originalTitle": "Version 3.0.5 Update Announcement",
+      "ar": {
+        "title": "تحديث 3.0.5 يضيف البحث في المخازن والتصنيع المتنقل في RaidZone",
+        "summary": "أضاف تحديث 2 سبتمبر البحث داخل المخازن، والتصنيع من الحقيبة في RaidZone، ودعم الصبغ لـ24 مجموعة إضافية، وبدأ تنزيل بيانات خريطة Isles of Abyss مسبقًا.",
+        "details": "وصل الإصدار 3.0.5 بعد صيانة في 2 سبتمبر الساعة 4:00 عصرًا بتوقيت المحيط الهادئ (2:00 فجر 3 سبتمبر بتوقيت الخليج)، بأحجام تقارب 13.7 غيغابايت على PS5 و17.6 غيغابايت على Xbox و11.5 غيغابايت لمشغّل PC و1.7 غيغابايت على الجوال. وأوضح الفريق أن كبر التحديثات الأخيرة سببه تنزيل بيانات خريطة سيناريو Isles of Abyss مسبقًا على مراحل.\n\nأبرز المحتوى:\n- البحث بالكلمات داخل صناديق التخزين ومحطات المخازن\n- ترقية الصبغ: وضع مبسّط وإدارة جماعية للإعدادات ودعم 24 مجموعة ملابس إضافية\n- التصنيع المتنقل من الحقيبة في RaidZone، مع خطة لتعميمه على أطوار أخرى\n- الاحتفاظ بتقدّم مكافآت Lightforge Ingot في Meta Pass عند انقطاع الاشتراك\n- تقليص قفل التسجيل في السيناريوهات إلى 4 ساعات\n- الخوادم المخصصة: فئة Excellent للمضيفين مع تجديد مجاني لـ30 يومًا، وفعالية أرباح للمضيفين من 2 إلى 29 سبتمبر تتجدد شهريًا حتى نهاية 2026\n\nوأضاف المتجر صندوق Duskfire Breaker، ثم صندوق Mirror Knight اعتبارًا من 9 سبتمبر."
+      },
+      "en": {
+        "title": "Version 3.0.5 adds storage search, RaidZone portable crafting and more dyes",
+        "summary": "The September 2 (PT) patch added searchable storage, portable crafting in RaidZone, dye support for 24 more outfits, and began preloading Isles of Abyss map data.",
+        "details": "Version 3.0.5 went live after maintenance on September 2 at 4:00 PM PT (2:00 AM on September 3, Gulf time). Download sizes were about 13.7 GB on PS5, 17.6 GB on Xbox, 11.5 GB on the PC launcher and 1.7 GB on mobile; the team said recent patches are larger because map data for the upcoming Isles of Abyss scenario is being preloaded in stages.\n\nHighlights:\n- Keyword search in storage crates and storage terminals\n- Dye upgrade: a Simple Mode, batch preset management and dye support for 24 more outfit sets\n- RaidZone Portable Crafting from the backpack, planned for other modes later\n- Meta Pass Lightforge Ingot progress is now kept if the pass lapses\n- The scenario sign-up lock was shortened to 4 hours\n- Custom Servers: a new \"Excellent\" host tier with a free 30-day renewal, and a host revenue event (September 2–29) that then resets monthly until the end of 2026\n\nThe shop added the Duskfire Breaker crate, followed by the Mirror Knight combo crate on September 9."
+      }
+    },
+    {
+      "id": "oh-isles-of-abyss-revealed-final-test",
+      "date": "2026-08-28",
+      "type": "scenario",
+      "importance": 3,
+      "sourceType": "official",
+      "sourceName": "Once Human — Official Website",
+      "url": "https://www.oncehuman.game/news/official/20260828/40779_1312551.html",
+      "originalTitle": "Final Test Recruitment | New Survival Scenario: Isles of Abyss Coming Soon",
+      "ar": {
+        "title": "توسعة Isles of Abyss البحرية تصل في أكتوبر وفتح باب التسجيل في اختبارها الأخير",
+        "summary": "نشرت Once Human العرض الدعائي الرسمي لتوسعتها البحرية Isles of Abyss مؤكدة وصولها في أكتوبر، وفتحت التسجيل في اختبار نهائي لمدة 22 يومًا في أمريكا الشمالية على PC والمنصات المنزلية.",
+        "details": "سبق أن خضع سيناريو Isles of Abyss لاختبار أولي (Pioneer Test) في أمريكا الشمالية بدأ في يونيو، ثم أعلنت NetEase موعد وصوله في أكتوبر يوم 25 أغسطس بتوقيت المحيط الهادئ، حين عُرضت التوسعة في برنامج gamescom Opening Night Live. وفي 28 أغسطس نشرت القنوات الرسمية للعبة Once Human العرض الدعائي الرسمي لتوسعة Ocean Expansion: Isles of Abyss، التي تفتح محيطًا واسعًا منسيًا خلف شواطئ Nalcott، وتصل مجانًا في أكتوبر على PC والجوال وPS5 وXbox Series X|S مع لعب مشترك.\n\nكما نشر الموقع الرسمي باب التسجيل في الاختبار الأخير للسيناريو:\n- المنطقة: أمريكا الشمالية، ونحو 4000 مختبر (2500 على PC و1500 على المنصات المنزلية)\n- المدة: من 16 سبتمبر الساعة 9:00 مساءً حتى 8 أكتوبر الساعة 3:00 فجرًا بتوقيت المحيط الهادئ (نحو 22 يومًا)، مع حذف البيانات بعده واتفاقية عدم إفصاح\n- آخر موعد للتسجيل: 4 سبتمبر عبر استبيان رسمي\n\nويعرض الاختبار جزرًا بطقس متغير ودورة ليل ونهار، والإبحار لتحدي Calamity Towers، وسفن Voyager الجوالة التي يمكن إغراقها أو اقتحامها، وأربع مناطق Haywire Zones هي Mist of Deceit وSkyfire وTime Rain وBlack Tide، إضافة إلى أعشاش Calamity Nests، والبحث عن الكنوز في حطام السفن والمختبرات تحت الماء، وتحسينات على مدافع السفن، وزنزانة The Sunken Lord لأربعة لاعبين."
+      },
+      "en": {
+        "title": "Isles of Abyss ocean expansion set for October; final test sign-ups open",
+        "summary": "Once Human released the reveal trailer for its ocean expansion Isles of Abyss, confirming an October launch, and opened sign-ups for a 22-day final test in North America on PC and console.",
+        "details": "The Isles of Abyss scenario had already gone through a North America pioneer test that began in June, and NetEase announced its October window on August 25 (PT), when the expansion was shown at gamescom Opening Night Live. On August 28, Once Human's official channels released the reveal trailer for \"Ocean Expansion: Isles of Abyss\": a vast, forgotten ocean beyond Nalcott's shores, arriving in October for free on PC, mobile, PS5 and Xbox Series X|S with cross-play.\n\nThe official site also posted recruitment for the scenario's final test:\n- Region: North America; about 4,000 testers (2,500 on PC, 1,500 on console)\n- Dates: September 16, 9:00 PM to October 8, 3:00 AM (PT), about 22 days, with a data wipe and an NDA\n- Sign-up deadline: September 4 (PT), through an official survey\n\nThe test previews islands with dynamic weather and day-night cycles, sailing out to challenge Calamity Towers, roaming Voyager ships to sink or board, four \"Haywire Zones\" (Mist of Deceit, Skyfire, Time Rain and Black Tide), Calamity Nests, underwater treasure hunts in shipwrecks and labs, improved naval cannons, and a four-player dungeon, \"The Sunken Lord\"."
+      }
+    },
+    {
+      "id": "oh-console-launch-issues-fixes",
+      "date": "2026-08-26",
+      "type": "platform",
+      "importance": 2,
+      "sourceType": "official",
+      "sourceName": "Once Human — Official Website",
+      "url": "https://www.oncehuman.game/news/update/20260826/40780_1312234.html",
+      "originalTitle": "Console Version Issue Notice",
+      "ar": {
+        "title": "Once Human تعتذر عن أخطاء إطلاق نسخة المنصات وتصلح مشكلة دخول Xbox",
+        "summary": "واجه لاعبو المنصات حزمًا مسبقة لم تصل وشحنات Xbox لم تُحتسب وأخطاء في الدخول وقوائم الأصدقاء؛ فأصدر الفريق إصلاحات وأعاد إرسال العناصر ووعد بتعويضات.",
+        "details": "في اليوم التالي للإطلاق اعتذر فريق Once Human عن سلسلة من المشكلات في نسخة المنصات أثّرت في تسجيل الدخول والمكافآت وتجربة اللعب، ونشر عدة تحديثات للإصلاح بين 26 و29 أغسطس.\n\nمن المشكلات المؤكدة:\n- عدم وصول حزم الطلب المسبق، وعدم احتساب عمليات الشحن على Xbox (مع إعادة إرسالها تلقائيًا)\n- مشكلة في تسجيل الدخول على Xbox أُصلحت في 26 أغسطس مع وعد بتعويض خلال يوم عمل\n- اختفاء قوائم الأصدقاء والمجموعات بعد التنقل بين المنصات، ورسالة «محظور» خاطئة عند إضافة الأصدقاء\n- أخطاء في البرنامج التعليمي، وغياب الصوت، ومشكلات لوحة المفاتيح والفأرة، وظهور أشكال الشخصيات باللون الأسود\n\nوفي 29 أغسطس أوضح الفريق أن حزم الطلب المسبق تُرسل إلى أول شخصية أُنشئت بعد إنهاء البرنامج التعليمي، وأن القسائم تُفعّل من المتجر، وتعهد بإعادة فحص الحزم المفقودة وإرسالها في 31 أغسطس وتعويض جميع مشتري Meta Pass في 1 سبتمبر."
+      },
+      "en": {
+        "title": "Once Human apologises for console launch bugs, fixes Xbox login issue",
+        "summary": "Early console players hit missing pre-order bundles, uncredited Xbox top-ups, login and friend-list bugs; the team issued fixes, reissued items and promised compensation.",
+        "details": "The day after launch, the Once Human team apologised for a string of console problems affecting logins, rewards and gameplay, and posted several fix updates between August 26 and 29.\n\nConfirmed issues included:\n- Console pre-order bundles not delivered and Xbox top-ups not credited (both to be reissued automatically)\n- An Xbox login problem, fixed on August 26 with compensation promised within one business day\n- Hive and friend lists vanishing after switching platforms, and a false \"blocked\" message when adding friends\n- Tutorial bugs, missing sound, keyboard-and-mouse problems and character skins turning black\n\nOn August 29 the team explained that pre-order bundles go to the first character created, after the tutorial, and that vouchers must be activated in the Shop. It pledged to recheck and reissue missing bundles on August 31 and to compensate all Meta Pass buyers on September 1."
+      }
+    },
+    {
+      "id": "oh-console-launch-twitch-drops",
+      "date": "2026-08-26",
+      "type": "event",
+      "importance": 1,
+      "sourceType": "official",
+      "sourceName": "Once Human — Official X (@OnceHuman_)",
+      "url": "https://x.com/OnceHuman_/status/2092628139545423878",
+      "originalTitle": "Console Launch Twitch Drops Are Here!",
+      "ar": {
+        "title": "مكافآت Twitch Drops لإطلاق نسخة المنصات مستمرة حتى 23 سبتمبر",
+        "summary": "أتيح للمشاهدين الذين ربطوا حساباتهم الحصول على مكافآت داخل اللعبة بمشاهدة أي بث لـOnce Human على Twitch لمدة 1 و2 و4 ساعات بين 25 أغسطس و23 سبتمبر.",
+        "details": "احتفاءً بإصدار نسخة المنصات المنزلية، أطلقت Once Human حملة Twitch Drops امتدت من 25 أغسطس إلى 23 سبتمبر بتوقيت المحيط الهادئ.\n\nطريقة المشاركة:\n- ربط حساب Twitch بحساب Once Human وشخصية محددة عبر الصفحة الرسمية oncehuman.game/twitch\n- مشاهدة أي بث ضمن فئة Once Human على Twitch\n- تُفتح المكافآت بعد 1 و2 و4 ساعات من المشاهدة، وتصل إلى البريد داخل اللعبة خلال 24 ساعة\n\nولا يمكن ربط حساب Twitch إلا بحساب واحد وشخصية واحدة، ولا تُستلم المكافأة نفسها إلا مرة واحدة. وتشير الصفحة الرسمية إلى أن من لم يربط حسابه بعد يمكنه ذلك خلال أسبوع من انتهاء الحملة.\n\nوجاءت الحملة بعد مكافآت Twitch Drops سابقة رافقت بطولة Raid for Glory في يوليو."
+      },
+      "en": {
+        "title": "Console launch Twitch Drops run until September 23",
+        "summary": "Viewers who linked accounts could earn in-game rewards by watching any Once Human stream on Twitch for 1, 2 and 4 hours between August 25 and September 23 (PT).",
+        "details": "To celebrate the console release, Once Human ran a Console Launch Twitch Drops campaign from August 25 to September 23 (PT).\n\nHow it worked:\n- Link a Twitch account to a Once Human account and character on the official page (oncehuman.game/twitch)\n- Watch any stream in the Once Human category on Twitch\n- Rewards unlock at 1, 2 and 4 hours of viewing and arrive in the in-game mailbox within 24 hours\n\nEach Twitch account can be linked to only one Once Human account and character, and each reward type can be claimed only once. The official page says viewers who had not yet linked their accounts have one week after a campaign ends to do so.\n\nThe campaign followed earlier Twitch Drops that accompanied the Raid for Glory tournament in July."
+      }
+    },
+    {
+      "id": "oh-console-version-launches",
+      "date": "2026-08-25",
+      "type": "platform",
+      "importance": 3,
+      "sourceType": "official",
+      "sourceName": "Once Human — Official Website",
+      "url": "https://www.oncehuman.game/news/update/20260825/40780_1312198.html",
+      "originalTitle": "The Console Version of Once Human Is Launching Soon — See You on the Nalcott Continent!",
+      "ar": {
+        "title": "إطلاق Once Human على PS5 وXbox Series X|S مع لعب مشترك كامل",
+        "summary": "انطلقت نسخة المنصات المنزلية في 25 أغسطس الساعة 11:00 صباحًا بتوقيت المحيط الهادئ، مجانًا ومع لعب مشترك وتقدّم موحّد بين PC والجوال وPlayStation 5 وXbox Series X|S.",
+        "details": "أُطلقت Once Human على PlayStation 5 وPS5 Pro وXbox Series X|S في 25 أغسطس الساعة 11:00 صباحًا بتوقيت المحيط الهادئ (9:00 مساءً بتوقيت الخليج)، وأعلن حسابها الياباني الرسمي ظهورها في برنامج gamescom Opening Night Live مساء اليوم نفسه. واللعبة مجانية ولا تتطلب اشتراك PS Plus أو Game Pass.\n\nأبرز ما ورد في الأسئلة الشائعة الرسمية:\n- لعب مشترك وتقدّم موحّد مع PC والجوال، ويمكن للاعبي PlayStation وXbox اللعب معًا\n- يحتفظ اللاعبون الحاليون بشخصياتهم عبر ربط الحسابات، ولا يمكن تسجيل الدخول بالحساب نفسه على منصتين معًا\n- دعم 10 لغات منها الإنجليزية والفرنسية والألمانية واليابانية والكورية والروسية\n- حجم التنزيل نحو 80 غيغابايت على PS5 و100 غيغابايت على Xbox، مع دعم لوحة المفاتيح والفأرة وHDR وأوضاع الأداء\n- خوادم اختيارية خاصة بالمنصات تحمل وسم Console إلى جانب الخوادم المشتركة\n\nوشملت فعاليات الإطلاق هدفًا جماعيًا باسم Global Heat وتسجيل دخول لسبعة أيام وفعالية ملاحظات. وحصل مشتركو Xbox Game Pass على صورة رمزية حصرية وبطاقة مزايا Meta Pass، ويمكن لمختبري النسخ التجريبية استلام مكافآتهم حتى 25 أغسطس 2027."
+      },
+      "en": {
+        "title": "Once Human launches on PS5 and Xbox Series X|S with full cross-play",
+        "summary": "The console version went live on August 25 at 11:00 AM PT, free to play with cross-play and shared progress across PC, mobile, PlayStation 5 and Xbox Series X|S.",
+        "details": "Once Human launched on PlayStation 5, PS5 Pro and Xbox Series X|S on August 25 at 11:00 AM PT (9:00 PM Gulf time), and its official Japanese account said the game would feature in gamescom Opening Night Live that evening. It is free to play, and PS Plus or Game Pass is not required.\n\nKey points from the official FAQ:\n- Full cross-play and cross-progression with PC and mobile; PlayStation and Xbox players can team up\n- Existing players keep their characters by linking accounts; one account can't be signed in on two platforms at once\n- 10 languages, including English, French, German, Japanese, Korean and Russian\n- Download size about 80 GB on PS5 and 100 GB on Xbox; keyboard and mouse, HDR and performance modes supported\n- Optional console-only servers, tagged \"Console\", alongside cross-platform servers\n\nLaunch events included the cross-platform Global Heat goal, a 7-day check-in and a feedback event. Xbox Game Pass members could claim an exclusive avatar and a Meta Pass benefit card, and console beta testers can claim carry-over rewards until August 25, 2027."
+      }
+    },
+    {
+      "id": "oh-version-3-0-4-trophies-first-person",
+      "date": "2026-08-24",
+      "type": "update",
+      "importance": 2,
+      "sourceType": "official",
+      "sourceName": "Once Human — Official Website",
+      "url": "https://www.oncehuman.game/news/update/20260824/40780_1312014.html",
+      "originalTitle": "Version 3.0.4 Update Announcement (August 24)",
+      "ar": {
+        "title": "تحديث 3.0.4: إنجازات وتوسيع منظور الشخص الأول وخفض أسعار الصبغ",
+        "summary": "أضاف تحديث 24 أغسطس، عشية إطلاق نسخة المنصات، 35 إنجازًا، ودعم منظور الشخص الأول للغوص والطيران الشراعي ومهارات Deviations، وتخصيص أزرار وحدة التحكم.",
+        "details": "وصل الإصدار 3.0.4 بعد صيانة في 24 أغسطس الساعة 4:00 عصرًا بتوقيت المحيط الهادئ (2:00 فجر 25 أغسطس بتوقيت الخليج)، أي قبل يوم من إطلاق نسخة المنصات المنزلية، بحجم نحو 22.4 غيغابايت لمشغّل PC ونحو 680 ميغابايت على الجوال.\n\nالجديد:\n- 35 إنجازًا على Xbox وPlayStation وSteam وGoogle Play (يُحتسب التقدّم من هذا التحديث فقط)\n- منظور الشخص الأول يدعم الآن الغوص والطيران الشراعي ومعظم مهارات Deviations القتالية مثل Invincible Sun وPyro Dino وPolar Jelly، إضافة إلى Aero Leap والانزلاق والسلالم والحبال المنزلقة\n- إعادة تسعير الصبغ بخفض نحو 60% مع استرداد 60% مما أُنفق سابقًا\n- وحدات التحكم: تخصيص الأزرار وعودة شريط الاختصارات الأفقي الكلاسيكي\n- فعالية Global Heat بدءًا من 25 أغسطس مع تسجيل دخول لسبعة أيام ومكافآت دعوة الأصدقاء\n- Battle Pass جديد باسم Final Prayer، وصندوق Celestial Anthem، ومجموعة Lightforge Legacy الدائمة، والتجديد التلقائي لـMeta Pass على منصات مختارة\n\nكما أزيلت من المتجر عناصر قليلة الطلب قد تعود لاحقًا."
+      },
+      "en": {
+        "title": "Version 3.0.4 adds trophies, expands first-person mode and cuts dye prices",
+        "summary": "The pre-console-launch patch on August 24 (PT) added 35 achievements, first-person swimming, gliding and Deviation skills, controller remapping and the Global Heat event.",
+        "details": "Version 3.0.4 went live after maintenance on August 24 at 4:00 PM PT (2:00 AM on August 25, Gulf time), the day before the console launch. The PC launcher download was about 22.4 GB and mobile about 680 MB.\n\nWhat's new:\n- 35 achievements/trophies on Xbox, PlayStation, Steam and Google Play (progress counts from this update only)\n- First-person now covers diving, gliding, most combat Deviation skills (e.g. Invincible Sun, Pyro Dino, Polar Jelly), Aero Leap, sliding, ladders and ziplines, plus a weapon-position setting\n- Dye pricing reworked: a full set is about 60% cheaper, with 60% refunds for past spending\n- Controllers: custom button mapping and the return of the classic horizontal hotbar\n- Global Heat launch event from August 25 (11:00 AM PT) with a 7-day check-in and friend-invite rewards\n- The \"Final Prayer\" Battle Pass, the Celestial Anthem crate, a permanent \"Lightforge Legacy\" pool and Meta Pass auto-renewal on selected platforms\n\nA leaner shop also removed less-popular items, which may return later."
+      }
+    },
+    {
+      "id": "oh-golden-shore-pool-refund",
+      "date": "2026-08-14",
+      "type": "announcement",
+      "importance": 1,
+      "sourceType": "official",
+      "sourceName": "Once Human — Official Website",
+      "url": "https://www.oncehuman.game/news/update/20260814/40780_1311166.html",
+      "originalTitle": "Explanation and Handling Plan for the Furniture Formula \"Golden Shore Pool\"",
+      "ar": {
+        "title": "Once Human تعتذر عن مسبح غير صالح للسباحة وتعرض استردادًا كاملًا",
+        "summary": "بعد شكاوى من أن مسبح Golden Shore Pool في حزمة Summer Echoes لا يسمح بالسباحة، عُرض على المشترين استرداد كامل لعملة Crystgin أو تعويض مقابل الاحتفاظ به.",
+        "details": "طرحت Once Human في 12 أغسطس حزمة الأثاث Summer Echoes التي تضم مسبح Golden Shore Pool، لكن اللاعبين اشتكوا سريعًا من أن مياهه للزينة فقط ولا تسمح بالسباحة، وأنها قد تختفي على الأجهزة تحت الضغط، وأن المسبح لا يتلاءم جيدًا مع المباني.\n\nاعتذر الفريق وعرض خيارين:\n- استرداد كامل لعملة Crystgin عبر منصة الملاحظات قبل الساعة 09:00 بتوقيت المحيط الهادئ في 19 أغسطس (مع سحب الوصفة)\n- الاحتفاظ بالحزمة مع الحصول على Lightforge Ingot واحد و150 من Colorful Badges\n\nووعد بإنجاز الاسترداد والتعويض قبل 21 أغسطس، وبجعل المسبح صالحًا للسباحة خلال ثلاثة أشهر، وتحسين تلاؤمه مع الجدران والأرضيات في سبتمبر.\n\nوجاء التنفيذ أسرع من الموعد؛ إذ عدّل تحديث 24 أغسطس زوايا المسبح لسد الفجوات، وأصبح صالحًا للسباحة مع تحديث 16 سبتمبر."
+      },
+      "en": {
+        "title": "Once Human apologises for non-swimmable pool and offers full refunds",
+        "summary": "After complaints that the 'Golden Shore Pool' in the Summer Echoes pack couldn't be swum in, buyers were offered a full Crystgin refund or compensation for keeping it.",
+        "details": "On August 12 (PT) Once Human released the \"Summer Echoes\" furniture pack, including the Golden Shore Pool. Players quickly complained that its water was decorative only and could not be swum in, that it could vanish on devices under heavy load, and that it did not fit neatly with buildings.\n\nThe team apologised and offered two options:\n- A full Crystgin refund, requested through the Feedback Platform before 09:00 PT on August 19 (the formula is then removed)\n- Keep the pack and receive 1 Lightforge Ingot and 150 Colorful Badges\n\nRefunds and compensation were promised by 09:00 PT on August 21. The studio also pledged to make the pool swimmable within three months and to improve how it joins walls and floors in September.\n\nIt delivered early: the August 24 update squared off the pool's corners to close gaps, and the September 16 update made the Golden Shore Pool swimmable."
+      }
+    },
+    {
+      "id": "oh-fashion-dye-price-cut-refund",
+      "date": "2026-08-12",
+      "type": "announcement",
+      "importance": 2,
+      "sourceType": "official",
+      "sourceName": "Once Human — Official Website",
+      "url": "https://www.oncehuman.game/news/devBlog/20260812/40781_1310887.html",
+      "originalTitle": "Dev Blog丨Fashion Set Custom Dye Optimization",
+      "ar": {
+        "title": "Once Human تخفض تكلفة صبغ الملابس نحو 60% وتعيد جزءًا مما أُنفق",
+        "summary": "اعتبارًا من تحديث 24 أغسطس يُحتسب الصبغ لكل قطعة ملابس بدل كل جزء منها، فتنخفض تكلفة المجموعة الكاملة نحو 60%، مع استرداد 60% مما أنفقه اللاعبون سابقًا.",
+        "details": "بعد شهر من إطلاق صبغ الملابس المخصص في 9 يوليو، أقرّ استوديو Starry Studio بأن النظام معقد ومكلف، إذ كانت الأزياء مقسّمة إلى عشرات الأجزاء يُحتسب كل منها منفردًا حتى لو كان بالكاد مرئيًا.\n\nالتغييرات مع تحديث 24 أغسطس بتوقيت المحيط الهادئ:\n- احتساب التكلفة لكل قطعة مصبوغة (مثل الجزء العلوي) بدل كل جزء صغير، وفق أعلى فئة لون مستخدمة\n- حرية مزج الألوان داخل القطعة الواحدة\n- انخفاض تكلفة صبغ المجموعة الكاملة بنحو 60%\n- دعم مجموعات إضافية من فئات مختلفة بدءًا من سبتمبر\n\nويحتفظ من صبغوا ملابسهم سابقًا بألوانهم، مع استرداد 60% مما أنفقوه من Crystgin وColorful Badges عبر البريد داخل اللعبة خلال ثلاثة أيام عمل بعد تحديث 25 أغسطس؛ فمن أنفق 7200 Crystgin يسترد 4320."
+      },
+      "en": {
+        "title": "Once Human cuts fashion dye costs by about 60% and refunds past spending",
+        "summary": "From the August 24 (PT) update, dyes are charged per outfit piece rather than per section, making a full set about 60% cheaper; earlier users get 60% of their spend back.",
+        "details": "A month after launching custom fashion dyes on July 9, Starry Studio admitted the system was too fiddly and too expensive: outfits were split into a dozen or more sections, each charged separately, even when a section was barely visible.\n\nChanges from the August 24 (PT) update:\n- Charging moves from each dyed section to each dyed component (such as a top), priced by the highest color tier used\n- Colors can be mixed freely within a component\n- Dyeing a full set costs about 60% less than before\n- More sets, across more rarities, gain dye support from September\n\nPlayers who had already dyed items keep their colors and get back 60% of the Crystgin and Colorful Badges they spent, sent by in-game mail within three business days after the August 25 update. For example, a player who spent 7,200 Crystgin receives 4,320."
+      }
+    },
+    {
+      "id": "oh-meta-hotline-vol-7-dungeons",
+      "date": "2026-08-06",
+      "type": "announcement",
+      "importance": 1,
+      "sourceType": "official",
+      "sourceName": "Once Human — Official Website",
+      "url": "https://www.oncehuman.game/news/update/20260805/40780_1310273.html",
+      "originalTitle": "Meta Hotline | Hot Feedback and Optimization Progress Vol. 7",
+      "ar": {
+        "title": "Meta Hotline 7: إعادة تصميم الزنزانات وزنزانات جديدة قيد العمل",
+        "summary": "أعلن الفريق إعادة تصميم الزنزانات بمكافآت أفضل وإضافة زنزانات جديدة، ووعد بخيار لإخفاء مجسّات زي Abyssal Touch وبرسائل صوتية على PC.",
+        "details": "في التقرير السابع من Meta Hotline، المستند إلى تصويت منصة الملاحظات حتى 5 أغسطس، تناول فريق Once Human أبرز طلبات المجتمع:\n\n- مكافآت أكثر في الزنزانات (الطلب الأعلى إعجابًا): سيُعاد تصميم محتوى الزنزانات بشكل كبير وستُطلق زنزانات جديدة كليًا مع مكافآت تتناسب مع التحدي\n- إضافة حجرات دمج إضافية للـDeviations: مرفوض حاليًا للحفاظ على وتيرة تطوّرها\n- خيار لإخفاء مجسّات زي Abyssal Touch: مقبول ومتوقع خلال شهرين\n- حذف علامات الخريطة المخصصة دفعة واحدة: مقبول ومتوقع خلال ستة أشهر\n- قناة صوتية للمجموعات (Hive): لا قناة صوتية دائمة، لكن الرسائل الصوتية قادمة إلى PC (متاحة على الجوال وستدعمها المنصات المنزلية)\n- تخطي رسوم إكمال أبحاث التقنية: نُفّذ في تحديث 5 أغسطس\n\nولم يحدد الفريق موعدًا لتغييرات الزنزانات، مؤكدًا أنها ما زالت في مرحلة التخطيط والاختبار."
+      },
+      "en": {
+        "title": "Meta Hotline Vol. 7: dungeon overhaul and new dungeons in the works",
+        "summary": "Replying to top feedback, the team said dungeons will be reworked with better rewards and new dungeons, and promised a tentacle toggle for Abyssal Touch and PC voice messages.",
+        "details": "In the seventh Meta Hotline, based on Feedback Platform votes up to August 5, the Once Human team addressed the community's top requests.\n\n- More dungeon rewards (the most-liked request): dungeon content will be significantly reworked and brand-new dungeons will launch, with rewards redesigned to match\n- Extra Deviation Fusion pods: declined for now, to keep the current pace of Deviation evolution\n- An option to hide the Abyssal Touch outfit's tentacles: accepted, expected within two months\n- Batch removal of custom map pins: accepted, expected within six months\n- Hive voice chat: no always-on voice channel, but voice messages are coming to PC (mobile already has them and consoles will support them)\n- Skipping the Tech research animation: already delivered in the August 5 update\n\nNo release dates were given for the dungeon changes, which the team said are still being planned and tested."
+      }
+    },
+    {
+      "id": "oh-version-3-0-3-block-adventure",
+      "date": "2026-08-05",
+      "type": "update",
+      "importance": 2,
+      "sourceType": "official",
+      "sourceName": "Once Human — Steam News",
+      "url": "https://store.steampowered.com/news/app/2139460/view/1840310314338993",
+      "originalTitle": "Version 3.0.3 Update Announcement (August 5)",
+      "ar": {
+        "title": "تحديث 3.0.3 يطلق فعالية Block Adventure وطلبات الشراء في التداول",
+        "summary": "أطلق تحديث 5 أغسطس فعالية Block Adventure حتى 23 أغسطس، وطلبات الشراء في التداول عبر الإنترنت، وتحديات شهرية في الخوادم الدائمة، وتحسينات لمنظور الشخص الأول.",
+        "details": "وصل الإصدار 3.0.3 بعد صيانة في 5 أغسطس الساعة 4:00 عصرًا بتوقيت المحيط الهادئ (2:00 فجر 6 أغسطس بتوقيت الخليج)، بحجم نحو 15.6 غيغابايت لمشغّل PC ونحو 1.2 غيغابايت على الجوال.\n\nأبرز المحتوى:\n- فعالية Block Adventure من 5 إلى 23 أغسطس: هزيمة حيوانات مكعّبة في Wish Island لفتح مواجهة الزعيم Block Wanderer مع فرصة للحصول على Deviations بأشكال مكعّبة\n- التداول عبر الإنترنت: طلبات شراء تُدفع بالبطاريات، وتقليص مدة ربط المواد المشتراة، وإتاحة عرض عناصر إضافية\n- الخوادم الدائمة: تحدٍّ شهري جديد وطريق جديد لمكافآت Mods عبر Scenario Honor\n- عودة ميزة شاشة التحميل الشخصية\n- تحسين منظور الشخص الأول: انتقالات أنعم، وإحساس أفضل بإعادة التلقيم، وتقليل الدخان والوهج عند التصويب\n- الطُعم Crankbait يمنح فرصة بين 15% و35% لصيد أسماك خاصة مثل Electric Eel\n\nودعت الملاحظات لاعبي PC والجوال إلى ربط حساباتهم قبل إطلاق نسخة المنصات في 25 أغسطس للحفاظ على تقدّمهم، وأكدت انتهاء Battle Pass الحالي مع تحديث 24 أغسطس."
+      },
+      "en": {
+        "title": "Version 3.0.3 brings Block Adventure event and buy orders for online trading",
+        "summary": "The August 5 (PT) patch launched the Block Adventure event (to Aug 23), buy orders in online trading, monthly challenges on permanent servers and first-person polish.",
+        "details": "Version 3.0.3 went live after maintenance on August 5 at 4:00 PM PT (2:00 AM on August 6, Gulf time). The PC launcher download was about 15.6 GB and mobile about 1.2 GB.\n\nHighlights:\n- Block Adventure (August 5–23): defeat \"block-ified\" animals on Wish Island to unlock a fight with the Block Wanderer boss, with a chance at blocky Morphed Deviations\n- Online trading: buy orders paid in batteries, shorter bind times on purchased materials, and more items that can be listed\n- Permanent servers: a new Monthly Challenge and a new route to Mod rewards through Scenario Honor\n- The personal loading-screen feature returned\n- First-person polish: smoother transitions, better reload feel, and less smoke and glare when aiming\n- Crankbait now gives a 15%–35% chance at special fish such as Electric Eels\n\nThe notes urged PC and mobile players to link their accounts before the console launch on August 25 so their progress would carry over, and confirmed the current Battle Pass would end with the August 24 update."
+      }
+    },
+    {
+      "id": "oh-meta-hotline-vol-6",
+      "date": "2026-07-23",
+      "type": "announcement",
+      "importance": 1,
+      "sourceType": "official",
+      "sourceName": "Once Human — Official Website",
+      "url": "https://www.oncehuman.game/news/update/20260722/40780_1308666.html",
+      "originalTitle": "Meta Hotline | Hot Feedback and Optimization Progress Vol. 6",
+      "ar": {
+        "title": "Meta Hotline 6: مطورو Once Human يقبلون خمسة من أبرز طلبات اللاعبين",
+        "summary": "ردّ المطورون على أكثر الاقتراحات تصويتًا: مكافآت أغنى لصناديق Collection، وبطاقات تغيير اسم مشتركة، وفلتر للمعايرة، وDeviation يجمع منتجات الماشية تلقائيًا.",
+        "details": "استعرض التقرير السادس من سلسلة Meta Hotline ردود الفريق على أكثر الاقتراحات حصولًا على الإعجاب في منصة ملاحظات Once Human حتى 22 يوليو.\n\nالردود:\n- عرض أوقات انتظار High Risk Events: متاح بالفعل عبر أيقونة العين على الخريطة مع تنبيه قبل الانتقال\n- مكافآت أكثر في صناديق Collection: مقبول ورُفعت أولويته، والتفاصيل والموعد لاحقًا\n- مشاركة بطاقات تغيير الاسم على مستوى الحساب: مقبول ورُفعت أولويته\n- فلتر لمخططات معايرة الأسلحة: مقبول، والفرز والتصفية قيد التطوير\n- جمع منتجات الماشية تلقائيًا: مقبول عبر Deviation جديد مخطط للعام المقبل\n- النقل والتنظيف الجماعي للمخازن: مقبول، لكن دون موعد بسبب اعتبارات الأداء وسلامة البيانات\n\nوتتيح لوحة Hot Charts، التي أُضيفت مع الإصدار 2.3.7، للاعبين الإعجاب بالطلبات أو رفضها، وينشر الفريق تقريرًا بالتقدّم بعد كل تحديث."
+      },
+      "en": {
+        "title": "Meta Hotline Vol. 6: Once Human devs accept five top player requests",
+        "summary": "The developers answered the most-voted feedback: richer Collection crate rewards, account-wide rename cards, a calibration filter and a Deviation to auto-collect livestock goods.",
+        "details": "The sixth \"Meta Hotline\" report responded to the most-liked suggestions on the Once Human Feedback Platform as of July 22.\n\nResponses:\n- High Risk Event cooldowns: already viewable via the eye icon on the map, with a warning before teleporting\n- More rewards in Collection Loot Crates: accepted and moved up the priority list; rewards and timing to be announced\n- Rename cards shareable across an account: accepted and prioritised\n- A filter for weapon calibration blueprints: accepted; filtering and sorting are in development\n- Auto-harvest for livestock byproducts: accepted, through a new Deviation planned for next year\n- Bulk transfer and cleanup for depots: accepted, but with no schedule yet because of performance and data-safety concerns\n\nThe Feedback Hot Charts, added with version 2.3.7, let players like or dislike requests, and the team publishes a progress report after each version update."
+      }
+    },
+    {
+      "id": "oh-version-3-0-2-update",
+      "date": "2026-07-22",
+      "type": "update",
+      "importance": 2,
+      "sourceType": "official",
+      "sourceName": "Once Human — Official Website",
+      "url": "https://www.oncehuman.game/news/update/20260722/40780_1308595.html",
+      "originalTitle": "Version 3.0.2 Update Announcement (July 22)",
+      "ar": {
+        "title": "تحديث 3.0.2 يضيف قفل العناصر ومشاركة المظهر ومناطق التلوث في RaidZone",
+        "summary": "جلب تحديث 22 يوليو ميزة قفل العناصر، وتبديل نقاط الالتصاق في البناء، ومشاركة إعدادات المظهر على مستوى الحساب، وطور Mental Pollution في RaidZone، وإضعاف SN700.",
+        "details": "وصل الإصدار 3.0.2 بعد صيانة في 22 يوليو الساعة 4:00 عصرًا بتوقيت المحيط الهادئ (2:00 فجر 23 يوليو بتوقيت الخليج)، بحجم نحو 7.7 غيغابايت لمشغّل PC ونحو 400 ميغابايت على Android وiOS.\n\nأبرز التغييرات:\n- قفل العناصر: الأنواع المقفلة لا يمكن رميها خطأً أو بيعها أو عرضها للتداول أو تفكيكها جماعيًا\n- البناء: تبديل نقاط الالتصاق للجدران والأسقف والسلالم والأعمدة (Shift مع عجلة الفأرة على PC)\n- مشاركة إعدادات المظهر بين جميع شخصيات الحساب (حتى 12 لكل جنس)\n- مناطق Mental Pollution في RaidZone: استبدال Sanity بمؤشر Mentality، وإضافة خاصية مقاومة ذهنية للعتاد وأربع قطع حماية جديدة\n- موازنة Deviations في RaidZone منها ZapCam وMini Wonder وPyro Dino\n- إضعاف SN700 – Finale: خفض الحد الأقصى لتراكمات Reverb من 5 إلى 4 مع رفع قيمة كل تراكم من 4% إلى 5%\n- ست سمكات نادرة جديدة وتبسيط لعبة الصيد\n\nكما حصلت الخوادم المخصصة على صفحة رئيسية جديدة وزنزانات قابلة للتعديل، وعادت خمسة صناديق Lightforge سابقة ضمن حدث Summer Wave."
+      },
+      "en": {
+        "title": "Version 3.0.2 adds Item Lock, shared appearance presets and RaidZone pollution",
+        "summary": "The July 22 (PT) patch brought an Item Lock, snap-point switching for building, account-wide appearance presets, a RaidZone 'Mental Pollution' mode and an SN700 nerf.",
+        "details": "Version 3.0.2 arrived after maintenance on July 22 at 4:00 PM PT (2:00 AM on July 23, Gulf time). The download was about 7.7 GB on the PC launcher and roughly 400 MB on Android and iOS.\n\nKey changes:\n- Item Lock: locked item types can't be discarded by accident, sold, listed or bulk-dismantled\n- Building: snap-point switching for walls, roofs, stairs and pillars (Shift + mouse wheel on PC)\n- Appearance presets shared across all characters on an account (up to 12 per gender)\n- RaidZone \"Mental Pollution\" zones: Sanity is replaced by Mentality, gear gains a Mental Resistance stat, and four protective gear pieces were added\n- RaidZone Deviation balance for ZapCam, Mini Wonder and Pyro Dino\n- SN700 – Finale nerf: maximum Reverb stacks cut from 5 to 4, with each stack now worth 5% instead of 4%\n- Six new variant fish and a simpler fishing mini-game\n\nCustom Servers got a redesigned homepage and editable custom dungeons, and five past Lightforge crates returned in a \"Summer Wave\" rerun."
+      }
+    },
+    {
+      "id": "oh-stardesk-remote-play-partnership",
+      "date": "2026-07-10",
+      "type": "collab",
+      "importance": 1,
+      "sourceType": "official",
+      "sourceName": "Once Human — Official Website",
+      "url": "https://www.oncehuman.game/news/official/20260709/40779_1307083.html",
+      "originalTitle": "Once Human Partners with StarDesk to Help You Stay Connected Anywhere",
+      "ar": {
+        "title": "شراكة بين Once Human وStarDesk للعب عن بُعد من الهاتف والحاسوب المحمول",
+        "summary": "أعلنت Once Human شراكة مع تطبيق StarDesk المجاني للوصول عن بُعد، ليتمكن اللاعبون من بث اللعبة من حاسوبهم المنزلي إلى الهاتف أو الجهاز اللوحي أو الحاسوب المحمول.",
+        "details": "أعلنت Once Human شراكة مع StarDesk، وهي أداة للوصول إلى الحاسوب عن بُعد تتيح للاعبين الاتصال بجهاز الألعاب المنزلي من جهاز آخر ومواصلة لعب نسخة PC من اللعبة.\n\nوبحسب الإعلان، يتولى الحاسوب المنزلي تشغيل اللعبة بينما يكتفي الهاتف أو الجهاز اللوحي أو الحاسوب المحمول بالعرض والتحكم، ما يقلل حرارة الأجهزة المحمولة واستهلاك بطاريتها. ولأن اللاعب يتصل بحاسوبه الخاص، تبقى قاعدته ومهامه وتقدّمه كما هي.\n\n- السعر: مجاني ضمن الشراكة\n- الأنظمة المدعومة: Windows وmacOS وiOS وAndroid\n- المزايا: بث منخفض التأخير، وتحكم باللمس، وإعدادات مسبقة للأزرار على الجوال\n- طريقة الاستخدام: تثبيت StarDesk على حاسوب الألعاب وعلى الجهاز الثاني، ثم تسجيل الدخول بالحساب نفسه والاتصال\n\nوفي اليوم نفسه روّج الموقع الرسمي أيضًا لتعاون متجدد مع خدمة تحسين الاتصال GearUP."
+      },
+      "en": {
+        "title": "Once Human partners with StarDesk for remote play from phones and laptops",
+        "summary": "A new partnership promotes StarDesk, a free remote-desktop app, so players can stream Once Human from their own gaming PC to a phone, tablet or laptop.",
+        "details": "Once Human announced a partnership with StarDesk, a remote PC access tool that lets players connect to their home gaming PC from another device and keep playing the PC version of the game.\n\nAccording to the announcement, the PC runs the game while the phone, tablet or laptop only handles the display and controls, which the partners say reduces heat and battery drain on handheld devices. Because players connect to their own PC, their bases, missions and progress stay exactly the same.\n\n- Price: free to use as part of the partnership\n- Platforms: Windows, macOS, iOS and Android\n- Features: low-latency streaming, touch controls and key presets for mobile\n- Setup: install StarDesk on the gaming PC and on the second device, sign in with the same account, then connect\n\nOn the same day the official site also promoted a renewed partnership with the network booster GearUP."
+      }
+    },
+    {
+      "id": "oh-console-launch-date-preorders",
+      "date": "2026-07-09",
+      "type": "platform",
+      "importance": 3,
+      "sourceType": "official",
+      "sourceName": "Once Human — Official YouTube",
+      "url": "https://www.youtube.com/watch?v=YRa7L46q7IE",
+      "originalTitle": "Once Human | Global Console Launch on Aug 25 (PT)",
+      "ar": {
+        "title": "Once Human تحدد 25 أغسطس موعدًا لإطلاقها على PS5 وXbox Series X|S",
+        "summary": "أعلنت لعبة البقاء المجانية موعد إطلاقها على PlayStation 5 وXbox Series X|S في 25 أغسطس (بتوقيت المحيط الهادئ)، مع فتح الطلب المسبق وحزمتين حصريتين للمنصتين.",
+        "details": "أعلنت Starry Studio وNetEase أن Once Human، المتاحة على PC والجوال، ستصل إلى PlayStation 5 وXbox Series X|S في 25 أغسطس بتوقيت المحيط الهادئ. ونُشر الموعد عبر القنوات الرسمية في 9 يوليو، بعد يوم من بث مباشر خاص بنسخة المنصات مع منتجها Vincent.\n\nركّز الإعلان على إمكانية اللعب الكامل بمنظور الشخص الأول، وفُتح الطلب المسبق فورًا عبر متجري PlayStation وXbox مع مكافآت حصرية لمستخدمي المنصات. وعُرضت حزمتان للطلب المسبق:\n- Starter Pack: اشتراك Meta Pass لشهر، وثلاثة أشكال أسلحة Midnight Rave، وشكل Cradle باسم Black Gold Butterfly، وشكل Wish Machine، وبطاقة اسم حصرية\n- Radiance Pack: اشتراك Meta Pass لشهر، واختيار مجموعة ملابس Epic، وBattle Pass المميز، واثنان من Lightforge Ingots، وإطار صورة حصري\n\nوتبقى اللعبة مجانية، مع لعب مشترك وتقدّم موحّد بين PC والجوال والمنصات المنزلية."
+      },
+      "en": {
+        "title": "Once Human sets August 25 console launch on PS5 and Xbox Series X|S",
+        "summary": "The free-to-play survival game dated its PlayStation 5 and Xbox Series X|S release for August 25 (PT), with pre-orders and two console-only bundles opening the same day.",
+        "details": "Starry Studio and NetEase announced that Once Human, already on PC and mobile, would launch on PlayStation 5 and Xbox Series X|S on August 25 (PT). The date was published on the official channels on July 9, a day after a special console livestream with console producer Vincent.\n\nThe announcement highlighted playing fully in first-person mode, and pre-orders opened immediately on the PlayStation Store and Xbox Store with exclusive console-only bonuses. Two pre-order bundles were shown:\n- Starter Pack: a one-month Meta Pass, three \"Midnight Rave\" weapon skins, a Black Gold Butterfly cradle skin, a Wish Machine skin and an exclusive namecard\n- Radiance Pack: a one-month Meta Pass, an Epic outfit-set selection, the premium Battle Pass, two Lightforge Ingots and an exclusive avatar frame\n\nThe game itself remains free to play, with cross-play and shared progress across PC, mobile and consoles."
+      }
+    },
+    {
+      "id": "oh-version-3-0-1-anniversary-update",
+      "date": "2026-07-09",
+      "type": "update",
+      "importance": 3,
+      "sourceType": "official",
+      "sourceName": "Once Human — Official Website",
+      "url": "https://www.oncehuman.game/news/update/20260709/40780_1307147.html",
+      "originalTitle": "Version 3.0.1 Update Announcement (July 9)",
+      "ar": {
+        "title": "تحديث 3.0.1: منظور الشخص الأول والصبغ الحر وRaidFest في الذكرى الثانية",
+        "summary": "افتتح تحديث 9 يوليو فعالية الذكرى الثانية، وأضاف منظور الشخص الأول ونظام صبغ الملابس وعدوّين جديدين وأسلحة جديدة ومهرجان RaidFest في RaidZone.",
+        "details": "وصل الإصدار 3.0.1 بعد صيانة بدأت في 9 يوليو 2026 الساعة 4:00 عصرًا بتوقيت المحيط الهادئ (2:00 فجر 10 يوليو بتوقيت الخليج). وبلغ حجم التنزيل نحو 22.6 غيغابايت لمشغّل PC و1.9 غيغابايت على Android و2.2 غيغابايت على iOS، وحصل كل لاعب على 1000 Starchrom وصندوق S13 من فئة Epic وتذكرتي سحب للذكرى السنوية.\n\nأبرز الإضافات:\n- فعالية Dreamy Maelstrom حتى 30 يوليو، ومنظور الشخص الأول في اللعبة الرئيسية وRaidZone\n- نظام جديد لصبغ الملابس يبدأ بالمجموعات الأسطورية الصادرة حتى 11 يونيو\n- العدوّان Acting Physician وLady Sea Nettle، والسلاحان QBJ97 – Fiery Trees and Silver Flowers وSN700 – Finale، ومجموعة الدروع Ghost Link\n- طرق جديدة للحصول على Shiny Mods عبر تقييم السيناريو ومراحل الجمع، ومشغّل موسيقى مع خمس أغانٍ جديدة\n- مهرجان RaidFest في RaidZone مع طور Crimson Revelry المحدود الذي يفتح القتال بين اللاعبين ومداهمة القواعد لساعة في كل مرة\n\nكما حصلت الخوادم المخصصة على كاميرا حرة والتحكم في الطقس وقواعد للمنظور يحددها المضيف، وأضاف المتجر صندوق Eldritch Diadem مع زي Abyssal Touch القابل للترقية على أربع مراحل."
+      },
+      "en": {
+        "title": "Version 3.0.1: anniversary update adds first-person mode, dyes and RaidFest",
+        "summary": "The July 9 (PT) patch opened the anniversary event and added first-person mode, free-form fashion dyeing, two new enemies, new weapons and a RaidZone festival.",
+        "details": "Version 3.0.1 went live after maintenance starting July 9, 2026 at 4:00 PM PT (2:00 AM on July 10 in the Gulf, UTC+3). Downloads were about 22.6 GB for the PC launcher, 1.9 GB on Android and 2.2 GB on iOS, and every player received 1,000 Starchrom, an Epic S13 crate and two anniversary draw tickets.\n\nMain additions:\n- The Dreamy Maelstrom anniversary event (until July 30) and first-person mode in the main game and RaidZone\n- A new fashion dye system, starting with legendary sets released up to June 11\n- New enemies Acting Physician and Lady Sea Nettle; new weapons QBJ97 – Fiery Trees and Silver Flowers and SN700 – Finale; the Ghost Link armor set\n- New ways to earn Shiny Mods through scenario ratings and collection milestones, plus a music player with five new songs\n- RaidZone \"RaidFest\" with the limited Crimson Revelry mode, where PvP and base raids open for one hour at a time\n\nCustom Servers gained a free camera, weather control and host-set camera rules, and the shop added the Eldritch Diadem crate with the upgradable four-tier \"Abyssal Touch\" outfit."
+      }
+    },
+    {
+      "id": "oh-first-person-mode-dev-blog",
+      "date": "2026-07-03",
+      "type": "announcement",
+      "importance": 2,
+      "sourceType": "official",
+      "sourceName": "Once Human — Official Website",
+      "url": "https://www.oncehuman.game/news/devBlog/20260703/40781_1306531.html",
+      "originalTitle": "Dev Blog丨First Person Mode is Finally Here!",
+      "ar": {
+        "title": "تأكيد وصول منظور الشخص الأول إلى Once Human مع تحديث 9 يوليو",
+        "summary": "كشفت مدونة المطورين تفاصيل منظور الشخص الأول المنتظر: قتال قريب مُعاد تصميمه، وفحص السلاح أثناء الحركة، وتبديل سريع بين المنظورين على PC والجوال.",
+        "details": "أكد استوديو Starry Studio أن منظور الشخص الأول الكامل، وهو من أكثر الميزات التي طالب بها اللاعبون، سيُضاف إلى أساسيات التحكم في Once Human مع تحديث 9 يوليو بتوقيت المحيط الهادئ، في اللعبة الرئيسية وفي RaidZone.\n\nما يدعمه المنظور الجديد عند الإطلاق:\n- الحركة والقفز والتسلق، واستخدام الأسلحة والمقذوفات والأدوية والطعام\n- جمع الموارد باليد أو بأدوات مثل المعول والمنشار والمثقاب الكهربائيين\n- قتال قريب مُعاد تصميمه: هجمات أثناء الحركة، وسلسلة ضربات خفيفة، وضربة ثقيلة تُشحن بالضغط المطوّل (دون تغيير في منظور الشخص الثالث)\n- فحص السلاح أثناء الحركة، وتذكّر المركبات لآخر منظور مستخدم\n\nيمكن اختيار المنظور الافتراضي من الإعدادات، أو التبديل بمفتاحي Alt+C على PC، أو بإضافة زر مخفي إلى واجهة الجوال. وتعود بعض المشاهد والحركات ومهارات Deviations مؤقتًا إلى منظور الشخص الثالث.\n\nوذكر الفريق أن الغوص والسلالم والحبال المنزلقة ومهارات Deviations ستُدعم لاحقًا، وقد وصل معظمها في تحديث 24 أغسطس."
+      },
+      "en": {
+        "title": "First-person mode confirmed for Once Human's July 9 update",
+        "summary": "A dev blog detailed the long-requested first-person camera: redesigned melee attacks, weapon inspection while moving, and a quick toggle on PC and mobile.",
+        "details": "Starry Studio confirmed that a full first-person mode, one of the community's most requested features, would join Once Human's basic controls with the July 9 (PT) update, in both the main game and RaidZone.\n\nSupported at launch:\n- Movement, jumping and climbing; firing weapons; throwables, medicine and food\n- Gathering by hand or with tools such as the pickaxe, electric chainsaw and drill\n- Redesigned melee: attacks while moving, light-attack combos and a hold-to-charge heavy attack (third-person melee is unchanged)\n- Weapon inspection while moving, and vehicles that remember the last camera used\n\nPlayers can set the default view in Settings, press Alt+C on PC, add a hidden toggle button to the mobile layout, or use the PC function wheel. Some cutscenes, emotes and special Deviation skills temporarily switch back to third person.\n\nThe team named underwater exploration, ladders, ziplines and Deviation skills as the next areas to support; most of them arrived in the August 24 (PT) update."
+      }
+    },
+    {
+      "id": "oh-2nd-anniversary-dreamy-maelstrom",
+      "date": "2026-07-01",
+      "type": "event",
+      "importance": 3,
+      "sourceType": "official",
+      "sourceName": "Once Human — Official Website",
+      "url": "https://www.oncehuman.game/news/devBlog/20260701/40781_1306335.html",
+      "originalTitle": "Dev Blog丨The Second Anniversary Celebration Dreamy Maelstrom Is About to Begin!",
+      "ar": {
+        "title": "Once Human تكشف احتفالية الذكرى السنوية الثانية Dreamy Maelstrom",
+        "summary": "تمتد فعالية الذكرى الثانية من تحديث 9 يوليو حتى 30 يوليو، وتضم طور الموجات Dreamy Rift وثلاثة Deviations جديدة وهدايا تسجيل دخول يومية وحزمًا للعائدين والجدد.",
+        "details": "احتفلت Once Human، التي أُطلقت في 9 يوليو 2024، بذكراها السنوية الثانية عبر فعالية Dreamy Maelstrom التي بدأت بعد تحديث 9 يوليو بتوقيت المحيط الهادئ واستمرت حتى 30 يوليو، وسبقتها حملة تسجيل مسبق من 1 إلى 9 يوليو.\n\nأبرز المحتوى:\n- Dreamy Rift: طور بقاء أمام موجات الأعداء لفريق من 1 إلى 4 لاعبين مع تعزيزات Mod كل موجتين، وصعوبة عالية فيها نيازك ومطر أسود وضباب، وطور لا نهائي ولوحة صدارة عالمية\n- ثلاثة Deviations جديدة: Crimson Insight: ZapCam المحدود، وMr. Wish – Penguin Hope، وBehemoth القابل للركوب\n- مكافآت تسجيل دخول يومية، منها مخطط السلاح الأسطوري QBJ97 – Fiery Trees and Silver Flowers\n- عجلة أمنيات تضمن عنصرًا تجميليًا كل 15 دورة، وبيض Rift Eggs المرتبط بدعوة الأصدقاء، ومكافآت رقص جماعي كل ساعة\n\nوفي 10 يوليو كان مقررًا أن يحصل لاعبون متصلون يُختارون عشوائيًا في كل منطقة على 10 من Lightforge Ingots كل 15 دقيقة بين الساعة 20:00 و22:00 بتوقيت الخادم، إلى جانب حزم هدايا للعائدين والجدد تتضمن اختيار مخطط عتاد أسطوري وصندوق Deviation."
+      },
+      "en": {
+        "title": "Once Human reveals 'Dreamy Maelstrom' second-anniversary celebration",
+        "summary": "The 2nd anniversary event runs from the July 9 (PT) update until July 30, adding the Dreamy Rift wave mode, three new Deviations, daily check-in gifts and returner packs.",
+        "details": "Once Human, which launched on July 9, 2024, marked its second anniversary with a three-week celebration called Dreamy Maelstrom. It began after the July 9 (PT) update and ran until July 30, preceded by a pre-registration warm-up from July 1 to 9.\n\nHighlights:\n- Dreamy Rift: a 1–4 player wave-survival mode with Mod upgrades every two waves; hard mode adds meteors, black rain and fog, plus an endless mode and a global leaderboard\n- New Deviations: the anniversary-limited Crimson Insight: ZapCam, Mr. Wish – Penguin Hope, and Behemoth, a rideable combat Deviation\n- Daily check-in rewards, including the legendary blueprint QBJ97 – Fiery Trees and Silver Flowers\n- A Wish Wheel with a guaranteed cosmetic every 15 spins, friend-invite \"Rift Eggs\" and hourly group-dance rewards\n\nOn July 10, randomly chosen online players in each region were to receive 10 Lightforge Ingots every 15 minutes between 20:00 and 22:00 server time. Returning and new players also got gift packs with a choice of legendary gear blueprints and a Deviation selection box."
+      }
+    },
+    {
+      "id": "oh-raid-for-glory-tournament-announced",
+      "date": "2026-06-29",
+      "type": "community",
+      "importance": 2,
+      "sourceType": "official",
+      "sourceName": "Once Human — Official YouTube",
+      "url": "https://www.youtube.com/watch?v=qBUFyJXufr0",
+      "originalTitle": "Once Human丨Raid For Glory: RaidZone Tournament",
+      "ar": {
+        "title": "بطولة Raid for Glory في Once Human: RaidZone بجوائز قيمتها 50 ألف دولار",
+        "summary": "أعلنت Once Human عن بطولة Raid for Glory في طور RaidZone بمشاركة أكثر من 70 من صنّاع المحتوى، من 10 إلى 12 يوليو (بتوقيت المحيط الهادئ)، مع مكافآت Twitch Drops للمشاهدين.",
+        "details": "أعلن فريق Once Human عن بطولة Raid for Glory، وهي منافسة لاعب ضد لاعب داخل طور RaidZone يشارك فيها أكثر من 70 من صنّاع المحتوى المتخصصين في ألعاب البقاء، يتنافسون على حصص من جوائز إجمالية قيمتها 50 ألف دولار.\n\nأقيمت البطولة على مدى ثلاثة أيام من 10 إلى 12 يوليو بتوقيت المحيط الهادئ، مع بث يومي من الساعة 12 ظهرًا حتى 4 عصرًا (من 10 مساءً حتى 2 فجرًا بتوقيت الخليج). وأشارت الحسابات الرسمية إلى أن صانع المحتوى hJune هو منظّم البطولة، وأن المباريات جرت على خادم مخصص (Custom Server).\n\n- الطور: Once Human: RaidZone المخصص للقتال بين اللاعبين\n- مجموع الجوائز: 50,000 دولار\n- ربط حساب Twitch يتيح للمشاهدين الحصول على مكافآت Twitch Drops\n\nوفي 10 يوليو أكد الحساب الرسمي على منصة X انطلاق البطولة ونشر قائمة الفرق المشاركة كاملة."
+      },
+      "en": {
+        "title": "Once Human: RaidZone announces $50,000 'Raid for Glory' streamer tournament",
+        "summary": "More than 70 survival streamers were set to battle in RaidZone from July 10 to 12 (PT) for a share of a $50,000 prize pool, with Twitch Drops for viewers.",
+        "details": "The Once Human team announced \"Raid for Glory\", a RaidZone PvP tournament featuring more than 70 survival-game streamers competing for a share of a $50,000 prize pool.\n\nThe event ran for three days, July 10–12 (PT), with matches streamed daily from 12:00 to 4:00 PM PT (10:00 PM to 2:00 AM Gulf time, UTC+3). Official posts credited survival streamer hJune as the organiser, and the matches were played on a Custom Server.\n\n- Mode: Once Human: RaidZone, the game's PvP survival mode\n- Prize pool: $50,000\n- Viewers could link their Twitch accounts to earn exclusive Twitch Drops\n\nOn July 10 the official X account confirmed that the tournament had gone live and published the full team lineup."
+      }
+    },
+    {
+      "id": "oh-new-monsters-acting-physician-lady-sea-nettle",
+      "date": "2026-06-29",
+      "type": "announcement",
+      "importance": 1,
+      "sourceType": "official",
+      "sourceName": "Once Human — Official Website",
+      "url": "https://www.oncehuman.game/news/official/20260629/40779_1305911.html",
+      "originalTitle": "New Monster Preview丨Acting Physician&Lady Sea Nettle",
+      "ar": {
+        "title": "Once Human تكشف عن عدوّين جديدين: Acting Physician وLady Sea Nettle",
+        "summary": "عدوّان جديدان يصلان مع تحديث 9 يوليو: كائن يتخفّى في معطف طبي ويسرق الطاقة، وآخر مائي يستنزف الترطيب قبل الصحة.",
+        "details": "استعرض استوديو Starry Studio عدوّين جديدين من فئة Deviants يظهران في الخوادم العادية للعبة Once Human (خارج RaidZone) بعد تحديث 9 يوليو بتوقيت المحيط الهادئ.\n\n- Acting Physician: يتخفّى على هيئة معطف طبي ملقى في المستشفيات والعيادات داخل معاقل منطقة الورش، ويستطيع الالتصاق بالجدران وسحب اللاعب إلى «عملية جراحية» يتعيّن عليه الإفلات منها، كما يسرق الطاقة ليستعيد صحته. نقطة ضعفه شاشة حاسوب متوهجة لا تنكشف إلا أثناء بعض هجماته، وإن لم تُدمَّر يستعيد عافيته عند انخفاض صحته.\n- Lady Sea Nettle: تكمن في المياه الضحلة برأس يشبه قنديل البحر يخزّن الماء، فتستنزف الترطيب أولًا ثم الصحة، وتضعف ويظهر لبّها عندما يفرغ كيس الماء.\n\nونصح الاستوديو بخوض هذه المعارك بمعدة ممتلئة وترطيب كافٍ. وقد ظهر العدوّان مع تحديث الذكرى السنوية، وفي سبتمبر أعلن الفريق نيته إعادة موازنة Acting Physician بعد شكاوى اللاعبين."
+      },
+      "en": {
+        "title": "Once Human previews two new enemies: Acting Physician and Lady Sea Nettle",
+        "summary": "Two new Deviants arrive with the July 9 (PT) update: a coat-disguised medical horror that steals Energy, and a water-powered foe that drains Hydration first.",
+        "details": "Starry Studio previewed two new enemies scheduled to appear on Once Human's regular (non-RaidZone) servers after the July 9 (PT) update.\n\n- Acting Physician: hides as an empty medical coat in hospitals and clinics inside workshop-area strongholds. It can cling to walls, drag players into a \"surgery\" they must struggle out of, and steals Energy to heal. Its weak point is a glowing computer terminal exposed only during certain attacks; if the terminal survives, the enemy recovers at low health.\n- Lady Sea Nettle: lurks in shallow water with a jellyfish-like head that stores water. She drains Hydration first, then health, and weakens when her water sac empties, exposing her core.\n\nThe studio's advice: go into these fights well fed and well hydrated. Both enemies went live with the anniversary update, and in September the team said it plans to rebalance the Acting Physician after player complaints."
+      }
+    }
+  ],
+  "upcoming": [
+    {
+      "id": "oh-upcoming-isles-final-test",
+      "date": "2026-09-16",
+      "endDate": "2026-10-08",
+      "dateConfidence": "confirmed",
+      "type": "scenario",
+      "sourceType": "official",
+      "sourceName": "Once Human — Official Website",
+      "url": "https://www.oncehuman.game/news/official/20260828/40779_1312551.html",
+      "ar": {
+        "title": "الاختبار الأخير لـIsles of Abyss وفعالية الملاحظات مستمران حتى 8 أكتوبر",
+        "summary": "يستمر الاختبار السري الأخير للسيناريو البحري الجديد على خوادم أمريكا الشمالية حتى 8 أكتوبر (بتوقيت المحيط الهادئ)، مع فعالية ملاحظات تكافئ أفضل 20 مشاركًا.",
+        "details": "بدأ الاختبار الأخير لسيناريو Isles of Abyss في Once Human في 16 سبتمبر الساعة 9:00 مساءً بتوقيت المحيط الهادئ، وينتهي في 8 أكتوبر الساعة 3:00 فجرًا، أي نحو 22 يومًا مقسمة إلى مرحلة أولى من 5 أيام وثانية من 17 يومًا. ويقتصر على نحو 4000 لاعب مختار في أمريكا الشمالية على PC والمنصات المنزلية، ويخضع لاتفاقية عدم إفصاح، وتُحذف شخصيات الاختبار بعد انتهائه.\n\nيدخل المختارون من العميل الحالي عبر زر التبديل أعلى يسار شاشة اختيار السيناريو، ويحصلون على Wish Emblems يوميًا وعلى زي Jade Nocturne عند تسجيل الدخول في اليوم السابع.\n\nوتستمر فعالية الملاحظات للفترة نفسها:\n- كل بلاغ خطأ أو اقتراح مقبول يمنح نقطة واحدة\n- أفضل 20 لاعبًا: قسيمة Battle Pass Advanced Edition\n- كل من يقدّم ملاحظة مقبولة: ثلاثة صناديق Stardust Secret Crate S14 من فئة Epic و100 من Wish Emblems\n- إعلان الفائزين خلال 7 أيام عمل بعد نهاية الفعالية",
+        "location": "خوادم الاختبار في أمريكا الشمالية (PC والمنصات المنزلية)",
+        "dateNote": "ينتهي في 8 أكتوبر الساعة 3:00 فجرًا بتوقيت المحيط الهادئ، أي 1:00 ظهرًا في قطر والسعودية (UTC+3) و2:00 ظهرًا في الإمارات (UTC+4)."
+      },
+      "en": {
+        "title": "Isles of Abyss final test and feedback event run until October 8",
+        "summary": "The confidential final test of the new ocean scenario continues on North American servers until October 8 (PT), with a feedback event rewarding the top 20 contributors.",
+        "details": "The last test of Once Human's Isles of Abyss scenario started on September 16 at 9:00 PM PT and ends on October 8 at 3:00 AM PT: about 22 days, split into a 5-day Phase I and a 17-day Phase II. It is limited to about 4,000 selected North American players on PC and console, runs under an NDA, and all test characters are deleted afterwards.\n\nSelected players join from the current client using the mode switch at the top left of the scenario screen. Test rewards include daily Wish Emblems and the \"Jade Nocturne\" cosmetic for signing in on day 7.\n\nThe Isles of Abyss Final Test Feedback Event runs over the same period:\n- Each valid bug report or suggestion earns 1 point\n- Top 20 players: a Battle Pass Advanced Edition voucher\n- Everyone with valid feedback: three Epic S14 Stardust Secret Crates and 100 Wish Emblems\n- Winners will be announced within 7 business days after the event ends",
+        "location": "North America test servers (PC and console)",
+        "dateNote": "Ends October 8 at 3:00 AM PT, which is 1:00 PM in Qatar and Saudi Arabia (UTC+3) and 2:00 PM in the UAE (UTC+4)."
+      }
+    },
+    {
+      "id": "oh-upcoming-update-2026-09-28",
+      "date": "2026-09-28",
+      "endDate": null,
+      "dateConfidence": "confirmed",
+      "type": "update",
+      "sourceType": "official",
+      "sourceName": "Once Human — Official Website",
+      "url": "https://www.oncehuman.game/news/devBlog/20260916/40781_1314019.html",
+      "ar": {
+        "title": "تحديث 28 سبتمبر: تعديل المظهر مجانًا وثلاثة حيوانات لفئة Beastmaster",
+        "summary": "يجعل تحديث 28 سبتمبر (بتوقيت المحيط الهادئ) تعديل الوجه والجسم ولون الشعر مجانيًا، ويعيد لفئة Beastmaster استدعاء ثلاثة حيوانات معًا، ويحسّن أوامر Beast Whistle.",
+        "details": "حُدد التحديث التالي للعبة Once Human في 28 سبتمبر الساعة 4:00 عصرًا بتوقيت المحيط الهادئ، أي 2:00 فجر 29 سبتمبر في قطر والسعودية و3:00 فجرًا في الإمارات.\n\nالتغييرات المعلنة:\n- تعديل الوجه والجسم وصبغ الشعر مجانًا عبر المرآة، مع سحب Chrysalis Token وButterfly Dye من المتجر وإمكانية تحويلهما إلى Colorful Badges\n- خفض سعر Metamorphosis Token لتغيير الجنس من 880 إلى 300 Crystgin، مع تعويض تلقائي للمشتريات المؤهلة خلال الأشهر الثلاثة السابقة\n- عودة قدرة Beastmaster على استدعاء ثلاثة حيوانات معًا (وحيوان واحد لبقية الفئات)\n- صافرة Beast Whistle واحدة تأمر عدة حيوانات، مع تصحيح عرض وزن الحيوانات المحمولة\n\nكما ينتهي مع هذا التحديث عرض الخصم 10% على السحب العشري في صندوق Moon That Lingers.",
+        "location": "",
+        "dateNote": "4:00 عصرًا بتوقيت المحيط الهادئ في 28 سبتمبر = 2:00 فجر 29 سبتمبر (UTC+3) و3:00 فجرًا (UTC+4)؛ لم تُعلن مدة الصيانة بعد."
+      },
+      "en": {
+        "title": "September 28 update: free appearance changes and three Beastmaster pets",
+        "summary": "The September 28 (PT) update makes face, body and hair-color changes free, restores three simultaneous summons for Beastmasters and improves Beast Whistle commands.",
+        "details": "Once Human's next version update is scheduled for September 28 at 4:00 PM PT, which is 2:00 AM on September 29 in Qatar and Saudi Arabia and 3:00 AM in the UAE.\n\nAnnounced changes:\n- Free face and body reshaping and palette hair dye at the territory Floor Mirror; Chrysalis Tokens and Butterfly Dyes leave the shop and can be converted into Colorful Badges\n- The Metamorphosis Token (gender change) drops from 880 to 300 Crystgin, with automatic refunds for qualifying purchases from the previous three months\n- Beastmasters can again summon three animals at once (other classes: one)\n- One Beast Whistle can command several animals, and the animal carry-weight display is corrected\n\nThe 10%-off ten-draw offer on the Moon That Lingers crate also ends with this update.",
+        "location": "",
+        "dateNote": "4:00 PM PT on Sept 28 = 2:00 AM Sept 29 (UTC+3) / 3:00 AM (UTC+4); maintenance length not yet announced."
+      }
+    },
+    {
+      "id": "oh-upcoming-custom-server-revenue-carnival",
+      "date": "2026-10-01",
+      "endDate": "2026-12-31",
+      "dateConfidence": "confirmed",
+      "type": "community",
+      "sourceType": "official",
+      "sourceName": "Once Human — Official Website",
+      "url": "https://www.oncehuman.game/news/update/20260902/40780_1312959.html",
+      "ar": {
+        "title": "برنامج Revenue Carnival لمضيفي الخوادم المخصصة يتجدد شهريًا حتى نهاية 2026",
+        "summary": "يتقاسم مضيفو الخوادم المخصصة حوافز إضافية وفق مؤشر التفاعل؛ وبعد دورة 2–29 سبتمبر يتجدد البرنامج في أول كل شهر حتى نهاية 2026.",
+        "details": "تتيح الخوادم المخصصة (Custom Servers) في Once Human للاعبين استئجار عوالمهم الخاصة وإدارتها، ويحصل المضيفون على حصة من الإيرادات عبر برنامج Community Creation Program. وإلى جانب الحصة المعتادة، خُصص صندوق حوافز إضافي بلا سقف يُوزّع وفق مؤشر التفاعل (Engagement Score) لخوادم كل مضيف.\n\nالجدول:\n- الدورة الحالية: من 2 إلى 29 سبتمبر بتوقيت المحيط الهادئ، وهي أطول من الدورات السابقة\n- بعد ذلك يُعاد ضبط بيانات صندوق Revenue Carnival في اليوم الأول من كل شهر\n- يستمر البرنامج حتى نهاية عام 2026\n\nويمكن المشاركة من Custom Server ثم Community Creation Program ثم تبويب Event. كما تمنح فئة Excellent الجديدة للمضيفين، لمن يبلغ متوسط تفاعلهم اليومي بين 200 و599 خلال الشهر، تجديدًا مجانيًا لمدة 30 يومًا لحجم الخادم الحالي.",
+        "location": "داخل اللعبة (الخوادم المخصصة)",
+        "dateNote": "1 أكتوبر هو أول تجديد شهري بعد الدورة الحالية، ويستمر البرنامج حتى نهاية 2026."
+      },
+      "en": {
+        "title": "Custom Server 'Revenue Carnival' host rewards reset monthly through 2026",
+        "summary": "Server hosts share an extra bonus pool based on engagement; after the September 2–29 round, the Revenue Carnival resets on the 1st of every month until the end of 2026.",
+        "details": "Once Human's Custom Servers let players rent and run their own worlds, and hosts earn a share of revenue through the Community Creation Program. On top of the standard share, a dedicated incentive pool with no upper limit pays hosts according to their servers' \"Engagement Score\".\n\nSchedule:\n- Current round: September 2–29 (PT), longer than earlier cycles\n- From then on, the \"Revenue Carnival\" resets its prize-pool data on the 1st of each month\n- The program is set to continue until the end of 2026\n\nHosts can join from Custom Server > Community Creation Program > Event tab. A new \"Excellent\" host tier, for an average daily engagement score of 200–599 over a month, also grants a free 30-day renewal of the current server size.",
+        "location": "In-game (Custom Servers)",
+        "dateNote": "October 1 is the first monthly reset after the current round; the program runs to the end of 2026."
+      }
+    },
+    {
+      "id": "oh-upcoming-legendary-mod-crate-feedback",
+      "date": "2026-10-21",
+      "endDate": null,
+      "dateConfidence": "expected",
+      "type": "update",
+      "sourceType": "official",
+      "sourceName": "Once Human — Official Website",
+      "url": "https://www.oncehuman.game/news/update/20260908/40780_1313384.html",
+      "ar": {
+        "title": "تحسين وضوح مكافآت Legendary Mod Crate في طور Gravity Integrator خلال أكتوبر",
+        "summary": "بعد بلاغات عن عدم وصول صناديق Legendary Mod Crate، أكد الفريق أن معظمها وصل فعلًا، ووعد بجعل إشعارات المكافآت أسرع وأوضح في أكتوبر.",
+        "details": "أبلغ لاعبو طور Gravity Integrator عن عدم حصولهم على صناديق Legendary Mod Crate. وقال فريق Once Human إن التحقيق أظهر أن معظم الحسابات المُبلِّغة تسلمت صناديقها، لكن القواعد قد تُفهم خطأً:\n- للطور حد أسبوعي لاستلام المكافآت، وبعد بلوغه قد تستمر عروض المكافآت أو التقدّم في الظهور دون إمكانية الاستلام\n- يستمر تقدّم الضمان (Pity) بعد بلوغ الحد، وإذا تحقق يصل الصندوق عبر البريد داخل اللعبة خلال يوم تقريبًا، لذا يُنصح بعدم الانتقال بين الخوادم قبل وصوله\n\nووصف الفريق هذا الصندوق بأنه مكافأة يسعى إليها كثير من اللاعبين، وأعلن نيته تحسين سرعة ووضوح إشعارات الحصول عليه خلال أكتوبر.",
+        "location": "",
+        "dateNote": "الإعلان الرسمي يذكر «أكتوبر» فقط؛ اخترنا 21 أكتوبر لأنه موعد التحديث الوحيد المعلن في أكتوبر حتى الآن، وقد يختلف الموعد الفعلي."
+      },
+      "en": {
+        "title": "Clearer Legendary Mod Crate rewards in Gravity Integrator planned for October",
+        "summary": "After players reported missing Legendary Mod Crates, the team said most had been delivered but promised faster, clearer reward feedback in October.",
+        "details": "Players of the Gravity Integrator mode reported not receiving Legendary Mod Crates. The Once Human team said its investigation found that most of the reported accounts had received their crates, but that the rules are easy to misread:\n- The mode has a weekly limit on reward claims; after it is reached, reward displays or progress can still appear even though nothing more can be claimed\n- Pity (guarantee) progress keeps building after the limit; if it triggers, the Legendary Mod Crate arrives by in-game mail within about a day, so players should avoid switching servers until it lands\n\nCalling the Legendary Mod Crate a reward many players chase, the team said it plans to improve how quickly and clearly the crate rewards are shown in October.",
+        "location": "",
+        "dateNote": "The official notice only says 'in October'. We have pencilled in October 21, the only October update date announced so far; the real date may differ."
+      }
+    },
+    {
+      "id": "oh-upcoming-isles-of-abyss-launch",
+      "date": "2026-10-22",
+      "endDate": null,
+      "dateConfidence": "confirmed",
+      "type": "release",
+      "sourceType": "official",
+      "sourceName": "Once Human — Official YouTube",
+      "url": "https://www.youtube.com/watch?v=C8nwKvJF4Sc",
+      "ar": {
+        "title": "إطلاق توسعة Isles of Abyss البحرية في Once Human",
+        "summary": "أكبر تحديث مجاني للعبة يضيف عالمًا بحريًا مع بناء السفن والبقاء بين الجزر واستكشاف الأعماق على PC والجوال وPS5 وXbox Series X|S.",
+        "details": "من المقرر إطلاق Ocean Expansion: Isles of Abyss في 21 أكتوبر بتوقيت المحيط الهادئ، فيما تذكر Xbox موعد 22 أكتوبر. وهي تحديث مجاني لجميع اللاعبين مع لعب مشترك بين PC والجوال وPlayStation 5 وXbox Series X|S، وتقول Xbox إنها متاحة لمشتركي Game Pass.\n\nما يمكن توقعه وفق المواد الرسمية حتى الآن:\n- محيط جديد خلف شواطئ Nalcott بجزر متناثرة وطقس متغير ودورة ليل ونهار\n- بناء السفن والإبحار، مع تحسينات للمدافع البحرية\n- أبراج Calamity Towers، وسفن Voyager الجوالة، ومناطق Haywire Zones مثل Mist of Deceit وSkyfire وTime Rain وBlack Tide\n- استكشاف حطام السفن والمختبرات تحت الماء بخرائط الكنوز\n- زنزانة The Sunken Lord لأربعة لاعبين\n\nوقد تختلف مدة المراحل وبعض التفاصيل عن نسخة الاختبار، فيما تُحمّل التحديثات الأخيرة بيانات الخريطة الجديدة مسبقًا.",
+        "location": "عالمي (جميع المناطق والمنصات)",
+        "dateNote": "قنوات Once Human تذكر 21 أكتوبر بتوقيت المحيط الهادئ، وXbox تذكر 22 أكتوبر. تبدأ التحديثات عادةً الساعة 4:00 عصرًا بتوقيت المحيط الهادئ، أي فجر 22 أكتوبر بتوقيت الخليج."
+      },
+      "en": {
+        "title": "Isles of Abyss ocean expansion launches",
+        "summary": "Once Human's largest free update adds an ocean world with ship-building, island survival and deep-sea exploration on PC, mobile, PS5 and Xbox Series X|S.",
+        "details": "\"Ocean Expansion: Isles of Abyss\" is set to launch on October 21 (PT), a date Xbox lists as October 22. It is a free update for all players, with cross-play across PC, mobile, PlayStation 5 and Xbox Series X|S, and Xbox says it is included for Game Pass members.\n\nBased on official material so far, players can expect:\n- A new ocean beyond Nalcott's shores, with scattered islands, dynamic weather and day-night cycles\n- Building and sailing ships, with improved naval cannons\n- Calamity Towers, roaming Voyager ships, and \"Haywire Zones\" such as Mist of Deceit, Skyfire, Time Rain and Black Tide\n- Underwater exploration of shipwrecks and labs using treasure maps\n- \"The Sunken Lord\", a four-player dungeon\n\nPhase lengths and other details may still change from the test version. Recent patches have already been preloading the new map data.",
+        "location": "Global (all regions and platforms)",
+        "dateNote": "Once Human's channels say October 21 (PT); Xbox lists October 22. Updates usually start at 4:00 PM PT, i.e. the early hours of October 22 in the Gulf."
+      }
+    },
+    {
+      "id": "oh-upcoming-update-2026-11-04",
+      "date": "2026-11-04",
+      "endDate": null,
+      "dateConfidence": "confirmed",
+      "type": "update",
+      "sourceType": "official",
+      "sourceName": "Once Human — Official Website",
+      "url": "https://www.oncehuman.game/news/devBlog/20260923/40781_1314860.html",
+      "ar": {
+        "title": "تحديث 4 نوفمبر يضيف أوامر أسرع عبر Beast Whistle",
+        "summary": "سيتمكن Beastmaster الذي يحمل Beast Whistle من إصدار الأوامر للحيوانات بزر الوسم: زر الفأرة الأوسط على PC، وزر الوسم على الجوال، والنقر المزدوج على السهم العلوي في وحدة التحكم.",
+        "details": "حدد مطورو Once Human تحديثًا للإصدار في 4 نوفمبر بتوقيت المحيط الهادئ. والتغيير الوحيد المؤكد حتى الآن يخص فئة Beastmaster مع ازدياد عدد الحيوانات التي يمكن استدعاؤها.\n\n- عند حمل Beast Whistle يمكن إصدار الأوامر للحيوانات مباشرة عبر زر الوسم\n- الأزرار الافتراضية: زر الفأرة الأوسط على PC، وزر الوسم على الجوال، والنقر المزدوج على السهم العلوي في لوحة الاتجاهات بوحدة التحكم\n\nويأتي ذلك بعد تحديث 28 سبتمبر الذي يتيح لصافرة واحدة أمر عدة حيوانات، وتحديث 21 أكتوبر الذي يصلح سمة Nimble. ولم تُعلن بقية محتويات تحديث 4 نوفمبر بعد.",
+        "location": "",
+        "dateNote": "معلن ليوم 4 نوفمبر بتوقيت المحيط الهادئ؛ إذا بدأ في الموعد المعتاد 4:00 عصرًا فسيوافق 3:00 فجر 5 نوفمبر في قطر والسعودية (UTC+3) و4:00 فجرًا في الإمارات (UTC+4)، بعد انتهاء التوقيت الصيفي الأمريكي."
+      },
+      "en": {
+        "title": "November 4 update to add quicker Beast Whistle commands",
+        "summary": "Beastmasters carrying a Beast Whistle will be able to command animals with the tag button: middle mouse on PC, the tag button on mobile, or double-tap Up on a controller.",
+        "details": "Once Human's developers have scheduled a version update for November 4 (PT). The only confirmed change so far concerns Beastmasters, as the number of animals they can summon grows.\n\n- While carrying a Beast Whistle, Beastmasters will be able to give commands directly with the tag button\n- Default inputs: middle mouse button on PC, the tag button on mobile, and a double-tap of Up on the D-pad for controllers\n\nIt follows the September 28 update, which lets one whistle command several animals, and the October 21 update, which fixes the \"Nimble\" trait. The rest of the November 4 update's contents have not been announced yet.",
+        "location": "",
+        "dateNote": "Announced for November 4 (PT). If it keeps the usual 4:00 PM PT slot, it would begin on November 5 at 3:00 AM in Qatar and Saudi Arabia (UTC+3) and 4:00 AM in the UAE (UTC+4), after the US clock change."
+      }
+    },
+    {
+      "id": "oh-upcoming-gravity-abyss-season-ends",
+      "date": "2026-11-18",
+      "endDate": null,
+      "dateConfidence": "confirmed",
+      "type": "scenario",
+      "sourceType": "official",
+      "sourceName": "Once Human — Official Website",
+      "url": "https://www.oncehuman.game/news/devBlog/20260916/40781_1314019.html",
+      "ar": {
+        "title": "انتهاء موسم Visional Wheel S4: Gravity Abyss في 18 نوفمبر وموسم جديد لاحقًا",
+        "summary": "مُدد موسم Visional Wheel الحالي حتى 18 نوفمبر (بتوقيت المحيط الهادئ) لمنح الفريق وقتًا لإتقان الموسم التالي الذي يعد بموضوع وأسلوب لعب جديدين.",
+        "details": "تُعد Visional Wheel طبقة موسمية متجددة في Once Human تضيف قواعد ومكافآت ذات طابع خاص. وقد انطلق موسمها الرابع Gravity Abyss مع تحديث 27 مايو 2026.\n\nوفي ملاحظات تحديث 16 سبتمبر، نقل المطورون موعد انتهائه إلى 18 نوفمبر بتوقيت المحيط الهادئ للحفاظ على جودة الموسم التالي، الذي قالوا إنه سيأتي بموضوع وأسلوب لعب جديدين كليًا. وضمن التمديد:\n- أضيفت إلى متجر Abyssal Essence مرات استبدال إضافية لصندوق Stardust Secret Crate S14 من فئة Epic\n- أضيف كذلك صندوق Downstar/Aero Mod Crate من فئة Nightmare\n\nولم يُعلن بعد موعد بدء الموسم التالي أو تفاصيله.",
+        "location": "",
+        "dateNote": "موعد الانتهاء وفق ملاحظات تحديث 16 سبتمبر (بتوقيت المحيط الهادئ)؛ موعد الموسم التالي غير مؤكد."
+      },
+      "en": {
+        "title": "Visional Wheel S4 'Gravity Abyss' ends November 18; a new Vision follows",
+        "summary": "The current Visional Wheel season was extended to November 18 (PT) to give the team more time to polish the next Vision, which promises a new theme and gameplay.",
+        "details": "The Visional Wheel is Once Human's rotating seasonal layer of themed rules and rewards. Its fourth season, \"Gravity Abyss\", launched with the May 27, 2026 update.\n\nIn the September 16 (PT) patch notes, the developers moved its end to November 18 (PT) to protect the quality of the next Vision, which they said will bring a brand-new theme and gameplay. As part of the extension:\n- Abyssal Essence gained extra exchanges for the Stardust Secret Crate S14 (Epic)\n- The Downstar/Aero Mod Crate (Nightmare) was also added to the Abyssal Essence exchange\n\nThe start date and details of the next Vision have not been announced yet.",
+        "location": "",
+        "dateNote": "End date per the September 16 patch notes (PT); the next Vision's start date is not confirmed."
+      }
+    },
+    {
+      "id": "oh-upcoming-console-test-rewards-deadline",
+      "date": "2027-08-25",
+      "endDate": null,
+      "dateConfidence": "confirmed",
+      "type": "platform",
+      "sourceType": "official",
+      "sourceName": "Once Human — Official Website",
+      "url": "https://www.oncehuman.game/news/update/20260825/40780_1312198.html",
+      "ar": {
+        "title": "آخر موعد لاستلام مكافآت اختبارات نسخة المنصات في Once Human",
+        "summary": "يمكن لمن شاركوا في الاختبار المغلق أو المفتوح لنسخة المنصات استلام مكافآتهم المنقولة على حساب PlayStation أو Xbox حتى 25 أغسطس 2027.",
+        "details": "يمكن للحسابات التي شاركت في اختبارات نسخة المنصات المنزلية من Once Human (اختبار مغلق وآخر مفتوح قبل الإطلاق في 25 أغسطس 2026) استلام المكافآت المنقولة على حساب PlayStation أو Xbox المطابق.\n\nطريقة الاستلام:\n- تسجيل الدخول على المنصة وفتح صفحة Exclusive Event – Console Test Exclusive Rewards Carryover\n- تُستلم المكافآت مرة واحدة لكل حساب، لذا يجب اختيار الشخصية المناسبة أولًا\n- لا يمكن الاستلام داخل RaidZone\n- ربط حساب المنصة بحساب PC أو الجوال لا يؤثر في الأهلية، ويُنصح بالربط قبل الاستلام\n\nولا ينتقل تقدّم الشخصيات من الاختبارات، بل تُنقل عناصر مثل Starchrom وبعض الأزياء وفق قواعد الاختبار. ويمكن الإبلاغ عن المشكلات عبر خدمة العملاء داخل اللعبة أو منصة الملاحظات.",
+        "location": "PlayStation 5 وXbox Series X|S",
+        "dateNote": "الموعد الرسمي لانتهاء فعالية استلام المكافآت."
+      },
+      "en": {
+        "title": "Deadline to claim Once Human console test carry-over rewards",
+        "summary": "Players who took part in the console closed or open beta can claim their carried-over rewards on their PlayStation or Xbox account until August 25, 2027.",
+        "details": "Accounts that joined Once Human's console tests (a closed beta and an open beta held before the August 25, 2026 launch) can collect carry-over rewards on the matching PlayStation or Xbox account.\n\nHow it works:\n- Sign in on console and open \"Exclusive Event – Console Test Exclusive Rewards Carryover\"\n- Rewards can be claimed only once per account, so pick the right character first\n- Claiming is not available inside RaidZone\n- Linking the console account to PC or mobile does not affect eligibility; the team recommends linking before claiming\n\nCharacter progress from the tests does not carry over; only items such as Starchrom and some cosmetics are transferred under the test rules. Problems can be reported through in-game customer service or the Feedback Platform.",
+        "location": "PlayStation 5 and Xbox Series X|S",
+        "dateNote": "Official end date of the reward-claim event."
+      }
+    }
+  ]
+}

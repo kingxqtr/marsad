@@ -1,0 +1,824 @@
+{
+  "topic": "star-citizen",
+  "generatedAt": "2026-09-27",
+  "news": [
+    {
+      "id": "sc-alpha-4-10-2-ptu-wave-1",
+      "date": "2026-09-25",
+      "type": "patch",
+      "importance": 2,
+      "sourceType": "official",
+      "sourceName": "RSI Spectrum – Patch Notes",
+      "url": "https://robertsspaceindustries.com/spectrum/community/SC/forum/190048/thread/star-citizen-alpha-4-10-2-ptu-patch-notes-1",
+      "originalTitle": "[Wave 1] Star Citizen Alpha 4.10.2 PTU Patch Notes 12770507",
+      "ar": {
+        "title": "تحديث Alpha 4.10.2 يصل إلى الموجة الأولى على PTU مع حدث جديد في Stanton",
+        "summary": "بعد مرحلة قصيرة مع مختبري Evocati، أُتيح تحديث Alpha 4.10.2 لمختبري الموجة الأولى في 25 سبتمبر، حاملًا حدثًا جديدًا في نظام Stanton وإصلاحات لاستقرار تسجيل الدخول واختبارًا لتوازن قتال السفن.",
+        "details": "أتاحت Cloud Imperium Games تحديث Alpha 4.10.2 للموجة الأولى (Wave 1) على خوادم الاختبار العامة PTU في 25 سبتمبر، بعد أربعة أيام من وصوله إلى مختبري Evocati بموجب اتفاقية عدم إفصاح. وتعمل قناة الاختبار على خوادم أمريكية فقط مع تفعيل الحفظ طويل الأمد.\n\n- حدث جديد داخل نظام Stanton، مع توزيع نقاط الحدث على أنواع المهام وإعادة موازنة فتح المهام\n- إضافة اتصالات صوتية لمهام الدورية والدعم، وتصحيح تسليح الأعداء ذوي الدروع الثقيلة\n- إصلاح طرد اللاعبين خطأً برسالة \"Duplicate Login\" بعد إعادة الاتصال التلقائي\n- جولة جديدة لتحسين مزج أصوات أسلحة القتال الأرضي\n\nكما أدمجت الشركة في نسخة نهاية الأسبوع الاختبار التقني الرابع لموازنة زمن القتل (TTK) في قتال السفن، مؤكدةً أنه غير مخطط لإصدار 4.10.2 نفسه، إذ يخفض ضرر الأسلحة الباليستية بنسبة 20% مقارنة بالاختبار السابق ويصحح قيم الدروع التي تضاعفت خطأً.\n\nوربطت CIG نهاية حدث Orison Relief Support الجاري، المحددة في 7 أكتوبر، بوصول 4.10.2 إلى الخوادم الرسمية."
+      },
+      "en": {
+        "title": "Alpha 4.10.2 reaches Wave 1 on the PTU with a new Stanton event",
+        "summary": "After a short Evocati phase, Alpha 4.10.2 opened to Wave 1 testers on 25 September, bringing a new in-system event for Stanton, login stability fixes and a weekend ship-balance test.",
+        "details": "Cloud Imperium Games pushed Alpha 4.10.2 to Wave 1 of the Public Test Universe (PTU) on 25 September, four days after the build first went to Evocati testers under NDA. The PTU channel runs on US servers only and has long-term persistence enabled.\n\n- A new in-system event for Stanton, with event points split across mission types and rebalanced mission unlocks\n- Voice comms added to the event's patrol and support missions; heavily armoured enemies now carry the right weapons\n- A fix for players wrongly kicked with a \"Duplicate Login\" error after a silent reconnect\n- Another mixing pass on FPS weapon audio\n\nFor the weekend, CIG also folded its fourth time-to-kill (TTK) tech preview into the build. The studio stressed that this ship-combat rebalance is not planned for 4.10.2 itself; it cuts ballistic damage by 20% compared with the previous test and fixes shield values that had been doubled by mistake.\n\nCIG has tied the end of the current Orison Relief Support event, listed as 7 October, to the arrival of 4.10.2 on the live servers."
+      }
+    },
+    {
+      "id": "sc-ttk-balance-tech-preview-3",
+      "date": "2026-09-17",
+      "type": "development",
+      "importance": 2,
+      "sourceType": "official",
+      "sourceName": "RSI Spectrum – Patch Notes",
+      "url": "https://robertsspaceindustries.com/spectrum/community/SC/forum/190048/thread/ttk-tdd-balance-test-tech-preview-3",
+      "originalTitle": "[All Backer] TTK TTD Balance Test Tech-Preview #3",
+      "ar": {
+        "title": "دعوة جميع الداعمين لاختبار إعادة موازنة كبيرة لقتال السفن",
+        "summary": "فتحت CIG في 17 سبتمبر الاختبار التقني الثالث لزمن القتل أمام جميع الداعمين، مع زيادة كبيرة في قوة الدروع وضرر الأسلحة بحيث يُقضى معظم الاشتباك في كسر الدروع.",
+        "details": "أتاحت Cloud Imperium Games في 17 سبتمبر الاختبار التقني الثالث (Tech-Preview) لإعادة موازنة زمن القتل وزمن التدمير في قتال السفن لجميع الداعمين، عبر خوادم اختبار أمريكية منفصلة تشمل الكون المستمر وArena Commander. ويستند الاختبار إلى ملاحظات النسخة الثانية التي لقيت استحسانًا عامًا لكنها انتُقدت لتقويتها الأسلحة الباليستية دون قصد.\n\n- رفع قوة الدروع بنسبة تتراوح بين 134% و212%، وضرر جميع الأسلحة بنسبة 145%\n- زيادة قدرة الدروع المعدنية على صد الضرر الطاقي بنسبة 145% والضرر الباليستي بنسبة 80%\n- تسريع تجدد الدروع بنسبة 95%، مع زيادة الضرر الذي تتلقاه سفن الذكاء الاصطناعي بنسبة 40%\n- الهدف: أن يستغرق كسر الدروع نحو ثلثي زمن المعركة، وإطالة معارك اللاعبين والسفن الكبيرة مع إبقاء مهام PvE سريعة\n\nوأقرت الشركة بأن هذه النسخة ضاعفت قوة الدروع عن طريق الخطأ، ووعدت بتصحيح ذلك في الاختبار التالي. وتبقى إعادة الموازنة في طور الاختبار، إذ أوضحت CIG أن النسخة الرابعة المختبرة على PTU الخاص بإصدار 4.10.2 ليست مخصصة له."
+      },
+      "en": {
+        "title": "All backers invited to test a major ship-combat rebalance",
+        "summary": "CIG opened its third time-to-kill tech preview to every backer on 17 September, sharply raising shield health and weapon damage so that most of a dogfight is spent breaking shields.",
+        "details": "The third Tech-Preview of CIG's ship time-to-kill (TTK) and time-to-die rebalance opened to all backers on 17 September on separate US tech-preview servers, covering both the Persistent Universe and Arena Commander. It builds on feedback from the second preview, which players rated positively but criticised for unintentionally buffing ballistic weapons.\n\n- Shield health raised by 134% to 212%, and alpha damage of all weapons by 145%\n- Armour deflection up 145% against energy and 80% against ballistic damage\n- Shield regeneration up 95%; AI-controlled ships now take 40% extra damage\n- Goals: spend about two-thirds of a fight on shields, lengthen PvP and capital-ship fights, keep PvE quick\n\nCIG acknowledged that this build doubled shield health by mistake and said the next test would correct it. The rebalance remains a test: the fourth preview, run on the 4.10.2 PTU, is not intended for that patch."
+      }
+    },
+    {
+      "id": "sc-alpha-4-10-1-orison-relief-live",
+      "date": "2026-09-16",
+      "type": "patch",
+      "importance": 2,
+      "sourceType": "official",
+      "sourceName": "RSI Spectrum – Patch Notes",
+      "url": "https://robertsspaceindustries.com/spectrum/community/SC/forum/190048/thread/star-citizen-alpha-4-10-1-live-release-notes",
+      "originalTitle": "Star Citizen Alpha 4.10.1 LIVE Release Notes",
+      "ar": {
+        "title": "إطلاق Alpha 4.10.1 على الخوادم الرسمية مع حدث Orison Relief Support",
+        "summary": "وصل تحديث Alpha 4.10.1 إلى الخوادم الرسمية في 16 سبتمبر حاملًا حدث Orison Relief Support المحدود لإعادة إعمار مدينة Orison بعد هجوم Nine Tails، إلى جانب تعديلات للمركبات الأرضية و37 إصلاحًا.",
+        "details": "أُطلق Star Citizen Alpha 4.10.1 (الإصدار 4.10.1-LIVE.12650677) في 16 سبتمبر مع الحفاظ على تقدم اللاعبين، ورصيد ابتدائي قدره 20,000 aUEC للشخصيات الجديدة.\n\nأبرز ما فيه حدث Orison Relief Support الذي يضم 14 عقدًا قابلًا للإعادة يمكن قبولها من أي مكان في نظام Stanton حتى 7 أكتوبر، وتشمل جمع الموارد وتوصيل الإمدادات الطبية وتصنيع دافعات بديلة للمنصات ونقلها وملاحقة عصابة Nine Tails. وتفتح النقاط المجمّعة طقم SecondWind المكوّن من ست قطع (مسدس وبندقية ورشاش خفيف ودروع خفيفة ومتوسطة وثقيلة) يُضاف مباشرة إلى حساب RSI.\n\n- المركبات الأرضية تدخل حالة تعطّل بدلًا من الانفجار الفوري\n- غنائم الكائنات والنباتات أصبحت بدرجات جودة متفاوتة\n- ملحقات الأسلحة باتت أكثر توافرًا، مع تحسين توزيع شحنات المهام متعددة الاستلام\n\nويعالج التحديث 37 مشكلة، منها 16 بلاغًا عبر Issue Council، بينها 3 أعطال في العميل وعطلان في الخادم، إضافة إلى تعطل المصاعد وتعذر استدعاء المركبات من محطات ASOP."
+      },
+      "en": {
+        "title": "Alpha 4.10.1 goes live with the Orison Relief Support event",
+        "summary": "Alpha 4.10.1 reached the live servers on 16 September with Orison Relief Support, a limited-time event to rebuild Orison after the Nine Tails siege, plus ground-vehicle changes and 37 fixes.",
+        "details": "Star Citizen Alpha 4.10.1 (build 4.10.1-LIVE.12650677) launched on 16 September with long-term persistence preserved and a 20,000 aUEC starting balance for new characters.\n\nIts headline is Orison Relief Support: 14 replayable contracts, available from anywhere in Stanton until 7 October, in which players gather resources, deliver medical supplies, craft and haul replacement platform thrusters, and hunt the Nine Tails. Points unlock a six-piece SecondWind set (a pistol, rifle and SMG plus light, medium and heavy armour) credited to the player's RSI account.\n\n- Ground vehicles now enter a disabled \"soft death\" state instead of exploding outright\n- Creature and plant loot now comes in quality grades\n- Weapon attachments drop more often, and multi-pickup cargo is distributed better\n\nThe patch closes 37 issues, 16 of them reported through the Issue Council, including three client crashes, two server crashes, stuck freight elevators and vehicles that could not be retrieved from ASOP terminals."
+      }
+    },
+    {
+      "id": "sc-aegis-sabre-raven-ex-ikti-akuma",
+      "date": "2026-09-16",
+      "type": "ship",
+      "importance": 2,
+      "sourceType": "official",
+      "sourceName": "RSI Comm-Link (Engineering)",
+      "url": "https://robertsspaceindustries.com/en/comm-link/engineering/21329-Q-A-Aegis-Sabre-Raven-EX-And-Argo-ATLS-IKTI-Akuma",
+      "originalTitle": "Q&A: Aegis Sabre Raven EX and Argo ATLS IKTI Akuma",
+      "ar": {
+        "title": "وصول مقاتلة Aegis Sabre Raven EX وبدلة ATLS IKTI Akuma",
+        "summary": "أُطلقت مع Alpha 4.10.1 مركبتان جديدتان: المقاتلة Sabre Raven EX المزودة بمخمد كمّي يمنع الأهداف من الفرار، وبدلة القوة ATLS IKTI Akuma بطابع عصابة Nine Tails.",
+        "details": "تُعد Aegis Sabre Raven EX الإصدار السادس في عائلة Sabre، إذ تجمع نقاط تثبيت الأسلحة الأربع من الحجم 3 في Sabre الأصلية مع هيكل Raven، وتضيف مخمدًا كميًا (Quantum Dampener) يمنع السفن القريبة من الدخول في السفر الكمي. وبحسب CIG، لا تملك هذه التقنية سوى أربع سفن أخرى قابلة للطيران هي RSI Mantis وDrake Cutlass Blue وRSI Scorpius Antares وMirai Guardian QI.\n\nوتقع المقاتلة في المنتصف بين شقيقتيها: أسرع من Sabre وأكثر تدريعًا من Raven، لكنها أقل تخفيًا من Raven وأقل رشاقة من Sabre، كما تتوافق مع طلاءات Sabre الحالية.\n\nأما Argo ATLS IKTI Akuma فهي نسخة من بدلة ATLS GEO IKTI بطابع Nine Tails، تُباع ضمن حزمة Nine Tails Shogun Pack، وتستخدم مدافع بلازما سريعة بضرر انتشاري وحزمة قفز تفضّل المسافة والوقود على الارتفاع. وأكدت CIG أن IKTI الأصلية ستبقى متاحة داخل اللعبة فقط."
+      },
+      "en": {
+        "title": "Aegis Sabre Raven EX fighter and ATLS IKTI Akuma power suit arrive",
+        "summary": "Two new vehicles launched with Alpha 4.10.1: the Sabre Raven EX, a fighter with a quantum dampener that stops targets escaping, and the Nine Tails-styled ATLS IKTI Akuma power suit.",
+        "details": "The Aegis Sabre Raven EX is the sixth member of the Sabre family. It pairs the original Sabre's four size-3 weapon hardpoints with the Raven's silhouette and adds a quantum dampener, which prevents nearby ships from entering quantum travel. CIG says only four other flyable ships carry one: the RSI Mantis, Drake Cutlass Blue, RSI Scorpius Antares and Mirai Guardian QI.\n\nIn flight it sits between its siblings: faster than the Sabre and better armoured than the Raven, but with less stealth than the Raven and less agility than the Sabre. Existing Sabre paints fit it, and new paints fit every Sabre.\n\nThe Argo ATLS IKTI Akuma is a Nine Tails variant of the ATLS GEO IKTI power suit, sold inside the Nine Tails Shogun Pack. It swaps in plasma repeaters with splash damage and a jump pack tuned for distance and fuel rather than height. CIG says the original IKTI will remain earnable only in game."
+      }
+    },
+    {
+      "id": "sc-alpha-4-11-moved-to-q4-2026",
+      "date": "2026-09-09",
+      "type": "development",
+      "importance": 2,
+      "sourceType": "official",
+      "sourceName": "RSI Comm-Link (Roadmap Roundup)",
+      "url": "https://robertsspaceindustries.com/en/comm-link/transmission/21314-Roadmap-Roundup-September-9-2026",
+      "originalTitle": "Roadmap Roundup - September 9, 2026",
+      "ar": {
+        "title": "تأجيل Alpha 4.11 إلى الربع الرابع من 2026 للتركيز على تجربة اللعب الحالية",
+        "summary": "نقل تحديث خارطة الطريق في 9 سبتمبر إصدار Alpha 4.11، الذي كان مقررًا مبدئيًا في سبتمبر، إلى الربع الرابع من 2026، واعتمد حدث Orison Relief Support ضمن تحديث من سلسلة 4.10.x.",
+        "details": "نقلت CIG في ملخص خارطة الطريق الصادر في 9 سبتمبر إصدار Alpha 4.11 إلى الربع الرابع من عام 2026، موضحةً أن الوقت الإضافي يتيح للفرق التركيز على تحديثات 4.10.x وعلى 4.11 نفسه لمواصلة تحسين تجربة اللعب. وكانت خارطة الطريق قد حددت في يوليو شهر سبتمبر موعدًا مبدئيًا لهذا التحديث.\n\nويتمحور Alpha 4.11 حول كوكب Nyx I، وهو كوكب بلا نواة جرى استصلاحه بتقنية Genesis Terraforming، إلى جانب تقنية توليد العوالم Planet Tech v5 ونظام Starchitect لتوزيع المواقع إجرائيًا، وأسلحة جديدة منها بندقية \"Skarnov\" من Lightning Bolt Company التي نُشرت لها صور جديدة مع كوكب Nyx III.\n\nكما اعتمد الملخص نفسه حدث Orison Relief Support لتحديث قادم من سلسلة 4.10.x، وقد أُطلق لاحقًا مع Alpha 4.10.1 في 16 سبتمبر."
+      },
+      "en": {
+        "title": "Alpha 4.11 slips to Q4 2026 as CIG prioritises the live game",
+        "summary": "The 9 September roadmap update moved Alpha 4.11, previously pencilled in for September, to Q4 2026, and committed the Orison Relief Support event to a 4.10.x patch.",
+        "details": "In its 9 September Roadmap Roundup, CIG moved Alpha 4.11 to the fourth quarter of 2026. The studio said the extra time lets its teams concentrate on the 4.10.x updates and on 4.11 itself to keep improving the live experience. In July, the roadmap had pencilled 4.11 in for September.\n\nAlpha 4.11 is built around Nyx I, a coreless planet transformed by Genesis Terraforming, together with the new Planet Tech v5 world-generation technology, the Starchitect procedural location system and new weapons such as the Lightning Bolt Company \"Skarnov\" rifle, which received new images in this update along with Nyx III.\n\nThe same roundup set the Orison Relief Support event to Committed for an upcoming 4.10.x patch; it launched with Alpha 4.10.1 on 16 September."
+      }
+    },
+    {
+      "id": "sc-pirate-week-2026",
+      "date": "2026-09-09",
+      "type": "event",
+      "importance": 2,
+      "sourceType": "official",
+      "sourceName": "RSI Comm-Link",
+      "url": "https://robertsspaceindustries.com/en/comm-link/transmission/21285-Pirate-Week-2026",
+      "originalTitle": "Pirate Week 2026 - The Black is Calling Ye",
+      "ar": {
+        "title": "انطلاق Pirate Week 2026 مع مطاردة كنز وآخر فرصة لحزم البداية",
+        "summary": "عاد أسبوع القراصنة في 9 سبتمبر بعروض متجر ذات طابع قرصاني، ومطاردة لعملة ذهبية مخبأة في ألغاز عبر قنوات CIG، ومسابقة ملصقات \"المطلوبين\"، ووضع Pirate Swarm في Arena Commander.",
+        "details": "أطلقت CIG في 9 سبتمبر فعالية Pirate Week 2026، احتفالها السنوي بالجانب الخارج عن القانون في عالم اللعبة.\n\n- عروض المتجر تشمل حزم بداية بطابع القراصنة تُطرح للمرة الأخيرة بحسب الشركة، وطلاءات جديدة وعائدة، وترقيات Warbond، وحزم مقتنيات، ومعدات قراصنة؛ ولا يمكن شراء عروض Warbond برصيد المتجر\n- مطاردة كنز تنتشر ألغازها في Spectrum والنشرات البريدية والبث ومنصات التواصل، وتقود إلى عملة ذهبية تذكارية لأسبوع القراصنة 2026\n- مسابقة Most Wanted تدعو اللاعبين إلى تصميم ملصق \"مطلوب\" بلقطة من داخل اللعبة ومكافأة مقترحة\n- عودة تحدي Pirate Swarm في Arena Commander، القائم على مواجهة موجات متتالية من سفن القراصنة\n\nوأكدت الشركة في نشرتها الأسبوعية الصادرة في 21 سبتمبر أن الفعالية مستمرة، وأن اللغز الأخير في مطاردة الكنز مخبأ داخل ذلك المنشور."
+      },
+      "en": {
+        "title": "Pirate Week 2026 sets sail with a treasure hunt and final starter packs",
+        "summary": "Pirate Week returned on 9 September with pirate-themed store offers, a hunt for a golden doubloon hidden in clues across CIG's channels, a Most Wanted poster contest and the Pirate Swarm in Arena Commander.",
+        "details": "CIG launched Pirate Week 2026 on 9 September, its yearly celebration of the lawless side of the 'verse.\n\n- Store offers include themed starter packs, which CIG says are on sale for the last time, plus new and returning paints, Warbond upgrades, collector bundles and pirate gear; Warbond deals cannot be bought with store credit\n- A treasure hunt scatters clues across Spectrum, newsletters, broadcasts and social channels, leading to a golden Pirate Week 2026 doubloon\n- The Most Wanted contest asks players to fill in a wanted poster with an in-game screenshot and a bounty\n- Arena Commander brings back Pirate Swarm, its wave-based challenge against pirate ships\n\nIn its 21 September weekly update, CIG said the event was still running and that the final treasure-hunt clue was hidden in that post."
+      }
+    },
+    {
+      "id": "sc-fight-or-flight-2956-season",
+      "date": "2026-09-07",
+      "type": "community",
+      "importance": 1,
+      "sourceType": "official",
+      "sourceName": "RSI Comm-Link (This Week in Star Citizen)",
+      "url": "https://robertsspaceindustries.com/en/comm-link/transmission/21315-This-Week-In-Star-Citizen",
+      "originalTitle": "This Week in Star Citizen - September 7, 2026",
+      "ar": {
+        "title": "بطولة المجتمع Fight or Flight 2956 تنطلق بموسم جديد من المعارك الجوية",
+        "summary": "بدأت بطولة Fight or Flight التي تنظمها مجموعة ATMO esports المجتمعية موسم 2026 بمرحلة مجموعات لمنطقتي أوروبا والشرق الأوسط وأفريقيا وأمريكا الشمالية في 12 سبتمبر، قبل نهائيات 26 سبتمبر.",
+        "details": "انطلقت بطولة Fight or Flight للمعارك الجوية بنظام 3 ضد 3، التي تنظمها مجموعة ATMO esports المجتمعية، بموسمها لعام 2026 يوم السبت 12 سبتمبر عبر مرحلة المجموعات لمنطقتي EMEA وأمريكا الشمالية، وفق ما أبرزته CIG في نشرتها الأسبوعية. وكان التسجيل قد فُتح مطلع أغسطس وأُغلق عند منتصف ليل 11 سبتمبر بتوقيت UTC.\n\nوتتواجه فرق من ثلاثة طيارين في قتال السفن داخل Star Citizen، ما جعل البطولة من أبرز المواعيد التنافسية في مجتمع اللعبة. وحُددت النهائيات يوم السبت 26 سبتمبر، وروّجت لها CIG أيضًا في نشرتها الصادرة في 21 سبتمبر.\n\nويتولى اللاعبون تنظيم البطولة وليس CIG، وهي واحدة من فعاليات مجتمعية عدة، إلى جانب لقاءات Bar Citizen، تحرص الشركة على الترويج لها في منشوراتها الأسبوعية."
+      },
+      "en": {
+        "title": "Community tournament Fight or Flight 2956 opens its dogfighting season",
+        "summary": "ATMO esports' community-run Fight or Flight tournament began its 2026 season with an EMEA and North America group stage on 12 September, ahead of 3v3 finals on 26 September.",
+        "details": "Fight or Flight, the 3v3 dogfighting tournament organised by the community group ATMO esports, kicked off its 2026 season on Saturday 12 September with its EMEA and North America group stage, CIG highlighted in its weekly update. Sign-ups had opened in early August, and registration closed at midnight UTC on 11 September.\n\nTeams of three pilots face each other in Star Citizen's ship combat, making the series one of the community's main competitive fixtures. The finals were scheduled for Saturday 26 September, which CIG also promoted in its 21 September update.\n\nThe competition is organised by players rather than by CIG, one of several community-run events, alongside Bar Citizen meetups, that the studio regularly amplifies in its weekly posts."
+      }
+    },
+    {
+      "id": "sc-ship-showdown-2956-perseus-wins",
+      "date": "2026-09-02",
+      "type": "event",
+      "importance": 2,
+      "sourceType": "official",
+      "sourceName": "RSI Spectrum – Announcements",
+      "url": "https://robertsspaceindustries.com/spectrum/community/SC/forum/1/thread/ship-showdown-2956-and-the-winner-is",
+      "originalTitle": "Ship Showdown 2956 - And the Winner is...",
+      "ar": {
+        "title": "تتويج RSI Perseus بطلًا لمسابقة Ship Showdown 2956",
+        "summary": "فازت السفينة الحربية RSI Perseus بتصويت المجتمع لهذا العام بعد تغلبها على Drake Ironclad Assault في النهائي، وسيحصل جميع الداعمين على سترة تذكارية داخل اللعبة خلال معرض IAE 2956.",
+        "details": "أعلنت CIG في 2 سبتمبر فوز RSI Perseus بمسابقة Ship Showdown 2956، البطولة السنوية التي يختار فيها المجتمع مركبته المفضلة والتي انطلقت في 28 يوليو. وتغلبت السفينة الحربية على Drake Ironclad Assault في النهائي بعد شهر من مشاركات المعجبين والتصويت اليومي المباشر.\n\n- جائزة البطل: سترة طيار داخل اللعبة بطابع السفينة الفائزة لجميع الداعمين خلال معرض Intergalactic Aerospace Expo هذا العام\n- المربع الذهبي (Perseus وIronclad Assault وOrigin M80 وDrake Corsair): طلاءات Best in Show 2956 جديدة مع عملات تذكارية وحافظة لها\n- يحصل مالكو هذه السفن عند بدء أيام Best in Show على الطلاءات والعملات، كما ستُعرض السفن مع الجوائز خلال المعرض\n\nوكانت RSI Polaris قد فازت بنسخة العام الماضي، ليكون هذا اللقب الثاني على التوالي لسفينة من إنتاج RSI."
+      },
+      "en": {
+        "title": "RSI Perseus crowned champion of Ship Showdown 2956",
+        "summary": "The RSI Perseus gunship won this year's community vote, beating the Drake Ironclad Assault in the final. All backers will receive a commemorative in-game bomber jacket at IAE 2956.",
+        "details": "CIG announced on 2 September that the RSI Perseus had won Ship Showdown 2956, the annual community tournament that began on 28 July. The gunship beat the Drake Ironclad Assault in the final after a month of fan submissions and daily head-to-head votes.\n\n- Champion prize: every backer receives an in-game bomber jacket themed on the winner at this year's Intergalactic Aerospace Expo (IAE)\n- Final Four (Perseus, Ironclad Assault, Origin M80, Drake Corsair): new 2956 Best in Show paints plus manufacturer-themed coins and a coin case\n- Owners of these ships at the start of the Best in Show days get the paints and coins, and the ships will be offered with the prizes during IAE\n\nLast year's winner was the RSI Polaris, making this the second consecutive title for an RSI ship."
+      }
+    },
+    {
+      "id": "sc-monthly-report-august-2026",
+      "date": "2026-09-02",
+      "type": "development",
+      "importance": 1,
+      "sourceType": "official",
+      "sourceName": "RSI Comm-Link (Monthly Report)",
+      "url": "https://robertsspaceindustries.com/en/comm-link/transmission/21307-Star-Citizen-Monthly-Report-August-2026",
+      "originalTitle": "Star Citizen Monthly Report: August 2026",
+      "ar": {
+        "title": "تقرير أغسطس: تقدم تطوير RSI Galaxy وAnvil Liberator وDrake Kraken",
+        "summary": "أفاد تقرير CIG الشهري لأغسطس بأن RSI Galaxy تتجه إلى مراجعة مرحلة greybox، وأن Anvil Liberator تقدمت عبر هذه المرحلة، فيما اقتربت التصاميم الداخلية لسفينة Drake Kraken من الجودة النهائية.",
+        "details": "تناول التقرير الشهري للكون المستمر عن أغسطس 2026، المنشور في 2 سبتمبر، الأعمال التي صبّت في Alpha 4.10 وفي السفن القادمة.\n\n- RSI Galaxy: تحسين ألوان التصميم الداخلي والإضاءة قبل مراجعة مرحلة greybox مطلع سبتمبر\n- Anvil Liberator: تقدمت عبر مرحلة greybox مع دمج المحركات الرئيسية ومحركات المناورة وعجلات الهبوط\n- Drake Kraken: في مرحلة LOD0، وأصبح الجسر وحظيرة السفن معيارًا بصريًا لبقية السفينة\n- تقدم ثلاث مركبات لم يُعلن عنها، إحداها في مراحلها الأخيرة، مع بدء التحضير لسفينة جديدة كليًا في المملكة المتحدة\n- أنهى فريق أمريكا الشمالية المراجعة النهائية لسفينة أخرى لم يُكشف عنها\n\nوخارج السفن، يكتب فريق السرد نصوص المهام الكثيرة المخطط لها في Nyx I، ومنها عقود محلية يطلبها سكان المستوطنات، بينما واصل فريق البحث والتطوير العمل على عرض السحب والغلاف الجوي."
+      },
+      "en": {
+        "title": "August report: RSI Galaxy, Anvil Liberator and Drake Kraken move ahead",
+        "summary": "CIG's August monthly report says the RSI Galaxy was heading into its greybox review, the Anvil Liberator had progressed through greybox and the Drake Kraken's interiors were nearing final quality.",
+        "details": "Published on 2 September, the August 2026 PU Monthly Report covers work that fed into Alpha 4.10 and on upcoming ships.\n\n- RSI Galaxy: interior colour palettes and lighting refined ahead of a greybox gate review in early September\n- Anvil Liberator: progressed through greybox, with main and manoeuvring thrusters and landing gear integrated\n- Drake Kraken: in the LOD0 phase, with the bridge and hangar setting the visual standard for the rest of the ship\n- Three unannounced vehicles advanced, one in its final stages, and an all-new ship entered pre-production in the UK\n- The North American team completed its final pass on another unannounced ship\n\nBeyond ships, writers are producing mission text for the many contracts planned for Nyx I, including new local contracts from settlement residents, while R&D continued work on cloud and atmosphere rendering."
+      }
+    },
+    {
+      "id": "sc-bar-citizen-gamescom-cologne",
+      "date": "2026-08-31",
+      "type": "community",
+      "importance": 1,
+      "sourceType": "official",
+      "sourceName": "RSI Comm-Link (This Week in Star Citizen)",
+      "url": "https://robertsspaceindustries.com/en/comm-link/transmission/21304-This-Week-In-Star-Citizen",
+      "originalTitle": "This Week in Star Citizen - August 31, 2026",
+      "ar": {
+        "title": "أكثر من 500 لاعب يلتقون فريق CIG في Bar Citizen بمدينة كولونيا",
+        "summary": "استقطب لقاء Bar Citizen الذي أُقيم في كولونيا خلال معرض Gamescom في 28 أغسطس أكثر من 500 لاعب بحسب CIG، على أن تنتقل الجولة إلى معرض PAX West في سياتل في 4 سبتمبر.",
+        "details": "قال فريق المجتمع في CIG إن أكثر من 500 لاعب من Star Citizen حضروا لقاء Bar Citizen الذي أُقيم في 28 أغسطس في BON – Brauhaus ohne Namen بمدينة كولونيا الألمانية بالتزامن مع معرض Gamescom، مع مقاعد محدودة ودخول وفق أسبقية الحضور.\n\nولقاءات Bar Citizen تجمعات ينظمها المعجبون يلتقي فيها اللاعبون بالمطورين وجهًا لوجه. وكانت جولة Bar Citizen World Tour لعام 2026 قد مرت قبل ذلك بشيكاغو في 18 يوليو ودنفر في 15 أغسطس.\n\nوحُددت المحطة التالية في 4 سبتمبر في Stoup Brewery بحي كابيتول هيل في سياتل خلال معرض PAX West، ثم أُعلن لاحقًا عن محطتي ميلانو في 19 سبتمبر وبورتو في 26 سبتمبر."
+      },
+      "en": {
+        "title": "Over 500 backers join CIG at the Gamescom Bar Citizen in Cologne",
+        "summary": "The Bar Citizen World Tour stop held during Gamescom in Cologne on 28 August drew more than 500 players, CIG said, with the tour moving on to PAX West in Seattle on 4 September.",
+        "details": "CIG's community team said more than 500 Star Citizen players attended the Bar Citizen meetup held on 28 August at BON – Brauhaus ohne Namen in Cologne, Germany, timed to coincide with Gamescom. Seating was limited and entry was first come, first served.\n\nBar Citizen gatherings are fan meetups where players and developers meet in person. The 2026 World Tour had already visited Chicago on 18 July and Denver on 15 August.\n\nThe next stop was set for 4 September at Stoup Brewery on Capitol Hill in Seattle during PAX West, with later dates announced for Milan on 19 September and Porto on 26 September."
+      }
+    },
+    {
+      "id": "sq42-delayed-q2-2027",
+      "date": "2026-08-27",
+      "type": "squadron42",
+      "importance": 3,
+      "sourceType": "official",
+      "sourceName": "RSI Comm-Link (Letter from the Chairman)",
+      "url": "https://robertsspaceindustries.com/en/comm-link/transmission/21301-Letter-From-The-Chairman",
+      "originalTitle": "Letter From The Chairman",
+      "ar": {
+        "title": "تأجيل Squadron 42 إلى الربع الثاني من 2027 لتجنب موعد إطلاق GTA VI",
+        "summary": "أعلن Chris Roberts أن Squadron 42 لن تصدر في الربع الأخير من 2026 وباتت تستهدف الربع الثاني من 2027 بسبب إطلاق GTA VI في نوفمبر، مع جلسات لعب لمجموعة مختارة يومي 9 و10 أكتوبر.",
+        "details": "أكد Chris Roberts في رسالة الرئيس (Letter from the Chairman) المنشورة في 27 أغسطس أن Squadron 42 لن تصدر في الربع الرابع من 2026 كما خُطط لها بالتزامن مع معرض Intergalactic Aerospace Expo، وأن الحملة الفردية تستهدف الآن الربع الثاني من 2027.\n\nوأوضح أنه لا يريد إطلاق اللعبة وسط الاهتمام الإعلامي المتوقع بلعبة GTA VI في نوفمبر، رغم أنها لن تصدر على PC عند إطلاقها. وسيجرب عدد محدود من الداعمين الأوائل وصناع المحتوى القدامى Squadron 42 يومي 9 و10 أكتوبر، على أن تُعلن خطط الإصدار حينها ويُحدد موعد دقيق بعد ذلك بوقت قصير.\n\n- توزيع فرق التطوير في الأشهر الأخيرة: 55% لـ Squadron 42 و45% لـ Star Citizen\n- مجموعة التقنيات الأساسية تضم 146 موظفًا بينهم 106 مهندسين، إضافة إلى 611 مطورًا في أربعة استوديوهات\n- بلغت ذروة اللاعبين المتزامنين هذا العام 35,890، وارتفع عدد اللاعبين النشطين شهريًا 11% في النصف الأول من 2026\n\nكما وصفت الرسالة تقنية instancing في 4.10 بأنها أول استخدام لتقسيم الخوادم الديناميكي (Dynamic Server Meshing)."
+      },
+      "en": {
+        "title": "Squadron 42 delayed to Q2 2027 to avoid GTA VI's launch window",
+        "summary": "Chris Roberts said Squadron 42 will no longer launch in Q4 2026 and now targets Q2 2027, citing GTA VI's November release. Select backers and creators will play it on 9–10 October.",
+        "details": "In a Letter from the Chairman published on 27 August, Chris Roberts confirmed that Squadron 42 will miss its planned Q4 2026 launch, which had been aimed at the period around the Intergalactic Aerospace Expo. The single-player campaign now targets the second quarter of 2027.\n\nRoberts said he did not want the game to launch amid the media attention expected for GTA VI in November, even though that game is not coming to PC at launch. A small group of original backers and long-time content creators will play Squadron 42 on 9 and 10 October, with more release plans shared then and a specific date soon after.\n\n- Development split is now 55% Squadron 42 and 45% Star Citizen for the final months\n- The core tech group has 146 staff, including 106 engineers, plus 611 more developers across four studios\n- Star Citizen peaked at 35,890 concurrent players this year; monthly active players rose 11% in the first half of 2026\n\nThe letter also described 4.10's instancing as the first use of dynamic server meshing."
+      }
+    },
+    {
+      "id": "sc-game-library-gifting-changes",
+      "date": "2026-08-27",
+      "type": "community",
+      "importance": 3,
+      "sourceType": "official",
+      "sourceName": "RSI Spectrum – Announcements",
+      "url": "https://robertsspaceindustries.com/spectrum/community/SC/forum/1/thread/updates-to-pledge-gifting-and-game-access",
+      "originalTitle": "Updates to Pledge Gifting and Game Access",
+      "ar": {
+        "title": "CIG تعلن نظام Game Library وقواعد أكثر صرامة لإهداء الحزم اعتبارًا من أكتوبر",
+        "summary": "يبدأ في 1 أكتوبر نظام Game Library الذي يحمي في كل حساب حزمة وصول واحدة لكل لعبة من الاسترداد أو الإهداء، كما سيتعين تحديد الحزم المخصصة للإهداء لحظة الشراء.",
+        "details": "أعلنت CIG في 27 أغسطس نظامًا جديدًا باسم Game Library يمنح Star Citizen وSquadron 42 مكانًا دائمًا في كل حساب، ضمن الاستعدادات لإطلاق Squadron 42 والوصول إلى Star Citizen 1.0، على أن يدخل حيز التنفيذ في 1 أكتوبر 2026.\n\n- يجب تحديد الحزمة كهدية عند الشراء، ولا يمكن للمشتري استخدام حزمة اشتُريت كهدية\n- يستطيع المستلم ترقية الحزمة المهداة عبر ترقيات CCU\n- تنطبق هذه القواعد على الحزم المشتراة بعد التحول فقط، بينما تحتفظ الحزم الحالية بخيارات الإهداء المعتادة\n\nأما الوصول إلى اللعبة، فستُحمى في كل حساب حزمة وصول واحدة لكل لعبة يملكها صاحبه، أي حزمتان على الأكثر (أو حزمة واحدة إذا كانت تمنح اللعبتين معًا): الحزمة غير القابلة للاسترداد مثل مكافأة VIP إن وُجدت، وإلا فأقدم حزمة تمنح تلك اللعبة. ولن يمكن استرداد الحزمة المحمية (melt) أو إهداؤها، مع بقاء إمكانية ترقية سفنها وإهداء حزم اللعبة الأخرى. وبعد ملاحظات اللاعبين، أضافت الأسئلة الشائعة المنشورة في 16 سبتمبر خيار نقل الحماية إلى حزمة مؤهلة أخرى بين 1 أكتوبر و1 نوفمبر، ويصبح الاختيار بعدها نهائيًا."
+      },
+      "en": {
+        "title": "CIG announces Game Library and stricter pledge-gifting rules from October",
+        "summary": "A new Game Library system arriving on 1 October will protect one game-access pledge per game on each account from being melted or gifted, and new pledges will have to be marked as gifts at the moment of purchase.",
+        "details": "CIG announced on 27 August a new Game Library system that gives Star Citizen and Squadron 42 a permanent place in each account, as part of preparations for Squadron 42's launch and Star Citizen 1.0. It takes effect on 1 October 2026.\n\n- Gifts must be designated as gifts at checkout, and a pledge bought as a gift cannot be used by the buyer\n- Recipients can still upgrade a gifted pledge with Cross-Chassis Upgrades (CCUs)\n- These rules apply only to pledges bought after the switch; existing pledges keep their current gifting options\n\nFor game access, each account gets one protected Game Access pledge for each game it owns, so up to two pledges (one if a single pledge grants both games): an existing non-meltable pledge such as a VIP reward if there is one, otherwise the oldest pledge that grants that game. A protected pledge can no longer be melted or gifted, although its ships can still be upgraded and other game packages stay giftable. After player feedback, a 16 September FAQ added the option to move protection to another eligible pledge between 1 October and 1 November, after which the choice becomes final."
+      }
+    },
+    {
+      "id": "sc-improving-live-experience-4-10",
+      "date": "2026-08-27",
+      "type": "development",
+      "importance": 2,
+      "sourceType": "official",
+      "sourceName": "RSI Comm-Link",
+      "url": "https://robertsspaceindustries.com/en/comm-link/Comm-links/21300-Improving-The-Live-Experience",
+      "originalTitle": "Improving the Live Experience",
+      "ar": {
+        "title": "CIG: دورة Alpha 4.10 شهدت 1,239 إصلاحًا وتحسنًا في الأداء بنسبة 15.5%",
+        "summary": "كشف تحديث تطويري آلية CIG الجديدة لترتيب أولويات الأخطاء، مع 1,239 إصلاحًا خلال دورة Alpha 4.10 مقابل 295 في 4.9، وتحسن متوسط معدل الإطارات بنسبة 15.5% في مناطق الهبوط المزدحمة.",
+        "details": "يشرح منشور \"Improving the Live Experience\" الصادر في 27 أغسطس الطريقة الجديدة التي ترتب بها CIG أولويات الأخطاء؛ إذ يتولى فريق تجربة اللاعبين العملية، ويجتمع مع فرق ضمان الجودة والإنتاج والمجتمع مرتين أسبوعيًا لتقييم المشكلات وفق تكرار البلاغات وعدد المتضررين وعمر المشكلة وشدة تأثيرها.\n\n- تقديم 1,239 إصلاحًا خلال دورة Alpha 4.10 مقابل 295 في 4.9\n- 479 منها عالجت مشكلات كانت موجودة في Alpha 4.9 أو قبله\n- ارتفاع متوسط معدل الإطارات لدى اللاعبين بنسبة 15.5% في مناطق هبوط متساوية الازدحام\n- مجالات التركيز تشمل المخزون والمصاعد والحظائر وفقدان السفن وأخطاء الدخول والسفر الكمي\n\nكما شرح المنشور إصلاحات مثل ظهور المخزون فارغًا بسبب انتهاء مهلة طلبات الخدمة، واختفاء السفن من الحظائر بسبب فحوص الصلاحية بين الخوادم. ونشرت الشركة في اليوم نفسه حلقة تجريبية لسلسلة فيديو محتملة من خلف الكواليس بعنوان Inside CIG."
+      },
+      "en": {
+        "title": "CIG: Alpha 4.10 cycle delivered 1,239 fixes and 15.5% higher average FPS",
+        "summary": "A development update detailed CIG's new bug-priority process, reporting 1,239 fixes during Alpha 4.10's cycle versus 295 for 4.9, and a 15.5% average client FPS gain in busy landing zones.",
+        "details": "Published on 27 August, the \"Improving the Live Experience\" update explains how CIG now ranks bugs. The Player Experience team owns the process, and QA, Production and Community staff join it twice a week to score issues by how often they are reported, how many players they affect, how long they have existed and how badly they hurt play.\n\n- 1,239 bug fixes were submitted during the Alpha 4.10 cycle, against 295 for 4.9\n- 479 of them fixed problems that already existed in Alpha 4.9 or earlier\n- Average client frame rate rose 15.5% in equally populated landing zones\n- Focus areas include inventory, freight elevators, hangars, ship loss, login errors and quantum travel\n\nThe post also dissected fixes such as empty inventories, caused by timed-out service requests, and ships vanishing from hangars because of server-meshing authority checks. The same day, CIG published a pilot for a possible behind-the-scenes video series called Inside CIG."
+      }
+    },
+    {
+      "id": "sc-alpha-4-10-siege-of-orison-live",
+      "date": "2026-08-26",
+      "type": "patch",
+      "importance": 3,
+      "sourceType": "official",
+      "sourceName": "RSI Spectrum – Patch Notes",
+      "url": "https://robertsspaceindustries.com/spectrum/community/SC/forum/190048/thread/star-citizen-alpha-4-10-live-release-notes",
+      "originalTitle": "Star Citizen Alpha 4.10 LIVE Release Notes",
+      "ar": {
+        "title": "إطلاق Alpha 4.10 'Siege of Orison' مع أول استخدام لتقنية instancing",
+        "summary": "صدر Alpha 4.10 في 26 أغسطس بنسخة مُعاد بناؤها من Siege of Orison، وأول استخدام لتقنية instancing الجديدة، وعودة Recco Battaglia، وإعادة موازنة الوقود، و479 إصلاحًا دون مسح للتقدم.",
+        "details": "وصل Alpha 4.10 (الإصدار 4.10.0-LIVE.12519617) إلى الخوادم الرسمية في 26 أغسطس، بعد موعد منتصف أغسطس الذي حددته CIG في يوليو، مع الحفاظ على تقدم اللاعبين من الإصدار 4.9.\n\nومحور التحديث عملية Siege of Orison التي أُعيد بناؤها كمهمة قتال أرضي خالصة داخل مساحة خاصة لفريق يصل إلى أربعة لاعبين، يدخلونها عبر مصاعد قرب صالة عرض Crusader في Orison لكسر سيطرة عصابة Nine Tails على منصات Inspiration Park. وهي أول محتوى يعتمد تقنية Instancing الجديدة التي تنشئ مساحات مغلقة لكل مجموعة وتوسّع قدرة الخوادم حسب الحمل.\n\n- عودة Recco Battaglia إلى Levski بمهام قصصية\n- إعادة موازنة وقود الهيدروجين والوقود الكمي، وتحديث دروع المركبات، وتعديلات على المطالبات بالسفن وأسعارها\n- معدات جديدة: بندقية Arlington ذات الرافعة، ودروع BUL-H4 فائقة الثقل، ورشاش Vendetta الثقيل\n- تحديثات للغنائم ولمبادلات Wikelo ولدعم الواقع الافتراضي التجريبي\n\nويغلق التحديث 479 خطأً، منها 101 من بلاغات Issue Council، بينها 47 مشكلة أعطال واستقرار و17 ثغرة استغلال."
+      },
+      "en": {
+        "title": "Alpha 4.10 'Siege of Orison' goes live and debuts instancing",
+        "summary": "Alpha 4.10 launched on 26 August with a rebuilt Siege of Orison, the first use of Star Citizen's new instancing tech, the return of Recco Battaglia, a fuel rebalance and 479 bug fixes, with no wipe.",
+        "details": "Alpha 4.10 (build 4.10.0-LIVE.12519617) reached the live servers on 26 August, later than the mid-August target CIG had set in July. Long-term persistence was preserved, so progress from 4.9 carried over.\n\nThe centrepiece is Siege of Orison, rebuilt as a pure FPS mission inside a private instance for a party of up to four players, who enter through instance elevators near the Crusader showroom in Orison to break the Nine Tails' hold on the Inspiration Park platforms. It is the first content to use the new Instancing technology, which creates closed spaces for a party and scales server capacity with load.\n\n- Recco Battaglia returns to Levski with story missions\n- Hydrogen and quantum fuel rebalance, a vehicle armour update and changes to ship claims and pricing\n- New gear: HDGW Arlington lever-action rifle, BUL-H4 super-heavy armour and the Vendetta heavy machine gun\n- Loot, Wikelo exchange and experimental VR updates\n\nThe patch closes 479 bugs, 101 of them from the Issue Council, including 47 crash and stability issues and 17 exploits."
+      }
+    },
+    {
+      "id": "sc-kruger-s65-stingray",
+      "date": "2026-08-26",
+      "type": "ship",
+      "importance": 2,
+      "sourceType": "official",
+      "sourceName": "RSI Comm-Link",
+      "url": "https://robertsspaceindustries.com/en/comm-link/transmission/21275-Kruger-S-65-Stingray",
+      "originalTitle": "Kruger S-65 Stingray - The Art of Adaptation",
+      "ar": {
+        "title": "Kruger S-65 Stingray أول مقاتلة متوسطة من Kruger تصبح قابلة للطيران",
+        "summary": "أُطلقت S-65 Stingray من Kruger مع Alpha 4.10 كمقاتلة متوسطة جاهزة للطيران، بهيكل متحول يتبدل شكله بين الهبوط والطيران والقتال، مع بدلة طيران Kruger هدية مع حزم Warbond.",
+        "details": "طرحت Kruger Intergalactic أول مقاتلة متوسطة لها، S-65 Stingray، للبيع وجعلتها قابلة للطيران مع Alpha 4.10 في 26 أغسطس. ويتغير هيكلها التكيفي بين وضعي الهبوط والطيران، وينكمش أثناء القتال ليقدم هدفًا أصغر، مع قمرة قيادة بسيطة التصميم توفر رؤية واسعة.\n\n- تتضمن حزم Warbond للسفينة منفردة أو ضمن باقات بدلة طيران Virgil Tailwind 'Kruger' مجانًا، وتُباع البدلة منفصلة أيضًا\n- لا يمكن شراء عروض Warbond برصيد المتجر\n- أتيحت السفينة مجانًا للمختبرين النشطين على PTU خلال عطلة اختبارات الضغط الأخيرة لإصدار 4.10\n\nوبحسب تقرير CIG لشهر يوليو، تقدمت السفينة بسرعة كبيرة في الإنتاج حتى اجتازت مراجعة مشتركة لمرحلتي LOD0 والبوابة النهائية في أواخر يوليو، قبل أسابيع قليلة من إطلاقها، ورافق الإطلاق فيديو Behind the Ships."
+      },
+      "en": {
+        "title": "Kruger S-65 Stingray, the maker's first medium fighter, goes flight-ready",
+        "summary": "Kruger's S-65 Stingray launched with Alpha 4.10 as a flight-ready medium fighter whose shape-shifting chassis changes for landing, flight and combat. Warbond pledges include a bonus Kruger flight suit.",
+        "details": "Kruger Intergalactic's first medium fighter, the S-65 Stingray, went on sale and became flight-ready with Alpha 4.10 on 26 August. Its adaptive chassis reshapes between landing and flight modes and contracts during combat to present a smaller target, paired with a minimalist cockpit that offers wide visibility.\n\n- Warbond standalone ship and pack pledges include a bonus Virgil Tailwind 'Kruger' flight suit, which is also sold separately\n- Warbond offers cannot be bought with store credit\n- Active PTU testers could fly the Stingray free during the final 4.10 stress-test weekend\n\nAccording to CIG's July report, the ship moved so quickly through production that it passed a combined LOD0 and final gate review at the end of July, only weeks before release. A Behind the Ships video accompanied the launch."
+      }
+    },
+    {
+      "id": "sc-ship-showdown-elite-eight-free-fly",
+      "date": "2026-08-26",
+      "type": "event",
+      "importance": 2,
+      "sourceType": "official",
+      "sourceName": "RSI Comm-Link",
+      "url": "https://robertsspaceindustries.com/en/comm-link/transmission/21265-Ship-Showdown-2956-The-Elite-Eight",
+      "originalTitle": "Ship Showdown 2956 - The Elite Eight",
+      "ar": {
+        "title": "سفن دور الثمانية في Ship Showdown متاحة مجانًا للداعمين حتى 2 سبتمبر",
+        "summary": "أتاحت CIG السفن الثماني المتأهلة في Ship Showdown 2956، من Drake Ironclad Assault إلى RSI Perseus، للطيران مجانًا للداعمين الحاليين من 26 أغسطس حتى 2 سبتمبر الساعة 16:00 بتوقيت UTC.",
+        "details": "مع وصول Ship Showdown 2956 إلى دور الثمانية، أتاحت CIG جميع السفن المتأهلة للطيران مجانًا للداعمين حتى 2 سبتمبر الساعة 16:00 بتوقيت UTC، بالتوازي مع استمرار التصويت.\n\n- Drake Ironclad Assault وDrake Corsair وDrake Clipper\n- المركبة الأرضية Greycat MTC\n- سفينة الإنقاذ Aegis Reclaimer\n- المقاتلة الثقيلة Origin M80\n- سفينة الشحن Gatac Railen من تصميم Xi'an\n- السفينة الحربية RSI Perseus\n\nوعلى غير العادة، اقتصرت تجربة الطيران المجانية هذا العام على الداعمين الحاليين دون اللاعبين الجدد، إذ قالت CIG إنها لا تريد تنظيم تجربة مجانية واسعة في أسبوع إطلاق Alpha 4.10 نفسه كي يتفرغ الفريق لمتابعة الإصدار. وقد اختيرت السفن الست عشرة الأولى من آلاف المشاركات، بينها مجسمات Lego ونماذج مطبوعة بتقنية ثلاثية الأبعاد وأخرى من الكرتون."
+      },
+      "en": {
+        "title": "Ship Showdown's Elite Eight free to fly for all backers until 2 September",
+        "summary": "The eight finalists of Ship Showdown 2956, from the Drake Ironclad Assault to the RSI Perseus, became free to fly for existing backers from 26 August until 2 September at 16:00 UTC.",
+        "details": "With Ship Showdown 2956 down to its Elite Eight, CIG made all eight finalists free to fly for backers until 2 September at 16:00 UTC while voting continued.\n\n- Drake Ironclad Assault, Drake Corsair and Drake Clipper\n- Greycat MTC ground vehicle\n- Aegis Reclaimer salvage ship\n- Origin M80 heavy fighter\n- Gatac Railen, the Xi'an cargo hauler\n- RSI Perseus gunship\n\nUnusually, this year's free fly was limited to existing backers rather than open to new players. CIG said it did not want to run a wider free fly in the same week as the major Alpha 4.10 launch, so the team could monitor the release. The Top 16 had been chosen from thousands of fan entries, including Lego builds, 3D prints and cardboard models."
+      }
+    },
+    {
+      "id": "sc-roadmap-alpha-4-11-first-look",
+      "date": "2026-08-12",
+      "type": "development",
+      "importance": 3,
+      "sourceType": "official",
+      "sourceName": "RSI Comm-Link (Roadmap Roundup)",
+      "url": "https://robertsspaceindustries.com/en/comm-link/transmission/21284-Roadmap-Roundup-August-12-2026",
+      "originalTitle": "Roadmap Roundup - August 12, 2026",
+      "ar": {
+        "title": "خارطة الطريق تكشف Alpha 4.11: كوكب Nyx I وتقنيتا Planet Tech v5 وStarchitect",
+        "summary": "أضافت CIG إحدى عشرة بطاقة مبدئية لإصدار Alpha 4.11، يتصدرها كوكب Nyx I المستصلح وتقنيات جديدة لبناء العوالم تملأ الكواكب بمواقع ومهام موزعة إجرائيًا.",
+        "details": "قدّم ملخص خارطة الطريق الصادر في 12 أغسطس أول نظرة على Alpha 4.11، مع 11 بطاقة بحالة \"مبدئية\" (Tentative).\n\n- Nyx I: كوكب بلا نواة هو الأقرب إلى نجم نظام Nyx، أصبح صالحًا للحياة بفضل تقنية تجريبية من Genesis Terraforming\n- Genesis Planet Tech v5: إعادة بناء طريقة إنشاء الكواكب وعرضها، مع مناطق حيوية ناشئة ونقل التوليد إلى معالج الرسوميات\n- Starchitect: توزيع إجرائي للقطاعات والتجمعات والمواقع المعيارية، مع نقاط اهتمام تملكها الفصائل وحزمة مهام مفتوحة\n- Population Manager: موازنة أعداد الشخصيات غير القابلة للعب وملاءمتها لبيئتها\n- معدات جديدة: رشاش Verdict ومسدس Hellion البلازمي من Kastak Arms، ودروع قتالية ثقيلة، وأشكال حواجب جديدة\n- مكافأة Wikelo: سفينة Aegis Tiburon بطلاء فريد\n\nوبعد أسبوعين أضافت CIG كوكبي Nyx II وNyx III إلى التحديث نفسه، ثم نقلت 4.11 في سبتمبر إلى الربع الرابع من 2026."
+      },
+      "en": {
+        "title": "Roadmap reveals Alpha 4.11: Nyx I, Planet Tech v5 and Starchitect",
+        "summary": "CIG added 11 tentative cards for Alpha 4.11, led by the terraformed planet Nyx I and new world-building tech meant to fill planets with procedurally placed locations and missions.",
+        "details": "The Roadmap Roundup of 12 August gave the first look at Alpha 4.11, with 11 cards marked Tentative.\n\n- Nyx I: a coreless planet closest to Nyx's star, made habitable by Genesis Terraforming's experimental technology\n- Genesis Planet Tech v5: a rework of how planets are built and rendered, with emergent biomes and generation moved to the GPU\n- Starchitect: procedural placement of sectors, clusters and modular locations, plus faction-owned points of interest and a sandbox mission pack\n- Population Manager: load-balances NPCs and fits them to their surroundings\n- New gear: Kastak Arms Verdict LMG and Hellion plasma pistol, heavy combat armour and new eyebrow styles\n- Wikelo reward: an Aegis Tiburon with a unique livery\n\nTwo weeks later CIG added Nyx II and Nyx III to the same patch, and in September it moved 4.11 to Q4 2026."
+      }
+    },
+    {
+      "id": "sc-monthly-report-july-2026",
+      "date": "2026-08-05",
+      "type": "development",
+      "importance": 2,
+      "sourceType": "official",
+      "sourceName": "RSI Comm-Link (Monthly Report)",
+      "url": "https://robertsspaceindustries.com/en/comm-link/transmission/21281-Star-Citizen-Monthly-Report-July-2026",
+      "originalTitle": "Star Citizen Monthly Report: July 2026",
+      "ar": {
+        "title": "تقرير يوليو: Drake Kraken في طريقها إلى 2027 وStingray تجتاز المراجعة النهائية",
+        "summary": "ذكر تقرير CIG لشهر يوليو أن Drake Kraken اجتازت مراجعة مرحلة greybox وما زالت على المسار للإصدار العام المقبل، فيما اجتازت Kruger Stingray مراجعة مشتركة لمرحلتي LOD0 والبوابة النهائية.",
+        "details": "قدم التقرير الشهري للكون المستمر عن يوليو 2026، المنشور في 5 أغسطس، عدة تحديثات حول السفن.\n\n- Drake Kraken: اجتازت مراجعة مرحلة greybox وما زالت على المسار للإصدار في 2027\n- Kruger Stingray: تقدمت بسرعة حتى اجتازت مراجعة مشتركة لمرحلتي LOD0 والبوابة النهائية أواخر يوليو\n- RSI Galaxy: اجتازت مراجعة مرحلة whitebox في وقت سابق من يوليو\n- Anvil Liberator: اكتملت مرحلة whitebox مع إعادة استخدام أجزاء من سفن Anvil الحالية لتسريع المراحل اللاحقة\n- Grey's Market Basher: اكتملت وأُطلقت، مع خطط لإضافة عناصر تجميلية لاحقًا هذا العام\n\nكما استعد فريق الاقتصاد لإضافة سفن طال انتظارها إلى متاجر اللعبة في Alpha 4.10، منها Kruger L-22 Alpha Wolf وDrake Golem OX وRSI Aurora Mk II مع وحداتها، إلى جانب استمرار التصميم المبدئي لنظامي التصنيع والتكرير."
+      },
+      "en": {
+        "title": "July report: Drake Kraken on track for 2027 and Stingray clears final review",
+        "summary": "CIG's July report said the Drake Kraken passed its greybox review and remains on course for release next year, while the Kruger Stingray passed a combined LOD0 and final gate review.",
+        "details": "The July 2026 PU Monthly Report, published on 5 August, gave several ship updates.\n\n- Drake Kraken: passed its greybox gate review and remains on track for release in 2027\n- Kruger Stingray: moved so quickly that it passed a combined LOD0 and final gate review at the end of July\n- RSI Galaxy: passed its whitebox gate review earlier in July\n- Anvil Liberator: whitebox wrapped up, reusing parts from existing Anvil ships to speed later stages\n- Grey's Market Basher: finalised and released, with cosmetics planned later this year\n\nThe economy team also prepared to add long-requested ships to in-game shops in Alpha 4.10, including the Kruger L-22 Alpha Wolf, Drake Golem OX and RSI Aurora Mk II with its modules, while early design work continued on crafting and refining."
+      }
+    },
+    {
+      "id": "sc-scl-siege-of-orison-gameplay",
+      "date": "2026-08-05",
+      "type": "development",
+      "importance": 1,
+      "sourceType": "official",
+      "sourceName": "RSI Comm-Link (Star Citizen Live)",
+      "url": "https://robertsspaceindustries.com/en/comm-link/transmission/21283-Star-Citizen-Live",
+      "originalTitle": "Star Citizen Live - Gamedev: Siege of Orison",
+      "ar": {
+        "title": "Star Citizen Live يعرض ساعتين من اللعب في Siege of Orison",
+        "summary": "لعب مطورون في 5 أغسطس عملية Siege of Orison المُعاد بناؤها في بث مباشر ضمن برنامج Star Citizen Live، وشرحوا تصميم مهمة PvE المنفصلة قبل وصولها مع Alpha 4.10.",
+        "details": "عاد برنامج Star Citizen Live في 5 أغسطس بحلقة خاصة مدتها ساعتان من تعليق المطورين، بُثت الساعة 16:00 بتوقيت UTC عبر Twitch، ولعب خلالها Max وElliot وLoek وOlli عملية Siege of Orison القادمة مع شرح تفاصيل تصميمها.\n\nوSiege of Orison عملية دائمة ضمن محتوى PvE في الكون المستمر، تقاتل فيها الفرق عصابة Nine Tails عبر منصات مدينة Orison. وقد أُعيد بناؤها لإصدار Alpha 4.10 على أساس تقنية instancing الجديدة التي تمنح كل مجموعة نسخة مغلقة خاصة بها من منطقة المهمة.\n\nوكان التحديث حينها قيد الاختبار على PTU بعد فتحه لجميع موجات المختبرين أواخر يوليو، ثم وصل إلى الخوادم الرسمية بعد ثلاثة أسابيع في 26 أغسطس."
+      },
+      "en": {
+        "title": "Star Citizen Live streams two hours of Siege of Orison gameplay",
+        "summary": "On 5 August, developers played through the reworked Siege of Orison live on Star Citizen Live, explaining the design of the instanced PvE operation ahead of its arrival in Alpha 4.10.",
+        "details": "Star Citizen Live returned on 5 August with a special two-hour developer commentary session, streamed at 16:00 UTC on Twitch. Max, Elliot, Loek and Olli played the upcoming Siege of Orison while talking through its design.\n\nSiege of Orison is a permanent PvE operation for the Persistent Universe in which squads fight the Nine Tails gang across Orison's platforms. For Alpha 4.10 it was rebuilt around the new instancing technology, which gives each party its own closed copy of the mission area.\n\nAt the time the patch was in PTU testing, with all test waves opened at the end of July. It reached the live servers three weeks later, on 26 August."
+      }
+    },
+    {
+      "id": "sc-foundation-festival-2026",
+      "date": "2026-07-29",
+      "type": "event",
+      "importance": 3,
+      "sourceType": "official",
+      "sourceName": "RSI Spectrum – Announcements",
+      "url": "https://robertsspaceindustries.com/spectrum/community/SC/forum/1/thread/foundation-festival-2026-has-begun",
+      "originalTitle": "Foundation Festival 2026 Has Begun!",
+      "ar": {
+        "title": "Foundation Festival 2026 يفتح تجربة لعب مجانية ومكافآت للمرشدين",
+        "summary": "أتيح لعب Star Citizen مجانًا من 29 يوليو حتى 10 أغسطس بخمس سفن، فيما حصل المرشدون والمُحيلون ومشاهدو Twitch على مكافآت المهرجان حتى 12 أغسطس.",
+        "details": "أقيم Foundation Festival، الحدث السنوي الذي تنظمه CIG لاستقبال الطيارين الجدد، من 29 يوليو حتى 12 أغسطس، وتضمن تجربة لعب مجانية (Free Fly) لأي شخص بخمس سفن حتى 10 أغسطس، إلى جانب تحديث مركز الترحيب (Welcome Hub) وتطوير نظام الإرشاد (Guide System).\n\n- يحصل المرشدون على قبعة صوفية وقبعة ودروع جديدة خاصة بالمهرجان مقابل جلسة إلى ثلاث جلسات موثقة لا تقل كل منها عن 30 دقيقة\n- يمكن للمرشدين والمتدربين جمع ما يصل إلى 13 طلاءً للسفن، واحد لكل فئة تعليمية\n- مكافأة الإحالة: بدلة Argo ATLS للمُحيل وحزمة معدات \"Ready for Anything\" للاعب الجديد\n- مكافآت Twitch: مشاهدة أربع ساعات تمنح طلاءً لبدلة ATLS، والاشتراك مع صانع محتوى مشارك يمنح مجسم Banu Lockbox\n\nويهدف المهرجان إلى تسهيل دخول الوافدين الجدد إلى لعبة معروفة بتعقيدها بمساعدة اللاعبين المخضرمين."
+      },
+      "en": {
+        "title": "Foundation Festival 2026 opens a free fly and rewards for player guides",
+        "summary": "From 29 July, anyone could play Star Citizen free until 10 August with five ships, while guides, referrers and Twitch viewers earned festival rewards until 12 August.",
+        "details": "Foundation Festival, CIG's annual event for welcoming new pilots, ran from 29 July to 12 August. Its free fly let anyone play Star Citizen with five ships until 10 August, alongside a refreshed Welcome Hub and an upgraded Guide System.\n\n- Guides earn a beanie bundle, a hat and new Foundation Festival armour for one to three verified sessions of at least 30 minutes each\n- Guides and recruits can collect up to 13 themed ship paints, one per tutorial category\n- Referral bonus: an Argo ATLS for the referrer and a \"Ready for Anything\" career kit for the new player\n- Twitch Drops: four hours of watching unlocks an ATLS livery, and subscribing to a participating streamer earns a Banu Lockbox replica\n\nThe festival is designed to ease newcomers into a notoriously complex game with help from experienced players."
+      }
+    },
+    {
+      "id": "sc-ship-showdown-2956-begins",
+      "date": "2026-07-28",
+      "type": "event",
+      "importance": 1,
+      "sourceType": "official",
+      "sourceName": "RSI Spectrum – Announcements",
+      "url": "https://robertsspaceindustries.com/spectrum/community/SC/forum/1/thread/ship-showdown-2956-phase-1-vesselmania-begins",
+      "originalTitle": "Ship Showdown 2956 - Phase 1: Vesselmania Begins!",
+      "ar": {
+        "title": "انطلاق Ship Showdown 2956 وحملات اللاعبين لدعم سفنهم المفضلة",
+        "summary": "انطلق في 28 يوليو التصويت السنوي الذي تنظمه CIG لاختيار المركبة المفضلة لدى المجتمع، إذ حددت أعمال المعجبين والنشاط داخل اللعبة قائمة الستة عشر قبل مواجهات يومية مباشرة بدءًا من 18 أغسطس.",
+        "details": "انطلقت مسابقة Ship Showdown 2956 في 28 يوليو واستمرت حتى 2 سبتمبر. وفي المرحلة الأولى (حتى 14 أغسطس) دعم اللاعبون مركباتهم المفضلة عبر نشر أعمال إبداعية أصلية على Community Hub أو منصة X، كما احتُسب وقت الطيران والنقل والتعدين والإنقاذ والقتال ضمن التأهل إلى قائمة الستة عشر.\n\n- المرحلة الثانية (18 أغسطس – 2 سبتمبر): مواجهات يومية بنظام خروج المغلوب ضمن ثماني فئات، من سفن الشحن إلى السفن الحربية\n- أفضل عشرة أعمال على Community Hub وأفضل خمسة على X تفوز كل منها بمقاتلة Kruger L-22 Alpha Wolf مع تأمين مدى الحياة\n- جوائز المربع الذهبي وسترة البطل تُوزع خلال معرض IAE 2956\n- خصومات على سفن المربع الذهبي للعام الماضي، وفي مقدمتها البطلة RSI Polaris، حتى 3 أغسطس\n\nوأصبحت Aegis Idris مؤهلة للمنافسة حتى النهاية هذا العام، لكنها تُستبعد من أي تجربة طيران مجانية لأسباب تتعلق بالأداء."
+      },
+      "en": {
+        "title": "Ship Showdown 2956 begins as players campaign for favourite ships",
+        "summary": "CIG's annual vote to crown the community's favourite vehicle opened on 28 July, with fan creations and in-game activity deciding the Top 16 before daily head-to-head battles from 18 August.",
+        "details": "Ship Showdown 2956 opened on 28 July and ran until 2 September. In Phase 1 (until 14 August), players backed a favourite flyable or drivable vehicle by posting original creations on the Community Hub or X, while flight time, hauling, mining, salvage and combat also counted toward a place in the Top 16.\n\n- Phase 2 (18 August to 2 September): daily bracket battles across eight divisions, from Freighter to Big Hitters\n- The top ten Community Hub entries and top five on X each win a Kruger L-22 Alpha Wolf with lifetime insurance\n- Final Four prizes and the champion's bomber jacket are handed out at IAE 2956\n- Last year's Final Four, led by winner RSI Polaris, were offered at a discount until 3 August\n\nThe Aegis Idris was eligible to compete all the way this year, although it would be excluded from any free fly for performance reasons."
+      }
+    },
+    {
+      "id": "sc-alpha-4-10-ptu-wave-1",
+      "date": "2026-07-23",
+      "type": "patch",
+      "importance": 2,
+      "sourceType": "official",
+      "sourceName": "RSI Spectrum – Patch Notes",
+      "url": "https://robertsspaceindustries.com/spectrum/community/SC/forum/190048/thread/star-citizen-alpha-4-10-ptu-patch-notes",
+      "originalTitle": "[Wave 1] Star Citizen Alpha 4.10 PTU Patch Notes 12311913",
+      "ar": {
+        "title": "Alpha 4.10 يدخل الاختبار على PTU مع نسخة منفصلة من Siege of Orison",
+        "summary": "أُتيحت أول نسخة اختبار عامة من Alpha 4.10 للموجة الأولى في 23 يوليو مع التركيز على Siege of Orison بتقنية instancing، ثم فُتحت لجميع الداعمين في 31 يوليو.",
+        "details": "أطلقت CIG تحديث Alpha 4.10 للموجة الأولى على خوادم الاختبار العامة في 23 يوليو (الإصدار 4.10.0-PTU.12311913)، على خوادم أمريكية مع تفعيل الحفظ طويل الأمد، وتركّز الاختبار على الاستقرار وعلى النسخة المنفصلة الجديدة من Siege of Orison.\n\nوأصلحت النسخة الأولى 13 عطلًا في العميل وحالتي توقف في المسار الرئيسي، وحسّنت الأداء في Levski، ووسّعت مدى العلاج في مسدس المسعف من 1.5 إلى 2.5 متر، لكنها أدرجت مشكلات معروفة منها انخفاض حاد في معدل الإطارات قرب منصة Solanki.\n\nوفي 31 يوليو فُتح الاختبار لجميع الموجات، مع إضافة موازنة وقود الهيدروجين وبندقية Arlington ومهام Recco Battaglia وتحديثات Wikelo ونسخة أولية من Orison Relief Support، ثم أصدرت الشركة نسخًا شبه يومية وأجرت اختبارات ضغط مركزة منتصف أغسطس تمهيدًا لإطلاق 26 أغسطس."
+      },
+      "en": {
+        "title": "Alpha 4.10 enters PTU testing with instanced Siege of Orison",
+        "summary": "The first public test build of Alpha 4.10 opened to Wave 1 on 23 July, focused on the instanced Siege of Orison; all backers could join from 31 July.",
+        "details": "CIG released Alpha 4.10 to Wave 1 of the Public Test Universe on 23 July (build 4.10.0-PTU.12311913), running on US servers with long-term persistence enabled. Testing focused on stability and the new instanced version of Siege of Orison.\n\nThe first build fixed 13 client crashes and two main-thread deadlocks, improved performance in Levski and widened the medic gun's healing range from 1.5 to 2.5 metres, but listed known issues such as a severe frame-rate drop near the Solanki platform.\n\nOn 31 July testing opened to all waves, adding hydrogen fuel balance, the Arlington lever-action rifle, Recco Battaglia's missions, Wikelo updates and an early version of Orison Relief Support. CIG then issued near-daily builds and ran focused stress tests in mid-August ahead of the 26 August launch."
+      }
+    },
+    {
+      "id": "sc-ship-matrix-live-specs",
+      "date": "2026-07-22",
+      "type": "development",
+      "importance": 1,
+      "sourceType": "official",
+      "sourceName": "RSI Spectrum – Announcements",
+      "url": "https://robertsspaceindustries.com/spectrum/community/SC/forum/1/thread/ship-matrix-specs-now-straight-from-the-game",
+      "originalTitle": "Ship Matrix Specs, Now Straight from the Game",
+      "ar": {
+        "title": "Ship Matrix على موقع RSI يستمد مواصفات السفن مباشرة من اللعبة",
+        "summary": "باتت قاعدة بيانات Ship Matrix الرسمية على موقع RSI تعكس إحصاءات كل سفينة من الإصدار الحالي للعبة، منهيةً التأخر الناتج عن نسخ المواصفات يدويًا.",
+        "details": "أعلنت CIG في 22 يوليو أن Ship Matrix، قاعدة البيانات الرسمية لمواصفات السفن على موقع RSI، أصبحت تستمد بياناتها مباشرة من اللعبة.\n\nوحتى ذلك الحين كانت الأرقام تُنقل يدويًا، فتتقادم باستمرار مع إعادة موازنة السفن من تحديث إلى آخر. أما الآن فتعكس القاعدة الإصدار المنشور حاليًا على الخوادم الرسمية، بحيث يظهر أي تغيير في إحصاءات السفينة داخل اللعبة على الموقع تلقائيًا.\n\nوكان مختبرو Evocati قد اطلعوا على النظام مبكرًا في يونيو قبل إتاحته للجميع. وبالنسبة للاعبين الذين يقارنون بين السفن، يُفترض أن تتطابق الأرقام الرسمية الآن مع ما يجدونه فعليًا داخل اللعبة."
+      },
+      "en": {
+        "title": "RSI Ship Matrix now pulls ship specifications straight from the game",
+        "summary": "The official Ship Matrix on the RSI website now reflects each ship's statistics from the current live build, ending the lag caused by manually copied specs.",
+        "details": "CIG announced on 22 July that the RSI Ship Matrix, the website's official database of ship specifications, now takes its data directly from the game.\n\nUntil then the figures were transcribed by hand and regularly drifted out of date as ships were rebalanced from patch to patch. The matrix now reflects the currently published live build, so a change to a ship's stats in game should appear on the site automatically.\n\nEvocati testers had an early look at the system in June before it went live for everyone. For players comparing ships, the official figures should now match what they actually fly in the game."
+      }
+    },
+    {
+      "id": "sc-spectrum-redesign-phase-1",
+      "date": "2026-07-22",
+      "type": "community",
+      "importance": 1,
+      "sourceType": "official",
+      "sourceName": "RSI Spectrum – Announcements",
+      "url": "https://robertsspaceindustries.com/spectrum/community/SC/forum/1/thread/spectrum-redesign-phase-1-now-live",
+      "originalTitle": "Spectrum Redesign: Phase 1 Now Live",
+      "ar": {
+        "title": "بدء إعادة تصميم منتدى Spectrum بواجهة جديدة ولوحة للرسائل المباشرة",
+        "summary": "انطلقت في 22 يوليو المرحلة الأولى من إعادة تصميم منصة Spectrum المجتمعية التابعة لـ RSI، بواجهة أوضح وشريط جانبي جديد ولوحة مخصصة للرسائل المباشرة وتجربة محدثة على الهاتف.",
+        "details": "أطلقت CIG في 22 يوليو المرحلة الأولى من إعادة تصميم Spectrum، المنصة الرسمية للمنتديات والدردشة الخاصة بـ Star Citizen وSquadron 42.\n\n- تخطيط محدث وشريط جانبي جديد للمجتمعات والإشارات المرجعية والتنقل\n- نقل الرسائل المباشرة إلى لوحة مخصصة في شريط التنقل العلوي\n- تجربة محدثة على الهاتف بشريط تنقل خاص وتصفح أسهل لصفحات المجتمعات وغرف الدردشة\n\nوتبعتها المرحلة الثانية في 8 سبتمبر بتصميم أكثر انسيابية لقائمة المواضيع. وتقول الشركة إن المواضيع والرسائل هي الخطوة التالية، مع إعادة بناء دعم Markdown من الصفر وخيارات تنسيق أغنى، ودعت اللاعبين إلى اقتراح التحسينات الأهم بالنسبة إليهم."
+      },
+      "en": {
+        "title": "Spectrum forum redesign begins with new layout and direct-message panel",
+        "summary": "The first phase of a redesign of RSI's Spectrum community platform went live on 22 July, with a cleaner layout, a new sidebar, a dedicated direct-message panel and a refreshed mobile view.",
+        "details": "CIG rolled out the first phase of its Spectrum redesign on 22 July. Spectrum is the official forum and chat platform for Star Citizen and Squadron 42.\n\n- Updated layout and a redesigned sidebar for communities, bookmarks and navigation\n- Direct messages moved to a dedicated panel in the top navigation bar\n- A refreshed mobile experience with its own navigation bar and easier-to-browse community pages and lobbies\n\nPhase 2 followed on 8 September with a more linear thread list. CIG says threads and messages come next, including Markdown support rebuilt from scratch and richer formatting, and it asked players to suggest the quality-of-life changes they want most."
+      }
+    },
+    {
+      "id": "sc-greys-market-basher",
+      "date": "2026-07-16",
+      "type": "ship",
+      "importance": 2,
+      "sourceType": "official",
+      "sourceName": "RSI Comm-Link",
+      "url": "https://robertsspaceindustries.com/en/comm-link/transmission/21227-Grey-s-Market-Basher",
+      "originalTitle": "Grey's Market Basher | Star Citizen",
+      "ar": {
+        "title": "إطلاق مقاتلة Grey's Market Basher الخفيفة مع Alpha 4.9",
+        "summary": "وصلت Basher، المقاتلة الخفيفة من علامة السوق السوداء Grey's Market والمجمّعة من أجزاء Buccaneer وGladius وAvenger وAurora، كسفينة جاهزة للطيران مع Alpha 4.9.",
+        "details": "قدمت CIG المقاتلة Grey's Market Basher بالتزامن مع Alpha 4.9، وجعلتها قابلة للطيران منذ اليوم الأول. وتأتي المقاتلة الخفيفة من Grey's Market، جهة السوق السوداء في عالم اللعبة التي تقف أيضًا وراء سفينة Shiv.\n\nوصُممت السفينة عمدًا من أجزاء سفن أخرى؛ إذ تصف CIG عناصر مأخوذة من Drake Buccaneer وAegis Gladius وAegis Avenger وRSI Aurora، مرقّعة معًا بآثار معارك واضحة بل وبالحبال، وتقدمها كمقاتلة اشتباك قريب تعتمد على قوة نارية كبيرة.\n\nونُشر في اليوم نفسه فيديو Behind the Ships عن تطويرها، فيما أشار تقرير CIG لشهر يوليو لاحقًا إلى أن فريق السفن يخطط لإضافة عناصر تجميلية لها في وقت لاحق من هذا العام."
+      },
+      "en": {
+        "title": "Grey's Market Basher light fighter launches with Alpha 4.9",
+        "summary": "The Basher, a scrappy light fighter from the black-market brand Grey's Market built from parts of the Buccaneer, Gladius, Avenger and Aurora, arrived as a flight-ready ship alongside Alpha 4.9.",
+        "details": "CIG introduced the Grey's Market Basher alongside Alpha 4.9, making it flight-ready from launch. The light fighter comes from Grey's Market, the in-universe black-market outfit also behind the Shiv.\n\nThe ship is deliberately assembled from other designs: CIG describes elements of the Drake Buccaneer, Aegis Gladius, Aegis Avenger and RSI Aurora, patched together with visible battle damage and even rope. It is pitched as a dogfighter built around heavy firepower.\n\nA Behind the Ships video on its development was released the same day, and CIG's July monthly report later said the ship team plans to add cosmetic items for the Basher later this year."
+      }
+    },
+    {
+      "id": "sc-alpha-4-9-frontier-tensions-live",
+      "date": "2026-07-15",
+      "type": "patch",
+      "importance": 3,
+      "sourceType": "official",
+      "sourceName": "RSI Spectrum – Patch Notes",
+      "url": "https://robertsspaceindustries.com/spectrum/community/SC/forum/190048/thread/star-citizen-alpha-4-9-live-release-notes",
+      "originalTitle": "Star Citizen Alpha 4.9 LIVE Release Notes",
+      "ar": {
+        "title": "إطلاق Alpha 4.9 'Frontier Tensions' مع مهام Recco Battaglia",
+        "summary": "صدر Alpha 4.9 في 15 يوليو بعقود متكررة من Recco Battaglia في نظام Nyx، ومؤشرات إصابة لقتال السفن، ونظام صوتي جديد لمرور السفن، وبندقية bullpup جديدة، وأكثر من 166 إصلاحًا.",
+        "details": "وصل Star Citizen Alpha 4.9 إلى الخوادم الرسمية في 15 يوليو مع الحفاظ على تقدم اللاعبين. وتدور قصته Frontier Tensions حول مساعدة People's Alliance في نظام Nyx ضد جماعة تُدعى Moraine، وكسب ثقة منسقة التعدين Recco Battaglia.\n\n- عقود Battaglia المتكررة: التنقيب والتعدين والاسترجاع والإنقاذ والتحقيقات واستعادة السفن\n- مؤشرات إصابة في قتال المركبات توضح الضرر اللاحق بالدروع والهيكل والمكونات\n- أول دفعة من نظام صوتي أُعيد بناؤه لمرور السفن\n- بندقية Behring CQ7، وبدلة Bellator القتالية، وحاويات للذخائر، وزيادة قوة ليزر التعدين\n- تحديث مراكز التوزيع، وتحسينات تجريبية للمسح والواقع الافتراضي\n\nوتحصي CIG أكثر من 166 إصلاحًا للأخطاء والأعطال منذ 4.8، منها 73 من بلاغات Issue Council، إذ ركز التحديث على الاستقرار بعد نقل Siege of Orison وتقنية instancing إلى 4.10."
+      },
+      "en": {
+        "title": "Alpha 4.9 'Frontier Tensions' goes live with Recco Battaglia missions",
+        "summary": "Alpha 4.9 launched on 15 July with repeatable Recco Battaglia contracts in Nyx, ship-combat hit markers, rebuilt fly-by audio, a new bullpup rifle and more than 166 bug and crash fixes.",
+        "details": "Star Citizen Alpha 4.9 went live on 15 July with long-term persistence preserved. Its storyline, Frontier Tensions, has players helping the People's Alliance in Nyx against a group called the Moraine while earning the trust of mining coordinator Recco Battaglia.\n\n- Repeatable Battaglia contracts: prospecting, mining, recovery, salvage, investigations and ship reclamation\n- Vehicle combat hit markers showing damage to shields, armour, hull and components\n- First rollout of a rebuilt ship fly-by audio system\n- Behring CQ7 bullpup rifle, Bellator combat suit, ordnance cargo holders and higher mining laser power\n- Refreshed distribution centres, plus experimental scanning and VR updates\n\nCIG counts more than 166 bug and crash fixes since 4.8, 73 of them from the Issue Council. The patch focused on stability after Siege of Orison and instancing were moved to 4.10."
+      }
+    },
+    {
+      "id": "sc-roadmap-siege-moved-to-4-10",
+      "date": "2026-07-01",
+      "type": "development",
+      "importance": 2,
+      "sourceType": "official",
+      "sourceName": "RSI Comm-Link (Roadmap Roundup)",
+      "url": "https://robertsspaceindustries.com/en/comm-link/transmission/21230-Roadmap-Roundup-July-1-2026",
+      "originalTitle": "Roadmap Roundup - July 1, 2026",
+      "ar": {
+        "title": "نقل Siege of Orison وتقنية instancing من Alpha 4.9 إلى إصدار 4.10 جديد",
+        "summary": "نقلت CIG عملية Siege of Orison وكل المحتوى المعتمد على instancing من Alpha 4.9 إلى إصدار 4.10 جديد مقرر منتصف أغسطس، بالتزامن مع حملة تقودها الإدارة العليا لمعالجة نحو 100 خطأ مؤثر.",
+        "details": "أعلنت CIG في ملخص خارطة الطريق الصادر في 1 يوليو أن Siege of Orison وكل محتوى instancing سيُنقلان من Alpha 4.9 إلى إصدار Alpha 4.10 جديد مقرر منتصف أغسطس، لمنح الفرق أربعة أسابيع إضافية لتقوية الأنظمة والخدمات الخلفية الجديدة التي أظهرت الاختبارات التقنية أنها ما زالت بحاجة إلى عمل.\n\nكما عرضت الشركة نهجًا جديدًا لإصلاح الأخطاء بعد Alpha 4.8، بمشاركة الإدارة العليا إلى جانب فرق التطوير وضمان الجودة وتجربة اللاعبين والمجتمع في ترتيب الأولويات.\n\n- تحديد نحو 100 مشكلة عالية التأثير، عولج قرابة 20% منها حينها\n- تشمل الحظائر المنفصلة والمراقبة الجوية واستدعاء السفن والمصاعد والسفر الكمي والمخزون والالتحام والذكاء الاصطناعي وتسجيل الدخول\n- إيقاف العمل على بعض الميزات مؤقتًا لتفريغ الفرق\n\nوحدد المخطط حينها منتصف يوليو لإصدار 4.9، وأغسطس لإصدار 4.10، وسبتمبر لإصدار 4.11."
+      },
+      "en": {
+        "title": "Siege of Orison and instancing pushed from Alpha 4.9 to a new 4.10",
+        "summary": "CIG moved Siege of Orison and all instance-based content out of Alpha 4.9 into a new 4.10 planned for mid-August, while launching a senior-led push on nearly 100 high-impact bugs.",
+        "details": "In its 1 July Roadmap Roundup, CIG said Siege of Orison and all instancing content would leave Alpha 4.9 for a new Alpha 4.10 scheduled for mid-August. The extra four weeks were meant to harden the new systems, backend services and mechanics, which recent tech previews showed still needed work.\n\nThe studio also outlined a new approach to bug fixing after Alpha 4.8, with senior leadership joining development, QA, player experience and community teams to rank problems.\n\n- Nearly 100 high-impact issues identified, about 20% of them resolved at that point\n- Targets include instanced hangars, ATC, ship retrieval, freight elevators, quantum travel, inventory, docking, AI and login flow\n- Some features were paused temporarily to free up teams\n\nThe plan set 4.9 for mid-July, 4.10 for August and 4.11 for September."
+      }
+    },
+    {
+      "id": "sc-alpha-4-8-3-xenothreat-returns",
+      "date": "2026-07-01",
+      "type": "event",
+      "importance": 2,
+      "sourceType": "official",
+      "sourceName": "RSI Comm-Link",
+      "url": "https://robertsspaceindustries.com/en/comm-link/transmission/21206-Star-Citizen-Alpha-483",
+      "originalTitle": "Star Citizen Alpha 4.8.3",
+      "ar": {
+        "title": "Alpha 4.8.3 يعيد XenoThreat بخمسة عقود لقتال السفن",
+        "summary": "صدر Alpha 4.8.3 في 1 يوليو حاملًا حدث The Return of XenoThreat في نظام Stanton حتى 15 يوليو، مع خمسة عقود قتالية متزامنة منها إسقاط فرقاطة Idris التابعة للخارجين عن القانون.",
+        "details": "وصل Alpha 4.8.3 في 1 يوليو مع حدث The Return of XenoThreat، الذي تهاجم فيه الجماعة المعادية للفضائيين أهدافًا مدنية وتجارية في نظام Stanton، فيما تطلب البحرية مساعدة Foxwell Enforcement.\n\n- حماية سفن من صنع فضائي تتعرض للهجوم\n- التصدي لموجات من المقاتلات المعادية للفضائيين\n- نصب كمائن للقوات القادمة والقضاء عليها\n- استدراج قادة XenoThreat والقضاء عليهم لإضعاف قيادتهم\n- التخلص من فرقاطة Idris بتدميرها أو بقتل قائدها\n\nواستمر الحدث حتى 15 يوليو، وقالت CIG إن اللاعبين يمكنهم كسب مخططات تصنيع (blueprints) جديدة كمكافآت، كما جاءت سفن الشهر للمشتركين في يوليو، وهي سلسلة Anvil Hornet Mk II، مرتبطة بأجواء المواجهة مع XenoThreat."
+      },
+      "en": {
+        "title": "Alpha 4.8.3 brings back XenoThreat with five ship-combat contracts",
+        "summary": "Released on 1 July, Alpha 4.8.3 launched The Return of XenoThreat, a Stanton event running until 15 July with five concurrent combat contracts, including taking down the outlaws' Idris frigate.",
+        "details": "Alpha 4.8.3 arrived on 1 July with The Return of XenoThreat, an event in which the anti-alien outlaw group attacks civilian and corporate targets across Stanton and the Navy asks Foxwell Enforcement for help.\n\n- Defend alien-built ships under attack\n- Fight off waves of anti-alien fighters\n- Ambush and eliminate arriving forces\n- Draw out and kill XenoThreat lieutenants to weaken their command\n- Remove their Idris frigate by destroying it or killing its pilot\n\nThe event ran until 15 July, and CIG said players could earn new blueprints as rewards. July's subscriber Ships of the Month, the Anvil Hornet Mk II series, were themed around the fight against XenoThreat."
+      }
+    },
+    {
+      "id": "sq42-hands-on-invites-community-report",
+      "date": "2026-07-01",
+      "type": "squadron42",
+      "importance": 2,
+      "sourceType": "community",
+      "sourceName": "Star Citizen Help (community news site)",
+      "url": "https://star-citizen.help/news/general/squadron-42-october-hands-on-event/",
+      "originalTitle": "Squadron 42 Goes Hands-On: CIG Invites Streamers & Press to Exclusive October Event",
+      "ar": {
+        "title": "غير مؤكد: موقع مجتمعي يتحدث عن دعوات لتجربة Squadron 42 في أكتوبر",
+        "summary": "معلومات غير مؤكدة وقت نشرها: أفاد موقع مجتمعي في 1 يوليو بأن CIG تدعو صناع محتوى وصحفيين وداعمين قدامى لتجربة Squadron 42 في أكتوبر، وقد أكدت الشركة لاحقًا جلسات لعب يومي 9 و10 أكتوبر.",
+        "details": "نشر موقع Star Citizen Help المجتمعي في 1 يوليو تقريرًا يفيد بتداول دعوات لحدث حصري مدته ثلاثة أيام لتجربة Squadron 42 في استوديو Foundry 42 التابع لـ CIG في مانشستر بالمملكة المتحدة، من 9 إلى 11 أكتوبر. واستند التقرير إلى دعوات متداولة في المجتمع لا إلى إعلان رسمي، لذا تبقى هذه المعلومات غير مؤكدة.\n\nوبحسب التقرير، شملت قائمة المدعوين صناع محتوى ومذيعين وصحفيين متخصصين وداعمين قدامى مختارين، على ألا تتحمل CIG تكاليف السفر والإقامة.\n\nولاحقًا، أكدت رسالة الرئيس الصادرة عن CIG في 27 أغسطس أن عددًا محدودًا من الداعمين الأوائل وصناع المحتوى القدامى سيجربون اللعبة يومي 9 و10 أكتوبر، لكن الشركة لم تؤكد رسميًا مكان الحدث أو مدته البالغة ثلاثة أيام."
+      },
+      "en": {
+        "title": "Unconfirmed: community site reports Squadron 42 hands-on invites for October",
+        "summary": "Unconfirmed at the time: a community site reported on 1 July that CIG was inviting creators, press and long-time backers to an October hands-on with Squadron 42. CIG later confirmed play sessions on 9–10 October.",
+        "details": "On 1 July the community site Star Citizen Help reported that invitations were circulating for an exclusive three-day Squadron 42 hands-on at CIG's Foundry 42 studio in Manchester, UK, from 9 to 11 October. The report was based on invitations seen in the community rather than an official announcement, so it should be treated as unconfirmed.\n\nAccording to the report, guests included content creators and streamers, specialist press and selected long-time backers, and CIG was not covering travel or accommodation.\n\nCIG's Letter from the Chairman on 27 August later confirmed that a small number of original backers and long-time content creators would play the game on 9 and 10 October. The venue and the three-day format have not been officially confirmed."
+      }
+    },
+    {
+      "id": "sq42-newsletter-uees-stanton-crew",
+      "date": "2026-06-30",
+      "type": "squadron42",
+      "importance": 1,
+      "sourceType": "official",
+      "sourceName": "Squadron 42 Newsletter (CIG)",
+      "url": "https://mailchi.mp/cloudimperiumgames/squadron-42-newsletter-en-6302026",
+      "originalTitle": "Life on the Line: Meet the Crew Aboard the UEES Stanton",
+      "ar": {
+        "title": "نشرة Squadron 42 تعرّف بطاقم السفينة UEES Stanton",
+        "summary": "قدمت نشرة Squadron 42 لشهر يونيو لمحات عن أفراد طاقم UEES Stanton، سفينة فئة Idris التي تدور حولها أحداث الحملة، أثناء عودتهم من إجازة على البر.",
+        "details": "قدمت نشرة Squadron 42 البريدية لشهر يونيو، المرسلة في 30 يونيو، نظرة من داخل عالم اللعبة على الشخصيات التي سيخدم اللاعبون إلى جانبها في الحملة الفردية.\n\nوتركز النشرة على السفينة UEES Stanton، وهي من فئة Idris وتعمل ضمن مجموعة القتال 87 التابعة للأسطول الخامس. ويشارك أفراد من الطاقم، بينهم مهندس وميكانيكي، انطباعات قصيرة بصيغة المتكلم أثناء عودتهم من إجازة في نظام Goss، ويتحدثون عن طيار جديد سينضم قريبًا وعن مهام السفينة في نظامي Kellog وOdin.\n\nوتندرج النشرة ضمن رسائل CIG الدورية حول Squadron 42، التي تستخدمها الشركة لمشاركة مستجدات التطوير ولمحات موضوعية قبل إصدار اللعبة، ويمكن الاشتراك فيها عبر إعدادات حساب RSI."
+      },
+      "en": {
+        "title": "Squadron 42 newsletter introduces the crew of the UEES Stanton",
+        "summary": "The June Squadron 42 newsletter profiled crew members aboard the UEES Stanton, the Idris-class ship at the centre of the campaign, as they return from shore leave.",
+        "details": "CIG's Squadron 42 newsletter for June, sent on 30 June, offered an in-universe look at the people players will serve alongside in the single-player campaign.\n\nThe issue focuses on the UEES Stanton, an Idris-class vessel deployed with the 5th Fleet's 87th Battle Group. Crew members, including an engineer and a mechanic, share short first-person impressions as they return from shore leave in the Goss system, mention a new pilot joining soon and describe the ship's duties in the Kellog and Odin systems.\n\nThe newsletter is part of CIG's regular Squadron 42 mailings, which the studio uses for development updates and themed spotlights ahead of the game's release. Players can subscribe through their RSI account settings."
+      }
+    }
+  ],
+  "upcoming": [
+    {
+      "id": "sc-orison-relief-support-event",
+      "date": "2026-09-16",
+      "endDate": "2026-10-07",
+      "dateConfidence": "confirmed",
+      "type": "event",
+      "sourceType": "official",
+      "sourceName": "RSI Spectrum – Orison Relief Support FAQ",
+      "url": "https://robertsspaceindustries.com/spectrum/community/SC/forum/3/thread/orison-relief-support-faq",
+      "ar": {
+        "title": "حدث Orison Relief Support مستمر حتى 7 أكتوبر",
+        "summary": "يمنح حدث Orison Relief Support المحدود، الجاري منذ 16 سبتمبر، اللاعبين مهلة حتى 7 أكتوبر لإنجاز عقوده الأربعة عشر والحصول على طقم أسلحة ودروع SecondWind.",
+        "details": "انطلق حدث Orison Relief Support مع Alpha 4.10.1 في 16 سبتمبر ويستمر حتى 7 أكتوبر، استكمالًا لقصة Siege of Orison، إذ يدعو اللاعبين إلى المساعدة في إعادة إعمار مدينة Orison التابعة لكوكب Crusader بعد هجوم عصابة Nine Tails.\n\n- 14 عقدًا قابلًا للإعادة، تُقبل من أي مكان في نظام Stanton عبر تبويب الأولوية في تطبيق المهام\n- المهام: جمع الموارد (بعضها يتطلب سفينة إنقاذ)، وتوصيل الإمدادات الطبية، وتصنيع دافعات المنصات وتوصيلها، والقتال ضد Nine Tails\n- المكافآت: مسدس وبندقية ورشاش خفيف ودروع خفيفة ومتوسطة وثقيلة من طقم SecondWind، تُفتح بالنقاط وتضاف إلى حساب RSI\n\nويُتابع التقدم عبر سجل mobiGlas. وبعد ملاحظات مختبري PTU، خففت CIG متطلبات الحدث، وأصبحت مخططات التصنيع تُمنح مباشرة بدلًا من مسار المكافآت.",
+        "location": "داخل اللعبة – نظام Stanton",
+        "dateNote": "الحدث جارٍ حاليًا وينتهي في 7 أكتوبر 2026."
+      },
+      "en": {
+        "title": "Orison Relief Support event runs until 7 October",
+        "summary": "The limited-time Orison Relief Support event, live since 16 September, gives players until 7 October to finish its 14 contracts and earn the SecondWind weapon and armour set.",
+        "details": "Orison Relief Support arrived with Alpha 4.10.1 on 16 September and runs until 7 October. It continues the Siege of Orison story, asking players to help rebuild the Crusader city after the Nine Tails attack.\n\n- 14 replayable contracts, accepted from anywhere in Stanton through the Priority tab of the mission app\n- Tasks: resource gathering (some requiring a salvage ship), medical supply deliveries, crafting and delivering platform thrusters, and combat against the Nine Tails\n- Rewards: the SecondWind pistol, rifle, SMG and light, medium and heavy armour, unlocked with points and credited to the RSI account\n\nProgress is tracked in the mobiGlas journal. After PTU feedback, CIG reduced the event's requirements and now grants its blueprints directly instead of through the reward track.",
+        "location": "In game – Stanton system",
+        "dateNote": "Already running; ends 7 October 2026."
+      }
+    },
+    {
+      "id": "sc-aurora-mk1-retirement",
+      "date": "2026-09-30",
+      "endDate": null,
+      "dateConfidence": "confirmed",
+      "type": "ship",
+      "sourceType": "official",
+      "sourceName": "RSI Spectrum – Announcements",
+      "url": "https://robertsspaceindustries.com/spectrum/community/SC/forum/1/thread/rsi-aurora-mk-i-retirement-reminder",
+      "ar": {
+        "title": "سحب RSI Aurora Mk I من متجر الحزم في 30 سبتمبر",
+        "summary": "ستسحب CIG سفينة RSI Aurora Mk I الأصلية من متجر الحزم في 30 سبتمبر لصالح Aurora Mk II، مع بقاء السفن المملوكة قابلة للعب بالكامل، بينما تصبح عناصر إعادة الشراء المرتبطة بها غير قابلة للاسترجاع.",
+        "details": "أكدت CIG أن 30 سبتمبر 2026 هو موعد التقاعد الرسمي لسفينة RSI Aurora Mk I، إحدى سفن البداية الكلاسيكية في Star Citizen، لإفساح المجال أمام Aurora Mk II. وكان الإعلان الأول عن التقاعد قد صدر في مارس مع مهلة ستة أشهر.\n\n- إزالة Aurora Mk I من متجر الحزم\n- تعذّر استرجاع السفن المنفردة أو الترقيات أو ترقيات CCU المرتبطة بها في قائمة إعادة الشراء (Buy Back) بعد هذا التاريخ\n- بقاء السفن الموجودة في الحظائر قابلة للعب ومدعومة بالكامل، بما في ذلك الإصلاح والتزود بالوقود والمكونات، كما حدث مع Hornet Mk I المتقاعدة\n\nوأضافت الشركة أنها قد تقدم مستقبلًا طرقًا جديدة للحصول على Aurora Mk I داخل اللعبة.",
+        "location": "متجر الحزم على موقع RSI",
+        "dateNote": ""
+      },
+      "en": {
+        "title": "RSI Aurora Mk I leaves the pledge store on 30 September",
+        "summary": "CIG will retire the original RSI Aurora Mk I from the pledge store on 30 September in favour of the Aurora Mk II. Owned ships stay fully playable, but related buy-back items become unrecoverable.",
+        "details": "CIG has confirmed that 30 September 2026 marks the official retirement of the RSI Aurora Mk I, one of Star Citizen's classic starter ships, as RSI makes way for the Aurora Mk II. The retirement was first announced in March with a six-month sunset window.\n\n- The Aurora Mk I will be removed from the pledge store\n- Unretrieved standalone ships, upgrades or CCUs involving the Mk I in the Buy Back queue can no longer be recovered after that date\n- Ships already in hangars remain fully playable and supported, including repairs, refuelling and components, as with the retired Hornet Mk I\n\nCIG added that it may introduce new ways to earn the Aurora Mk I in game in the future.",
+        "location": "RSI pledge store",
+        "dateNote": ""
+      }
+    },
+    {
+      "id": "sc-game-library-launch",
+      "date": "2026-10-01",
+      "endDate": "2026-11-01",
+      "dateConfidence": "confirmed",
+      "type": "community",
+      "sourceType": "official",
+      "sourceName": "RSI Spectrum – Announcements (FAQ)",
+      "url": "https://robertsspaceindustries.com/spectrum/community/SC/forum/1/thread/updates-to-game-access-faq",
+      "ar": {
+        "title": "تفعيل Game Library في 1 أكتوبر مع مهلة لاختيار الحزمة المحمية",
+        "summary": "اعتبارًا من 1 أكتوبر ستُحمى حزمة واحدة لكل لعبة مملوكة من الاسترداد والإهداء، ويمكن للداعمين تغيير الحزمة المحمية من صفحة My Gear حتى 1 نوفمبر، حين تصبح الخيارات نهائية.",
+        "details": "يدخل نظام Game Library الجديد من CIG حيز التنفيذ في 1 أكتوبر 2026، وتقول الشركة إن أي إشارة إلى 8 أكتوبر مصدرها نسخة سابقة ملغاة من الإعلان.\n\n- تصبح حزمة واحدة لكل لعبة مملوكة (Star Citizen وSquadron 42) محمية لا يمكن استردادها أو إهداؤها، وقد تغطي حزمة واحدة اللعبتين معًا\n- يتم الاختيار تلقائيًا: حزمة غير قابلة للاسترداد مثل مكافآت VIP إن وُجدت، وإلا فأقدم حزمة تمنح اللعبة\n- من 1 أكتوبر إلى 1 نوفمبر يمكن نقل الحماية إلى حزمة مؤهلة أخرى من صفحة My Gear بعدد غير محدود من المرات\n- تصبح الاختيارات نهائية في 1 نوفمبر، ولن تُرسل الشركة تذكيرًا منفصلًا\n\nوحتى 1 أكتوبر تبقى القواعد الحالية سارية، فاسترداد أو إهداء الحزمة الوحيدة التي تمنح اللعبة ما زال يُفقد صاحبها الوصول إليها، بينما يمكن ترقية الحزم المحمية عبر CCU.",
+        "location": "موقع RSI – حظيرة الحساب (My Gear)",
+        "dateNote": "تبدأ الحماية في 1 أكتوبر، وتُغلق مهلة الاختيار في 1 نوفمبر 2026."
+      },
+      "en": {
+        "title": "Game Library goes live on 1 October with a pledge protection window",
+        "summary": "From 1 October, one pledge per owned game will be protected from melting and gifting. Backers can switch which pledge is protected from the My Gear page until 1 November, when choices lock.",
+        "details": "CIG's new Game Library system takes effect on 1 October 2026; the company says any mention of 8 October comes from a superseded version of the announcement.\n\n- One pledge per owned game (Star Citizen and Squadron 42) becomes protected and cannot be melted or gifted; a single pledge can cover both games\n- The pledge is chosen automatically: an existing non-meltable pledge such as a VIP reward, otherwise the oldest pledge granting that game\n- From 1 October to 1 November, backers can move protection to another eligible pledge on the My Gear page, as often as they like\n- Choices become final on 1 November, and CIG will not send a separate reminder\n\nUntil 1 October the current rules apply, so melting or gifting the only pledge that grants a game still removes access. Protected pledges can still be upgraded with CCUs.",
+        "location": "RSI website – account Hangar (My Gear)",
+        "dateNote": "Protection starts 1 October; the selection window closes 1 November 2026."
+      }
+    },
+    {
+      "id": "sc-10-from-the-community-debut",
+      "date": "2026-10-05",
+      "endDate": null,
+      "dateConfidence": "confirmed",
+      "type": "development",
+      "sourceType": "official",
+      "sourceName": "RSI Spectrum – General",
+      "url": "https://robertsspaceindustries.com/spectrum/community/SC/forum/3/thread/introducing-10-from-the-community",
+      "ar": {
+        "title": "برنامج الفيديو الجديد '10 From the Community' ينطلق في 5 أكتوبر",
+        "summary": "برنامج أسئلة وأجوبة قصير جديد من CIG قائم على أسئلة يطرحها اللاعبون ويصوتون عليها، تستضيف حلقته الأولى في 5 أكتوبر الفرق المسؤولة عن أنظمة اللعب والمحتوى في Star Citizen.",
+        "details": "أعلنت CIG في 21 سبتمبر سلسلة فيديو جديدة بعنوان 10 From the Community تنطلق في 5 أكتوبر. وتجمع كل حلقة قصيرة أسئلة يطرحها اللاعبون ويصوتون عليها في موضوع على Spectrum، ثم تستضيف مطورين من مجال محدد مثل أنظمة اللعب أو الفن أو الواجهات أو التقنية أو السفن للإجابة عنها.\n\nوتبدأ الحلقة الأولى بنطاق واسع مع الفرق المسؤولة عن أنظمة اللعب والمحتوى في Star Citizen، لتشرح كيف تعمل هذه الأنظمة اليوم وكيف تترابط وكيف ستتطور في الطريق إلى الإصدار 1.0.\n\nوتشترط قواعد المشاركة سؤالًا واحدًا في كل تعليق وتمنع الأسئلة عن مواعيد الإصدار، كما تعتزم الشركة طرح استبيان حول البرامج التي يرغب اللاعبون في مشاهدتها، بما في ذلك إمكانية عودة برامج قديمة.",
+        "location": "عبر الإنترنت – قنوات RSI الرسمية",
+        "dateNote": ""
+      },
+      "en": {
+        "title": "New video show '10 From the Community' debuts on 5 October",
+        "summary": "CIG's new short Q&A show is built around questions submitted and voted on by players. The first episode, on 5 October, features the teams behind Star Citizen's gameplay systems and content.",
+        "details": "CIG announced on 21 September a new video series, 10 From the Community, which debuts on 5 October. Each short episode gathers questions that players submit and vote on in a Spectrum thread, then brings in developers from one area, such as gameplay, art, UI, technology or ships, to answer them.\n\nThe first episode starts broad with the teams responsible for Star Citizen's gameplay systems and content, covering how those systems work today, how they connect and how they will grow on the road to 1.0.\n\nSubmission rules ask for one question per comment and bar questions about release timing. CIG also plans a survey on which shows players want, including the possible return of older formats.",
+        "location": "Online – official RSI channels",
+        "dateNote": ""
+      }
+    },
+    {
+      "id": "sc-alpha-4-10-2-live-expected",
+      "date": "2026-10-07",
+      "endDate": null,
+      "dateConfidence": "expected",
+      "type": "patch",
+      "sourceType": "official",
+      "sourceName": "RSI Comm-Link",
+      "url": "https://robertsspaceindustries.com/en/comm-link/transmission/21218-Star-Citizen-Alpha-4101",
+      "ar": {
+        "title": "توقع وصول Alpha 4.10.2 إلى الخوادم الرسمية نحو 7 أكتوبر",
+        "summary": "يُرجَّح أن يحل تحديث Star Citizen التالي، المتاح حاليًا على PTU، محل 4.10.1 نحو 7 أكتوبر، وهو الموعد الذي ربطت به CIG نهاية حدث Orison Relief Support، مع حدث جديد في نظام Stanton.",
+        "details": "دخل Alpha 4.10.2 اختبار Evocati في 21 سبتمبر ثم أُتيح للموجة الأولى على PTU في 25 سبتمبر. ولم تعلن CIG موعدًا رسميًا لإطلاقه، لكن إعلانها عن 4.10.1 ذكر أن حدث Orison Relief Support سيستمر ثلاثة أسابيع حتى صدور 4.10.2، فيما تحدد الأسئلة الشائعة للحدث 7 أكتوبر موعدًا لانتهائه.\n\n- حدث جديد داخل نظام Stanton يضم مهام دورية ودعم وتوصيل وإنقاذ\n- إصلاحات لاستقرار تسجيل الدخول، منها الطرد الخاطئ برسالة \"Duplicate Login\"\n- مواصلة تحسين أصوات الأسلحة، وإصلاحات متنوعة للسفن والواجهات\n\nولا تُعد إعادة موازنة زمن القتل في قتال السفن، المختبرة حاليًا على PTU، جزءًا من هذا التحديث. وكما هو الحال مع جميع إصدارات Star Citizen، قد يتغير الموعد إذا كشفت الاختبارات عن مشكلات جوهرية.",
+        "location": "الخوادم الرسمية للعبة Star Citizen",
+        "dateNote": "تقدير: ربطت CIG نهاية حدث Orison Relief Support في 7 أكتوبر بصدور Alpha 4.10.2، ولم يُعلن موعد رسمي بعد."
+      },
+      "en": {
+        "title": "Alpha 4.10.2 expected on the live servers around 7 October",
+        "summary": "The next Star Citizen patch, now on the PTU, should replace 4.10.1 around 7 October, the date CIG has tied to the end of Orison Relief Support. It brings a new in-system event for Stanton.",
+        "details": "Alpha 4.10.2 entered Evocati testing on 21 September and opened to PTU Wave 1 on 25 September. CIG has not announced a live date, but its 4.10.1 announcement said Orison Relief Support would last three weeks until 4.10.2's release, and the event FAQ gives 7 October as its end date.\n\n- A new in-system event for Stanton with patrol, support, delivery and salvage contracts\n- Login stability fixes, including wrongful \"Duplicate Login\" kicks\n- More FPS weapon audio work and assorted ship and UI fixes\n\nThe ship time-to-kill rebalance being tested on the PTU is not planned for this patch. As with every Star Citizen release, the date can move if testing uncovers blocking issues.",
+        "location": "Star Citizen live servers",
+        "dateNote": "Estimate: CIG tied the end of Orison Relief Support (7 October) to the release of Alpha 4.10.2; no official live date yet."
+      }
+    },
+    {
+      "id": "sq42-hands-on-october",
+      "date": "2026-10-09",
+      "endDate": "2026-10-10",
+      "dateConfidence": "confirmed",
+      "type": "squadron42",
+      "sourceType": "official",
+      "sourceName": "RSI Comm-Link (Letter from the Chairman)",
+      "url": "https://robertsspaceindustries.com/en/comm-link/transmission/21301-Letter-From-The-Chairman",
+      "ar": {
+        "title": "داعمون وصناع محتوى مختارون يجربون Squadron 42 يومي 9 و10 أكتوبر",
+        "summary": "ستتيح CIG لمجموعة صغيرة من الداعمين الأوائل وصناع المحتوى القدامى تجربة Squadron 42 يومي 9 و10 أكتوبر، مع الكشف عن مزيد من خطط الإصدار حينها وتحديد موعد دقيق بعد ذلك بقليل.",
+        "details": "قال Chris Roberts في رسالة الرئيس الصادرة في 27 أغسطس إن عددًا محدودًا من الداعمين الأوائل وصناع محتوى Star Citizen القدامى سيحصلون على فرصة تجربة Squadron 42 يومي 9 و10 أكتوبر 2026.\n\nوتعتزم CIG الإعلان عن مزيد من خطط الإصدار خلال هذه الجلسات، ثم تحديد موعد إصدار دقيق بعدها بوقت قصير. ويُعد الربع الثاني من 2027 نافذة الإصدار الحالية للحملة الفردية، بعد تخلي الاستوديو عن هدف الربع الرابع من 2026 لتجنب منافسة التغطية الإعلامية للعبة GTA VI.\n\nوالجلسات بدعوات خاصة فقط، وقد أشارت تقارير مجتمعية في يوليو إلى حدث في استوديو CIG بمانشستر، لكن الشركة لم تعلن المكان رسميًا.",
+        "location": "بدعوات خاصة (المكان لم يُعلن رسميًا)",
+        "dateNote": ""
+      },
+      "en": {
+        "title": "Select backers and creators to play Squadron 42 on 9–10 October",
+        "summary": "CIG will let a small group of original backers and long-time content creators play Squadron 42 on 9 and 10 October, sharing more release plans then and a firm release date soon after.",
+        "details": "In his 27 August Letter from the Chairman, Chris Roberts said a small number of original backers and long-time Star Citizen content creators will get to play Squadron 42 on 9 and 10 October 2026.\n\nCIG plans to make further announcements about its release plans during these sessions and to give a specific release date shortly afterwards. The single-player campaign's current window is the second quarter of 2027, after the studio dropped its Q4 2026 target to avoid competing with the coverage of GTA VI.\n\nThe sessions are invite-only. Community reports in July mentioned an event at CIG's Manchester studio, but CIG has not published the venue.",
+        "location": "Invite-only (venue not officially published)",
+        "dateNote": ""
+      }
+    },
+    {
+      "id": "sc-alpha-4-11-q4-2026",
+      "date": "2026-11-18",
+      "endDate": null,
+      "dateConfidence": "expected",
+      "type": "patch",
+      "sourceType": "official",
+      "sourceName": "RSI Comm-Link (Roadmap Roundup)",
+      "url": "https://robertsspaceindustries.com/en/comm-link/transmission/21314-Roadmap-Roundup-September-9-2026",
+      "ar": {
+        "title": "Alpha 4.11 مع كوكب Nyx I وتقنية Planet Tech v5 مقرر في الربع الرابع من 2026",
+        "summary": "يُنتظر أن يصل التحديث الكبير التالي من CIG، بكوكب Nyx I المستصلح وتقنيات توليد عوالم جديدة ومواقع موزعة إجرائيًا، خلال الربع الرابع من 2026 وفق خارطة الطريق العامة.",
+        "details": "يُعد Alpha 4.11 التحديث الكبير التالي في Star Citizen، وتدرجه خارطة الطريق العامة ضمن الربع الرابع من 2026 بعد أن نقلته CIG في 9 سبتمبر من موعده السابق في سبتمبر للتركيز على تحديثات 4.10.x.\n\n- كواكب Nyx I وNyx II وNyx III في نظام Nyx\n- تقنية Genesis Planet Tech v5 بمناطق حيوية ناشئة وتوليد عبر معالج الرسوميات\n- مواقع Starchitect الإجرائية ونقاط اهتمام تملكها الفصائل وحزمة مهام مفتوحة\n- تحسينات Item Recovery لتجهيزات السفن المخصصة\n- أسلحة جديدة منها رشاش Verdict ومسدس Hellion من Kastak Arms، إضافة إلى دروع Monolith الثقيلة\n\nوكانت جميع هذه البطاقات بحالة \"مبدئية\" في آخر تحديث لخارطة الطريق، لذا قد يتغير المحتوى قبل الإصدار.",
+        "location": "الخوادم الرسمية للعبة Star Citizen",
+        "dateNote": "تقدير فقط: خارطة الطريق تحدد الربع الرابع من 2026، وقد صدر التحديث المماثل في الربع نفسه من العام الماضي (Alpha 4.4) في 18–19 نوفمبر 2025 قبيل معرض IAE."
+      },
+      "en": {
+        "title": "Alpha 4.11 with Nyx I and Planet Tech v5 due in Q4 2026",
+        "summary": "CIG's next major patch, bringing the terraformed planet Nyx I, new world-generation tech and procedurally placed locations, is listed for Q4 2026 on the public roadmap.",
+        "details": "Alpha 4.11 is Star Citizen's next major content patch. The public roadmap lists it for Q4 2026 after CIG moved it from September on 9 September to focus on the 4.10.x updates.\n\n- Nyx I, Nyx II and Nyx III, planets of the Nyx system\n- Genesis Planet Tech v5, with emergent biomes and GPU-based generation\n- Starchitect procedural locations, faction-owned points of interest and a sandbox mission pack\n- Item Recovery improvements for custom ship loadouts\n- New weapons, including the Kastak Arms Verdict LMG and Hellion pistol, plus the Monolith heavy armour\n\nAll of these roadmap cards were marked Tentative at the last update, so the content may change before release.",
+        "location": "Star Citizen live servers",
+        "dateNote": "Estimate only: the roadmap gives Q4 2026. Last year's Q4 content patch (Alpha 4.4) went live on 18–19 November 2025, just before IAE."
+      }
+    },
+    {
+      "id": "sc-iae-2956",
+      "date": "2026-11-19",
+      "endDate": "2026-12-02",
+      "dateConfidence": "expected",
+      "type": "event",
+      "sourceType": "official",
+      "sourceName": "RSI Spectrum – Announcements",
+      "url": "https://robertsspaceindustries.com/spectrum/community/SC/forum/1/thread/ship-showdown-2956-the-final-four",
+      "ar": {
+        "title": "توقع إقامة معرض Intergalactic Aerospace Expo 2956 أواخر نوفمبر",
+        "summary": "أكدت CIG أن معرض IAE 2956 سيحتضن تكريم Best in Show لسفن Perseus وIronclad Assault وM80 وCorsair، دون إعلان المواعيد بعد، علمًا أن المعرض يستمر عادة أسبوعين بدءًا من أواخر نوفمبر.",
+        "details": "يُعد Intergalactic Aerospace Expo (IAE) أكبر حدث سنوي للسفن في Star Citizen، إذ يجمع معرضًا داخل اللعبة وتجربة طيران مجانية مع استئجار السفن، وعروضًا في متجر الحزم تركز عادة على شركات مصنّعة مختلفة في أيام مختلفة.\n\nوتؤكد منشورات CIG الخاصة بمسابقة Ship Showdown أن IAE 2956 سيُقام. وقد تُوّجت سفينة RSI Perseus بلقب Ship Showdown 2956 في 2 سبتمبر بعد تغلبها على Drake Ironclad Assault في النهائي، وسيحصل جميع الداعمين خلال المعرض على سترة طيار تذكارية تكريمًا للسفينة الفائزة. كما ستتصدر سفن المربع الذهبي، Perseus وIronclad Assault وOrigin M80 وDrake Corsair، أيام Best in Show، ويحصل مالكوها على طلاءات Best in Show جديدة وعملات تذكارية بطابع الشركات المصنّعة مع حافظة لها.\n\nولم تُعلن المواعيد أو الموقع بعد. وقد أقيم IAE 2955 من 20 نوفمبر إلى 3 ديسمبر 2025 في Orison، وIAE 2954 من 22 نوفمبر إلى 5 ديسمبر 2024.",
+        "location": "داخل اللعبة – الموقع لم يُعلن بعد",
+        "dateNote": "تقدير مبني على نمط السنوات السابقة: لم تُعلن المواعيد بعد، وبدأت النسخ الأخيرة في الأسبوع السابق لعيد الشكر الأمريكي واستمرت 14 يومًا."
+      },
+      "en": {
+        "title": "Intergalactic Aerospace Expo 2956 expected in late November",
+        "summary": "CIG has confirmed IAE 2956 will host Best in Show honours for the Perseus, Ironclad Assault, M80 and Corsair, but has not announced dates. The expo usually runs for two weeks from late November.",
+        "details": "The Intergalactic Aerospace Expo (IAE) is Star Citizen's biggest annual ship event, combining an in-game exhibition, a free fly with ship rentals and pledge-store sales that typically feature different manufacturers on different days.\n\nCIG's Ship Showdown posts confirm that IAE 2956 will take place. The RSI Perseus was crowned Ship Showdown 2956 champion on 2 September, beating the Drake Ironclad Assault in the final, and all backers will receive a commemorative bomber jacket honouring the winner at IAE. The Final Four, the Perseus, Ironclad Assault, Origin M80 and Drake Corsair, will take centre stage on its Best in Show days, and owners will receive new Best in Show paints plus manufacturer-themed coins and a coin case.\n\nNo dates or venue have been announced yet. IAE 2955 ran from 20 November to 3 December 2025 at Orison, and IAE 2954 from 22 November to 5 December 2024.",
+        "location": "In game – venue not yet announced",
+        "dateNote": "Pattern-based estimate: dates not yet announced; recent editions began in the week before US Thanksgiving and lasted 14 days."
+      }
+    },
+    {
+      "id": "sq42-release-q2-2027",
+      "date": "2027-05-15",
+      "endDate": null,
+      "dateConfidence": "expected",
+      "type": "release",
+      "sourceType": "official",
+      "sourceName": "RSI Comm-Link (Letter from the Chairman)",
+      "url": "https://robertsspaceindustries.com/en/comm-link/transmission/21301-Letter-From-The-Chairman",
+      "ar": {
+        "title": "نافذة إصدار Squadron 42 محددة في الربع الثاني من 2027",
+        "summary": "تستهدف Squadron 42، الحملة الفردية في عالم Star Citizen، الربع الثاني من 2027، وتعتزم CIG إعلان موعد دقيق بعد جلسات اللعب المقررة في أكتوبر.",
+        "details": "Squadron 42 حملة فردية سينمائية تطورها CIG منذ 2014، وكانت تستهدف الربع الرابع من 2026 بالتزامن مع معرض Intergalactic Aerospace Expo، قبل أن ينقل Chris Roberts في 27 أغسطس موعد إصدارها إلى الربع الثاني من 2027 كي لا تصدر وسط الاهتمام الواسع بلعبة GTA VI.\n\nوتقول CIG إن الموعد الدقيق سيُعلن بعد جلسات 9 و10 أكتوبر مع الداعمين الأوائل وصناع المحتوى. ويعمل 55% من فريق التطوير على Squadron 42 في الأشهر الأخيرة، ويقول Roberts إن إنجازها بسرعة سيسمح لمعظم الفريق بالتفرغ لإصدار Star Citizen 1.0.\n\nواعتبارًا من 1 أكتوبر سيفصل نظام Game Library الجديد الوصول إلى Star Citizen وSquadron 42 داخل كل حساب، مع حماية حزمة واحدة لكل لعبة.",
+        "location": "",
+        "dateNote": "النافذة الرسمية هي الربع الثاني من 2027 (أبريل–يونيو)، و15 مايو تاريخ افتراضي في منتصف الربع إلى حين إعلان الموعد الدقيق."
+      },
+      "en": {
+        "title": "Squadron 42 release window set for Q2 2027",
+        "summary": "Squadron 42, the single-player campaign set in the Star Citizen universe, now targets the second quarter of 2027. CIG plans to announce an exact date shortly after its October play sessions.",
+        "details": "Squadron 42 is CIG's cinematic single-player campaign, in development since 2014. It had been aimed at Q4 2026 around the Intergalactic Aerospace Expo, but on 27 August Chris Roberts moved the release to Q2 2027 so it would not launch amid the attention surrounding GTA VI.\n\nCIG says the specific date will follow the 9–10 October sessions with original backers and content creators. During the final months, 55% of development staff are working on Squadron 42, and Roberts says finishing it sooner will let most of the team focus on Star Citizen 1.0.\n\nFrom 1 October, the new Game Library system will track access to Star Citizen and Squadron 42 separately in each account, protecting one pledge per game.",
+        "location": "",
+        "dateNote": "Official window is Q2 2027 (April–June); 15 May is a mid-quarter placeholder until CIG announces the exact date."
+      }
+    }
+  ]
+}
