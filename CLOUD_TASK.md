@@ -44,13 +44,14 @@ Write data/research/daily/<today>-<tab>.json (tab = once-human, star-citizen or 
    - Once Human: patches and hotfixes, scenarios/seasons, in-game events, collaborations, platform news. Official: oncehuman.game, the Steam news for app 2139460, official X/YouTube.
    - Star Citizen and Squadron 42: Alpha/PTU/LIVE patches, ship releases, events, Squadron 42, roadmap and development. Official: robertsspaceindustries.com Comm-Links, RSI Spectrum, official YouTube.
    - AI tools: models, assistants, coding tools, creative tools (image/video/audio), agents and browsers, major funding/acquisitions, regulation, and notable AI news from the Gulf. Official company blogs, newsrooms and changelogs.
-   Open each source with WebFetch to confirm the facts and date.
+   Open each source with WebFetch to confirm the facts and date. If WebFetch is blocked for a site by this session's network proxy, confirm the facts and date through WebSearch results that show the official page, and use www/data/live.json (official feed items, refreshed every 10 minutes by GitHub) as extra leads.
 4. Review each tab's upcoming events: add newly announced events or releases dated after today, confirm or correct dates, and remove events that were cancelled. Events whose dates have passed disappear on their own.
 5. Write the update files.
 
 ## B. QUICK run: new items from the feeds
 1. `MARSAD_TRANSLATE=0 python3 server/refresh.py --out build/leads.json` pulls the newest items from the official and community feeds and keeps only items newer than the site's data that aren't on it yet.
-2. Read build/leads.json. For each item, decide whether it is news for its tab: skip customer stories, marketing, and notes that add nothing; several small same-day bug-fix notes for Once Human can become one item. If the feed text is short, open the item's URL with WebFetch to read the official post.
+   If most feeds fail (for example "403 Forbidden" / EGRESS_BLOCKED from this session's network proxy), don't stop: read www/data/live.json instead. A GitHub workflow with full internet access refreshes that file from the same official feeds every 10 minutes (`git pull` first to get the newest copy). Its items carry the feed's title, summary, url, source and publish time, so they count as the official source text.
+2. Read build/leads.json (or www/data/live.json). For each item, decide whether it is news for its tab: skip customer stories, marketing, and notes that add nothing; several small same-day bug-fix notes for Once Human can become one item. If the feed text is short, open the item's URL with WebFetch to read the official post.
 3. Write the new items into today's update files (see the format above). If nothing is new, go straight to C.
 
 ## C. Rebuild and publish (every run)
