@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": "2026-09-27T17:31:27+00:00",
+ "updatedAt": "2026-09-27T18:09:35+00:00",
  "coverage": {
   "from": "2026-06-27",
   "to": "2026-09-27"
@@ -1691,6 +1691,29 @@
   },
   "ai": {
    "news": [
+    {
+     "id": "llamacpp-prompt-lookup-drafting-speedup",
+     "date": "2026-09-26",
+     "type": "coding",
+     "importance": 1,
+     "sourceType": "community",
+     "sourceName": "r/LocalLLaMA",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wr5ylm/42x_faster_prompt_lookup_drafting_in_llamacpp/",
+     "originalTitle": "42x Faster Prompt Lookup Drafting in llama.cpp",
+     "company": "llama.cpp",
+     "tool": "llama.cpp",
+     "ar": {
+      "title": "مطوّر مستقل يسرّع أسلوب \"البحث في الطلب\" في llama.cpp حتى 42 ضعفاً",
+      "summary": "نشر الباحث Hayder Tirmazi أربعة تحسينات على ذاكرة التخزين المؤقت في llama.cpp رفعت سرعة أسلوب توقع الرموز المتكررة حتى 42 ضعفاً وخفضت استهلاك الذاكرة.",
+      "details": "نشر المطوّر المستقل Hayder Tirmazi تدوينة تقنية يشرح فيها أربعة تعديلات على آلية \"prompt lookup decoding\" في مشروع llama.cpp مفتوح المصدر، وهي تقنية تسرّع توليد النصوص بالبحث عن مقاطع رموز تكررت سابقاً في المحادثة بدل توليدها من جديد.\n\nشملت التعديلات إزالة نسخ غير ضرورية للبيانات في كل خطوة، واستبدال بنية التخزين الداخلية بمصفوفة مرتبة، إضافة إلى إعادة هيكلة الذاكرة المؤقتة الثابتة باستخدام بنية بيانات \"constmap\". رفعت هذه التغييرات مجتمعة سرعة التوقع حتى 42 ضعفاً وسرعة تحميل الذاكرة المؤقتة حتى 23 ضعفاً، مع خفض استهلاك الذاكرة.\n\nالتحسينات مفيدة بشكل خاص في مهام متكررة مثل تعديل الأكواد البرمجية، بينما أظهرت اختبارات أخرى أنها لا تُحدث فرقاً يُذكر في محادثات عامة. قدّم الباحث Daniel Lemire تحسيناً إضافياً رفع المكاسب الإجمالية إلى ما يقارب 140 ضعفاً.\n\n- تم تقديم عدة طلبات دمج (PRs) إلى مستودع llama.cpp الرسمي على GitHub"
+     },
+     "en": {
+      "title": "Independent dev speeds up llama.cpp's prompt lookup decoding up to 42x",
+      "summary": "Researcher Hayder Tirmazi published four optimizations to llama.cpp's caching for prompt lookup decoding, cutting drafting latency by up to 42x and lowering memory use.",
+      "details": "Independent developer Hayder Tirmazi published a technical write-up detailing four changes to the open-source llama.cpp project's prompt lookup decoding, a technique that speeds up text generation by reusing token sequences already seen earlier in the conversation instead of regenerating them.\n\nThe changes included removing unnecessary data copying on every drafting step, replacing the inner cache structure with a sorted vector using binary search, and restructuring the static cache around a data structure called constmap. Combined, these changes made drafting up to 42x faster and cache loading up to 23x faster, while also cutting memory use.\n\nThe speedup is most useful for repetitive tasks like code edits, while other benchmarks found it makes little difference for general chat. Researcher Daniel Lemire contributed an additional optimization that pushed the cumulative gain to roughly 140x.\n\n- Several pull requests were submitted to the official llama.cpp GitHub repository"
+     },
+     "addedAt": "2026-09-26T23:59:59+00:00"
+    },
     {
      "id": "microsoft-new-copilot-home-code-autopilot",
      "date": "2026-09-25",
