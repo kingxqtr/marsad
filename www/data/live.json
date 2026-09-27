@@ -1,4 +1,24 @@
 {
- "updatedAt": "2026-09-27T19:45:34+00:00",
- "items": []
+ "updatedAt": "2026-09-27T19:54:18+00:00",
+ "items": [
+  {
+   "id": "auto-53f67c082fbc",
+   "tab": "ai",
+   "date": "2026-09-27",
+   "publishedAt": "2026-09-27T16:19:46+00:00",
+   "type": "product",
+   "importance": 1,
+   "sourceType": "community",
+   "sourceName": "Hacker News",
+   "url": "https://news.ycombinator.com/item?id=49868083",
+   "originalTitle": "There are no \"rogue\" AI agents",
+   "en": {
+    "title": "There are no \"rogue\" AI agents",
+    "summary": "Community discussion on Hacker News (252 points, 184 comments).",
+    "details": "Community discussion on Hacker News (252 points, 184 comments)."
+   },
+   "translated": false,
+   "fetchedAt": "2026-09-27T19:54:14+00:00"
+  }
+ ]
 }
