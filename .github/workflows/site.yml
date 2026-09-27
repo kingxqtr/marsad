@@ -1,0 +1,70 @@
+# Publishes www/ to GitHub Pages, and every hour fetches the newest items from the
+# official and community feeds (server/refresh.py) so the public site stays fresh even
+# when the Mac is off. Curated Arabic/English stories arrive from the Mac as normal pushes.
+name: Update and publish the site
+
+on:
+  push:
+    branches: [main]
+  schedule:
+    - cron: "23 * * * *"   # every hour
+  workflow_dispatch:
+
+permissions:
+  contents: write   # save the hourly live.json
+  pages: write
+  id-token: write
+
+concurrency:
+  group: site
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Fetch the latest news from the official and community sources
+        if: github.event_name != 'push'
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: |
+          if [ -n "$ANTHROPIC_API_KEY" ]; then
+            pip install --quiet anthropic   # optional: writes the Arabic text for new items
+          else
+            export MARSAD_TRANSLATE=0
+          fi
+          python3 server/refresh.py
+
+      - name: Save the new items
+        if: github.event_name != 'push'
+        run: |
+          git config user.name "marsad-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add www/data/live.json
+          if ! git diff --cached --quiet; then
+            git commit -m "Hourly news refresh"
+            git pull --rebase --autostash origin main
+            git push origin HEAD:main
+          fi
+
+      - uses: actions/configure-pages@v5
+
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: www
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4

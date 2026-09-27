@@ -1,0 +1,17 @@
+{
+  "name": "المرصد",
+  "short_name": "المرصد",
+  "description": "أخبار Once Human وStar Citizen وأدوات الذكاء الاصطناعي من المصادر الرسمية والمجتمع.",
+  "lang": "ar",
+  "dir": "rtl",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#0a0e15",
+  "theme_color": "#0f1729",
+  "icons": [
+    { "src": "assets/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "assets/icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "assets/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}

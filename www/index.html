@@ -1,0 +1,208 @@
+<!doctype html>
+<html lang="ar" dir="rtl">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>المرصد</title>
+<meta name="description" content="أخبار Once Human وStar Citizen وأدوات الذكاء الاصطناعي من المصادر الرسمية والمجتمع — بالعربية والإنجليزية.">
+<meta name="theme-color" content="#eef1f5" media="(prefers-color-scheme: light)" data-standalone>
+<meta name="theme-color" content="#0a0e15" media="(prefers-color-scheme: dark)" data-standalone>
+<meta name="apple-mobile-web-app-capable" content="yes" data-standalone>
+<meta name="apple-mobile-web-app-title" content="المرصد" data-standalone>
+<link rel="manifest" href="manifest.webmanifest" data-standalone>
+<link rel="icon" href="assets/icon.svg" type="image/svg+xml" data-standalone>
+<link rel="apple-touch-icon" href="assets/icon-180.png" data-standalone>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans+Arabic:wght@400;500;600;700&family=Readex+Pro:wght@400;500;600;700&display=swap">
+<link rel="stylesheet" href="assets/styles.css">
+<script>
+  (function () {
+    var d = document.documentElement, l = null, t = null;
+    try { l = localStorage.getItem('marsad:lang'); t = localStorage.getItem('marsad:theme'); } catch (e) {}
+    if (l === 'en') { d.lang = 'en'; d.dir = 'ltr'; } else { d.lang = 'ar'; d.dir = 'rtl'; }
+    if (t === 'dark' || t === 'light') d.setAttribute('data-theme', t);
+  })();
+</script>
+</head>
+<body data-tab="once-human">
+
+<svg width="0" height="0" style="position:absolute" aria-hidden="true" focusable="false">
+  <symbol id="i-radar" viewBox="0 0 24 24"><circle cx="12" cy="12" r="9" fill="none" stroke="currentColor" stroke-width="1.8"/><circle cx="12" cy="12" r="4.8" fill="none" stroke="currentColor" stroke-width="1.6" opacity=".6"/><path d="M12 12l6.4-6.4" stroke="currentColor" stroke-width="2" stroke-linecap="round"/><circle cx="15.8" cy="15" r="1.7" fill="currentColor"/></symbol>
+  <symbol id="i-refresh" viewBox="0 0 24 24"><path d="M19.5 11A7.5 7.5 0 0 0 6.2 7.1M4.5 13a7.5 7.5 0 0 0 13.3 3.9" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"/><path d="M5.5 3.5v4h4M18.5 20.5v-4h-4" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></symbol>
+  <symbol id="i-moon" viewBox="0 0 24 24"><path d="M20 14.5A8.5 8.5 0 0 1 9.5 4a8.5 8.5 0 1 0 10.5 10.5z" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linejoin="round"/></symbol>
+  <symbol id="i-sun" viewBox="0 0 24 24"><circle cx="12" cy="12" r="4.2" fill="none" stroke="currentColor" stroke-width="1.8"/><path d="M12 2.5v2.2M12 19.3v2.2M2.5 12h2.2M19.3 12h2.2M5.3 5.3l1.6 1.6M17.1 17.1l1.6 1.6M5.3 18.7l1.6-1.6M17.1 6.9l1.6-1.6" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"/></symbol>
+  <symbol id="i-mask" viewBox="0 0 24 24"><path d="M12 3C7.9 3 5 5.6 5 9.5c0 2.5 1 4.5 2.6 5.9L9.2 19h5.6l1.6-3.6C18 14 19 12 19 9.5 19 5.6 16.1 3 12 3z" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linejoin="round"/><circle cx="9.1" cy="9.6" r="1.9" fill="none" stroke="currentColor" stroke-width="1.6"/><circle cx="14.9" cy="9.6" r="1.9" fill="none" stroke="currentColor" stroke-width="1.6"/><rect x="9.6" y="16.8" width="4.8" height="4.4" rx="1.2" fill="none" stroke="currentColor" stroke-width="1.6"/></symbol>
+  <symbol id="i-planet" viewBox="0 0 24 24"><circle cx="12" cy="12" r="5.6" fill="none" stroke="currentColor" stroke-width="1.8"/><path d="M4.6 14.9c-1.8 1.9-2.3 3.4-1.5 4.1 1.6 1.4 7.6-1.1 12.5-5.4s7.8-8.7 6.2-10.1c-.7-.6-2.2-.3-4 .8" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"/></symbol>
+  <symbol id="i-chip" viewBox="0 0 24 24"><rect x="6" y="6" width="12" height="12" rx="2.6" fill="none" stroke="currentColor" stroke-width="1.8"/><rect x="9.4" y="9.4" width="5.2" height="5.2" rx="1" fill="currentColor" opacity=".85"/><path d="M9.5 2.8v3.2M14.5 2.8v3.2M9.5 18v3.2M14.5 18v3.2M2.8 9.5H6M2.8 14.5H6M18 9.5h3.2M18 14.5h3.2" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"/></symbol>
+  <symbol id="i-search" viewBox="0 0 24 24"><circle cx="11" cy="11" r="6.5" fill="none" stroke="currentColor" stroke-width="1.8"/><path d="M16 16l4.5 4.5" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"/></symbol>
+  <symbol id="i-copy" viewBox="0 0 24 24"><rect x="8.5" y="8.5" width="11.5" height="11.5" rx="2.5" fill="none" stroke="currentColor" stroke-width="1.8"/><path d="M15.5 8.5V6.5A2.5 2.5 0 0 0 13 4H6.5A2.5 2.5 0 0 0 4 6.5V13a2.5 2.5 0 0 0 2.5 2.5h2" fill="none" stroke="currentColor" stroke-width="1.8"/></symbol>
+  <symbol id="i-share" viewBox="0 0 24 24"><circle cx="17.5" cy="5.8" r="2.5" fill="none" stroke="currentColor" stroke-width="1.8"/><circle cx="6.5" cy="12" r="2.5" fill="none" stroke="currentColor" stroke-width="1.8"/><circle cx="17.5" cy="18.2" r="2.5" fill="none" stroke="currentColor" stroke-width="1.8"/><path d="M8.7 10.8l6.6-3.8M8.7 13.2l6.6 3.8" stroke="currentColor" stroke-width="1.8"/></symbol>
+  <symbol id="i-external" viewBox="0 0 24 24"><path d="M14 4h6v6M20 4l-8.5 8.5" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/><path d="M18 14v4.5a1.5 1.5 0 0 1-1.5 1.5h-11A1.5 1.5 0 0 1 4 18.5v-11A1.5 1.5 0 0 1 5.5 6H10" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"/></symbol>
+  <symbol id="i-arrow" viewBox="0 0 24 24"><path d="M5 12h13M13 6l6 6-6 6" fill="none" stroke="currentColor" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round"/></symbol>
+  <symbol id="i-close" viewBox="0 0 24 24"><path d="M6 6l12 12M18 6L6 18" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></symbol>
+  <symbol id="i-cal" viewBox="0 0 24 24"><rect x="3.5" y="5" width="17" height="15.5" rx="2.5" fill="none" stroke="currentColor" stroke-width="1.8"/><path d="M3.5 10h17M8 3v4M16 3v4" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"/></symbol>
+  <symbol id="i-pin" viewBox="0 0 24 24"><path d="M12 21s-6.5-5.6-6.5-11a6.5 6.5 0 0 1 13 0c0 5.4-6.5 11-6.5 11z" fill="none" stroke="currentColor" stroke-width="1.8"/><circle cx="12" cy="10" r="2.3" fill="none" stroke="currentColor" stroke-width="1.8"/></symbol>
+  <symbol id="i-check" viewBox="0 0 24 24"><path d="M5 12.5l4.5 4.5L19 7.5" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/></symbol>
+  <symbol id="i-clock" viewBox="0 0 24 24"><circle cx="12" cy="12" r="8.5" fill="none" stroke="currentColor" stroke-width="1.8"/><path d="M12 7.5V12l3 2" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"/></symbol>
+  <symbol id="i-official" viewBox="0 0 24 24"><path d="M12 2.8l2.3 1.7 2.9-.1.9 2.7 2.3 1.7-.9 2.7.9 2.7-2.3 1.7-.9 2.7-2.9-.1L12 21.2l-2.3-1.7-2.9.1-.9-2.7-2.3-1.7.9-2.7-.9-2.7 2.3-1.7.9-2.7 2.9.1z" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linejoin="round"/><path d="M8.5 12.2l2.4 2.4 4.6-4.8" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></symbol>
+  <symbol id="i-community" viewBox="0 0 24 24"><circle cx="9" cy="8.5" r="3.2" fill="none" stroke="currentColor" stroke-width="1.8"/><path d="M3 19.5c.6-3.4 3-5.3 6-5.3s5.4 1.9 6 5.3" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"/><circle cx="17" cy="9.5" r="2.5" fill="none" stroke="currentColor" stroke-width="1.6"/><path d="M16.5 14.4c2.3.1 4 1.6 4.5 4.3" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round"/></symbol>
+  <symbol id="i-link" viewBox="0 0 24 24"><path d="M10 14a4.5 4.5 0 0 0 6.4 0l3-3a4.5 4.5 0 0 0-6.4-6.4l-1 1M14 10a4.5 4.5 0 0 0-6.4 0l-3 3a4.5 4.5 0 0 0 6.4 6.4l1-1" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"/></symbol>
+  <symbol id="i-device" viewBox="0 0 24 24"><rect x="6.5" y="2.5" width="11" height="19" rx="2.5" fill="none" stroke="currentColor" stroke-width="1.8"/><path d="M10.5 18.5h3" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"/></symbol>
+  <symbol id="i-wa" viewBox="0 0 24 24"><path d="M4 20l1.2-3.8A8.4 8.4 0 1 1 8.1 19z" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linejoin="round"/><path d="M9.2 8.3c-.2 3.2 3.2 6.6 6.5 6.4l.9-1.5-2-1-.9.8c-1-.4-2.2-1.6-2.6-2.6l.8-.9-1-2z" fill="currentColor"/></symbol>
+  <symbol id="i-tg" viewBox="0 0 24 24"><path d="M21 4.2L3.2 11.3l5.3 1.9 2 6.2 3-3.6 4.8 3.4z" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linejoin="round"/><path d="M8.5 13.2l9.3-7-7.2 9" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linejoin="round"/></symbol>
+  <symbol id="i-x" viewBox="0 0 24 24"><path d="M4.5 4h4.2l10.8 16h-4.2z" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linejoin="round"/><path d="M19.3 4l-6.1 7M4.7 20l6.1-7" stroke="currentColor" stroke-width="1.7" stroke-linecap="round"/></symbol>
+  <symbol id="i-fb" viewBox="0 0 24 24"><path d="M14 8.5V7c0-.9.5-1.5 1.5-1.5H17V2.5h-2.5C11.9 2.5 11 4.2 11 6.6v1.9H8.5v3H11v10h3v-10h2.6l.4-3z" fill="currentColor"/></symbol>
+  <symbol id="i-bookmark" viewBox="0 0 24 24"><path d="M6.5 3.5h11a1 1 0 0 1 1 1v16l-6.5-4.2-6.5 4.2v-16a1 1 0 0 1 1-1z" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linejoin="round"/></symbol>
+  <symbol id="i-bookmark-on" viewBox="0 0 24 24"><path d="M6.5 3.5h11a1 1 0 0 1 1 1v16l-6.5-4.2-6.5 4.2v-16a1 1 0 0 1 1-1z" fill="currentColor" stroke="currentColor" stroke-width="1.8" stroke-linejoin="round"/></symbol>
+  <symbol id="i-cal-plus" viewBox="0 0 24 24"><rect x="3.5" y="5" width="17" height="15.5" rx="2.5" fill="none" stroke="currentColor" stroke-width="1.8"/><path d="M3.5 10h17M8 3v4M16 3v4M12 12.5v5M9.5 15h5" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"/></symbol>
+  <symbol id="i-alert" viewBox="0 0 24 24"><path d="M12 3.5l9.5 16.5h-19z" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linejoin="round"/><path d="M12 10v4.5M12 17.2v.3" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></symbol>
+</svg>
+
+<a class="skip-link" href="#main" data-i18n="skip">تخطَّ إلى الأخبار</a>
+
+<header class="masthead">
+  <div class="wrap masthead__row">
+    <a class="brand" href="#once-human" id="brand">
+      <span class="brand__mark"><svg class="ico" aria-hidden="true"><use href="#i-radar"/></svg></span>
+      <span class="brand__text">
+        <span class="brand__name" data-i18n="brand">المرصد</span>
+        <span class="brand__tag" data-i18n="tagline">أخبار من المصادر الرسمية والمجتمع</span>
+      </span>
+    </a>
+
+    <nav class="tabbar" id="tabbar" aria-label="الأقسام">
+      <div class="tablist" role="tablist" id="tablist">
+        <button class="tab" role="tab" type="button" id="tab-once-human" data-tab="once-human" aria-controls="panel" aria-selected="true">
+          <svg class="ico" aria-hidden="true"><use href="#i-mask"/></svg><span class="tab__label">ونس هيومن</span><span class="tab__badge" hidden></span>
+        </button>
+        <button class="tab" role="tab" type="button" id="tab-star-citizen" data-tab="star-citizen" aria-controls="panel" aria-selected="false" tabindex="-1">
+          <svg class="ico" aria-hidden="true"><use href="#i-planet"/></svg><span class="tab__label">ستار سيتيزن</span><span class="tab__badge" hidden></span>
+        </button>
+        <button class="tab" role="tab" type="button" id="tab-ai" data-tab="ai" aria-controls="panel" aria-selected="false" tabindex="-1">
+          <svg class="ico" aria-hidden="true"><use href="#i-chip"/></svg><span class="tab__label">أدوات الذكاء الاصطناعي</span><span class="tab__badge" hidden></span>
+        </button>
+      </div>
+    </nav>
+
+    <div class="actions">
+      <button class="btn btn--primary btn--refresh" type="button" id="refresh-btn">
+        <svg class="ico" aria-hidden="true"><use href="#i-refresh"/></svg>
+        <span class="btn__label" data-i18n="refresh">تحديث</span>
+      </button>
+      <button class="btn btn--lang" type="button" id="lang-btn" lang="en">EN</button>
+      <button class="btn btn--icon" type="button" id="theme-btn">
+        <svg class="ico" aria-hidden="true"><use href="#i-moon"/></svg>
+      </button>
+    </div>
+  </div>
+</header>
+
+<main id="main" class="wrap" tabindex="-1">
+<div class="panel" id="panel" role="tabpanel" aria-labelledby="tab-once-human">
+  <section class="intro" aria-labelledby="intro-title">
+    <div class="intro__text">
+      <p class="eyebrow" id="intro-eyebrow">Once Human</p>
+      <h1 id="intro-title">ونس هيومن</h1>
+      <p class="intro__desc" id="intro-desc"></p>
+    </div>
+    <dl class="stats" id="stats"></dl>
+  </section>
+
+  <div class="notice" id="notice" role="note" hidden>
+    <svg class="ico" aria-hidden="true"><use href="#i-alert"/></svg>
+    <p id="notice-text"></p>
+  </div>
+
+  <section class="block" aria-labelledby="up-title">
+    <div class="block__head">
+      <h2 id="up-title" data-i18n="upcoming">القادم</h2>
+      <p class="block__sub" data-i18n="upcomingSub">أقرب 6 فعاليات وإصدارات قادمة</p>
+    </div>
+    <ol class="up-grid" id="up-grid"></ol>
+  </section>
+
+  <section class="block" aria-labelledby="news-title">
+    <div class="block__head block__head--news">
+      <div class="block__titles">
+        <h2 id="news-title" data-i18n="latest">آخر الأخبار</h2>
+        <p class="block__sub" id="news-sub"></p>
+      </div>
+      <button class="saved-toggle" type="button" id="saved-toggle" aria-pressed="false">
+        <svg class="ico" aria-hidden="true"><use href="#i-bookmark"/></svg>
+        <span id="saved-label">المحفوظة</span>
+        <span class="saved-toggle__count" id="saved-count">0</span>
+      </button>
+    </div>
+    <div class="news__layout">
+      <aside class="filters" id="filters">
+        <label class="search">
+          <svg class="ico" aria-hidden="true"><use href="#i-search"/></svg>
+          <input type="search" id="q" autocomplete="off" enterkeyhint="search">
+        </label>
+        <div class="filter-group">
+          <p class="filter-group__label" id="lbl-source" data-i18n="sourceFilter">المصدر</p>
+          <div class="seg" role="radiogroup" aria-labelledby="lbl-source" id="source-seg">
+            <button type="button" role="radio" data-source="all" aria-checked="true" data-i18n="all">الكل</button>
+            <button type="button" role="radio" data-source="official" aria-checked="false" data-i18n="official">رسمي</button>
+            <button type="button" role="radio" data-source="community" aria-checked="false" data-i18n="community">مجتمع</button>
+          </div>
+        </div>
+        <div class="filter-group">
+          <p class="filter-group__label" data-i18n="typeFilter">النوع</p>
+          <div class="chips" id="type-chips"></div>
+        </div>
+        <div class="filter-group" id="company-group" hidden>
+          <p class="filter-group__label" data-i18n="companyFilter">الشركة</p>
+          <div class="chips" id="company-chips"></div>
+        </div>
+      </aside>
+      <div class="feed" id="feed"></div>
+    </div>
+    <div class="feed__more"><button class="btn btn--ghost" type="button" id="more-btn" hidden></button></div>
+    <p class="sr-only" id="feed-status" role="status" aria-live="polite"></p>
+  </section>
+</div>
+</main>
+
+<footer class="footer wrap">
+  <p id="foot-coverage"></p>
+  <p data-i18n="footNote">كل الأخبار من مصادر رسمية أو مجتمعية، والملخصات مكتوبة بأسلوبنا مع رابط للخبر الأصلي.</p>
+  <p class="footer__mode"><span class="status-dot" id="mode-dot"></span><span id="foot-mode"></span></p>
+</footer>
+
+<dialog class="sheet" id="details" aria-labelledby="d-title">
+  <div class="sheet__inner">
+    <div class="sheet__head">
+      <div class="sheet__meta" id="d-meta"></div>
+      <button class="btn btn--icon" type="button" id="d-close"><svg class="ico" aria-hidden="true"><use href="#i-close"/></svg></button>
+    </div>
+    <div class="sheet__body">
+      <h2 class="sheet__title" id="d-title"></h2>
+      <div class="sheet__when" id="d-when"></div>
+      <p class="sheet__lede" id="d-lede"></p>
+      <div class="prose" id="d-body"></div>
+      <p class="sheet__note" id="d-note" hidden></p>
+      <p class="sheet__source" id="d-source"></p>
+    </div>
+    <div class="sheet__actions" id="d-actions"></div>
+  </div>
+</dialog>
+
+<dialog class="sheet sheet--small" id="share" aria-labelledby="s-title">
+  <div class="sheet__inner">
+    <div class="sheet__head">
+      <h2 id="s-title">مشاركة الخبر</h2>
+      <button class="btn btn--icon" type="button" id="s-close"><svg class="ico" aria-hidden="true"><use href="#i-close"/></svg></button>
+    </div>
+    <p class="share__headline" id="s-headline"></p>
+    <div class="share__grid" id="s-grid"></div>
+  </div>
+</dialog>
+
+<div class="toast" id="toast" role="status" aria-live="polite" hidden></div>
+
+<script src="data/news-data.js"></script>
+<script src="assets/app.js"></script>
+</body>
+</html>
