@@ -1,6 +1,25 @@
 {
- "updatedAt": "2026-09-27T20:56:45+00:00",
+ "updatedAt": "2026-09-27T21:10:03+00:00",
  "items": [
+  {
+   "id": "auto-a1717ded392a",
+   "tab": "star-citizen",
+   "date": "2026-09-27",
+   "publishedAt": "2026-09-27T15:00:21+00:00",
+   "type": "community",
+   "importance": 1,
+   "sourceType": "community",
+   "sourceName": "r/starcitizen",
+   "url": "https://www.reddit.com/r/starcitizen/comments/1wrmdr5/i_know_its_already_gonna_be_a_super_huge_patch/",
+   "originalTitle": "I know it's already gonna be a super huge patch, but I do hope that the Netcode physics improvements make it in time for 4.11",
+   "en": {
+    "title": "I know it's already gonna be a super huge patch, but I do hope that the Netcode physics improvements make it in time for 4.11",
+    "summary": "Community post on r/starcitizen.",
+    "details": "Community post on r/starcitizen."
+   },
+   "translated": false,
+   "fetchedAt": "2026-09-27T21:10:01+00:00"
+  },
   {
    "id": "auto-53f67c082fbc",
    "tab": "ai",
@@ -14,8 +33,8 @@
    "originalTitle": "There are no \"rogue\" AI agents",
    "en": {
     "title": "There are no \"rogue\" AI agents",
-    "summary": "Community discussion on Hacker News (291 points, 216 comments).",
-    "details": "Community discussion on Hacker News (291 points, 216 comments)."
+    "summary": "Community discussion on Hacker News (293 points, 223 comments).",
+    "details": "Community discussion on Hacker News (293 points, 223 comments)."
    },
    "translated": false,
    "fetchedAt": "2026-09-27T19:54:14+00:00"
