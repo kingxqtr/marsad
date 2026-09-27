@@ -1317,6 +1317,11 @@
 
   function detectMode() {
     if (window.location.protocol === 'file:') return Promise.resolve('file');
+    // The refresh server only ever runs on this Mac or the home network; public copies
+    // (GitHub Pages, claude.ai) don't need to ask for it.
+    var host = window.location.hostname;
+    var local = /^(localhost|127\.|10\.|192\.168\.|172\.(1[6-9]|2\d|3[01])\.)/.test(host) || host === '[::1]' || /\.local$/.test(host);
+    if (!local) return Promise.resolve('static');
     return fetch('api/status', { cache: 'no-store', headers: { Accept: 'application/json' } })
       .then(function (r) {
         var ct = r.headers.get('content-type') || '';
