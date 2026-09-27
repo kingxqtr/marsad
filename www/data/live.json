@@ -1,6 +1,25 @@
 {
- "updatedAt": "2026-09-27T22:07:49+00:00",
+ "updatedAt": "2026-09-27T22:22:26+00:00",
  "items": [
+  {
+   "id": "auto-10754b0cd245",
+   "tab": "once-human",
+   "date": "2026-09-27",
+   "publishedAt": "2026-09-27T11:48:54+00:00",
+   "type": "community",
+   "importance": 1,
+   "sourceType": "community",
+   "sourceName": "r/OnceHumanOfficial",
+   "url": "https://www.reddit.com/r/OnceHumanOfficial/comments/1wri80f/what_does_this_emote_mean_and_why_do_they_do_it/",
+   "originalTitle": "What does this emote mean and why do they do it to me?",
+   "en": {
+    "title": "What does this emote mean and why do they do it to me?",
+    "summary": "Community post on r/OnceHumanOfficial. I just started playing this week and from time to time I encounter female characters doing this. First they position themselves looking at me and then they emote this.",
+    "details": "Community post on r/OnceHumanOfficial.\n\nI just started playing this week and from time to time I encounter female characters doing this. First they position themselves looking at me and then they emote this. Is it some affection expression? This last time, this woman invited me to project an explosion heart with her. It was very sweet!❤️\n\nUpdate: I just wanted to know which emote this was. Apparently it’s an idle/AFK posture. Solved!✅"
+   },
+   "translated": false,
+   "fetchedAt": "2026-09-27T22:22:22+00:00"
+  },
   {
    "id": "auto-a1717ded392a",
    "tab": "star-citizen",
@@ -33,8 +52,8 @@
    "originalTitle": "There are no \"rogue\" AI agents",
    "en": {
     "title": "There are no \"rogue\" AI agents",
-    "summary": "Community discussion on Hacker News (309 points, 232 comments).",
-    "details": "Community discussion on Hacker News (309 points, 232 comments)."
+    "summary": "Community discussion on Hacker News (309 points, 233 comments).",
+    "details": "Community discussion on Hacker News (309 points, 233 comments)."
    },
    "translated": false,
    "fetchedAt": "2026-09-27T19:54:14+00:00"
