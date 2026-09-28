@@ -65,6 +65,27 @@
         "summary": "OpenAI's API deprecations page lists September 28, 2026 as the shutdown date for gpt-3.5-turbo-instruct, gpt-3.5-turbo-1106, davinci-002 and babbage-002.",
         "details": "OpenAI's official API deprecations page sets September 28, 2026 as the retirement date for four legacy models: gpt-3.5-turbo-instruct, gpt-3.5-turbo-1106, and the completions-only models davinci-002 and babbage-002.\n\nDevelopers still calling these endpoints will see their requests fail once the models are removed; OpenAI's migration guidance points toward its current GPT-5-series chat and completion models as replacements.\n\n- davinci-002 and babbage-002 were the last successors to the original GPT-3 base models, which OpenAI shut down in January 2024\n- The shutdown was flagged in advance on the deprecations page rather than announced separately"
       }
+    },
+    {
+      "id": "meta-enterprise-platform-launch-cj-desai",
+      "date": "2026-09-28",
+      "type": "business",
+      "importance": 2,
+      "sourceType": "official",
+      "sourceName": "Meta Newsroom",
+      "url": "https://about.fb.com/news/2026/09/launching-meta-enterprise-platform/",
+      "originalTitle": "Launching Meta Enterprise Platform",
+      "company": "Meta",
+      "ar": {
+        "title": "Meta تطلق منصة Meta Enterprise Platform وتعيّن CJ Desai لقيادتها",
+        "summary": "أعلن مارك زوكربيرغ إطلاق Meta Enterprise Platform، ركيزة عمل جديدة تجمع نماذج Meta ووكلاءها وبنيتها التحتية لمساعدة الشركات، وتعيين Chirantan CJ Desai من MongoDB رئيسًا تنفيذيًا لها.",
+        "details": "أعلنت Meta في 28 سبتمبر عبر رئيسها التنفيذي مارك زوكربيرغ إطلاق ركيزة عمل جديدة للشركة باسم Meta Enterprise Platform، تهدف إلى مساعدة الشركات على استخدام الذكاء الاصطناعي للنمو والتحول، بالاعتماد على نماذج Meta المتقدمة ووكلائها وبنيتها التحتية الواسعة وخبرتها في العمل مع الشركات.\n\nستضم المنصة في مرحلتها الأولى وكيل Muse ووكيل Meta Business Agent وواجهة Muse API وأداة Muse Code، إلى جانب أدوات أخرى موجهة للشركات والمطورين.\n\nلقيادة هذا المسار، عيّنت الشركة Chirantan \"CJ\" Desai رئيسًا تنفيذيًا لمنصة الشركات (Chief Enterprise Platform Officer)، ليرفع تقاريره مباشرة إلى زوكربيرغ. وينتقل Desai من منصب الرئيس التنفيذي لشركة MongoDB، وسبق له قيادة المنتجات والهندسة في Cloudflare، وقضى نحو ثماني سنوات في ServiceNow شملت منصبي الرئيس وكبير مسؤولي التشغيل."
+      },
+      "en": {
+        "title": "Meta launches Meta Enterprise Platform, names CJ Desai to lead it",
+        "summary": "Mark Zuckerberg announced Meta Enterprise Platform, a new business pillar combining Meta's models, agents and infrastructure for businesses, and named ex-MongoDB CEO Chirantan \"CJ\" Desai to run it.",
+        "details": "On September 28, Meta CEO Mark Zuckerberg announced a new business pillar called Meta Enterprise Platform, aimed at helping businesses use AI to grow and transform by drawing on Meta's advanced models, agents, large-scale infrastructure and experience working with businesses.\n\nThe platform will initially bring together the Muse agent, Meta Business Agent, the Muse API and Muse Code, along with other tools for businesses and developers.\n\nTo lead the effort, Meta named Chirantan \"CJ\" Desai as Chief Enterprise Platform Officer, reporting directly to Zuckerberg. Desai joins from MongoDB, where he was CEO and President; he previously led product and engineering at Cloudflare and spent nearly eight years at ServiceNow, including as President and COO."
+      }
     }
   ],
   "upcoming": [],

@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": "2026-09-28T12:09:14+00:00",
+ "updatedAt": "2026-09-28T13:10:24+00:00",
  "coverage": {
   "from": "2026-06-28",
   "to": "2026-09-28"
@@ -1713,6 +1713,28 @@
       "details": "On September 28, H Company (Hcompany) released Holo4, a new family of agentic AI models built to operate software directly: clicking and typing on screens, writing and running code, and calling MCP or API tools, using the same architecture across desktop, web, Android and code sandboxes.\n\nThe lineup ships in two main sizes — a 27B dense model and a 35B-A3B mixture-of-experts model — plus a smaller Holotron4 Nano variant, trained on about 127 billion tokens with supervised fine-tuning and reinforcement learning on roughly 10,000 tasks from the company's own Agentic Task Factory.\n\n- On the OSWorld 2.0 computer-use benchmark, Holo4-27B scores 61.7%, versus 81.8% for frontier models like Claude Opus 5.5, at a much lower compute cost\n- The models are available through the H Models API and on Hugging Face in multiple formats"
      },
      "addedAt": "2026-09-28T10:12:15+00:00"
+    },
+    {
+     "id": "meta-enterprise-platform-launch-cj-desai",
+     "date": "2026-09-28",
+     "type": "business",
+     "importance": 2,
+     "sourceType": "official",
+     "sourceName": "Meta Newsroom",
+     "url": "https://about.fb.com/news/2026/09/launching-meta-enterprise-platform/",
+     "originalTitle": "Launching Meta Enterprise Platform",
+     "company": "Meta",
+     "ar": {
+      "title": "Meta تطلق منصة Meta Enterprise Platform وتعيّن CJ Desai لقيادتها",
+      "summary": "أعلن مارك زوكربيرغ إطلاق Meta Enterprise Platform، ركيزة عمل جديدة تجمع نماذج Meta ووكلاءها وبنيتها التحتية لمساعدة الشركات، وتعيين Chirantan CJ Desai من MongoDB رئيسًا تنفيذيًا لها.",
+      "details": "أعلنت Meta في 28 سبتمبر عبر رئيسها التنفيذي مارك زوكربيرغ إطلاق ركيزة عمل جديدة للشركة باسم Meta Enterprise Platform، تهدف إلى مساعدة الشركات على استخدام الذكاء الاصطناعي للنمو والتحول، بالاعتماد على نماذج Meta المتقدمة ووكلائها وبنيتها التحتية الواسعة وخبرتها في العمل مع الشركات.\n\nستضم المنصة في مرحلتها الأولى وكيل Muse ووكيل Meta Business Agent وواجهة Muse API وأداة Muse Code، إلى جانب أدوات أخرى موجهة للشركات والمطورين.\n\nلقيادة هذا المسار، عيّنت الشركة Chirantan \"CJ\" Desai رئيسًا تنفيذيًا لمنصة الشركات (Chief Enterprise Platform Officer)، ليرفع تقاريره مباشرة إلى زوكربيرغ. وينتقل Desai من منصب الرئيس التنفيذي لشركة MongoDB، وسبق له قيادة المنتجات والهندسة في Cloudflare، وقضى نحو ثماني سنوات في ServiceNow شملت منصبي الرئيس وكبير مسؤولي التشغيل."
+     },
+     "en": {
+      "title": "Meta launches Meta Enterprise Platform, names CJ Desai to lead it",
+      "summary": "Mark Zuckerberg announced Meta Enterprise Platform, a new business pillar combining Meta's models, agents and infrastructure for businesses, and named ex-MongoDB CEO Chirantan \"CJ\" Desai to run it.",
+      "details": "On September 28, Meta CEO Mark Zuckerberg announced a new business pillar called Meta Enterprise Platform, aimed at helping businesses use AI to grow and transform by drawing on Meta's advanced models, agents, large-scale infrastructure and experience working with businesses.\n\nThe platform will initially bring together the Muse agent, Meta Business Agent, the Muse API and Muse Code, along with other tools for businesses and developers.\n\nTo lead the effort, Meta named Chirantan \"CJ\" Desai as Chief Enterprise Platform Officer, reporting directly to Zuckerberg. Desai joins from MongoDB, where he was CEO and President; he previously led product and engineering at Cloudflare and spent nearly eight years at ServiceNow, including as President and COO."
+     },
+     "addedAt": "2026-09-28T13:10:24+00:00"
     },
     {
      "id": "openai-gpt-3-5-legacy-api-shutdown",
