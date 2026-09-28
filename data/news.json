@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": "2026-09-28T17:10:20+00:00",
+ "updatedAt": "2026-09-28T18:09:06+00:00",
  "coverage": {
   "from": "2026-06-28",
   "to": "2026-09-28"
@@ -1758,6 +1758,28 @@
       "details": "On September 28, Meta CEO Mark Zuckerberg announced a new business pillar called Meta Enterprise Platform, aimed at helping businesses use AI to grow and transform by drawing on Meta's advanced models, agents, large-scale infrastructure and experience working with businesses.\n\nThe platform will initially bring together the Muse agent, Meta Business Agent, the Muse API and Muse Code, along with other tools for businesses and developers.\n\nTo lead the effort, Meta named Chirantan \"CJ\" Desai as Chief Enterprise Platform Officer, reporting directly to Zuckerberg. Desai joins from MongoDB, where he was CEO and President; he previously led product and engineering at Cloudflare and spent nearly eight years at ServiceNow, including as President and COO."
      },
      "addedAt": "2026-09-28T13:10:24+00:00"
+    },
+    {
+     "id": "openai-lenfest-ai-collaborative-expansion",
+     "date": "2026-09-28",
+     "type": "business",
+     "importance": 1,
+     "sourceType": "official",
+     "sourceName": "OpenAI News",
+     "url": "https://openai.com/index/lenfest-ai-collaborative-expansion/",
+     "originalTitle": "The Lenfest Institute grows landmark program with expanded OpenAI support",
+     "company": "OpenAI",
+     "ar": {
+      "title": "OpenAI تضاعف دعمها لبرنامج Lenfest للذكاء الاصطناعي في الصحافة",
+      "summary": "أعلنت OpenAI توسيع برنامج Lenfest AI Collaborative and Fellowship بتمويل مباشر قدره 5 ملايين دولار وحتى 5 ملايين دولار أخرى كأرصدة برمجيات ودعم هندسي، أي ضعف دعمها السابق.",
+      "details": "أعلنت OpenAI في 28 سبتمبر توسيع دعمها لبرنامج Lenfest AI Collaborative and Fellowship، أكبر برنامج زمالة للذكاء الاصطناعي في الصحافة الأميركية، بتمويل مباشر إضافي قدره 5 ملايين دولار وحتى 5 ملايين دولار أخرى في صورة أرصدة برمجيات ودعم هندسي، أي ضعف ما قدمته الشركة في الجولة الأولى عام 2024 مع مايكروسوفت.\n\nينضم إلى البرنامج في مرحلته الجديدة عدد من المؤسسات الصحفية من بينها ProPublica وBoston Globe Media وThe Dallas Morning News وThe Baltimore Banner ومبادرة NEWSWELL التابعة لجامعة أريزونا ستيت، لتوظيف زملاء هندسة ذكاء اصطناعي يعملون على مشاريع تتعلق باستدامة الأعمال الصحفية.\n\n- انطلق البرنامج عام 2024 بدعم مشترك من OpenAI ومايكروسوفت بلغ 10 ملايين دولار لخمس مؤسسات إخبارية أميركية"
+     },
+     "en": {
+      "title": "OpenAI doubles support for Lenfest journalism AI fellowship program",
+      "summary": "OpenAI is expanding the Lenfest AI Collaborative and Fellowship Program with $5 million in new direct funding plus up to $5 million more in software credits and engineering support, doubling its earlier commitment.",
+      "details": "On September 28, OpenAI announced it is expanding its support for the Lenfest AI Collaborative and Fellowship Program, the largest AI fellowship program in American journalism, with $5 million in additional direct funding and up to $5 million more in software credits and engineering support — doubling what it contributed in the program's first round with Microsoft in 2024.\n\nNew organizations joining this phase include ProPublica, Boston Globe Media, The Dallas Morning News, The Baltimore Banner, and Arizona State University's NEWSWELL initiative, which will hire AI engineering fellows to work on projects supporting newsroom business sustainability.\n\n- The program launched in 2024 with $10 million in combined OpenAI and Microsoft funding for five US news organizations"
+     },
+     "addedAt": "2026-09-28T18:09:06+00:00"
     },
     {
      "id": "openai-gpt-3-5-legacy-api-shutdown",
