@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": "2026-09-28T18:09:06+00:00",
+ "updatedAt": "2026-09-28T19:10:44+00:00",
  "coverage": {
   "from": "2026-06-28",
   "to": "2026-09-28"
@@ -1758,6 +1758,29 @@
       "details": "On September 28, Meta CEO Mark Zuckerberg announced a new business pillar called Meta Enterprise Platform, aimed at helping businesses use AI to grow and transform by drawing on Meta's advanced models, agents, large-scale infrastructure and experience working with businesses.\n\nThe platform will initially bring together the Muse agent, Meta Business Agent, the Muse API and Muse Code, along with other tools for businesses and developers.\n\nTo lead the effort, Meta named Chirantan \"CJ\" Desai as Chief Enterprise Platform Officer, reporting directly to Zuckerberg. Desai joins from MongoDB, where he was CEO and President; he previously led product and engineering at Cloudflare and spent nearly eight years at ServiceNow, including as President and COO."
      },
      "addedAt": "2026-09-28T13:10:24+00:00"
+    },
+    {
+     "id": "github-copilot-claude-sonnet-5-5-ga",
+     "date": "2026-09-28",
+     "type": "coding",
+     "importance": 2,
+     "sourceType": "official",
+     "sourceName": "GitHub Changelog",
+     "url": "https://github.blog/changelog/2026-09-28-claude-sonnet-5-5-in-github-copilot",
+     "originalTitle": "Claude Sonnet 5.5 in GitHub Copilot",
+     "company": "GitHub",
+     "tool": "Claude Sonnet 5.5",
+     "ar": {
+      "title": "GitHub Copilot يتيح Claude Sonnet 5.5 بشكل عام",
+      "summary": "أتاحت GitHub نموذج Claude Sonnet 5.5 من Anthropic بشكل عام في Copilot، وتقول إنه يطابق أداء Sonnet 5 في مهام البرمجة بخطوات ورموز وأدوات أقل وأسرع.",
+      "details": "أعلنت GitHub في 28 سبتمبر إتاحة نموذج Claude Sonnet 5.5، أحدث نماذج Anthropic من فئة Sonnet، بشكل عام داخل GitHub Copilot، ووصفته بأنه مخصص لمهام العمل اليومي المحددة النطاق مثل بناء الميزات وإصلاح الأعطال.\n\nقالت GitHub إن اختباراتها الداخلية أظهرت أن النموذج يطابق أداء Sonnet 5 السابق في مهام البرمجة، لكنه ينجزها بخطوات ورموز واستدعاءات أدوات أقل بكثير، ما يجعله أسرع في إتمام المهام.\n\n- يتاح النموذج لمشتركي خطط Copilot Pro وPro+ وMax وBusiness وEnterprise عبر VS Code وVisual Studio وJetBrains وXcode وتطبيق GitHub للجوال وغيرها، مع طرح تدريجي\n- يمكن لمسؤولي خطط Business وEnterprise التحكم في إتاحته عبر سياسة النماذج، وهو مفعّل افتراضيًا للنماذج الجديدة\n- يُحتسب استخدامه ضمن الفوترة القائمة على الاستهلاك بأسعار المزوّد المعلنة"
+     },
+     "en": {
+      "title": "GitHub Copilot makes Claude Sonnet 5.5 generally available",
+      "summary": "GitHub rolled out Anthropic's Claude Sonnet 5.5 to general availability in Copilot, saying it matches Sonnet 5's coding performance using far fewer steps, tokens and tool calls.",
+      "details": "On September 28, GitHub announced that Claude Sonnet 5.5, Anthropic's newest Sonnet model, is now generally available in GitHub Copilot, describing it as suited to well-scoped everyday work like building features and fixing bugs.\n\nGitHub said internal testing showed the model matches the previous Sonnet 5's coding performance while using significantly fewer steps, tokens and tool calls, completing tasks faster as a result.\n\n- It is available to Copilot Pro, Pro+, Max, Business and Enterprise plans across VS Code, Visual Studio, JetBrains IDEs, Xcode, the GitHub Mobile app and more, rolling out gradually\n- Business and Enterprise admins can control access through Copilot's model policy, where new models are enabled by default\n- Usage is billed under usage-based billing at provider list pricing"
+     },
+     "addedAt": "2026-09-28T19:10:44+00:00"
     },
     {
      "id": "openai-lenfest-ai-collaborative-expansion",
