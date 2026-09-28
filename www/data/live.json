@@ -1,44 +1,4 @@
 {
- "updatedAt": "2026-09-28T09:59:15+00:00",
- "items": [
-  {
-   "id": "auto-3baf7a1c898a",
-   "tab": "ai",
-   "date": "2026-09-28",
-   "publishedAt": "2026-09-28T09:44:05+00:00",
-   "type": "product",
-   "importance": 1,
-   "sourceType": "official",
-   "sourceName": "Hugging Face Blog",
-   "url": "https://huggingface.co/blog/Hcompany/holo4",
-   "originalTitle": "Holo4: powering generalist computer-use agents",
-   "en": {
-    "title": "Holo4: powering generalist computer-use agents",
-    "summary": "Holo4: powering generalist computer-use agents",
-    "details": ""
-   },
-   "translated": false,
-   "fetchedAt": "2026-09-28T09:46:36+00:00",
-   "company": "Hugging Face"
-  },
-  {
-   "id": "auto-7f6b86622308",
-   "tab": "once-human",
-   "date": "2026-09-28",
-   "publishedAt": "2026-09-28T08:45:29+00:00",
-   "type": "update",
-   "importance": 1,
-   "sourceType": "official",
-   "sourceName": "Once Human — Steam News",
-   "url": "https://store.steampowered.com/news/app/2139460/view/1844751498230900",
-   "originalTitle": "Version 3.0.7 Update Announcement (September 28)",
-   "en": {
-    "title": "Version 3.0.7 Update Announcement (September 28)",
-    "summary": "Dear Metas, We have scheduled server maintenance and an update for September 28, 2026, at 4:00 PM (PT). The maintenance is expected to last about 2 hour (The actual server opening time may differ). Please manage your time wisely.",
-    "details": "Dear Metas,\n\nWe have scheduled server maintenance and an update for September 28, 2026, at 4:00 PM (PT). The maintenance is expected to last about 2 hour (The actual server opening time may differ). Please manage your time wisely.\n\nThis update brings: the Limited-time Events & , new Custom Dye Sets, free Character Customization and Hairstyle Dye, territory Animal Targeted Breeding feature, Golden Autumn Cumulative Top-up Rewards, Lightforge Loot Crate autumn return, and more, along with recent bug fixes.\n\nAfter this maintenance is complete, we will distribute maintenance rewards: Starchrom ×1000, Mitsuko's Mark ×100, Stardust Secret Crate·S14 (Epic) ×1, Dog Selection Crate ×1! Use the Dog Selection Crate to choose 1 of 3 limited Deviations: Labrador, Blackback, or Doberman (Deviation Level and Stability Level 3). Participate in the event to also obtain a dog Deviation with Deviation Level and Stability Level 5! Metas, don't miss out. …"
-   },
-   "translated": false,
-   "fetchedAt": "2026-09-28T08:50:57+00:00"
-  }
- ]
+ "updatedAt": "2026-09-28T10:17:17+00:00",
+ "items": []
 }
