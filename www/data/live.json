@@ -1,6 +1,26 @@
 {
- "updatedAt": "2026-09-28T09:29:24+00:00",
+ "updatedAt": "2026-09-28T09:46:41+00:00",
  "items": [
+  {
+   "id": "auto-3baf7a1c898a",
+   "tab": "ai",
+   "date": "2026-09-28",
+   "publishedAt": "2026-09-28T09:44:05+00:00",
+   "type": "product",
+   "importance": 1,
+   "sourceType": "official",
+   "sourceName": "Hugging Face Blog",
+   "url": "https://huggingface.co/blog/Hcompany/holo4",
+   "originalTitle": "Holo4: powering generalist computer-use agents",
+   "en": {
+    "title": "Holo4: powering generalist computer-use agents",
+    "summary": "Holo4: powering generalist computer-use agents",
+    "details": ""
+   },
+   "translated": false,
+   "fetchedAt": "2026-09-28T09:46:36+00:00",
+   "company": "Hugging Face"
+  },
   {
    "id": "auto-7f6b86622308",
    "tab": "once-human",
