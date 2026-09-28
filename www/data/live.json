@@ -1,4 +1,43 @@
 {
- "updatedAt": "2026-09-28T11:57:11+00:00",
- "items": []
+ "updatedAt": "2026-09-28T12:15:01+00:00",
+ "items": [
+  {
+   "id": "auto-c37b41ae777a",
+   "tab": "ai",
+   "date": "2026-09-28",
+   "publishedAt": "2026-09-28T00:03:49+00:00",
+   "type": "product",
+   "importance": 1,
+   "sourceType": "community",
+   "sourceName": "r/LocalLLaMA",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wrzpzg/ft_corporate_america_rejects_overpriced_frontier/",
+   "originalTitle": "FT: Corporate America rejects overpriced frontier, embraces open models",
+   "en": {
+    "title": "FT: Corporate America rejects overpriced frontier, embraces open models",
+    "summary": "Community post on r/LocalLLaMA.",
+    "details": "Community post on r/LocalLLaMA."
+   },
+   "translated": false,
+   "fetchedAt": "2026-09-28T12:15:01+00:00"
+  },
+  {
+   "id": "auto-6e0fe5e7a2a6",
+   "tab": "ai",
+   "date": "2026-09-28",
+   "publishedAt": "2026-09-28T05:39:25+00:00",
+   "type": "model",
+   "importance": 1,
+   "sourceType": "community",
+   "sourceName": "r/LocalLLaMA",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1ws67x4/gpt3_is_discontinued_today/",
+   "originalTitle": "GPT-3 is discontinued today",
+   "en": {
+    "title": "GPT-3 is discontinued today",
+    "summary": "Community post on r/LocalLLaMA. It had such a long run. It was my first introduction to modern language models. I remember getting slightly excited over it. And now it lives purely in our memories.",
+    "details": "Community post on r/LocalLLaMA.\n\nIt had such a long run. It was my first introduction to modern language models. I remember getting slightly excited over it. And now it lives purely in our memories. Arguably what's more infuriating is that they suggest using GPT-5.6 Terra as a replacement. Keep in mind that Babbage is a model that's literally 3/4 of the size than MiniCPM5 2B. Even Luna might be overkill as a replacement. But neither is a drop-in replacement. Davinci is the main GPT-3 most people use. This is why we have local models, because they simply cannot have a universal end of life date."
+   },
+   "translated": false,
+   "fetchedAt": "2026-09-28T12:15:01+00:00"
+  }
+ ]
 }
