@@ -1,0 +1,54 @@
+{
+  "topic": "once-human",
+  "generatedAt": "2026-09-29",
+  "news": [
+    {
+      "id": "oh-version-3-0-7-autumn-update",
+      "date": "2026-09-28",
+      "type": "update",
+      "importance": 2,
+      "sourceType": "official",
+      "sourceName": "Once Human — Official Website",
+      "url": "https://www.oncehuman.game/news/update/20260924/40780_1315053.html",
+      "originalTitle": "Version 3.0.7 Update Announcement (September 28)",
+      "ar": {
+        "title": "تحديث 3.0.7 يطلق تخصيصًا مجانيًا وتربية الحيوانات وفعاليات الخريف الذهبي",
+        "summary": "تحديث 28 سبتمبر يجعل تخصيص الشخصية مجانيًا، ويضيف تربية الحيوانات المستهدفة وفعاليتين محدودتين حتى 14 أكتوبر.",
+        "details": "يفي تحديث 28 سبتمبر بوعود سابقة: أصبح إعادة تشكيل الشخصية وصبغ تسريحة الشعر وتلوين 23 مجموعة أزياء مجانية بالكامل، مع إزالة عملتي Chrysalis Token وButterfly Dye من المتجر.\n\nتتيح ميزة جديدة للأقاليم اختيار الحيوانات الأبوين يدويًا للتكاثر في Youngling Huts، بحد أقصى خمسة أزواج لكل إقليم، بينما يحتفظ صنف Beastmaster بقدرته على استدعاء ثلاثة حيوانات عبر Beast Whistle.\n\nتجري فعاليتان محدودتان، Golden Autumn Harvest وFrames of Wonder، من 29 سبتمبر حتى 14 أكتوبر، وتقدمان مكافآت دخول يومية وأزياء أسلحة دائمة ومهام تصوير. كما منحت الصيانة اللاعبين Starchrom وMitsuko's Marks وصندوقًا لاختيار أحد ثلاثة كلاب مرافقة.\n\nومن المقرر أن يصل التحديث الرئيسي التالي، الذي يضيف سيناريو Isles of Abyss البحري، في 21 أكتوبر."
+      },
+      "en": {
+        "title": "Version 3.0.7 launches with free customization, animal breeding and Golden Autumn events",
+        "summary": "Once Human's September 28 update makes customization free, adds animal breeding and two limited-time autumn events running through October 14.",
+        "details": "The September 28 update follows through on earlier promises: character reshaping, hairstyle dyeing and custom colors for 23 fashion sets are now completely free, with the old Chrysalis Token and Butterfly Dye currencies removed from shops.\n\nA new territory feature lets players manually pick parent animals for breeding in Youngling Huts, up to five pairs per territory, while the Beastmaster class keeps its three-animal Beast Whistle summon.\n\nTwo limited-time events, Golden Autumn Harvest and Frames of Wonder, run from September 29 to October 14, offering daily login rewards, permanent weapon cosmetics and photo-based tasks. Maintenance also handed players Starchrom, Mitsuko's Marks and a crate for picking one of three dog companions.\n\nThe next major update, adding the Isles of Abyss ocean scenario, is scheduled for October 21."
+      }
+    }
+  ],
+  "upcoming": [
+    {
+      "id": "oh-upcoming-golden-autumn-events",
+      "date": "2026-09-29",
+      "endDate": "2026-10-14",
+      "dateConfidence": "confirmed",
+      "type": "event",
+      "sourceType": "official",
+      "sourceName": "Once Human — Official Website",
+      "url": "https://www.oncehuman.game/news/update/20260924/40780_1315053.html",
+      "ar": {
+        "title": "فعاليتا Golden Autumn Harvest وFrames of Wonder مستمرتان حتى 14 أكتوبر",
+        "summary": "فعاليتان محدودتان في Once Human تقدمان مكافآت دخول يومية ومهام تصوير حتى 14 أكتوبر بتوقيت الخوادم.",
+        "details": "تستمر فعاليتا Golden Autumn Harvest وFrames of Wonder من 29 سبتمبر حتى 14 أكتوبر بتوقيت الخوادم، بالتزامن مع تحديث 3.0.7.\n\nتمنح Golden Autumn Harvest ورقة Golden Leaf واحدة يوميًا الساعة 6:00 صباحًا بتوقيت الخادم، يمكن استبدالها بأزياء أسلحة دائمة ومكافآت موسمية أخرى مقابل تسجيل الدخول المنتظم.\n\nأما Frames of Wonder فهي فعالية تصوير يومية: إتمام مهمة تصوير كل يوم يفتح خطوة جديدة في تقويم الفعالية، وصولًا إلى وصفات صناعة محدودة حصرية على الفعالية.",
+        "location": "خوادم Once Human (عالميًا)",
+        "dateNote": "تبدأ المكافآت اليومية الساعة 6:00 صباحًا بتوقيت الخادم وتستمر حتى 14 أكتوبر."
+      },
+      "en": {
+        "title": "Golden Autumn Harvest and Frames of Wonder events run until October 14",
+        "summary": "Once Human's two limited-time autumn events give daily login rewards and photo-based tasks through October 14 (server time).",
+        "details": "Golden Autumn Harvest and Frames of Wonder run from September 29 to October 14, server time, alongside the version 3.0.7 update.\n\nGolden Autumn Harvest hands players one Golden Leaf at 6:00 AM server time each day, which can be traded for permanent weapon cosmetics and other seasonal rewards for logging in regularly.\n\nFrames of Wonder is a daily photo check-in event: completing a photo task each day unlocks a new step in the event calendar, eventually revealing limited-time crafting recipes exclusive to the event.",
+        "location": "Once Human servers (worldwide)",
+        "dateNote": "Daily rewards refresh at 6:00 AM server time and continue through October 14."
+      }
+    }
+  ],
+  "removeUpcoming": [],
+  "removeNews": []
+}
