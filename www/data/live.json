@@ -1,6 +1,26 @@
 {
- "updatedAt": "2026-09-28T12:56:09+00:00",
+ "updatedAt": "2026-09-28T13:10:36+00:00",
  "items": [
+  {
+   "id": "auto-098223542368",
+   "tab": "ai",
+   "date": "2026-09-28",
+   "publishedAt": "2026-09-28T12:36:14+00:00",
+   "type": "product",
+   "importance": 1,
+   "sourceType": "official",
+   "sourceName": "Meta Newsroom",
+   "url": "https://about.fb.com/news/2026/09/launching-meta-enterprise-platform/",
+   "originalTitle": "Launching Meta Enterprise Platform",
+   "en": {
+    "title": "Launching Meta Enterprise Platform",
+    "summary": "Meta founder and CEO Mark Zuckerberg shared the following: We believe superintelligence will create significant new opportunities for all people and businesses.",
+    "details": "Meta founder and CEO Mark Zuckerberg shared the following:\n\nWe believe superintelligence will create significant new opportunities for all people and businesses. Meta already serves billions of people at scale and helps hundreds of millions of businesses reach customers. Today we are starting the next major pillar of our business, Meta Enterprise Platform, to help businesses use AI to grow and transform in new ways as well.\n\nMeta Enterprise Platform will use our strengths that few other companies have: advanced models, leading agents, large-scale infrastructure, and years of working closely with many businesses. Initially, we will focus on bringing our full technology stack, including the Muse agent, Meta Business Agent, Muse API, Muse Code, and more to businesses and developers to help them grow.\n\nTo lead this effort, I’m excited that Chirantan “CJ” Desai will join Meta as Chief Enterprise Platform Officer, reporting directly to me. CJ is an experienced enterprise leader with a track record of building full-stack software and delivering results in AI, infrastructure, business applications, and security. He has an extensive industry network that we look forward to partnering with. He joins us from MongoDB, where he was CEO and President. Before that he led product and engineering at Cloudflare and spent nearly eight years at ServiceNow, including as President and COO.\n\nI’m excited about beginning this new chapter for Meta and looking forward to working closely with CJ. …"
+   },
+   "translated": false,
+   "fetchedAt": "2026-09-28T13:10:31+00:00",
+   "company": "Meta"
+  },
   {
    "id": "auto-c37b41ae777a",
    "tab": "ai",
