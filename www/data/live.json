@@ -1,6 +1,64 @@
 {
- "updatedAt": "2026-09-28T17:49:07+00:00",
+ "updatedAt": "2026-09-28T17:59:41+00:00",
  "items": [
+  {
+   "id": "auto-33e5082678f1",
+   "tab": "ai",
+   "date": "2026-09-28",
+   "publishedAt": "2026-09-28T16:11:42+00:00",
+   "type": "coding",
+   "importance": 1,
+   "sourceType": "community",
+   "sourceName": "Hacker News",
+   "url": "https://news.ycombinator.com/item?id=49880312",
+   "originalTitle": "The problem is not AI code, but not knowing about system architecture or intent",
+   "en": {
+    "title": "The problem is not AI code, but not knowing about system architecture or intent",
+    "summary": "Community discussion on Hacker News (255 points, 169 comments).",
+    "details": "Community discussion on Hacker News (255 points, 169 comments)."
+   },
+   "translated": false,
+   "fetchedAt": "2026-09-28T17:59:36+00:00"
+  },
+  {
+   "id": "auto-625e32d410fd",
+   "tab": "star-citizen",
+   "date": "2026-09-28",
+   "publishedAt": "2026-09-28T17:59:35+00:00",
+   "type": "development",
+   "importance": 1,
+   "sourceType": "official",
+   "sourceName": "RSI Comm-Link",
+   "url": "https://robertsspaceindustries.com/comm-link/transmission/21342-This-Week-In-Star-Citizen",
+   "originalTitle": "This Week in Star Citizen - September 28, 2026",
+   "en": {
+    "title": "This Week in Star Citizen - September 28, 2026",
+    "summary": "Stay up to date with everything going on in the ‘verse.",
+    "details": "Stay up to date with everything going on in the ‘verse."
+   },
+   "translated": false,
+   "fetchedAt": "2026-09-28T17:59:35+00:00"
+  },
+  {
+   "id": "auto-1ea1d9254637",
+   "tab": "ai",
+   "date": "2026-09-28",
+   "publishedAt": "2026-09-28T07:00:00+00:00",
+   "type": "business",
+   "importance": 1,
+   "sourceType": "official",
+   "sourceName": "OpenAI News",
+   "url": "https://openai.com/index/lenfest-ai-collaborative-expansion",
+   "originalTitle": "The Lenfest Institute grows landmark program with expanded OpenAI support",
+   "en": {
+    "title": "The Lenfest Institute grows landmark program with expanded OpenAI support",
+    "summary": "OpenAI is expanding the Lenfest AI Collaborative and Fellowship Program with $5 million in funding and up to $5 million in software credits and engineering support.",
+    "details": "OpenAI is expanding the Lenfest AI Collaborative and Fellowship Program with $5 million in funding and up to $5 million in software credits and engineering support."
+   },
+   "translated": false,
+   "fetchedAt": "2026-09-28T17:59:35+00:00",
+   "company": "OpenAI"
+  },
   {
    "id": "auto-c66df3624b3d",
    "tab": "ai",
