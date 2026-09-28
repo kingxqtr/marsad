@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": "2026-09-28T15:09:21+00:00",
+ "updatedAt": "2026-09-28T16:10:38+00:00",
  "coverage": {
   "from": "2026-06-28",
   "to": "2026-09-28"
@@ -1691,6 +1691,29 @@
   },
   "ai": {
    "news": [
+    {
+     "id": "nvidia-openshell-open-agent-safety-platform",
+     "date": "2026-09-28",
+     "type": "product",
+     "importance": 3,
+     "sourceType": "official",
+     "sourceName": "NVIDIA Newsroom",
+     "url": "https://nvidianews.nvidia.com/news/open-agent-safety-platform",
+     "originalTitle": "NVIDIA Launches Open Agent Safety Platform to Secure Agents From Testing to Deployment",
+     "company": "NVIDIA",
+     "tool": "OpenShell",
+     "ar": {
+      "title": "NVIDIA تطلق منصة Open Agent Safety Platform بمكوني OpenShell وSentry",
+      "summary": "كشفت NVIDIA عن منصة أمان الوكلاء المفتوحة التي تجمع بيئة OpenShell مفتوحة المصدر مع مراقب Sentry العتادي على معالجات BlueField-4، بمشاركة أكثر من 100 شريك من بينهم Anthropic وMicrosoft وJPMorganChase.",
+      "details": "أعلنت NVIDIA في 28 سبتمبر عن Open Agent Safety Platform، منظومة متكاملة لتأمين وكلاء الذكاء الاصطناعي من مرحلة الاختبار حتى النشر عبر طبقات البرمجيات والعتاد والروبوتات. وقال الرئيس التنفيذي Jensen Huang إن الأمان يتطلب هندسة متكاملة عبر كل الطبقات.\n\nتجمع المنصة بين OpenShell، بيئة تشغيل مفتوحة المصدر برخصة Apache 2.0 تعزل الوكلاء بضوابط على مستوى النواة للوصول إلى الملفات والعمليات إضافة إلى محرك تحقق من السياسات، وSentry، مراقب عتادي مستقل يعمل على معالجات BlueField-4 ويمكنه عزل أي وكيل منفلت خلال أجزاء من الثانية.\n\n- يشارك في المنصة أكثر من 100 مؤسسة، من بينها Anthropic وMicrosoft وSalesforce وSAP وJPMorganChase وSpaceX AI\n- تمرر مكونات OpenShell الثلاثة (البوابة والصندوق المعزول والمشرف) كل طلب يصدره الوكيل عبر قناة واحدة مؤمّنة للموافقة عليه\n- تقول NVIDIA إن التصميم يعمل على معالجاتها Vera إضافة إلى منصات Arm وIntel"
+     },
+     "en": {
+      "title": "NVIDIA launches Open Agent Safety Platform with OpenShell and Sentry",
+      "summary": "NVIDIA unveiled an Open Agent Safety Platform combining the open-source OpenShell sandbox runtime with a BlueField-4 hardware watchdog called Sentry, joined by more than 100 partners including Anthropic, Microsoft and JPMorganChase.",
+      "details": "On September 28, NVIDIA announced the Open Agent Safety Platform, a full-stack system for securing AI agents from testing through deployment across software, hardware and robotics layers. CEO Jensen Huang said safety and security require full-stack engineering.\n\nThe platform pairs OpenShell, an Apache 2.0-licensed open-source runtime that sandboxes agents with kernel-level controls on file and process access plus a policy-verification engine, with Sentry, an out-of-band monitoring watchdog running on BlueField-4 DPUs that can quarantine a rogue agent within milliseconds.\n\n- More than 100 organizations are working with the platform, including Anthropic, Microsoft, Salesforce, SAP, JPMorganChase and SpaceX AI\n- OpenShell's three components — gateway, sandbox and supervisor — route every agent request through a single secured channel for approval\n- NVIDIA says the design works across its own Vera CPUs as well as Arm and Intel platforms"
+     },
+     "addedAt": "2026-09-28T16:10:38+00:00"
+    },
     {
      "id": "hcompany-holo4-agentic-models",
      "date": "2026-09-28",
