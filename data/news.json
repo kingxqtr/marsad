@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": "2026-09-28T09:09:31+00:00",
+ "updatedAt": "2026-09-28T10:12:15+00:00",
  "coverage": {
   "from": "2026-06-28",
   "to": "2026-09-28"
@@ -652,21 +652,21 @@
      "type": "update",
      "importance": 1,
      "sourceType": "official",
-     "sourceName": "Once Human — Official Website",
-     "url": "https://www.oncehuman.game/news/devBlog/20260916/40781_1314019.html",
-     "originalTitle": "",
+     "sourceName": "Once Human — Steam News",
+     "url": "https://store.steampowered.com/news/app/2139460/view/1844751498230900",
+     "originalTitle": "Version 3.0.7 Update Announcement (September 28)",
      "dateConfidence": "confirmed",
      "ar": {
-      "title": "تحديث 28 سبتمبر: تعديل المظهر مجانًا وثلاثة حيوانات لفئة Beastmaster",
-      "summary": "يجعل تحديث 28 سبتمبر (بتوقيت المحيط الهادئ) تعديل الوجه والجسم ولون الشعر مجانيًا، ويعيد لفئة Beastmaster استدعاء ثلاثة حيوانات معًا، ويحسّن أوامر Beast Whistle.",
-      "details": "حُدد التحديث التالي للعبة Once Human في 28 سبتمبر الساعة 4:00 عصرًا بتوقيت المحيط الهادئ، أي 2:00 فجر 29 سبتمبر في قطر والسعودية و3:00 فجرًا في الإمارات.\n\nالتغييرات المعلنة:\n- تعديل الوجه والجسم وصبغ الشعر مجانًا عبر المرآة، مع سحب Chrysalis Token وButterfly Dye من المتجر وإمكانية تحويلهما إلى Colorful Badges\n- خفض سعر Metamorphosis Token لتغيير الجنس من 880 إلى 300 Crystgin، مع تعويض تلقائي للمشتريات المؤهلة خلال الأشهر الثلاثة السابقة\n- عودة قدرة Beastmaster على استدعاء ثلاثة حيوانات معًا (وحيوان واحد لبقية الفئات)\n- صافرة Beast Whistle واحدة تأمر عدة حيوانات، مع تصحيح عرض وزن الحيوانات المحمولة\n\nكما ينتهي مع هذا التحديث عرض الخصم 10% على السحب العشري في صندوق Moon That Lingers.",
-      "dateNote": "4:00 عصرًا بتوقيت المحيط الهادئ في 28 سبتمبر = 2:00 فجر 29 سبتمبر (UTC+3) و3:00 فجرًا (UTC+4)؛ لم تُعلن مدة الصيانة بعد."
+      "title": "تحديث Once Human 3.0.7: صيانة اليوم وتعديل مظهر مجاني وعودة Lightforge",
+      "summary": "يضيف تحديث Once Human 3.0.7 اليوم تعديل الوجه والجسم والشعر مجانًا، ومجموعات صبغ جديدة، وتربية حيوانات موجهة، ومكافآت الخريف الذهبي، وعودة صندوق Lightforge، مع صيانة تبدأ 4:00 عصرًا بتوقيت المحيط الهادئ.",
+      "details": "تأكد تحديث الإصدار 3.0.7 للعبة Once Human ليوم 28 سبتمبر، مع بدء صيانة السيرفرات الساعة 4:00 عصرًا بتوقيت المحيط الهادئ (2:00 فجر 29 سبتمبر بتوقيت قطر والسعودية، و3:00 فجرًا بتوقيت الإمارات)؛ ولم تُعلن بعد مدة الصيانة.\n\nإضافة إلى تعديل الوجه والجسم وصبغ الشعر مجانًا المعلن سابقًا وعودة قدرة Beastmaster على استدعاء ثلاثة حيوانات معًا، يضيف منشور Steam: مجموعات صبغ مخصصة جديدة، وميزة تربية الحيوانات الموجهة في الأراضي، ومكافآت الخريف الذهبي التراكمية، وعودة صندوق Lightforge الموسمية، إلى جانب إصلاحات أخطاء غير محددة.\n\n- تشمل مكافآت إتمام الصيانة 1000 Starchrom و100 Mitsuko's Mark وصندوق Stardust Secret Crate S14 واحد وصندوق اختيار كلب واحد (Labrador أو Blackback أو Doberman)\n- ينخفض سعر Metamorphosis Token لتغيير الجنس من 880 إلى 300 Crystgin، مع تعويض المشتريات المؤهلة خلال الأشهر الثلاثة الماضية\n- ينتهي مع هذا التحديث عرض خصم 10% على السحب العشري في صندوق Moon That Lingers",
+      "dateNote": "4:00 عصرًا بتوقيت المحيط الهادئ في 28 سبتمبر = 2:00 فجر 29 سبتمبر (UTC+3) و3:00 فجرًا (UTC+4)؛ الإصدار مؤكد رسميًا برقم 3.0.7 عبر Steam."
      },
      "en": {
-      "title": "September 28 update: free appearance changes and three Beastmaster pets",
-      "summary": "The September 28 (PT) update makes face, body and hair-color changes free, restores three simultaneous summons for Beastmasters and improves Beast Whistle commands.",
-      "details": "Once Human's next version update is scheduled for September 28 at 4:00 PM PT, which is 2:00 AM on September 29 in Qatar and Saudi Arabia and 3:00 AM in the UAE.\n\nAnnounced changes:\n- Free face and body reshaping and palette hair dye at the territory Floor Mirror; Chrysalis Tokens and Butterfly Dyes leave the shop and can be converted into Colorful Badges\n- The Metamorphosis Token (gender change) drops from 880 to 300 Crystgin, with automatic refunds for qualifying purchases from the previous three months\n- Beastmasters can again summon three animals at once (other classes: one)\n- One Beast Whistle can command several animals, and the animal carry-weight display is corrected\n\nThe 10%-off ten-draw offer on the Moon That Lingers crate also ends with this update.",
-      "dateNote": "4:00 PM PT on Sept 28 = 2:00 AM Sept 29 (UTC+3) / 3:00 AM (UTC+4); maintenance length not yet announced."
+      "title": "Once Human 3.0.7: today's maintenance, free appearance edits, Lightforge return",
+      "summary": "Once Human's 3.0.7 update, live today, adds free face/body/hair edits, new dye sets, targeted animal breeding, Golden Autumn rewards and the returning Lightforge crate, with maintenance starting 4:00 PM PT.",
+      "details": "Once Human's version 3.0.7 update is confirmed for September 28, with server maintenance starting at 4:00 PM PT (2:00 AM Sept 29 in Qatar/Saudi Arabia, 3:00 AM in the UAE); maintenance length has not been announced.\n\nBeyond the previously announced free face, body and hair-color changes and the return of three simultaneous Beastmaster pet summons, Steam's update post adds: new Custom Dye Sets, a territory Animal Targeted Breeding feature, Golden Autumn cumulative top-up rewards, and the seasonal return of the Lightforge Loot Crate, plus unspecified bug fixes.\n\n- Maintenance-completion rewards include 1,000 Starchrom, 100 Mitsuko's Marks, one Stardust Secret Crate S14 and one Dog Selection Crate (choice of Labrador, Blackback or Doberman)\n- The Metamorphosis Token price for gender changes drops from 880 to 300 Crystgin, with refunds for qualifying purchases from the past three months\n- The 10%-off ten-draw offer on the Moon That Lingers crate ends with this update",
+      "dateNote": "4:00 PM PT on Sept 28 = 2:00 AM Sept 29 (UTC+3) / 3:00 AM (UTC+4); version number 3.0.7 now confirmed via Steam."
      },
      "addedAt": "2026-09-27T13:25:38+00:00"
     },
@@ -1691,6 +1691,51 @@
   },
   "ai": {
    "news": [
+    {
+     "id": "hcompany-holo4-agentic-models",
+     "date": "2026-09-28",
+     "type": "model",
+     "importance": 2,
+     "sourceType": "official",
+     "sourceName": "Hugging Face Blog",
+     "url": "https://huggingface.co/blog/Hcompany/holo4",
+     "originalTitle": "Holo4: powering generalist computer-use agents",
+     "company": "H Company",
+     "tool": "Holo4",
+     "ar": {
+      "title": "شركة H تطلق نماذج Holo4 الوكيلة للتحكم في الحاسوب",
+      "summary": "أطلقت شركة H company نماذج Holo4 الوكيلة بحجمي 27 مليار معامل و35 مليار (خبراء مختلطون)، قادرة على النقر والكتابة والبرمجة واستدعاء الأدوات عبر سطح المكتب والويب وأندرويد.",
+      "details": "أعلنت شركة H company (Hcompany) في 28 سبتمبر عن Holo4، عائلة جديدة من النماذج الوكيلة المصممة للتحكم المباشر في البرمجيات: النقر والكتابة على الشاشة، وكتابة الأكواد وتشغيلها، واستدعاء أدوات MCP أو واجهات برمجية، بنفس البنية عبر سطح المكتب والويب وأندرويد وبيئات الأكواد المعزولة.\n\nتأتي النماذج بحجمين رئيسيين: نموذج كثيف بـ27 مليار معامل، ونموذج خبراء مختلطين بـ35 مليار معامل (3 مليارات نشطة)، إضافة إلى نسخة أصغر باسم Holotron4 Nano، ودُرّبت على نحو 127 مليار رمز عبر ضبط دقيق موجّه وتعلم معزز على نحو 10 آلاف مهمة من \"مصنع المهام الوكيل\" الخاص بالشركة.\n\n- في اختبار OSWorld 2.0 للتحكم بالحاسوب، سجّل Holo4-27B دقة 61.7% مقابل 81.8% للنماذج المتقدمة مثل Claude Opus 5.5، بتكلفة حوسبة أقل بكثير\n- النماذج متاحة عبر واجهة H Models البرمجية وعلى منصة Hugging Face بصيغ متعددة"
+     },
+     "en": {
+      "title": "H Company launches Holo4 agentic computer-use models",
+      "summary": "H Company released Holo4, agentic AI models in 27B and 35B-A3B MoE sizes that click, type, code and call tools across desktop, web, Android and sandboxes.",
+      "details": "On September 28, H Company (Hcompany) released Holo4, a new family of agentic AI models built to operate software directly: clicking and typing on screens, writing and running code, and calling MCP or API tools, using the same architecture across desktop, web, Android and code sandboxes.\n\nThe lineup ships in two main sizes — a 27B dense model and a 35B-A3B mixture-of-experts model — plus a smaller Holotron4 Nano variant, trained on about 127 billion tokens with supervised fine-tuning and reinforcement learning on roughly 10,000 tasks from the company's own Agentic Task Factory.\n\n- On the OSWorld 2.0 computer-use benchmark, Holo4-27B scores 61.7%, versus 81.8% for frontier models like Claude Opus 5.5, at a much lower compute cost\n- The models are available through the H Models API and on Hugging Face in multiple formats"
+     },
+     "addedAt": "2026-09-28T10:12:15+00:00"
+    },
+    {
+     "id": "openai-gpt-3-5-legacy-api-shutdown",
+     "date": "2026-09-28",
+     "type": "model",
+     "importance": 1,
+     "sourceType": "official",
+     "sourceName": "OpenAI — API Deprecations",
+     "url": "https://developers.openai.com/api/docs/deprecations",
+     "originalTitle": "",
+     "company": "OpenAI",
+     "ar": {
+      "title": "OpenAI تُوقف اليوم نماذج gpt-3.5-turbo-instruct وdavinci-002 وbabbage-002",
+      "summary": "حددت صفحة إيقاف واجهة OpenAI البرمجية يوم 28 سبتمبر 2026 موعدًا لإيقاف نماذج gpt-3.5-turbo-instruct وgpt-3.5-turbo-1106 وdavinci-002 وbabbage-002.",
+      "details": "حددت صفحة إيقاف النماذج الرسمية في واجهة OpenAI البرمجية يوم 28 سبتمبر 2026 موعدًا لإيقاف أربعة نماذج قديمة: gpt-3.5-turbo-instruct وgpt-3.5-turbo-1106، إضافة إلى نموذجي الإكمال davinci-002 وbabbage-002.\n\nوستفشل طلبات المطورين الذين ما زالوا يستخدمون هذه النماذج فور إزالتها، وتوصي OpenAI بالانتقال إلى نماذج سلسلة GPT-5 الحالية للمحادثة والإكمال كبديل.\n\n- كانا davinci-002 وbabbage-002 آخر خلفاء لنماذج GPT-3 الأساسية الأصلية، التي أوقفتها OpenAI في يناير 2024\n- لم يُعلن الإيقاف بشكل منفصل، بل ورد ضمن صفحة الإيقاف الرسمية المحدّثة مسبقًا"
+     },
+     "en": {
+      "title": "OpenAI retires GPT-3.5-turbo-instruct, davinci-002 and babbage-002 today",
+      "summary": "OpenAI's API deprecations page lists September 28, 2026 as the shutdown date for gpt-3.5-turbo-instruct, gpt-3.5-turbo-1106, davinci-002 and babbage-002.",
+      "details": "OpenAI's official API deprecations page sets September 28, 2026 as the retirement date for four legacy models: gpt-3.5-turbo-instruct, gpt-3.5-turbo-1106, and the completions-only models davinci-002 and babbage-002.\n\nDevelopers still calling these endpoints will see their requests fail once the models are removed; OpenAI's migration guidance points toward its current GPT-5-series chat and completion models as replacements.\n\n- davinci-002 and babbage-002 were the last successors to the original GPT-3 base models, which OpenAI shut down in January 2024\n- The shutdown was flagged in advance on the deprecations page rather than announced separately"
+     },
+     "addedAt": "2026-09-28T10:12:15+00:00"
+    },
     {
      "id": "llamacpp-prompt-lookup-drafting-speedup",
      "date": "2026-09-26",

@@ -1,0 +1,34 @@
+{
+  "topic": "once-human",
+  "generatedAt": "2026-09-28",
+  "news": [],
+  "upcoming": [
+    {
+      "id": "oh-upcoming-update-2026-09-28",
+      "date": "2026-09-28",
+      "endDate": null,
+      "dateConfidence": "confirmed",
+      "type": "update",
+      "sourceType": "official",
+      "sourceName": "Once Human — Steam News",
+      "url": "https://store.steampowered.com/news/app/2139460/view/1844751498230900",
+      "originalTitle": "Version 3.0.7 Update Announcement (September 28)",
+      "ar": {
+        "title": "تحديث Once Human 3.0.7: صيانة اليوم وتعديل مظهر مجاني وعودة Lightforge",
+        "summary": "يضيف تحديث Once Human 3.0.7 اليوم تعديل الوجه والجسم والشعر مجانًا، ومجموعات صبغ جديدة، وتربية حيوانات موجهة، ومكافآت الخريف الذهبي، وعودة صندوق Lightforge، مع صيانة تبدأ 4:00 عصرًا بتوقيت المحيط الهادئ.",
+        "details": "تأكد تحديث الإصدار 3.0.7 للعبة Once Human ليوم 28 سبتمبر، مع بدء صيانة السيرفرات الساعة 4:00 عصرًا بتوقيت المحيط الهادئ (2:00 فجر 29 سبتمبر بتوقيت قطر والسعودية، و3:00 فجرًا بتوقيت الإمارات)؛ ولم تُعلن بعد مدة الصيانة.\n\nإضافة إلى تعديل الوجه والجسم وصبغ الشعر مجانًا المعلن سابقًا وعودة قدرة Beastmaster على استدعاء ثلاثة حيوانات معًا، يضيف منشور Steam: مجموعات صبغ مخصصة جديدة، وميزة تربية الحيوانات الموجهة في الأراضي، ومكافآت الخريف الذهبي التراكمية، وعودة صندوق Lightforge الموسمية، إلى جانب إصلاحات أخطاء غير محددة.\n\n- تشمل مكافآت إتمام الصيانة 1000 Starchrom و100 Mitsuko's Mark وصندوق Stardust Secret Crate S14 واحد وصندوق اختيار كلب واحد (Labrador أو Blackback أو Doberman)\n- ينخفض سعر Metamorphosis Token لتغيير الجنس من 880 إلى 300 Crystgin، مع تعويض المشتريات المؤهلة خلال الأشهر الثلاثة الماضية\n- ينتهي مع هذا التحديث عرض خصم 10% على السحب العشري في صندوق Moon That Lingers",
+        "location": "",
+        "dateNote": "4:00 عصرًا بتوقيت المحيط الهادئ في 28 سبتمبر = 2:00 فجر 29 سبتمبر (UTC+3) و3:00 فجرًا (UTC+4)؛ الإصدار مؤكد رسميًا برقم 3.0.7 عبر Steam."
+      },
+      "en": {
+        "title": "Once Human 3.0.7: today's maintenance, free appearance edits, Lightforge return",
+        "summary": "Once Human's 3.0.7 update, live today, adds free face/body/hair edits, new dye sets, targeted animal breeding, Golden Autumn rewards and the returning Lightforge crate, with maintenance starting 4:00 PM PT.",
+        "details": "Once Human's version 3.0.7 update is confirmed for September 28, with server maintenance starting at 4:00 PM PT (2:00 AM Sept 29 in Qatar/Saudi Arabia, 3:00 AM in the UAE); maintenance length has not been announced.\n\nBeyond the previously announced free face, body and hair-color changes and the return of three simultaneous Beastmaster pet summons, Steam's update post adds: new Custom Dye Sets, a territory Animal Targeted Breeding feature, Golden Autumn cumulative top-up rewards, and the seasonal return of the Lightforge Loot Crate, plus unspecified bug fixes.\n\n- Maintenance-completion rewards include 1,000 Starchrom, 100 Mitsuko's Marks, one Stardust Secret Crate S14 and one Dog Selection Crate (choice of Labrador, Blackback or Doberman)\n- The Metamorphosis Token price for gender changes drops from 880 to 300 Crystgin, with refunds for qualifying purchases from the past three months\n- The 10%-off ten-draw offer on the Moon That Lingers crate ends with this update",
+        "location": "",
+        "dateNote": "4:00 PM PT on Sept 28 = 2:00 AM Sept 29 (UTC+3) / 3:00 AM (UTC+4); version number 3.0.7 now confirmed via Steam."
+      }
+    }
+  ],
+  "removeUpcoming": [],
+  "removeNews": []
+}
