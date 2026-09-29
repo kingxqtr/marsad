@@ -84,6 +84,48 @@
         "summary": "A paper widely discussed on Hacker News found ChatGPT, Claude, Grok, Gemini and Perplexity share conversation titles, prompts and screenshots with ad trackers, sometimes via shared links with no access controls.",
         "details": "A research paper by an independent security researcher, widely discussed on Hacker News, documents how several major AI chat services send sensitive conversation-derived data to third-party advertisers and trackers, often without clear user awareness.\n\nThe paper reports that services including ChatGPT, Claude, Grok, Gemini and Perplexity have shared conversation titles, prompts and even screenshots alongside persistent user identifiers. Some platforms also exposed shared conversation permalinks with no access controls, letting trackers read full conversations.\n\nThe Hacker News thread drew hundreds of comments debating whether the leaks reflect deliberate data monetization or careless engineering, with many commenters urging a move to local or open-source models to avoid cloud-based tracking."
       }
+    },
+    {
+      "id": "nvidia-kumo-tabular-foundation-model",
+      "date": "2026-09-29",
+      "type": "model",
+      "importance": 2,
+      "sourceType": "official",
+      "sourceName": "Hugging Face Blog (NVIDIA)",
+      "url": "https://huggingface.co/blog/nvidia/kumo-tabular",
+      "originalTitle": "NVIDIA Kumo Tabular Sets a New Accuracy-Efficiency Frontier for Tabular Prediction",
+      "company": "NVIDIA",
+      "ar": {
+        "title": "NVIDIA تطلق Kumo Tabular لتوقّع بيانات الجداول دون تدريب",
+        "summary": "نموذج NVIDIA الجديد Kumo Tabular يتوقّع قيم بيانات الجداول المنظّمة دون تدريب أو هندسة خصائص، ويتصدّر أربعة معايير قياسية.",
+        "details": "أصدرت NVIDIA نموذج Kumo Tabular، وهو نموذج أساس مخصص لتوقّع بيانات الجداول (التصنيف والانحدار) على البيانات المنظّمة دون الحاجة إلى تدريب أو ضبط أو هندسة خصائص يدوية. يعتمد النموذج بنية محوّلات (Transformer) بآليات انتباه خاصة بالأعمدة والصفوف والسياق، وصدر بثلاثة أحجام تتراوح بين 28 و215 مليون معامل، دُرّبت حصريًا على جداول اصطناعية مولّدة من نماذج سببية بنيوية.\n\nتصدّر النموذج أربعة معايير قياسية رئيسية هي TabArena وBeyondArena وTALENT وScoringBench، مع سرعة استدلال أعلى من المنافسين. الشيفرة متاحة على GitHub والأوزان على Hugging Face بترخيص OpenMDW-1.1 الذي يسمح بالاستخدام التجاري."
+      },
+      "en": {
+        "title": "NVIDIA releases Kumo Tabular, a training-free tabular prediction model",
+        "summary": "NVIDIA's new Kumo Tabular foundation model predicts labels on structured tabular data without training or feature engineering, topping four benchmarks.",
+        "details": "NVIDIA released Kumo Tabular, a foundation model built for classification and regression on structured tabular data without requiring training, tuning or manual feature engineering. It uses a transformer architecture with specialized column, row and in-context attention, and ships in three sizes from 28M to 215M parameters, pretrained exclusively on synthetic tables generated from structural causal models.\n\nThe model ranks first across four major benchmarks: TabArena, BeyondArena, TALENT and ScoringBench, while running faster than competing models. Code is available on GitHub and weights on Hugging Face under the OpenMDW-1.1 license, which permits commercial use."
+      }
+    },
+    {
+      "id": "multiverse-computing-provenanceguard-mcp-agents",
+      "date": "2026-09-29",
+      "type": "product",
+      "importance": 1,
+      "sourceType": "official",
+      "sourceName": "Hugging Face Blog (Multiverse Computing)",
+      "url": "https://huggingface.co/blog/MultiverseComputingCAI/getting-the-source-right-not-just-the-fact-source",
+      "originalTitle": "Getting the Source Right, Not Just the Fact: Source-Aware Verification for MCP Agents",
+      "company": "Multiverse Computing",
+      "ar": {
+        "title": "Multiverse Computing تكشف ProvenanceGuard للتحقق من مصادر وكلاء MCP",
+        "summary": "أداة ProvenanceGuard من Multiverse Computing تتحقق من أن إجابات وكلاء MCP مستندة فعليًا إلى المصدر الصحيح، لا مجرد حقيقة صحيحة من مصدر آخر.",
+        "details": "قدّمت شركة Multiverse Computing أداة ProvenanceGuard، وهي طبقة تحقق تعمل بعد توليد إجابة وكيل ذكاء اصطناعي يستخدم بروتوكول سياق النموذج (MCP). تستهدف الأداة خللًا محددًا أسمته الشركة \"الخلط بين المصادر\"، وهو أن يكون الادّعاء صحيحًا فعلًا لكنه منسوب لمصدر خاطئ، وهو خطأ تفوته أدوات التحقق التقليدية التي تجمع كل الأدلة معًا دون تمييز مصدرها.\n\nتعمل الأداة بتقسيم الإجابة إلى ادّعاءات محددة، ثم تحديد المصدر الأنسب لكل ادّعاء، والتحقق من أن ذلك المصدر يدعمه فعلًا مقارنة بالمصدر الذي ذكره الوكيل. وفي اختبارات على بيانات وكيل طبي، رصدت الأداة 138 من أصل 139 ادّعاءً غير مدعوم، بدقة F1 بلغت 0.802، متفوقة على أدوات بديلة مثل MiniCheck وRAGAS."
+      },
+      "en": {
+        "title": "Multiverse Computing unveils ProvenanceGuard to verify MCP agent source attribution",
+        "summary": "ProvenanceGuard checks that an MCP agent's answer is backed by the correct cited source, not just any true fact, catching 138 of 139 unsupported claims in tests.",
+        "details": "Multiverse Computing introduced ProvenanceGuard, a post-generation verification layer for AI agents built on the Model Context Protocol (MCP). It targets a specific failure mode the team calls \"cross-source conflation\": a claim that is true somewhere in the evidence but attributed to the wrong source, an error standard faithfulness checkers miss because they pool all evidence together without tracking which tool output supports which claim.\n\nThe system breaks an agent's answer into individual claims, finds the source most relevant to each, and checks whether that source actually supports the claim versus the one the agent cited. On medical-agent test data, it caught 138 of 139 unsupported claims with an F1 score of 0.802, outperforming source-blind alternatives such as MiniCheck and RAGAS."
+      }
     }
   ],
   "upcoming": [],
