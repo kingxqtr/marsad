@@ -1,6 +1,26 @@
 {
- "updatedAt": "2026-09-29T15:25:15+00:00",
+ "updatedAt": "2026-09-29T15:41:58+00:00",
  "items": [
+  {
+   "id": "auto-ae9cd8379115",
+   "tab": "ai",
+   "date": "2026-09-29",
+   "publishedAt": "2026-09-29T15:30:38+00:00",
+   "type": "product",
+   "importance": 1,
+   "sourceType": "official",
+   "sourceName": "Hugging Face Blog",
+   "url": "https://huggingface.co/blog/nvidia/kumo-tabular",
+   "originalTitle": "NVIDIA Kumo Tabular Sets a New Accuracy-Efficiency Frontier for Tabular Prediction",
+   "en": {
+    "title": "NVIDIA Kumo Tabular Sets a New Accuracy-Efficiency Frontier for Tabular Prediction",
+    "summary": "NVIDIA Kumo Tabular Sets a New Accuracy-Efficiency Frontier for Tabular Prediction",
+    "details": ""
+   },
+   "translated": false,
+   "fetchedAt": "2026-09-29T15:41:53+00:00",
+   "company": "Hugging Face"
+  },
   {
    "id": "auto-3e8c9e10cd87",
    "tab": "ai",
