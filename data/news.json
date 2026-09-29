@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": "2026-09-29T06:09:01+00:00",
+ "updatedAt": "2026-09-29T07:10:21+00:00",
  "coverage": {
   "from": "2026-06-29",
   "to": "2026-09-29"
@@ -8,6 +8,27 @@
  "tabs": {
   "once-human": {
    "news": [
+    {
+     "id": "oh-meta-hotline-vol-10",
+     "date": "2026-09-29",
+     "type": "community",
+     "importance": 1,
+     "sourceType": "official",
+     "sourceName": "Once Human — Steam News",
+     "url": "https://store.steampowered.com/news/app/2139460/view/1844751498233306",
+     "originalTitle": "Meta Hotline | Hot Feedback and Optimization Progress Vol. 10",
+     "ar": {
+      "title": "Once Human: Meta Hotline العاشر يقر ميزات جديدة ويؤجل أداة التدوير لأكتوبر",
+      "summary": "في النشرة العاشرة لـMeta Hotline، أعلن فريق Once Human قبول إطلاق النار من على المركبات واهتزاز يد التحكم، مع وصول أداة التدوير من الحقيبة في أكتوبر، بينما لا يزال قفل ضمان المود وسقف Starchrom الأسبوعي قيد الدراسة.",
+      "details": "نشر فريق تطوير Once Human النشرة العاشرة من Meta Hotline، وهي سلسلة دورية تستعرض ردود الفريق على أكثر مقترحات لوحة التغذية الراجعة تصويتًا حتى 28 سبتمبر.\n\nقَبِل الفريق ميزتين ووضعهما ضمن خطة التطوير الجارية: السماح بإطلاق النار أثناء ركوب المركبات ذات العجلتين لتحسين التنسيق القتالي أثناء التنقل الجماعي، وإضافة اهتزاز ليد التحكم يغطي تدريجيًا مشاهد الأسلحة والقتال بالأيدي وقيادة المركبات.\n\n- أداة إعادة التدوير من الحقيبة: مقبولة، ومن المتوقع وصولها خلال أكتوبر مع تحديث إصدار لاحق.\n- قفل ضمان المود: لن يُضاف كخيار تفعيل/تعطيل في الواجهة؛ اختار الفريق بدلاً منه معالجة تعقيد نظام القيم العددية نفسه ضمن إعادة توازن أوسع.\n- سقف Starchrom الأسبوعي: لا يزال قيد التقييم ضمن مراجعة وتيرة النمو العامة للعبة."
+     },
+     "en": {
+      "title": "Once Human's 10th Meta Hotline addresses top community feedback requests",
+      "summary": "In its 10th Meta Hotline, Once Human's team accepted firing from vehicles and controller vibration, set an October target for backpack recycling, while a Mod Guarantee lock and higher Starchrom caps remain under review.",
+      "details": "Once Human's development team published the 10th Meta Hotline, a recurring series responding to the community's most-voted requests on the in-game Feedback Platform as of September 28.\n\nTwo features were accepted and moved into active development: letting passengers fire weapons while riding two-wheeled vehicles, to improve combat coordination during group travel, and adding controller vibration feedback that will gradually cover weapons, melee combat and vehicle handling.\n\n- Recycling tool from the backpack: accepted, expected to go live in October with a future version update.\n- Mod Guarantee lock: won't be added as a simple interface toggle; the team is instead reworking the underlying numerical progression system as part of a broader rebalance.\n- Weekly Starchrom cap: still under evaluation as part of a wider review of the game's stat growth pacing."
+     },
+     "addedAt": "2026-09-29T07:10:21+00:00"
+    },
     {
      "id": "oh-version-3-0-7-autumn-update",
      "date": "2026-09-28",
