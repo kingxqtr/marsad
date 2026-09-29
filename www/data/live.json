@@ -1,25 +1,6 @@
 {
- "updatedAt": "2026-09-29T07:09:58+00:00",
+ "updatedAt": "2026-09-29T07:28:26+00:00",
  "items": [
-  {
-   "id": "auto-1da07976e762",
-   "tab": "once-human",
-   "date": "2026-09-29",
-   "publishedAt": "2026-09-29T06:45:40+00:00",
-   "type": "update",
-   "importance": 1,
-   "sourceType": "official",
-   "sourceName": "Once Human — Steam News",
-   "url": "https://store.steampowered.com/news/app/2139460/view/1844751498233306",
-   "originalTitle": "Meta Hotline | Hot Feedback and Optimization Progress Vol. 10",
-   "en": {
-    "title": "Meta Hotline | Hot Feedback and Optimization Progress Vol. 10",
-    "summary": "Dear Metas, After the v2.3.7 update, we added the Feedback Hot Charts section to the Once Human Feedback Platform, listing recent popular requests from the community.",
-    "details": "Dear Metas,\n\nAfter the v2.3.7 update, we added the Feedback Hot Charts section to the Once Human Feedback Platform, listing recent popular requests from the community. After logging in to the Feedback Platform, you can like the feedback you support and dislike any feedback you disagree with. The Feedback Hot Charts will display the likes and dislikes of each piece of feedback in real time, and our development team will reference it when deciding on future development priorities. (Feedback Platform link: Once Human Feedback Platform )\n\nWith each version update, the Feedback Hot Charts will also be updated, after which we will announce our optimization plans and progress for issues that charted during the previous cycle. Your suggestions are important to us, and we hope the Feedback Hot Charts will help us communicate and share our development plans and progress more openly.\n\nToday is the release day of the 10th Meta Hotline! As of September 28, the Feedback Hot Charts standings are as follows:\n\nThank you all for taking part. Every piece of feedback, every like, and every dislike helps the dev team better understand which needs matter most from the player perspective. Below are the follow-up details for this cycle's top suggestions.\n\n\\ Allow firing while riding a vehicle …"
-   },
-   "translated": false,
-   "fetchedAt": "2026-09-29T06:55:22+00:00"
-  },
   {
    "id": "auto-6abb41bc91fc",
    "tab": "ai",
