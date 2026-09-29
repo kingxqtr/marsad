@@ -1,9 +1,9 @@
 {
  "version": 1,
- "updatedAt": "2026-09-28T23:10:15+00:00",
+ "updatedAt": "2026-09-29T00:09:49+00:00",
  "coverage": {
-  "from": "2026-06-28",
-  "to": "2026-09-28"
+  "from": "2026-06-29",
+  "to": "2026-09-29"
  },
  "tabs": {
   "once-human": {
@@ -664,30 +664,6 @@
       "details": "The last test of Once Human's Isles of Abyss scenario started on September 16 at 9:00 PM PT and ends on October 8 at 3:00 AM PT: about 22 days, split into a 5-day Phase I and a 17-day Phase II. It is limited to about 4,000 selected North American players on PC and console, runs under an NDA, and all test characters are deleted afterwards.\n\nSelected players join from the current client using the mode switch at the top left of the scenario screen. Test rewards include daily Wish Emblems and the \"Jade Nocturne\" cosmetic for signing in on day 7.\n\nThe Isles of Abyss Final Test Feedback Event runs over the same period:\n- Each valid bug report or suggestion earns 1 point\n- Top 20 players: a Battle Pass Advanced Edition voucher\n- Everyone with valid feedback: three Epic S14 Stardust Secret Crates and 100 Wish Emblems\n- Winners will be announced within 7 business days after the event ends",
       "location": "North America test servers (PC and console)",
       "dateNote": "Ends October 8 at 3:00 AM PT, which is 1:00 PM in Qatar and Saudi Arabia (UTC+3) and 2:00 PM in the UAE (UTC+4)."
-     },
-     "addedAt": "2026-09-27T13:25:38+00:00"
-    },
-    {
-     "id": "oh-upcoming-update-2026-09-28",
-     "date": "2026-09-28",
-     "type": "update",
-     "importance": 1,
-     "sourceType": "official",
-     "sourceName": "Once Human — Steam News",
-     "url": "https://store.steampowered.com/news/app/2139460/view/1844751498230900",
-     "originalTitle": "Version 3.0.7 Update Announcement (September 28)",
-     "dateConfidence": "confirmed",
-     "ar": {
-      "title": "تحديث Once Human 3.0.7: صيانة اليوم وتعديل مظهر مجاني وعودة Lightforge",
-      "summary": "يضيف تحديث Once Human 3.0.7 اليوم تعديل الوجه والجسم والشعر مجانًا، ومجموعات صبغ جديدة، وتربية حيوانات موجهة، ومكافآت الخريف الذهبي، وعودة صندوق Lightforge، مع صيانة تبدأ 4:00 عصرًا بتوقيت المحيط الهادئ.",
-      "details": "تأكد تحديث الإصدار 3.0.7 للعبة Once Human ليوم 28 سبتمبر، مع بدء صيانة السيرفرات الساعة 4:00 عصرًا بتوقيت المحيط الهادئ (2:00 فجر 29 سبتمبر بتوقيت قطر والسعودية، و3:00 فجرًا بتوقيت الإمارات)؛ ولم تُعلن بعد مدة الصيانة.\n\nإضافة إلى تعديل الوجه والجسم وصبغ الشعر مجانًا المعلن سابقًا وعودة قدرة Beastmaster على استدعاء ثلاثة حيوانات معًا، يضيف منشور Steam: مجموعات صبغ مخصصة جديدة، وميزة تربية الحيوانات الموجهة في الأراضي، ومكافآت الخريف الذهبي التراكمية، وعودة صندوق Lightforge الموسمية، إلى جانب إصلاحات أخطاء غير محددة.\n\n- تشمل مكافآت إتمام الصيانة 1000 Starchrom و100 Mitsuko's Mark وصندوق Stardust Secret Crate S14 واحد وصندوق اختيار كلب واحد (Labrador أو Blackback أو Doberman)\n- ينخفض سعر Metamorphosis Token لتغيير الجنس من 880 إلى 300 Crystgin، مع تعويض المشتريات المؤهلة خلال الأشهر الثلاثة الماضية\n- ينتهي مع هذا التحديث عرض خصم 10% على السحب العشري في صندوق Moon That Lingers",
-      "dateNote": "4:00 عصرًا بتوقيت المحيط الهادئ في 28 سبتمبر = 2:00 فجر 29 سبتمبر (UTC+3) و3:00 فجرًا (UTC+4)؛ الإصدار مؤكد رسميًا برقم 3.0.7 عبر Steam."
-     },
-     "en": {
-      "title": "Once Human 3.0.7: today's maintenance, free appearance edits, Lightforge return",
-      "summary": "Once Human's 3.0.7 update, live today, adds free face/body/hair edits, new dye sets, targeted animal breeding, Golden Autumn rewards and the returning Lightforge crate, with maintenance starting 4:00 PM PT.",
-      "details": "Once Human's version 3.0.7 update is confirmed for September 28, with server maintenance starting at 4:00 PM PT (2:00 AM Sept 29 in Qatar/Saudi Arabia, 3:00 AM in the UAE); maintenance length has not been announced.\n\nBeyond the previously announced free face, body and hair-color changes and the return of three simultaneous Beastmaster pet summons, Steam's update post adds: new Custom Dye Sets, a territory Animal Targeted Breeding feature, Golden Autumn cumulative top-up rewards, and the seasonal return of the Lightforge Loot Crate, plus unspecified bug fixes.\n\n- Maintenance-completion rewards include 1,000 Starchrom, 100 Mitsuko's Marks, one Stardust Secret Crate S14 and one Dog Selection Crate (choice of Labrador, Blackback or Doberman)\n- The Metamorphosis Token price for gender changes drops from 880 to 300 Crystgin, with refunds for qualifying purchases from the past three months\n- The 10%-off ten-draw offer on the Moon That Lingers crate ends with this update",
-      "dateNote": "4:00 PM PT on Sept 28 = 2:00 AM Sept 29 (UTC+3) / 3:00 AM (UTC+4); version number 3.0.7 now confirmed via Steam."
      },
      "addedAt": "2026-09-27T13:25:38+00:00"
     },
@@ -3887,34 +3863,6 @@
       "details": "Canva World Tour is back for 2026, running worldwide from September 14 through November 30.\n\n- Format: Canva teams in different countries host local community meetups and live training sessions; an event finder is available at canva.com/events.\n- AI Essentials: a new free certification that anyone can complete at their own pace, covering how to get the most out of Canva AI.\n- Design School: short, mobile-first lessons that teach one skill at a time, some lasting about 90 seconds.\n\nAll of the learning content can also be followed online through Canva Design School at any time during the campaign, so people can take part even without a local event nearby.",
       "location": "Worldwide (local events and online)",
       "dateNote": "Campaign started September 14 and ends November 30, 2026."
-     },
-     "addedAt": "2026-09-27T13:25:38+00:00"
-    },
-    {
-     "id": "github-copilot-unified-experience-sep-28",
-     "date": "2026-09-28",
-     "type": "coding",
-     "importance": 1,
-     "sourceType": "official",
-     "sourceName": "GitHub Changelog",
-     "url": "https://github.blog/changelog/2026-08-28-upcoming-changes-to-github-copilot-policies-and-billing/",
-     "originalTitle": "",
-     "company": "GitHub",
-     "tool": "GitHub Copilot",
-     "dateConfidence": "expected",
-     "ar": {
-      "title": "GitHub تدمج Copilot Chat والوكيل السحابي في تجربة موحدة",
-      "summary": "اعتباراً من 28 سبتمبر على أقرب تقدير، تعيد GitHub إطلاق Copilot Chat على الموقع وتطبيق الهاتف مع الوكيل السحابي كتجربة موحدة، وتصبح مراجعة الشيفرة في Copilot على مستوى Balanced افتراضياً.",
-      "details": "حددت GitHub مجموعة تغييرات في Copilot لنهاية سبتمبر، أعلنتها في 28 أغسطس.\n\n- تجربة موحدة: يُعاد إطلاق Copilot Chat على github.com وفي تطبيق GitHub Mobile مع الوكيل السحابي Copilot cloud agent كتجربة واحدة بسياسات موحدة ومفعّلة افتراضياً.\n- الاحتفاظ بالبيانات: يُحفظ سجل المحادثات في التجربة الموحدة طوال عمر الحساب بدلاً من 28 يوماً، ومن يختار عدم المشاركة يفقد الوصول إلى Copilot على الويب والهاتف بعد الإطلاق.\n- مراجعة الشيفرة: في 28 سبتمبر يتغير مستوى الجهد الافتراضي لمراجعة الشيفرة في Copilot من Lite إلى Balanced، وعلى من يفضّل Lite اختياره قبل ذلك لتحتفظ GitHub به.\n\nوبشكل منفصل، يتعين اعتباراً من 1 أكتوبر على عملاء Copilot Business وEnterprise الحاليين الذين يدفعون ببطاقة ائتمان أو عبر PayPal سداد قيمة كل مقعد مسبقاً قبل تفعيل وصول المستخدمين، دون تغيير في الأسعار.",
-      "location": "عبر الإنترنت (github.com وتطبيق GitHub Mobile)",
-      "dateNote": "تقول GitHub إن التجربة الموحدة لن تُطلق قبل 28 سبتمبر 2026، بينما يتغير الإعداد الافتراضي لمراجعة الشيفرة في 28 سبتمبر."
-     },
-     "en": {
-      "title": "GitHub to merge Copilot Chat and its cloud agent into one experience",
-      "summary": "From no earlier than 28 September, GitHub will relaunch Copilot Chat on github.com and mobile together with the Copilot cloud agent as one unified experience, and Copilot code review will default to the deeper Balanced level.",
-      "details": "GitHub has scheduled several Copilot changes for the end of September, announced on 28 August.\n\n- Unified experience: Copilot Chat on github.com, Copilot Chat in GitHub Mobile and the Copilot cloud agent will relaunch as a single experience with one set of policies, switched on by default.\n- Data retention: chat history in the unified experience is kept for the life of the account instead of 28 days; opting out means losing Copilot on the web and mobile after the launch.\n- Code review: on 28 September the default Copilot code review effort level changes from Lite to Balanced. Users who prefer Lite should select it before then, and GitHub will keep that choice.\n\nSeparately, from 1 October existing Copilot Business and Enterprise customers who pay by credit card or PayPal must pay for each seat upfront before users get access; prices are not changing.",
-      "location": "Online (github.com and GitHub Mobile)",
-      "dateNote": "GitHub says the unified experience launches no earlier than 28 September 2026; the code review default changes on 28 September."
      },
      "addedAt": "2026-09-27T13:25:38+00:00"
     },
