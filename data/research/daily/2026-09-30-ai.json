@@ -1,0 +1,53 @@
+{
+ "topic": "ai",
+ "generatedAt": "2026-09-30",
+ "news": [
+  {
+   "id": "openai-devday-2026-codex-cloud-voice-review",
+   "date": "2026-09-29",
+   "type": "coding",
+   "importance": 2,
+   "sourceType": "official",
+   "sourceName": "OpenAI Developer Community",
+   "url": "https://community.openai.com/t/devday-2026-announcements-and-developer-resources/1402006",
+   "originalTitle": "DevDay 2026 announcements and developer resources",
+   "company": "OpenAI",
+   "ar": {
+    "title": "OpenAI توسّع Codex بمهام سحابية ودعم صوتي ومراجعة تلقائية للأكواد",
+    "summary": "في DevDay 2026 أضافت OpenAI إلى Codex تشغيل مهام سحابية بعد إغلاق الجهاز، واجهة صوتية ثنائية الاتجاه وعرض /agents في الطرفية، مراجعة أكواد تلقائية بملخصات وأسئلة، وخدمة Codex Security Cloud لفحص الثغرات.",
+    "details": "أعلنت OpenAI خلال مؤتمرها السنوي للمطورين DevDay 2026 مجموعة تحديثات لأداة البرمجة الوكيلية Codex.\n\nتتيح ميزة Codex Cloud تشغيل مهام البرمجة على السحابة حتى بعد إغلاق الحاسوب المحمول، مع إمكانية متابعتها من أجهزة مختلفة. كما حصلت أداة سطر الأوامر على واجهة صوتية ثنائية الاتجاه وعرض جديد باسم /agents لتفويض عدة مهام ومتابعتها في آن واحد.\n\n- مراجعة الأكواد: ميزة جديدة تقدّم ملخصات وفروقات وأسئلة حول التغييرات، مع مراجعة سحابية تلقائية أولى تُنشر ملاحظاتها مباشرة على طلبات السحب في GitHub أو GitLab.\n- Codex Security Cloud: خدمة تفحص الثغرات البرمجية وتحقق في النتائج وتزيل التكرار وتُجهّز إصلاحات مقترحة."
+   },
+   "en": {
+    "title": "OpenAI adds cloud tasks, voice control and code review to Codex",
+    "summary": "At DevDay 2026, OpenAI gave Codex cloud task execution that keeps running after the laptop closes, two-way voice with a CLI /agents view, automated PR code review, and a Codex Security Cloud vulnerability scanner.",
+    "details": "OpenAI announced a set of updates to its Codex coding agent at its annual DevDay 2026 developer conference.\n\nCodex Cloud lets tasks keep running after a laptop is closed, with access to progress across devices. The Codex CLI also gained two-way voice steering and a new /agents view for delegating and tracking multiple tasks at once.\n\n- Code Review: a new feature that provides summaries, diffs and questions about changes, with an automatic first-pass cloud review posted directly to GitHub pull requests or GitLab merge requests.\n- Codex Security Cloud: a service that scans for vulnerabilities, investigates findings, removes duplicates and prepares fixes."
+   },
+   "addedAt": "2026-09-29T21:30:00+00:00"
+  },
+  {
+   "id": "openai-devday-2026-agents-api-pro-500",
+   "date": "2026-09-29",
+   "type": "business",
+   "importance": 2,
+   "sourceType": "official",
+   "sourceName": "OpenAI Developer Community",
+   "url": "https://community.openai.com/t/devday-2026-announcements-and-developer-resources/1402006",
+   "originalTitle": "DevDay 2026 announcements and developer resources",
+   "company": "OpenAI",
+   "ar": {
+    "title": "OpenAI تضيف قدرة استخدام الحاسوب لواجهة الوكلاء وتطلق خطة Pro 500",
+    "summary": "أضافت OpenAI في DevDay 2026 قدرة 'استخدام الحاسوب' إلى Agents API، وكشفت عن واجهة Decisions API للتصنيف بمعاينة محدودة، وخطة اشتراك جديدة Pro 500 بحد استخدام 25 ضعف خطة Plus مع الوصول لفئة السرعة Ultrafast.",
+    "details": "أعلنت OpenAI خلال DevDay 2026 عن إضافة قدرة 'استخدام الحاسوب' إلى Agents API التي أطلقتها في نسخة تجريبية عامة في وقت سابق من العام، بحيث يمكن للوكلاء التفاعل مع واجهات البرمجيات مباشرة.\n\nكما كشفت عن Decisions API، واجهة برمجية جديدة في معاينة محدودة تستخدم نموذج Luna لمهام التصنيف والتوجيه، إلى جانب اتفاق مع Amazon Bedrock لتشغيل وكلاء مبنية على نماذج OpenAI داخل بنية AWS التحتية، ومبادرة خصوصية باسم Private Intelligence تشمل معالجة أمان خاصة ومعاينة مرتقبة لاستدلال خاص بالكامل.\n\nعلى صعيد الاشتراكات، طرحت الشركة خطة Pro 500 الجديدة بسعر 500 دولار شهريًا، توفر 25 ضعف حد استخدام خطة Plus مع وصول لفئة السرعة الفائقة Ultrafast التي تقدم توليدًا أسرع بما يصل إلى 8 أضعاف في Codex و6 أضعاف عبر الواجهة البرمجية؛ في المقابل أشارت مناقشات مجتمعية إلى أن حدود خطة Pro القديمة بسعر 200 دولار ستُخفَّض إلى النصف."
+   },
+   "en": {
+    "title": "OpenAI adds computer use to Agents API, launches $500/month Pro 500 plan",
+    "summary": "At DevDay 2026, OpenAI added a computer-use capability to its Agents API, previewed a Decisions API for classification, and launched a $500/month Pro 500 plan with 25x Plus usage and Ultrafast speed access.",
+    "details": "OpenAI announced at DevDay 2026 that its Agents API, which it launched in public beta earlier in the year, now supports a computer-use capability letting agents operate software through its interface directly.\n\nThe company also previewed a Decisions API, a new limited-preview API using its Luna model for classification and routing tasks, alongside a partnership letting Amazon Bedrock run OpenAI-powered agents inside AWS infrastructure, and a privacy initiative called Private Intelligence covering private safety processing with a private-inference preview planned.\n\nOn subscriptions, OpenAI introduced a new Pro 500 plan at $500 a month, offering 25 times the Plus usage allowance plus access to its Ultrafast speed tier, which generates tokens up to 8 times faster in Codex and 6 times faster via the API; community discussion indicated the older $200-a-month Pro plan's usage limits are being cut in half."
+   },
+   "addedAt": "2026-09-29T21:30:00+00:00"
+  }
+ ],
+ "upcoming": [],
+ "removeUpcoming": [],
+ "removeNews": []
+}
