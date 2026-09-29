@@ -64,6 +64,26 @@
         "summary": "Microsoft's new Fabric IQ layer feeds governed Power BI data, metrics and business definitions into Copilot Chat and Cowork, now generally available.",
         "details": "At the Microsoft Fabric + SQL Community Conference in Barcelona, Microsoft announced Fabric IQ, a layer that brings governed business context — Power BI semantic models, metrics, relationships and definitions — into Microsoft Copilot. It is now generally available in Copilot Chat and Cowork, so teams get answers grounded in one shared set of numbers instead of conflicting reports.\n\nMicrosoft also previewed several related Fabric and Azure Database features: IQ Sharing for secure cross-organization data sharing, an Observability toolset with AI-assisted troubleshooting agents, Fabric Apps for building AI applications on governed data, agentic data engineering with human oversight, a Database Hub for managing multiple database types, and general availability of SQL Server on Azure Local for on-premises deployments."
       }
+    },
+    {
+      "id": "ai-chatbots-leak-conversation-data-advertisers-research",
+      "date": "2026-09-29",
+      "type": "policy",
+      "importance": 2,
+      "sourceType": "community",
+      "sourceName": "Hacker News",
+      "url": "https://news.ycombinator.com/item?id=49890226",
+      "originalTitle": "AI companies leak data to advertisers [pdf]",
+      "ar": {
+        "title": "بحث: تطبيقات ذكاء اصطناعي رائدة تسرّب بيانات المحادثات للمعلنين",
+        "summary": "كشفت ورقة بحثية انتشرت على Hacker News أن ChatGPT وClaude وGrok وGemini وPerplexity تشارك عناوين المحادثات ونصوصها وحتى لقطات شاشة مع متعقبي الإعلانات، أحيانًا عبر روابط مشتركة دون أي حماية للوصول.",
+        "details": "توثّق ورقة بحثية أعدّها باحث أمني مستقل، وانتشرت على نطاق واسع في نقاش على Hacker News، كيف ترسل عدة خدمات محادثة بالذكاء الاصطناعي بيانات حساسة مشتقة من المحادثات إلى معلنين ومتعقبين خارجيين، غالبًا دون وعي واضح من المستخدمين.\n\nوتذكر الورقة أن خدمات من بينها ChatGPT وClaude وGrok وGemini وPerplexity شاركت عناوين محادثات ونصوص أوامر وحتى لقطات شاشة إلى جانب معرّفات دائمة للمستخدمين. كما كشفت بعض المنصات روابط دائمة لمحادثات مشتركة دون أي ضوابط وصول، ما يتيح لمتعقبي الإعلانات قراءة المحادثات كاملة.\n\nوأثار نقاش Hacker News مئات التعليقات حول ما إذا كانت هذه التسريبات تعكس استغلالًا متعمدًا للبيانات أم أخطاء هندسية، مع دعوات من كثير من المعلقين للتحول إلى نماذج محلية أو مفتوحة المصدر لتجنب التتبع عبر الخدمات السحابية."
+      },
+      "en": {
+        "title": "Research finds major AI chatbots leak conversation data to advertisers",
+        "summary": "A paper widely discussed on Hacker News found ChatGPT, Claude, Grok, Gemini and Perplexity share conversation titles, prompts and screenshots with ad trackers, sometimes via shared links with no access controls.",
+        "details": "A research paper by an independent security researcher, widely discussed on Hacker News, documents how several major AI chat services send sensitive conversation-derived data to third-party advertisers and trackers, often without clear user awareness.\n\nThe paper reports that services including ChatGPT, Claude, Grok, Gemini and Perplexity have shared conversation titles, prompts and even screenshots alongside persistent user identifiers. Some platforms also exposed shared conversation permalinks with no access controls, letting trackers read full conversations.\n\nThe Hacker News thread drew hundreds of comments debating whether the leaks reflect deliberate data monetization or careless engineering, with many commenters urging a move to local or open-source models to avoid cloud-based tracking."
+      }
     }
   ],
   "upcoming": [],
