@@ -1,4 +1,25 @@
 {
- "updatedAt": "2026-09-29T17:24:08+00:00",
- "items": []
+ "updatedAt": "2026-09-29T17:41:07+00:00",
+ "items": [
+  {
+   "id": "auto-0432a190e3cb",
+   "tab": "ai",
+   "date": "2026-09-29",
+   "publishedAt": "2026-09-29T17:02:27+00:00",
+   "type": "coding",
+   "importance": 1,
+   "sourceType": "official",
+   "sourceName": "GitHub Changelog",
+   "url": "https://github.blog/changelog/2026-09-29-gpt-6-1-sol-in-github-copilot",
+   "originalTitle": "GPT-6.1 Sol in GitHub Copilot",
+   "en": {
+    "title": "GPT-6.1 Sol in GitHub Copilot",
+    "summary": "GPT-6.1 Sol, the latest model from OpenAI, is now generally available and rolling out in GitHub Copilot. You can use it for agentic coding and terminal workflows with strong multistep coding performance and efficient token use.",
+    "details": "GPT-6.1 Sol, the latest model from OpenAI, is now generally available and rolling out in GitHub Copilot. You can use it for agentic coding and terminal workflows with strong multistep coding performance and efficient token use. In early testing, it reliably completed tasks while using noticeably fewer tokens and steps than earlier models in the GPT-6 and GPT-5.6 families.\n\nThis model is billed at provider list pricing under usage-based billing. See Models and pricing for GitHub Copilot for details.\n\nAvailability in GitHub Copilot\n\nGPT-6.1 Sol is available to Copilot Pro+, Max, Business, and Enterprise users. You can select it in the model picker in:\n\n- Visual Studio Code\n\n- Visual Studio\n\n- Copilot CLI\n\n- GitHub Copilot coding agent\n\n- GitHub Copilot app\n\n- github.com\n\n- GitHub Mobile on iOS and Android\n\n- JetBrains IDEs\n\n- Xcode\n\n- Eclipse\n\nRollout will be gradual. Check back soon if you don’t see it yet.\n\nEnabling access\n\nCopilot Business and Enterprise administrators can manage access to GPT-6.1 Sol through the model policy in Copilot settings. Under default model enablement, new models are automatically enabled unless an administrator has turned off the global default or explicitly disables this model.\n\nLearn more\n\nLearn more about the models available in GitHub Copilot .\n\nShare your feedback\n\nShare your feedback in GitHub Community .\n\nThe post GPT-6.1 Sol in GitHub Copilot appeared first on The GitHub Blog ."
+   },
+   "translated": false,
+   "fetchedAt": "2026-09-29T17:41:02+00:00",
+   "company": "GitHub"
+  }
+ ]
 }
