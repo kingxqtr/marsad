@@ -127,6 +127,70 @@
         "details": "Multiverse Computing introduced ProvenanceGuard, a post-generation verification layer for AI agents built on the Model Context Protocol (MCP). It targets a specific failure mode the team calls \"cross-source conflation\": a claim that is true somewhere in the evidence but attributed to the wrong source, an error standard faithfulness checkers miss because they pool all evidence together without tracking which tool output supports which claim.\n\nThe system breaks an agent's answer into individual claims, finds the source most relevant to each, and checks whether that source actually supports the claim versus the one the agent cited. On medical-agent test data, it caught 138 of 139 unsupported claims with an F1 score of 0.802, outperforming source-blind alternatives such as MiniCheck and RAGAS."
       }
     }
+    ,
+    {
+      "id": "openai-gpt-6-1-sol-launch",
+      "date": "2026-09-29",
+      "type": "model",
+      "importance": 2,
+      "sourceType": "official",
+      "sourceName": "OpenAI News",
+      "url": "https://openai.com/index/introducing-gpt-6-1-sol",
+      "originalTitle": "Introducing GPT-6.1 Sol",
+      "company": "OpenAI",
+      "ar": {
+        "title": "OpenAI تطلق GPT-6.1 Sol بأداء قريب من Astra وخُمس سعره",
+        "summary": "في مؤتمر DevDay 2026، طرحت OpenAI نموذج GPT-6.1 Sol، الذي تصفه بأداء قريب من GPT-6 Astra في البرمجة واستخدام الحاسوب والعمل المهني، بخُمس سعر واجهة Astra البرمجية القياسية.",
+        "details": "أعلنت OpenAI عن GPT-6.1 Sol، تحديث جديد لفئة Sol التي طرحتها قبل أسبوع تقريبًا ضمن سلسلة GPT-6. تقول الشركة إن النموذج يقارب أداء نموذجها الرائد GPT-6 Astra في مهام البرمجة واستخدام الحاسوب والعمل المهني، لكن بسعر لا يتجاوز خُمس سعر واجهة Astra البرمجية القياسية للمدخلات والمخرجات.\n\nجاء الإعلان في اليوم نفسه الذي استضافت فيه OpenAI مؤتمر مطوّريها السنوي DevDay 2026، إلى جانب سلسلة إعلانات أخرى شملت مساعدها الاستباقي الجديد dots."
+      },
+      "en": {
+        "title": "OpenAI launches GPT-6.1 Sol with near-Astra performance at a fifth the price",
+        "summary": "At DevDay 2026, OpenAI introduced GPT-6.1 Sol, which it says delivers near-Astra intelligence for coding, computer use and professional work at one-fifth of Astra's standard API token prices.",
+        "details": "OpenAI introduced GPT-6.1 Sol, an update to the Sol tier it launched about a week earlier as part of the GPT-6 family. The company says the model approaches its flagship GPT-6 Astra on coding, computer use and professional work, while costing no more than one-fifth of Astra's standard API input and output token prices.\n\nThe announcement came the same day OpenAI hosted its annual DevDay 2026 developer conference, alongside other announcements including its new proactive assistant, dots."
+      }
+    },
+    {
+      "id": "github-copilot-gpt-6-1-sol-ga",
+      "date": "2026-09-29",
+      "type": "coding",
+      "importance": 2,
+      "sourceType": "official",
+      "sourceName": "GitHub Changelog",
+      "url": "https://github.blog/changelog/2026-09-29-gpt-6-1-sol-in-github-copilot",
+      "originalTitle": "GPT-6.1 Sol in GitHub Copilot",
+      "company": "GitHub",
+      "ar": {
+        "title": "GPT-6.1 Sol يصل إلى GitHub Copilot للمهام البرمجية الوكيلية",
+        "summary": "أتاحت GitHub نموذج GPT-6.1 Sol الجديد من OpenAI في Copilot لمشتركي Pro+ وMax والأعمال والمؤسسات، لمهام البرمجة الوكيلية وسير عمل الطرفية.",
+        "details": "أعلنت GitHub إتاحة نموذج GPT-6.1 Sol، أحدث نماذج OpenAI الذي أُعلن عنه في اليوم نفسه، ضمن GitHub Copilot بشكل عام. يمكن استخدامه في مهام البرمجة الوكيلية وسير عمل الطرفية، وتقول GitHub إنه أتم المهام في اختباراتها الأولية باستخدام عدد أقل بشكل ملحوظ من الرموز والخطوات مقارنة بنماذج سابقة من فئتي GPT-6 وGPT-5.6.\n\nالنموذج متاح لمشتركي Copilot Pro+ وMax والأعمال والمؤسسات عبر منتقي النماذج في VS Code وVisual Studio وCopilot CLI ووكيل GitHub Copilot البرمجي وتطبيق Copilot وgithub.com وGitHub Mobile وبيئات JetBrains وXcode وEclipse، ويُطرح تدريجيًا. تُحتسب تكلفته وفق أسعار مزوّد النموذج القياسية ضمن الفوترة حسب الاستخدام."
+      },
+      "en": {
+        "title": "GPT-6.1 Sol rolls out in GitHub Copilot for agentic coding",
+        "summary": "GitHub made OpenAI's new GPT-6.1 Sol model generally available in Copilot for Pro+, Max, Business and Enterprise users, for agentic coding and terminal workflows.",
+        "details": "GitHub announced that GPT-6.1 Sol, the OpenAI model unveiled the same day, is now generally available in GitHub Copilot. It targets agentic coding and terminal workflows, with GitHub saying early testing showed it reliably completing tasks using noticeably fewer tokens and steps than earlier models in the GPT-6 and GPT-5.6 families.\n\nThe model is available to Copilot Pro+, Max, Business and Enterprise users through the model picker in VS Code, Visual Studio, Copilot CLI, the GitHub Copilot coding agent, the Copilot app, github.com, GitHub Mobile, JetBrains IDEs, Xcode and Eclipse, with a gradual rollout. It is billed at provider list pricing under usage-based billing."
+      }
+    },
+    {
+      "id": "openai-introducing-dots",
+      "date": "2026-09-29",
+      "type": "product",
+      "importance": 3,
+      "sourceType": "official",
+      "sourceName": "OpenAI News",
+      "url": "https://openai.com/index/introducing-dots",
+      "originalTitle": "Introducing dots",
+      "company": "OpenAI",
+      "ar": {
+        "title": "OpenAI تطلق dots، مساعدًا استباقيًا يواصل العمل على المشاريع المعقدة",
+        "summary": "كشفت OpenAI في DevDay 2026 عن dots، مساعد ذكاء اصطناعي استباقي يواصل العمل على المشاريع المعقدة والمهام اليومية بينما يبقى المستخدم في موقع التحكم.",
+        "details": "أعلنت OpenAI عن dots، منتج جديد تصفه بأنه مساعد استباقي يواصل العمل على المشاريع المعقدة والمهام اليومية من تلقاء نفسه، بدل الاكتفاء بالرد على الطلبات المباشرة فقط. تؤكد الشركة أن التصميم يبقي المستخدم في موقع التحكم بينما يتقدّم العمل في الخلفية.\n\nجاء الكشف عن dots ضمن سلسلة إعلانات مؤتمر DevDay 2026 لمطوّري OpenAI، إلى جانب طرح نموذج GPT-6.1 Sol في اليوم نفسه."
+      },
+      "en": {
+        "title": "OpenAI unveils dots, a proactive assistant for ongoing projects",
+        "summary": "At DevDay 2026, OpenAI revealed dots, a proactive AI assistant that keeps working across complex projects and everyday tasks while keeping the user in control.",
+        "details": "OpenAI announced dots, a new product it describes as a proactive assistant that keeps working across complex projects and everyday tasks on its own, rather than only responding to direct requests. The company says the design keeps users in control while work continues to move forward in the background.\n\nThe dots reveal was part of OpenAI's DevDay 2026 developer conference announcements, alongside the same-day launch of the GPT-6.1 Sol model."
+      }
+    }
   ],
   "upcoming": [],
   "removeUpcoming": [],
