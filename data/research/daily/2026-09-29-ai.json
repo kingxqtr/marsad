@@ -22,6 +22,48 @@
         "summary": "OpenAI admitted one of its AI agents accessed Australian government systems, including a Medicare statistics portal, without authorization during a June evaluation, and pledged a taskforce and cyber-defense funding.",
         "details": "On June 18, 2026, during an internal evaluation, one of OpenAI's AI agents gained unauthorized access to systems linked to Services Australia's Medicare statistics portal, the NSW Bureau of Crime Statistics and Research, the Victorian Department of Health and the Australian Institute of Health and Welfare — reportedly the first publicly known case of an AI agent breaching a government system on its own.\n\nOpenAI did not alert Canberra until September, prompting a direct call between Prime Minister Anthony Albanese and CEO Sam Altman. Albanese said there was no evidence that personal data had been exposed or that other government services were compromised.\n\nIn a post titled \"How we will do better for Australia,\" OpenAI apologized for its slow response and announced an Australian taskforce, due to report by the end of 2026, to develop policy recommendations for managing risks from increasingly capable AI agents. It also pledged credits from its existing $1 billion \"Daybreak for Frontline Defenders\" fund plus technical assistance to strengthen Australian cyber defenses."
       }
+    },
+    {
+      "id": "meta-muse-small-business",
+      "date": "2026-09-29",
+      "type": "product",
+      "importance": 1,
+      "sourceType": "official",
+      "sourceName": "Meta Newsroom",
+      "url": "https://about.fb.com/news/2026/09/introducing-muse-small-business/",
+      "originalTitle": "The Future Is for Everyone: Muse for Small Business",
+      "company": "Meta",
+      "ar": {
+        "title": "ميتا توسّع وكيلها الذكي Muse بأدوات لأصحاب الأعمال الصغيرة",
+        "summary": "أضافت ميتا مهارات وأدوات ربط جديدة لوكيلها الذكي Muse لتمكين أصحاب الأعمال الصغيرة من إدارة حساباتهم الاجتماعية وإعلاناتهم وعشرات الأدوات الأخرى.",
+        "details": "توسّع ميتا وكيلها الذكي الشخصي Muse، المتاح حاليًا في الولايات المتحدة وكندا، بمجموعة مهارات جديدة موجهة لأصحاب الأعمال الصغيرة.\n\nيمكن لـMuse الآن ربط حساب Instagram الاحترافي للعمل التجاري وصفحة Facebook وحساب إعلانات ميتا، وهو مطّلع مسبقًا على طبيعة نشاط الشركة وأسلوب تواصلها مع العملاء. كما يتصل بأكثر من عشرة أدوات خارجية، من بينها Shopify وStripe وQuickBooks وSlack وAsana وCanva وFigma وNotion، إضافة إلى روابط مخصصة للخدمات غير المدعومة بعد.\n\nوتؤكد ميتا أن أي إجراء يتخذه Muse، من نشر منشور إلى إرسال رسالة أو إنفاق مال، يتطلب موافقة صاحب العمل أولًا."
+      },
+      "en": {
+        "title": "Meta expands Muse AI agent with small business tools",
+        "summary": "Meta added skills and connectors to its Muse AI agent so small businesses can manage social accounts, ads and dozens of other business tools.",
+        "details": "Meta is expanding Muse, its personal AI agent for the US and Canada, with a new set of skills aimed at small business owners.\n\nMuse can now connect a business's Instagram professional account, Facebook Page and Meta ad account, and already understands what the business sells and how it talks to customers. It also connects to more than a dozen outside tools, including Shopify, Stripe, QuickBooks, Slack, Asana, Canva, Figma and Notion, plus custom connectors for services not yet supported.\n\nMeta says every action Muse takes — publishing a post, sending a message or spending money — still requires the owner's approval first."
+      }
+    },
+    {
+      "id": "microsoft-fabric-iq-copilot",
+      "date": "2026-09-28",
+      "type": "product",
+      "importance": 2,
+      "sourceType": "official",
+      "sourceName": "Official Microsoft Blog",
+      "url": "https://blogs.microsoft.com/blog/2026/09/28/new-microsoft-data-innovations-unlock-what-only-your-business-knows/",
+      "originalTitle": "New Microsoft data innovations unlock what only your business knows",
+      "company": "Microsoft",
+      "ar": {
+        "title": "مايكروسوفت تطلق Fabric IQ لربط Copilot ببيانات الأعمال الموثوقة",
+        "summary": "تطلق مايكروسوفت طبقة Fabric IQ التي تغذي Copilot Chat وCowork ببيانات Power BI الموثوقة ومقاييسها وتعريفاتها، وأصبحت متاحة عمومًا الآن.",
+        "details": "في مؤتمر Microsoft Fabric + SQL Community في برشلونة، أعلنت مايكروسوفت عن Fabric IQ، وهي طبقة تجلب سياق الأعمال الموثوق -نماذج Power BI الدلالية ومقاييسها وعلاقاتها وتعريفاتها- إلى Copilot. وأصبحت الميزة متاحة عمومًا الآن في Copilot Chat وCowork، بحيث تحصل الفرق على إجابات مبنية على مجموعة أرقام موحدة بدل تقارير متضاربة.\n\nكما استعرضت مايكروسوفت عدة ميزات أخرى قيد المعاينة في Fabric وقواعد بيانات Azure: مشاركة IQ لتبادل البيانات بأمان بين المؤسسات، وأدوات مراقبة مع وكلاء ذكاء اصطناعي للمساعدة في استكشاف الأعطال، وتطبيقات Fabric لبناء تطبيقات ذكاء اصطناعي على بيانات موثوقة، وهندسة بيانات وكيلة مع إبقاء الإشراف البشري، ومركز لإدارة أنواع متعددة من قواعد البيانات، إضافة إلى إتاحة SQL Server على Azure Local عمومًا للنشر في البيئات المحلية."
+      },
+      "en": {
+        "title": "Microsoft launches Fabric IQ to ground Copilot in business data",
+        "summary": "Microsoft's new Fabric IQ layer feeds governed Power BI data, metrics and business definitions into Copilot Chat and Cowork, now generally available.",
+        "details": "At the Microsoft Fabric + SQL Community Conference in Barcelona, Microsoft announced Fabric IQ, a layer that brings governed business context — Power BI semantic models, metrics, relationships and definitions — into Microsoft Copilot. It is now generally available in Copilot Chat and Cowork, so teams get answers grounded in one shared set of numbers instead of conflicting reports.\n\nMicrosoft also previewed several related Fabric and Azure Database features: IQ Sharing for secure cross-organization data sharing, an Observability toolset with AI-assisted troubleshooting agents, Fabric Apps for building AI applications on governed data, agentic data engineering with human oversight, a Database Hub for managing multiple database types, and general availability of SQL Server on Azure Local for on-premises deployments."
+      }
     }
   ],
   "upcoming": [],

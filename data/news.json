@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": "2026-09-29T09:09:11+00:00",
+ "updatedAt": "2026-09-29T10:11:26+00:00",
  "coverage": {
   "from": "2026-06-29",
   "to": "2026-09-29"
@@ -28,6 +28,27 @@
       "details": "Once Human's development team published the 10th Meta Hotline, a recurring series responding to the community's most-voted requests on the in-game Feedback Platform as of September 28.\n\nTwo features were accepted and moved into active development: letting passengers fire weapons while riding two-wheeled vehicles, to improve combat coordination during group travel, and adding controller vibration feedback that will gradually cover weapons, melee combat and vehicle handling.\n\n- Recycling tool from the backpack: accepted, expected to go live in October with a future version update.\n- Mod Guarantee lock: won't be added as a simple interface toggle; the team is instead reworking the underlying numerical progression system as part of a broader rebalance.\n- Weekly Starchrom cap: still under evaluation as part of a wider review of the game's stat growth pacing."
      },
      "addedAt": "2026-09-29T07:10:21+00:00"
+    },
+    {
+     "id": "oh-3-0-7-bugfixes-sept29",
+     "date": "2026-09-29",
+     "type": "update",
+     "importance": 1,
+     "sourceType": "official",
+     "sourceName": "Once Human — Steam News",
+     "url": "https://store.steampowered.com/news/app/2139460/view/1844751498233645",
+     "originalTitle": "3.0.7 Bug Fixes (September 29)",
+     "ar": {
+      "title": "تحديث 29 سبتمبر يضيف إدارة جماعية للاعبين ويصلح أعطال تجميلية",
+      "summary": "يضيف تحديث 29 سبتمبر ميزة إدارة جماعية للاعبين لمضيفي الخوادم المخصصة، ويصلح خللين تجميليين في مجموعتي Abyssal Touch وLightforge Loot Crates.",
+      "details": "يضيف تحديث 29 سبتمبر ميزة إدارة جماعية جديدة لمضيفي الخوادم المخصصة، تتيح لهم حذف أو إزالة عدة لاعبين دفعة واحدة من صفحة إدارة اللاعبين.\n\nكما تجري إصلاح خللين تجميليين، من المتوقع اكتمالهما بحلول الساعة 4:30 صباحًا بتوقيت المحيط الهادئ (قد يختلف الوقت الفعلي):\n\n- صناديق Lightforge Loot Crates: عرض غير صحيح للتوهج في مجموعات Stellar Elite: Mistflow وHeartbound Vow: Thaumiel وجلد مادة Windspeak Realm.\n- مجموعة Abyssal Touch: استمرار مؤثرات المجسات البصرية بعد إخفائها في الشكل المتحول؛ يمكن للاعبين تجاوز الخلل بخلع القطعة العلوية وإعادة ارتدائها أو تسجيل الدخول من جديد."
+     },
+     "en": {
+      "title": "Once Human adds server host batch tools, fixes cosmetic bugs",
+      "summary": "A September 29 patch gives custom server hosts batch player management and fixes glitches in the Abyssal Touch and Lightforge Loot Crate cosmetics.",
+      "details": "The September 29 update adds a batch management feature for custom server hosts, letting them delete or remove multiple players at once from the Player Management page.\n\nTwo cosmetic bugs are also being fixed, expected to be resolved by 04:30 PT (completion time may vary):\n\n- Lightforge Loot Crates: incorrect radiance display for the Stellar Elite: Mistflow, Heartbound Vow: Thaumiel and Windspeak Realm material skins.\n- Abyssal Touch Set: tentacle visual effects kept showing after hiding tentacles in transformed form; players can work around it by re-equipping the top or logging back in."
+     },
+     "addedAt": "2026-09-29T10:11:26+00:00"
     },
     {
      "id": "oh-version-3-0-7-autumn-update",
@@ -1759,6 +1780,28 @@
      "addedAt": "2026-09-29T02:09:56+00:00"
     },
     {
+     "id": "meta-muse-small-business",
+     "date": "2026-09-29",
+     "type": "product",
+     "importance": 1,
+     "sourceType": "official",
+     "sourceName": "Meta Newsroom",
+     "url": "https://about.fb.com/news/2026/09/introducing-muse-small-business/",
+     "originalTitle": "The Future Is for Everyone: Muse for Small Business",
+     "company": "Meta",
+     "ar": {
+      "title": "ميتا توسّع وكيلها الذكي Muse بأدوات لأصحاب الأعمال الصغيرة",
+      "summary": "أضافت ميتا مهارات وأدوات ربط جديدة لوكيلها الذكي Muse لتمكين أصحاب الأعمال الصغيرة من إدارة حساباتهم الاجتماعية وإعلاناتهم وعشرات الأدوات الأخرى.",
+      "details": "توسّع ميتا وكيلها الذكي الشخصي Muse، المتاح حاليًا في الولايات المتحدة وكندا، بمجموعة مهارات جديدة موجهة لأصحاب الأعمال الصغيرة.\n\nيمكن لـMuse الآن ربط حساب Instagram الاحترافي للعمل التجاري وصفحة Facebook وحساب إعلانات ميتا، وهو مطّلع مسبقًا على طبيعة نشاط الشركة وأسلوب تواصلها مع العملاء. كما يتصل بأكثر من عشرة أدوات خارجية، من بينها Shopify وStripe وQuickBooks وSlack وAsana وCanva وFigma وNotion، إضافة إلى روابط مخصصة للخدمات غير المدعومة بعد.\n\nوتؤكد ميتا أن أي إجراء يتخذه Muse، من نشر منشور إلى إرسال رسالة أو إنفاق مال، يتطلب موافقة صاحب العمل أولًا."
+     },
+     "en": {
+      "title": "Meta expands Muse AI agent with small business tools",
+      "summary": "Meta added skills and connectors to its Muse AI agent so small businesses can manage social accounts, ads and dozens of other business tools.",
+      "details": "Meta is expanding Muse, its personal AI agent for the US and Canada, with a new set of skills aimed at small business owners.\n\nMuse can now connect a business's Instagram professional account, Facebook Page and Meta ad account, and already understands what the business sells and how it talks to customers. It also connects to more than a dozen outside tools, including Shopify, Stripe, QuickBooks, Slack, Asana, Canva, Figma and Notion, plus custom connectors for services not yet supported.\n\nMeta says every action Muse takes — publishing a post, sending a message or spending money — still requires the owner's approval first."
+     },
+     "addedAt": "2026-09-29T10:11:26+00:00"
+    },
+    {
      "id": "nvidia-openshell-open-agent-safety-platform",
      "date": "2026-09-28",
      "type": "product",
@@ -1825,6 +1868,28 @@
       "details": "On September 28, Meta CEO Mark Zuckerberg announced a new business pillar called Meta Enterprise Platform, aimed at helping businesses use AI to grow and transform by drawing on Meta's advanced models, agents, large-scale infrastructure and experience working with businesses.\n\nThe platform will initially bring together the Muse agent, Meta Business Agent, the Muse API and Muse Code, along with other tools for businesses and developers.\n\nTo lead the effort, Meta named Chirantan \"CJ\" Desai as Chief Enterprise Platform Officer, reporting directly to Zuckerberg. Desai joins from MongoDB, where he was CEO and President; he previously led product and engineering at Cloudflare and spent nearly eight years at ServiceNow, including as President and COO."
      },
      "addedAt": "2026-09-28T13:10:24+00:00"
+    },
+    {
+     "id": "microsoft-fabric-iq-copilot",
+     "date": "2026-09-28",
+     "type": "product",
+     "importance": 2,
+     "sourceType": "official",
+     "sourceName": "Official Microsoft Blog",
+     "url": "https://blogs.microsoft.com/blog/2026/09/28/new-microsoft-data-innovations-unlock-what-only-your-business-knows/",
+     "originalTitle": "New Microsoft data innovations unlock what only your business knows",
+     "company": "Microsoft",
+     "ar": {
+      "title": "مايكروسوفت تطلق Fabric IQ لربط Copilot ببيانات الأعمال الموثوقة",
+      "summary": "تطلق مايكروسوفت طبقة Fabric IQ التي تغذي Copilot Chat وCowork ببيانات Power BI الموثوقة ومقاييسها وتعريفاتها، وأصبحت متاحة عمومًا الآن.",
+      "details": "في مؤتمر Microsoft Fabric + SQL Community في برشلونة، أعلنت مايكروسوفت عن Fabric IQ، وهي طبقة تجلب سياق الأعمال الموثوق -نماذج Power BI الدلالية ومقاييسها وعلاقاتها وتعريفاتها- إلى Copilot. وأصبحت الميزة متاحة عمومًا الآن في Copilot Chat وCowork، بحيث تحصل الفرق على إجابات مبنية على مجموعة أرقام موحدة بدل تقارير متضاربة.\n\nكما استعرضت مايكروسوفت عدة ميزات أخرى قيد المعاينة في Fabric وقواعد بيانات Azure: مشاركة IQ لتبادل البيانات بأمان بين المؤسسات، وأدوات مراقبة مع وكلاء ذكاء اصطناعي للمساعدة في استكشاف الأعطال، وتطبيقات Fabric لبناء تطبيقات ذكاء اصطناعي على بيانات موثوقة، وهندسة بيانات وكيلة مع إبقاء الإشراف البشري، ومركز لإدارة أنواع متعددة من قواعد البيانات، إضافة إلى إتاحة SQL Server على Azure Local عمومًا للنشر في البيئات المحلية."
+     },
+     "en": {
+      "title": "Microsoft launches Fabric IQ to ground Copilot in business data",
+      "summary": "Microsoft's new Fabric IQ layer feeds governed Power BI data, metrics and business definitions into Copilot Chat and Cowork, now generally available.",
+      "details": "At the Microsoft Fabric + SQL Community Conference in Barcelona, Microsoft announced Fabric IQ, a layer that brings governed business context — Power BI semantic models, metrics, relationships and definitions — into Microsoft Copilot. It is now generally available in Copilot Chat and Cowork, so teams get answers grounded in one shared set of numbers instead of conflicting reports.\n\nMicrosoft also previewed several related Fabric and Azure Database features: IQ Sharing for secure cross-organization data sharing, an Observability toolset with AI-assisted troubleshooting agents, Fabric Apps for building AI applications on governed data, agentic data engineering with human oversight, a Database Hub for managing multiple database types, and general availability of SQL Server on Azure Local for on-premises deployments."
+     },
+     "addedAt": "2026-09-28T23:59:59+00:00"
     },
     {
      "id": "github-copilot-claude-sonnet-5-5-ga",

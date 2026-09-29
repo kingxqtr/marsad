@@ -41,6 +41,26 @@
         "summary": "In its 10th Meta Hotline, Once Human's team accepted firing from vehicles and controller vibration, set an October target for backpack recycling, while a Mod Guarantee lock and higher Starchrom caps remain under review.",
         "details": "Once Human's development team published the 10th Meta Hotline, a recurring series responding to the community's most-voted requests on the in-game Feedback Platform as of September 28.\n\nTwo features were accepted and moved into active development: letting passengers fire weapons while riding two-wheeled vehicles, to improve combat coordination during group travel, and adding controller vibration feedback that will gradually cover weapons, melee combat and vehicle handling.\n\n- Recycling tool from the backpack: accepted, expected to go live in October with a future version update.\n- Mod Guarantee lock: won't be added as a simple interface toggle; the team is instead reworking the underlying numerical progression system as part of a broader rebalance.\n- Weekly Starchrom cap: still under evaluation as part of a wider review of the game's stat growth pacing."
       }
+    },
+    {
+      "id": "oh-3-0-7-bugfixes-sept29",
+      "date": "2026-09-29",
+      "type": "update",
+      "importance": 1,
+      "sourceType": "official",
+      "sourceName": "Once Human — Steam News",
+      "url": "https://store.steampowered.com/news/app/2139460/view/1844751498233645",
+      "originalTitle": "3.0.7 Bug Fixes (September 29)",
+      "ar": {
+        "title": "تحديث 29 سبتمبر يضيف إدارة جماعية للاعبين ويصلح أعطال تجميلية",
+        "summary": "يضيف تحديث 29 سبتمبر ميزة إدارة جماعية للاعبين لمضيفي الخوادم المخصصة، ويصلح خللين تجميليين في مجموعتي Abyssal Touch وLightforge Loot Crates.",
+        "details": "يضيف تحديث 29 سبتمبر ميزة إدارة جماعية جديدة لمضيفي الخوادم المخصصة، تتيح لهم حذف أو إزالة عدة لاعبين دفعة واحدة من صفحة إدارة اللاعبين.\n\nكما تجري إصلاح خللين تجميليين، من المتوقع اكتمالهما بحلول الساعة 4:30 صباحًا بتوقيت المحيط الهادئ (قد يختلف الوقت الفعلي):\n\n- صناديق Lightforge Loot Crates: عرض غير صحيح للتوهج في مجموعات Stellar Elite: Mistflow وHeartbound Vow: Thaumiel وجلد مادة Windspeak Realm.\n- مجموعة Abyssal Touch: استمرار مؤثرات المجسات البصرية بعد إخفائها في الشكل المتحول؛ يمكن للاعبين تجاوز الخلل بخلع القطعة العلوية وإعادة ارتدائها أو تسجيل الدخول من جديد."
+      },
+      "en": {
+        "title": "Once Human adds server host batch tools, fixes cosmetic bugs",
+        "summary": "A September 29 patch gives custom server hosts batch player management and fixes glitches in the Abyssal Touch and Lightforge Loot Crate cosmetics.",
+        "details": "The September 29 update adds a batch management feature for custom server hosts, letting them delete or remove multiple players at once from the Player Management page.\n\nTwo cosmetic bugs are also being fixed, expected to be resolved by 04:30 PT (completion time may vary):\n\n- Lightforge Loot Crates: incorrect radiance display for the Stellar Elite: Mistflow, Heartbound Vow: Thaumiel and Windspeak Realm material skins.\n- Abyssal Touch Set: tentacle visual effects kept showing after hiding tentacles in transformed form; players can work around it by re-equipping the top or logging back in."
+      }
     }
   ],
   "upcoming": [
