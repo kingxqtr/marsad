@@ -1,6 +1,63 @@
 {
- "updatedAt": "2026-09-29T20:59:40+00:00",
+ "updatedAt": "2026-09-29T21:17:01+00:00",
  "items": [
+  {
+   "id": "auto-c415a45524df",
+   "tab": "ai",
+   "date": "2026-09-29",
+   "publishedAt": "2026-09-29T09:21:01+00:00",
+   "type": "product",
+   "importance": 1,
+   "sourceType": "community",
+   "sourceName": "r/LocalLLaMA",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wt5f4e/looks_like_the_era_of_subsidised_compute_is/",
+   "originalTitle": "Looks like the era of subsidised compute is coming to an end. The old ChatGPT Pro $200 20x plan will be halved. The new $500 plan will have similar limits as the (old) $200 plan.",
+   "en": {
+    "title": "Looks like the era of subsidised compute is coming to an end. The old ChatGPT Pro $200 20x plan will be halved. The new $500 plan will have similar limits as the (old) $200 plan.",
+    "summary": "Community post on r/LocalLLaMA.",
+    "details": "Community post on r/LocalLLaMA."
+   },
+   "translated": false,
+   "fetchedAt": "2026-09-29T21:17:01+00:00"
+  },
+  {
+   "id": "auto-78b27aed85a0",
+   "tab": "ai",
+   "date": "2026-09-29",
+   "publishedAt": "2026-09-29T17:55:48+00:00",
+   "type": "product",
+   "importance": 1,
+   "sourceType": "community",
+   "sourceName": "r/LocalLLaMA",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wth4iz/anthropic_just_dropped_the_greatest_advertisement/",
+   "originalTitle": "Anthropic just dropped the greatest advertisement for GLM ever.",
+   "en": {
+    "title": "Anthropic just dropped the greatest advertisement for GLM ever.",
+    "summary": "Community post on r/LocalLLaMA. Like.. yea bro, I knew GLM was cool. Now everyone does.",
+    "details": "Community post on r/LocalLLaMA.\n\nLike.. yea bro, I knew GLM was cool. Now everyone does."
+   },
+   "translated": false,
+   "fetchedAt": "2026-09-29T21:17:01+00:00"
+  },
+  {
+   "id": "auto-a377a2083f38",
+   "tab": "ai",
+   "date": "2026-09-29",
+   "publishedAt": "2026-09-29T14:48:03+00:00",
+   "type": "product",
+   "importance": 1,
+   "sourceType": "community",
+   "sourceName": "r/LocalLLaMA",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wtc4j9/amds_new_256_core_epyc_has_16channel_ddr512800_91/",
+   "originalTitle": "AMD's new 256 core EPYC has 16-channel DDR5-12800, 91% memory bandwidth of an RTX 5090",
+   "en": {
+    "title": "AMD's new 256 core EPYC has 16-channel DDR5-12800, 91% memory bandwidth of an RTX 5090",
+    "summary": "Community post on r/LocalLLaMA. Here are some inspirational quotes you can put into the comments: God is dead and we killed him I am become death All this for 1.5 tok/s? Sir this is LocalLLaMA not RichPeopleofLocalLLaMA Sweet! A 2TB …",
+    "details": "Community post on r/LocalLLaMA.\n\nHere are some inspirational quotes you can put into the comments:\n\n- God is dead and we killed him\n\n- I am become death\n\n- All this for 1.5 tok/s?\n\n- Sir this is LocalLLaMA not RichPeopleofLocalLLaMA\n\n- Sweet! A 2TB DDR5-12800 RDIMM kit is going to cost only 2 kidneys and a small micronation's GDP"
+   },
+   "translated": false,
+   "fetchedAt": "2026-09-29T21:17:01+00:00"
+  },
   {
    "id": "auto-efcda33697e7",
    "tab": "ai",
@@ -14,8 +71,8 @@
    "originalTitle": "DraftKings Is Using AI to Behaviorally Target Chronic Gamblers",
    "en": {
     "title": "DraftKings Is Using AI to Behaviorally Target Chronic Gamblers",
-    "summary": "Community discussion on Hacker News (447 points, 308 comments).",
-    "details": "Community discussion on Hacker News (447 points, 308 comments)."
+    "summary": "Community discussion on Hacker News (465 points, 323 comments).",
+    "details": "Community discussion on Hacker News (465 points, 323 comments)."
    },
    "translated": false,
    "fetchedAt": "2026-09-29T18:54:23+00:00"
