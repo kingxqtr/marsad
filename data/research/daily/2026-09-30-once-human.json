@@ -1,0 +1,29 @@
+{
+  "topic": "once-human",
+  "generatedAt": "2026-09-30",
+  "news": [
+    {
+      "id": "oh-3-0-7-bugfixes-sept30",
+      "date": "2026-09-30",
+      "type": "update",
+      "importance": 1,
+      "sourceType": "official",
+      "sourceName": "Once Human — Steam News",
+      "url": "https://store.steampowered.com/news/app/2139460/view/1845383656376853",
+      "originalTitle": "3.0.7 Bug Fixes (September 30)",
+      "ar": {
+        "title": "تحديث Once Human يعالج أخطاء الخوادم المخصصة والمظهر والانفجار",
+        "summary": "أصدرت Once Human في 30 سبتمبر إصلاحات تعالج خطأ عرض في الخوادم المخصصة، وعيبًا في مظهر أحد الأزياء، ومنطق أضرار الانفجار، مع تحذير للاعبي الجوال بإعادة تثبيت التطبيق.",
+        "details": "صدرت مجموعة جديدة من الإصلاحات للعبة Once Human في 30 سبتمبر، لمعالجة مشكلات متبقية من تحديث 3.0.7 \"الخريف الذهبي\".\n\nيصحح التحديث خطأًا في الخوادم المخصصة كان يمنع ظهور عدد اللاعبين ونقاط الحرارة بوضوح، ويعالج عيبًا في مظهر زي \"Aerobic Moment\" النسائي، ويمنع تجاهل أضرار انفجار وحش Balloon Biomechanical لمقاومة أجزاء الهدف في بعض المواجهات.\n\nاللاعبون الذين ثبتوا تطبيق الجوال الجديد الصادر في 17 سبتمبر دون حذف النسخة القديمة أولاً قد يواجهون تأخرًا غير طبيعي في Nalcott، وتنصح الشركة المطورة بحذف التطبيق الحالي وإعادة تثبيت أحدث نسخة من App Store أو الموقع الرسمي.\n\nكما يُتوقع صدور إصلاح إضافي بحلول الساعة 05:00 بتوقيت المحيط الهادئ لمعالجة مشكلة انتقال اللاعبين إلى الطابق الأول من المركبة الترفيهية (RV) بدلاً من الطابق الثاني."
+      },
+      "en": {
+        "title": "Once Human patches custom server, cosmetic and explosion bugs",
+        "summary": "A September 30 hotfix for Once Human fixes a custom server display bug, a cosmetic clipping issue and explosion damage logic, and warns mobile players to reinstall the client.",
+        "details": "A new round of fixes shipped for Once Human on September 30, targeting issues left over from the 3.0.7 Golden Autumn update.\n\nThe patch corrects a custom server bug that failed to clearly show player counts and heat points, fixes a clipping glitch on the \"Aerobic Moment\" female top cosmetic, and stops the Balloon Biomechanical enemy's explosion damage from ignoring target part resistance in certain fights.\n\nPlayers who installed the new mobile client released on September 17 without first deleting the old one may see abnormal lag in Nalcott; the developer recommends removing the current client and reinstalling the latest version from the App Store or official website.\n\nA further fix, expected by 05:00 PT, addresses players being teleported back to the RV's first floor from its second floor."
+      }
+    }
+  ],
+  "upcoming": [],
+  "removeUpcoming": [],
+  "removeNews": []
+}
