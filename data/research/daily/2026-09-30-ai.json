@@ -112,6 +112,28 @@
     "details": "NVIDIA and CoreWeave announced at the CoreWeave Fully Connected conference in San Francisco on September 30 that NVIDIA Vera Rubin NVL72 systems with 102.4T Spectrum-X Ethernet networking are now available on CoreWeave Cloud, alongside CoreWeave Forge, a unified platform for training, evaluating and improving AI models and agents.\n\nNVIDIA says Vera Rubin NVL72 delivers up to a 4.8x increase in total token throughput for SWE-2 inference workloads compared with the prior GB200 NVL72 generation.\n\nThe companies also introduced the NVIDIA Vera CPU, the first processor purpose-built for AI agents, offering 128 CPUs and 11,264 cores per rack to support more than 11,000 concurrent agent environments, with agent sandbox startup times more than 3x faster.\n\nCognition, maker of the Devin AI software engineer, became the first production customer running workloads on Vera Rubin, reporting notable performance gains on real software engineering inference tasks."
    },
    "addedAt": "2026-09-30T15:30:00+00:00"
+  },
+  {
+   "id": "huggingface-open-tts-leaderboard",
+   "date": "2026-09-30",
+   "type": "product",
+   "importance": 1,
+   "sourceType": "official",
+   "sourceName": "Hugging Face Blog",
+   "url": "https://huggingface.co/blog/open-tts-leaderboard",
+   "originalTitle": "Open TTS Leaderboard: Scalable Evaluation for Multilingual Text-to-Speech and Voice Cloning",
+   "company": "Hugging Face",
+   "ar": {
+    "title": "Hugging Face تطلق Open TTS Leaderboard لتقييم نماذج تحويل النص لكلام",
+    "summary": "أطلقت Hugging Face لوحة صدارة Open TTS Leaderboard التي تقيّم أكثر من 8000 نموذج تحويل نص إلى كلام واستنساخ صوت بمقاييس آلية بدل التصويت البشري البطيء.",
+    "details": "كشفت Hugging Face في 30 سبتمبر عن Open TTS Leaderboard، منصة تقييم لنماذج تحويل النص إلى كلام واستنساخ الصوت تعتمد مقاييس آلية موضوعية بدل التصويت البشري، ما يختصر وقت تقييم نموذج من أسابيع إلى ساعات بحسب الشركة.\n\nتقيس اللوحة الأداء عبر ثلاثة محاور: الوضوح عبر معدلات الخطأ في الكلمات والأحرف باستخدام Qwen3 ASR، وسرعة الاستنتاج (RTFx) وزمن أول مقطع صوتي للبث المباشر، إضافة إلى تشابه الصوت عبر تضمينات WavLM.\n\nتغطي اللوحة أكثر من 8000 نموذج من منصة Hugging Face Hub، من بينها Kokoro-82M وSupertonic-3 وS2-Pro، مع دعم تقييم متعدد اللغات يشمل الإنجليزية والصينية واليابانية والكورية وغيرها، وتبويب منفصل للتصويت البشري التفضيلي."
+   },
+   "en": {
+    "title": "Hugging Face launches Open TTS Leaderboard for speech model evaluation",
+    "summary": "Hugging Face released the Open TTS Leaderboard, which evaluates over 8,000 text-to-speech and voice-cloning models using automated metrics instead of slow human voting.",
+    "details": "Hugging Face announced the Open TTS Leaderboard on September 30, an evaluation platform for text-to-speech and voice-cloning models that uses objective automated metrics rather than human voting, cutting model evaluation time from weeks to hours according to the company.\n\nThe leaderboard scores models on three axes: intelligibility via word/character error rates using Qwen3 ASR, inference speed (real-time factor) and time-to-first-audio for streaming, and speaker similarity via WavLM speaker embeddings.\n\nIt covers more than 8,000 models from the Hugging Face Hub, including Kokoro-82M, Supertonic-3 and S2-Pro, with multilingual evaluation support across English, Chinese, Japanese, Korean and other languages, plus a separate community voting tab for human preference feedback."
+   },
+   "addedAt": "2026-09-30T16:15:00+00:00"
   }
  ],
  "upcoming": [
