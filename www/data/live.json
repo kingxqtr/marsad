@@ -1,6 +1,25 @@
 {
- "updatedAt": "2026-09-30T16:50:34+00:00",
+ "updatedAt": "2026-09-30T17:08:14+00:00",
  "items": [
+  {
+   "id": "auto-770d7469776a",
+   "tab": "ai",
+   "date": "2026-09-30",
+   "publishedAt": "2026-09-30T15:50:11+00:00",
+   "type": "product",
+   "importance": 1,
+   "sourceType": "community",
+   "sourceName": "Hacker News",
+   "url": "https://news.ycombinator.com/item?id=49910553",
+   "originalTitle": "The AI Race Just Got Awkward",
+   "en": {
+    "title": "The AI Race Just Got Awkward",
+    "summary": "Community discussion on Hacker News (296 points, 257 comments).",
+    "details": "Community discussion on Hacker News (296 points, 257 comments)."
+   },
+   "translated": false,
+   "fetchedAt": "2026-09-30T17:08:09+00:00"
+  },
   {
    "id": "auto-d31ace575e72",
    "tab": "ai",
