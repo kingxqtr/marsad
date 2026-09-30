@@ -1,6 +1,26 @@
 {
- "updatedAt": "2026-09-30T14:38:56+00:00",
+ "updatedAt": "2026-09-30T14:57:22+00:00",
  "items": [
+  {
+   "id": "auto-3403f8fdc1b4",
+   "tab": "ai",
+   "date": "2026-09-30",
+   "publishedAt": "2026-09-30T00:00:00+00:00",
+   "type": "business",
+   "importance": 1,
+   "sourceType": "official",
+   "sourceName": "Hugging Face Blog",
+   "url": "https://huggingface.co/blog/open-tts-leaderboard",
+   "originalTitle": "Open TTS Leaderboard: Scalable Evaluation for Multilingual Text-to-Speech and Voice Cloning",
+   "en": {
+    "title": "Open TTS Leaderboard: Scalable Evaluation for Multilingual Text-to-Speech and Voice Cloning",
+    "summary": "Open TTS Leaderboard: Scalable Evaluation for Multilingual Text-to-Speech and Voice Cloning",
+    "details": ""
+   },
+   "translated": false,
+   "fetchedAt": "2026-09-30T14:57:17+00:00",
+   "company": "Hugging Face"
+  },
   {
    "id": "auto-0a9433d1e0df",
    "tab": "once-human",
