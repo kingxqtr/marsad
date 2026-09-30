@@ -1,6 +1,26 @@
 {
- "updatedAt": "2026-09-30T17:08:14+00:00",
+ "updatedAt": "2026-09-30T17:25:53+00:00",
  "items": [
+  {
+   "id": "auto-331c7892ecb3",
+   "tab": "ai",
+   "date": "2026-09-30",
+   "publishedAt": "2026-09-30T17:00:21+00:00",
+   "type": "hardware",
+   "importance": 1,
+   "sourceType": "official",
+   "sourceName": "NVIDIA Blog",
+   "url": "https://blogs.nvidia.com/blog/applications-open-graduate-fellowship-awards-2026/",
+   "originalTitle": "NVIDIA Opens Applications for 2027–2028 Graduate Fellowships With Awards Up to $60,000",
+   "en": {
+    "title": "NVIDIA Opens Applications for 2027–2028 Graduate Fellowships With Awards Up to $60,000",
+    "summary": "Bringing together the world’s brightest minds and the latest accelerated computing technology leads to powerful breakthroughs that help tackle some of the biggest research problems.",
+    "details": "Bringing together the world’s brightest minds and the latest accelerated computing technology leads to powerful breakthroughs that help tackle some of the biggest research problems.\n\nTo foster such innovation, the NVIDIA Graduate Fellowship Program provides grants, mentors and technical support to doctoral students doing outstanding research relevant to NVIDIA technologies. The program, in its 26th year, is now accepting applications worldwide.\n\nIt focuses on supporting students working in AI, machine learning, autonomous vehicles, computer graphics, robotics, healthcare, high-performance computing and related fields. Awards are up to $60,000 per student.\n\nSince its start in 2002, the Graduate Fellowship Program has awarded over 220 grants worth around $8 million.\n\nStudents must have completed at least their first year of Ph.D.-level studies at the time of application.\n\nThe application deadline for the 2027-2028 academic year is October 30, 2026. An in-person internship at an NVIDIA research office preceding the fellowship year is mandatory; eligible candidates must be available for the internship in summer 2027.\n\nFor more on eligibility and how to apply, visit the program website .\n\nFeatured image shows last year’s NVIDIA Graduate Fellowship recipients."
+   },
+   "translated": false,
+   "fetchedAt": "2026-09-30T17:25:48+00:00",
+   "company": "NVIDIA"
+  },
   {
    "id": "auto-770d7469776a",
    "tab": "ai",
@@ -14,8 +34,8 @@
    "originalTitle": "The AI Race Just Got Awkward",
    "en": {
     "title": "The AI Race Just Got Awkward",
-    "summary": "Community discussion on Hacker News (296 points, 257 comments).",
-    "details": "Community discussion on Hacker News (296 points, 257 comments)."
+    "summary": "Community discussion on Hacker News (326 points, 299 comments).",
+    "details": "Community discussion on Hacker News (326 points, 299 comments)."
    },
    "translated": false,
    "fetchedAt": "2026-09-30T17:08:09+00:00"
