@@ -1,6 +1,26 @@
 {
- "updatedAt": "2026-09-30T23:09:29+00:00",
+ "updatedAt": "2026-09-30T23:23:57+00:00",
  "items": [
+  {
+   "id": "auto-a90fb87eadfe",
+   "tab": "ai",
+   "date": "2026-09-30",
+   "publishedAt": "2026-09-30T23:15:43+00:00",
+   "type": "product",
+   "importance": 1,
+   "sourceType": "official",
+   "sourceName": "Meta Newsroom",
+   "url": "https://about.fb.com/news/2026/09/meta-names-dhruv-vohra-to-lead-southeast-asia-business/",
+   "originalTitle": "Meta Names Dhruv Vohra to Lead Southeast Asia Business",
+   "en": {
+    "title": "Meta Names Dhruv Vohra to Lead Southeast Asia Business",
+    "summary": "Today we’re announcing that Dhruv Vohra is stepping into the role of Managing Director, Global Business Group, Southeast Asia.",
+    "details": "Today we’re announcing that Dhruv Vohra is stepping into the role of Managing Director, Global Business Group, Southeast Asia.\n\nDhruv will lead Meta’s commercial strategy across Indonesia, Malaysia, the Philippines, Singapore, Thailand and Vietnam, reporting to Benjamin Joe, Vice President for Asia Pacific. He will lead the teams that partner with the region’s advertisers and agencies, helping businesses of every size innovate with AI and accelerate growth through Meta’s family of apps. He will also work to deepen Meta’s partnerships across the region.\n\n“Southeast Asia is one of Meta’s fastest-growing business regions, and the work ahead is helping businesses leverage AI and messaging at the pace their customers already expect,” said Benjamin Joe. “Dhruv has spent seven years close to those businesses, and he has built the teams that support millions of them. He is the right person for this next phase.”\n\nAbout Dhruv:\n\nDhruv brings seven years at Meta and deep experience across e-commerce, digital business, and commercial leadership in Asia Pacific.\n\nHe joined Meta in 2019 as Director for e-commerce and digital natives, working with the platforms that reshaped how the region shops. He went on to lead small and medium business growth in Southeast Asia, before expanding that remit to lead the SMB Group across all of Asia Pacific. He now returns to the region where he started. …"
+   },
+   "translated": false,
+   "fetchedAt": "2026-09-30T23:23:51+00:00",
+   "company": "Meta"
+  },
   {
    "id": "auto-6a3709bfbba7",
    "tab": "ai",
@@ -14,8 +34,8 @@
    "originalTitle": "Gemini 4 Argon",
    "en": {
     "title": "Gemini 4 Argon",
-    "summary": "Community discussion on Hacker News (792 points, 522 comments).",
-    "details": "Community discussion on Hacker News (792 points, 522 comments)."
+    "summary": "Community discussion on Hacker News (810 points, 536 comments).",
+    "details": "Community discussion on Hacker News (810 points, 536 comments)."
    },
    "translated": false,
    "fetchedAt": "2026-09-30T20:31:52+00:00"
@@ -53,8 +73,8 @@
    "originalTitle": "The AI Race Just Got Awkward",
    "en": {
     "title": "The AI Race Just Got Awkward",
-    "summary": "Community discussion on Hacker News (366 points, 403 comments).",
-    "details": "Community discussion on Hacker News (366 points, 403 comments)."
+    "summary": "Community discussion on Hacker News (368 points, 403 comments).",
+    "details": "Community discussion on Hacker News (368 points, 403 comments)."
    },
    "translated": false,
    "fetchedAt": "2026-09-30T17:08:09+00:00"
