@@ -1,4 +1,24 @@
 {
- "updatedAt": "2026-09-30T09:08:41+00:00",
- "items": []
+ "updatedAt": "2026-09-30T09:26:20+00:00",
+ "items": [
+  {
+   "id": "auto-e42722bcb4f6",
+   "tab": "once-human",
+   "date": "2026-09-30",
+   "publishedAt": "2026-09-30T09:16:23+00:00",
+   "type": "update",
+   "importance": 1,
+   "sourceType": "official",
+   "sourceName": "Once Human — Steam News",
+   "url": "https://store.steampowered.com/news/app/2139460/view/1845383656376853",
+   "originalTitle": "3.0.7 Bug Fixes (September 30)",
+   "en": {
+    "title": "3.0.7 Bug Fixes (September 30)",
+    "summary": "September 30 The following issues have been fixed: 1. Fixed an issue in custom servers where the player count and heat points were not displayed clearly. 2. Fixed a clipping issue with the Aerobic Moment female top. 3.",
+    "details": "September 30\n\nThe following issues have been fixed:\n\n1. Fixed an issue in custom servers where the player count and heat points were not displayed clearly.\n\n2. Fixed a clipping issue with the Aerobic Moment female top.\n\n3. Fixed an issue where the explosion damage of the Balloon Biomechanical would ignore enemy part resistance in certain situations.\n\n4. If you did not delete the old client before installing the new mobile client released on September 17, you may experience abnormal lag during gameplay. If this occurs, to ensure a smooth experience in Nalcott, please delete your current client first, then go to the App Store/official website to download and install the latest game client.\n\nThe following issues are expected to be fixed by 05:00 PT. Actual completion time may vary:\n\n1. Fixed an issue where the player would be teleported back to the first floor from the second floor of the RV."
+   },
+   "translated": false,
+   "fetchedAt": "2026-09-30T09:26:15+00:00"
+  }
+ ]
 }
