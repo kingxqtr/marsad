@@ -45,9 +45,60 @@
     "details": "OpenAI announced at DevDay 2026 that its Agents API, which it launched in public beta earlier in the year, now supports a computer-use capability letting agents operate software through its interface directly.\n\nThe company also previewed a Decisions API, a new limited-preview API using its Luna model for classification and routing tasks, alongside a partnership letting Amazon Bedrock run OpenAI-powered agents inside AWS infrastructure, and a privacy initiative called Private Intelligence covering private safety processing with a private-inference preview planned.\n\nOn subscriptions, OpenAI introduced a new Pro 500 plan at $500 a month, offering 25 times the Plus usage allowance plus access to its Ultrafast speed tier, which generates tokens up to 8 times faster in Codex and 6 times faster via the API; community discussion indicated the older $200-a-month Pro plan's usage limits are being cut in half."
    },
    "addedAt": "2026-09-29T21:30:00+00:00"
+  },
+  {
+   "id": "anthropic-claude-sonnet-5-5-release",
+   "date": "2026-09-28",
+   "type": "model",
+   "importance": 3,
+   "sourceType": "official",
+   "sourceName": "Anthropic",
+   "url": "https://www.anthropic.com/claude-sonnet-5-5",
+   "originalTitle": "Claude Sonnet 5.5",
+   "company": "Anthropic",
+   "tool": "Claude Sonnet 5.5",
+   "ar": {
+    "title": "Anthropic تطرح Claude Sonnet 5.5 أسرع بنسبة 30% وأرخص من Sonnet 5",
+    "summary": "أطلقت Anthropic نموذج Claude Sonnet 5.5 في 28 سبتمبر، وهو نسخة أسرع وأرخص من Sonnet 5 مع تحسينات كبيرة في البرمجة واستخدام الحاسوب، على أن يلحق به Claude Haiku 5.5 قريباً.",
+    "details": "أطلقت Anthropic في 28 سبتمبر نموذج Claude Sonnet 5.5، ووصفته بأنه تحديث واضح على Sonnet 5 يعمل بسرعة أكبر بأكثر من 30% وبتكلفة أقل تصل إلى 30% في معظم المهام.\n\nوبحسب اختبارات Anthropic الداخلية، قفز أداء Sonnet 5.5 من 10.3% إلى 70.6% في اختبار Terminal-Bench 4.0، واقترب كثيراً من أداء Opus 5.5 في اختبار المعرفة المهنية GDPval-AA واختبار استخدام الحاسوب OSWorld. وتقول الشركة إنه أول نموذج من عائلة Sonnet يتمكن من إنهاء لعبة Pokémon Red بالاعتماد على لقطات الشاشة فقط.\n\nيبلغ سعر النموذج دولارين لكل مليون رمز إدخال و10 دولارات لكل مليون رمز إخراج، وهو متاح فوراً عبر تطبيقات Claude وواجهة برمجة التطبيقات الخاصة به، وكذلك عبر AWS وGoogle Cloud وMicrosoft Azure تحت المعرف claude-sonnet-5-5.\n\nوتقول Anthropic إن Claude Haiku 5.5 سينضم إلى عائلة 5.5 خلال الأسابيع المقبلة."
+   },
+   "en": {
+    "title": "Anthropic releases Claude Sonnet 5.5, 30% faster and cheaper than Sonnet 5",
+    "summary": "Anthropic launched Claude Sonnet 5.5 on September 28, a faster, cheaper Sonnet upgrade with strong coding and computer-use gains; Haiku 5.5 is coming soon.",
+    "details": "Anthropic released Claude Sonnet 5.5 on September 28, calling it a clear upgrade over Sonnet 5 that runs more than 30% faster and costs up to 30% less for most workloads.\n\nOn Anthropic's own benchmarks, Sonnet 5.5 jumps from 10.3% to 70.6% on Terminal-Bench 4.0, and nearly matches Opus 5.5 on the GDPval-AA knowledge-work benchmark and the OSWorld computer-use test. Anthropic also notes it is the first Sonnet model able to beat the game Pokémon Red using only screenshots.\n\nThe model is priced at $2 per million input tokens and $10 per million output tokens, and is available immediately through the Claude apps, the Claude API, and AWS, Google Cloud and Microsoft Azure under the model ID claude-sonnet-5-5.\n\nAnthropic says Claude Haiku 5.5 will join the 5.5 family in the coming weeks."
+   }
   }
  ],
- "upcoming": [],
- "removeUpcoming": [],
+ "upcoming": [
+  {
+   "id": "anthropic-claude-haiku-5-5",
+   "date": "2026-10-15",
+   "endDate": null,
+   "dateConfidence": "expected",
+   "type": "release",
+   "sourceType": "official",
+   "sourceName": "Anthropic",
+   "url": "https://www.anthropic.com/claude-sonnet-5-5",
+   "company": "Anthropic",
+   "tool": "Claude Haiku 5.5",
+   "ar": {
+    "title": "Claude Haiku 5.5 مرتقب لاستكمال عائلة Claude 5.5",
+    "summary": "قالت Anthropic إن Claude Haiku 5.5 سيلحق بـ Sonnet 5.5 خلال الأسابيع المقبلة، ليكتمل بذلك تحديث عائلة Claude 5.5.",
+    "details": "قالت Anthropic في إعلانها عن Claude Sonnet 5.5 يوم 28 سبتمبر إن Claude Haiku 5.5 سينضم إلى عائلة Claude 5.5 خلال الأسابيع المقبلة، عقب إطلاق Sonnet 5.5 في اليوم نفسه وإطلاق Opus 5.5 في 22 سبتمبر.\n\nويمثل Haiku الفئة الأسرع والأقل تكلفة لدى Anthropic، لذا يهم هذا التحديث بشكل خاص المطورين والمنتجات التي تعتمد على طلبات كثيفة وسريعة الاستجابة.\n\nولم تنشر Anthropic بعد أسعار Haiku 5.5 أو نتائج اختباراته أو موعد إطلاقه الدقيق.\n\nالتاريخ المذكور تقديري استناداً إلى عبارة «الأسابيع المقبلة».",
+    "location": "",
+    "dateNote": "قالت Anthropic «خلال الأسابيع المقبلة» في 28 سبتمبر؛ تاريخ 15 أكتوبر تقديري."
+   },
+   "en": {
+    "title": "Claude Haiku 5.5 due to complete the Claude 5.5 lineup",
+    "summary": "Anthropic says Claude Haiku 5.5 will follow Sonnet 5.5 in the coming weeks, rounding out its refreshed Claude 5.5 model family.",
+    "details": "In its September 28 announcement of Claude Sonnet 5.5, Anthropic said Claude Haiku 5.5 would join the Claude 5.5 family in the coming weeks, following the same-day release of Sonnet 5.5 and the September 22 launch of Opus 5.5.\n\nHaiku is Anthropic's fastest, lowest-cost model tier, so the update matters most to developers and products that rely on high-volume, latency-sensitive requests.\n\nAnthropic has not yet published pricing, benchmark results or an exact launch date for Haiku 5.5.\n\nThe date shown is an estimate based on the \"coming weeks\" wording.",
+    "location": "",
+    "dateNote": "Anthropic said 'in the coming weeks' on September 28; October 15 is an estimate."
+   }
+  }
+ ],
+ "removeUpcoming": [
+  "anthropic-claude-sonnet-haiku-5-5"
+ ],
  "removeNews": []
 }
