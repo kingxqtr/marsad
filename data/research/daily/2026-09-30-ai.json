@@ -157,6 +157,29 @@
         "details": "GitHub expanded its HydraFusion research preview on September 30 to Visual Studio Code and the GitHub Copilot app, after launching it exclusively in Copilot CLI.\n\nRather than picking a single model per request, HydraFusion orchestrates multiple models and treats workflow selection as an optimization problem, using capability signals for reasoning, code generation, debugging and tool use. It runs one of three workflows: Single, where one model solves the task directly; Cascade, where an efficient model drafts a solution that a quality gate accepts or escalates to a stronger model; or Critique, where one model drafts a result and an independent model from a different family reviews it before a single revision.\n\nHydraFusion appears in the Copilot Chat model picker in VS Code 1.140 or later after enabling a dedicated setting, and in the GitHub Copilot app through its settings menu. It is available to Copilot Pro, Pro+, Business and Enterprise users."
       },
       "addedAt": "2026-09-30T18:15:00+00:00"
+    },
+    {
+      "id": "google-gemini-4-argon-release",
+      "date": "2026-09-30",
+      "type": "model",
+      "importance": 3,
+      "sourceType": "official",
+      "sourceName": "Google Blog",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/",
+      "originalTitle": "Gemini 4 Argon: our next era of frontier intelligence",
+      "company": "Google",
+      "tool": "Gemini 4 Argon",
+      "ar": {
+        "title": "غوغل تطلق Gemini 4 Argon بحد أقصى مليون رمز للمخرجات",
+        "summary": "أطلقت غوغل نموذج Gemini 4 Argon الطليعي بحد أقصى مليون رمز للمخرجات، متفوقاً في البرمجة والأمن السيبراني، ويصل أولاً إلى فريق محدود من المدافعين السيبرانيين قبل التوسع.",
+        "details": "أعلنت غوغل في 30 سبتمبر عن Gemini 4 Argon، أحدث نماذجها الطليعية، الذي يرفع الحد الأقصى لرموز المخرجات إلى مليون رمز، مقارنة بـ64 ألف رمز سابقاً، ويتفوق بحسب الشركة في مهام هندسة البرمجيات والمعرفة القانونية والمالية والأمن السيبراني.\n\nوبحسب اختبارات غوغل الداخلية، حقق النموذج رقماً قياسياً جديداً في اختبار DeepSWE v1.1 لمهام البرمجة الواقعية بنسبة 77.9%، وتصدّر مؤشر Vals Index الذي يقيس الأثر الاقتصادي عبر مجالات المال والبرمجة والقانون، وجاء في المرتبة الأولى على اختبار AutomationBench لأتمتة الأعمال بنسبة 51.3%، وتصدّر اختبار LVBench لفهم الفيديوهات الطويلة بنسبة 91.7%، وتعادل في المرتبة الأولى على اختبار CWE-bench v1 لمعالجة الثغرات الأمنية بنسبة 68%.\n\nيبدأ طرح النموذج أولاً لمجموعة محدودة من \"المدافعين السيبرانيين الموثوقين\" عبر برنامج Fairwind التابع لغوغل، على أن يتوسع الوصول للمطورين والشركات والمستخدمين لاحقاً بعد استكمال اختبارات السلامة. ويُسعَّر النموذج بسعر تمهيدي قدره دولاران لكل مليون رمز إدخال و10 دولارات لكل مليون رمز إخراج (مع خصم 95% على الرموز المخزنة مؤقتاً)، ليرتفع لاحقاً إلى 4 و20 دولاراً لكل مليون رمز، وهو متاح لعملاء واجهة البرمجة المدفوعين ومشتركي Google AI Ultra."
+      },
+      "en": {
+        "title": "Google launches Gemini 4 Argon with 1 million token output limit",
+        "summary": "Google introduced Gemini 4 Argon, a frontier model with a 1 million token output limit and state-of-the-art coding and cybersecurity benchmarks, rolling out first to trusted cyber defenders before wider availability.",
+        "details": "Google announced Gemini 4 Argon on September 30, its newest frontier model, which raises the output token limit to 1 million tokens, up from 64,000, and which the company says excels at software engineering, legal and financial knowledge work, and cybersecurity tasks.\n\nOn Google's own benchmarks, the model sets a new state of the art on DeepSWE v1.1 for real-world coding tasks (77.9%), tops the Vals Index measuring economic impact across finance, coding and legal work, ranks first on AutomationBench for business automation (51.3%), leads LVBench for long-form video understanding (91.7%), and ties for first on CWE-bench v1 for vulnerability remediation (68%).\n\nThe model is rolling out first to a small group of \"trusted cyber defenders\" through Google's Fairwind Program, with broader access for developers, enterprises and consumers to follow after further safety testing. It is priced at introductory rates of $2 per million input tokens and $10 per million output tokens (cached inputs at 95% off), rising to $4/$20 per million tokens after the introductory period, and is available to paid API customers and Google AI Ultra subscribers."
+      },
+      "addedAt": "2026-09-30T20:15:00+00:00"
     }
   ],
   "upcoming": [
