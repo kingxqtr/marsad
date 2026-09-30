@@ -1,6 +1,26 @@
 {
- "updatedAt": "2026-09-30T15:36:23+00:00",
+ "updatedAt": "2026-09-30T15:53:08+00:00",
  "items": [
+  {
+   "id": "auto-d31ace575e72",
+   "tab": "ai",
+   "date": "2026-09-30",
+   "publishedAt": "2026-09-30T10:00:00+00:00",
+   "type": "product",
+   "importance": 1,
+   "sourceType": "official",
+   "sourceName": "OpenAI News",
+   "url": "https://openai.com/index/helping-small-businesses-put-ai-to-work",
+   "originalTitle": "Helping small businesses put AI to work",
+   "en": {
+    "title": "Helping small businesses put AI to work",
+    "summary": "OpenAI is partnering with America’s SBDC to expand hands-on AI training and local support for small businesses, alongside a new report on how small teams are using AI.",
+    "details": "OpenAI is partnering with America’s SBDC to expand hands-on AI training and local support for small businesses, alongside a new report on how small teams are using AI."
+   },
+   "translated": false,
+   "fetchedAt": "2026-09-30T15:53:03+00:00",
+   "company": "OpenAI"
+  },
   {
    "id": "auto-3403f8fdc1b4",
    "tab": "ai",
