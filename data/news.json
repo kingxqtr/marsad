@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": "2026-09-30T17:09:00+00:00",
+ "updatedAt": "2026-09-30T18:09:52+00:00",
  "coverage": {
   "from": "2026-06-30",
   "to": "2026-09-30"
@@ -1758,6 +1758,29 @@
       "details": "Google DeepMind announced SynthID Bio on September 30, a technology that embeds imperceptible watermarks into biological code, both in amino acid sequences and predicted 3D protein structures, while preserving biological function.\n\nThe tool is meant to help DNA synthesis facilities identify AI-generated biological designs, prevent unwatermarked synthetic proteins from contaminating public databases such as the Protein Data Bank, UniProt and GenBank, and give DNA screeners an automated way to verify novel sequences that could pose risks.\n\nDeepMind tested the watermark in the lab on three target proteins, VEGF-A, the SARS-CoV-2 spike protein's receptor-binding domain, and PD-L1, and found watermarked designs matched the binding performance of non-watermarked versions.\n\nThe company is publishing its methods, open-sourcing code and data, and releasing model weights to the research community, working with early collaborators Adaptyv Bio, Stanford's Hie lab and the Arc Institute."
      },
      "addedAt": "2026-09-30T15:10:37+00:00"
+    },
+    {
+     "id": "github-copilot-hydrafusion-vscode-app",
+     "date": "2026-09-30",
+     "type": "coding",
+     "importance": 2,
+     "sourceType": "official",
+     "sourceName": "GitHub Changelog",
+     "url": "https://github.blog/changelog/2026-09-30-hydrafusion-in-vs-code-and-the-github-copilot-app",
+     "originalTitle": "HydraFusion in VS Code and the GitHub Copilot app",
+     "company": "GitHub",
+     "tool": "GitHub Copilot",
+     "ar": {
+      "title": "GitHub توسّع ميزة HydraFusion لتشمل VS Code وتطبيق Copilot",
+      "summary": "أتاحت GitHub معاينة HydraFusion، التي تنسّق بين عدة نماذج ذكاء اصطناعي لاختيار طريقة التنفيذ الأنسب، في VS Code وتطبيق Copilot بعد أن كانت مقتصرة على Copilot CLI.",
+      "details": "وسّعت GitHub في 30 سبتمبر معاينة ميزة HydraFusion البحثية لتشمل Visual Studio Code وتطبيق GitHub Copilot، بعد أن كانت متاحة فقط عبر Copilot CLI.\n\nلا تُعد HydraFusion نموذجاً واحداً، بل نظاماً ينسّق بين عدة نماذج ذكاء اصطناعي ويتعامل مع اختيار طريقة العمل كمسألة تحسين، معتمداً على مؤشرات القدرة في الاستدلال وتوليد الشفرة والتصحيح واستخدام الأدوات. تستخدم الميزة إحدى ثلاث طرق عمل:\n\n- طريقة مفردة: نموذج واحد يحل المهمة مباشرة.\n- طريقة تسلسلية: نموذج سريع يضع مسودة الحل، وتقرر بوابة جودة قبولها أو تصعيدها إلى نموذج أقوى.\n- طريقة نقدية: نموذج يضع مسودة، ونموذج مستقل من عائلة مختلفة يراجعها، ثم يعدّل النموذج الأول مرة واحدة.\n\nتظهر HydraFusion في قائمة اختيار النماذج بـ VS Code (الإصدار 1.140 فما فوق) بعد تفعيل الإعداد المخصص لها، وفي تطبيق Copilot عبر الإعدادات، وهي متاحة لمستخدمي خطط Copilot Pro وPro+ وBusiness وEnterprise."
+     },
+     "en": {
+      "title": "GitHub expands HydraFusion multi-model orchestration to VS Code and Copilot app",
+      "summary": "GitHub's HydraFusion research preview, which coordinates multiple AI models to pick the best execution workflow, is now available in VS Code and the GitHub Copilot app, beyond its original Copilot CLI-only release.",
+      "details": "GitHub expanded its HydraFusion research preview on September 30 to Visual Studio Code and the GitHub Copilot app, after launching it exclusively in Copilot CLI.\n\nRather than picking a single model per request, HydraFusion orchestrates multiple models and treats workflow selection as an optimization problem, using capability signals for reasoning, code generation, debugging and tool use. It runs one of three workflows: Single, where one model solves the task directly; Cascade, where an efficient model drafts a solution that a quality gate accepts or escalates to a stronger model; or Critique, where one model drafts a result and an independent model from a different family reviews it before a single revision.\n\nHydraFusion appears in the Copilot Chat model picker in VS Code 1.140 or later after enabling a dedicated setting, and in the GitHub Copilot app through its settings menu. It is available to Copilot Pro, Pro+, Business and Enterprise users."
+     },
+     "addedAt": "2026-09-30T18:09:52+00:00"
     },
     {
      "id": "nvidia-coreweave-vera-rubin-nvl72",
