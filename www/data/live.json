@@ -1,6 +1,26 @@
 {
- "updatedAt": "2026-09-30T17:25:53+00:00",
+ "updatedAt": "2026-09-30T17:40:26+00:00",
  "items": [
+  {
+   "id": "auto-c2e90b600a46",
+   "tab": "ai",
+   "date": "2026-09-30",
+   "publishedAt": "2026-09-30T14:31:19+00:00",
+   "type": "coding",
+   "importance": 1,
+   "sourceType": "official",
+   "sourceName": "GitHub Changelog",
+   "url": "https://github.blog/changelog/2026-09-30-hydrafusion-in-vs-code-and-the-github-copilot-app",
+   "originalTitle": "HydraFusion in VS Code and the GitHub Copilot app",
+   "en": {
+    "title": "HydraFusion in VS Code and the GitHub Copilot app",
+    "summary": "The HydraFusion research preview is now available in Visual Studio Code and the GitHub Copilot app, expanding beyond Copilot CLI.",
+    "details": "The HydraFusion research preview is now available in Visual Studio Code and the GitHub Copilot app, expanding beyond Copilot CLI.\n\nHydraFusion appears in the model picker, but rather than being a single model, it orchestrates multiple models. HydraFusion treats workflow selection as an optimization problem. It uses capability signals for reasoning, code generation, debugging, and tool use to select the most efficient execution pattern to meet the quality bar. HydraFusion uses one of three workflows:\n\n- Single: One selected model directly solves the task.\n\n- Cascade: An efficient model drafts a solution and a quality gate decides whether to accept it or escalate to a stronger model.\n\n- Critique: One model drafts a result, an independent read-only critic from a different model family reviews it—following the same review pattern as Rubber Duck —and the drafting model revises once.\n\nGet started\n\nIn VS Code (version 1.140 or later, or VS Code Insiders):\n\n- Select HydraFusion from the Copilot Chat model picker.\n\n- If it does not appear, enable chat.copilot.hydraFusion.enabled . If you get Copilot through an organization or enterprise, an administrator may need to allow preview features in organization or enterprise settings.\n\nIn the GitHub Copilot app:\n\n- Update to the latest version.\n\n- Open Settings , search for “HydraFusion”, and turn it on.\n\n- Select HydraFusion from the model picker.\n\nWhat’s improved …"
+   },
+   "translated": false,
+   "fetchedAt": "2026-09-30T17:40:21+00:00",
+   "company": "GitHub"
+  },
   {
    "id": "auto-331c7892ecb3",
    "tab": "ai",
@@ -34,8 +54,8 @@
    "originalTitle": "The AI Race Just Got Awkward",
    "en": {
     "title": "The AI Race Just Got Awkward",
-    "summary": "Community discussion on Hacker News (326 points, 299 comments).",
-    "details": "Community discussion on Hacker News (326 points, 299 comments)."
+    "summary": "Community discussion on Hacker News (334 points, 318 comments).",
+    "details": "Community discussion on Hacker News (334 points, 318 comments)."
    },
    "translated": false,
    "fetchedAt": "2026-09-30T17:08:09+00:00"
