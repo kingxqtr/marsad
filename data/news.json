@@ -1,9 +1,9 @@
 {
  "version": 1,
- "updatedAt": "2026-09-29T23:09:46+00:00",
+ "updatedAt": "2026-09-30T00:10:04+00:00",
  "coverage": {
-  "from": "2026-06-29",
-  "to": "2026-09-29"
+  "from": "2026-06-30",
+  "to": "2026-09-30"
  },
  "tabs": {
   "once-human": {
@@ -637,48 +637,6 @@
       "details": "Once Human, which launched on July 9, 2024, marked its second anniversary with a three-week celebration called Dreamy Maelstrom. It began after the July 9 (PT) update and ran until July 30, preceded by a pre-registration warm-up from July 1 to 9.\n\nHighlights:\n- Dreamy Rift: a 1–4 player wave-survival mode with Mod upgrades every two waves; hard mode adds meteors, black rain and fog, plus an endless mode and a global leaderboard\n- New Deviations: the anniversary-limited Crimson Insight: ZapCam, Mr. Wish – Penguin Hope, and Behemoth, a rideable combat Deviation\n- Daily check-in rewards, including the legendary blueprint QBJ97 – Fiery Trees and Silver Flowers\n- A Wish Wheel with a guaranteed cosmetic every 15 spins, friend-invite \"Rift Eggs\" and hourly group-dance rewards\n\nOn July 10, randomly chosen online players in each region were to receive 10 Lightforge Ingots every 15 minutes between 20:00 and 22:00 server time. Returning and new players also got gift packs with a choice of legendary gear blueprints and a Deviation selection box."
      },
      "addedAt": "2026-07-01T23:59:59+00:00"
-    },
-    {
-     "id": "oh-raid-for-glory-tournament-announced",
-     "date": "2026-06-29",
-     "type": "community",
-     "importance": 2,
-     "sourceType": "official",
-     "sourceName": "Once Human — Official YouTube",
-     "url": "https://www.youtube.com/watch?v=qBUFyJXufr0",
-     "originalTitle": "Once Human丨Raid For Glory: RaidZone Tournament",
-     "ar": {
-      "title": "بطولة Raid for Glory في Once Human: RaidZone بجوائز قيمتها 50 ألف دولار",
-      "summary": "أعلنت Once Human عن بطولة Raid for Glory في طور RaidZone بمشاركة أكثر من 70 من صنّاع المحتوى، من 10 إلى 12 يوليو (بتوقيت المحيط الهادئ)، مع مكافآت Twitch Drops للمشاهدين.",
-      "details": "أعلن فريق Once Human عن بطولة Raid for Glory، وهي منافسة لاعب ضد لاعب داخل طور RaidZone يشارك فيها أكثر من 70 من صنّاع المحتوى المتخصصين في ألعاب البقاء، يتنافسون على حصص من جوائز إجمالية قيمتها 50 ألف دولار.\n\nأقيمت البطولة على مدى ثلاثة أيام من 10 إلى 12 يوليو بتوقيت المحيط الهادئ، مع بث يومي من الساعة 12 ظهرًا حتى 4 عصرًا (من 10 مساءً حتى 2 فجرًا بتوقيت الخليج). وأشارت الحسابات الرسمية إلى أن صانع المحتوى hJune هو منظّم البطولة، وأن المباريات جرت على خادم مخصص (Custom Server).\n\n- الطور: Once Human: RaidZone المخصص للقتال بين اللاعبين\n- مجموع الجوائز: 50,000 دولار\n- ربط حساب Twitch يتيح للمشاهدين الحصول على مكافآت Twitch Drops\n\nوفي 10 يوليو أكد الحساب الرسمي على منصة X انطلاق البطولة ونشر قائمة الفرق المشاركة كاملة."
-     },
-     "en": {
-      "title": "Once Human: RaidZone announces $50,000 'Raid for Glory' streamer tournament",
-      "summary": "More than 70 survival streamers were set to battle in RaidZone from July 10 to 12 (PT) for a share of a $50,000 prize pool, with Twitch Drops for viewers.",
-      "details": "The Once Human team announced \"Raid for Glory\", a RaidZone PvP tournament featuring more than 70 survival-game streamers competing for a share of a $50,000 prize pool.\n\nThe event ran for three days, July 10–12 (PT), with matches streamed daily from 12:00 to 4:00 PM PT (10:00 PM to 2:00 AM Gulf time, UTC+3). Official posts credited survival streamer hJune as the organiser, and the matches were played on a Custom Server.\n\n- Mode: Once Human: RaidZone, the game's PvP survival mode\n- Prize pool: $50,000\n- Viewers could link their Twitch accounts to earn exclusive Twitch Drops\n\nOn July 10 the official X account confirmed that the tournament had gone live and published the full team lineup."
-     },
-     "addedAt": "2026-06-29T23:59:59+00:00"
-    },
-    {
-     "id": "oh-new-monsters-acting-physician-lady-sea-nettle",
-     "date": "2026-06-29",
-     "type": "announcement",
-     "importance": 1,
-     "sourceType": "official",
-     "sourceName": "Once Human — Official Website",
-     "url": "https://www.oncehuman.game/news/official/20260629/40779_1305911.html",
-     "originalTitle": "New Monster Preview丨Acting Physician&Lady Sea Nettle",
-     "ar": {
-      "title": "Once Human تكشف عن عدوّين جديدين: Acting Physician وLady Sea Nettle",
-      "summary": "عدوّان جديدان يصلان مع تحديث 9 يوليو: كائن يتخفّى في معطف طبي ويسرق الطاقة، وآخر مائي يستنزف الترطيب قبل الصحة.",
-      "details": "استعرض استوديو Starry Studio عدوّين جديدين من فئة Deviants يظهران في الخوادم العادية للعبة Once Human (خارج RaidZone) بعد تحديث 9 يوليو بتوقيت المحيط الهادئ.\n\n- Acting Physician: يتخفّى على هيئة معطف طبي ملقى في المستشفيات والعيادات داخل معاقل منطقة الورش، ويستطيع الالتصاق بالجدران وسحب اللاعب إلى «عملية جراحية» يتعيّن عليه الإفلات منها، كما يسرق الطاقة ليستعيد صحته. نقطة ضعفه شاشة حاسوب متوهجة لا تنكشف إلا أثناء بعض هجماته، وإن لم تُدمَّر يستعيد عافيته عند انخفاض صحته.\n- Lady Sea Nettle: تكمن في المياه الضحلة برأس يشبه قنديل البحر يخزّن الماء، فتستنزف الترطيب أولًا ثم الصحة، وتضعف ويظهر لبّها عندما يفرغ كيس الماء.\n\nونصح الاستوديو بخوض هذه المعارك بمعدة ممتلئة وترطيب كافٍ. وقد ظهر العدوّان مع تحديث الذكرى السنوية، وفي سبتمبر أعلن الفريق نيته إعادة موازنة Acting Physician بعد شكاوى اللاعبين."
-     },
-     "en": {
-      "title": "Once Human previews two new enemies: Acting Physician and Lady Sea Nettle",
-      "summary": "Two new Deviants arrive with the July 9 (PT) update: a coat-disguised medical horror that steals Energy, and a water-powered foe that drains Hydration first.",
-      "details": "Starry Studio previewed two new enemies scheduled to appear on Once Human's regular (non-RaidZone) servers after the July 9 (PT) update.\n\n- Acting Physician: hides as an empty medical coat in hospitals and clinics inside workshop-area strongholds. It can cling to walls, drag players into a \"surgery\" they must struggle out of, and steals Energy to heal. Its weak point is a glowing computer terminal exposed only during certain attacks; if the terminal survives, the enemy recovers at low health.\n- Lady Sea Nettle: lurks in shallow water with a jellyfish-like head that stores water. She drains Hydration first, then health, and weakens when her water sac empties, exposing her core.\n\nThe studio's advice: go into these fights well fed and well hydrated. Both enemies went live with the anniversary update, and in September the team said it plans to rebalance the Acting Physician after player complaints."
-     },
-     "addedAt": "2026-06-29T23:59:59+00:00"
     }
    ],
    "upcoming": [
@@ -4094,29 +4052,6 @@
       "details": "Google has released Nano Banana 2 Lite, model ID gemini-3.1-flash-lite-image, to general availability in the Gemini API. Google describes it as its fastest and cheapest Gemini image model, built for cases where speed and cost matter most, such as generating or editing images at scale.\n\n- Resolution: 1K only, without the 512px, 2K or 4K options of the larger models.\n- Aspect ratios: ten formats, from 1:1 and 4:5 to 9:16, 16:9 and 21:9.\n- Limits: not optimised for multiple reference images or multi-turn editing, and no Google Search grounding; Nano Banana 2 and Nano Banana Pro remain the choice for those tasks.\n- Like all Nano Banana models, its images carry an invisible SynthID watermark.\n\nWithin days, creative platforms began offering it: Recraft, for example, added Nano Banana 2 Lite to Recraft Studio in early July for rapid concept work."
      },
      "addedAt": "2026-06-30T23:59:59+00:00"
-    },
-    {
-     "id": "cursor-ios-app-public-beta",
-     "date": "2026-06-29",
-     "type": "coding",
-     "importance": 2,
-     "sourceType": "official",
-     "sourceName": "Cursor Changelog",
-     "url": "https://cursor.com/changelog/ios-mobile-app",
-     "originalTitle": "Cursor Mobile App for iOS",
-     "company": "Anysphere",
-     "tool": "Cursor",
-     "ar": {
-      "title": "Cursor تطلق تطبيقاً لـiPhone لتشغيل وكلاء البرمجة وتوجيههم أثناء التنقل",
-      "summary": "يتيح تطبيق Cursor لنظام iOS، المتاح بنسخة تجريبية عامة لجميع الخطط المدفوعة، تشغيل الوكلاء السحابيين بالصوت أو الكتابة، والتحكم عن بُعد بالوكلاء العاملين على الحاسوب، ومراجعة طلبات الدمج ودمجها من الهاتف.",
-      "details": "أطلقت Cursor في 29 يونيو تطبيقاً لنظام iOS بنسخة تجريبية عامة، متاحاً لجميع الخطط المدفوعة.\n\n- تشغيل الوكلاء السحابيين: اختيار المستودع والنموذج وإطلاق الوكيل كما في تطبيق سطح المكتب، مع دعم الإدخال الصوتي والأوامر المختصرة.\n- التحكم عن بُعد: مواصلة توجيه وكيل يعمل على الحاسوب، مع خيار يُبقي الجهاز مستيقظاً ليظل متاحاً.\n- المتابعة: أنشطة حية على شاشة القفل وإشعارات عند انتهاء الوكيل أو حاجته إلى مدخلات أو جاهزيته للمراجعة.\n- المراجعة: الاطلاع على العروض ولقطات الشاشة والسجلات والتعديلات، ودمج طلبات الدمج من الهاتف.\n\nوفي خطط Teams وEnterprise، يجب على المسؤول تفعيل Remote Control من لوحة تحكم Cursor. وبعد شهر وسّعت Cursor التجربة لتشمل iPad مع واجهة كاملة لمراجعة طلبات الدمج وتقسيم الشاشة والتعليق بقلم Apple Pencil."
-     },
-     "en": {
-      "title": "Cursor releases an iPhone app to launch and steer coding agents on the go",
-      "summary": "Cursor's iOS app, in public beta on all paid plans, lets developers start cloud agents by voice or text, remotely control agents running on their computer, and review and merge pull requests from an iPhone.",
-      "details": "Cursor launched a mobile app for iOS in public beta on 29 June, available on all paid plans.\n\n- Start cloud agents: pick a repository, choose a model and launch an agent as on the desktop, with voice input and slash commands.\n- Remote control: keep directing an agent running on your computer; a setting can keep the machine awake so it stays reachable.\n- Stay informed: Live Activities on the lock screen and push notifications when an agent finishes, needs input or is ready for review.\n- Review work: check demos, screenshots, logs and code changes, and merge pull requests from the phone.\n\nOn Teams and Enterprise plans, an administrator must turn on Remote Control in the Cursor dashboard. A month later Cursor extended the experience to iPad, adding a full pull-request review view, split screen and Apple Pencil markup."
-     },
-     "addedAt": "2026-06-29T23:59:59+00:00"
     }
    ],
    "upcoming": [
@@ -4146,33 +4081,6 @@
       "details": "Canva World Tour is back for 2026, running worldwide from September 14 through November 30.\n\n- Format: Canva teams in different countries host local community meetups and live training sessions; an event finder is available at canva.com/events.\n- AI Essentials: a new free certification that anyone can complete at their own pace, covering how to get the most out of Canva AI.\n- Design School: short, mobile-first lessons that teach one skill at a time, some lasting about 90 seconds.\n\nAll of the learning content can also be followed online through Canva Design School at any time during the campaign, so people can take part even without a local event nearby.",
       "location": "Worldwide (local events and online)",
       "dateNote": "Campaign started September 14 and ends November 30, 2026."
-     },
-     "addedAt": "2026-09-27T13:25:38+00:00"
-    },
-    {
-     "id": "openai-devday-2026",
-     "date": "2026-09-29",
-     "type": "event",
-     "importance": 1,
-     "sourceType": "official",
-     "sourceName": "OpenAI DevDay 2026 (official site)",
-     "url": "https://devday.openai.com/",
-     "originalTitle": "",
-     "company": "OpenAI",
-     "dateConfidence": "confirmed",
-     "ar": {
-      "title": "مؤتمر OpenAI DevDay 2026 في سان فرانسيسكو مع بث مباشر للكلمة الرئيسية",
-      "summary": "يُعقد مؤتمر OpenAI السنوي للمطورين في 29 سبتمبر في Fort Mason بسان فرانسيسكو، وتُبث الكلمة الافتتاحية لـ Sam Altman مجانًا عبر الإنترنت في العاشرة صباحًا بتوقيت المحيط الهادئ.",
-      "details": "تعقد OpenAI مؤتمر DevDay 2026 في 29 سبتمبر في Fort Mason بمدينة سان فرانسيسكو. ويضم المؤتمر، الذي يستمر يومًا واحدًا، جلسات تقنية وعروضًا عملية وورش عمل ولقاءات مع الفرق التي تطور أدوات OpenAI للمطورين. وقد أُغلق باب التقديم للحضور الشخصي.\n\n- الكلمة الافتتاحية لـ Sam Altman في العاشرة صباحًا بتوقيت المحيط الهادئ، أي الثامنة مساءً بتوقيت السعودية وقطر والكويت والبحرين والتاسعة مساءً بتوقيت الإمارات وعُمان، وتُبث مجانًا للجميع\n- الجلسات الفرعية من 11:15 صباحًا حتى 3:30 عصرًا بتوقيت المحيط الهادئ، تليها جلسة ختامية في الرابعة عصرًا\n- ستُسجّل الجلسات الأخرى وتُنشر على openai.com بعد الحدث بوقت قصير\n\nويأتي المؤتمر بعد شهر أطلقت فيه OpenAI نموذج GPT-6 Astra ونموذجي GPT-6 Sol وLuna. كما تنقل OpenAI الفكرة إلى الخارج عبر فعاليات DevDay Exchange لاحقًا هذا العام في بنغالورو وطوكيو وسيول وباريس وبرلين ولندن وساو باولو ومكسيكو سيتي.",
-      "location": "Fort Mason، سان فرانسيسكو، الولايات المتحدة (بث مباشر للكلمة الرئيسية عبر الإنترنت)",
-      "dateNote": "الكلمة الرئيسية في 10:00 صباحًا بتوقيت المحيط الهادئ (20:00 بتوقيت السعودية وقطر والكويت والبحرين، و21:00 بتوقيت الإمارات وعُمان)"
-     },
-     "en": {
-      "title": "OpenAI DevDay 2026 in San Francisco, with the keynote streamed live",
-      "summary": "OpenAI's annual developer conference takes place on September 29 at Fort Mason, San Francisco. Sam Altman's opening keynote at 10:00 a.m. PT will be streamed online for free.",
-      "details": "OpenAI holds DevDay 2026 on September 29 at Fort Mason in San Francisco. The one-day conference offers technical sessions, hands-on demos, workshops and time with the teams that build OpenAI's developer tools. Applications to attend in person have closed.\n\n- Opening keynote with Sam Altman at 10:00 a.m. Pacific time, which is 8:00 p.m. in Saudi Arabia, Qatar, Kuwait and Bahrain and 9:00 p.m. in the UAE and Oman; it will be livestreamed free for everyone\n- Breakout sessions run from 11:15 a.m. to 3:30 p.m. PT, followed by a closing session at 4:00 p.m.\n- Other sessions will be recorded and posted on openai.com shortly after the event\n\nDevDay follows a month in which OpenAI released GPT-6 Astra and the GPT-6 Sol and Luna models. OpenAI is also taking the format abroad with DevDay Exchange events later this year in Bengaluru, Tokyo, Seoul, Paris, Berlin, London, São Paulo and Mexico City.",
-      "location": "Fort Mason, San Francisco, USA (keynote livestreamed online)",
-      "dateNote": "Keynote at 10:00 a.m. PT (20:00 in Saudi Arabia, Qatar, Kuwait and Bahrain; 21:00 in the UAE and Oman)"
      },
      "addedAt": "2026-09-27T13:25:38+00:00"
     },
