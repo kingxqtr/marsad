@@ -1,4 +1,24 @@
 {
- "updatedAt": "2026-09-30T11:23:52+00:00",
- "items": []
+ "updatedAt": "2026-09-30T11:40:16+00:00",
+ "items": [
+  {
+   "id": "auto-0a9433d1e0df",
+   "tab": "once-human",
+   "date": "2026-09-30",
+   "publishedAt": "2026-09-30T09:57:12+00:00",
+   "type": "community",
+   "importance": 1,
+   "sourceType": "community",
+   "sourceName": "r/OnceHumanOfficial",
+   "url": "https://www.reddit.com/r/OnceHumanOfficial/comments/1wu0upb/someone_recreated_the_afterlife_bar_from/",
+   "originalTitle": "someone recreated the Afterlife bar from Cyberpunk 2077",
+   "en": {
+    "title": "someone recreated the Afterlife bar from Cyberpunk 2077",
+    "summary": "Community post on r/OnceHumanOfficial. showcased with DLSS 5 Custom Server: Blackheart Region downstream of Void River (5245, 17) source: https://xhslink.cn/o/4joTv4mawbM",
+    "details": "Community post on r/OnceHumanOfficial.\n\nshowcased with DLSS 5\n\nCustom Server: Blackheart Region - downstream of Void River (5245, 17)\n\nsource: https://xhslink.cn/o/4joTv4mawbM"
+   },
+   "translated": false,
+   "fetchedAt": "2026-09-30T11:40:12+00:00"
+  }
+ ]
 }
