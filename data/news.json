@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": "2026-10-01T20:09:51+00:00",
+ "updatedAt": "2026-10-01T21:13:29+00:00",
  "coverage": {
   "from": "2026-07-01",
   "to": "2026-10-01"
@@ -1691,6 +1691,28 @@
   },
   "ai": {
    "news": [
+    {
+     "id": "github-copilot-dynamic-workflows",
+     "date": "2026-10-01",
+     "type": "coding",
+     "importance": 2,
+     "sourceType": "official",
+     "sourceName": "GitHub Changelog",
+     "url": "https://github.blog/changelog/2026-10-01-dynamic-workflows-in-copilot-cli-and-the-copilot-app",
+     "originalTitle": "Dynamic workflows in Copilot CLI and the Copilot app",
+     "company": "GitHub",
+     "ar": {
+      "title": "جيت هاب كوبايلوت يطرح \"تدفقات عمل ديناميكية\" لتنسيق مهام الوكلاء",
+      "summary": "تتيح التدفقات الديناميكية للمطورين كتابة مهام متعددة الخطوات تمزج بين خطوات تلقائية ووكلاء كوبايلوت، تعمل بالتوالي أو بالتوازي، وهي الآن في معاينة عامة عبر Copilot CLI وتطبيق Copilot وحزمة Copilot SDK.",
+      "details": "أطلقت جيت هاب \"التدفقات الديناميكية\" (Dynamic Workflows) في الأول من أكتوبر عبر Copilot CLI وتطبيق GitHub Copilot وحزمة Copilot SDK. التدفق الديناميكي برنامج قصير يحدد كيفية تنفيذ مهمة ما، فيمزج بين خطوات تلقائية عادية وعمل وكيل واحد أو أكثر من وكلاء Copilot، ويمكن أن تُنفَّذ هذه الخطوات بالتتابع أو بالتوازي أو كليهما.\n\nتستهدف الميزة المهام التي تحتاج إلى بنية قابلة للتكرار ومراجعة بشرية، مثل التحقيق في عطل عبر توزيع تحليل السجلات على عدة وكلاء، أو مسح قاعدة الشيفرة بحثًا عن نمط معين، أو مراجعة ملفات طلبات سحب كثيرة دفعة واحدة. يمكن للتدفقات تمرير نتائج منظمة بين المراحل، وجعل الوكلاء يتحققون من نتائج بعضهم، وطلب مدخلات من المطور، والتوقف عند نقطة مراجعة قبل الاستمرار.\n\nتعمل التدفقات الديناميكية من داخل إضافة لـ Copilot، فتستطيع استدعاء واجهات برمجة التوسعة الخاصة بـ Copilot وخدمات أخرى. الميزة في معاينة عامة ومتاحة لجميع خطط Copilot."
+     },
+     "en": {
+      "title": "GitHub Copilot adds dynamic workflows for multi-agent tasks",
+      "summary": "Dynamic workflows let developers script multi-step tasks that mix automated steps with Copilot agents, running in parallel or sequence, now in public preview in Copilot CLI, the Copilot app and the Copilot SDK.",
+      "details": "GitHub rolled out dynamic workflows across Copilot CLI, the GitHub Copilot app and the Copilot SDK on October 1. A dynamic workflow is a short program that defines how a task gets done, mixing ordinary automated steps with the work of one or more Copilot agents, running those steps in sequence, in parallel, or both.\n\nThe feature targets jobs that need a repeatable structure and human oversight, such as investigating an incident by splitting log analysis across agents, sweeping a codebase for a pattern, or reviewing many pull request files at once. Workflows can pass structured results between stages, have agents check each other's findings, ask the developer for input, and pause at a checkpoint before continuing.\n\nDynamic workflows live inside a Copilot extension, so they can call Copilot's extensibility APIs and other services. The feature is in public preview and available on all Copilot plans."
+     },
+     "addedAt": "2026-10-01T21:13:29+00:00"
+    },
     {
      "id": "github-copilot-computer-use-desktop-apps",
      "date": "2026-10-01",
