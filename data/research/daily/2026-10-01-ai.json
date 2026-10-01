@@ -22,6 +22,27 @@
         "summary": "Barclays and Anthropic announced an expanded partnership, targeting Claude Code adoption by half of Barclays' developers by end of 2026.",
         "details": "Barclays and Anthropic announced an expanded partnership under which the bank aims to have Claude Code used by 50% of its developers by the end of 2026, growing to a majority in 2027, as part of an effort to modernize legacy systems and speed up software development.\n\nThe bank has already deployed a Colleague Knowledge Assistant since 2025, now used by more than 16,000 UK employees and handling over 1 million searches to support around 20 million UK retail customers. Barclays' Global Markets unit also uses Claude to process roughly 120,000 emails a day, classifying and enriching client inquiries and reducing manual handling.\n\nBarclays said the expansion includes governance, security controls and human oversight, reflecting its status as a regulated financial institution."
       }
+    },
+    {
+      "id": "ai2-olmo-core-3-moe-training",
+      "date": "2026-10-01",
+      "type": "product",
+      "importance": 1,
+      "sourceType": "official",
+      "sourceName": "Ai2 (Hugging Face Blog)",
+      "url": "https://huggingface.co/blog/allenai/olmocore3",
+      "originalTitle": "Introducing Olmo-core 3: Open, scalable training infrastructure for large MoEs",
+      "company": "Ai2",
+      "ar": {
+        "title": "معهد Ai2 يطلق Olmo-core 3 لتدريب نماذج ضخمة بأسلوب خليط الخبراء",
+        "summary": "أصدر معهد Allen للذكاء الاصطناعي Olmo-core 3، بنية تحتية مفتوحة المصدر لتدريب نماذج لغوية ضخمة بأسلوب خليط الخبراء، مع تحسينات كبيرة في الإنتاجية.",
+        "details": "أصدر معهد Allen للذكاء الاصطناعي (Ai2) النسخة الثالثة من Olmo-core، وهي بنية تحتية مفتوحة المصدر مخصصة لتدريب نماذج لغوية ضخمة تعتمد أسلوب \"خليط الخبراء\" (Mixture of Experts).\n\nرفعت النسخة الجديدة عدد الخبراء من 8 إلى 128 خبيرًا مع اختيار أربعة خبراء فقط لكل رمز، ما رفع السعة الإجمالية من 4.6 مليار إلى 47 مليار معامل بأقل خسارة ممكنة في الإنتاجية. كما تحوّلت البنية من التوازي الكامل للبيانات (FSDP) إلى توازي البيانات الموزّع (DDP)، محققة تحسنًا في الإنتاجية بنحو 2.7 ضعف مقارنة بالإصدارات السابقة.\n\nتتضمن النسخة تقنيات توازي للخبراء وخطوط الأنابيب وحالة محسّن موزعة لمنع اختناقات الذاكرة عبر مجموعات معالجات الرسوميات، وتم اختبارها بنجاح على نماذج تتجاوز تريليون معامل، في خطوة تهدف لإتاحة تدريب نماذج ضخمة للباحثين والمؤسسات الأصغر."
+      },
+      "en": {
+        "title": "Ai2 releases Olmo-core 3 for training large mixture-of-experts models",
+        "summary": "The Allen Institute for AI released Olmo-core 3, open-source training infrastructure for large mixture-of-experts language models, with major throughput gains at trillion-parameter scale.",
+        "details": "The Allen Institute for AI (Ai2) released Olmo-core 3, an open-source training infrastructure framework built for developing large mixture-of-experts (MoE) language models.\n\nThe new version expands the expert pool from 8 to 128 while still selecting only four experts per token, growing total model capacity from 4.6 billion to 47 billion parameters with minimal throughput loss. It also switches from fully sharded data parallelism (FSDP) to distributed data parallelism (DDP), delivering roughly 2.7x higher throughput than earlier versions.\n\nOlmo-core 3 adds expert parallelism, pipeline parallelism and distributed optimizer state to avoid memory bottlenecks across GPU clusters, and has been benchmarked successfully on configurations exceeding one trillion total parameters, aiming to make large-scale MoE training more accessible to researchers and smaller organizations."
+      }
     }
   ],
   "upcoming": [],
