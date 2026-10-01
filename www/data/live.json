@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-01T14:00:05+00:00",
+ "updatedAt": "2026-10-01T14:21:25+00:00",
  "items": [
   {
    "id": "auto-787c8316602e",
@@ -20,26 +20,6 @@
    "translated": false,
    "fetchedAt": "2026-10-01T13:21:18+00:00",
    "company": "NVIDIA"
-  },
-  {
-   "id": "auto-dad83ddc9137",
-   "tab": "ai",
-   "date": "2026-10-01",
-   "publishedAt": "2026-10-01T00:00:00+00:00",
-   "type": "product",
-   "importance": 1,
-   "sourceType": "official",
-   "sourceName": "Anthropic Newsroom",
-   "url": "https://www.anthropic.com/news/barclays-scales-claude",
-   "originalTitle": "Barclays scales Claude to upgrade operations and improve client experience",
-   "en": {
-    "title": "Barclays scales Claude to upgrade operations and improve client experience",
-    "summary": "Barclays scales Claude to upgrade operations and improve client experience",
-    "details": ""
-   },
-   "translated": false,
-   "fetchedAt": "2026-10-01T08:09:34+00:00",
-   "company": "Anthropic"
   }
  ]
 }
