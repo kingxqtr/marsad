@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": "2026-10-01T22:09:29+00:00",
+ "updatedAt": "2026-10-01T23:10:53+00:00",
  "coverage": {
   "from": "2026-07-01",
   "to": "2026-10-01"
@@ -1712,6 +1712,28 @@
       "details": "GitHub rolled out dynamic workflows across Copilot CLI, the GitHub Copilot app and the Copilot SDK on October 1. A dynamic workflow is a short program that defines how a task gets done, mixing ordinary automated steps with the work of one or more Copilot agents, running those steps in sequence, in parallel, or both.\n\nThe feature targets jobs that need a repeatable structure and human oversight, such as investigating an incident by splitting log analysis across agents, sweeping a codebase for a pattern, or reviewing many pull request files at once. Workflows can pass structured results between stages, have agents check each other's findings, ask the developer for input, and pause at a checkpoint before continuing.\n\nDynamic workflows live inside a Copilot extension, so they can call Copilot's extensibility APIs and other services. The feature is in public preview and available on all Copilot plans."
      },
      "addedAt": "2026-10-01T21:13:29+00:00"
+    },
+    {
+     "id": "github-copilot-vscode-september-2026-roundup",
+     "date": "2026-10-01",
+     "type": "coding",
+     "importance": 2,
+     "sourceType": "official",
+     "sourceName": "GitHub Changelog",
+     "url": "https://github.blog/changelog/2026-10-01-github-copilot-in-vs-code-september-2026-releases",
+     "originalTitle": "GitHub Copilot in VS Code, September 2026 releases",
+     "company": "GitHub",
+     "ar": {
+      "title": "جيت هاب كوبايلوت في VS Code يضيف أتمتة مجدولة ودمج تلقائي لطلبات السحب",
+      "summary": "يغطي سجل تغييرات كوبايلوت في VS Code لشهر سبتمبر 2026 (الإصدارات 1.136 إلى 1.140) ميزة جدولة المهام المتكررة، وميزة الدمج التلقائي للوكيل، وموجّه نماذج تجريبي باسم HydraFusion.",
+      "details": "نشرت جيت هاب في الأول من أكتوبر سجل تغييرات كوبايلوت الشهري في VS Code، الذي يغطي الإصدارات من 1.136 إلى 1.140 الصادرة خلال سبتمبر 2026. يركّز التحديث على نقل العمل القائم على الوكلاء من التنفيذ وحتى دمج طلب السحب.\n\nتبرز ميزتان في طور المعاينة: جدولة الأتمتة التي تتيح للمطورين تشغيل مهمة على أساس ساعي أو يومي أو أسبوعي من قالب جاهز أو تعليمة مخصصة، وميزة \"الدمج التلقائي للوكيل\" التي تجعل جلسة الوكيل النشطة تتعامل بنفسها مع ملاحظات المراجعة والفحوصات الفاشلة وتعارضات الدمج وإعادة تشغيل سير العمل.\n\nيضيف الإصدار أيضًا موجّه نماذج تجريبيًا باسم HydraFusion يختار تلقائيًا النموذج وسير العمل المناسبين لمهمة الترميز عند تفعيله. ومن الإضافات الأخرى إمكانية فتح نموذج طلب السحب مباشرة من جلسة وكيل في نافذة الوكلاء، وبدء جلسات الوكلاء داخل بيئات Dev Containers، وإرفاق سياق مجلد محلي بمحادثة جارية."
+     },
+     "en": {
+      "title": "GitHub Copilot in VS Code adds scheduled automations and agent merge",
+      "summary": "GitHub's September 2026 Copilot changelog for VS Code (v1.136-v1.140) adds recurring task automations, an agent-merge feature for pull requests, and a preview model router called HydraFusion.",
+      "details": "GitHub published its monthly Copilot-in-VS-Code changelog on October 1, covering versions 1.136 through 1.140 released through September 2026. The update focuses on taking agent-driven development from implementation through to a merged pull request.\n\nTwo preview features stand out: scheduled automations let developers run a task on an hourly, daily or weekly cadence from a template or a custom prompt, and agent merge lets an active agent session handle review feedback, failed checks, merge conflicts and workflow reruns on its own.\n\nThe release also adds a research-preview model router called HydraFusion, which can automatically choose which model and workflow to use for a coding task when enabled. Other additions let developers open the pull request form directly from an agent session in the Agents window, start agent sessions inside Dev Containers, and attach a local folder's context to an ongoing chat."
+     },
+     "addedAt": "2026-10-01T23:10:53+00:00"
     },
     {
      "id": "github-copilot-computer-use-desktop-apps",
