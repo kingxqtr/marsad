@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": "2026-10-01T13:09:04+00:00",
+ "updatedAt": "2026-10-01T14:09:25+00:00",
  "coverage": {
   "from": "2026-07-01",
   "to": "2026-10-01"
@@ -1691,6 +1691,28 @@
   },
   "ai": {
    "news": [
+    {
+     "id": "anthropic-barclays-claude-expansion",
+     "date": "2026-10-01",
+     "type": "business",
+     "importance": 2,
+     "sourceType": "official",
+     "sourceName": "Anthropic Newsroom",
+     "url": "https://www.anthropic.com/news/barclays-scales-claude",
+     "originalTitle": "Barclays scales Claude to upgrade operations and improve client experience",
+     "company": "Anthropic",
+     "ar": {
+      "title": "بنك باركليز يوسّع استخدام Claude في عملياته",
+      "summary": "أعلن باركليز وAnthropic توسيع نشر Claude، مع استهداف وصول Claude Code إلى نصف المطورين بحلول نهاية 2026.",
+      "details": "أعلن بنك باركليز وشركة Anthropic عن توسيع شراكتهما، حيث يهدف البنك إلى استخدام Claude Code من قبل نصف مطوريه بحلول نهاية عام 2026، على أن تمتد التغطية لتشمل الأغلبية خلال 2027، كجزء من خطة لتحديث الأنظمة القديمة وتسريع تطوير البرمجيات.\n\nيستخدم البنك بالفعل مساعد \"Colleague Knowledge Assistant\" منذ عام 2025، والذي يخدم أكثر من 16 ألف موظف في المملكة المتحدة وعالج أكثر من مليون عملية بحث لدعم نحو 20 مليون عميل من عملاء التجزئة. كما يعتمد قسم الأسواق العالمية في البنك على Claude لمعالجة نحو 120 ألف رسالة بريد إلكتروني يوميًا، لتصنيف وإثراء استفسارات العملاء وتقليل العمل اليدوي.\n\nأكد البنك أن التوسع يأتي مع ضوابط حوكمة وأمان ومراقبة بشرية صارمة، باعتباره مؤسسة مالية خاضعة لتنظيم مشدد."
+     },
+     "en": {
+      "title": "Barclays expands Claude use across operations",
+      "summary": "Barclays and Anthropic announced an expanded partnership, targeting Claude Code adoption by half of Barclays' developers by end of 2026.",
+      "details": "Barclays and Anthropic announced an expanded partnership under which the bank aims to have Claude Code used by 50% of its developers by the end of 2026, growing to a majority in 2027, as part of an effort to modernize legacy systems and speed up software development.\n\nThe bank has already deployed a Colleague Knowledge Assistant since 2025, now used by more than 16,000 UK employees and handling over 1 million searches to support around 20 million UK retail customers. Barclays' Global Markets unit also uses Claude to process roughly 120,000 emails a day, classifying and enriching client inquiries and reducing manual handling.\n\nBarclays said the expansion includes governance, security controls and human oversight, reflecting its status as a regulated financial institution."
+     },
+     "addedAt": "2026-10-01T14:09:25+00:00"
+    },
     {
      "id": "google-gemini-4-argon-release",
      "date": "2026-09-30",
