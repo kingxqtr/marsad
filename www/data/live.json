@@ -1,6 +1,26 @@
 {
- "updatedAt": "2026-10-01T20:26:39+00:00",
+ "updatedAt": "2026-10-01T20:43:24+00:00",
  "items": [
+  {
+   "id": "auto-169130cc0c02",
+   "tab": "ai",
+   "date": "2026-10-01",
+   "publishedAt": "2026-10-01T19:57:28+00:00",
+   "type": "coding",
+   "importance": 1,
+   "sourceType": "official",
+   "sourceName": "GitHub Changelog",
+   "url": "https://github.blog/changelog/2026-10-01-structured-forms-for-private-vulnerability-reports",
+   "originalTitle": "Structured forms for private vulnerability reports",
+   "en": {
+    "title": "Structured forms for private vulnerability reports",
+    "summary": "Private vulnerability reports can now use a structured form that asks reporters for the details you need to assess a vulnerability, including a reproducible proof of concept.",
+    "details": "Private vulnerability reports can now use a structured form that asks reporters for the details you need to assess a vulnerability, including a reproducible proof of concept.\n\nA single free-text box made it easy to submit low-quality or AI-generated reports and hard for you to find the signal in them. Now, by default, reporters must fill in four required fields: summary, details, proof of concept (at least 150 characters), and impact. Their answers are combined into the advisory description, so you review and edit the report as you do today.\n\nWith this update:\n\n- You can customize the form by adding a .github/VULNERABILITY_REPORT.yml file to your repository’s default branch. To apply a form to all repositories you own, add it to your organization or account’s .github repository. Forms use issue form syntax, and fields support min_length so you can require a minimum level of detail. If your form is invalid, the default form is used.\n\n- You can require reporters to assign a CWE before they submit, from Settings > Advanced Security > Private vulnerability reporting . Organization and enterprise owners can enforce this setting through a policy.\n\n- If your repository has a security policy, reporters see a banner linking to your SECURITY.md before they submit.\n\n- Reporters can check “I used AI assistance to find or write up this report” to disclose AI use. …"
+   },
+   "translated": false,
+   "fetchedAt": "2026-10-01T20:43:18+00:00",
+   "company": "GitHub"
+  },
   {
    "id": "auto-90b2c0944fee",
    "tab": "ai",
