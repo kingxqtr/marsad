@@ -1,6 +1,26 @@
 {
- "updatedAt": "2026-10-01T14:21:25+00:00",
+ "updatedAt": "2026-10-01T14:42:43+00:00",
  "items": [
+  {
+   "id": "auto-d61e91fb979b",
+   "tab": "ai",
+   "date": "2026-10-01",
+   "publishedAt": "2026-10-01T14:16:04+00:00",
+   "type": "hardware",
+   "importance": 1,
+   "sourceType": "official",
+   "sourceName": "Meta Newsroom",
+   "url": "https://about.fb.com/news/2026/10/announcing-ranveer-singh-as-brand-ambassador-for-ray-ban-and-ray-ban-meta-in-india-along-with-exciting-new-updates-to-our-ai-glasses/",
+   "originalTitle": "Announcing Ranveer Singh as Brand Ambassador for Ray-Ban and Ray-Ban Meta in India along with Exciting New Updates to our AI Glasses",
+   "en": {
+    "title": "Announcing Ranveer Singh as Brand Ambassador for Ray-Ban and Ray-Ban Meta in India along with Exciting New Updates to our AI Glasses",
+    "summary": "Ranveer Singh becomes the first Brand Ambassador for Ray-Ban and Ray-Ban Meta in India.",
+    "details": "Ranveer Singh becomes the first Brand Ambassador for Ray-Ban and Ray-Ban Meta in India. Ranveer has had a long-standing relationship with Meta with multiple collaborations over the years and the association marks a significant new chapter for Ray-Ban in India, a brand that has spent generations empowering people to see the world – and themselves – through their own authentic lens combined with Meta’s powerful AI technology to lead a new era of expression.\n\n“Ray-Ban has always stood for individuality, and that is something I have connected with for as long as I can remember. Style, for me, has never been about following a fixed formula – it is about instinct, mood and having the freedom to express every version of yourself. A combination of these iconic styles and cutting-edge technology with Ray-Ban Meta, makes this partnership feel so natural. Ray-Ban’s incredible legacy of people who have done things their own way along with Meta’s vision of building AI glasses for everyone – I’m excited to be a part of that story in India.” – Ranveer Singh\n\nRanveer’s association with Ray-Ban Meta demonstrates how iconic styles and technology blend effortlessly into everyday life while still staying true to your individual style – AI glasses that don’t just look great, but deliver value, and help you on the go – whether you’re building healthy habits or navigating a busy calendar – all without reaching for your phone. …"
+   },
+   "translated": false,
+   "fetchedAt": "2026-10-01T14:42:38+00:00",
+   "company": "Meta"
+  },
   {
    "id": "auto-787c8316602e",
    "tab": "ai",
