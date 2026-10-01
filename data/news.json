@@ -1,9 +1,9 @@
 {
  "version": 1,
- "updatedAt": "2026-09-30T23:09:20+00:00",
+ "updatedAt": "2026-10-01T00:09:40+00:00",
  "coverage": {
-  "from": "2026-06-30",
-  "to": "2026-09-30"
+  "from": "2026-07-01",
+  "to": "2026-10-01"
  },
  "tabs": {
   "once-human": {
@@ -1478,27 +1478,6 @@
       "details": "Alpha 4.8.3 arrived on 1 July with The Return of XenoThreat, an event in which the anti-alien outlaw group attacks civilian and corporate targets across Stanton and the Navy asks Foxwell Enforcement for help.\n\n- Defend alien-built ships under attack\n- Fight off waves of anti-alien fighters\n- Ambush and eliminate arriving forces\n- Draw out and kill XenoThreat lieutenants to weaken their command\n- Remove their Idris frigate by destroying it or killing its pilot\n\nThe event ran until 15 July, and CIG said players could earn new blueprints as rewards. July's subscriber Ships of the Month, the Anvil Hornet Mk II series, were themed around the fight against XenoThreat."
      },
      "addedAt": "2026-07-01T23:59:59+00:00"
-    },
-    {
-     "id": "sq42-newsletter-uees-stanton-crew",
-     "date": "2026-06-30",
-     "type": "squadron42",
-     "importance": 1,
-     "sourceType": "official",
-     "sourceName": "Squadron 42 Newsletter (CIG)",
-     "url": "https://mailchi.mp/cloudimperiumgames/squadron-42-newsletter-en-6302026",
-     "originalTitle": "Life on the Line: Meet the Crew Aboard the UEES Stanton",
-     "ar": {
-      "title": "نشرة Squadron 42 تعرّف بطاقم السفينة UEES Stanton",
-      "summary": "قدمت نشرة Squadron 42 لشهر يونيو لمحات عن أفراد طاقم UEES Stanton، سفينة فئة Idris التي تدور حولها أحداث الحملة، أثناء عودتهم من إجازة على البر.",
-      "details": "قدمت نشرة Squadron 42 البريدية لشهر يونيو، المرسلة في 30 يونيو، نظرة من داخل عالم اللعبة على الشخصيات التي سيخدم اللاعبون إلى جانبها في الحملة الفردية.\n\nوتركز النشرة على السفينة UEES Stanton، وهي من فئة Idris وتعمل ضمن مجموعة القتال 87 التابعة للأسطول الخامس. ويشارك أفراد من الطاقم، بينهم مهندس وميكانيكي، انطباعات قصيرة بصيغة المتكلم أثناء عودتهم من إجازة في نظام Goss، ويتحدثون عن طيار جديد سينضم قريبًا وعن مهام السفينة في نظامي Kellog وOdin.\n\nوتندرج النشرة ضمن رسائل CIG الدورية حول Squadron 42، التي تستخدمها الشركة لمشاركة مستجدات التطوير ولمحات موضوعية قبل إصدار اللعبة، ويمكن الاشتراك فيها عبر إعدادات حساب RSI."
-     },
-     "en": {
-      "title": "Squadron 42 newsletter introduces the crew of the UEES Stanton",
-      "summary": "The June Squadron 42 newsletter profiled crew members aboard the UEES Stanton, the Idris-class ship at the centre of the campaign, as they return from shore leave.",
-      "details": "CIG's Squadron 42 newsletter for June, sent on 30 June, offered an in-universe look at the people players will serve alongside in the single-player campaign.\n\nThe issue focuses on the UEES Stanton, an Idris-class vessel deployed with the 5th Fleet's 87th Battle Group. Crew members, including an engineer and a mechanic, share short first-person impressions as they return from shore leave in the Goss system, mention a new pilot joining soon and describe the ship's duties in the Kellog and Odin systems.\n\nThe newsletter is part of CIG's regular Squadron 42 mailings, which the studio uses for development updates and themed spotlights ahead of the game's release. Players can subscribe through their RSI account settings."
-     },
-     "addedAt": "2026-06-30T23:59:59+00:00"
     }
    ],
    "upcoming": [
@@ -1526,30 +1505,6 @@
       "details": "Orison Relief Support arrived with Alpha 4.10.1 on 16 September and runs until 7 October. It continues the Siege of Orison story, asking players to help rebuild the Crusader city after the Nine Tails attack.\n\n- 14 replayable contracts, accepted from anywhere in Stanton through the Priority tab of the mission app\n- Tasks: resource gathering (some requiring a salvage ship), medical supply deliveries, crafting and delivering platform thrusters, and combat against the Nine Tails\n- Rewards: the SecondWind pistol, rifle, SMG and light, medium and heavy armour, unlocked with points and credited to the RSI account\n\nProgress is tracked in the mobiGlas journal. After PTU feedback, CIG reduced the event's requirements and now grants its blueprints directly instead of through the reward track.",
       "location": "In game – Stanton system",
       "dateNote": "Already running; ends 7 October 2026."
-     },
-     "addedAt": "2026-09-27T13:25:38+00:00"
-    },
-    {
-     "id": "sc-aurora-mk1-retirement",
-     "date": "2026-09-30",
-     "type": "ship",
-     "importance": 1,
-     "sourceType": "official",
-     "sourceName": "RSI Spectrum – Announcements",
-     "url": "https://robertsspaceindustries.com/spectrum/community/SC/forum/1/thread/rsi-aurora-mk-i-retirement-reminder",
-     "originalTitle": "",
-     "dateConfidence": "confirmed",
-     "ar": {
-      "title": "سحب RSI Aurora Mk I من متجر الحزم في 30 سبتمبر",
-      "summary": "ستسحب CIG سفينة RSI Aurora Mk I الأصلية من متجر الحزم في 30 سبتمبر لصالح Aurora Mk II، مع بقاء السفن المملوكة قابلة للعب بالكامل، بينما تصبح عناصر إعادة الشراء المرتبطة بها غير قابلة للاسترجاع.",
-      "details": "أكدت CIG أن 30 سبتمبر 2026 هو موعد التقاعد الرسمي لسفينة RSI Aurora Mk I، إحدى سفن البداية الكلاسيكية في Star Citizen، لإفساح المجال أمام Aurora Mk II. وكان الإعلان الأول عن التقاعد قد صدر في مارس مع مهلة ستة أشهر.\n\n- إزالة Aurora Mk I من متجر الحزم\n- تعذّر استرجاع السفن المنفردة أو الترقيات أو ترقيات CCU المرتبطة بها في قائمة إعادة الشراء (Buy Back) بعد هذا التاريخ\n- بقاء السفن الموجودة في الحظائر قابلة للعب ومدعومة بالكامل، بما في ذلك الإصلاح والتزود بالوقود والمكونات، كما حدث مع Hornet Mk I المتقاعدة\n\nوأضافت الشركة أنها قد تقدم مستقبلًا طرقًا جديدة للحصول على Aurora Mk I داخل اللعبة.",
-      "location": "متجر الحزم على موقع RSI"
-     },
-     "en": {
-      "title": "RSI Aurora Mk I leaves the pledge store on 30 September",
-      "summary": "CIG will retire the original RSI Aurora Mk I from the pledge store on 30 September in favour of the Aurora Mk II. Owned ships stay fully playable, but related buy-back items become unrecoverable.",
-      "details": "CIG has confirmed that 30 September 2026 marks the official retirement of the RSI Aurora Mk I, one of Star Citizen's classic starter ships, as RSI makes way for the Aurora Mk II. The retirement was first announced in March with a six-month sunset window.\n\n- The Aurora Mk I will be removed from the pledge store\n- Unretrieved standalone ships, upgrades or CCUs involving the Mk I in the Buy Back queue can no longer be recovered after that date\n- Ships already in hangars remain fully playable and supported, including repairs, refuelling and components, as with the retired Hornet Mk I\n\nCIG added that it may introduce new ways to earn the Aurora Mk I in game in the future.",
-      "location": "RSI pledge store"
      },
      "addedAt": "2026-09-27T13:25:38+00:00"
     },
@@ -4163,52 +4118,6 @@
       "details": "Notion released version 3.6 on 1 July, focused on AI agents.\n\n- External Agents: outside agents such as Claude and Cursor can be brought into Notion, where teammates @-mention them and assign tasks from shared boards like any colleague.\n- Interactive HTML blocks: agents can build embedded tools inside pages, such as an ROI calculator, a quiz or an org chart.\n- Microsoft support: Notion's agents can read and write Word, Excel and PowerPoint files and work with Outlook mail and calendar.\n- Five new MCP connections for Custom Agents: Mercury, Mixpanel, Miro, Box and ClickHouse.\n- More models, including Opus 4.8, Grok 4.3 and GLM 5.2, plus audit logs of Custom Agent actions on Enterprise plans.\n\nAI meeting notes also got better speaker identification. Notion followed up with version 3.7 on 15 September, adding a shared Skills library for teams and a public beta of its Agent SDK."
      },
      "addedAt": "2026-07-01T23:59:59+00:00"
-    },
-    {
-     "id": "anthropic-fable-5-access-restored",
-     "date": "2026-06-30",
-     "type": "policy",
-     "importance": 2,
-     "sourceType": "official",
-     "sourceName": "Anthropic News",
-     "url": "https://www.anthropic.com/news/redeploying-fable-5",
-     "originalTitle": "Redeploying Claude Fable 5",
-     "company": "Anthropic",
-     "tool": "Claude",
-     "ar": {
-      "title": "واشنطن ترفع قيود التصدير عن Claude Fable 5 وAnthropic تعيد إتاحته",
-      "summary": "بعد تعليق دام 19 يومًا بسبب قيود تصدير أمريكية، بدأت Anthropic إعادة Claude Fable 5 لجميع المستخدمين حول العالم في 1 يوليو، بينما يقتصر Mythos 5 الأقل تقييدًا على مؤسسات أمريكية معتمدة.",
-      "details": "أعلنت Anthropic في 30 يونيو أن الحكومة الأمريكية رفعت قيود التصدير التي فرضتها في 12 يونيو على نموذجي Claude Fable 5 وClaude Mythos 5. وكانت القيود تلزم الشركة بمنع وصول غير المواطنين الأمريكيين، ولأنها لم تكن قادرة على التحقق من جنسية المستخدمين في الوقت الفعلي، علّقت النموذجين لجميع العملاء.\n\nوجاءت القيود بعد اكتشاف أمني، إذ أبلغ باحثون في Amazon عن أسلوب لتجاوز الضمانات دفع Fable 5 إلى تحديد ثغرات برمجية، وفي حالة واحدة إلى كتابة شيفرة توضح كيفية استغلال إحداها.\n\n- عاد Fable 5 عالميًا اعتبارًا من 1 يوليو عبر Claude Platform وClaude.ai وClaude Code وCowork\n- حصل مشتركو Pro وMax وTeam وبعض عملاء Enterprise على استخدام مجاني لـ Fable 5 حتى 50% من الحدود الأسبوعية لغاية 7 يوليو\n- مصنّف جديد يحجب أسلوب التجاوز المبلّغ عنه في أكثر من 99% من الحالات\n- يبقى Mythos 5، الأقل تقييدًا، متاحًا فقط لمؤسسات أمريكية معتمدة\n\nوبذلك انتهت فترة ظل فيها أقوى نماذج Anthropic غير متاح لأي مستخدم لنحو ثلاثة أسابيع."
-     },
-     "en": {
-      "title": "US lifts export controls on Claude Fable 5; Anthropic restores access",
-      "summary": "After a 19-day suspension caused by US export controls, Anthropic began restoring Claude Fable 5 worldwide on July 1, while the less restricted Mythos 5 returns only to approved US organizations.",
-      "details": "Anthropic said on June 30 that the US government had lifted the export controls it imposed on June 12 on Claude Fable 5 and Claude Mythos 5. The controls required Anthropic to block access by foreign nationals, and because it could not verify users' nationality in real time, the company had suspended both models for all customers.\n\nThe restrictions followed a cybersecurity finding: Amazon researchers had reported a jailbreak that led Fable 5 to identify software vulnerabilities and, in one case, write code showing how one could be exploited.\n\n- Fable 5 became available again globally from July 1 on the Claude Platform, Claude.ai, Claude Code and Cowork\n- Pro, Max, Team and some Enterprise subscribers got free Fable 5 usage of up to 50% of weekly limits through July 7\n- A new classifier blocks the reported jailbreak technique in more than 99% of cases\n- Mythos 5, which has fewer safeguards, is available only to approved US organizations\n\nThe suspension had left Anthropic's most capable model unavailable to all users for almost three weeks."
-     },
-     "addedAt": "2026-06-30T23:59:59+00:00"
-    },
-    {
-     "id": "google-nano-banana-2-lite-ga",
-     "date": "2026-06-30",
-     "type": "media",
-     "importance": 2,
-     "sourceType": "official",
-     "sourceName": "Gemini API Changelog",
-     "url": "https://ai.google.dev/gemini-api/docs/changelog",
-     "originalTitle": "Released gemini-3.1-flash-lite-image (Nano Banana 2 Lite) to general availability (GA)",
-     "company": "Google",
-     "tool": "Nano Banana 2 Lite",
-     "ar": {
-      "title": "Google تتيح Nano Banana 2 Lite، أسرع نماذجها للصور، بشكل عام للمطورين",
-      "summary": "نقلت Google نموذج Nano Banana 2 Lite إلى الإتاحة العامة في Gemini API، وتقدّمه بوصفه أسرع نماذجها وأقلها تكلفة لتوليد الصور وتعديلها بكميات كبيرة.",
-      "details": "أتاحت Google نموذج Nano Banana 2 Lite، ومعرّفه البرمجي gemini-3.1-flash-lite-image، بشكل عام في Gemini API. وتصفه الشركة بأنه أسرع نماذج الصور في عائلة Gemini وأقلها تكلفة، وقد صُمم للحالات التي تكون فيها السرعة والتكلفة الأولوية، مثل توليد الصور أو تعديلها على نطاق واسع.\n\n- الدقة: 1K فقط، من دون خيارات 512 بكسل أو 2K أو 4K المتاحة في النماذج الأكبر.\n- نسب العرض: عشر صيغ، من 1:1 و4:5 إلى 9:16 و16:9 و21:9.\n- الحدود: غير مُحسَّن للمراجع المتعددة أو التعديل عبر عدة جولات، ولا يدعم الاستناد إلى بحث Google، ويبقى Nano Banana 2 وNano Banana Pro الخيار لهذه المهام.\n- تحمل صوره، مثل بقية نماذج Nano Banana، علامة SynthID مائية غير مرئية.\n\nوخلال أيام بدأت منصات إبداعية بإتاحته، ومنها Recraft التي أضافته إلى Recraft Studio مطلع يوليو لتوليد الأفكار السريعة."
-     },
-     "en": {
-      "title": "Google makes Nano Banana 2 Lite, its fastest image model, generally available",
-      "summary": "Google moved Nano Banana 2 Lite to general availability in the Gemini API, presenting it as its fastest and cheapest model for generating and editing images at high volume.",
-      "details": "Google has released Nano Banana 2 Lite, model ID gemini-3.1-flash-lite-image, to general availability in the Gemini API. Google describes it as its fastest and cheapest Gemini image model, built for cases where speed and cost matter most, such as generating or editing images at scale.\n\n- Resolution: 1K only, without the 512px, 2K or 4K options of the larger models.\n- Aspect ratios: ten formats, from 1:1 and 4:5 to 9:16, 16:9 and 21:9.\n- Limits: not optimised for multiple reference images or multi-turn editing, and no Google Search grounding; Nano Banana 2 and Nano Banana Pro remain the choice for those tasks.\n- Like all Nano Banana models, its images carry an invisible SynthID watermark.\n\nWithin days, creative platforms began offering it: Recraft, for example, added Nano Banana 2 Lite to Recraft Studio in early July for rapid concept work."
-     },
-     "addedAt": "2026-06-30T23:59:59+00:00"
     }
    ],
    "upcoming": [
@@ -4238,33 +4147,6 @@
       "details": "Canva World Tour is back for 2026, running worldwide from September 14 through November 30.\n\n- Format: Canva teams in different countries host local community meetups and live training sessions; an event finder is available at canva.com/events.\n- AI Essentials: a new free certification that anyone can complete at their own pace, covering how to get the most out of Canva AI.\n- Design School: short, mobile-first lessons that teach one skill at a time, some lasting about 90 seconds.\n\nAll of the learning content can also be followed online through Canva Design School at any time during the campaign, so people can take part even without a local event nearby.",
       "location": "Worldwide (local events and online)",
       "dateNote": "Campaign started September 14 and ends November 30, 2026."
-     },
-     "addedAt": "2026-09-27T13:25:38+00:00"
-    },
-    {
-     "id": "runway-ai-summit-2026",
-     "date": "2026-09-30",
-     "type": "event",
-     "importance": 1,
-     "sourceType": "official",
-     "sourceName": "Runway AI Summit",
-     "url": "https://summit.runwayml.com/",
-     "originalTitle": "",
-     "company": "Runway",
-     "dateConfidence": "confirmed",
-     "ar": {
-      "title": "قمة Runway AI Summit تنعقد في سان فرانسيسكو في 30 سبتمبر",
-      "summary": "تعقد Runway قمة ليوم واحد في قاعة The Masonic بسان فرانسيسكو، تتناول توليد الفيديو اللحظي ونماذج العالم والروبوتات وسياسات الذكاء الاصطناعي، بمشاركة متحدثين من Runway وNVIDIA وGoogle DeepMind.",
-      "details": "تستضيف Runway قمة Runway AI Summit يوم 30 سبتمبر 2026 من التاسعة صباحاً حتى السادسة مساءً بتوقيت سان فرانسيسكو، في قاعة The Masonic بالعنوان 1111 California St. وتبلغ تذكرة الحضور الشخصي 350 دولاراً، ولا تذكر صفحة الحدث بثاً مباشراً عبر الإنترنت.\n\n- المحاور: توليد الفيديو اللحظي لأعمال الشركات الإبداعية، ونماذج العالم في الروبوتات والذكاء الاصطناعي المادي، وسياسات الذكاء الاصطناعي في الولايات المتحدة، وأحدث أبحاث Runway.\n- المتحدثون: الرئيسان التنفيذيان المشاركان لـRunway كريستوبال فالينزويلا وأناستاسيس جرمانيديس، وكوان فونغ من Physical Intelligence، ومينغ-يو ليو من NVIDIA، وجون بارون من Google DeepMind، والرئيسة السابقة للجنة التجارة الفيدرالية مورين أولهاوزن، مع ممثلين عن Adobe وCanva وElevenLabs.\n\nوتفتتح القمة بكلمة رئيسية عن نماذج العالم ووحدة Runway Robotics.",
-      "location": "The Masonic، سان فرانسيسكو، الولايات المتحدة",
-      "dateNote": "من 9 صباحاً إلى 6 مساءً بتوقيت المحيط الهادئ، أي من 7 مساءً بتوقيت الرياض والدوحة (8 مساءً بتوقيت الإمارات) حتى فجر 1 أكتوبر."
-     },
-     "en": {
-      "title": "Runway AI Summit takes place in San Francisco on September 30",
-      "summary": "Runway's one-day summit at The Masonic in San Francisco covers real-time video generation, world models and robotics, and AI policy, with speakers from Runway, NVIDIA, Google DeepMind and others.",
-      "details": "Runway will host the Runway AI Summit on September 30, 2026, from 9am to 6pm local time at The Masonic, 1111 California St, San Francisco. In-person tickets cost $350; the event page does not mention a livestream.\n\n- Topics: real-time video generation for enterprise creative work, world models for robotics and physical AI, AI policy in the United States, and Runway's latest research.\n- Speakers: Runway co-CEOs Cristóbal Valenzuela and Anastasis Germanidis, Physical Intelligence co-founder Quan Vuong, NVIDIA's Ming-Yu Liu, Google DeepMind's Jon Barron and former FTC chair Maureen Ohlhausen, plus representatives from Adobe, Canva and ElevenLabs.\n\nThe programme opens with a keynote on world models and Runway Robotics.",
-      "location": "The Masonic, San Francisco, USA",
-      "dateNote": "9am-6pm Pacific time, which is 7pm in Riyadh and Doha (8pm in the UAE) until early October 1."
      },
      "addedAt": "2026-09-27T13:25:38+00:00"
     },
