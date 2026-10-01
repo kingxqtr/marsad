@@ -1,6 +1,46 @@
 {
- "updatedAt": "2026-10-01T16:08:31+00:00",
+ "updatedAt": "2026-10-01T16:26:16+00:00",
  "items": [
+  {
+   "id": "auto-27d1b6929cf9",
+   "tab": "ai",
+   "date": "2026-10-01",
+   "publishedAt": "2026-10-01T16:14:56+00:00",
+   "type": "coding",
+   "importance": 1,
+   "sourceType": "official",
+   "sourceName": "GitHub Changelog",
+   "url": "https://github.blog/changelog/2026-10-01-new-dashboard-experience-now-the-default",
+   "originalTitle": "New dashboard experience now the default",
+   "en": {
+    "title": "New dashboard experience now the default",
+    "summary": "The new dashboard experience, previously available as a feature preview, is now the default view for everyone.",
+    "details": "The new dashboard experience, previously available as a feature preview, is now the default view for everyone.\n\nThe redesigned dashboard helps you focus on the work that matters most and makes it easier to find and act on what you need next. You can:\n\n- View your active agent sessions, issues, and pull requests in one place. Use filters to choose what appears in each section, with up to 12 items in each list.\n\n- Catch up on updates in the separate Feed tab, keeping your feed distinct from your productivity-focused dashboard.\n\n- Start work directly from the dashboard, such as assigning an issue to Copilot coding agent or opening a pull request in Copilot Chat.\n\nIf you’d rather keep the previous experience, you can switch back at any time by clicking the dropdown next to “Preview.”\n\nWe’d love to hear your thoughts on the new dashboard experience. Drop a comment with any questions or feedback in the Community discussion .\n\nThe post New dashboard experience now the default appeared first on The GitHub Blog ."
+   },
+   "translated": false,
+   "fetchedAt": "2026-10-01T16:26:11+00:00",
+   "company": "GitHub"
+  },
+  {
+   "id": "auto-1284469877bb",
+   "tab": "ai",
+   "date": "2026-10-01",
+   "publishedAt": "2026-10-01T16:00:00+00:00",
+   "type": "coding",
+   "importance": 1,
+   "sourceType": "official",
+   "sourceName": "OpenAI News",
+   "url": "https://openai.com/index/albertsons-reimagining-retail",
+   "originalTitle": "How Albertsons Companies is reimagining retail from the inside out",
+   "en": {
+    "title": "How Albertsons Companies is reimagining retail from the inside out",
+    "summary": "Albertsons Cos. is using ChatGPT Enterprise and the OpenAI API to help teams work faster and make grocery shopping easier for millions of customers.",
+    "details": "Albertsons Cos. is using ChatGPT Enterprise and the OpenAI API to help teams work faster and make grocery shopping easier for millions of customers."
+   },
+   "translated": false,
+   "fetchedAt": "2026-10-01T16:26:11+00:00",
+   "company": "OpenAI"
+  },
   {
    "id": "auto-d61e91fb979b",
    "tab": "ai",
