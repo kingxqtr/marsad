@@ -43,6 +43,28 @@
         "summary": "The Allen Institute for AI released Olmo-core 3, open-source training infrastructure for large mixture-of-experts language models, with major throughput gains at trillion-parameter scale.",
         "details": "The Allen Institute for AI (Ai2) released Olmo-core 3, an open-source training infrastructure framework built for developing large mixture-of-experts (MoE) language models.\n\nThe new version expands the expert pool from 8 to 128 while still selecting only four experts per token, growing total model capacity from 4.6 billion to 47 billion parameters with minimal throughput loss. It also switches from fully sharded data parallelism (FSDP) to distributed data parallelism (DDP), delivering roughly 2.7x higher throughput than earlier versions.\n\nOlmo-core 3 adds expert parallelism, pipeline parallelism and distributed optimizer state to avoid memory bottlenecks across GPU clusters, and has been benchmarked successfully on configurations exceeding one trillion total parameters, aiming to make large-scale MoE training more accessible to researchers and smaller organizations."
       }
+    },
+    {
+      "id": "github-copilot-computer-use-desktop-apps",
+      "date": "2026-10-01",
+      "type": "coding",
+      "importance": 2,
+      "sourceType": "official",
+      "sourceName": "GitHub Changelog",
+      "url": "https://github.blog/changelog/2026-10-01-github-copilot-can-now-interact-with-desktop-apps",
+      "originalTitle": "GitHub Copilot can now interact with desktop apps with computer use",
+      "company": "GitHub",
+      "tool": "GitHub Copilot",
+      "ar": {
+        "title": "GitHub Copilot يكتسب قدرة \"استخدام الحاسوب\" للتحكم بتطبيقات سطح المكتب",
+        "summary": "أطلقت GitHub معاينة عامة لميزة \"computer use\" في Copilot CLI وتطبيق Copilot على macOS وWindows، تتيح له التحكم مباشرة في تطبيقات سطح المكتب.",
+        "details": "أطلقت GitHub معاينة عامة لميزة جديدة تحت اسم \"computer use\" في Copilot CLI وتطبيق GitHub Copilot على نظامي macOS وWindows، تمنح Copilot القدرة على التفاعل مباشرة مع تطبيقات سطح المكتب.\n\nتشمل القدرات الجديدة قراءة محتوى التطبيقات والسياق المرئي، والنقر على عناصر التحكم، وكتابة النصوص وتعديلها، والضغط على المفاتيح، والتمرير والسحب، والتنقل عبر مهام تمتد على عدة تطبيقات. تستهدف الميزة أتمتة العمل في البرمجيات القديمة أو التي لا توفر واجهة برمجية أو سطر أوامر أو تكامل MCP.\n\nتضمنت الميزة ضوابط أمان، إذ يطلب Copilot موافقة المستخدم قبل التحكم بأي تطبيق، ويمكن للمستخدم مراجعة أو إعادة ضبط التطبيقات المسموح لها، فيما يرشد macOS المستخدم عبر أذونات الوصول وتسجيل الشاشة المطلوبة، مع إمكانية تعطيل الميزة على مستوى المؤسسة. يتم التفعيل عبر أمر \"/computer on\" في CLI أو من إعدادات التطبيق."
+      },
+      "en": {
+        "title": "GitHub Copilot gains \"computer use\" to control desktop apps",
+        "summary": "GitHub launched a public preview of \"computer use\" in Copilot CLI and the Copilot app on macOS and Windows, letting Copilot directly operate desktop applications.",
+        "details": "GitHub launched a public preview of a new \"computer use\" capability in Copilot CLI and the GitHub Copilot app on macOS and Windows, letting Copilot directly interact with desktop applications on a user's behalf.\n\nThe new capabilities include reading accessible app content and visual context, clicking controls, entering and editing text, pressing keys, scrolling, dragging, and navigating workflows that span multiple applications. The goal is to automate tasks in legacy or GUI-only software that lacks an API, command line interface or MCP integration.\n\nThe feature ships with safety controls: Copilot asks for approval before controlling an app, users can review or reset apps they have authorized, macOS walks users through the required Accessibility and Screen Recording permissions, and organizations can disable the feature entirely. It is enabled via \"/computer on\" in the CLI or through the Copilot app's settings menu."
+      }
     }
   ],
   "upcoming": [],
