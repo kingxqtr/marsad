@@ -1,6 +1,26 @@
 {
- "updatedAt": "2026-10-01T23:38:37+00:00",
+ "updatedAt": "2026-10-01T23:50:53+00:00",
  "items": [
+  {
+   "id": "auto-226808ff0a93",
+   "tab": "ai",
+   "date": "2026-10-01",
+   "publishedAt": "2026-10-01T23:44:13+00:00",
+   "type": "model",
+   "importance": 1,
+   "sourceType": "official",
+   "sourceName": "NVIDIA Blog",
+   "url": "https://blogs.nvidia.com/blog/gpus-openai-gpt-6-astra-ultrafast/",
+   "originalTitle": "How NVIDIA GPUs Help Accelerate OpenAI’s GPT-6 Astra Ultrafast",
+   "en": {
+    "title": "How NVIDIA GPUs Help Accelerate OpenAI’s GPT-6 Astra Ultrafast",
+    "summary": "GPT-6 Astra Ultrafast, running on NVIDIA Blackwell GPUs , is available now in the OpenAI API and to eligible ChatGPT Work and Codex users.",
+    "details": "GPT-6 Astra Ultrafast, running on NVIDIA Blackwell GPUs , is available now in the OpenAI API and to eligible ChatGPT Work and Codex users.\n\nAccelerated by inference optimizations through OpenAI’s models that tap into the capabilities of the NVIDIA Blackwell architecture, Ultrafast offers up to 8x faster token generation than the Astra Standard mode. For developers, faster generation can shorten coding agents’ edit-test-debug cycles, reduce the time spent generating responses between tool calls and make interactive applications feel more responsive.\n\nA faster response matters most when it’s repeated across a workflow: an agent writes code, uses a tool, checks the result and decides what to do next. Ultrafast brings Astra’s capabilities into these time-sensitive loops. NVIDIA AI infrastructure helps OpenAI serve more useful model outputs when developers need it.\n\n“NVIDIA’s deep investment in tooling and documentation has enabled us to make our models exceptionally good at programming Blackwell and Rubin GPUs,” said Philippe Tillet, inference lead at OpenAI. “Astra can turn that knowledge into high-performance kernels that make NVIDIA hardware compelling across the full frontier of latency, throughput and cost. With Astra Ultrafast, that means faster model responses as agents write code, use tools and work through complex tasks.”\n\nContinually Improving Performance …"
+   },
+   "translated": false,
+   "fetchedAt": "2026-10-01T23:50:48+00:00",
+   "company": "NVIDIA"
+  },
   {
    "id": "auto-96df1dacae08",
    "tab": "once-human",
