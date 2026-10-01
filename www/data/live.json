@@ -1,6 +1,26 @@
 {
- "updatedAt": "2026-10-01T12:59:46+00:00",
+ "updatedAt": "2026-10-01T13:21:23+00:00",
  "items": [
+  {
+   "id": "auto-787c8316602e",
+   "tab": "ai",
+   "date": "2026-10-01",
+   "publishedAt": "2026-10-01T13:00:49+00:00",
+   "type": "business",
+   "importance": 1,
+   "sourceType": "official",
+   "sourceName": "NVIDIA Blog",
+   "url": "https://blogs.nvidia.com/blog/productive-durable-fungible-ai-factories/",
+   "originalTitle": "Productive, Durable, Fungible: How NVIDIA AI Factories Maximize Return on Investment",
+   "en": {
+    "title": "Productive, Durable, Fungible: How NVIDIA AI Factories Maximize Return on Investment",
+    "summary": "AI factories are built by the megawatt, even by the gigawatt. Each megawatt factory costs roughly $60 million, and AI factory operators will only commit capital on that scale with a clear view of the return on investment.",
+    "details": "AI factories are built by the megawatt, even by the gigawatt. Each megawatt factory costs roughly $60 million, and AI factory operators will only commit capital on that scale with a clear view of the return on investment. Three key things shape AI factory returns:\n\n- Earning capacity: What the factory could earn in a year if it sold every token it can produce.\n\n- Useful life : How long its AI hardware keeps earning.\n\n- Demand : How much demand there is for those tokens.\n\nStrength cannot fully offset weakness in another. High earning capacity counts for little if the factory sells only part of what it can produce. High demand matters little if it stops producing at full capacity in just a year. Nor are the three independent. A factory that can run more kinds of workloads finds more demand, keeping it earning year after year.\n\nNVIDIA AI factories are engineered to maximize all three. They’re:\n\n- Productive : Delivering the highest throughput per megawatt and the lowest cost per token, which maximizes their earning capacity .\n\n- Durable : NVIDIA GPUs and systems keep earning years after they ship, extending useful life .\n\n- Fungible : They run every type of AI — in every phase and every place — as well as many workloads that don’t involve AI at all, which deepens and broadens the demand they can serve.\n\nNVIDIA platform is productive, durable and fungible, which maximizes AI factory returns. …"
+   },
+   "translated": false,
+   "fetchedAt": "2026-10-01T13:21:18+00:00",
+   "company": "NVIDIA"
+  },
   {
    "id": "auto-dad83ddc9137",
    "tab": "ai",
