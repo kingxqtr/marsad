@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-01T21:11:26+00:00",
+ "updatedAt": "2026-10-01T21:31:47+00:00",
  "items": [
   {
    "id": "auto-96df1dacae08",
@@ -19,26 +19,6 @@
    },
    "translated": false,
    "fetchedAt": "2026-10-01T21:11:21+00:00"
-  },
-  {
-   "id": "auto-992c9afca22f",
-   "tab": "ai",
-   "date": "2026-10-01",
-   "publishedAt": "2026-10-01T16:30:10+00:00",
-   "type": "coding",
-   "importance": 1,
-   "sourceType": "official",
-   "sourceName": "GitHub Changelog",
-   "url": "https://github.blog/changelog/2026-10-01-dynamic-workflows-in-copilot-cli-and-the-copilot-app",
-   "originalTitle": "Dynamic workflows in Copilot CLI and the Copilot app",
-   "en": {
-    "title": "Dynamic workflows in Copilot CLI and the Copilot app",
-    "summary": "Dynamic workflows are now available in Copilot CLI, the GitHub Copilot app, and the GitHub Copilot SDK. These let you define an orchestration in code to get the reliability and observability that complex, multi-agent work demands.",
-    "details": "Dynamic workflows are now available in Copilot CLI, the GitHub Copilot app, and the GitHub Copilot SDK. These let you define an orchestration in code to get the reliability and observability that complex, multi-agent work demands.\n\nWhat is a dynamic workflow?\n\nA dynamic workflow is a program that defines how a task is carried out. It combines automated steps with the work of one or more agents, and those steps can run one after another, in parallel, or both. The steps, when to involve agents, and how to use their results are all defined in code, while agents handle the parts that need analysis or judgment. The program itself lives inside a GitHub Copilot extension, which means it has access to Copilot’s powerful extensibility APIs.\n\nFor example, you could use a dynamic workflow to investigate a service incident: collect logs and telemetry, assign independent agents to analyze different systems, and combine their structured findings into a timeline and root-cause report. The same steps run every time.\n\nDynamic workflows can:\n\n- Run commands, use tools, or call other services.\n\n- Divide a goal into tasks and run independent tasks in parallel.\n\n- Pass structured results from one stage to the next.\n\n- Have subagents verify each other’s findings.\n\n- Ask you for input, if your client supports it.\n\n- Pause at a checkpoint so you can review results and resume when you’re ready. …"
-   },
-   "translated": false,
-   "fetchedAt": "2026-10-01T20:57:07+00:00",
-   "company": "GitHub"
   },
   {
    "id": "auto-169130cc0c02",
