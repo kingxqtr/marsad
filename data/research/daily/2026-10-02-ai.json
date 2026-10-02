@@ -150,6 +150,27 @@
         "summary": "The Allen Institute for AI open-sourced AstaBrief, an 8B-parameter model that drafts cited scientific reports for its Asta platform roughly 3.5x faster than the earlier Claude-based pipeline.",
         "details": "The Allen Institute for AI (Ai2) open-sourced AstaBrief, an 8-billion-parameter language model that turns research questions and retrieved literature excerpts into cited reports. It now powers a new \"Fast mode\" inside Ai2's Asta research platform, replacing an earlier report-generation path built on Claude.\n\nAi2 says AstaBrief produces a report in about 51.1 seconds versus 178.5 seconds for the previous pipeline, roughly a 3.5x speedup.\n\nAlongside the model, Ai2 released its full weights, its training data (47,000 supervised fine-tuning examples and 6,000 DPO preference pairs), and an example workflow that lets researchers generate reports from their own PDFs locally.\n\nThe model was trained on data derived from 90,000 real research queries pulled from user logs, with synthetic training data generated using several outside models including Claude, GPT-4.1 and DeepSeek variants."
       }
+    },
+    {
+      "id": "anthropic-frontier-academy-100m",
+      "date": "2026-10-02",
+      "type": "business",
+      "importance": 2,
+      "sourceType": "official",
+      "sourceName": "Anthropic Newsroom",
+      "url": "https://www.anthropic.com/news/claude-frontier-academy",
+      "originalTitle": "Anthropic invests $100 million to train 10,000 engineers and tackle the enterprise AI talent gap",
+      "company": "Anthropic",
+      "ar": {
+        "title": "Anthropic تستثمر 100 مليون دولار لتدريب 10,000 مهندس على نشر Claude",
+        "summary": "تطلق Anthropic برنامج Claude Frontier Academy باستثمار 100 مليون دولار لتدريب 10,000 \"مهندس نشر رائد\" بحلول نهاية 2027، بالتعاون مع شركات مثل Accenture وDeloitte وMcKinsey وMorgan Stanley.",
+        "details": "أعلنت Anthropic عن برنامج \"Claude Frontier Academy\" (برنامج زمالة مهندسي النشر الرائدين)، باستثمار 100 مليون دولار يهدف إلى تدريب 10,000 مهندس بحلول نهاية 2027 لمعالجة نقص الكفاءات القادرة على نشر Claude داخل المؤسسات.\n\nيتبع البرنامج نموذج التدريب الطبي: يبدأ المتدربون ببرنامج حضوري مكثف لعدة أيام مع مهندسي Anthropic، يليه زمالة مدتها 12 أسبوعًا يقود فيها المتدربون مشاريع Claude الحقيقية داخل مؤسساتهم. ومن ينجح في إتمام البرنامج يحصل على شهادة \"مهندس نشر رائد لـ Claude\".\n\nتشمل الدفعات الأولى شركات ومؤسسات من بينها Accenture وBain وCapgemini وCommonwealth Bank of Australia وDeloitte وMcKinsey وMorgan Stanley وNovo Nordisk."
+      },
+      "en": {
+        "title": "Anthropic invests $100M to train 10,000 engineers via Frontier Academy",
+        "summary": "Anthropic launched the Claude Frontier Academy, a $100 million program to train 10,000 Frontier Deployed Engineers by the end of 2027, with first cohorts from Accenture, Deloitte, McKinsey and Morgan Stanley.",
+        "details": "Anthropic announced the Claude Frontier Academy, specifically a Frontier Deployed Engineer Residency, backed by a $100 million investment aimed at training 10,000 engineers by the end of 2027 to close an enterprise talent gap in deploying Claude.\n\nThe residency follows a medical training model: it starts with a multi-day in-person program alongside Anthropic engineers, followed by a 12-week residency in which participants lead real Claude projects at their own organizations. Those who complete it earn a Claude Frontier Deployed Engineer badge.\n\nFirst cohorts include partner organizations such as Accenture, Bain, Capgemini, Commonwealth Bank of Australia, Deloitte, McKinsey, Morgan Stanley and Novo Nordisk."
+      }
     }
   ],
   "upcoming": [],
