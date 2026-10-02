@@ -1,6 +1,26 @@
 {
- "updatedAt": "2026-10-02T15:19:50+00:00",
+ "updatedAt": "2026-10-02T15:38:08+00:00",
  "items": [
+  {
+   "id": "auto-adf59d7f8a68",
+   "tab": "ai",
+   "date": "2026-10-02",
+   "publishedAt": "2026-10-02T15:19:50+00:00",
+   "type": "product",
+   "importance": 1,
+   "sourceType": "official",
+   "sourceName": "Hugging Face Blog",
+   "url": "https://huggingface.co/blog/allenai/astabrief",
+   "originalTitle": "Open-sourcing AstaBrief, the fast report-generation model in Asta",
+   "en": {
+    "title": "Open-sourcing AstaBrief, the fast report-generation model in Asta",
+    "summary": "Open-sourcing AstaBrief, the fast report-generation model in Asta",
+    "details": ""
+   },
+   "translated": false,
+   "fetchedAt": "2026-10-02T15:38:03+00:00",
+   "company": "Hugging Face"
+  },
   {
    "id": "auto-327b66bbef3d",
    "tab": "ai",
