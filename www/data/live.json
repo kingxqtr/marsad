@@ -1,6 +1,26 @@
 {
- "updatedAt": "2026-10-02T16:07:41+00:00",
+ "updatedAt": "2026-10-02T16:25:37+00:00",
  "items": [
+  {
+   "id": "auto-0f7d6588fba8",
+   "tab": "ai",
+   "date": "2026-10-02",
+   "publishedAt": "2026-10-02T16:15:00+00:00",
+   "type": "model",
+   "importance": 1,
+   "sourceType": "official",
+   "sourceName": "OpenAI News",
+   "url": "https://openai.com/index/practical-guide-building-gpt-6",
+   "originalTitle": "A model guide for the GPT-6 family",
+   "en": {
+    "title": "A model guide for the GPT-6 family",
+    "summary": "Learn how startups can choose GPT-6 models, tune reasoning effort, improve prompts and skills, coordinate tools, and prepare workflows for production.",
+    "details": "Learn how startups can choose GPT-6 models, tune reasoning effort, improve prompts and skills, coordinate tools, and prepare workflows for production."
+   },
+   "translated": false,
+   "fetchedAt": "2026-10-02T16:25:31+00:00",
+   "company": "OpenAI"
+  },
   {
    "id": "auto-fae1599169c2",
    "tab": "star-citizen",
@@ -19,26 +39,6 @@
    },
    "translated": false,
    "fetchedAt": "2026-10-02T15:54:00+00:00"
-  },
-  {
-   "id": "auto-adf59d7f8a68",
-   "tab": "ai",
-   "date": "2026-10-02",
-   "publishedAt": "2026-10-02T15:19:50+00:00",
-   "type": "product",
-   "importance": 1,
-   "sourceType": "official",
-   "sourceName": "Hugging Face Blog",
-   "url": "https://huggingface.co/blog/allenai/astabrief",
-   "originalTitle": "Open-sourcing AstaBrief, the fast report-generation model in Asta",
-   "en": {
-    "title": "Open-sourcing AstaBrief, the fast report-generation model in Asta",
-    "summary": "Open-sourcing AstaBrief, the fast report-generation model in Asta",
-    "details": ""
-   },
-   "translated": false,
-   "fetchedAt": "2026-10-02T15:38:03+00:00",
-   "company": "Hugging Face"
   },
   {
    "id": "auto-327b66bbef3d",
