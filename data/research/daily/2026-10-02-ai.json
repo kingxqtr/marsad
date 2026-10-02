@@ -128,6 +128,28 @@
         "summary": "NVIDIA unveiled a 64GB unified-memory configuration of its DGX Spark personal AI supercomputer, running models up to 100B parameters, launching October 23 starting at $4,999 through partners including Dell, ASUS and HP.",
         "details": "NVIDIA announced a new 64GB unified-memory configuration of its DGX Spark personal AI supercomputer, built on the Grace Blackwell Superchip and shipping with DGX OS and NVIDIA's CUDA-accelerated AI software stack pre-installed.\n\nA single unit supports models up to 100 billion parameters, while clustering two units over the built-in ConnectX-7 networking pools memory to 128GB for models up to 200 billion parameters, with up to 1.7x the performance when clustered. The new NVIDIA Sync Cluster Assistant configures these multi-node clusters automatically with no extra setup.\n\nThe device launches October 23, 2026, starting at $4,999, through manufacturing partners Acer, ASUS, Dell, Gigabyte, HP and MSI, targeting developers who want to run AI agents and inference locally without relying on the cloud."
       }
+    },
+    {
+      "id": "ai2-astabrief-open-source",
+      "date": "2026-10-02",
+      "type": "model",
+      "importance": 1,
+      "sourceType": "official",
+      "sourceName": "Hugging Face Blog",
+      "url": "https://huggingface.co/blog/allenai/astabrief",
+      "originalTitle": "Open-sourcing AstaBrief, the fast report-generation model in Asta",
+      "company": "Allen Institute for AI",
+      "tool": "AstaBrief",
+      "ar": {
+        "title": "Ai2 تفتح مصدر AstaBrief، نموذج بـ8 مليارات معامل لتقارير علمية موثّقة",
+        "summary": "فتح معهد Allen للذكاء الاصطناعي مصدر AstaBrief، نموذج يولّد تقارير بحثية موثّقة بالمصادر ضمن منصة Asta، بسرعة أعلى بنحو 3.5 ضعف من المسار السابق المعتمد على Claude.",
+        "details": "أعلن معهد Allen للذكاء الاصطناعي (Ai2) عن فتح مصدر AstaBrief، نموذج لغوي بـ8 مليارات معامل يحوّل أسئلة بحثية ومقتطفات من الأدبية العلمية المسترجَعة إلى تقارير موثّقة بالمصادر. يعمل النموذج كوضع \"Fast\" الجديد داخل منصة Asta للبحث العلمي، ليحل محل مسار سابق كان يعتمد على Claude.\n\nووفق Ai2، يولّد AstaBrief التقرير في نحو 51.1 ثانية مقابل 178.5 ثانية للمسار القديم، أي بسرعة أعلى تقريبًا 3.5 ضعف.\n\nأطلقت الشركة مع النموذج أوزانه الكاملة، وبيانات تدريبه (47 ألف مثال للضبط الدقيق الخاضع للإشراف و6 آلاف زوج تفضيلي لتقنية DPO)، إلى جانب مثال سير عمل يتيح للباحثين توليد تقارير من ملفات PDF خاصة بهم محليًا.\n\nدُرِّب النموذج على بيانات مستخلصة من 90 ألف استعلام بحثي حقيقي من سجلات المستخدمين، مع بيانات تدريب تركيبية أُنتجت بواسطة نماذج عدة من جهات أخرى من بينها Claude وGPT-4.1 ونماذج DeepSeek."
+      },
+      "en": {
+        "title": "Ai2 open-sources AstaBrief, an 8B model for cited research reports",
+        "summary": "The Allen Institute for AI open-sourced AstaBrief, an 8B-parameter model that drafts cited scientific reports for its Asta platform roughly 3.5x faster than the earlier Claude-based pipeline.",
+        "details": "The Allen Institute for AI (Ai2) open-sourced AstaBrief, an 8-billion-parameter language model that turns research questions and retrieved literature excerpts into cited reports. It now powers a new \"Fast mode\" inside Ai2's Asta research platform, replacing an earlier report-generation path built on Claude.\n\nAi2 says AstaBrief produces a report in about 51.1 seconds versus 178.5 seconds for the previous pipeline, roughly a 3.5x speedup.\n\nAlongside the model, Ai2 released its full weights, its training data (47,000 supervised fine-tuning examples and 6,000 DPO preference pairs), and an example workflow that lets researchers generate reports from their own PDFs locally.\n\nThe model was trained on data derived from 90,000 real research queries pulled from user logs, with synthetic training data generated using several outside models including Claude, GPT-4.1 and DeepSeek variants."
+      }
     }
   ],
   "upcoming": [],
