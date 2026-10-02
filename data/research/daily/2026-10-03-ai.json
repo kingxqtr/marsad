@@ -1,0 +1,30 @@
+{
+  "topic": "ai",
+  "generatedAt": "2026-10-03",
+  "news": [
+    {
+      "id": "github-copilot-code-review-api-support",
+      "date": "2026-10-02",
+      "type": "coding",
+      "importance": 1,
+      "sourceType": "official",
+      "sourceName": "GitHub Changelog",
+      "url": "https://github.blog/changelog/2026-10-02-copilot-code-review-api-support-and-new-default-effort-level",
+      "originalTitle": "Copilot code review: API support and new default effort level",
+      "company": "GitHub",
+      "ar": {
+        "title": "جيت‌هَب يضيف دعم API لمراجعات Copilot البرمجية ويعتمد Balanced كمستوى افتراضي",
+        "summary": "أصبح بإمكان المطورين طلب مراجعة كود Copilot عبر واجهتي REST وGraphQL وتحديد مستوى الجهد لكل طلب، بعد أن غدا Balanced المستوى الافتراضي منذ 28 سبتمبر 2026.",
+        "details": "أضاف جيت‌هَب في 2 أكتوبر 2026 دعم واجهة برمجة التطبيقات (API) لمراجعات Copilot البرمجية، بحيث يمكن للمطورين تفعيل المراجعة عبر REST أو GraphQL وتحديد مستوى الجهد (Lite أو Balanced أو Thorough) لكل طلب. هذا يتيح للفرق دمج مراجعات Copilot في سكربتاتها الخاصة وخطوط CI وأدواتها الداخلية، بدلاً من الاعتماد فقط على واجهة GitHub.\n\nكما يؤكد التحديث تغييرًا أُعلن عنه في 28 أغسطس 2026: أصبح المستوى الافتراضي للمراجعة هو Balanced بدلاً من Lite، لكل من المستودعات والمؤسسات الجديدة والقائمة، وذلك ابتداءً من 28 سبتمبر. من اختار Lite صريحًا يحتفظ بهذا الإعداد.\n\nالتغييران متاحان بشكل عام لخطط Copilot Pro وPro+ وBusiness وEnterprise، ويمكن تعديل مستوى الجهد من إعدادات مراجعة الكود في Copilot على مستوى المؤسسة أو المنظمة أو المستودع."
+      },
+      "en": {
+        "title": "GitHub adds API support for Copilot code reviews, Balanced now default",
+        "summary": "Developers can now request a GitHub Copilot code review via the REST and GraphQL APIs and set an effort level per request; Balanced became the default effort level on September 28, 2026.",
+        "details": "GitHub added API support for Copilot code review on October 2, 2026, letting developers trigger a review through the REST or GraphQL API and set its effort level (Lite, Balanced or Thorough) for each request. This lets teams bring Copilot reviews into their own scripts, CI pipelines and internal tools instead of only triggering them from the GitHub UI.\n\nThe update also confirms a change announced on August 28, 2026: the default review effort level is now Balanced instead of Lite, for both new and existing repositories and organizations, effective since September 28. Anyone who had explicitly chosen Lite keeps that setting.\n\nBoth changes are generally available on Copilot Pro, Pro+, Business and Enterprise plans. The effort level can still be changed under Copilot code review settings at the enterprise, organization or repository level."
+      }
+    }
+  ],
+  "upcoming": [],
+  "removeUpcoming": [],
+  "removeNews": []
+}

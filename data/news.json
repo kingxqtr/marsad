@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": "2026-10-02T22:09:13+00:00",
+ "updatedAt": "2026-10-02T23:09:47+00:00",
  "coverage": {
   "from": "2026-07-02",
   "to": "2026-10-02"
@@ -1695,6 +1695,28 @@
       "details": "ServiceNow's CoreAI team published a blog post on Hugging Face describing AutoSynthData, a system for generating training data for enterprise AI agents. It works by evaluating a target model to find tasks it fails at, using a stronger teacher model to demonstrate the correct solution, then generating diverse new tasks that exercise the same capability.\n\nThe process runs in two phases: creating core samples, then expanding them into variants, with verification gates and repair mechanisms at both the sample and batch level to keep generated tasks realistic and actually solvable rather than merely plausible-looking.\n\nIn an experiment on the Hybrid domain of the EnterpriseOps Gym benchmark, fine-tuning on the resulting synthetic data produced a 35% relative performance improvement, illustrating the approach's value for closing gaps in environment-specific agent workflows despite broad underlying capability."
      },
      "addedAt": "2026-10-02T04:09:21+00:00"
+    },
+    {
+     "id": "github-copilot-code-review-api-support",
+     "date": "2026-10-02",
+     "type": "coding",
+     "importance": 1,
+     "sourceType": "official",
+     "sourceName": "GitHub Changelog",
+     "url": "https://github.blog/changelog/2026-10-02-copilot-code-review-api-support-and-new-default-effort-level",
+     "originalTitle": "Copilot code review: API support and new default effort level",
+     "company": "GitHub",
+     "ar": {
+      "title": "جيت‌هَب يضيف دعم API لمراجعات Copilot البرمجية ويعتمد Balanced كمستوى افتراضي",
+      "summary": "أصبح بإمكان المطورين طلب مراجعة كود Copilot عبر واجهتي REST وGraphQL وتحديد مستوى الجهد لكل طلب، بعد أن غدا Balanced المستوى الافتراضي منذ 28 سبتمبر 2026.",
+      "details": "أضاف جيت‌هَب في 2 أكتوبر 2026 دعم واجهة برمجة التطبيقات (API) لمراجعات Copilot البرمجية، بحيث يمكن للمطورين تفعيل المراجعة عبر REST أو GraphQL وتحديد مستوى الجهد (Lite أو Balanced أو Thorough) لكل طلب. هذا يتيح للفرق دمج مراجعات Copilot في سكربتاتها الخاصة وخطوط CI وأدواتها الداخلية، بدلاً من الاعتماد فقط على واجهة GitHub.\n\nكما يؤكد التحديث تغييرًا أُعلن عنه في 28 أغسطس 2026: أصبح المستوى الافتراضي للمراجعة هو Balanced بدلاً من Lite، لكل من المستودعات والمؤسسات الجديدة والقائمة، وذلك ابتداءً من 28 سبتمبر. من اختار Lite صريحًا يحتفظ بهذا الإعداد.\n\nالتغييران متاحان بشكل عام لخطط Copilot Pro وPro+ وBusiness وEnterprise، ويمكن تعديل مستوى الجهد من إعدادات مراجعة الكود في Copilot على مستوى المؤسسة أو المنظمة أو المستودع."
+     },
+     "en": {
+      "title": "GitHub adds API support for Copilot code reviews, Balanced now default",
+      "summary": "Developers can now request a GitHub Copilot code review via the REST and GraphQL APIs and set an effort level per request; Balanced became the default effort level on September 28, 2026.",
+      "details": "GitHub added API support for Copilot code review on October 2, 2026, letting developers trigger a review through the REST or GraphQL API and set its effort level (Lite, Balanced or Thorough) for each request. This lets teams bring Copilot reviews into their own scripts, CI pipelines and internal tools instead of only triggering them from the GitHub UI.\n\nThe update also confirms a change announced on August 28, 2026: the default review effort level is now Balanced instead of Lite, for both new and existing repositories and organizations, effective since September 28. Anyone who had explicitly chosen Lite keeps that setting.\n\nBoth changes are generally available on Copilot Pro, Pro+, Business and Enterprise plans. The effort level can still be changed under Copilot code review settings at the enterprise, organization or repository level."
+     },
+     "addedAt": "2026-10-02T23:09:47+00:00"
     },
     {
      "id": "github-copilot-model-deprecations-oct2",
