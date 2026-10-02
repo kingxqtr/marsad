@@ -1,26 +1,6 @@
 {
- "updatedAt": "2026-10-02T22:59:18+00:00",
+ "updatedAt": "2026-10-02T23:12:37+00:00",
  "items": [
-  {
-   "id": "auto-019c55cae6b3",
-   "tab": "ai",
-   "date": "2026-10-02",
-   "publishedAt": "2026-10-02T19:13:50+00:00",
-   "type": "coding",
-   "importance": 1,
-   "sourceType": "official",
-   "sourceName": "GitHub Changelog",
-   "url": "https://github.blog/changelog/2026-10-02-copilot-code-review-api-support-and-new-default-effort-level",
-   "originalTitle": "Copilot code review: API support and new default effort level",
-   "en": {
-    "title": "Copilot code review: API support and new default effort level",
-    "summary": "You can now request a GitHub Copilot code review through the REST and GraphQL APIs and set the review effort level for each request. Balanced is also now the default review effort level.",
-    "details": "You can now request a GitHub Copilot code review through the REST and GraphQL APIs and set the review effort level for each request. Balanced is also now the default review effort level. These changes are generally available to Copilot Pro, Pro+, Max, Business, and Enterprise plans.\n\n🔌 Request Copilot code review with the API\n\nYou can now request a review from Copilot using the supported REST and GraphQL APIs. When you make a request, you can optionally set the review effort level for that review.\n\nThis lets you bring Copilot code review into your own scripts, workflows, and internal tools, so reviews can start from the systems your team already uses.\n\n⚖️ Balanced is now the default review effort level\n\nAs announced on August 28, 2026, the Default review effort level now uses Balanced for new and existing repositories and organizations using Copilot code review. If you explicitly selected Lite in your settings, that selection was respected. This change took effect September 28, 2026.\n\n⚙️ Configure your review effort level\n\nIf you prefer Lite or want to try out the options available to you, you can change the review effort level from Default to Lite at the level you manage:\n\n- Enterprise: In your enterprise settings, go to AI controls → Agents → Copilot code review .\n\n- Organization: In your organization settings, go to Copilot → Code review .\n\n- Repository: In your repository settings, go to Copilot → Code review . …"
-   },
-   "translated": false,
-   "fetchedAt": "2026-10-02T22:31:21+00:00",
-   "company": "GitHub"
-  },
   {
    "id": "auto-f2ab105a9444",
    "tab": "star-citizen",
