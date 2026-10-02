@@ -1,9 +1,9 @@
 {
  "version": 1,
- "updatedAt": "2026-10-01T23:10:53+00:00",
+ "updatedAt": "2026-10-02T00:09:52+00:00",
  "coverage": {
-  "from": "2026-07-01",
-  "to": "2026-10-01"
+  "from": "2026-07-02",
+  "to": "2026-10-02"
  },
  "tabs": {
   "once-human": {
@@ -637,27 +637,6 @@
       "details": "Starry Studio confirmed that a full first-person mode, one of the community's most requested features, would join Once Human's basic controls with the July 9 (PT) update, in both the main game and RaidZone.\n\nSupported at launch:\n- Movement, jumping and climbing; firing weapons; throwables, medicine and food\n- Gathering by hand or with tools such as the pickaxe, electric chainsaw and drill\n- Redesigned melee: attacks while moving, light-attack combos and a hold-to-charge heavy attack (third-person melee is unchanged)\n- Weapon inspection while moving, and vehicles that remember the last camera used\n\nPlayers can set the default view in Settings, press Alt+C on PC, add a hidden toggle button to the mobile layout, or use the PC function wheel. Some cutscenes, emotes and special Deviation skills temporarily switch back to third person.\n\nThe team named underwater exploration, ladders, ziplines and Deviation skills as the next areas to support; most of them arrived in the August 24 (PT) update."
      },
      "addedAt": "2026-07-03T23:59:59+00:00"
-    },
-    {
-     "id": "oh-2nd-anniversary-dreamy-maelstrom",
-     "date": "2026-07-01",
-     "type": "event",
-     "importance": 3,
-     "sourceType": "official",
-     "sourceName": "Once Human — Official Website",
-     "url": "https://www.oncehuman.game/news/devBlog/20260701/40781_1306335.html",
-     "originalTitle": "Dev Blog丨The Second Anniversary Celebration Dreamy Maelstrom Is About to Begin!",
-     "ar": {
-      "title": "Once Human تكشف احتفالية الذكرى السنوية الثانية Dreamy Maelstrom",
-      "summary": "تمتد فعالية الذكرى الثانية من تحديث 9 يوليو حتى 30 يوليو، وتضم طور الموجات Dreamy Rift وثلاثة Deviations جديدة وهدايا تسجيل دخول يومية وحزمًا للعائدين والجدد.",
-      "details": "احتفلت Once Human، التي أُطلقت في 9 يوليو 2024، بذكراها السنوية الثانية عبر فعالية Dreamy Maelstrom التي بدأت بعد تحديث 9 يوليو بتوقيت المحيط الهادئ واستمرت حتى 30 يوليو، وسبقتها حملة تسجيل مسبق من 1 إلى 9 يوليو.\n\nأبرز المحتوى:\n- Dreamy Rift: طور بقاء أمام موجات الأعداء لفريق من 1 إلى 4 لاعبين مع تعزيزات Mod كل موجتين، وصعوبة عالية فيها نيازك ومطر أسود وضباب، وطور لا نهائي ولوحة صدارة عالمية\n- ثلاثة Deviations جديدة: Crimson Insight: ZapCam المحدود، وMr. Wish – Penguin Hope، وBehemoth القابل للركوب\n- مكافآت تسجيل دخول يومية، منها مخطط السلاح الأسطوري QBJ97 – Fiery Trees and Silver Flowers\n- عجلة أمنيات تضمن عنصرًا تجميليًا كل 15 دورة، وبيض Rift Eggs المرتبط بدعوة الأصدقاء، ومكافآت رقص جماعي كل ساعة\n\nوفي 10 يوليو كان مقررًا أن يحصل لاعبون متصلون يُختارون عشوائيًا في كل منطقة على 10 من Lightforge Ingots كل 15 دقيقة بين الساعة 20:00 و22:00 بتوقيت الخادم، إلى جانب حزم هدايا للعائدين والجدد تتضمن اختيار مخطط عتاد أسطوري وصندوق Deviation."
-     },
-     "en": {
-      "title": "Once Human reveals 'Dreamy Maelstrom' second-anniversary celebration",
-      "summary": "The 2nd anniversary event runs from the July 9 (PT) update until July 30, adding the Dreamy Rift wave mode, three new Deviations, daily check-in gifts and returner packs.",
-      "details": "Once Human, which launched on July 9, 2024, marked its second anniversary with a three-week celebration called Dreamy Maelstrom. It began after the July 9 (PT) update and ran until July 30, preceded by a pre-registration warm-up from July 1 to 9.\n\nHighlights:\n- Dreamy Rift: a 1–4 player wave-survival mode with Mod upgrades every two waves; hard mode adds meteors, black rain and fog, plus an endless mode and a global leaderboard\n- New Deviations: the anniversary-limited Crimson Insight: ZapCam, Mr. Wish – Penguin Hope, and Behemoth, a rideable combat Deviation\n- Daily check-in rewards, including the legendary blueprint QBJ97 – Fiery Trees and Silver Flowers\n- A Wish Wheel with a guaranteed cosmetic every 15 spins, friend-invite \"Rift Eggs\" and hourly group-dance rewards\n\nOn July 10, randomly chosen online players in each region were to receive 10 Lightforge Ingots every 15 minutes between 20:00 and 22:00 server time. Returning and new players also got gift packs with a choice of legendary gear blueprints and a Deviation selection box."
-     },
-     "addedAt": "2026-07-01T23:59:59+00:00"
     }
    ],
    "upcoming": [
@@ -1415,69 +1394,6 @@
       "details": "Star Citizen Alpha 4.9 went live on 15 July with long-term persistence preserved. Its storyline, Frontier Tensions, has players helping the People's Alliance in Nyx against a group called the Moraine while earning the trust of mining coordinator Recco Battaglia.\n\n- Repeatable Battaglia contracts: prospecting, mining, recovery, salvage, investigations and ship reclamation\n- Vehicle combat hit markers showing damage to shields, armour, hull and components\n- First rollout of a rebuilt ship fly-by audio system\n- Behring CQ7 bullpup rifle, Bellator combat suit, ordnance cargo holders and higher mining laser power\n- Refreshed distribution centres, plus experimental scanning and VR updates\n\nCIG counts more than 166 bug and crash fixes since 4.8, 73 of them from the Issue Council. The patch focused on stability after Siege of Orison and instancing were moved to 4.10."
      },
      "addedAt": "2026-07-15T23:59:59+00:00"
-    },
-    {
-     "id": "sc-roadmap-siege-moved-to-4-10",
-     "date": "2026-07-01",
-     "type": "development",
-     "importance": 2,
-     "sourceType": "official",
-     "sourceName": "RSI Comm-Link (Roadmap Roundup)",
-     "url": "https://robertsspaceindustries.com/en/comm-link/transmission/21230-Roadmap-Roundup-July-1-2026",
-     "originalTitle": "Roadmap Roundup - July 1, 2026",
-     "ar": {
-      "title": "نقل Siege of Orison وتقنية instancing من Alpha 4.9 إلى إصدار 4.10 جديد",
-      "summary": "نقلت CIG عملية Siege of Orison وكل المحتوى المعتمد على instancing من Alpha 4.9 إلى إصدار 4.10 جديد مقرر منتصف أغسطس، بالتزامن مع حملة تقودها الإدارة العليا لمعالجة نحو 100 خطأ مؤثر.",
-      "details": "أعلنت CIG في ملخص خارطة الطريق الصادر في 1 يوليو أن Siege of Orison وكل محتوى instancing سيُنقلان من Alpha 4.9 إلى إصدار Alpha 4.10 جديد مقرر منتصف أغسطس، لمنح الفرق أربعة أسابيع إضافية لتقوية الأنظمة والخدمات الخلفية الجديدة التي أظهرت الاختبارات التقنية أنها ما زالت بحاجة إلى عمل.\n\nكما عرضت الشركة نهجًا جديدًا لإصلاح الأخطاء بعد Alpha 4.8، بمشاركة الإدارة العليا إلى جانب فرق التطوير وضمان الجودة وتجربة اللاعبين والمجتمع في ترتيب الأولويات.\n\n- تحديد نحو 100 مشكلة عالية التأثير، عولج قرابة 20% منها حينها\n- تشمل الحظائر المنفصلة والمراقبة الجوية واستدعاء السفن والمصاعد والسفر الكمي والمخزون والالتحام والذكاء الاصطناعي وتسجيل الدخول\n- إيقاف العمل على بعض الميزات مؤقتًا لتفريغ الفرق\n\nوحدد المخطط حينها منتصف يوليو لإصدار 4.9، وأغسطس لإصدار 4.10، وسبتمبر لإصدار 4.11."
-     },
-     "en": {
-      "title": "Siege of Orison and instancing pushed from Alpha 4.9 to a new 4.10",
-      "summary": "CIG moved Siege of Orison and all instance-based content out of Alpha 4.9 into a new 4.10 planned for mid-August, while launching a senior-led push on nearly 100 high-impact bugs.",
-      "details": "In its 1 July Roadmap Roundup, CIG said Siege of Orison and all instancing content would leave Alpha 4.9 for a new Alpha 4.10 scheduled for mid-August. The extra four weeks were meant to harden the new systems, backend services and mechanics, which recent tech previews showed still needed work.\n\nThe studio also outlined a new approach to bug fixing after Alpha 4.8, with senior leadership joining development, QA, player experience and community teams to rank problems.\n\n- Nearly 100 high-impact issues identified, about 20% of them resolved at that point\n- Targets include instanced hangars, ATC, ship retrieval, freight elevators, quantum travel, inventory, docking, AI and login flow\n- Some features were paused temporarily to free up teams\n\nThe plan set 4.9 for mid-July, 4.10 for August and 4.11 for September."
-     },
-     "addedAt": "2026-07-01T23:59:59+00:00"
-    },
-    {
-     "id": "sq42-hands-on-invites-community-report",
-     "date": "2026-07-01",
-     "type": "squadron42",
-     "importance": 2,
-     "sourceType": "community",
-     "sourceName": "Star Citizen Help (community news site)",
-     "url": "https://star-citizen.help/news/general/squadron-42-october-hands-on-event/",
-     "originalTitle": "Squadron 42 Goes Hands-On: CIG Invites Streamers & Press to Exclusive October Event",
-     "ar": {
-      "title": "غير مؤكد: موقع مجتمعي يتحدث عن دعوات لتجربة Squadron 42 في أكتوبر",
-      "summary": "معلومات غير مؤكدة وقت نشرها: أفاد موقع مجتمعي في 1 يوليو بأن CIG تدعو صناع محتوى وصحفيين وداعمين قدامى لتجربة Squadron 42 في أكتوبر، وقد أكدت الشركة لاحقًا جلسات لعب يومي 9 و10 أكتوبر.",
-      "details": "نشر موقع Star Citizen Help المجتمعي في 1 يوليو تقريرًا يفيد بتداول دعوات لحدث حصري مدته ثلاثة أيام لتجربة Squadron 42 في استوديو Foundry 42 التابع لـ CIG في مانشستر بالمملكة المتحدة، من 9 إلى 11 أكتوبر. واستند التقرير إلى دعوات متداولة في المجتمع لا إلى إعلان رسمي، لذا تبقى هذه المعلومات غير مؤكدة.\n\nوبحسب التقرير، شملت قائمة المدعوين صناع محتوى ومذيعين وصحفيين متخصصين وداعمين قدامى مختارين، على ألا تتحمل CIG تكاليف السفر والإقامة.\n\nولاحقًا، أكدت رسالة الرئيس الصادرة عن CIG في 27 أغسطس أن عددًا محدودًا من الداعمين الأوائل وصناع المحتوى القدامى سيجربون اللعبة يومي 9 و10 أكتوبر، لكن الشركة لم تؤكد رسميًا مكان الحدث أو مدته البالغة ثلاثة أيام."
-     },
-     "en": {
-      "title": "Unconfirmed: community site reports Squadron 42 hands-on invites for October",
-      "summary": "Unconfirmed at the time: a community site reported on 1 July that CIG was inviting creators, press and long-time backers to an October hands-on with Squadron 42. CIG later confirmed play sessions on 9–10 October.",
-      "details": "On 1 July the community site Star Citizen Help reported that invitations were circulating for an exclusive three-day Squadron 42 hands-on at CIG's Foundry 42 studio in Manchester, UK, from 9 to 11 October. The report was based on invitations seen in the community rather than an official announcement, so it should be treated as unconfirmed.\n\nAccording to the report, guests included content creators and streamers, specialist press and selected long-time backers, and CIG was not covering travel or accommodation.\n\nCIG's Letter from the Chairman on 27 August later confirmed that a small number of original backers and long-time content creators would play the game on 9 and 10 October. The venue and the three-day format have not been officially confirmed."
-     },
-     "addedAt": "2026-07-01T23:59:59+00:00"
-    },
-    {
-     "id": "sc-alpha-4-8-3-xenothreat-returns",
-     "date": "2026-07-01",
-     "type": "event",
-     "importance": 2,
-     "sourceType": "official",
-     "sourceName": "RSI Comm-Link",
-     "url": "https://robertsspaceindustries.com/en/comm-link/transmission/21206-Star-Citizen-Alpha-483",
-     "originalTitle": "Star Citizen Alpha 4.8.3",
-     "ar": {
-      "title": "Alpha 4.8.3 يعيد XenoThreat بخمسة عقود لقتال السفن",
-      "summary": "صدر Alpha 4.8.3 في 1 يوليو حاملًا حدث The Return of XenoThreat في نظام Stanton حتى 15 يوليو، مع خمسة عقود قتالية متزامنة منها إسقاط فرقاطة Idris التابعة للخارجين عن القانون.",
-      "details": "وصل Alpha 4.8.3 في 1 يوليو مع حدث The Return of XenoThreat، الذي تهاجم فيه الجماعة المعادية للفضائيين أهدافًا مدنية وتجارية في نظام Stanton، فيما تطلب البحرية مساعدة Foxwell Enforcement.\n\n- حماية سفن من صنع فضائي تتعرض للهجوم\n- التصدي لموجات من المقاتلات المعادية للفضائيين\n- نصب كمائن للقوات القادمة والقضاء عليها\n- استدراج قادة XenoThreat والقضاء عليهم لإضعاف قيادتهم\n- التخلص من فرقاطة Idris بتدميرها أو بقتل قائدها\n\nواستمر الحدث حتى 15 يوليو، وقالت CIG إن اللاعبين يمكنهم كسب مخططات تصنيع (blueprints) جديدة كمكافآت، كما جاءت سفن الشهر للمشتركين في يوليو، وهي سلسلة Anvil Hornet Mk II، مرتبطة بأجواء المواجهة مع XenoThreat."
-     },
-     "en": {
-      "title": "Alpha 4.8.3 brings back XenoThreat with five ship-combat contracts",
-      "summary": "Released on 1 July, Alpha 4.8.3 launched The Return of XenoThreat, a Stanton event running until 15 July with five concurrent combat contracts, including taking down the outlaws' Idris frigate.",
-      "details": "Alpha 4.8.3 arrived on 1 July with The Return of XenoThreat, an event in which the anti-alien outlaw group attacks civilian and corporate targets across Stanton and the Navy asks Foxwell Enforcement for help.\n\n- Defend alien-built ships under attack\n- Fight off waves of anti-alien fighters\n- Ambush and eliminate arriving forces\n- Draw out and kill XenoThreat lieutenants to weaken their command\n- Remove their Idris frigate by destroying it or killing its pilot\n\nThe event ran until 15 July, and CIG said players could earn new blueprints as rewards. July's subscriber Ships of the Month, the Anvil Hornet Mk II series, were themed around the fight against XenoThreat."
-     },
-     "addedAt": "2026-07-01T23:59:59+00:00"
     }
    ],
    "upcoming": [
@@ -1779,6 +1695,28 @@
       "details": "Barclays and Anthropic announced an expanded partnership under which the bank aims to have Claude Code used by 50% of its developers by the end of 2026, growing to a majority in 2027, as part of an effort to modernize legacy systems and speed up software development.\n\nThe bank has already deployed a Colleague Knowledge Assistant since 2025, now used by more than 16,000 UK employees and handling over 1 million searches to support around 20 million UK retail customers. Barclays' Global Markets unit also uses Claude to process roughly 120,000 emails a day, classifying and enriching client inquiries and reducing manual handling.\n\nBarclays said the expansion includes governance, security controls and human oversight, reflecting its status as a regulated financial institution."
      },
      "addedAt": "2026-10-01T14:09:25+00:00"
+    },
+    {
+     "id": "openai-gpt-6-astra-ultrafast",
+     "date": "2026-10-01",
+     "type": "model",
+     "importance": 1,
+     "sourceType": "official",
+     "sourceName": "NVIDIA Blog",
+     "url": "https://blogs.nvidia.com/blog/gpus-openai-gpt-6-astra-ultrafast/",
+     "originalTitle": "How NVIDIA GPUs Help Accelerate OpenAI’s GPT-6 Astra Ultrafast",
+     "company": "OpenAI",
+     "ar": {
+      "title": "OpenAI تطلق GPT-6 Astra Ultrafast بسرعة أعلى 8 أضعاف على رقائق NVIDIA Blackwell",
+      "summary": "أطلقت OpenAI نسخة GPT-6 Astra Ultrafast في واجهة برمجة التطبيقات ولمستخدمي ChatGPT Work وCodex المؤهلين، إذ تعمل على رقائق NVIDIA Blackwell وتولّد الرموز بسرعة تصل إلى 8 أضعاف نسخة Astra القياسية.",
+      "details": "بات نموذج GPT-6 Astra Ultrafast متاحًا في واجهة برمجة تطبيقات OpenAI ولمستخدمي ChatGPT Work وCodex المؤهلين، ويعمل على معمارية رقائق NVIDIA Blackwell.\n\nووفق NVIDIA، يوفر هذا الوضع الجديد سرعة توليد رموز أعلى بثمانية أضعاف مقارنة بنسخة Astra القياسية، بفضل تحسينات في الاستدلال تستغل معمارية Blackwell. وبالنسبة لوكلاء البرمجة، يمكن لهذه السرعة أن تقلّص دورة التعديل والاختبار وتصحيح الأخطاء، وتجعل الأدوات التفاعلية أكثر استجابة، إذ تزداد أهمية سرعة الاستجابة كلما تكررت خلال مسار عمل يكتب فيه الوكيل شيفرة ويستخدم أداة ثم يفحص النتيجة.\n\nوقال فيليب تيليه، مسؤول الاستدلال في OpenAI، إن أدوات ووثائق NVIDIA ساعدت نماذج OpenAI على التفوق في برمجة رقائق Blackwell وRubin، ما مكّن Astra من تحويل تلك المعرفة إلى نوى عالية الأداء توازن بين زمن الاستجابة والإنتاجية والتكلفة."
+     },
+     "en": {
+      "title": "OpenAI launches GPT-6 Astra Ultrafast, up to 8x faster on NVIDIA Blackwell",
+      "summary": "GPT-6 Astra Ultrafast is now live in the OpenAI API and for eligible ChatGPT Work and Codex users, running on NVIDIA Blackwell GPUs for up to 8x faster token generation than standard Astra.",
+      "details": "GPT-6 Astra Ultrafast is now available in the OpenAI API and to eligible ChatGPT Work and Codex users, running on NVIDIA's Blackwell GPU architecture.\n\nThe new mode delivers up to 8x faster token generation than the standard Astra model, according to NVIDIA, which credits inference optimizations that tap into Blackwell's architecture. For coding agents, the speedup can shorten the edit-test-debug loop and make interactive tools feel more responsive, since a faster response matters most when it repeats across a workflow of writing code, calling a tool and checking the result.\n\nOpenAI's inference lead Philippe Tillet said NVIDIA's tooling and documentation helped OpenAI's models become especially good at programming Blackwell and Rubin GPUs, letting Astra turn that into high-performance kernels across latency, throughput and cost."
+     },
+     "addedAt": "2026-10-01T23:59:59+00:00"
     },
     {
      "id": "ai2-olmo-core-3-moe-training",
@@ -4206,29 +4144,6 @@
       "details": "GitHub made the GitHub Copilot app available to everyone on 7 July. The desktop application lets developers run agent-driven coding sessions from their own computer after signing in with a GitHub account.\n\n- Platforms: macOS, Windows and Linux.\n- Plans: every Copilot tier, including Copilot Free, GitHub Education, Copilot Business and Copilot Enterprise.\n- Bring your own key: developers can connect their own model provider and run sessions without any Copilot subscription.\n\nFor Business and Enterprise customers, an organisation or enterprise administrator must first enable the Copilot CLI policy before members can use the app. GitHub has kept adding features since, including, on 23 September, a public preview of local sandboxing that limits an agent's access to files, networks and credentials."
      },
      "addedAt": "2026-07-07T23:59:59+00:00"
-    },
-    {
-     "id": "notion-3-6-external-agents",
-     "date": "2026-07-01",
-     "type": "product",
-     "importance": 2,
-     "sourceType": "official",
-     "sourceName": "Notion Releases",
-     "url": "https://www.notion.com/releases/2026-07-01",
-     "originalTitle": "Notion 3.6: External Agents, HTML blocks, and more",
-     "company": "Notion Labs",
-     "tool": "Notion AI",
-     "ar": {
-      "title": "Notion 3.6 يتيح إسناد المهام إلى وكلاء Claude وCursor من داخل Notion",
-      "summary": "يضيف إصدار Notion 3.6 ميزة External Agents التي تتيح للفرق الإشارة إلى وكلاء مثل Claude وCursor وإسناد المهام إليهم من اللوحات المشتركة، إلى جانب كتل HTML تفاعلية ودعم ملفات Office.",
-      "details": "أطلقت Notion في 1 يوليو الإصدار 3.6 الذي يركز على وكلاء الذكاء الاصطناعي.\n\n- الوكلاء الخارجيون: يمكن إدخال وكلاء من خارج Notion مثل Claude وCursor، ليشير إليهم أعضاء الفريق ويسندوا إليهم المهام من اللوحات المشتركة كأي زميل.\n- كتل HTML تفاعلية: يستطيع الوكلاء بناء أدوات مدمجة داخل الصفحات، مثل حاسبة للعائد على الاستثمار أو اختبار قصير أو هيكل تنظيمي.\n- دعم Microsoft: أصبح بإمكان وكلاء Notion قراءة ملفات Word وExcel وPowerPoint وكتابتها، والتعامل مع بريد Outlook وتقويمه.\n- خمسة اتصالات MCP جديدة للوكلاء المخصصين: Mercury وMixpanel وMiro وBox وClickHouse.\n- نماذج إضافية منها Opus 4.8 وGrok 4.3 وGLM 5.2، وسجلات تدقيق لإجراءات الوكلاء في خطط Enterprise.\n\nكما تحسّن تمييز المتحدثين في ملاحظات الاجتماعات. وأتبعت Notion ذلك بالإصدار 3.7 في 15 سبتمبر، الذي أضاف مكتبة مهارات مشتركة للفرق ونسخة تجريبية عامة من Agent SDK."
-     },
-     "en": {
-      "title": "Notion 3.6 lets teams assign work to Claude and Cursor agents inside Notion",
-      "summary": "Notion 3.6 adds External Agents, so teams can @-mention and assign tasks to agents such as Claude and Cursor from shared boards, plus interactive HTML blocks and Office file support for Notion's own agents.",
-      "details": "Notion released version 3.6 on 1 July, focused on AI agents.\n\n- External Agents: outside agents such as Claude and Cursor can be brought into Notion, where teammates @-mention them and assign tasks from shared boards like any colleague.\n- Interactive HTML blocks: agents can build embedded tools inside pages, such as an ROI calculator, a quiz or an org chart.\n- Microsoft support: Notion's agents can read and write Word, Excel and PowerPoint files and work with Outlook mail and calendar.\n- Five new MCP connections for Custom Agents: Mercury, Mixpanel, Miro, Box and ClickHouse.\n- More models, including Opus 4.8, Grok 4.3 and GLM 5.2, plus audit logs of Custom Agent actions on Enterprise plans.\n\nAI meeting notes also got better speaker identification. Notion followed up with version 3.7 on 15 September, adding a shared Skills library for teams and a public beta of its Agent SDK."
-     },
-     "addedAt": "2026-07-01T23:59:59+00:00"
     }
    ],
    "upcoming": [

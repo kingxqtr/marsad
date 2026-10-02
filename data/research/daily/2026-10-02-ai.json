@@ -43,6 +43,27 @@
         "summary": "GitHub's September 2026 Copilot changelog for VS Code (v1.136-v1.140) adds recurring task automations, an agent-merge feature for pull requests, and a preview model router called HydraFusion.",
         "details": "GitHub published its monthly Copilot-in-VS-Code changelog on October 1, covering versions 1.136 through 1.140 released through September 2026. The update focuses on taking agent-driven development from implementation through to a merged pull request.\n\nTwo preview features stand out: scheduled automations let developers run a task on an hourly, daily or weekly cadence from a template or a custom prompt, and agent merge lets an active agent session handle review feedback, failed checks, merge conflicts and workflow reruns on its own.\n\nThe release also adds a research-preview model router called HydraFusion, which can automatically choose which model and workflow to use for a coding task when enabled. Other additions let developers open the pull request form directly from an agent session in the Agents window, start agent sessions inside Dev Containers, and attach a local folder's context to an ongoing chat."
       }
+    },
+    {
+      "id": "openai-gpt-6-astra-ultrafast",
+      "date": "2026-10-01",
+      "type": "model",
+      "importance": 1,
+      "sourceType": "official",
+      "sourceName": "NVIDIA Blog",
+      "url": "https://blogs.nvidia.com/blog/gpus-openai-gpt-6-astra-ultrafast/",
+      "originalTitle": "How NVIDIA GPUs Help Accelerate OpenAI’s GPT-6 Astra Ultrafast",
+      "company": "OpenAI",
+      "ar": {
+        "title": "OpenAI تطلق GPT-6 Astra Ultrafast بسرعة أعلى 8 أضعاف على رقائق NVIDIA Blackwell",
+        "summary": "أطلقت OpenAI نسخة GPT-6 Astra Ultrafast في واجهة برمجة التطبيقات ولمستخدمي ChatGPT Work وCodex المؤهلين، إذ تعمل على رقائق NVIDIA Blackwell وتولّد الرموز بسرعة تصل إلى 8 أضعاف نسخة Astra القياسية.",
+        "details": "بات نموذج GPT-6 Astra Ultrafast متاحًا في واجهة برمجة تطبيقات OpenAI ولمستخدمي ChatGPT Work وCodex المؤهلين، ويعمل على معمارية رقائق NVIDIA Blackwell.\n\nووفق NVIDIA، يوفر هذا الوضع الجديد سرعة توليد رموز أعلى بثمانية أضعاف مقارنة بنسخة Astra القياسية، بفضل تحسينات في الاستدلال تستغل معمارية Blackwell. وبالنسبة لوكلاء البرمجة، يمكن لهذه السرعة أن تقلّص دورة التعديل والاختبار وتصحيح الأخطاء، وتجعل الأدوات التفاعلية أكثر استجابة، إذ تزداد أهمية سرعة الاستجابة كلما تكررت خلال مسار عمل يكتب فيه الوكيل شيفرة ويستخدم أداة ثم يفحص النتيجة.\n\nوقال فيليب تيليه، مسؤول الاستدلال في OpenAI، إن أدوات ووثائق NVIDIA ساعدت نماذج OpenAI على التفوق في برمجة رقائق Blackwell وRubin، ما مكّن Astra من تحويل تلك المعرفة إلى نوى عالية الأداء توازن بين زمن الاستجابة والإنتاجية والتكلفة."
+      },
+      "en": {
+        "title": "OpenAI launches GPT-6 Astra Ultrafast, up to 8x faster on NVIDIA Blackwell",
+        "summary": "GPT-6 Astra Ultrafast is now live in the OpenAI API and for eligible ChatGPT Work and Codex users, running on NVIDIA Blackwell GPUs for up to 8x faster token generation than standard Astra.",
+        "details": "GPT-6 Astra Ultrafast is now available in the OpenAI API and to eligible ChatGPT Work and Codex users, running on NVIDIA's Blackwell GPU architecture.\n\nThe new mode delivers up to 8x faster token generation than the standard Astra model, according to NVIDIA, which credits inference optimizations that tap into Blackwell's architecture. For coding agents, the speedup can shorten the edit-test-debug loop and make interactive tools feel more responsive, since a faster response matters most when it repeats across a workflow of writing code, calling a tool and checking the result.\n\nOpenAI's inference lead Philippe Tillet said NVIDIA's tooling and documentation helped OpenAI's models become especially good at programming Blackwell and Rubin GPUs, letting Astra turn that into high-performance kernels across latency, throughput and cost."
+      }
     }
   ],
   "upcoming": [],
