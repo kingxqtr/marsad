@@ -1,4 +1,24 @@
 {
- "updatedAt": "2026-10-02T10:24:26+00:00",
- "items": []
+ "updatedAt": "2026-10-02T10:41:00+00:00",
+ "items": [
+  {
+   "id": "auto-df902f11b083",
+   "tab": "ai",
+   "date": "2026-10-02",
+   "publishedAt": "2026-10-02T00:09:04+00:00",
+   "type": "product",
+   "importance": 1,
+   "sourceType": "community",
+   "sourceName": "r/LocalLLaMA",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wvffcr/pi_10_released_mcp_support_now_included_by_default/",
+   "originalTitle": "Pi 1.0 released - MCP support now included by default",
+   "en": {
+    "title": "Pi 1.0 released - MCP support now included by default",
+    "summary": "Community post on r/LocalLLaMA.",
+    "details": "Community post on r/LocalLLaMA."
+   },
+   "translated": false,
+   "fetchedAt": "2026-10-02T10:41:00+00:00"
+  }
+ ]
 }
