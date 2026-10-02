@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": "2026-10-02T13:09:01+00:00",
+ "updatedAt": "2026-10-02T14:09:24+00:00",
  "coverage": {
   "from": "2026-07-02",
   "to": "2026-10-02"
@@ -1607,6 +1607,28 @@
   },
   "ai": {
    "news": [
+    {
+     "id": "nvidia-dgx-spark-64gb",
+     "date": "2026-10-02",
+     "type": "hardware",
+     "importance": 2,
+     "sourceType": "official",
+     "sourceName": "NVIDIA Blog",
+     "url": "https://blogs.nvidia.com/blog/local-ai-dgx-spark-64gb-sync/",
+     "originalTitle": "NVIDIA DGX Spark 64GB Gives Developers More Ways to Build and Scale Local AI",
+     "company": "NVIDIA",
+     "ar": {
+      "title": "NVIDIA تطرح DGX Spark بذاكرة 64 جيجابايت لتشغيل الذكاء الاصطناعي محليًا",
+      "summary": "كشفت NVIDIA عن إصدار جديد من حاسوبها الشخصي DGX Spark بذاكرة موحدة سعة 64 جيجابايت يشغّل نماذج تصل إلى 100 مليار معامل، يُطرح في 23 أكتوبر بسعر يبدأ من 4,999 دولارًا عبر شركاء مثل Dell وASUS وHP.",
+      "details": "أعلنت NVIDIA عن تهيئة جديدة بذاكرة موحدة سعة 64 جيجابايت لحاسوبها الشخصي DGX Spark، المبني على شريحة Grace Blackwell ومزوّد مسبقًا بنظام DGX OS وحزمة برمجيات NVIDIA للذكاء الاصطناعي.\n\nتدعم الوحدة الواحدة نماذج تصل إلى 100 مليار معامل، بينما يرفع ربط وحدتين عبر شبكة ConnectX-7 المدمجة الذاكرة الإجمالية إلى 128 جيجابايت لدعم نماذج تصل إلى 200 مليار معامل، مع أداء أعلى يصل إلى 1.7 ضعف عند التجميع. وتتولى أداة \"NVIDIA Sync Cluster Assistant\" إعداد هذه التجمعات متعددة العقد تلقائيًا دون إعدادات إضافية.\n\nيبدأ طرح الجهاز في 23 أكتوبر 2026 بسعر ابتدائي 4,999 دولارًا، عبر شركاء تصنيع من بينهم Acer وASUS وDell وGigabyte وHP وMSI، ويستهدف تشغيل وكلاء الذكاء الاصطناعي والاستدلال محليًا دون الاعتماد على السحابة."
+     },
+     "en": {
+      "title": "NVIDIA launches 64GB DGX Spark for local AI development",
+      "summary": "NVIDIA unveiled a 64GB unified-memory configuration of its DGX Spark personal AI supercomputer, running models up to 100B parameters, launching October 23 starting at $4,999 through partners including Dell, ASUS and HP.",
+      "details": "NVIDIA announced a new 64GB unified-memory configuration of its DGX Spark personal AI supercomputer, built on the Grace Blackwell Superchip and shipping with DGX OS and NVIDIA's CUDA-accelerated AI software stack pre-installed.\n\nA single unit supports models up to 100 billion parameters, while clustering two units over the built-in ConnectX-7 networking pools memory to 128GB for models up to 200 billion parameters, with up to 1.7x the performance when clustered. The new NVIDIA Sync Cluster Assistant configures these multi-node clusters automatically with no extra setup.\n\nThe device launches October 23, 2026, starting at $4,999, through manufacturing partners Acer, ASUS, Dell, Gigabyte, HP and MSI, targeting developers who want to run AI agents and inference locally without relying on the cloud."
+     },
+     "addedAt": "2026-10-02T14:09:24+00:00"
+    },
     {
      "id": "servicenow-autosynthdata",
      "date": "2026-10-02",
