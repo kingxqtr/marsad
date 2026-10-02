@@ -64,8 +64,29 @@
         "summary": "GPT-6 Astra Ultrafast is now live in the OpenAI API and for eligible ChatGPT Work and Codex users, running on NVIDIA Blackwell GPUs for up to 8x faster token generation than standard Astra.",
         "details": "GPT-6 Astra Ultrafast is now available in the OpenAI API and to eligible ChatGPT Work and Codex users, running on NVIDIA's Blackwell GPU architecture.\n\nThe new mode delivers up to 8x faster token generation than the standard Astra model, according to NVIDIA, which credits inference optimizations that tap into Blackwell's architecture. For coding agents, the speedup can shorten the edit-test-debug loop and make interactive tools feel more responsive, since a faster response matters most when it repeats across a workflow of writing code, calling a tool and checking the result.\n\nOpenAI's inference lead Philippe Tillet said NVIDIA's tooling and documentation helped OpenAI's models become especially good at programming Blackwell and Rubin GPUs, letting Astra turn that into high-performance kernels across latency, throughput and cost."
       }
-    }
-    ,
+    },
+    {
+      "id": "earendil-pi-1-0-release",
+      "date": "2026-10-01",
+      "type": "coding",
+      "importance": 2,
+      "sourceType": "official",
+      "sourceName": "Earendil Blog",
+      "url": "https://earendil.com/posts/pi-1-0/",
+      "originalTitle": "Pi 1.0",
+      "company": "Earendil Works",
+      "tool": "Pi",
+      "ar": {
+        "title": "إيرينديل تطلق Pi 1.0 بدعم أصلي لـ MCP وحزمة Pi Durable",
+        "summary": "أطلقت Earendil Works الإصدار 1.0 من Pi، وكيل الترميز الطرفي الذي يستخدمه مئات الآلاف من المطورين أسبوعيًا، مضيفة دعمًا أصليًا لبروتوكول MCP بعد تحفظها السابق عليه، إلى جانب حزمة تجريبية باسم Pi Durable.",
+        "details": "أصدرت Earendil Works في الأول من أكتوبر الإصدار 1.0 من Pi، وهو وكيل برمجة طرفي بسيط وقابل للتوسيع تستخدمه مئات الآلاف من المطورين حول العالم أسبوعيًا.\n\nيضيف الإصدار ميزة \"Codemode\" التي توفر دعمًا أصليًا لبروتوكول سياق النموذج (MCP) إلى جانب إمكانية استخدام نماذج غير لغوية، في تراجع عن موقف الشركة السابق الرافض لتبني MCP. وقالت إيرينديل إنها تنتظر حتى تثبت أي تقنية جدواها قبل أن تقارن فوائدها بتعقيدها المضاف، ورأت أن MCP بات جاهزًا لهذا الإصدار.\n\nومن الإضافات الأخرى: امتدادات للنماذج الافتراضية، وتحميل مؤجل للأدوات، وتسخين ذاكرة التخزين المؤقت لنماذج Anthropic، ورسائل نظام في وسط المحادثة، وواجهة طرفية جديدة تعمل بوضع ملء الشاشة تلقائيًا.\n\nكما أطلقت الشركة بالتزامن مع Pi 1.0 حزمة تجريبية باسم Pi Durable لبناء تطبيقات وكيلة تعمل لفترات أطول."
+      },
+      "en": {
+        "title": "Pi 1.0 ships with native MCP support and Pi Durable",
+        "summary": "Earendil Works released Pi 1.0 of its minimal coding agent CLI, used by hundreds of thousands of developers weekly, adding native MCP support via a new Codemode feature after previously resisting it, plus a Pi Durable package.",
+        "details": "Earendil Works shipped Pi 1.0, the latest version of its minimal, extensible terminal coding agent used by hundreds of thousands of developers each week, on October 1.\n\nThe release adds Codemode, which brings native Model Context Protocol (MCP) support plus the ability to use non-LLM models, reversing an earlier stance against adopting MCP. Earendil said it waits until a technology proves itself before weighing its benefits against the complexity it adds, and judged MCP ready for this release.\n\nOther additions include virtual model extensions, deferred tool loading, cache warming for Anthropic models, mid-conversation system messages, and a new terminal UI theme with fullscreen mode on by default.\n\nAlongside Pi 1.0, Earendil also launched Pi Durable, an experimental package for building longer-running agentic applications."
+      }
+    },
     {
       "id": "servicenow-autosynthdata",
       "date": "2026-10-02",
