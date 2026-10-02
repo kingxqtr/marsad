@@ -65,6 +65,28 @@
         "details": "GPT-6 Astra Ultrafast is now available in the OpenAI API and to eligible ChatGPT Work and Codex users, running on NVIDIA's Blackwell GPU architecture.\n\nThe new mode delivers up to 8x faster token generation than the standard Astra model, according to NVIDIA, which credits inference optimizations that tap into Blackwell's architecture. For coding agents, the speedup can shorten the edit-test-debug loop and make interactive tools feel more responsive, since a faster response matters most when it repeats across a workflow of writing code, calling a tool and checking the result.\n\nOpenAI's inference lead Philippe Tillet said NVIDIA's tooling and documentation helped OpenAI's models become especially good at programming Blackwell and Rubin GPUs, letting Astra turn that into high-performance kernels across latency, throughput and cost."
       }
     }
+    ,
+    {
+      "id": "servicenow-autosynthdata",
+      "date": "2026-10-02",
+      "type": "model",
+      "importance": 1,
+      "sourceType": "official",
+      "sourceName": "Hugging Face Blog",
+      "url": "https://huggingface.co/blog/ServiceNow-AI/autosynthdata",
+      "originalTitle": "AutoSynthData: Generating Training Data for Enterprise Agents",
+      "company": "ServiceNow",
+      "ar": {
+        "title": "ServiceNow تكشف عن AutoSynthData لتوليد بيانات تدريب لوكلاء المؤسسات",
+        "summary": "طورت ServiceNow CoreAI نظام AutoSynthData الذي يكتشف ثغرات قدرات نموذج معين ثم يولّد بيانات تدريب اصطناعية لسدّها، وحقق تحسنًا نسبيًا بلغ 35% في اختبار EnterpriseOps Gym.",
+        "details": "نشر فريق ServiceNow CoreAI على مدونة Hugging Face نظامًا جديدًا باسم AutoSynthData يهدف إلى توليد بيانات تدريب لوكلاء الذكاء الاصطناعي في بيئات المؤسسات. يعمل النظام عبر تقييم أداء نموذج مستهدف لاكتشاف المهام التي يفشل فيها، ثم يستخدم نموذجًا أقوى كمعلّم لإظهار الحل الصحيح، وأخيرًا يولّد مهامًا جديدة ومتنوعة تمرّن نفس القدرة الناقصة.\n\nتتبع العملية مرحلتين: إنشاء عينات أساسية ثم توسيعها إلى نسخ متعددة، مع بوابات تحقق وآليات إصلاح على مستوى العينة والدفعة لضمان أن تكون المهام الناتجة واقعية وقابلة للتنفيذ فعليًا لا مجرد مقنعة شكليًا.\n\nفي تجربة على اختبار EnterpriseOps Gym بمجاله الهجين (Hybrid)، أدى ضبط النموذج على البيانات الاصطناعية الناتجة إلى تحسن نسبي بلغ 35% في الأداء، ما يبرز فائدة النهج في معالجة ضعف الوكلاء في مهام سير العمل الخاصة ببيئة معينة رغم قدراتهم العامة الواسعة."
+      },
+      "en": {
+        "title": "ServiceNow unveils AutoSynthData to generate training data for enterprise agents",
+        "summary": "ServiceNow CoreAI's AutoSynthData finds gaps in a model's capabilities and generates synthetic training tasks to close them, yielding a 35% relative improvement on the EnterpriseOps Gym benchmark.",
+        "details": "ServiceNow's CoreAI team published a blog post on Hugging Face describing AutoSynthData, a system for generating training data for enterprise AI agents. It works by evaluating a target model to find tasks it fails at, using a stronger teacher model to demonstrate the correct solution, then generating diverse new tasks that exercise the same capability.\n\nThe process runs in two phases: creating core samples, then expanding them into variants, with verification gates and repair mechanisms at both the sample and batch level to keep generated tasks realistic and actually solvable rather than merely plausible-looking.\n\nIn an experiment on the Hybrid domain of the EnterpriseOps Gym benchmark, fine-tuning on the resulting synthetic data produced a 35% relative performance improvement, illustrating the approach's value for closing gaps in environment-specific agent workflows despite broad underlying capability."
+      }
+    }
   ],
   "upcoming": [],
   "removeUpcoming": [],
