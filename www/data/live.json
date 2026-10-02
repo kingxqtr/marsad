@@ -1,6 +1,25 @@
 {
- "updatedAt": "2026-10-02T15:38:08+00:00",
+ "updatedAt": "2026-10-02T15:54:02+00:00",
  "items": [
+  {
+   "id": "auto-fae1599169c2",
+   "tab": "star-citizen",
+   "date": "2026-10-02",
+   "publishedAt": "2026-10-02T04:59:54+00:00",
+   "type": "community",
+   "importance": 1,
+   "sourceType": "community",
+   "sourceName": "r/starcitizen",
+   "url": "https://www.reddit.com/r/starcitizen/comments/1wvl3jc/3_years_later_where_are_the_free_qt_and_clean/",
+   "originalTitle": "3 years later, where are the free QT and clean combat UI?",
+   "en": {
+    "title": "3 years later, where are the free QT and clean combat UI?",
+    "summary": "Community post on r/starcitizen. why do stuff so important and easy (and that were already done 3 years ago) take so long but we still have a major useless FOMO event each quarter?",
+    "details": "Community post on r/starcitizen.\n\nwhy do stuff so important and easy (and that were already done 3 years ago) take so long but we still have a major useless FOMO event each quarter?"
+   },
+   "translated": false,
+   "fetchedAt": "2026-10-02T15:54:00+00:00"
+  },
   {
    "id": "auto-adf59d7f8a68",
    "tab": "ai",
