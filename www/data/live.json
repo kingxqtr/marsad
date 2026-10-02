@@ -1,26 +1,6 @@
 {
- "updatedAt": "2026-10-02T14:01:07+00:00",
+ "updatedAt": "2026-10-02T14:25:46+00:00",
  "items": [
-  {
-   "id": "auto-1627cce149d9",
-   "tab": "ai",
-   "date": "2026-10-02",
-   "publishedAt": "2026-10-02T13:00:39+00:00",
-   "type": "coding",
-   "importance": 1,
-   "sourceType": "official",
-   "sourceName": "NVIDIA Blog",
-   "url": "https://blogs.nvidia.com/blog/local-ai-dgx-spark-64gb-sync/",
-   "originalTitle": "NVIDIA DGX Spark 64GB Gives Developers More Ways to Build and Scale Local AI",
-   "en": {
-    "title": "NVIDIA DGX Spark 64GB Gives Developers More Ways to Build and Scale Local AI",
-    "summary": "Local AI is becoming more useful by the token. As AI agents move from experiments into everyday development, increasingly capable open models are shrinking to fit on more devices, giving builders more to run locally.",
-    "details": "Local AI is becoming more useful by the token.\n\nAs AI agents move from experiments into everyday development, increasingly capable open models are shrinking to fit on more devices, giving builders more to run locally.\n\nComing this month, NVIDIA DGX Spark will be available with 64GB of unified memory from top manufacturer partners — Acer, ASUS, Dell, Gigabyte, HP and MSI — giving developers, researchers and AI enthusiasts a new configuration with DGX OS and the NVIDIA AI software stack ready to use from day one.\n\nThe new SKU runs capable local agents on device — privately, without cloud dependency. And when workloads grow, two units can cluster together via NVIDIA Sync Cluster Assistant without any additional setup.\n\nA New Starting Point for Personal AI Supercomputing\n\nDGX Spark combines NVIDIA Grace Blackwell compute, unified memory, NVIDIA ConnectX-7 networking and an NVIDIA CUDA -accelerated AI software stack in one system. It’s a complete local AI platform for agents, inference, fine-tuning, data science and edge development.\n\nThe compact, personal AI supercomputer provides a place to experiment with models and developers’ own data without turning to a cloud instance for every task. …"
-   },
-   "translated": false,
-   "fetchedAt": "2026-10-02T13:09:38+00:00",
-   "company": "NVIDIA"
-  },
   {
    "id": "auto-df902f11b083",
    "tab": "ai",
