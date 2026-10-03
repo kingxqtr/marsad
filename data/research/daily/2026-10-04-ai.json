@@ -1,7 +1,30 @@
 {
   "topic": "ai",
   "generatedAt": "2026-10-04",
-  "news": [],
+  "news": [
+    {
+      "id": "thinkingbox-agent-benchmark",
+      "date": "2026-10-03",
+      "type": "product",
+      "importance": 2,
+      "sourceType": "official",
+      "sourceName": "Hugging Face Blog",
+      "url": "https://huggingface.co/blog/microsoft/thinkingbox",
+      "originalTitle": "The Agent Said It Was Done. The Database Disagreed.",
+      "company": "Microsoft",
+      "tool": "ThinkingBox",
+      "ar": {
+        "title": "مايكروسوفت وHugging Face تطلقان معيار ThinkingBox لتقييم الوكلاء",
+        "summary": "يختبر معيار ThinkingBox-Bench 18 نموذج ذكاء اصطناعي على 507 مهمة عمل، ويجد أن معظم الوكلاء يفشلون بترك قاعدة البيانات بحالة خاطئة حتى عندما تبدو كل استدعاءات الأدوات ناجحة.",
+        "details": "يقدّم معيار ThinkingBox-Bench، الذي طورته مايكروسوفت بالتعاون مع Hugging Face، طريقة جديدة لتقييم وكلاء الذكاء الاصطناعي تتحقق من إنجاز المهمة فعليًا داخل قاعدة البيانات، لا فقط من نجاح استدعاءات الأدوات دون أخطاء.\n\nمن خلال تشغيل 507 مهمة 20 مرة على كل من 18 نموذجًا، تبيّن أن 67% من حالات الفشل انتهت بشكل \"سليم\" ظاهريًا، أي أن الوكيل نفّذ أداة تغيّر الحالة ولم يُسجَّل أي خطأ، بينما كانت البيانات الناتجة فعليًا خاطئة.\n\nتصدّر Claude Opus 5.5 النماذج المملوكة من حيث نسبة النجاح في المحاولة الأولى، لكنه كان ثابتًا في حوالي نصف الحالات فقط عبر 20 محاولة. أما نموذج Kimi-K3 مفتوح الأوزان فحلّ أكبر عدد من المهام مرة واحدة على الأقل، لكن موثوقيته كانت أقل بكثير.\n\nالمعيار ومجموعة البيانات متاحان كمصدر مفتوح على GitHub وHugging Face لتمكين فرق أخرى من اختبار وكلائها."
+      },
+      "en": {
+        "title": "Microsoft and Hugging Face release ThinkingBox agent benchmark",
+        "summary": "ThinkingBox-Bench tests 18 AI models on 507 business workflow tasks and finds most agents fail by leaving the wrong database state, even when every tool call looks successful.",
+        "details": "ThinkingBox-Bench is a new evaluation benchmark from Microsoft and Hugging Face that checks whether AI agents actually complete stateful business tasks correctly, not just whether their tool calls run without errors.\n\nAcross 507 tasks run 20 times each on 18 models, 67% of failures still ended cleanly with a state-changing tool call and no reported error, meaning the agent reported success while the underlying data was wrong.\n\nClaude Opus 5.5 led proprietary models with the best single-attempt success rate, but was consistent only about half the time across 20 attempts. The open-weight model Kimi-K3 solved the most tasks at least once but was reliable far less often.\n\nThe benchmark and dataset are open-sourced on GitHub and Hugging Face for other teams to test their own agents."
+      }
+    }
+  ],
   "upcoming": [
     {
       "id": "ai-everything-abu-dhabi-2026",
