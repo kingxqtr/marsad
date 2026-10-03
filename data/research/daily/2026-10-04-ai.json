@@ -1,0 +1,35 @@
+{
+  "topic": "ai",
+  "generatedAt": "2026-10-04",
+  "news": [],
+  "upcoming": [
+    {
+      "id": "ai-everything-abu-dhabi-2026",
+      "date": "2026-10-06",
+      "endDate": "2026-10-07",
+      "dateConfidence": "confirmed",
+      "type": "event",
+      "sourceType": "official",
+      "sourceName": "AI Everything Abu Dhabi (official site)",
+      "url": "https://aieverythingabudhabi.com/",
+      "company": "KAOUN International",
+      "tool": "",
+      "ar": {
+        "title": "قمة ومعرض AI Everything في أبوظبي يومي 6 و7 أكتوبر",
+        "summary": "تستضيف أبوظبي قمة ومعرض AI Everything في مركز أدنيك يومي 6 و7 أكتوبر، بمشاركة أكثر من 350 شركة وشركة ناشئة في مجال الذكاء الاصطناعي.",
+        "details": "يُقام حدث AI Everything في أبوظبي على مدى يومين، 6 و7 أكتوبر 2026، في مركز أدنيك، وتنظمه شركة KAOUN International بالشراكة مع مجموعة أدنيك ودائرة الثقافة والسياحة في أبوظبي.\n\nيجمع الحدث أكثر من 350 شركة تقنية وشركة ناشئة، ويتضمن يوم 6 أكتوبر قمة بعنوان «الذكاء الجديد» إلى جانب محور البنية التحتية الذكية والطاقة الجديدة، فيما يخصص يوم 7 أكتوبر لمنتدى التميز الحكومي بالذكاء الاصطناعي ومؤتمر AI 360 للمؤسسات، إضافة إلى برامج تدريبية وهاكاثون.\n\nيركز الحدث على مواضيع السيادة الرقمية والأنظمة العاملة بالوكالة (agentic AI) والاقتصادات القائمة على الذكاء الاصطناعي، ويُعد من أبرز فعاليات الخليج التقنية هذا الخريف.",
+        "location": "أبوظبي، الإمارات — مركز أدنيك",
+        "dateNote": ""
+      },
+      "en": {
+        "title": "AI Everything Abu Dhabi summit and expo runs October 6–7",
+        "summary": "Abu Dhabi hosts the AI Everything summit and expo at ADNEC Centre on October 6–7, with more than 350 AI companies and startups taking part.",
+        "details": "AI Everything Abu Dhabi runs over two days, October 6–7, 2026, at the ADNEC Centre, organized by KAOUN International in partnership with ADNEC Group and Abu Dhabi's Department of Culture and Tourism.\n\nThe event brings together more than 350 tech companies and startups. October 6 features an AI summit branded 'New Intelligence' alongside an Intelligent Infrastructure and New Energy track, while October 7 hosts an AI Government Excellence Forum and the AI 360 Enterprise Conference, plus training sessions and a hackathon.\n\nThe event centers on sovereign AI, agentic systems and AI-native economies, making it one of the Gulf's notable tech gatherings this autumn.",
+        "location": "Abu Dhabi, UAE — ADNEC Centre",
+        "dateNote": ""
+      }
+    }
+  ],
+  "removeUpcoming": [],
+  "removeNews": []
+}
