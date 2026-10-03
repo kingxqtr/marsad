@@ -3,6 +3,28 @@
   "generatedAt": "2026-10-03",
   "news": [
     {
+      "id": "aleph-alpha-kolibri-1-open-weight-model",
+      "date": "2026-10-03",
+      "type": "model",
+      "importance": 2,
+      "sourceType": "official",
+      "sourceName": "Aleph Alpha Blog",
+      "url": "https://aleph-alpha.com/en/blog/kolibri-has-landed-a-sovereign-open-weight-model/",
+      "originalTitle": "Kolibri Has Landed: A Sovereign Open-Weight Model",
+      "company": "Aleph Alpha",
+      "tool": "Kolibri-1",
+      "ar": {
+        "title": "أليف ألفا تطرح Kolibri-1 نموذجًا مفتوح الأوزان ثنائي اللغة بترخيص Apache 2.0",
+        "summary": "كشفت الشركة الألمانية أليف ألفا عن Kolibri-1، نموذج خبراء مُجزّأ بـ78 مليار معامل (3 مليارات نشطة) ونافذة سياق تصل إلى مليون رمز، موجّه للقطاعات الحكومية والصناعية الحساسة في أوروبا.",
+        "details": "أعلنت شركة أليف ألفا الألمانية في 3 أكتوبر 2026 عن إطلاق Kolibri-1، نموذج لغوي ثنائي اللغة (إنجليزي-ألماني) من نوع \"مزيج الخبراء\" (Mixture-of-Experts) بسعة 78 مليار معامل إجمالي، منها نحو 3 مليارات معامل نشطة فقط عند كل استدلال، ويضم 384 خبيرًا ضمن بنيته. يدعم النموذج نافذة سياق تصل إلى مليون رمز، وتم تدريبه على بيانات تضم نسبة 21.3% من اللغة الألمانية.\n\nصدر Kolibri-1 بترخيص Apache 2.0 المفتوح، وتستهدفه الشركة لأعمال \"سيادية\" حساسة في القطاعات المنظمة مثل الإدارة العامة والصناعات الثقيلة والفضاء، حيث تؤكد أليف ألفا على إمكانية تشغيله محليًا دون الاعتماد على خدمات سحابية خارجية، لضمان سيادة البيانات والامتثال التنظيمي في أوروبا وخصوصًا الناطقة بالألمانية.\n\nذكرت الشركة استخدامات محتملة في القطاع العام الألماني وصناعات الطيران والسيارات وأشباه الموصلات وتقنيات التحريك الصناعي، مع تركيز على قابلية قياس الأثر الاقتصادي والعائد على الاستثمار لعملائها المؤسسيين."
+      },
+      "en": {
+        "title": "Aleph Alpha releases Kolibri-1, an open-weight bilingual MoE model",
+        "summary": "German company Aleph Alpha unveiled Kolibri-1, a Mixture-of-Experts model with 78B total parameters (3B active) and up to 1M tokens of context, aimed at sovereign use in regulated European sectors, under Apache 2.0.",
+        "details": "German AI company Aleph Alpha announced Kolibri-1 on October 3, 2026, a bilingual English-German Mixture-of-Experts transformer with 78 billion total parameters, of which about 3 billion are active per token, built from 384 experts. The model supports a context window of up to 1 million tokens and was trained on data that is 21.3% German.\n\nKolibri-1 is released under the Apache 2.0 open license. Aleph Alpha positions it for \"sovereign\" mission-critical work in regulated sectors such as public administration, industrials and aerospace, emphasizing that it can run on-premises without relying on third-party cloud services, to preserve data sovereignty and regulatory compliance in Europe, particularly German-speaking markets.\n\nThe company cited potential use cases in the German public sector, aerospace, automotive manufacturing, semiconductors and industrial drive technology, framing the model around measurable economic impact and return on investment for enterprise customers."
+      }
+    },
+    {
       "id": "github-copilot-code-review-api-support",
       "date": "2026-10-02",
       "type": "coding",
