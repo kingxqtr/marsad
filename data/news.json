@@ -1,9 +1,9 @@
 {
  "version": 1,
- "updatedAt": "2026-10-03T23:09:34+00:00",
+ "updatedAt": "2026-10-04T00:09:10+00:00",
  "coverage": {
-  "from": "2026-07-03",
-  "to": "2026-10-03"
+  "from": "2026-07-04",
+  "to": "2026-10-04"
  },
  "tabs": {
   "once-human": {
@@ -616,27 +616,6 @@
       "details": "Starry Studio and NetEase announced that Once Human, already on PC and mobile, would launch on PlayStation 5 and Xbox Series X|S on August 25 (PT). The date was published on the official channels on July 9, a day after a special console livestream with console producer Vincent.\n\nThe announcement highlighted playing fully in first-person mode, and pre-orders opened immediately on the PlayStation Store and Xbox Store with exclusive console-only bonuses. Two pre-order bundles were shown:\n- Starter Pack: a one-month Meta Pass, three \"Midnight Rave\" weapon skins, a Black Gold Butterfly cradle skin, a Wish Machine skin and an exclusive namecard\n- Radiance Pack: a one-month Meta Pass, an Epic outfit-set selection, the premium Battle Pass, two Lightforge Ingots and an exclusive avatar frame\n\nThe game itself remains free to play, with cross-play and shared progress across PC, mobile and consoles."
      },
      "addedAt": "2026-07-09T23:59:59+00:00"
-    },
-    {
-     "id": "oh-first-person-mode-dev-blog",
-     "date": "2026-07-03",
-     "type": "announcement",
-     "importance": 2,
-     "sourceType": "official",
-     "sourceName": "Once Human — Official Website",
-     "url": "https://www.oncehuman.game/news/devBlog/20260703/40781_1306531.html",
-     "originalTitle": "Dev Blog丨First Person Mode is Finally Here!",
-     "ar": {
-      "title": "تأكيد وصول منظور الشخص الأول إلى Once Human مع تحديث 9 يوليو",
-      "summary": "كشفت مدونة المطورين تفاصيل منظور الشخص الأول المنتظر: قتال قريب مُعاد تصميمه، وفحص السلاح أثناء الحركة، وتبديل سريع بين المنظورين على PC والجوال.",
-      "details": "أكد استوديو Starry Studio أن منظور الشخص الأول الكامل، وهو من أكثر الميزات التي طالب بها اللاعبون، سيُضاف إلى أساسيات التحكم في Once Human مع تحديث 9 يوليو بتوقيت المحيط الهادئ، في اللعبة الرئيسية وفي RaidZone.\n\nما يدعمه المنظور الجديد عند الإطلاق:\n- الحركة والقفز والتسلق، واستخدام الأسلحة والمقذوفات والأدوية والطعام\n- جمع الموارد باليد أو بأدوات مثل المعول والمنشار والمثقاب الكهربائيين\n- قتال قريب مُعاد تصميمه: هجمات أثناء الحركة، وسلسلة ضربات خفيفة، وضربة ثقيلة تُشحن بالضغط المطوّل (دون تغيير في منظور الشخص الثالث)\n- فحص السلاح أثناء الحركة، وتذكّر المركبات لآخر منظور مستخدم\n\nيمكن اختيار المنظور الافتراضي من الإعدادات، أو التبديل بمفتاحي Alt+C على PC، أو بإضافة زر مخفي إلى واجهة الجوال. وتعود بعض المشاهد والحركات ومهارات Deviations مؤقتًا إلى منظور الشخص الثالث.\n\nوذكر الفريق أن الغوص والسلالم والحبال المنزلقة ومهارات Deviations ستُدعم لاحقًا، وقد وصل معظمها في تحديث 24 أغسطس."
-     },
-     "en": {
-      "title": "First-person mode confirmed for Once Human's July 9 update",
-      "summary": "A dev blog detailed the long-requested first-person camera: redesigned melee attacks, weapon inspection while moving, and a quick toggle on PC and mobile.",
-      "details": "Starry Studio confirmed that a full first-person mode, one of the community's most requested features, would join Once Human's basic controls with the July 9 (PT) update, in both the main game and RaidZone.\n\nSupported at launch:\n- Movement, jumping and climbing; firing weapons; throwables, medicine and food\n- Gathering by hand or with tools such as the pickaxe, electric chainsaw and drill\n- Redesigned melee: attacks while moving, light-attack combos and a hold-to-charge heavy attack (third-person melee is unchanged)\n- Weapon inspection while moving, and vehicles that remember the last camera used\n\nPlayers can set the default view in Settings, press Alt+C on PC, add a hidden toggle button to the mobile layout, or use the PC function wheel. Some cutscenes, emotes and special Deviation skills temporarily switch back to third person.\n\nThe team named underwater exploration, ladders, ziplines and Deviation skills as the next areas to support; most of them arrived in the August 24 (PT) update."
-     },
-     "addedAt": "2026-07-03T23:59:59+00:00"
     }
    ],
    "upcoming": [
