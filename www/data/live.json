@@ -1,6 +1,25 @@
 {
- "updatedAt": "2026-10-05T18:10:39+00:00",
+ "updatedAt": "2026-10-05T18:39:38+00:00",
  "items": [
+  {
+   "id": "auto-3ac535ad7a2d",
+   "tab": "star-citizen",
+   "date": "2026-10-05",
+   "publishedAt": "2026-10-05T18:39:33+00:00",
+   "type": "development",
+   "importance": 1,
+   "sourceType": "official",
+   "sourceName": "RSI Comm-Link",
+   "url": "https://robertsspaceindustries.com/comm-link/transmission/21355-10-From-The-Community",
+   "originalTitle": "10 From the Community - Missions, Maelstrom & More",
+   "en": {
+    "title": "10 From the Community - Missions, Maelstrom & More",
+    "summary": "In this first episode, join us for updates on Mission System 2.0, Maelstrom, the new flight model, engineering gameplay, AI blades, suit lockers, medical respawning, and more.",
+    "details": "In this first episode, join us for updates on Mission System 2.0, Maelstrom, the new flight model, engineering gameplay, AI blades, suit lockers, medical respawning, and more. Find out what’s changing, what’s coming, and how we’re building toward the future of the ’verse."
+   },
+   "translated": false,
+   "fetchedAt": "2026-10-05T18:39:33+00:00"
+  },
   {
    "id": "auto-28b369dc2476",
    "tab": "ai",
