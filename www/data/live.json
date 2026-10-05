@@ -1,6 +1,25 @@
 {
- "updatedAt": "2026-10-05T21:35:10+00:00",
+ "updatedAt": "2026-10-05T21:51:03+00:00",
  "items": [
+  {
+   "id": "auto-a5e606f9f46a",
+   "tab": "star-citizen",
+   "date": "2026-10-05",
+   "publishedAt": "2026-10-05T16:55:33+00:00",
+   "type": "community",
+   "importance": 1,
+   "sourceType": "community",
+   "sourceName": "r/starcitizen",
+   "url": "https://www.reddit.com/r/starcitizen/comments/1wyds06/the_new_flight_model_no_more_mm_qboost_squadron_42/",
+   "originalTitle": "The new Flight Model (No more MM, Qboost, Squadron 42...)",
+   "en": {
+    "title": "The new Flight Model (No more MM, Qboost, Squadron 42...)",
+    "summary": "Community post on r/starcitizen.",
+    "details": "Community post on r/starcitizen."
+   },
+   "translated": false,
+   "fetchedAt": "2026-10-05T21:51:01+00:00"
+  },
   {
    "id": "auto-28b369dc2476",
    "tab": "ai",
