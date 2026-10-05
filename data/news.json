@@ -1,9 +1,9 @@
 {
  "version": 1,
- "updatedAt": "2026-10-04T23:09:06+00:00",
+ "updatedAt": "2026-10-05T00:08:56+00:00",
  "coverage": {
-  "from": "2026-07-04",
-  "to": "2026-10-04"
+  "from": "2026-07-05",
+  "to": "2026-10-05"
  },
  "tabs": {
   "once-human": {
@@ -4354,34 +4354,6 @@
       "details": "Canva World Tour is back for 2026, running worldwide from September 14 through November 30.\n\n- Format: Canva teams in different countries host local community meetups and live training sessions; an event finder is available at canva.com/events.\n- AI Essentials: a new free certification that anyone can complete at their own pace, covering how to get the most out of Canva AI.\n- Design School: short, mobile-first lessons that teach one skill at a time, some lasting about 90 seconds.\n\nAll of the learning content can also be followed online through Canva Design School at any time during the campaign, so people can take part even without a local event nearby.",
       "location": "Worldwide (local events and online)",
       "dateNote": "Campaign started September 14 and ends November 30, 2026."
-     },
-     "addedAt": "2026-09-27T13:25:38+00:00"
-    },
-    {
-     "id": "google-googlebook-on-sale",
-     "date": "2026-10-04",
-     "type": "release",
-     "importance": 1,
-     "sourceType": "official",
-     "sourceName": "Google Blog (The Keyword)",
-     "url": "https://blog.google/products-and-platforms/devices/googlebook/pre-order-googlebook/",
-     "originalTitle": "",
-     "company": "Google",
-     "tool": "Googlebook",
-     "dateConfidence": "confirmed",
-     "ar": {
-      "title": "بدء بيع أول حواسيب Googlebook",
-      "summary": "تصل حواسيب Googlebook المصممة حول Gemini من Acer وASUS وDell وHP وLenovo إلى المتاجر في 4 أكتوبر في الولايات المتحدة و5 أكتوبر في كندا والمملكة المتحدة وأيرلندا وفرنسا وألمانيا وأستراليا، بسعر يبدأ من 899 دولارًا.",
-      "details": "تُطرح أولى حواسيب Googlebook للبيع في 4 أكتوبر في الولايات المتحدة، بعد فتح الطلب المسبق في 21 سبتمبر عبر Google Store وBest Buy ومتاجر أخرى، ثم تصل في 5 أكتوبر إلى كندا والمملكة المتحدة وأيرلندا وفرنسا وألمانيا وأستراليا.\n\n- خمس شركات مصنعة: Acer وASUS وDell وHP وLenovo، بأسعار تبدأ من 899 دولارًا\n- مبنية على Android مع أسس سطح المكتب من ChromeOS، ومصممة للعمل بتكامل وثيق مع هواتف Android\n- تشمل ميزات Gemini كلًا من Magic Pointer وRambler وCreate My Widget، وتقول Google إنها لا تعمل إلا عند الطلب ويمكن إيقافها\n- تتضمن كل عملية شراء 12 شهرًا من Google AI Pro مع سعة تخزين 5 تيرابايت\n\nولم تعلن Google عن توفر الأجهزة في منطقة الخليج.",
-      "location": "الولايات المتحدة (4 أكتوبر)؛ كندا والمملكة المتحدة وأيرلندا وفرنسا وألمانيا وأستراليا (5 أكتوبر)",
-      "dateNote": "تصل إلى بقية دول الإطلاق في 5 أكتوبر"
-     },
-     "en": {
-      "title": "First Googlebook laptops go on sale",
-      "summary": "Googlebooks from Acer, ASUS, Dell, HP and Lenovo, built around Gemini, reach stores on October 4 in the US and October 5 in Canada, the UK, Ireland, France, Germany and Australia, from $899.",
-      "details": "Google's first Googlebook laptops go on sale on October 4 in the United States, after pre-orders opened on September 21 through the Google Store, Best Buy and other retailers. They arrive a day later, on October 5, in Canada, the UK, Ireland, France, Germany and Australia.\n\n- Five makers: Acer, ASUS, Dell, HP and Lenovo, with prices from $899\n- Built on Android with desktop foundations from ChromeOS, and designed to work closely with Android phones\n- Gemini features include Magic Pointer, Rambler and Create My Widget, which Google says act only when asked and can be switched off\n- Each purchase includes 12 months of Google AI Pro with 5TB of storage\n\nGoogle has not announced availability in the Gulf region.",
-      "location": "US (Oct 4); Canada, UK, Ireland, France, Germany, Australia (Oct 5)",
-      "dateNote": "Other launch countries follow on October 5"
      },
      "addedAt": "2026-09-27T13:25:38+00:00"
     },
