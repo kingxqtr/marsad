@@ -1,4 +1,25 @@
 {
- "updatedAt": "2026-10-05T10:25:56+00:00",
- "items": []
+ "updatedAt": "2026-10-05T10:43:41+00:00",
+ "items": [
+  {
+   "id": "auto-245f816ab918",
+   "tab": "ai",
+   "date": "2026-10-05",
+   "publishedAt": "2026-10-05T10:00:00+00:00",
+   "type": "business",
+   "importance": 1,
+   "sourceType": "official",
+   "sourceName": "OpenAI News",
+   "url": "https://openai.com/index/new-chatgpt-ads-format-and-measurement",
+   "originalTitle": "Building advertising for the way people use AI",
+   "en": {
+    "title": "Building advertising for the way people use AI",
+    "summary": "OpenAI introduces a new visual ad format in ChatGPT and expands measurement tools, attribution partnerships, and brand suitability for advertisers.",
+    "details": "OpenAI introduces a new visual ad format in ChatGPT and expands measurement tools, attribution partnerships, and brand suitability for advertisers."
+   },
+   "translated": false,
+   "fetchedAt": "2026-10-05T10:43:36+00:00",
+   "company": "OpenAI"
+  }
+ ]
 }
