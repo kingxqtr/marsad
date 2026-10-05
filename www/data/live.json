@@ -1,6 +1,25 @@
 {
- "updatedAt": "2026-10-05T23:06:46+00:00",
+ "updatedAt": "2026-10-05T23:21:38+00:00",
  "items": [
+  {
+   "id": "auto-a1e69ce1350d",
+   "tab": "ai",
+   "date": "2026-10-05",
+   "publishedAt": "2026-10-05T19:16:35+00:00",
+   "type": "model",
+   "importance": 1,
+   "sourceType": "community",
+   "sourceName": "Hacker News",
+   "url": "https://news.ycombinator.com/item?id=49969183",
+   "originalTitle": "Beam: Reflection's 501B open-weight model",
+   "en": {
+    "title": "Beam: Reflection's 501B open-weight model",
+    "summary": "Community discussion on Hacker News (252 points, 66 comments).",
+    "details": "Community discussion on Hacker News (252 points, 66 comments)."
+   },
+   "translated": false,
+   "fetchedAt": "2026-10-05T23:21:34+00:00"
+  },
   {
    "id": "auto-8bdcc3869db1",
    "tab": "ai",
