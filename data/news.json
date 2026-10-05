@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": "2026-10-05T20:10:31+00:00",
+ "updatedAt": "2026-10-05T21:11:19+00:00",
  "coverage": {
   "from": "2026-07-05",
   "to": "2026-10-05"
@@ -828,6 +828,27 @@
   },
   "star-citizen": {
    "news": [
+    {
+     "id": "sc-planet-tech-v5-evocati-preview",
+     "date": "2026-10-05",
+     "type": "development",
+     "importance": 2,
+     "sourceType": "official",
+     "sourceName": "RSI Comm-Link",
+     "url": "https://robertsspaceindustries.com/comm-link/transmission/21352-This-Week-In-Star-Citizen",
+     "originalTitle": "This Week in Star Citizen - October 5, 2026",
+     "ar": {
+      "title": "CIG تبدأ أول معاينة تقنية مغلقة لنظام الكواكب Planet Tech v5",
+      "summary": "أطلقت Cloud Imperium Games أول معاينة تقنية لنظام Planet Tech v5 لمختبري Evocati فقط، وهو إعادة بناء شاملة لتوليد الكواكب ضمن محرك Genesis، تمهيدًا لإدراجه مع Alpha 4.11.",
+      "details": "أعلنت Cloud Imperium Games في نشرة \"This Week in Star Citizen\" الأسبوعية بدء أول معاينة تقنية خاصة بمختبري Evocati لنظام Planet Tech v5 الجديد.\n\nيعيد هذا النظام، المعروف بمحرك Genesis، بناء طريقة توليد الكواكب وتوزيع الأحياء الحيوية والنباتات والصخور بحسب خصائصها الفيزيائية، إضافة إلى تحسين تظليل التضاريس عبر مواد الرمل والتراب والصخر والثلج، ونقل عمليات التوليد والتوزيع إلى معالج الرسوميات لدعم بيئات أكثر كثافة وأداء أفضل.\n\nيأتي هذا الاختبار المبكر كخطوة تمهيدية ضمن تطوير Alpha 4.11 المرتقب في الربع الأخير من 2026، والذي يتضمن أيضًا كوكب Nyx I ونظام Starchitect لتوليد المواقع تلقائيًا."
+     },
+     "en": {
+      "title": "CIG starts first closed Evocati tech preview for Planet Tech v5",
+      "summary": "Cloud Imperium Games began the first Evocati-only tech preview of Planet Tech v5, a full rework of planet generation under the Genesis engine, ahead of its planned inclusion in Alpha 4.11.",
+      "details": "In this week's \"This Week in Star Citizen\" newsletter, Cloud Imperium Games announced the start of the first Evocati-only tech preview for the new Planet Tech v5 system.\n\nKnown internally as the Genesis engine, the system reworks how planets are built, scattering biomes, plants and rocks according to their physical properties, reworking terrain shading across materials like sand, dirt, rock and snow, and moving generation and spawning work to the GPU to support denser, better-performing environments.\n\nThe early test is a preparatory step in developing Alpha 4.11, planned for Q4 2026, which is also set to include the Nyx I system and the Starchitect procedural location-building system."
+     },
+     "addedAt": "2026-10-05T21:11:19+00:00"
+    },
     {
      "id": "sc-10-from-the-community-ep1",
      "date": "2026-10-05",
