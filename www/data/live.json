@@ -1,6 +1,26 @@
 {
- "updatedAt": "2026-10-05T13:04:28+00:00",
+ "updatedAt": "2026-10-05T13:29:06+00:00",
  "items": [
+  {
+   "id": "auto-162fbf813d14",
+   "tab": "ai",
+   "date": "2026-10-05",
+   "publishedAt": "2026-10-05T13:00:57+00:00",
+   "type": "hardware",
+   "importance": 1,
+   "sourceType": "official",
+   "sourceName": "NVIDIA Blog",
+   "url": "https://blogs.nvidia.com/blog/ai-breast-cancer-startups/",
+   "originalTitle": "From Scan to Treatment Plan, AI Helps Close Breast Cancer’s Deadliest Gaps",
+   "en": {
+    "title": "From Scan to Treatment Plan, AI Helps Close Breast Cancer’s Deadliest Gaps",
+    "summary": "Breast cancer is the most commonly diagnosed cancer among American women — yet the gaps in care are wide. A majority of women over age 40 skip the recommended annual screening.",
+    "details": "Breast cancer is the most commonly diagnosed cancer among American women — yet the gaps in care are wide. A majority of women over age 40 skip the recommended annual screening. Radiologists are reading more mammograms with fewer colleagues. And when a diagnosis arrives, the tests that inform treatment can take weeks to return results.\n\nCompanies in the NVIDIA Inception program for startups are building AI applications to support clinicians at each of these friction points, including imaging, risk assessment and treatment planning.\n\nAbout 40 million mammograms are performed in the U.S. each year, but a projected shortfall of tens of thousands of radiologists over the next decade is straining the system’s capacity to read them.\n\nAt the other end of the care timeline, treatment decisions often hinge on genomic assays sent off to outside labs — assays that take weeks to process, at a moment when speed and certainty matter most.\n\nThe companies below are addressing both ends of that gap, and everything in between, accelerated by NVIDIA AI infrastructure.\n\nAutomated Imaging Delivers AI-Powered Insights\n\nFor women struggling to find time or a nearby location for breast cancer screening, access is a practical barrier that translates into missed diagnoses. NVIDIA Inception startup iSono Health was built around simplifying this imaging workflow. …"
+   },
+   "translated": false,
+   "fetchedAt": "2026-10-05T13:29:01+00:00",
+   "company": "NVIDIA"
+  },
   {
    "id": "auto-b55679f6c66a",
    "tab": "star-citizen",
