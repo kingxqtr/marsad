@@ -1,6 +1,44 @@
 {
- "updatedAt": "2026-10-05T21:51:03+00:00",
+ "updatedAt": "2026-10-05T22:08:00+00:00",
  "items": [
+  {
+   "id": "auto-8bdcc3869db1",
+   "tab": "ai",
+   "date": "2026-10-05",
+   "publishedAt": "2026-10-05T17:20:38+00:00",
+   "type": "model",
+   "importance": 1,
+   "sourceType": "community",
+   "sourceName": "r/LocalLLaMA",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wyefkt/how_is_it_possible_that_qwen_27b_is_so_good_when/",
+   "originalTitle": "How is it possible that qwen 27b is so good? When GPT 4o had a trillion parameters and was worse?",
+   "en": {
+    "title": "How is it possible that qwen 27b is so good? When GPT 4o had a trillion parameters and was worse?",
+    "summary": "Community post on r/LocalLLaMA. Picture from a post in r/amodei . People were praising qwen and I'm just wondering, what kind of new technologies are at play here? Does qwen just have \"better\" pre training data? That's more high quality?",
+    "details": "Community post on r/LocalLLaMA.\n\nPicture from a post in r/amodei . People were praising qwen and I'm just wondering, what kind of new technologies are at play here? Does qwen just have \"better\" pre training data? That's more high quality?"
+   },
+   "translated": false,
+   "fetchedAt": "2026-10-05T22:08:00+00:00"
+  },
+  {
+   "id": "auto-0db648c7c22f",
+   "tab": "ai",
+   "date": "2026-10-05",
+   "publishedAt": "2026-10-05T05:33:32+00:00",
+   "type": "model",
+   "importance": 1,
+   "sourceType": "community",
+   "sourceName": "r/LocalLLaMA",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wy0jrc/reflection_ai_is_about_to_release_a_us_openweight/",
+   "originalTitle": "Reflection AI Is About to Release a US Open-Weight Model to Take On DeepSeek and Qwen",
+   "en": {
+    "title": "Reflection AI Is About to Release a US Open-Weight Model to Take On DeepSeek and Qwen",
+    "summary": "Community post on r/LocalLLaMA. Looks like new open model coming soon and will be \"strong\" hopefully something under 200b for us memory poor. Also seeing statements about more western open models coming.",
+    "details": "Community post on r/LocalLLaMA.\n\nLooks like new open model coming soon and will be \"strong\" hopefully something under 200b for us memory poor. Also seeing statements about more western open models coming.\n\nHope we get some good competition again on the open front!\n\nHere is original artical but its not free to access. Maybe someone has it already here.\n\nhttps://www.axios.com/2026/10/04/reflection-open-weight-ai\n\nOct starting strong!"
+   },
+   "translated": false,
+   "fetchedAt": "2026-10-05T22:08:00+00:00"
+  },
   {
    "id": "auto-a5e606f9f46a",
    "tab": "star-citizen",
