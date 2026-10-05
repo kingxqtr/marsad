@@ -1,6 +1,63 @@
 {
- "updatedAt": "2026-10-05T17:33:09+00:00",
+ "updatedAt": "2026-10-05T17:52:01+00:00",
  "items": [
+  {
+   "id": "auto-28b369dc2476",
+   "tab": "ai",
+   "date": "2026-10-05",
+   "publishedAt": "2026-10-05T01:13:22+00:00",
+   "type": "model",
+   "importance": 1,
+   "sourceType": "community",
+   "sourceName": "r/LocalLLaMA",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wxvt41/my_qwen_model_hallucinated_a_signed_url_to/",
+   "originalTitle": "My qwen model hallucinated a signed URL to Alibaba cloud, normal or sketchy?",
+   "en": {
+    "title": "My qwen model hallucinated a signed URL to Alibaba cloud, normal or sketchy?",
+    "summary": "Community post on r/LocalLLaMA. I'm using Qwen3.8-Flash-Next running on my Mac Studio as a daily driver for coding + productivity tasks, and yesterday it did something weird: I had it do some product research on amazon, so it was doing a …",
+    "details": "Community post on r/LocalLLaMA.\n\nI'm using Qwen3.8-Flash-Next running on my Mac Studio as a daily driver for coding + productivity tasks, and yesterday it did something weird: I had it do some product research on amazon, so it was doing a lot of Web tool calls to amazon.com , until it made one request to routify-file-proxy-sg.oss-ap-southeast-1.aliyuncs.com 🤔\n\nAs soon as I noticed this in the tool calls I stopped the session because this long URL didn't seem related to my session and I got suspicious.D id some investigation and found a couple of things:\n\n- another report of this behavior in a hacker news post 45 days ago from a user using Qwen3.8-27B , here is the link: https://news.ycombinator.com/item?id=49379079\n\n- The root domain, aliyuncs.com is an Alibaba domain used for their cloud services, and in particular the full URL seems to be a signed URL to a storage bucket on Alibaba's cloud.\n\nThis could be a harmless hallucination since Qwen models are likely trained on Alibaba's coding traces where posting to their cloud storage would be a normal thing to do. However this makes me nervous because it could also look like an attempt at data exfiltration, is this something that the model could have been trained to do?\n\nAm I being paranoid, does anyone have some insights on this?\n\nHere is a full tool call from that hermes session …"
+   },
+   "translated": false,
+   "fetchedAt": "2026-10-05T17:52:01+00:00"
+  },
+  {
+   "id": "auto-57e7ae01743e",
+   "tab": "once-human",
+   "date": "2026-10-05",
+   "publishedAt": "2026-10-05T10:22:36+00:00",
+   "type": "community",
+   "importance": 1,
+   "sourceType": "community",
+   "sourceName": "r/OnceHumanOfficial",
+   "url": "https://www.reddit.com/r/OnceHumanOfficial/comments/1wy4zc2/my_thoughts_as_a_new_player_that_just_hit_200hrs/",
+   "originalTitle": "my thoughts as a new player that just hit 200hrs",
+   "en": {
+    "title": "my thoughts as a new player that just hit 200hrs",
+    "summary": "Community post on r/OnceHumanOfficial. I LOVE IT! thank you for coming to my ted talk.",
+    "details": "Community post on r/OnceHumanOfficial.\n\nI LOVE IT! thank you for coming to my ted talk.\n\nbut seriously i really enjoy the game, yea there's some minor things that can and should be fixed but the overall scenery and customisation/ skins for characters and weapons 10/10. combat could improve but im still on manibus so ED combat might be different.\n-maybe more npcs roaming around aswell like scavenging or something.\n-boss mechanics aren't too bad, very simple straightforward.\n-crafting is kinda fun, the grind for certain foods tedious but gives you something to do to beat higher level dungeons.\n-the mod system is eh getting a ton of duplicates just to have the same lvl 14 mod not upgrade, maybe after a certain amount of the same dupe it levels up.\n-the classes i haven't really played around too much, ive only just switched to my second manibus server. i do like the chef class, might switch to beastmaster on next server or when the new scenario releases.\nthe gacha system.. well its gacha aint no explaining that🤣😭 unless you have really bad fomo and a sucker for collecting skins like myself and have the money to do so then don't worry about gacha. its a very friendly f2p game, everything paid for is cosmetics is what i've seen so far.\n-the building mechanics are really fun, seeing everyone's builds throughout nalcott is inspiring. …"
+   },
+   "translated": false,
+   "fetchedAt": "2026-10-05T17:51:57+00:00"
+  },
+  {
+   "id": "auto-9b21b862f5f6",
+   "tab": "once-human",
+   "date": "2026-10-05",
+   "publishedAt": "2026-10-05T08:07:32+00:00",
+   "type": "community",
+   "importance": 1,
+   "sourceType": "community",
+   "sourceName": "r/OnceHumanOfficial",
+   "url": "https://www.reddit.com/r/OnceHumanOfficial/comments/1wy2xdb/free2play_easy_plant_bed_tutorial/",
+   "originalTitle": "Free2Play Easy Plant Bed Tutorial",
+   "en": {
+    "title": "Free2Play Easy Plant Bed Tutorial",
+    "summary": "Community post on r/OnceHumanOfficial. Elevate your cute garden with this simple trick. Works on both live & custom server. YT: https://youtu.be/f3C373onzwU More tips & trick: oncearchitect.com",
+    "details": "Community post on r/OnceHumanOfficial.\n\nElevate your cute garden with this simple trick. Works on both live & custom server.\nYT: https://youtu.be/f3C373onzwU\nMore tips & trick: oncearchitect.com"
+   },
+   "translated": false,
+   "fetchedAt": "2026-10-05T17:51:57+00:00"
+  },
   {
    "id": "auto-162fbf813d14",
    "tab": "ai",
