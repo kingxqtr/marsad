@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": "2026-10-05T15:09:17+00:00",
+ "updatedAt": "2026-10-05T16:22:01+00:00",
  "coverage": {
   "from": "2026-07-05",
   "to": "2026-10-05"
@@ -1607,6 +1607,28 @@
       "details": "OpenAI announced an update to ChatGPT's advertising system that adds a more visually prominent ad format for sponsored content shown in conversations, alongside expanded measurement tools including a Conversions API and pixel-based tracking so advertisers can see what happens after someone engages with an ad.\n\nThe update continues a gradual rollout OpenAI began in early 2026, when it first tested ads in ChatGPT using a shaded \"tinted box\" format meant to visually separate sponsored content from organic answers, later adding formats such as multi-product carousels.\n\nOpenAI also said it is expanding its network of ad-buying and brand-suitability partners, while reiterating that sponsored content stays clearly separated from organic responses and that limits apply to how conversation data can be used for ad targeting and measurement."
      },
      "addedAt": "2026-10-05T11:10:50+00:00"
+    },
+    {
+     "id": "openai-eu-text-provenance-approach",
+     "date": "2026-10-05",
+     "type": "policy",
+     "importance": 1,
+     "sourceType": "official",
+     "sourceName": "OpenAI News",
+     "url": "https://openai.com/index/eu-text-provenance",
+     "originalTitle": "Our approach to EU text provenance rules",
+     "company": "OpenAI",
+     "ar": {
+      "title": "OpenAI توضح نهجها حيال قواعد تتبّع مصدر النصوص في الاتحاد الأوروبي",
+      "summary": "نشرت OpenAI توضيحًا لنهجها في وضع علامات تتبّع مصدر (provenance) على النصوص المولّدة بالذكاء الاصطناعي بما يستجيب لقواعد الشفافية الأوروبية، مشيرة إلى أن الوصول لأدوات الكشف سيبدأ بالباحثين.",
+      "details": "نشرت OpenAI صفحة توضح فيها نهجها في التعامل مع قواعد تتبّع مصدر المحتوى النصي الجديدة في الاتحاد الأوروبي، والتي تندرج ضمن متطلبات الشفافية لمزوّدي الذكاء الاصطناعي العام في قانون الذكاء الاصطناعي الأوروبي.\n\nتشرح الشركة في الصفحة أين تنطبق علامات تتبّع المصدر على نصوص ChatGPT وكيف تعمل آلية الكشف عنها، دون نشر تفاصيل تقنية كاملة عن الآلية بعد.\n\nوأوضحت OpenAI أن الوصول إلى أدوات الكشف عن هذه العلامات سيبدأ أولًا مع باحثين خارجيين قبل أي توسّع لاحق في الإتاحة."
+     },
+     "en": {
+      "title": "OpenAI explains its approach to EU text provenance rules",
+      "summary": "OpenAI published a page outlining its approach to marking the provenance of AI-generated text under EU transparency rules, saying access to detection tools will start with outside researchers.",
+      "details": "OpenAI published a page explaining its approach to new EU rules on marking the provenance of AI-generated content, which fall under transparency obligations for general-purpose AI providers in the EU AI Act.\n\nThe page describes, at a high level, where such provenance signals would apply to ChatGPT's text output and how detection of them would work, without detailing the full underlying method.\n\nOpenAI said access to tools for detecting these signals will start with outside researchers before any wider availability."
+     },
+     "addedAt": "2026-10-05T16:22:01+00:00"
     },
     {
      "id": "aleph-alpha-kolibri-1-open-weight-model",
