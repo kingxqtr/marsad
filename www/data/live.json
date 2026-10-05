@@ -1,4 +1,43 @@
 {
- "updatedAt": "2026-10-05T11:18:17+00:00",
- "items": []
+ "updatedAt": "2026-10-05T11:38:04+00:00",
+ "items": [
+  {
+   "id": "auto-b55679f6c66a",
+   "tab": "star-citizen",
+   "date": "2026-10-05",
+   "publishedAt": "2026-10-05T00:56:39+00:00",
+   "type": "community",
+   "importance": 1,
+   "sourceType": "community",
+   "sourceName": "r/starcitizen",
+   "url": "https://www.reddit.com/r/starcitizen/comments/1wxvh6l/note_on_removed_offline_cig_post/",
+   "originalTitle": "Note on Removed \"Offline CIG\" Post",
+   "en": {
+    "title": "Note on Removed \"Offline CIG\" Post",
+    "summary": "Community post on r/starcitizen. We're wanted to make a quick announcement about a removed post before it leads to speculation about why.",
+    "details": "Community post on r/starcitizen.\n\nWe're wanted to make a quick announcement about a removed post before it leads to speculation about why.\n\nToday there was a post about a program that allowed you to \"play Star Citizen offline\" which was downloaded through GitHub. CIG reached out to us directly and made an informal DMCA for the post to be removed. We want to be very clear that this subreddit is not beholden to CIGs ToS itself BUT Reddit ToS does allow copyright holders to request removal of content if it violates their copyright and therefore we removed it. While it likely can be debated whether or not this actually violates their copyright/legal protections (that's for them and their lawyers to figure out), we have removed it in good faith.\n\nNow before people start claiming that we are beholden to CIG and answer to them, this is only the second time CIG has ever made a request directly to us with the other being an indisputable copyright violation back in the 890J release days. We will never moderate this subreddit based on CIGs personal belief as to how we should, but this one was close enough to the line that we want to do our best to follow Reddit's ToS.\n\nCheers,\nr/starcitizen Mod Team"
+   },
+   "translated": false,
+   "fetchedAt": "2026-10-05T11:38:02+00:00"
+  },
+  {
+   "id": "auto-cf0fd585e5c8",
+   "tab": "star-citizen",
+   "date": "2026-10-05",
+   "publishedAt": "2026-10-05T03:01:27+00:00",
+   "type": "community",
+   "importance": 1,
+   "sourceType": "community",
+   "sourceName": "r/starcitizen",
+   "url": "https://www.reddit.com/r/starcitizen/comments/1wxxvxt/a_level_of_immersion_i_dont_think_cig_envisioned/",
+   "originalTitle": "A level of immersion I don't think CIG envisioned.",
+   "en": {
+    "title": "A level of immersion I don't think CIG envisioned.",
+    "summary": "Community post on r/starcitizen. After receiving a new VR headset, the number one thing I was looking forward to in Star Citizen was the newfound appreciation of the scale of ships and stations.",
+    "details": "Community post on r/starcitizen.\n\nAfter receiving a new VR headset, the number one thing I was looking forward to in Star Citizen was the newfound appreciation of the scale of ships and stations. But the number two urge kept creeping up on me - what is something I could do in both SC and IRL simultaneously?\n\nThanks to wireless streaming, and the intricately modeled interior of the lavatory of my Drake Corsair, I had the most immersive experience I've ever had VR Star Citizen. To pass the time, I could read the labels scattered around, or catch up on the journal entries in my mobiglass.\n\nThank you Silvan-CIG for letting me relieve my dreams. It's taken over 10 years, but I finally understand the way spaceship bathrooms add to gameplay. This post will probably get buried under Nyx 1 posts and actually useful information, but I couldn't keep holding this experience in to myself."
+   },
+   "translated": false,
+   "fetchedAt": "2026-10-05T11:38:02+00:00"
+  }
+ ]
 }
