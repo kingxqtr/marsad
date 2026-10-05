@@ -1,0 +1,29 @@
+{
+  "topic": "star-citizen",
+  "generatedAt": "2026-10-05",
+  "news": [
+    {
+      "id": "sc-10-from-the-community-ep1",
+      "date": "2026-10-05",
+      "type": "development",
+      "importance": 1,
+      "sourceType": "official",
+      "sourceName": "RSI Comm-Link",
+      "url": "https://robertsspaceindustries.com/comm-link/transmission/21355-10-From-The-Community",
+      "originalTitle": "10 From the Community - Missions, Maelstrom & More",
+      "ar": {
+        "title": "CIG تطلق برنامج \"10 From the Community\" يستعرض تحديثات متعددة",
+        "summary": "كشفت Cloud Imperium Games عن برنامج مجتمعي جديد بعنوان \"10 From the Community\"، استعرضت حلقته الأولى العمل الجاري على Mission System 2.0 ونظام Maelstrom والنموذج الجديد للطيران وأسلوب لعب الهندسة وشفرات AI وخزائن البدلات وإعادة الإحياء الطبي.",
+        "details": "أصدرت Cloud Imperium Games الحلقة الأولى من برنامج مجتمعي جديد متكرر يحمل عنوان \"10 From the Community\" عبر منصة RSI Comm-Link.\n\nتستعرض الحلقة العمل الجاري على عدة أنظمة في لعبة Star Citizen، من بينها Mission System 2.0 ومحتوى Maelstrom ونموذج الطيران الجديد وأسلوب لعب الهندسة وشفرات AI وخزائن البدلات وإعادة الإحياء الطبي.\n\nلم تنشر CIG تواريخ إصدار محددة أو تفاصيل تقنية إضافية مع الحلقة، واصفة المحتوى بأنه نظرة على ما يتغير وما هو قادم في الكون المستمر للعبة."
+      },
+      "en": {
+        "title": "CIG debuts \"10 From the Community\" show covering multiple systems",
+        "summary": "Cloud Imperium Games launched a new community show, \"10 From the Community,\" whose first episode previewed work on Mission System 2.0, Maelstrom, the new flight model, engineering gameplay, AI blades, suit lockers and medical respawning.",
+        "details": "Cloud Imperium Games released the first episode of a new recurring community show called \"10 From the Community\" on the RSI Comm-Link.\n\nThe episode previews ongoing work across several Star Citizen systems: Mission System 2.0, the Maelstrom bunker content, a new flight model, engineering gameplay, AI blades, suit lockers, and medical respawning.\n\nCIG did not publish specific release dates or further technical details alongside the episode; the post frames it as a look at what is changing and what is coming next for the persistent universe."
+      }
+    }
+  ],
+  "upcoming": [],
+  "removeUpcoming": [],
+  "removeNews": []
+}
