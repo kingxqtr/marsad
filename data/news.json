@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": "2026-10-05T10:09:06+00:00",
+ "updatedAt": "2026-10-05T11:10:50+00:00",
  "coverage": {
   "from": "2026-07-05",
   "to": "2026-10-05"
@@ -1586,6 +1586,28 @@
   },
   "ai": {
    "news": [
+    {
+     "id": "openai-chatgpt-ads-visual-format-measurement",
+     "date": "2026-10-05",
+     "type": "business",
+     "importance": 1,
+     "sourceType": "official",
+     "sourceName": "OpenAI News",
+     "url": "https://openai.com/index/new-chatgpt-ads-format-and-measurement",
+     "originalTitle": "Building advertising for the way people use AI",
+     "company": "OpenAI",
+     "ar": {
+      "title": "OpenAI توسّع إعلانات ChatGPT بتنسيق مرئي جديد وأدوات قياس أداء",
+      "summary": "أعلنت OpenAI عن تنسيق إعلاني مرئي جديد داخل ChatGPT إلى جانب أدوات قياس أداء موسّعة وشراكات إسناد (attribution) جديدة للمعلنين، ضمن توسّعها التدريجي لمنظومة الإعلانات في المحادثة.",
+      "details": "كشفت OpenAI عن تحديث جديد لمنظومة إعلانات ChatGPT يضيف تنسيقًا مرئيًا أكثر بروزًا للإعلانات الظاهرة داخل المحادثات، إلى جانب توسيع أدوات قياس الأداء المتاحة للمعلنين عبر واجهة تحويلات (Conversions API) وقياس قائم على البكسل لتتبع ما يحدث بعد التفاعل مع الإعلان.\n\nتأتي الخطوة ضمن مسار تدريجي بدأته الشركة مطلع عام 2026 بإطلاق الإعلانات التجريبية داخل ChatGPT بتصميم \"الصندوق المظلل\" الذي يميّز المحتوى الممول عن الإجابات العضوية، ثم توسعته لاحقًا بإضافة تنسيقات مثل عرض المنتجات المتعدد.\n\nتوسّع OpenAI أيضًا شبكة شركائها في مجالي شراء الإعلانات وقياس ملاءمة العلامة التجارية، مؤكدة التزامها بالفصل الواضح بين المحتوى الممول والمحادثة العضوية وبوضع ضوابط على استخدام بيانات المحادثات في الاستهداف والقياس."
+     },
+     "en": {
+      "title": "OpenAI expands ChatGPT ads with new visual format and measurement tools",
+      "summary": "OpenAI introduced a more prominent visual ad format inside ChatGPT along with expanded performance-measurement tools and new attribution partnerships for advertisers.",
+      "details": "OpenAI announced an update to ChatGPT's advertising system that adds a more visually prominent ad format for sponsored content shown in conversations, alongside expanded measurement tools including a Conversions API and pixel-based tracking so advertisers can see what happens after someone engages with an ad.\n\nThe update continues a gradual rollout OpenAI began in early 2026, when it first tested ads in ChatGPT using a shaded \"tinted box\" format meant to visually separate sponsored content from organic answers, later adding formats such as multi-product carousels.\n\nOpenAI also said it is expanding its network of ad-buying and brand-suitability partners, while reiterating that sponsored content stays clearly separated from organic responses and that limits apply to how conversation data can be used for ad targeting and measurement."
+     },
+     "addedAt": "2026-10-05T11:10:50+00:00"
+    },
     {
      "id": "aleph-alpha-kolibri-1-open-weight-model",
      "date": "2026-10-03",
