@@ -23,6 +23,28 @@
         "summary": "Google launched EmbeddingGemma 2, a 740M-parameter open embedding model that places text, code, images, video and audio in one shared space and runs on consumer hardware.",
         "details": "Google DeepMind announced EmbeddingGemma 2 on October 6, an Apache 2.0-licensed embedding model that places text, code, images, video and audio in a single shared embedding space.\n\nThe model has 740 million parameters in a modular design that lets developers use a text-only mode at 270 million parameters, adding vision and audio encoders only when needed. Using Matryoshka Representation Learning, embedding vectors can be shrunk from 768 to 128 dimensions, cutting storage needs by up to 6x.\n\n- Needs about 191MB of RAM for text-only use, or 567MB for full multimodal use, on a Google Pixel 11 Pro\n- An 8K-token context window covers up to 5.5 minutes of audio, 29 images or 58 video frames\n- Google reports a 9.92-point gain in code-retrieval performance over the previous version"
       }
+    },
+    {
+      "id": "openai-math-manuscripts-release",
+      "date": "2026-10-06",
+      "type": "model",
+      "importance": 2,
+      "sourceType": "official",
+      "sourceName": "OpenAI",
+      "url": "https://openai.com/index/sharing-ai-progress-in-mathematics/",
+      "originalTitle": "Sharing AI progress in mathematics",
+      "company": "OpenAI",
+      "tool": "internal frontier model",
+      "ar": {
+        "title": "OpenAI تنشر 722 نتيجة رياضية جديدة من نموذجها الداخلي المتقدم",
+        "summary": "نشرت OpenAI دفعة من 722 ورقة بحثية رياضية موزعة على 372 عائلة مسائل، أنتجها نموذج داخلي متقدم، مع صياغات رسمية ببرنامج Lean على GitHub.",
+        "details": "أعلنت OpenAI في 6 أكتوبر عن نشر 722 ورقة بحثية تضم نتائج رياضية جديدة، مجمعة في 372 عائلة من المسائل، أنتجها نموذج داخلي متقدم لم يُطرح علنياً بعد. طُرحت على النموذج نحو 4,000 مسألة، واستهلكت كل نتيجة في المتوسط ما يعادل ثلاث ساعات من حوسبة ChatGPT Pro.\n\nنشرت الشركة النتائج في مستودع openai/math على GitHub، مع صياغات رسمية لعدد كبير من البراهين ببرنامج Lean الذي يتيح تحقق الحاسوب من صحة البراهين الرياضية، إضافة إلى عشرة ملخصات لمسار استدلال النموذج وتقديرات للحوسبة المستخدمة وإحصاءات حول عدد المسائل التي حاول حلها.\n\n- استشارت OpenAI مجموعة استشارية مستقلة في الرياضيات والذكاء الاصطناعي تابعة لمعهد الدراسات المتقدمة بشأن طريقة نشر هذه النتائج\n- أعلنت الشركة عزمها تمويل ورش عمل ومؤتمرات وبرامج خاصة لفهم النتائج الرياضية الكبرى التي ينتجها الذكاء الاصطناعي"
+      },
+      "en": {
+        "title": "OpenAI releases 722 new math manuscripts from an internal frontier model",
+        "summary": "OpenAI published 722 math research manuscripts across 372 problem families, produced by an unreleased internal model, with Lean formalizations on GitHub.",
+        "details": "OpenAI announced on October 6 the release of 722 manuscripts containing new mathematical results, grouped into 372 problem families and produced by an internal frontier model not yet released publicly. The model was posed roughly 4,000 problems, with each result costing on average about three hours of ChatGPT Pro compute.\n\nThe company published the results in the openai/math GitHub repository, including Lean formalizations of many of the proofs (Lean lets a computer check a mathematical proof's validity), along with ten summaries of the model's reasoning process, compute estimates, and statistics on how many problems were attempted.\n\n- OpenAI consulted an independent Advisory Group on Mathematics and AI based at the Institute for Advanced Study on how to release the results\n- The company said it will fund workshops, conferences and special programs to help the math community understand major AI-produced results"
+      }
     }
   ],
   "upcoming": [],
