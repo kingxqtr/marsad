@@ -1,26 +1,6 @@
 {
- "updatedAt": "2026-10-06T19:07:25+00:00",
+ "updatedAt": "2026-10-06T19:24:06+00:00",
  "items": [
-  {
-   "id": "auto-cbe063cdf8a0",
-   "tab": "ai",
-   "date": "2026-10-06",
-   "publishedAt": "2026-10-06T00:00:00+00:00",
-   "type": "product",
-   "importance": 1,
-   "sourceType": "official",
-   "sourceName": "Anthropic Newsroom",
-   "url": "https://www.anthropic.com/news/cyber-verification-program",
-   "originalTitle": "Expanding the Cyber Verification Program",
-   "en": {
-    "title": "Expanding the Cyber Verification Program",
-    "summary": "Expanding the Cyber Verification Program",
-    "details": ""
-   },
-   "translated": false,
-   "fetchedAt": "2026-10-06T19:07:20+00:00",
-   "company": "Anthropic"
-  },
   {
    "id": "auto-29c4b2e72fd4",
    "tab": "ai",
