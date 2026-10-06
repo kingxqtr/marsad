@@ -1,0 +1,33 @@
+{
+  "topic": "star-citizen",
+  "generatedAt": "2026-10-07",
+  "news": [],
+  "upcoming": [
+    {
+      "id": "sc-alpha-4-10-2-live-expected",
+      "date": "2026-10-10",
+      "endDate": null,
+      "dateConfidence": "expected",
+      "type": "patch",
+      "sourceType": "official",
+      "sourceName": "RSI Comm-Link",
+      "url": "https://robertsspaceindustries.com/en/comm-link/transmission/21218-Star-Citizen-Alpha-4101",
+      "ar": {
+        "title": "توقع وصول Alpha 4.10.2 إلى الخوادم الرسمية منتصف أكتوبر",
+        "summary": "بلغ اختبار Alpha 4.10.2 على PTU موجة \"كل الداعمين\" في 6 أكتوبر دون موعد رسمي للإطلاق المباشر، فيما يُقدَّر وصوله نحو 10 أكتوبر.",
+        "details": "دخل Alpha 4.10.2 اختبار Evocati في 21 سبتمبر، ووصل موجات PTU المتتالية حتى بلغ موجة \"كل الداعمين\" (All Backer) بحلول 6 أكتوبر. لم تُعلن CIG بعد موعداً رسمياً للإطلاق على الخوادم المباشرة، وتجاوز الموعد التقديري السابق المرتبط بنهاية حدث Orison Relief Support (7 أكتوبر) دون صدور التحديث.\n\n- يضيف حدثاً جديداً داخل نظام Stanton بمهام دورية ودعم وتوصيل وإنقاذ\n- يشمل إصلاحات لاستقرار تسجيل الدخول وتحسينات في أصوات أسلحة المنظور الأول\n- لا تتضمن هذه الدفعة إعادة موازنة زمن القتل في قتال السفن، التي لا تزال تُختبر على PTU بشكل منفصل\n\nوكما هو الحال مع جميع إصدارات Star Citizen، قد يتغير الموعد إذا كشفت الاختبارات عن مشكلات جوهرية.",
+        "location": "الخوادم الرسمية للعبة Star Citizen",
+        "dateNote": "تقدير: بلغ الاختبار موجة كل الداعمين في 6 أكتوبر دون تاريخ رسمي؛ يُقدَّر الإطلاق المباشر نحو 10 أكتوبر بالاستناد إلى زمن الموجات السابقة."
+      },
+      "en": {
+        "title": "Alpha 4.10.2 expected on live servers in mid-October",
+        "summary": "PTU testing of Alpha 4.10.2 reached the \"All Backer\" wave on 6 October with no live date announced yet; it is now estimated around 10 October.",
+        "details": "Alpha 4.10.2 entered Evocati testing on 21 September and progressed through successive PTU waves, reaching the \"All Backer\" wave by 6 October. CIG has not announced an official live-server date, and the previous estimate tied to the end of the Orison Relief Support event (7 October) has passed without the patch going live.\n\n- Adds a new in-system event for Stanton with patrol, support, delivery and salvage contracts\n- Includes login-stability fixes and further first-person weapon audio work\n- The ship combat time-to-kill rebalance is not part of this patch and remains in separate PTU testing\n\nAs with every Star Citizen release, the date can move if testing uncovers blocking issues.",
+        "location": "Star Citizen live servers",
+        "dateNote": "Estimate: PTU testing reached the All Backer wave on 6 October with no official date yet; the live release is now estimated around 10 October based on past wave timing."
+      }
+    }
+  ],
+  "removeUpcoming": [],
+  "removeNews": []
+}

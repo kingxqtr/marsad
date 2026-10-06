@@ -1,0 +1,31 @@
+{
+  "topic": "ai",
+  "generatedAt": "2026-10-07",
+  "news": [
+    {
+      "id": "google-embeddinggemma-2-release",
+      "date": "2026-10-06",
+      "type": "model",
+      "importance": 1,
+      "sourceType": "official",
+      "sourceName": "Google DeepMind Blog",
+      "url": "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/",
+      "originalTitle": "EmbeddingGemma 2: an open, lightweight multimodal embedding model",
+      "company": "Google",
+      "tool": "EmbeddingGemma 2",
+      "ar": {
+        "title": "غوغل تطلق EmbeddingGemma 2 نموذج تمثيل مفتوحاً وخفيفاً",
+        "summary": "أطلقت غوغل EmbeddingGemma 2، نموذج تمثيل متعدد الوسائط بـ740 مليون معامل يعالج النص والصورة والفيديو والصوت معاً ويعمل على الأجهزة الاستهلاكية.",
+        "details": "أعلنت غوغل ديب مايند في 6 أكتوبر عن EmbeddingGemma 2، نموذج تمثيل (embedding) مفتوح المصدر برخصة Apache 2.0، يضع النص والكود والصور والفيديو والصوت في فضاء تمثيل واحد مشترك.\n\nيضم النموذج 740 مليون معامل بتصميم معياري يتيح استخدام الجزء النصي فقط بـ270 مليون معامل، مع إضافة مُرمّزي الصورة والصوت عند الحاجة. وباستخدام تقنية Matryoshka Representation Learning، يمكن تقليص أبعاد متجهات التمثيل من 768 إلى 128 بُعداً، أي تقليص مساحة التخزين حتى 6 أضعاف.\n\n- يحتاج نحو 191 ميغابايت من الذاكرة للنص فقط، و567 ميغابايت للوضع متعدد الوسائط الكامل على هاتف Google Pixel 11 Pro\n- نافذة سياق تصل إلى 8 آلاف رمز، تكفي لمعالجة نحو 5.5 دقائق من الصوت أو 29 صورة أو 58 لقطة فيديو\n- تحسّن بمقدار 9.92 نقطة في أداء الكود مقارنة بالإصدار السابق"
+      },
+      "en": {
+        "title": "Google releases EmbeddingGemma 2, an open multimodal embedding model",
+        "summary": "Google launched EmbeddingGemma 2, a 740M-parameter open embedding model that places text, code, images, video and audio in one shared space and runs on consumer hardware.",
+        "details": "Google DeepMind announced EmbeddingGemma 2 on October 6, an Apache 2.0-licensed embedding model that places text, code, images, video and audio in a single shared embedding space.\n\nThe model has 740 million parameters in a modular design that lets developers use a text-only mode at 270 million parameters, adding vision and audio encoders only when needed. Using Matryoshka Representation Learning, embedding vectors can be shrunk from 768 to 128 dimensions, cutting storage needs by up to 6x.\n\n- Needs about 191MB of RAM for text-only use, or 567MB for full multimodal use, on a Google Pixel 11 Pro\n- An 8K-token context window covers up to 5.5 minutes of audio, 29 images or 58 video frames\n- Google reports a 9.92-point gain in code-retrieval performance over the previous version"
+      }
+    }
+  ],
+  "upcoming": [],
+  "removeUpcoming": [],
+  "removeNews": []
+}
