@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-06T20:12:07+00:00",
+ "updatedAt": "2026-10-06T20:34:07+00:00",
  "items": [
   {
    "id": "auto-de720254bfa2",
@@ -58,26 +58,6 @@
    },
    "translated": false,
    "fetchedAt": "2026-10-06T18:37:00+00:00"
-  },
-  {
-   "id": "auto-7de70c098fa8",
-   "tab": "ai",
-   "date": "2026-10-06",
-   "publishedAt": "2026-10-06T10:00:00+00:00",
-   "type": "product",
-   "importance": 1,
-   "sourceType": "official",
-   "sourceName": "OpenAI News",
-   "url": "https://openai.com/index/advancing-computer-use-with-ironclad",
-   "originalTitle": "Advancing computer use with Ironclad",
-   "en": {
-    "title": "Advancing computer use with Ironclad",
-    "summary": "Learn how OpenAI and Ironclad are training and evaluating AI agents on complex contracting workflows to advance computer use for professional work.",
-    "details": "Learn how OpenAI and Ironclad are training and evaluating AI agents on complex contracting workflows to advance computer use for professional work."
-   },
-   "translated": false,
-   "fetchedAt": "2026-10-06T18:36:54+00:00",
-   "company": "OpenAI"
   },
   {
    "id": "auto-2b54c71b6922",
