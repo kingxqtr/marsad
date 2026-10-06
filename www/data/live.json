@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-06T17:07:58+00:00",
+ "updatedAt": "2026-10-06T17:24:12+00:00",
  "items": [
   {
    "id": "auto-6e074f9f7fed",
@@ -19,26 +19,6 @@
    },
    "translated": false,
    "fetchedAt": "2026-10-06T17:07:53+00:00"
-  },
-  {
-   "id": "auto-b4ff24a2d6e8",
-   "tab": "ai",
-   "date": "2026-10-06",
-   "publishedAt": "2026-10-06T16:00:00+00:00",
-   "type": "business",
-   "importance": 1,
-   "sourceType": "official",
-   "sourceName": "OpenAI News",
-   "url": "https://openai.com/index/atlassian-partnership",
-   "originalTitle": "Atlassian and OpenAI expand partnership to turn enterprise knowledge into action",
-   "en": {
-    "title": "Atlassian and OpenAI expand partnership to turn enterprise knowledge into action",
-    "summary": "Atlassian and OpenAI are expanding their partnership to connect frontier models with enterprise knowledge and help teams plan, build, and deliver work.",
-    "details": "Atlassian and OpenAI are expanding their partnership to connect frontier models with enterprise knowledge and help teams plan, build, and deliver work."
-   },
-   "translated": false,
-   "fetchedAt": "2026-10-06T16:54:15+00:00",
-   "company": "OpenAI"
   },
   {
    "id": "auto-a630437c0059",
