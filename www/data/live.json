@@ -1,4 +1,25 @@
 {
- "updatedAt": "2026-10-06T10:16:08+00:00",
- "items": []
+ "updatedAt": "2026-10-06T10:35:03+00:00",
+ "items": [
+  {
+   "id": "auto-bf63bed40089",
+   "tab": "ai",
+   "date": "2026-10-06",
+   "publishedAt": "2026-10-06T10:23:38+00:00",
+   "type": "coding",
+   "importance": 1,
+   "sourceType": "official",
+   "sourceName": "GitHub Changelog",
+   "url": "https://github.blog/changelog/2026-10-06-code-scanning-ai-scan-enablement-status-in-security-overview",
+   "originalTitle": "Code scanning AI Scan enablement status in security overview",
+   "en": {
+    "title": "Code scanning AI Scan enablement status in security overview",
+    "summary": "Organization and enterprise administrators can now see AI Scan for pull requests enablement status in the security overview coverage view.",
+    "details": "Organization and enterprise administrators can now see AI Scan for pull requests enablement status in the security overview coverage view. The code scanning summary shows enabled and not enabled repository counts, while repository rows show each repository’s effective AI Scan enablement.\n\nYou can filter the coverage view with code-scanning-ai-scan-pr-scan:enabled and code-scanning-ai-scan-pr-scan:not-enabled . Coverage CSV exports now include a Code Scanning AI Scan for pull requests column with enabled and not-enabled values.\n\nThis visibility helps you track adoption and manage AI Scan for pull requests enablement across your organization or enterprise.\n\nLearn more about assessing adoption of security features and join the AI Scan Community discussion .\n\nThe post Code scanning AI Scan enablement status in security overview appeared first on The GitHub Blog ."
+   },
+   "translated": false,
+   "fetchedAt": "2026-10-06T10:34:58+00:00",
+   "company": "GitHub"
+  }
+ ]
 }
