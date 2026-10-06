@@ -1,0 +1,30 @@
+{
+  "topic": "ai",
+  "generatedAt": "2026-10-06",
+  "news": [
+    {
+      "id": "reflection-ai-beam-501b-model",
+      "date": "2026-10-05",
+      "type": "model",
+      "importance": 2,
+      "sourceType": "official",
+      "sourceName": "Reflection AI Blog",
+      "url": "https://reflection.ai/blog/introducing-beam",
+      "originalTitle": "Introducing Beam",
+      "company": "Reflection AI",
+      "ar": {
+        "title": "Reflection AI تطرح Beam، نموذجًا مفتوح الوزن بـ501 مليار معامل",
+        "summary": "كشفت Reflection AI عن Beam، نموذج مزيج خبراء متفرق بـ501 مليار معامل مصمم للبرمجة والاستدلال والمهام الوكيلية، على أن تصدر الأوزان بترخيص Apache 2.0 خلال أكتوبر.",
+        "details": "طرحت شركة Reflection AI نموذج Beam، وهو نموذج لغوي كبير جديد يعتمد بنية مزيج الخبراء المتفرقة (sparse mixture-of-experts) بإجمالي 501 مليار معامل، منها 23 مليار معامل نشط في كل خطوة استدلال. صممت الشركة النموذج لمهام البرمجة والاستدلال والعمل الوكيلي (agentic)، وقدّمته كجزء من مساعيها لبناء نموذج مفتوح الوزن منافس خارج الصين.\n\nوفي اختبارات الاستدلال، قالت Reflection AI إن أداء Beam يقارب أداء GLM-5.2 باستخدام طاقة حوسبة أقل بثلاث إلى أربع مرات عند التشغيل، ما يجعله خيارًا فعالًا من حيث التكلفة للشركات. لكن تعليقات أولية على منتدى Hacker News أشارت إلى أن النموذج لا يزال متأخرًا عن نماذج مثل DeepSeek V4.1 Flash في عدد من الاختبارات رغم حجمه الكبير.\n\nوأوضحت الشركة أنها ستنشر أوزان النموذج والتقرير التقني وبطاقة النموذج وأدوات المطورين خلال أكتوبر 2026 بترخيص Apache 2.0، مع دعم التكامل مع أدوات مفتوحة المصدر شائعة للاستدلال والضبط الدقيق."
+      },
+      "en": {
+        "title": "Reflection AI unveils Beam, a 501B-parameter open-weight model",
+        "summary": "Reflection AI introduced Beam, a sparse 501-billion-parameter mixture-of-experts model built for coding and agentic tasks; weights arrive under Apache 2.0 later in October.",
+        "details": "Reflection AI released Beam, a new large language model built as a sparse mixture-of-experts network with 501 billion total parameters and 23 billion active per token. The company designed it for coding, reasoning and agentic workloads, framing it as part of its push to build a leading open-weight alternative outside China.\n\nOn reasoning benchmarks, Reflection said Beam matches GLM-5.2 while using three to four times less inference compute, positioning it as an efficient option for enterprise use. Early commentary on Hacker News noted the model still trails models such as DeepSeek V4.1 Flash on several benchmarks despite its size.\n\nReflection AI said it will publish the model weights, technical report, model card and developer tooling later in October 2026 under an Apache 2.0 license, along with integrations for common open-source inference and fine-tuning tools."
+      }
+    }
+  ],
+  "upcoming": [],
+  "removeUpcoming": [],
+  "removeNews": []
+}
