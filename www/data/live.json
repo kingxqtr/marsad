@@ -1,6 +1,27 @@
 {
- "updatedAt": "2026-10-06T23:13:52+00:00",
+ "updatedAt": "2026-10-06T23:30:59+00:00",
  "items": [
+  {
+   "id": "auto-d2a2fdc71ad9",
+   "tab": "ai",
+   "date": "2026-10-06",
+   "publishedAt": "2026-10-06T00:00:00+00:00",
+   "type": "coding",
+   "importance": 1,
+   "sourceType": "official",
+   "sourceName": "Cursor Changelog",
+   "url": "https://cursor.com/changelog/remote-control-local-agents",
+   "originalTitle": "Remote control for local agents",
+   "en": {
+    "title": "Remote control for local agents",
+    "summary": "You can now see and reply to the local agents running on your computer from the Cursor iOS app. Get started Remote Control is on by default for everyone except Enterprise organizations. Download the Cursor iOS app and sign in.",
+    "details": "You can now see and reply to the local agents running on your computer from the Cursor iOS app.\n\nGet started\n\nRemote Control is on by default for everyone except Enterprise organizations.\n\nDownload the Cursor iOS app and sign in. Computers on your account appear in the app automatically. Tap your computer in the app and approve your pairing request in the Cursor desktop app. Your local agents appear in a list. Tap one to see what it's doing or send it a message.\n\n<figure><img src=\"https://ptht05hbb1ssoooe.public.blob.vercel-storage.com/assets/changelog/remote-control-cl-pezewO3SZRrIQxMNaTzdpsP9TD1ChS.png\" loading=\"lazy\" alt=\"Remote Control for local agents in the Cursor iOS app\" /><figcaption>Remote Control for local agents in the Cursor iOS app</figcaption></figure>\n\nAgents keep running on your computer\n\nRemote control doesn't move your agents anywhere. It keeps running on your computer, and the app connects to it. Your computer needs to stay on and online for remote control to work.\n\nKeep your computer awake\n\nTo stop your computer from sleeping while you're away, turn on \"Keep this computer awake\" under Remote Control in Cursor's desktop settings. Your computer needs to be plugged in with the lid open.\n\nFor Enterprise teams\n\nRemote control is on by default, except for Enterprise organizations. Enterprise admins can turn it on in Org settings > Security and identity > Remote control.\n\nRemote control doesn't require cloud agents to work. …"
+   },
+   "translated": false,
+   "fetchedAt": "2026-10-06T23:30:54+00:00",
+   "company": "Anysphere",
+   "tool": "Cursor"
+  },
   {
    "id": "auto-60718bced563",
    "tab": "ai",
