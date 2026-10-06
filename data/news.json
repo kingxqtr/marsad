@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": "2026-10-06T14:10:17+00:00",
+ "updatedAt": "2026-10-06T15:11:56+00:00",
  "coverage": {
   "from": "2026-07-06",
   "to": "2026-10-06"
@@ -1604,6 +1604,29 @@
   },
   "ai": {
    "news": [
+    {
+     "id": "mistral-large-4-launch",
+     "date": "2026-10-06",
+     "type": "model",
+     "importance": 3,
+     "sourceType": "official",
+     "sourceName": "Mistral AI Blog",
+     "url": "https://mistral.ai/news/mistral-large-4",
+     "originalTitle": "Introducing Mistral Large 4",
+     "company": "Mistral AI",
+     "tool": "Mistral Large 4",
+     "ar": {
+      "title": "Mistral AI تطرح Mistral Large 4، نموذجها الرائد الجديد",
+      "summary": "أعلنت Mistral AI عن Mistral Large 4، نموذج متعدد الوسائط بتريليون معامل يوحّد التعليمات والاستدلال والعمل الوكيلي، متاح الآن بمعاينة عامة عبر Mistral Studio.",
+      "details": "طرحت شركة Mistral AI الفرنسية نموذجها الجديد Mistral Large 4، وهو أكبر وأقدر نموذج تصدره الشركة حتى الآن، بإجمالي تريليون معامل و49 مليار معامل نشط، ويعتمد بنية مزيج خبراء هجينة تجمع بين التعليمات والاستدلال والعمل الوكيلي في نموذج واحد. يدعم النموذج إدخال النصوص والصور، ويتمتع بطلاقة أصلية في أكثر من 160 لغة من بينها جميع لغات الاتحاد الأوروبي الرسمية.\n\nدرّبت الشركة النموذج على 3,800 معالج NVIDIA Grace Blackwell في مراكز بياناتها الأوروبية. وأظهرت نتائج الشركة أن النموذج يحتل مرتبة من بين أفضل خمسة نماذج عالميًا على مؤشر Artificial Analysis للأمن السيبراني، بدقة 82% في مهام استنساخ الثغرات، كما سجّل 61.7% على اختبار DeepSWE v1.1 للبرمجة، وتفوّق على GPT-6-Astra في مهام التأريض البصري والمهام القانونية والمالية في تقييمات طرف ثالث.\n\nالنموذج متاح حاليًا بمعاينة عامة عبر واجهة برمجة Mistral Studio بسعر 1.36 دولار لكل مليون رمز إدخال و4.18 دولار لكل مليون رمز إخراج، على أن تصدر الشركة أوزانه مفتوحة المصدر في نهاية أكتوبر 2026."
+     },
+     "en": {
+      "title": "Mistral AI launches Mistral Large 4, its new flagship model",
+      "summary": "Mistral AI introduced Mistral Large 4, a trillion-parameter multimodal hybrid instruct-and-reasoning model, now in public preview on Mistral Studio with open weights due at the end of October.",
+      "details": "French AI lab Mistral AI released Mistral Large 4, its largest and most capable model to date. It is a natively multimodal, 1-trillion-parameter mixture-of-experts model with 49 billion active parameters, built as a hybrid instruct-and-reasoning model that unifies instruction-following, reasoning and agentic capabilities. It accepts text and image inputs and is natively fluent in more than 160 languages, including all official EU languages.\n\nMistral trained the model on 3,800 NVIDIA Grace Blackwell GPUs in its European datacenters. The company reported it ranks among the top five models globally on the Artificial Analysis Cyber Index, with 82% accuracy on vulnerability-reproduction tasks, scored 61.7% on the DeepSWE v1.1 coding benchmark, and outperformed GPT-6-Astra on visual-grounding and on legal and finance tasks in third-party evaluations.\n\nThe model is available now in public preview through the Mistral Studio API at $1.36 per million input tokens and $4.18 per million output tokens. Mistral said it will release the model's weights under an open license at the end of October 2026."
+     },
+     "addedAt": "2026-10-06T15:11:56+00:00"
+    },
     {
      "id": "tii-falcon-emirati-7b",
      "date": "2026-10-06",
