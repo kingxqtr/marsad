@@ -87,6 +87,27 @@
         "summary": "OpenAI frontier models including GPT-6 Astra and GPT-5.6 will power agents across Atlassian's platform and Rovo, extending a partnership that began in 2023.",
         "details": "Atlassian and OpenAI announced an expanded partnership that gives Atlassian's Rovo assistant and other platform agents deeper access to OpenAI's frontier models, including GPT-6 Astra and the GPT-5.6 series, building on a collaboration that began in 2023.\n\nRovo combines OpenAI's models with Atlassian's Teamwork Graph, an internal layer linking people, projects, documents and decisions across Jira, Confluence and Compass, so its agents can act on a company's own work context rather than generic web knowledge.\n\nThe companies are also deepening ties in the other direction: Atlassian is expanding its internal use of OpenAI's Codex and ChatGPT Enterprise, while a Rovo connector for ChatGPT lets users pull in Jira, Confluence and Compass data and trigger actions, such as creating issues, directly from a ChatGPT conversation."
       }
+    },
+    {
+      "id": "anthropic-cyber-verification-program-expand",
+      "date": "2026-10-06",
+      "type": "policy",
+      "importance": 2,
+      "sourceType": "official",
+      "sourceName": "Anthropic Newsroom",
+      "url": "https://www.anthropic.com/news/cyber-verification-program",
+      "originalTitle": "Expanding the Cyber Verification Program",
+      "company": "Anthropic",
+      "ar": {
+        "title": "Anthropic توسّع برنامج التحقق السيبراني لفرق الأمن المعتمدة",
+        "summary": "دمجت Anthropic برنامجيها Project Glasswing وCyber Verification Program في برنامج واحد موسّع بثلاث مستويات وصول، يمنح فرق الأمن المعتمدة نماذج كلود بقيود أمان مخففة لأعمال الدفاع واختبار الاختراق والبنى التحتية الحساسة.",
+        "details": "أعلنت Anthropic دمج برنامجيها السابقين، Project Glasswing وبرنامج التحقق السيبراني (Cyber Verification Program)، في برنامج موحّد وموسّع يمنح متخصصي الأمن السيبراني المعتمدين وصولاً لنماذج كلود المتقدمة بقيود سلامة مخففة لأغراض عمل أمني مشروع.\n\nيضم البرنامج الجديد ثلاثة مستويات وصول بحسب نطاق العمل: وصول دفاعي لمهام مثل الاستجابة للحوادث وتحليل البرمجيات الخبيثة، ووصول لفرق الاختراق (Red Team) يضيف اختبار الاختراق المصرَّح به، ووصول متخصص لاختبار أنظمة البنية التحتية الحرجة.\n\nوقالت الشركة إن شركاء برنامج Glasswing اكتشفوا ما لا يقل عن 129 ألف ثغرة برمجية موثّقة بين أبريل ويوليو 2026، إضافة إلى 5,500 ثغرة أخرى عبر أدوات فحص مفتوحة المصدر من Anthropic، صُنّف أكثر من 33 ألفًا منها بأنها عالية أو حرجة الخطورة. وأفاد بعض الشركاء بأن نموذج Claude Mythos سرّع اكتشاف الثغرات بما يعادل أشهرًا أو حتى سنوات من العمل اليدوي.\n\nويتوفر البرنامج عبر Claude Platform وGoogle Cloud Vertex AI وMicrosoft Foundry، وتستطيع المؤسسات المهتمة التقديم عبر بوابة Anthropic المخصصة."
+      },
+      "en": {
+        "title": "Anthropic expands Cyber Verification Program for vetted security teams",
+        "summary": "Anthropic merged Project Glasswing and its Cyber Verification Program into one expanded offering with three access tiers, giving vetted security professionals Claude models with reduced safety restrictions for legitimate cyber work.",
+        "details": "Anthropic announced it has merged its two previous programs, Project Glasswing and the Cyber Verification Program, into a single expanded offering that gives vetted cybersecurity professionals access to advanced Claude models with reduced safety restrictions for legitimate security work.\n\nThe unified program has three access tiers based on scope: Defense Access for tasks like incident response and malware analysis, Red Team Access which adds authorized penetration testing, and Specialized Access for testing critical infrastructure systems.\n\nAnthropic said Project Glasswing partners found at least 129,000 verified software vulnerabilities between April and July 2026, plus another 5,500 found through Anthropic's own open-source scanning tools, with more than 33,000 rated critical or high-severity. Some partners reported that Claude Mythos sped up vulnerability discovery by what would otherwise take months or even years of manual work.\n\nThe program is available on the Claude Platform, Google Cloud Vertex AI and Microsoft Foundry, with interested organizations able to apply through Anthropic's program portal."
+      }
     }
   ],
   "upcoming": [],

@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": "2026-10-06T18:09:35+00:00",
+ "updatedAt": "2026-10-06T19:10:06+00:00",
  "coverage": {
   "from": "2026-07-06",
   "to": "2026-10-06"
@@ -1626,6 +1626,28 @@
       "details": "French AI lab Mistral AI released Mistral Large 4, its largest and most capable model to date. It is a natively multimodal, 1-trillion-parameter mixture-of-experts model with 49 billion active parameters, built as a hybrid instruct-and-reasoning model that unifies instruction-following, reasoning and agentic capabilities. It accepts text and image inputs and is natively fluent in more than 160 languages, including all official EU languages.\n\nMistral trained the model on 3,800 NVIDIA Grace Blackwell GPUs in its European datacenters. The company reported it ranks among the top five models globally on the Artificial Analysis Cyber Index, with 82% accuracy on vulnerability-reproduction tasks, scored 61.7% on the DeepSWE v1.1 coding benchmark, and outperformed GPT-6-Astra on visual-grounding and on legal and finance tasks in third-party evaluations.\n\nThe model is available now in public preview through the Mistral Studio API at $1.36 per million input tokens and $4.18 per million output tokens. Mistral said it will release the model's weights under an open license at the end of October 2026."
      },
      "addedAt": "2026-10-06T15:11:56+00:00"
+    },
+    {
+     "id": "anthropic-cyber-verification-program-expand",
+     "date": "2026-10-06",
+     "type": "policy",
+     "importance": 2,
+     "sourceType": "official",
+     "sourceName": "Anthropic Newsroom",
+     "url": "https://www.anthropic.com/news/cyber-verification-program",
+     "originalTitle": "Expanding the Cyber Verification Program",
+     "company": "Anthropic",
+     "ar": {
+      "title": "Anthropic توسّع برنامج التحقق السيبراني لفرق الأمن المعتمدة",
+      "summary": "دمجت Anthropic برنامجيها Project Glasswing وCyber Verification Program في برنامج واحد موسّع بثلاث مستويات وصول، يمنح فرق الأمن المعتمدة نماذج كلود بقيود أمان مخففة لأعمال الدفاع واختبار الاختراق والبنى التحتية الحساسة.",
+      "details": "أعلنت Anthropic دمج برنامجيها السابقين، Project Glasswing وبرنامج التحقق السيبراني (Cyber Verification Program)، في برنامج موحّد وموسّع يمنح متخصصي الأمن السيبراني المعتمدين وصولاً لنماذج كلود المتقدمة بقيود سلامة مخففة لأغراض عمل أمني مشروع.\n\nيضم البرنامج الجديد ثلاثة مستويات وصول بحسب نطاق العمل: وصول دفاعي لمهام مثل الاستجابة للحوادث وتحليل البرمجيات الخبيثة، ووصول لفرق الاختراق (Red Team) يضيف اختبار الاختراق المصرَّح به، ووصول متخصص لاختبار أنظمة البنية التحتية الحرجة.\n\nوقالت الشركة إن شركاء برنامج Glasswing اكتشفوا ما لا يقل عن 129 ألف ثغرة برمجية موثّقة بين أبريل ويوليو 2026، إضافة إلى 5,500 ثغرة أخرى عبر أدوات فحص مفتوحة المصدر من Anthropic، صُنّف أكثر من 33 ألفًا منها بأنها عالية أو حرجة الخطورة. وأفاد بعض الشركاء بأن نموذج Claude Mythos سرّع اكتشاف الثغرات بما يعادل أشهرًا أو حتى سنوات من العمل اليدوي.\n\nويتوفر البرنامج عبر Claude Platform وGoogle Cloud Vertex AI وMicrosoft Foundry، وتستطيع المؤسسات المهتمة التقديم عبر بوابة Anthropic المخصصة."
+     },
+     "en": {
+      "title": "Anthropic expands Cyber Verification Program for vetted security teams",
+      "summary": "Anthropic merged Project Glasswing and its Cyber Verification Program into one expanded offering with three access tiers, giving vetted security professionals Claude models with reduced safety restrictions for legitimate cyber work.",
+      "details": "Anthropic announced it has merged its two previous programs, Project Glasswing and the Cyber Verification Program, into a single expanded offering that gives vetted cybersecurity professionals access to advanced Claude models with reduced safety restrictions for legitimate security work.\n\nThe unified program has three access tiers based on scope: Defense Access for tasks like incident response and malware analysis, Red Team Access which adds authorized penetration testing, and Specialized Access for testing critical infrastructure systems.\n\nAnthropic said Project Glasswing partners found at least 129,000 verified software vulnerabilities between April and July 2026, plus another 5,500 found through Anthropic's own open-source scanning tools, with more than 33,000 rated critical or high-severity. Some partners reported that Claude Mythos sped up vulnerability discovery by what would otherwise take months or even years of manual work.\n\nThe program is available on the Claude Platform, Google Cloud Vertex AI and Microsoft Foundry, with interested organizations able to apply through Anthropic's program portal."
+     },
+     "addedAt": "2026-10-06T19:10:06+00:00"
     },
     {
      "id": "tii-falcon-emirati-7b",
