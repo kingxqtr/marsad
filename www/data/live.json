@@ -1,6 +1,26 @@
 {
- "updatedAt": "2026-10-06T13:01:31+00:00",
+ "updatedAt": "2026-10-06T13:25:39+00:00",
  "items": [
+  {
+   "id": "auto-4eaa8f721819",
+   "tab": "ai",
+   "date": "2026-10-06",
+   "publishedAt": "2026-10-06T13:00:19+00:00",
+   "type": "hardware",
+   "importance": 1,
+   "sourceType": "official",
+   "sourceName": "NVIDIA Blog",
+   "url": "https://blogs.nvidia.com/blog/telecom-operators-open-models/",
+   "originalTitle": "Why Telecom Operators Are Building Their AI Strategy on Open Models",
+   "en": {
+    "title": "Why Telecom Operators Are Building Their AI Strategy on Open Models",
+    "summary": "Telecom operators are increasingly building their AI strategies on open models — and the reasons go beyond mere cost.",
+    "details": "Telecom operators are increasingly building their AI strategies on open models — and the reasons go beyond mere cost.\n\nOpen models give telcos the ability to trust, control and customize AI across their most critical workloads — from autonomous networks to customer care.\n\nNVIDIA’s latest State of AI in Telecommunications report reflects this shift, with 89% of respondents reporting that open source models and software are important to their company’s AI strategy.\n\nFor operators, the strategic value of open models is fivefold:\n\n- They expand access to frontier‑level intelligence at lower cost, allowing operators to reserve closed models for the workloads where they drive the most value. Independent benchmarks such as the Artificial Analysis Intelligence Index v4.3.2 show that leading open models are becoming more competitive across demanding reasoning, coding, scientific and agentic workloads.\n\n- They support telco‑specific customization, with open weights and training recipes that operators can fine‑tune for their own operations using network, customer and industry data.\n\n- They enable trustworthy AI by giving telcos greater visibility into and control over model artifacts and behavior, so models can be evaluated, adapted and governed in alignment with regulations and business policies.\n\n- They enable flexible, secure deployment: teams can size and optimize open models to run across public clouds, private infrastructure and edge environments. …"
+   },
+   "translated": false,
+   "fetchedAt": "2026-10-06T13:25:32+00:00",
+   "company": "NVIDIA"
+  },
   {
    "id": "auto-bf63bed40089",
    "tab": "ai",
