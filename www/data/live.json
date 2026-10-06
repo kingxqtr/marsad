@@ -1,26 +1,6 @@
 {
- "updatedAt": "2026-10-06T22:58:58+00:00",
+ "updatedAt": "2026-10-06T23:13:52+00:00",
  "items": [
-  {
-   "id": "auto-54e2eb1af899",
-   "tab": "ai",
-   "date": "2026-10-06",
-   "publishedAt": "2026-10-06T12:00:00+00:00",
-   "type": "coding",
-   "importance": 1,
-   "sourceType": "official",
-   "sourceName": "OpenAI News",
-   "url": "https://openai.com/index/sharing-ai-progress-in-mathematics",
-   "originalTitle": "Sharing AI progress in mathematics",
-   "en": {
-    "title": "Sharing AI progress in mathematics",
-    "summary": "OpenAI publishes new results on open problems in mathematics from an internal frontier model and shares Lean proof formalizations and research details on GitHub.",
-    "details": "OpenAI publishes new results on open problems in mathematics from an internal frontier model and shares Lean proof formalizations and research details on GitHub."
-   },
-   "translated": false,
-   "fetchedAt": "2026-10-06T22:48:21+00:00",
-   "company": "OpenAI"
-  },
   {
    "id": "auto-60718bced563",
    "tab": "ai",
