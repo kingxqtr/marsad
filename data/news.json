@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": "2026-10-06T19:10:06+00:00",
+ "updatedAt": "2026-10-06T20:12:49+00:00",
  "coverage": {
   "from": "2026-07-06",
   "to": "2026-10-06"
@@ -1692,6 +1692,29 @@
       "details": "Atlassian and OpenAI announced an expanded partnership that gives Atlassian's Rovo assistant and other platform agents deeper access to OpenAI's frontier models, including GPT-6 Astra and the GPT-5.6 series, building on a collaboration that began in 2023.\n\nRovo combines OpenAI's models with Atlassian's Teamwork Graph, an internal layer linking people, projects, documents and decisions across Jira, Confluence and Compass, so its agents can act on a company's own work context rather than generic web knowledge.\n\nThe companies are also deepening ties in the other direction: Atlassian is expanding its internal use of OpenAI's Codex and ChatGPT Enterprise, while a Rovo connector for ChatGPT lets users pull in Jira, Confluence and Compass data and trigger actions, such as creating issues, directly from a ChatGPT conversation."
      },
      "addedAt": "2026-10-06T17:13:27+00:00"
+    },
+    {
+     "id": "openai-ironclad-computer-use-contracting",
+     "date": "2026-10-06",
+     "type": "product",
+     "importance": 2,
+     "sourceType": "official",
+     "sourceName": "OpenAI News",
+     "url": "https://openai.com/index/advancing-computer-use-with-ironclad",
+     "originalTitle": "Advancing computer use with Ironclad",
+     "company": "OpenAI",
+     "tool": "GPT-6 Astra",
+     "ar": {
+      "title": "OpenAI تتعاون مع Ironclad لتدريب وكلاء \"استخدام الحاسوب\" على العقود",
+      "summary": "طوّرت OpenAI وIronclad مهام عقود لتقييم وكلاء الذكاء الاصطناعي، وسجّل GPT-6 Astra أداءً أعلى بنسبة 32% من GPT-5.6 Sol بوقت أقل بنسبة 48%.",
+      "details": "قالت OpenAI إن Ironclad، منصة إدارة دورة حياة العقود، هي أول شريك في مسعى بحثي جديد لتطوير قدرة \"استخدام الحاسوب\" (computer use) لدى وكلاء الذكاء الاصطناعي، أي قدرتها على التعامل مع برمجيات الأعمال المتخصصة لإنجاز مهام مهنية معقّدة.\n\nوطوّرت الشركتان مجموعة من المهام التي تتطلب من الوكلاء تهيئة الاتفاقيات والموافقات والشروط القانونية القابلة لإعادة الاستخدام داخل منصة Ironclad، واستخدمتاها لتدريب نماذج OpenAI وتقييم أدائها.\n\nوفي هذه المهام، سجّل أحدث نموذج من OpenAI، وهو GPT-6 Astra، أداءً أعلى بنسبة 32% في المتوسط مقارنة بسابقه GPT-5.6 Sol، مع حاجته إلى وقت أقل بنسبة تقارب 48% لإنجاز كل محاولة. وتستخدم Ironclad أصلاً أدوات OpenAI الوكيلية، بما فيها Intake Agent وRedlining Agent وميزة البحث الحِواري (Conversational Search)، وتتصل بـChatGPT عبر بروتوكول Model Context Protocol."
+     },
+     "en": {
+      "title": "OpenAI partners with Ironclad to train computer-use agents on contracts",
+      "summary": "OpenAI and Ironclad built contract-workflow tasks to evaluate AI agents; GPT-6 Astra scored 32% higher than GPT-5.6 Sol while taking 48% less time.",
+      "details": "OpenAI said Ironclad, a contract lifecycle management platform, is its first partner in a new research effort to advance \"computer use\" - AI agents that operate specialized business software - for professional work.\n\nThe two companies built a set of tasks requiring agents to configure agreements, approvals and reusable legal terms inside Ironclad's platform, then used them to train and evaluate OpenAI's models.\n\nOn these tasks, OpenAI's newest model, GPT-6 Astra, scored on average 32% higher than its predecessor GPT-5.6 Sol, while needing about 48% less estimated time per attempt. Ironclad already uses OpenAI's agentic tools, including an Intake Agent, a Redlining Agent and a Conversational Search feature, and connects to ChatGPT through the Model Context Protocol."
+     },
+     "addedAt": "2026-10-06T20:12:49+00:00"
     },
     {
      "id": "reflection-ai-beam-501b-model",
