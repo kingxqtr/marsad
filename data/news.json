@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": "2026-10-06T16:11:41+00:00",
+ "updatedAt": "2026-10-06T17:13:27+00:00",
  "coverage": {
   "from": "2026-07-06",
   "to": "2026-10-06"
@@ -1648,6 +1648,28 @@
       "details": "The Technology Innovation Institute (TII) in Abu Dhabi released Falcon-Emirati-7B, a language model focused specifically on spoken Emirati Arabic rather than Modern Standard Arabic, covering its vocabulary, grammar, cultural context and traditional Nabati poetry.\n\nThe 7-billion-parameter model is built on the Falcon-H1-Arabic architecture, which combines Mamba state-space layers with transformer attention, and supports a 128K-token context window. It scored 84.83% on \"Alyah,\" a 1,173-question benchmark designed to test understanding of the Emirati dialect.\n\nTII said the model outperformed larger Arabic and multilingual models on poetry, heritage knowledge and cultural-appropriateness tasks, and reliably answers in Emirati dialect rather than defaulting to Modern Standard Arabic. It was trained on a mix of authentic Emirati web content, Modern Standard Arabic material about Emirati culture, and synthetic Emirati text constrained by dialect-specific glossaries. The model is available to try on the Falcon Chat platform."
      },
      "addedAt": "2026-10-06T07:12:50+00:00"
+    },
+    {
+     "id": "atlassian-openai-partnership-expand",
+     "date": "2026-10-06",
+     "type": "business",
+     "importance": 2,
+     "sourceType": "official",
+     "sourceName": "OpenAI News",
+     "url": "https://openai.com/index/atlassian-partnership",
+     "originalTitle": "Atlassian and OpenAI expand partnership to turn enterprise knowledge into action",
+     "company": "OpenAI",
+     "ar": {
+      "title": "Atlassian وOpenAI توسّعان شراكتهما لتشغيل Rovo بنموذج GPT-6 Astra",
+      "summary": "ستوسّع Atlassian وOpenAI شراكتهما لمنح وكلاء منصة Atlassian ومساعد Rovo وصولاً أعمق لنماذج OpenAI المتقدمة، بما فيها GPT-6 Astra وسلسلة GPT-5.6، في امتداد لتعاون بدأ عام 2023.",
+      "details": "أعلنت شركتا Atlassian وOpenAI توسيع شراكتهما لمنح مساعد Rovo ووكلاء منصة Atlassian الأخرى وصولاً أعمق لأحدث نماذج OpenAI المتقدمة، بما في ذلك GPT-6 Astra وسلسلة GPT-5.6، في امتداد لتعاون بين الشركتين بدأ عام 2023.\n\nيجمع Rovo بين نماذج OpenAI وما تسمّيه Atlassian \"رسم بياني العمل الجماعي\" (Teamwork Graph)، وهي طبقة داخلية تربط الموظفين والمشاريع والمستندات والقرارات عبر Jira وConfluence وCompass، بما يتيح لوكلاء الذكاء الاصطناعي العمل بالاستناد إلى سياق عمل الشركة نفسها بدل المعرفة العامة من الإنترنت.\n\nكما تعمّق الشركتان التعاون في الاتجاه المعاكس: توسّع Atlassian استخدامها الداخلي لأداة Codex ونسخة ChatGPT Enterprise من OpenAI، في حين يتيح موصل Rovo الخاص بـChatGPT للمستخدمين سحب بيانات Jira وConfluence وCompass وتنفيذ إجراءات، مثل إنشاء تذاكر العمل، مباشرة من داخل محادثة ChatGPT."
+     },
+     "en": {
+      "title": "Atlassian and OpenAI expand partnership to power Rovo with GPT-6 Astra",
+      "summary": "OpenAI frontier models including GPT-6 Astra and GPT-5.6 will power agents across Atlassian's platform and Rovo, extending a partnership that began in 2023.",
+      "details": "Atlassian and OpenAI announced an expanded partnership that gives Atlassian's Rovo assistant and other platform agents deeper access to OpenAI's frontier models, including GPT-6 Astra and the GPT-5.6 series, building on a collaboration that began in 2023.\n\nRovo combines OpenAI's models with Atlassian's Teamwork Graph, an internal layer linking people, projects, documents and decisions across Jira, Confluence and Compass, so its agents can act on a company's own work context rather than generic web knowledge.\n\nThe companies are also deepening ties in the other direction: Atlassian is expanding its internal use of OpenAI's Codex and ChatGPT Enterprise, while a Rovo connector for ChatGPT lets users pull in Jira, Confluence and Compass data and trigger actions, such as creating issues, directly from a ChatGPT conversation."
+     },
+     "addedAt": "2026-10-06T17:13:27+00:00"
     },
     {
      "id": "reflection-ai-beam-501b-model",
