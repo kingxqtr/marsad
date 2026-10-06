@@ -1,4 +1,25 @@
 {
- "updatedAt": "2026-10-06T06:33:10+00:00",
- "items": []
+ "updatedAt": "2026-10-06T06:56:39+00:00",
+ "items": [
+  {
+   "id": "auto-e8fd5872cd3d",
+   "tab": "ai",
+   "date": "2026-10-06",
+   "publishedAt": "2026-10-06T06:44:39+00:00",
+   "type": "product",
+   "importance": 1,
+   "sourceType": "official",
+   "sourceName": "Hugging Face Blog",
+   "url": "https://huggingface.co/blog/tiiuae/falcon-emirati",
+   "originalTitle": "Falcon-Emirati: When an LLM Learns the Dialect, the Culture, and the Nuance",
+   "en": {
+    "title": "Falcon-Emirati: When an LLM Learns the Dialect, the Culture, and the Nuance",
+    "summary": "Falcon-Emirati: When an LLM Learns the Dialect, the Culture, and the Nuance",
+    "details": ""
+   },
+   "translated": false,
+   "fetchedAt": "2026-10-06T06:56:34+00:00",
+   "company": "Hugging Face"
+  }
+ ]
 }
