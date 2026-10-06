@@ -1,6 +1,64 @@
 {
- "updatedAt": "2026-10-06T18:15:02+00:00",
+ "updatedAt": "2026-10-06T18:37:00+00:00",
  "items": [
+  {
+   "id": "auto-29c4b2e72fd4",
+   "tab": "ai",
+   "date": "2026-10-06",
+   "publishedAt": "2026-10-06T11:21:30+00:00",
+   "type": "model",
+   "importance": 1,
+   "sourceType": "community",
+   "sourceName": "r/LocalLLaMA",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wz00vv/microsoft_confirms_openai_has_been_using_looped/",
+   "originalTitle": "Microsoft confirms OpenAI has been using Looped Transformers in the GPT-6 series",
+   "en": {
+    "title": "Microsoft confirms OpenAI has been using Looped Transformers in the GPT-6 series",
+    "summary": "Community post on r/LocalLLaMA. Microsoft confirms on publicly accessible web page that OpenAI has been using Looped Transformers in the GPT-6 series, proving The Information's reporting was correct all along.",
+    "details": "Community post on r/LocalLLaMA.\n\nMicrosoft confirms on publicly accessible web page that OpenAI has been using Looped Transformers in the GPT-6 series, proving The Information's reporting was correct all along.\n\nGPT-6.1 Sol uses 2 inference passes, with a passing mention of \"instead of three\".\n\nFor those confused by \"same base model weights as GPT-6 Sol\", I think Microsoft meant 6 & 6.1 are both post-trained models on top of the same pre-trained \"base model\", not that the final weights are identical\n\nSo different post-training (+ one less loop).\n\nUpdate: Microsoft updated the web page to remove it"
+   },
+   "translated": false,
+   "fetchedAt": "2026-10-06T18:37:00+00:00"
+  },
+  {
+   "id": "auto-11cbfd5899ee",
+   "tab": "ai",
+   "date": "2026-10-06",
+   "publishedAt": "2026-10-06T16:06:58+00:00",
+   "type": "hardware",
+   "importance": 1,
+   "sourceType": "community",
+   "sourceName": "r/LocalLLaMA",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wz6ist/54gb_vram_for_35/",
+   "originalTitle": "54gb vram for 35$",
+   "en": {
+    "title": "54gb vram for 35$",
+    "summary": "Community post on r/LocalLLaMA. Bought an old mining farm of a guy on avito (Russian eBay), guy had bought a garage a couple of years ago and it was sitting there for a while, found out it was a mining farm and put it up on there for sale …",
+    "details": "Community post on r/LocalLLaMA.\n\nBought an old mining farm of a guy on avito (Russian eBay), guy had bought a garage a couple of years ago and it was sitting there for a while, found out it was a mining farm and put it up on there for sale for 5000 rub (~60 USD) since he wasn't sure if it works. I negotiated down to 3000 rub (~35 USD), it turned out to have 9x p106 6gb (gtx 1060 6gb) gpus, with 54gb vram total, all working, the only thing missing was an SSD, I booted from USB and it works fine."
+   },
+   "translated": false,
+   "fetchedAt": "2026-10-06T18:37:00+00:00"
+  },
+  {
+   "id": "auto-7de70c098fa8",
+   "tab": "ai",
+   "date": "2026-10-06",
+   "publishedAt": "2026-10-06T10:00:00+00:00",
+   "type": "product",
+   "importance": 1,
+   "sourceType": "official",
+   "sourceName": "OpenAI News",
+   "url": "https://openai.com/index/advancing-computer-use-with-ironclad",
+   "originalTitle": "Advancing computer use with Ironclad",
+   "en": {
+    "title": "Advancing computer use with Ironclad",
+    "summary": "Learn how OpenAI and Ironclad are training and evaluating AI agents on complex contracting workflows to advance computer use for professional work.",
+    "details": "Learn how OpenAI and Ironclad are training and evaluating AI agents on complex contracting workflows to advance computer use for professional work."
+   },
+   "translated": false,
+   "fetchedAt": "2026-10-06T18:36:54+00:00",
+   "company": "OpenAI"
+  },
   {
    "id": "auto-2b54c71b6922",
    "tab": "star-citizen",
