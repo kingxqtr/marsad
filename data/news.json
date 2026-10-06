@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": "2026-10-06T06:08:50+00:00",
+ "updatedAt": "2026-10-06T07:12:50+00:00",
  "coverage": {
   "from": "2026-07-06",
   "to": "2026-10-06"
@@ -1604,6 +1604,28 @@
   },
   "ai": {
    "news": [
+    {
+     "id": "tii-falcon-emirati-7b",
+     "date": "2026-10-06",
+     "type": "model",
+     "importance": 2,
+     "sourceType": "official",
+     "sourceName": "Hugging Face Blog (TII)",
+     "url": "https://huggingface.co/blog/tiiuae/falcon-emirati",
+     "originalTitle": "Falcon-Emirati: When an LLM Learns the Dialect, the Culture, and the Nuance",
+     "company": "TII",
+     "ar": {
+      "title": "معهد TII الإماراتي يطرح Falcon-Emirati-7B لفهم اللهجة الإماراتية",
+      "summary": "أطلق معهد الابتكار التقني (TII) في الإمارات نموذج Falcon-Emirati-7B بـ7 مليارات معامل، مبنيًا على Falcon-H1-Arabic، لفهم وتوليد اللهجة الإماراتية وثقافتها وشِعرها.",
+      "details": "طرح معهد الابتكار التقني (TII) في أبوظبي نموذج Falcon-Emirati-7B، وهو نموذج لغوي متخصص في اللهجة الإماراتية المحكية بدلًا من العربية الفصحى، يغطي المفردات والقواعد والسياق الثقافي وحتى الشِّعر النبطي التقليدي.\n\nيعتمد النموذج، البالغ 7 مليارات معامل، على بنية Falcon-H1-Arabic التي تمزج بين نماذج الفضاء الحالي (Mamba) وآلية الانتباه في المحولات (Transformers)، ويدعم نافذة سياق تصل إلى 128 ألف رمز. وسجّل النموذج دقة 84.83% على اختبار \"عليا\" (Alyah) المخصص لقياس فهم اللهجة الإماراتية من بين 1,173 سؤالًا.\n\nوأظهرت نتائج المقارنة تفوق Falcon-Emirati-7B على نماذج عربية ومتعددة اللغات أكبر منه، خصوصًا في الشِّعر والمعرفة التراثية والملاءمة الثقافية، إضافة إلى قدرته على الرد باللهجة الإماراتية بثبات دون الانزلاق إلى الفصحى. ودرّب المعهد النموذج على مزيج من محتوى إماراتي أصلي ونصوص فصحى عن الثقافة الإماراتية ونصوص مولّدة اصطناعيًا بقيود لهجية. والنموذج متاح للتجربة عبر منصة Falcon Chat."
+     },
+     "en": {
+      "title": "UAE's TII unveils Falcon-Emirati-7B for the Emirati dialect",
+      "summary": "The Technology Innovation Institute in the UAE released Falcon-Emirati-7B, a 7B-parameter model built on Falcon-H1-Arabic, for understanding and generating Emirati Arabic dialect, culture and poetry.",
+      "details": "The Technology Innovation Institute (TII) in Abu Dhabi released Falcon-Emirati-7B, a language model focused specifically on spoken Emirati Arabic rather than Modern Standard Arabic, covering its vocabulary, grammar, cultural context and traditional Nabati poetry.\n\nThe 7-billion-parameter model is built on the Falcon-H1-Arabic architecture, which combines Mamba state-space layers with transformer attention, and supports a 128K-token context window. It scored 84.83% on \"Alyah,\" a 1,173-question benchmark designed to test understanding of the Emirati dialect.\n\nTII said the model outperformed larger Arabic and multilingual models on poetry, heritage knowledge and cultural-appropriateness tasks, and reliably answers in Emirati dialect rather than defaulting to Modern Standard Arabic. It was trained on a mix of authentic Emirati web content, Modern Standard Arabic material about Emirati culture, and synthetic Emirati text constrained by dialect-specific glossaries. The model is available to try on the Falcon Chat platform."
+     },
+     "addedAt": "2026-10-06T07:12:50+00:00"
+    },
     {
      "id": "reflection-ai-beam-501b-model",
      "date": "2026-10-05",
