@@ -1,6 +1,44 @@
 {
- "updatedAt": "2026-10-06T22:14:47+00:00",
+ "updatedAt": "2026-10-06T22:32:02+00:00",
  "items": [
+  {
+   "id": "auto-60718bced563",
+   "tab": "ai",
+   "date": "2026-10-06",
+   "publishedAt": "2026-10-06T15:19:12+00:00",
+   "type": "product",
+   "importance": 1,
+   "sourceType": "community",
+   "sourceName": "r/LocalLLaMA",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wz5b30/woman_used_claude_as_her_diary_and_got_reported/",
+   "originalTitle": "Woman used claude as her diary - and got reported to the police for contents of her diary",
+   "en": {
+    "title": "Woman used claude as her diary - and got reported to the police for contents of her diary",
+    "summary": "Community post on r/LocalLLaMA.",
+    "details": "Community post on r/LocalLLaMA."
+   },
+   "translated": false,
+   "fetchedAt": "2026-10-06T22:32:02+00:00"
+  },
+  {
+   "id": "auto-6556ab414417",
+   "tab": "ai",
+   "date": "2026-10-06",
+   "publishedAt": "2026-10-06T12:48:19+00:00",
+   "type": "model",
+   "importance": 1,
+   "sourceType": "community",
+   "sourceName": "r/LocalLLaMA",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wz1pqn/qwen_4_apparently_coming_out_at_the_end_of_october/",
+   "originalTitle": "Qwen 4 apparently coming out at the end of October",
+   "en": {
+    "title": "Qwen 4 apparently coming out at the end of October",
+    "summary": "Community post on r/LocalLLaMA. Hey All, I spoke to a 0-day partner of Alibaba today and he casually mentioned (didnt know if he was allowed to) that Qwen 4 is apparently planned for the end of October.",
+    "details": "Community post on r/LocalLLaMA.\n\nHey All,\n\nI spoke to a 0-day partner of Alibaba today and he casually mentioned (didnt know if he was allowed to) that Qwen 4 is apparently planned for the end of October.\n\nTo me, this is way faster than expected as there was quite a gap between 3.6 and 3.8.\n\nI tried to get more information out of him regarding which variants will come first and he got a bit cagey.\n\nBUT: No matter the order of the variants, we can hope for Qwen 4 27B this year!\n\nEDIT: I know this is very much \"in bro we trust\" but i am also just trusting bro from the Alibaba partner. Together we trust in Bro."
+   },
+   "translated": false,
+   "fetchedAt": "2026-10-06T22:32:02+00:00"
+  },
   {
    "id": "auto-29c4b2e72fd4",
    "tab": "ai",
