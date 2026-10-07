@@ -1,6 +1,26 @@
 {
- "updatedAt": "2026-10-07T18:10:08+00:00",
+ "updatedAt": "2026-10-07T18:32:33+00:00",
  "items": [
+  {
+   "id": "auto-601e9e897f00",
+   "tab": "ai",
+   "date": "2026-10-07",
+   "publishedAt": "2026-10-07T00:00:00+00:00",
+   "type": "model",
+   "importance": 1,
+   "sourceType": "official",
+   "sourceName": "OpenAI News",
+   "url": "https://openai.com/index/gpt-6-for-everyone",
+   "originalTitle": "GPT-6 and Intelligent UI for everyone",
+   "en": {
+    "title": "GPT-6 and Intelligent UI for everyone",
+    "summary": "GPT‑6 is rolling out globally in ChatGPT with Intelligent UI, delivering faster responses with visuals and interactive experiences you can explore and use directly.",
+    "details": "GPT‑6 is rolling out globally in ChatGPT with Intelligent UI, delivering faster responses with visuals and interactive experiences you can explore and use directly."
+   },
+   "translated": false,
+   "fetchedAt": "2026-10-07T18:32:28+00:00",
+   "company": "OpenAI"
+  },
   {
    "id": "auto-3701091b0cf9",
    "tab": "ai",
