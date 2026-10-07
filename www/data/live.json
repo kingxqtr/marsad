@@ -1,25 +1,4 @@
 {
- "updatedAt": "2026-10-07T16:36:53+00:00",
- "items": [
-  {
-   "id": "auto-f8aa2948cd5f",
-   "tab": "ai",
-   "date": "2026-10-07",
-   "publishedAt": "2026-10-07T13:21:03+00:00",
-   "type": "product",
-   "importance": 1,
-   "sourceType": "official",
-   "sourceName": "Hugging Face Blog",
-   "url": "https://huggingface.co/blog/tiiuae/falcon-asr",
-   "originalTitle": "Introducing Falcon ASR",
-   "en": {
-    "title": "Introducing Falcon ASR",
-    "summary": "Introducing Falcon ASR",
-    "details": ""
-   },
-   "translated": false,
-   "fetchedAt": "2026-10-07T13:28:35+00:00",
-   "company": "Hugging Face"
-  }
- ]
+ "updatedAt": "2026-10-07T17:17:13+00:00",
+ "items": []
 }
