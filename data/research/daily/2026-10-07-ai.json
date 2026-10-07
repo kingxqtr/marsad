@@ -89,6 +89,28 @@
         "summary": "Google launched Playground, an experimental web platform where US adults can describe games in text prompts to create, play and share them, with multiplayer and leaderboards in some genres.",
         "details": "Google launched Playground on October 7, an experimental web-based platform where users describe game ideas in text prompts and the system builds them, without requiring coding skills.\n\nPlayers can customize physics, rules, characters and environments through the conversational interface, and some genres support multiplayer play and in-game leaderboards. A community gallery lets players browse games others have made, ranked by ratings and activity.\n\nThe platform is available only in the United States for users 18 and older, playable in a browser on phones and laptops at playground.google. Creation access is rolling out in tiers tied to a user's Google One membership level.\n\nGoogle says a future integration with Unity Spark will add professional-level game mechanics and high-fidelity 3D capabilities for more advanced creators."
       }
+    },
+    {
+      "id": "nvidia-nemotron-ioi-imo-2026-gold",
+      "date": "2026-10-07",
+      "type": "model",
+      "importance": 2,
+      "sourceType": "official",
+      "sourceName": "Hugging Face Blog",
+      "url": "https://huggingface.co/blog/nvidia/nemotron-ioi-and-imo-2026",
+      "originalTitle": "One Model Family, Two Gold-Level Results: Fine-Tuning Nemotron for IOI and IMO",
+      "company": "NVIDIA",
+      "tool": "Nemotron 3",
+      "ar": {
+        "title": "نفيديا تطوّر Nemotron ليحقق مستوى ذهبياً في أولمبياد 2026 للمعلوماتية والرياضيات",
+        "summary": "دربت نفيديا نموذجي Nemotron-3-Nano-CC و Nemotron-3-Ultra-CC ليحققا مستوى الميدالية الذهبية في أولمبياد المعلوماتية الدولي وأولمبياد الرياضيات الدولي لعام 2026، متجاوزاً أفضل نتيجة بشرية في أحدهما.",
+        "details": "نشرت نفيديا في 7 أكتوبر عبر منصة Hugging Face نتائج تدريب متخصص لعائلة نماذج Nemotron 3 بهدف حل مسائل أولمبياد المعلوماتية الدولي (IOI) وأولمبياد الرياضيات الدولي (IMO) لعام 2026، جامعة بين الضبط الدقيق الخاضع للإشراف والتعلم التعزيزي وأسلوب استدلال يعتمد على التوليد والتحقق وإعادة الصياغة.\n\nفي أولمبياد المعلوماتية، سجّل نموذج Nemotron-3-Ultra-CC (550 مليار معامل، منها 55 مليار نشطة) نتيجة 535.4 من 600، متجاوزاً عتبة الميدالية الذهبية البالغة 361.12 وأفضل نتيجة بشرية مسجلة وهي 498.27 نقطة.\n\nوفي أولمبياد الرياضيات، حقق نظام التوليد والتحقق وإعادة الصياغة 30 نقطة من 42، متجاوزاً عتبة الذهبية الرسمية البالغة 29 نقطة، مع حصوله على الدرجة الكاملة في أربع من المسائل الست.\n\n- يضم نموذج Nemotron-3-Nano-CC الأصغر 30 مليار معامل إجمالية بـ3 مليارات معامل نشطة\n- شارك في العمل فريق من باحثي نفيديا"
+      },
+      "en": {
+        "title": "NVIDIA fine-tunes Nemotron models to gold-medal level at IOI and IMO 2026",
+        "summary": "NVIDIA trained Nemotron-3-Nano-CC and Nemotron-3-Ultra-CC to reach gold-medal level at the 2026 International Olympiad in Informatics and International Mathematical Olympiad, with the IOI score topping the best human competitor.",
+        "details": "NVIDIA published results on Hugging Face on October 7 describing specialist fine-tuning of its Nemotron 3 model family to solve 2026 International Olympiad in Informatics (IOI) and International Mathematical Olympiad (IMO) problems, combining supervised fine-tuning, reinforcement learning and a generate-verify-refine inference approach.\n\nAt IOI, the Nemotron-3-Ultra-CC model (550B total parameters, 55B active) scored 535.4 out of 600, clearing the gold-medal threshold of 361.12 and surpassing the best human competitor's score of 498.27.\n\nAt IMO, the generate-verify-refine system scored 30 out of 42, above the official gold threshold of 29, earning full credit on four of the six problems.\n\n- The smaller Nemotron-3-Nano-CC model has 30B total parameters with 3B active\n- The work was carried out by a team of NVIDIA researchers"
+      }
     }
   ],
   "upcoming": [],
