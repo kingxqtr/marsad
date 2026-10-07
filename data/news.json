@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": "2026-10-07T16:09:09+00:00",
+ "updatedAt": "2026-10-07T17:11:26+00:00",
  "coverage": {
   "from": "2026-07-07",
   "to": "2026-10-07"
@@ -1649,6 +1649,52 @@
       "details": "Google launched Playground on October 7, an experimental web-based platform where users describe game ideas in text prompts and the system builds them, without requiring coding skills.\n\nPlayers can customize physics, rules, characters and environments through the conversational interface, and some genres support multiplayer play and in-game leaderboards. A community gallery lets players browse games others have made, ranked by ratings and activity.\n\nThe platform is available only in the United States for users 18 and older, playable in a browser on phones and laptops at playground.google. Creation access is rolling out in tiers tied to a user's Google One membership level.\n\nGoogle says a future integration with Unity Spark will add professional-level game mechanics and high-fidelity 3D capabilities for more advanced creators."
      },
      "addedAt": "2026-10-07T12:11:42+00:00"
+    },
+    {
+     "id": "tii-falcon-asr-release",
+     "date": "2026-10-07",
+     "type": "model",
+     "importance": 2,
+     "sourceType": "official",
+     "sourceName": "Hugging Face (TII)",
+     "url": "https://huggingface.co/blog/tiiuae/falcon-asr",
+     "originalTitle": "Introducing Falcon ASR",
+     "company": "Technology Innovation Institute (TII)",
+     "tool": "Falcon ASR",
+     "ar": {
+      "title": "معهد الابتكار التقني الإماراتي يطلق نموذج Falcon ASR للتحويل الصوتي",
+      "summary": "أطلق معهد الابتكار التقني (TII) في أبوظبي نموذج Falcon ASR لتحويل الصوت إلى نص، يدعم اللغة العربية الفصحى واللهجة الإماراتية إلى جانب لغات أخرى.",
+      "details": "أعلن معهد الابتكار التقني (TII) في أبوظبي عن نموذج Falcon ASR الجديد للتعرّف الآلي على الكلام، وهو يحوّل التسجيلات الصوتية إلى نص مكتوب، مع دعم خاص للعربية الفصحى واللهجة الإماراتية إلى جانب لغات أخرى.\n\nأتاح المعهد تجربة النموذج عبر مساحات تفاعلية على Hugging Face، تتيح إحداها تحويل تسجيلات صوتية تصل مدتها إلى 60 ثانية إلى نص.\n\nيأتي هذا الإطلاق ضمن سلسلة إصدارات متقاربة لمعهد TII شملت أيضاً نموذج Falcon-Emirati المتخصص باللهجة الإماراتية ونموذج Falcon OCR Arabic للتعرف على النص العربي في الصور."
+     },
+     "en": {
+      "title": "UAE's TII releases Falcon ASR speech-to-text model",
+      "summary": "Abu Dhabi's Technology Innovation Institute (TII) released Falcon ASR, a speech-recognition model with dedicated support for Modern Standard Arabic and the Emirati dialect alongside other languages.",
+      "details": "Abu Dhabi's Technology Innovation Institute (TII) announced Falcon ASR, a new automatic speech recognition model that transcribes audio to text, with dedicated support for Modern Standard Arabic and the Emirati dialect alongside other languages.\n\nTII made the model available to try through interactive Hugging Face Spaces, one of which transcribes audio clips of up to 60 seconds into text.\n\nThe release is part of a cluster of recent TII launches that also included Falcon-Emirati, a model specialized in the Emirati dialect, and Falcon OCR Arabic, for recognizing Arabic text in images."
+     },
+     "addedAt": "2026-10-07T17:11:26+00:00"
+    },
+    {
+     "id": "liquidai-open-d1-decision-models",
+     "date": "2026-10-07",
+     "type": "model",
+     "importance": 1,
+     "sourceType": "official",
+     "sourceName": "Hugging Face Blog",
+     "url": "https://huggingface.co/blog/LiquidAI/open-d1",
+     "originalTitle": "Multimodal open d1 decision models for the edge",
+     "company": "Liquid AI",
+     "tool": "d1-3B / d1-omni-600M",
+     "ar": {
+      "title": "Liquid AI تطلق نماذج قرار مفتوحة d1 للأجهزة الطرفية",
+      "summary": "أطلقت Liquid AI نموذجي قرار مفتوحي الوزن d1-3B وd1-omni-600M يجيبان على أسئلة مبنية الشكل بخطوة استدلال واحدة بدلاً من توليد الرموز تتابعياً، بأداء قياسي على الأجهزة الطرفية.",
+      "details": "أعلنت Liquid AI في 7 أكتوبر عن نموذجين جديدين من عائلة \"نماذج القرار\" مفتوحة الوزن، وهي نماذج تجيب على أسئلة مبنية الشكل (نعم/لا، اختيار من متعدد، أو تقييم) بخطوة استدلال أمامية واحدة بدلاً من توليد الرموز واحداً تلو الآخر كما تفعل نماذج اللغة التقليدية.\n\nالنموذج الأول d1-3B بثلاثة مليارات معامل يعالج النص والصور معاً، وحقق نحو 82.9 نقطة في اختبارات القياس المرجعية، متجاوزاً نموذج Decider 4B الأكبر. كما يحقق زمن استدلال أقل من 50 ميلي ثانية على الأجهزة الطرفية، ووصل إلى 16 ميلي ثانية فقط على منصة Jetson AGX Thor.\n\nالنموذج الثاني d1-omni-600M تجريبي بـ600 مليون معامل، ويعالج النص مع الصور أو النص مع الصوت، وتفوق أداؤه على نماذج أكبر بأربعة أضعاف حجمه.\n\n- النماذج متوفرة مفتوحة الوزن على Hugging Face تحت منظمة LiquidAI\n- تتوفر تجربة مباشرة عبر مساحة \"System One Arcade\" على Hugging Face"
+     },
+     "en": {
+      "title": "Liquid AI releases open d1 decision models for edge devices",
+      "summary": "Liquid AI released open-weight decision models d1-3B and d1-omni-600M that answer structured questions in a single forward pass instead of generating tokens sequentially, with strong edge performance.",
+      "details": "Liquid AI announced on October 7 two new open-weight \"decision models\" that answer structured questions (yes/no, multiple choice, or scoring) in a single forward pass rather than generating tokens one by one like a typical language model.\n\nThe first, d1-3B, has 3 billion parameters and handles text and image inputs, scoring about 82.9 on benchmark tests, ahead of the larger Decider 4B model. It also reaches sub-50ms inference on edge devices, down to 16ms on an NVIDIA Jetson AGX Thor.\n\nThe second, d1-omni-600M, is an experimental 600-million-parameter model handling text with images or text with audio, and reportedly outperforms models four times its size.\n\n- Both models are open-weight on Hugging Face under the LiquidAI organization\n- A live demo is available through the \"System One Arcade\" Hugging Face Space"
+     },
+     "addedAt": "2026-10-07T17:11:26+00:00"
     },
     {
      "id": "openai-chatgpt-teens-college-planner",
