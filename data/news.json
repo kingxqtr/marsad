@@ -1,9 +1,9 @@
 {
  "version": 1,
- "updatedAt": "2026-10-06T23:11:32+00:00",
+ "updatedAt": "2026-10-07T00:09:52+00:00",
  "coverage": {
-  "from": "2026-07-06",
-  "to": "2026-10-06"
+  "from": "2026-07-07",
+  "to": "2026-10-07"
  },
  "tabs": {
   "once-human": {
@@ -1761,6 +1761,29 @@
       "details": "Google DeepMind announced EmbeddingGemma 2 on October 6, an Apache 2.0-licensed embedding model that places text, code, images, video and audio in a single shared embedding space.\n\nThe model has 740 million parameters in a modular design that lets developers use a text-only mode at 270 million parameters, adding vision and audio encoders only when needed. Using Matryoshka Representation Learning, embedding vectors can be shrunk from 768 to 128 dimensions, cutting storage needs by up to 6x.\n\n- Needs about 191MB of RAM for text-only use, or 567MB for full multimodal use, on a Google Pixel 11 Pro\n- An 8K-token context window covers up to 5.5 minutes of audio, 29 images or 58 video frames\n- Google reports a 9.92-point gain in code-retrieval performance over the previous version"
      },
      "addedAt": "2026-10-06T21:14:21+00:00"
+    },
+    {
+     "id": "cursor-remote-control-local-agents",
+     "date": "2026-10-06",
+     "type": "coding",
+     "importance": 1,
+     "sourceType": "official",
+     "sourceName": "Cursor Changelog",
+     "url": "https://cursor.com/changelog/remote-control-local-agents",
+     "originalTitle": "Remote control for local agents",
+     "company": "Anysphere",
+     "tool": "Cursor",
+     "ar": {
+      "title": "Cursor تطرح التحكم عن بُعد بالوكلاء المحليين من تطبيق iOS",
+      "summary": "أضافت Cursor ميزة تتيح مشاهدة وكلاء الذكاء الاصطناعي العاملين على حاسوب المستخدم والرد عليهم من تطبيق Cursor على iOS، وهي مفعّلة تلقائياً لغير مستخدمي النسخة المؤسسية.",
+      "details": "أعلنت Cursor عن ميزة \"التحكم عن بُعد\" التي تتيح لمستخدمي تطبيق Cursor على iOS مشاهدة الوكلاء البرمجية العاملة محلياً على حاسوبهم وإرسال ردود إليها مباشرة من الهاتف.\n\nتظهر حواسيب المستخدم تلقائياً في التطبيق بعد تسجيل الدخول، ويكفي اختيار الحاسوب والموافقة على طلب الربط من تطبيق سطح المكتب لتظهر قائمة الوكلاء الجارية. يمكن أيضاً تفعيل خيار يمنع الحاسوب من السكون أثناء غياب المستخدم.\n\n- الميزة مفعّلة تلقائياً لجميع المستخدمين عدا مؤسسات النسخة Enterprise، التي يمكن لمديريها تفعيلها من إعدادات الأمان\n- الوكلاء يبقون يعملون على الحاسوب نفسه؛ التطبيق يتصل بها عن بُعد دون نقلها إلى الخوادم"
+     },
+     "en": {
+      "title": "Cursor adds remote control for local agents from its iOS app",
+      "summary": "Cursor launched a feature letting users view and reply to AI coding agents running on their computer from the Cursor iOS app, on by default for non-Enterprise users.",
+      "details": "Cursor announced a \"Remote Control\" feature that lets users of its iOS app see the coding agents running locally on their computer and send them replies directly from their phone.\n\nComputers on a user's account appear automatically in the app after signing in; tapping a computer and approving the pairing request in the desktop app brings up a list of running agents. Users can also turn on an option that keeps the computer from sleeping while they're away, so remote sessions keep working.\n\n- The feature is on by default for everyone except Enterprise organizations, whose admins can enable it from security settings\n- Agents keep running on the same computer; the app only connects to them remotely rather than moving them to the cloud"
+     },
+     "addedAt": "2026-10-06T23:59:59+00:00"
     },
     {
      "id": "reflection-ai-beam-501b-model",
@@ -4596,33 +4619,6 @@
       "details": "Canva World Tour is back for 2026, running worldwide from September 14 through November 30.\n\n- Format: Canva teams in different countries host local community meetups and live training sessions; an event finder is available at canva.com/events.\n- AI Essentials: a new free certification that anyone can complete at their own pace, covering how to get the most out of Canva AI.\n- Design School: short, mobile-first lessons that teach one skill at a time, some lasting about 90 seconds.\n\nAll of the learning content can also be followed online through Canva Design School at any time during the campaign, so people can take part even without a local event nearby.",
       "location": "Worldwide (local events and online)",
       "dateNote": "Campaign started September 14 and ends November 30, 2026."
-     },
-     "addedAt": "2026-09-27T13:25:38+00:00"
-    },
-    {
-     "id": "elevenlabs-summit-bengaluru-2026",
-     "date": "2026-10-06",
-     "type": "event",
-     "importance": 1,
-     "sourceType": "official",
-     "sourceName": "ElevenLabs Events",
-     "url": "https://elevenlabs.io/summit/bengaluru",
-     "originalTitle": "",
-     "company": "ElevenLabs",
-     "dateConfidence": "confirmed",
-     "ar": {
-      "title": "قمة ElevenLabs تنتقل إلى بنغالور في 6 أكتوبر",
-      "summary": "تعقد ElevenLabs قمة ليوم كامل في فندق The Leela Bhartiya ببنغالور في 6 أكتوبر حول الذكاء الاصطناعي الصوتي في الأعمال والحكومة والإبداع، على أن تليها قمة نيويورك في 11 نوفمبر.",
-      "details": "تنقل ElevenLabs سلسلة قممها إلى الهند بفعالية تستمر يوماً كاملاً في بنغالور يوم 6 أكتوبر 2026 في The Leela Bhartiya، من التسجيل في 9:30 صباحاً حتى جلسة التواصل الختامية في 6:20 مساءً.\n\n- المحاور: كيف يغير الذكاء الاصطناعي الصوتي الأعمال والعمل الحكومي والإبداع في الهند، وتجربة العملاء، وإتاحة التقنية لذوي الاحتياجات، واستخدامات الإعلام والتسويق، والتنوع اللغوي في الهند.\n- من المتحدثين: المؤسس المشارك لـElevenLabs ماتي ستانيشيفسكي، ووزير تقنية المعلومات في ولاية كارناتاكا بريانك خارجي، والرئيس التنفيذي لـRazorpay هارشيل ماثور، ومؤسس CARS24 فيكرام تشوبرا، وصانعا المحتوى تانماي بات وفارون مايا.\n\nويتم التسجيل عبر موقع ElevenLabs. والمحطة التالية في جدول القمم هي نيويورك في 11 نوفمبر 2026.",
-      "location": "The Leela Bhartiya، بنغالور، الهند",
-      "dateNote": "من 9:30 صباحاً إلى 6:20 مساءً بتوقيت الهند، أي من 7:00 إلى 15:50 بتوقيت الرياض والدوحة."
-     },
-     "en": {
-      "title": "ElevenLabs Summit comes to Bengaluru on October 6",
-      "summary": "ElevenLabs will hold a full-day summit at The Leela Bhartiya in Bengaluru on October 6, focused on voice AI in business, government and creative work; a New York edition follows on November 11.",
-      "details": "ElevenLabs is taking its summit series to India with a full-day event in Bengaluru on October 6, 2026 at The Leela Bhartiya, running from 9:30am registration to a 6:20pm networking session.\n\n- Themes: how voice AI is changing business, government and creative work in India, customer experience, accessibility, media and marketing uses, and India's multilingual landscape.\n- Speakers listed include ElevenLabs co-founder Mati Staniszewski, Karnataka IT minister Priyank Kharge, Razorpay CEO Harshil Mathur, CARS24 founder Vikram Chopra and creators Tanmay Bhat and Varun Mayya.\n\nSign-up is through the ElevenLabs website. The next stop on the summit calendar is New York on November 11, 2026.",
-      "location": "The Leela Bhartiya, Bengaluru, India",
-      "dateNote": "9:30am-6:20pm India time, i.e. 7:00-15:50 in Riyadh and Doha."
      },
      "addedAt": "2026-09-27T13:25:38+00:00"
     },

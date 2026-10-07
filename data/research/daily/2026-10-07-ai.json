@@ -45,6 +45,28 @@
         "summary": "OpenAI published 722 math research manuscripts across 372 problem families, produced by an unreleased internal model, with Lean formalizations on GitHub.",
         "details": "OpenAI announced on October 6 the release of 722 manuscripts containing new mathematical results, grouped into 372 problem families and produced by an internal frontier model not yet released publicly. The model was posed roughly 4,000 problems, with each result costing on average about three hours of ChatGPT Pro compute.\n\nThe company published the results in the openai/math GitHub repository, including Lean formalizations of many of the proofs (Lean lets a computer check a mathematical proof's validity), along with ten summaries of the model's reasoning process, compute estimates, and statistics on how many problems were attempted.\n\n- OpenAI consulted an independent Advisory Group on Mathematics and AI based at the Institute for Advanced Study on how to release the results\n- The company said it will fund workshops, conferences and special programs to help the math community understand major AI-produced results"
       }
+    },
+    {
+      "id": "cursor-remote-control-local-agents",
+      "date": "2026-10-06",
+      "type": "coding",
+      "importance": 1,
+      "sourceType": "official",
+      "sourceName": "Cursor Changelog",
+      "url": "https://cursor.com/changelog/remote-control-local-agents",
+      "originalTitle": "Remote control for local agents",
+      "company": "Anysphere",
+      "tool": "Cursor",
+      "ar": {
+        "title": "Cursor تطرح التحكم عن بُعد بالوكلاء المحليين من تطبيق iOS",
+        "summary": "أضافت Cursor ميزة تتيح مشاهدة وكلاء الذكاء الاصطناعي العاملين على حاسوب المستخدم والرد عليهم من تطبيق Cursor على iOS، وهي مفعّلة تلقائياً لغير مستخدمي النسخة المؤسسية.",
+        "details": "أعلنت Cursor عن ميزة \"التحكم عن بُعد\" التي تتيح لمستخدمي تطبيق Cursor على iOS مشاهدة الوكلاء البرمجية العاملة محلياً على حاسوبهم وإرسال ردود إليها مباشرة من الهاتف.\n\nتظهر حواسيب المستخدم تلقائياً في التطبيق بعد تسجيل الدخول، ويكفي اختيار الحاسوب والموافقة على طلب الربط من تطبيق سطح المكتب لتظهر قائمة الوكلاء الجارية. يمكن أيضاً تفعيل خيار يمنع الحاسوب من السكون أثناء غياب المستخدم.\n\n- الميزة مفعّلة تلقائياً لجميع المستخدمين عدا مؤسسات النسخة Enterprise، التي يمكن لمديريها تفعيلها من إعدادات الأمان\n- الوكلاء يبقون يعملون على الحاسوب نفسه؛ التطبيق يتصل بها عن بُعد دون نقلها إلى الخوادم"
+      },
+      "en": {
+        "title": "Cursor adds remote control for local agents from its iOS app",
+        "summary": "Cursor launched a feature letting users view and reply to AI coding agents running on their computer from the Cursor iOS app, on by default for non-Enterprise users.",
+        "details": "Cursor announced a \"Remote Control\" feature that lets users of its iOS app see the coding agents running locally on their computer and send them replies directly from their phone.\n\nComputers on a user's account appear automatically in the app after signing in; tapping a computer and approving the pairing request in the desktop app brings up a list of running agents. Users can also turn on an option that keeps the computer from sleeping while they're away, so remote sessions keep working.\n\n- The feature is on by default for everyone except Enterprise organizations, whose admins can enable it from security settings\n- Agents keep running on the same computer; the app only connects to them remotely rather than moving them to the cloud"
+      }
     }
   ],
   "upcoming": [],
