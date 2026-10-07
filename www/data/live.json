@@ -1,25 +1,4 @@
 {
- "updatedAt": "2026-10-07T20:58:43+00:00",
- "items": [
-  {
-   "id": "auto-c78daf596468",
-   "tab": "ai",
-   "date": "2026-10-07",
-   "publishedAt": "2026-10-07T20:12:18+00:00",
-   "type": "coding",
-   "importance": 1,
-   "sourceType": "official",
-   "sourceName": "GitHub Changelog",
-   "url": "https://github.blog/changelog/2026-10-07-claude-haiku-5-5-in-github-copilot",
-   "originalTitle": "Claude Haiku 5.5 in GitHub Copilot",
-   "en": {
-    "title": "Claude Haiku 5.5 in GitHub Copilot",
-    "summary": "Claude Haiku 5.5, Anthropic’s newest lightweight model, is now generally available in GitHub Copilot. It is designed for fast, high-volume work like subagents, quick edits, and terminal tasks.",
-    "details": "Claude Haiku 5.5, Anthropic’s newest lightweight model, is now generally available in GitHub Copilot. It is designed for fast, high-volume work like subagents, quick edits, and terminal tasks. In early testing, Haiku 5.5 matched Claude Sonnet 5 on many coding tasks while using significantly fewer tokens and steps.\n\nThis model is billed at provider list pricing under usage-based billing. See Models and pricing for GitHub Copilot for details.\n\nAvailability in GitHub Copilot\n\nClaude Haiku 5.5 is available to Copilot Pro, Pro+, Max, Business, and Enterprise users. You can select the model in the model picker in:\n\n- Visual Studio Code\n\n- Visual Studio\n\n- Copilot CLI\n\n- GitHub Copilot cloud agent\n\n- GitHub Copilot app\n\n- github.com\n\n- GitHub Mobile on iOS and Android\n\n- JetBrains IDEs\n\n- Xcode\n\n- Eclipse\n\nRollout will be gradual. Check back soon if you don’t see it yet.\n\nEnabling access\n\nCopilot Enterprise and Copilot Business plan administrators can manage access to Claude Haiku 5.5 through the model policy in Copilot settings. Under default model enablement, new models are automatically enabled unless an administrator has turned off the global default or explicitly disables this model.\n\nLearn more\n\nTo explore all models available in GitHub Copilot, see our documentation on models and get started with Copilot.\n\nShare your feedback\n\nJoin the GitHub Community to share your feedback.\n\nThe post Claude Haiku 5.5 in GitHub Copilot appeared first on The GitHub Blog ."
-   },
-   "translated": false,
-   "fetchedAt": "2026-10-07T20:58:38+00:00",
-   "company": "GitHub"
-  }
- ]
+ "updatedAt": "2026-10-07T21:15:04+00:00",
+ "items": []
 }
