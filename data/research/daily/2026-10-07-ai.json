@@ -177,6 +177,116 @@
         "summary": "OpenAI announced an upcoming College Planner feature for ChatGPT for Teens to help students manage college applications, alongside new flashcards, quizzes and a teen AI council.",
         "details": "OpenAI announced a set of new additions to its ChatGPT for Teens product, headlined by a \"College Planner\" feature that will help students organize and track college applications.\n\nThe additions also include study tools such as flashcards and interactive quizzes to help teens review and study material.\n\n- OpenAI set up a teen advisory council to help guide the development of AI features aimed at this age group"
       }
+    },
+    {
+      "id": "openai-gpt-6-for-everyone",
+      "date": "2026-10-07",
+      "type": "model",
+      "importance": 3,
+      "sourceType": "official",
+      "sourceName": "OpenAI News",
+      "url": "https://openai.com/index/gpt-6-for-everyone",
+      "originalTitle": "GPT-6 and Intelligent UI for everyone",
+      "company": "OpenAI",
+      "tool": "GPT-6",
+      "ar": {
+        "title": "OpenAI تطرح GPT-6 لجميع مستخدمي ChatGPT مع ميزة Intelligent UI",
+        "summary": "تطرح OpenAI نموذج GPT-6 عالمياً لكل مستويات ChatGPT مع ميزة Intelligent UI التي تضيف صوراً وأزراراً وأدوات تفاعلية مباشرة داخل إجابات المحادثة.",
+        "details": "أعلنت OpenAI طرح نموذج GPT-6 عالمياً في ChatGPT، بعد شهر واحد من إطلاق GPT-6 Astra أول مرة لمستخدمي النسخ المدفوعة فقط. يشمل الطرح الجديد أكثر من 1.2 مليار مستخدم أسبوعي لـChatGPT، حيث يحصل مستخدمو Plus و Pro و Business و Enterprise (وفق إعدادات مسؤول الشركة) على الوصول اليوم، ويليهم مستخدمو النسخة المجانية و Go في اليوم التالي. تستخدم النسخ المدفوعة نموذج GPT-6 Sol، بينما تستخدم النسخة المجانية و Go نموذج GPT-6 Luna.\n\nالميزة الجديدة الرئيسية، Intelligent UI، تتيح لإجابات ChatGPT تضمين صور وأزرار قابلة للنقر ونماذج ورسوم بيانية بدل النص وحده:\n\n- إجابات يومية مرئية، كجدول زمني لطبخ وصفة أو محطات رحلة بر على خريطة\n- تعلّم تفاعلي يتيح تغيير المدخلات لرؤية النتائج أو حل المسائل خطوة بخطوة\n- أدوات فورية مثل حاسبة توفير أو تقسيم فاتورة أو لعبة مصغّرة داخل المحادثة\n\nوأوضحت OpenAI أن النموذج يمكنه بدء الإجابة أثناء \"التفكير\" نفسه، ما يقلّص وقت بدء الإجابة في الأسئلة التي تحتاج بحثاً على الإنترنت بنسبة 44% تقريباً مقارنة بـGPT-5.6 Instant، مع قرارات بحث أفضل وسلوك أمني أقوى. لا يشمل التغيير تجربتي Work و Codex."
+      },
+      "en": {
+        "title": "OpenAI rolls out GPT-6 to all ChatGPT users with Intelligent UI",
+        "summary": "GPT-6 is now rolling out globally to every ChatGPT tier, paired with Intelligent UI, which adds interactive visuals, buttons and tools directly in chat answers.",
+        "details": "OpenAI announced that GPT-6 is rolling out globally in ChatGPT, a month after first launching GPT-6 Astra to paying customers only. The rollout reaches ChatGPT's more than 1.2 billion weekly users: Plus, Pro, Business and Enterprise users (Enterprise depending on admin settings) get access today, with Free and Go users following the next day. Paid tiers run on GPT-6 Sol, while Free and Go use GPT-6 Luna.\n\nThe headline new feature, Intelligent UI, lets ChatGPT answers include visuals, tappable buttons, forms and charts instead of plain text alone:\n\n- Visual everyday answers, such as a cooking timeline next to a recipe or road-trip stops on a map\n- Interactive learning, letting users change inputs to see results or work through problems step by step\n- On-demand tools, such as a savings calculator, a bill splitter or a simple game built within the chat\n\nOpenAI also said the model can start answering while still \"thinking,\" cutting how long it takes to start a response for questions needing web search by about 44% compared with GPT-5.6 Instant, with better search decisions and stronger safety behavior. The change doesn't affect the Work or Codex experiences."
+      }
+    },
+    {
+      "id": "github-copilot-local-sandboxing-ga",
+      "date": "2026-10-07",
+      "type": "coding",
+      "importance": 2,
+      "sourceType": "official",
+      "sourceName": "GitHub Changelog",
+      "url": "https://github.blog/changelog/2026-10-07-local-sandboxing-for-github-copilot-now-generally-available",
+      "originalTitle": "Local sandboxing for GitHub Copilot now generally available",
+      "company": "GitHub",
+      "tool": "GitHub Copilot",
+      "ar": {
+        "title": "GitHub تطرح العزل المحلي لوكلاء Copilot للجميع",
+        "summary": "أصبح العزل المحلي لوكلاء GitHub Copilot متاحاً عاماً في Copilot CLI وتطبيق Copilot وجلسات VS Code عبر Agent Host، ليقيّد وصول الأوامر التي ينفذها الوكيل.",
+        "details": "أعلنت GitHub أن ميزة العزل المحلي (local sandboxing) لوكلاء Copilot متاحة الآن عاماً في Copilot CLI وتطبيق Copilot وجلسات VS Code التي تستخدم Agent Host.\n\nتوفر صناديق العزل المحلية حدوداً أمنية لمهام الوكلاء على حاسوب المطوّر نفسه: تحصل الأدوات والأوامر التي ينفذها Copilot على وصول مقيّد إلى نظام الملفات والشبكة وبيانات الاعتماد وقدرات النظام الأخرى، وفق سياسات يحددها المطوّر أو مؤسسته. تعمل الميزة عبر تقنية Microsoft eXecution Container (MXC) التي تترجم سياسة عزل مشتركة إلى ضوابط نظام تشغيل أصلية على Windows وmacOS وLinux.\n\n- تحديد الملفات والمجلدات التي يمكن لأوامر الوكيل قراءتها أو تعديلها\n- التحكم بالوصول إلى الإنترنت والشبكات المحلية وبيانات اعتماد Git وGitHub CLI\n- تمكين المؤسسات من فرض سياسات عزل لا يمكن للمطورين تخفيفها\n\nالعزل المحلي متاح مع GitHub Copilot دون تكلفة إضافية، وتقول GitHub إن السياسات تنطبق على تنفيذ الأدوات بصرف النظر عن النموذج الذي يستخدمه Copilot."
+      },
+      "en": {
+        "title": "GitHub Copilot's local sandboxing for agents reaches general availability",
+        "summary": "Local sandboxing for GitHub Copilot is now generally available in the Copilot CLI, app and VS Code's Agent Host, restricting what agent-run commands can access.",
+        "details": "GitHub announced that local sandboxing for Copilot is now generally available across the Copilot CLI, the Copilot app and VS Code sessions that use Agent Host.\n\nLocal sandboxes give a security boundary for agentic workflows on a developer's own machine: tools and commands Copilot runs get restricted access to the filesystem, network, credentials and other system capabilities, based on policies the developer or their organization sets. The feature is powered by Microsoft eXecution Container (MXC), which maps a shared sandbox policy onto native OS controls on Windows, macOS and Linux.\n\n- Limits which files and directories agent-run commands can read or modify\n- Controls access to the internet, local networks, and Git/GitHub CLI credentials\n- Lets organizations enforce sandboxing policies developers can't weaken\n\nLocal sandboxing is included with GitHub Copilot at no extra cost. GitHub says the policy applies to tool execution regardless of which model Copilot uses."
+      }
+    },
+    {
+      "id": "nvidia-microsoft-rtx-spark-windows-event",
+      "date": "2026-10-07",
+      "type": "hardware",
+      "importance": 2,
+      "sourceType": "official",
+      "sourceName": "NVIDIA Blog",
+      "url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-microsoft-windows-event/",
+      "originalTitle": "NVIDIA, Microsoft Kick Off a New Beginning for Windows PCs With RTX Spark and AI Agents",
+      "company": "NVIDIA",
+      "tool": "RTX Spark",
+      "ar": {
+        "title": "نفيديا ومايكروسوفت تطلقان حواسيب RTX Spark لتشغيل وكلاء الذكاء الاصطناعي على Windows",
+        "summary": "كشفت نفيديا ومايكروسوفت عن حواسيب Windows المحمولة والمكتبية المزودة بشريحة RTX Spark، وحاسوب Surface Laptop Ultra الجديد، ونسخة تجريبية من حاسوب DGX Station الفائق لـWindows.",
+        "details": "في فعالية لمايكروسوفت حول الذكاء الاصطناعي في Windows بسان فرانسيسكو، عرض الرئيس التنفيذي لنفيديا جنسن هوانغ والرئيس التنفيذي لمايكروسوفت ساتيا ناديلا تفاصيل عتاد جديد لتشغيل وكلاء الذكاء الاصطناعي مباشرة على حواسيب Windows.\n\nتجلب شريحة RTX Spark مجموعة أدوات نفيديا للذكاء الاصطناعي إلى الحواسيب المحمولة وأجهزة سطح المكتب المدمجة لنظام Windows: تجمع الشريحة معالج رسوميات RTX من جيل Blackwell (حتى 6144 نواة) مع معالج Grace بحتى 20 نواة وذاكرة موحدة تصل إلى 128 غيغابايت. بدأ الطلب المسبق للحواسيب المحمولة في 7 أكتوبر مع توفرها في 16 أكتوبر، بينما تُطرح النسخ المكتبية في نوفمبر من شركات Acer وASUS وDell وHP وLenovo ومايكروسوفت وMSI وGigabyte.\n\n- حاسوب Surface Laptop Ultra الجديد من مايكروسوفت مبني حول شريحة RTX Spark، وبإمكانه تشغيل نماذج لا تتسع على حاسوب عادي\n- بلغت تقنية Microsoft eXecution Containers (MXC)، البنية التي تدير تشغيل وكلاء الذكاء الاصطناعي بأمان في الخلفية، مرحلة التوفر العام\n- عرضت نفيديا نسخة تجريبية من حاسوبها الفائق DGX Station لـWindows، المبني على شريحة GB300 Grace Blackwell Ultra بذاكرة متجانسة 748 غيغابايت وأداء يصل إلى 20 بيتافلوبس بدقة FP4؛ وكان يعمل سابقاً على Linux فقط"
+      },
+      "en": {
+        "title": "NVIDIA and Microsoft launch RTX Spark PCs and Surface Laptop Ultra for AI",
+        "summary": "NVIDIA and Microsoft unveiled RTX Spark Windows laptops and desktops, a new Surface Laptop Ultra built around the chip, and a Windows preview of NVIDIA's DGX Station supercomputer.",
+        "details": "At a Microsoft Windows AI event in San Francisco, NVIDIA CEO Jensen Huang and Microsoft CEO Satya Nadella detailed new hardware for running AI agents directly on Windows PCs.\n\nRTX Spark brings NVIDIA's AI stack to Windows laptops and compact desktops: the chip pairs a Blackwell RTX GPU (up to 6,144 cores) with up to a 20-core Grace CPU and up to 128GB of unified memory. Laptop preorders opened October 7 with availability October 16; desktops ship in November, from Acer, ASUS, Dell, HP, Lenovo, Microsoft, MSI and Gigabyte.\n\n- Microsoft's new Surface Laptop Ultra is built around RTX Spark, able to run models that don't fit on a typical machine\n- Microsoft eXecution Containers (MXC), OS-level infrastructure for running AI agents securely in the background, reached general availability\n- NVIDIA previewed a Windows version of its DGX Station supercomputer, built on the GB300 Grace Blackwell Ultra chip with 748GB of coherent memory and up to 20 petaFLOPS of FP4 compute; it previously ran only on Linux"
+      }
+    },
+    {
+      "id": "github-secret-detection-model",
+      "date": "2026-10-07",
+      "type": "coding",
+      "importance": 1,
+      "sourceType": "official",
+      "sourceName": "GitHub Changelog",
+      "url": "https://github.blog/changelog/2026-10-07-purpose-built-model-for-leaked-secret-detection",
+      "originalTitle": "Purpose-built model for leaked secret detection",
+      "company": "GitHub",
+      "tool": "GitHub Advanced Security",
+      "ar": {
+        "title": "GitHub تطرح نموذجاً مخصصاً لاكتشاف الأسرار المسرّبة في الكود",
+        "summary": "تدمج GitHub نموذجاً مخصصاً ومضبوطاً دقيقاً في فحص الأسرار وحماية الدفع وفحوصات أمان Copilot لرصد بيانات اعتماد لا تطابق صيغة رمز معروفة.",
+        "details": "أعلنت GitHub عن نموذج مخصص ومضبوط دقيقاً لاكتشاف الأسرار المسرّبة في الكود، يقرأ السياق المحيط لرصد بيانات اعتماد محتملة، بما فيها كلمات مرور لا تطابق صيغة رمز معروفة، دون أن يولّد كوداً أو نصاً بنفسه.\n\n- فحص الأسرار: تمت ترقية عملاء تنبيهات كلمات المرور المكتشفة بالذكاء الاصطناعي تلقائياً إلى النموذج الجديد\n- حماية الدفع (push protection): اكتشاف الأسرار بالذكاء الاصطناعي في معاينة خاصة، ويتطلب GitHub Enterprise Cloud أو Team مع Secret Protection أو Advanced Security\n- فحص /security-review في Copilot: فحوصات الأسرار بالذكاء الاصطناعي قادمة قريباً في معاينة خاصة لتطبيق Copilot CLI وتطبيق Copilot\n\nتبقى تنبيهات الأسرار المكتشفة بالذكاء الاصطناعي ضمن منتجات GitHub الأمنية دون تكلفة إضافية، بينما تستهلك فحوصات حماية الدفع والمراجعة الأمنية الجديدة اختيارياً وحدات GitHub AI Credits عند تفعيلها، وهي معطّلة افتراضياً."
+      },
+      "en": {
+        "title": "GitHub rolls out a purpose-built AI model for leaked-secret detection",
+        "summary": "GitHub is bringing a new fine-tuned model into secret scanning, push protection and Copilot security reviews to catch credentials that don't match a known token format.",
+        "details": "GitHub announced a purpose-built, fine-tuned model for detecting leaked secrets in code, reading surrounding context to flag likely credentials, including passwords without a recognizable token format, without generating code or prose itself.\n\n- Secret scanning: customers with AI-detected Password alerts were automatically upgraded to the new model\n- Push protection: AI-detected secrets are in private preview, requiring GitHub Enterprise Cloud or Team with Secret Protection or Advanced Security\n- Copilot /security-review: AI-based secret checks are coming soon in private preview for the Copilot CLI and app\n\nAI-detected secret alerts remain included in GitHub's security products at no extra charge; the new opt-in push-protection and security-review checks will consume GitHub AI Credits once enabled, and are off by default."
+      }
+    },
+    {
+      "id": "github-copilot-cli-local-ollama-models",
+      "date": "2026-10-07",
+      "type": "coding",
+      "importance": 1,
+      "sourceType": "official",
+      "sourceName": "GitHub Changelog",
+      "url": "https://github.blog/changelog/2026-10-07-discover-local-models-in-github-copilot-cli",
+      "originalTitle": "Discover local models in GitHub Copilot CLI",
+      "company": "GitHub",
+      "tool": "GitHub Copilot CLI",
+      "ar": {
+        "title": "GitHub Copilot CLI يكتشف نماذج Ollama المحلية",
+        "summary": "تضيف نسخة 1.0.94 من Copilot CLI قائمة اختيار عبر أمر /model تعرض نماذج من خادم Ollama محلي إلى جانب النماذج السحابية، دون تثبيت أي شيء تلقائياً.",
+        "details": "بدءاً من النسخة 1.0.94-0، يمكن لأمر /model في GitHub Copilot CLI اكتشاف نماذج يقدّمها خادم Ollama محلي، إلى جانب النماذج المهيأة مسبقاً والنماذج السحابية من GitHub Copilot.\n\nلا يضيف الاكتشاف نموذجاً تلقائياً: يختار المطوّر نموذجاً مكتشفاً، ويراجع مزوّده ونقطة نهايته، ثم يؤكد استخدامه للجلسة الحالية أو إضافته دون التبديل إليه، دون الحاجة لإعادة تشغيل الأداة. يجب أن يكون Ollama والنموذج المختار مثبتين مسبقاً؛ فالميزة لا تُثبّت بيئة تشغيل أو تُنزّل نماذج، ويجب أن تدعم النماذج استدعاء الأدوات والبث المباشر. تظهر أخطاء الاتصال بالمزوّد في قائمة الاختيار مع شرح للسبب.\n\nاختيار نموذج محلي لا يُفعّل وضع عدم الاتصال ولا يُعطّل تتبع GitHub؛ لا يزال وضع عدم الاتصال يتطلب ضبط COPILOT_OFFLINE=true، وحتى في هذا الوضع يمكن لمزوّدين بعيدين استقبال المطالبات عبر الشبكة. وتقول GitHub إن توجيهاً ذكياً بالنماذج المحلية قادم قريباً."
+      },
+      "en": {
+        "title": "GitHub Copilot CLI can now discover local Ollama models",
+        "summary": "Copilot CLI 1.0.94 adds a /model picker that lists models from a running local Ollama instance alongside cloud models, without auto-installing anything.",
+        "details": "Starting in version 1.0.94-0, GitHub Copilot CLI's /model command can discover models served by a local Ollama instance, alongside already-configured and cloud models from GitHub Copilot.\n\nDiscovery doesn't add a model automatically: a developer picks a discovered model, reviews its provider and endpoint, then confirms whether to use it for the current session or add it without switching, without restarting the CLI. Ollama and the chosen model must already be installed; the flow doesn't install a runtime or download models, and models must support tool calling and streaming. Provider connection failures show up in the picker with an explanation.\n\nChoosing a local model doesn't turn on offline mode or disable GitHub telemetry; offline mode still requires setting COPILOT_OFFLINE=true, and remote providers can still receive prompts over the network even then. GitHub says intelligent routing with local models is coming soon."
+      }
     }
   ],
   "upcoming": [],
