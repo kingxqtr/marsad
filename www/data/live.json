@@ -1,24 +1,24 @@
 {
- "updatedAt": "2026-10-07T13:07:30+00:00",
+ "updatedAt": "2026-10-07T13:28:40+00:00",
  "items": [
   {
-   "id": "auto-63d5af567d7c",
+   "id": "auto-f8aa2948cd5f",
    "tab": "ai",
    "date": "2026-10-07",
-   "publishedAt": "2026-10-07T12:45:31+00:00",
+   "publishedAt": "2026-10-07T13:21:03+00:00",
    "type": "product",
    "importance": 1,
    "sourceType": "official",
    "sourceName": "Hugging Face Blog",
-   "url": "https://huggingface.co/blog/nvidia/nemotron-ioi-and-imo-2026",
-   "originalTitle": "One Model Family, Two Gold-Level Results: Fine-Tuning Nemotron for IOI and IMO",
+   "url": "https://huggingface.co/blog/tiiuae/falcon-asr",
+   "originalTitle": "Introducing Falcon ASR",
    "en": {
-    "title": "One Model Family, Two Gold-Level Results: Fine-Tuning Nemotron for IOI and IMO",
-    "summary": "One Model Family, Two Gold-Level Results: Fine-Tuning Nemotron for IOI and IMO",
+    "title": "Introducing Falcon ASR",
+    "summary": "Introducing Falcon ASR",
     "details": ""
    },
    "translated": false,
-   "fetchedAt": "2026-10-07T12:49:32+00:00",
+   "fetchedAt": "2026-10-07T13:28:35+00:00",
    "company": "Hugging Face"
   }
  ]
