@@ -1,4 +1,24 @@
 {
- "updatedAt": "2026-10-07T21:15:04+00:00",
- "items": []
+ "updatedAt": "2026-10-07T21:33:46+00:00",
+ "items": [
+  {
+   "id": "auto-f6405b627ffd",
+   "tab": "star-citizen",
+   "date": "2026-10-07",
+   "publishedAt": "2026-10-07T21:33:41+00:00",
+   "type": "development",
+   "importance": 1,
+   "sourceType": "official",
+   "sourceName": "RSI Comm-Link",
+   "url": "https://robertsspaceindustries.com/comm-link/transmission/21373-Star-Citizen-Monthly-Report-September-2026",
+   "originalTitle": "Star Citizen Monthly Report: September 2026",
+   "en": {
+    "title": "Star Citizen Monthly Report: September 2026",
+    "summary": "Welcome to September’s PU Monthly Report, featuring the latest updates from all the various disciplines working on Star Citizen. Read on for all the news from AI Features and Tech, Ships, Community, Core Gameplay, and more.",
+    "details": "Welcome to September’s PU Monthly Report, featuring the latest updates from all the various disciplines working on Star Citizen. Read on for all the news from AI Features and Tech, Ships, Community, Core Gameplay, and more."
+   },
+   "translated": false,
+   "fetchedAt": "2026-10-07T21:33:41+00:00"
+  }
+ ]
 }
