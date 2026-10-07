@@ -1,4 +1,25 @@
 {
- "updatedAt": "2026-10-07T17:53:01+00:00",
- "items": []
+ "updatedAt": "2026-10-07T18:10:08+00:00",
+ "items": [
+  {
+   "id": "auto-3701091b0cf9",
+   "tab": "ai",
+   "date": "2026-10-07",
+   "publishedAt": "2026-10-07T16:13:56+00:00",
+   "type": "coding",
+   "importance": 1,
+   "sourceType": "official",
+   "sourceName": "GitHub Changelog",
+   "url": "https://github.blog/changelog/2026-10-07-purpose-built-model-for-leaked-secret-detection",
+   "originalTitle": "Purpose-built model for leaked secret detection",
+   "en": {
+    "title": "Purpose-built model for leaked secret detection",
+    "summary": "Secret protection should keep pace with the way you build software, whether you write code yourself or work with an AI agent.",
+    "details": "Secret protection should keep pace with the way you build software, whether you write code yourself or work with an AI agent. With our new purpose-built model, we’re bringing context-aware detection into more developer workflows to help you catch secrets before they’re exposed.\n\nWhat’s new\n\nToday, we’re sharing plans for AI secret detection across secret scanning alerts, push protection, and GitHub Copilot security reviews. These features leverage GitHub’s fine-tuned model for secret detection. It reads surrounding code to identify likely credentials, including passwords without a recognizable token format, without generating code or prose.\n\nModel availability:\n\n- Customers with AI-detected Password alerts have automatically been upgraded to the new model.\n\n- AI-detected secrets in push protection is available in private preview.\n\n- AI-based secret scanning with the GitHub Copilot /security-review command for the Copilot CLI and Copilot app available soon in private preview.\n\nBilling notice and availability\n\nAI-detected secret alerts will remain included in GHSP and GHAS at no additional charge. The new opt-in checks for push protection and the security review command will consume GitHub AI Credits.\n\nWe’re sharing their planned billing model ahead of broader availability so you can review access and spending before enabling them.\n\nThis notice applies to the following features: …"
+   },
+   "translated": false,
+   "fetchedAt": "2026-10-07T18:10:03+00:00",
+   "company": "GitHub"
+  }
+ ]
 }
