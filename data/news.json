@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": "2026-10-07T15:08:52+00:00",
+ "updatedAt": "2026-10-07T16:09:09+00:00",
  "coverage": {
   "from": "2026-07-07",
   "to": "2026-10-07"
@@ -1649,6 +1649,29 @@
       "details": "Google launched Playground on October 7, an experimental web-based platform where users describe game ideas in text prompts and the system builds them, without requiring coding skills.\n\nPlayers can customize physics, rules, characters and environments through the conversational interface, and some genres support multiplayer play and in-game leaderboards. A community gallery lets players browse games others have made, ranked by ratings and activity.\n\nThe platform is available only in the United States for users 18 and older, playable in a browser on phones and laptops at playground.google. Creation access is rolling out in tiers tied to a user's Google One membership level.\n\nGoogle says a future integration with Unity Spark will add professional-level game mechanics and high-fidelity 3D capabilities for more advanced creators."
      },
      "addedAt": "2026-10-07T12:11:42+00:00"
+    },
+    {
+     "id": "openai-chatgpt-teens-college-planner",
+     "date": "2026-10-07",
+     "type": "product",
+     "importance": 1,
+     "sourceType": "official",
+     "sourceName": "OpenAI News",
+     "url": "https://openai.com/index/teens-learn-and-plan",
+     "originalTitle": "Helping teens learn, plan, and shape the future of AI",
+     "company": "OpenAI",
+     "tool": "ChatGPT for Teens",
+     "ar": {
+      "title": "OpenAI تضيف مخطط القبول الجامعي إلى ChatGPT للمراهقين",
+      "summary": "أعلنت OpenAI عن ميزة College Planner المقبلة إلى ChatGPT للمراهقين لمساعدتهم في إدارة طلبات القبول الجامعي، إلى جانب بطاقات تعليمية واختبارات قصيرة ومجلس استشاري من المراهقين.",
+      "details": "أعلنت OpenAI عن مجموعة إضافات جديدة لنسخة ChatGPT الموجهة للمراهقين، أبرزها ميزة \"College Planner\" التي ستساعد الطلاب على تنظيم ومتابعة طلبات القبول الجامعي.\n\nتشمل الإضافات أيضاً أدوات تعليمية مثل البطاقات التعليمية (flashcards) والاختبارات القصيرة التفاعلية لمساعدة المراهقين على المراجعة والدراسة.\n\n- أسست OpenAI مجلساً استشارياً من المراهقين للمساهمة في توجيه تطوير ميزات الذكاء الاصطناعي الموجهة لهذه الفئة العمرية"
+     },
+     "en": {
+      "title": "OpenAI adds a College Planner feature to ChatGPT for Teens",
+      "summary": "OpenAI announced an upcoming College Planner feature for ChatGPT for Teens to help students manage college applications, alongside new flashcards, quizzes and a teen AI council.",
+      "details": "OpenAI announced a set of new additions to its ChatGPT for Teens product, headlined by a \"College Planner\" feature that will help students organize and track college applications.\n\nThe additions also include study tools such as flashcards and interactive quizzes to help teens review and study material.\n\n- OpenAI set up a teen advisory council to help guide the development of AI features aimed at this age group"
+     },
+     "addedAt": "2026-10-07T16:09:09+00:00"
     },
     {
      "id": "mistral-large-4-launch",

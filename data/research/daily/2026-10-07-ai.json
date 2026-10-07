@@ -111,6 +111,28 @@
         "summary": "NVIDIA trained Nemotron-3-Nano-CC and Nemotron-3-Ultra-CC to reach gold-medal level at the 2026 International Olympiad in Informatics and International Mathematical Olympiad, with the IOI score topping the best human competitor.",
         "details": "NVIDIA published results on Hugging Face on October 7 describing specialist fine-tuning of its Nemotron 3 model family to solve 2026 International Olympiad in Informatics (IOI) and International Mathematical Olympiad (IMO) problems, combining supervised fine-tuning, reinforcement learning and a generate-verify-refine inference approach.\n\nAt IOI, the Nemotron-3-Ultra-CC model (550B total parameters, 55B active) scored 535.4 out of 600, clearing the gold-medal threshold of 361.12 and surpassing the best human competitor's score of 498.27.\n\nAt IMO, the generate-verify-refine system scored 30 out of 42, above the official gold threshold of 29, earning full credit on four of the six problems.\n\n- The smaller Nemotron-3-Nano-CC model has 30B total parameters with 3B active\n- The work was carried out by a team of NVIDIA researchers"
       }
+    },
+    {
+      "id": "openai-chatgpt-teens-college-planner",
+      "date": "2026-10-07",
+      "type": "product",
+      "importance": 1,
+      "sourceType": "official",
+      "sourceName": "OpenAI News",
+      "url": "https://openai.com/index/teens-learn-and-plan",
+      "originalTitle": "Helping teens learn, plan, and shape the future of AI",
+      "company": "OpenAI",
+      "tool": "ChatGPT for Teens",
+      "ar": {
+        "title": "OpenAI تضيف مخطط القبول الجامعي إلى ChatGPT للمراهقين",
+        "summary": "أعلنت OpenAI عن ميزة College Planner المقبلة إلى ChatGPT للمراهقين لمساعدتهم في إدارة طلبات القبول الجامعي، إلى جانب بطاقات تعليمية واختبارات قصيرة ومجلس استشاري من المراهقين.",
+        "details": "أعلنت OpenAI عن مجموعة إضافات جديدة لنسخة ChatGPT الموجهة للمراهقين، أبرزها ميزة \"College Planner\" التي ستساعد الطلاب على تنظيم ومتابعة طلبات القبول الجامعي.\n\nتشمل الإضافات أيضاً أدوات تعليمية مثل البطاقات التعليمية (flashcards) والاختبارات القصيرة التفاعلية لمساعدة المراهقين على المراجعة والدراسة.\n\n- أسست OpenAI مجلساً استشارياً من المراهقين للمساهمة في توجيه تطوير ميزات الذكاء الاصطناعي الموجهة لهذه الفئة العمرية"
+      },
+      "en": {
+        "title": "OpenAI adds a College Planner feature to ChatGPT for Teens",
+        "summary": "OpenAI announced an upcoming College Planner feature for ChatGPT for Teens to help students manage college applications, alongside new flashcards, quizzes and a teen AI council.",
+        "details": "OpenAI announced a set of new additions to its ChatGPT for Teens product, headlined by a \"College Planner\" feature that will help students organize and track college applications.\n\nThe additions also include study tools such as flashcards and interactive quizzes to help teens review and study material.\n\n- OpenAI set up a teen advisory council to help guide the development of AI features aimed at this age group"
+      }
     }
   ],
   "upcoming": [],
