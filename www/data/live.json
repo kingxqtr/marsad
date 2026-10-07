@@ -1,4 +1,25 @@
 {
- "updatedAt": "2026-10-07T23:10:04+00:00",
- "items": []
+ "updatedAt": "2026-10-07T23:24:22+00:00",
+ "items": [
+  {
+   "id": "auto-9469585aebc3",
+   "tab": "ai",
+   "date": "2026-10-07",
+   "publishedAt": "2026-10-07T23:19:30+00:00",
+   "type": "coding",
+   "importance": 1,
+   "sourceType": "official",
+   "sourceName": "Meta Newsroom",
+   "url": "https://about.fb.com/news/2026/10/meta-data-centers-ai-approach/",
+   "originalTitle": "Why Data Centers Are Such a Big Part of Meta’s AI Approach",
+   "en": {
+    "title": "Why Data Centers Are Such a Big Part of Meta’s AI Approach",
+    "summary": "Developer and creator Tom Shaw sat down with Meta’s Head of Infrastructure, Santosh Janardhan, to talk about Meta’s approach to building infrastructure to power the future of AI.",
+    "details": "Developer and creator Tom Shaw sat down with Meta’s Head of Infrastructure, Santosh Janardhan, to talk about Meta’s approach to building infrastructure to power the future of AI.\n\nSantosh explained why Meta is more than just a software company, how AI is different from any other technology, and why data centers are essential for building AI.\n\nThey’ll cover questions like:\n\n- How does Meta power its AI infrastructure?\n\n- What is a gigawatt of energy?\n\n- How does Meta decide what kind of chips to use for their data centers?\n\n- Why is Meta so focused on AI right now?\n\n- What are the benefits of building your own data centers?\n\nand more.\n\nThe post Why Data Centers Are Such a Big Part of Meta’s AI Approach appeared first on Meta Newsroom ."
+   },
+   "translated": false,
+   "fetchedAt": "2026-10-07T23:24:17+00:00",
+   "company": "Meta"
+  }
+ ]
 }
