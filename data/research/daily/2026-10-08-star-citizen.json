@@ -1,0 +1,29 @@
+{
+  "topic": "star-citizen",
+  "generatedAt": "2026-10-08",
+  "news": [
+    {
+      "id": "sc-monthly-report-september-2026",
+      "date": "2026-10-07",
+      "type": "development",
+      "importance": 1,
+      "sourceType": "official",
+      "sourceName": "RSI Comm-Link (Monthly Report)",
+      "url": "https://robertsspaceindustries.com/comm-link/transmission/21373-Star-Citizen-Monthly-Report-September-2026",
+      "originalTitle": "Star Citizen Monthly Report: September 2026",
+      "ar": {
+        "title": "تقرير سبتمبر: RSI Galaxy تجتاز مراجعة greybox وLiberator تقترب من موعدها",
+        "summary": "أفاد تقرير CIG الشهري لسبتمبر بأن RSI Galaxy اجتازت مراجعة مرحلة greybox وانتقلت إلى LOD0، فيما اكتملت مرحلة greybox لـAnvil Liberator مع مراجعة بوابة متوقعة مطلع أكتوبر.",
+        "details": "تناول التقرير الشهري للكون المستمر عن سبتمبر 2026، المنشور في 7 أكتوبر، تقدم عدة سفن إلى جانب أعمال الذكاء الاصطناعي واللعب الأساسي.\n\n- RSI Galaxy: اجتازت مراجعة بوابة مرحلة greybox وانتقلت إلى العمل على LOD0\n- Anvil Liberator: اكتملت مرحلة greybox، مع مراجعة بوابة متوقعة مطلع أكتوبر واكتمال LOD0 المتوقع أواخر الشهر\n- Drake Kraken: استمر العمل على LOD0 لأنظمة النقل والمكونات الكبرى\n- مركبتان لم يُعلن عنهما اجتازتا المراجعة النهائية للإصدار مع تحديث Genesis، وبدأ العمل على خمسة مشاريع جديدة في المملكة المتحدة\n- أنهى فريق أمريكا الشمالية إنتاج سفينة جديدة بعد اختبارات داخلية وإصلاح أخطاء\n\nعلى صعيد اللعب الأساسي، اكتمل نظام Instancing وأُطلق رسميًا في Alpha 4.10 مع تحسين فحوصات الحواجز وإعادة الإحياء، وبدأ البحث في حظائر Instanced منفصلة. كما أعلن فريق المجتمع عن RSI Perseus بطلاً لمسابقة Ship Showdown 2956، وبدأ فريق التقنيات عبر الإنترنت إعادة بناء العميل (Client) باختيار حزمة تقنية جديدة ونموذج عملي أولي."
+      },
+      "en": {
+        "title": "September report: RSI Galaxy clears greybox, Liberator's gate review nears",
+        "summary": "CIG's September monthly report says the RSI Galaxy passed its greybox gate review and moved into LOD0, while the Anvil Liberator's greybox is complete ahead of an early-October gate review.",
+        "details": "Published on 7 October, the September 2026 PU Monthly Report covered ship progress alongside AI and core gameplay work.\n\n- RSI Galaxy: passed its greybox gate review and moved into LOD0 work\n- Anvil Liberator: greybox complete, with a gate review due in early October and LOD0 expected to finish later in the month\n- Drake Kraken: continued LOD0 work on transport systems and major components\n- Two unannounced vehicles passed final review for release alongside the Genesis update, and five new UK projects began\n- The North American team finished production on a new ship after internal testing and bug fixing\n\nOn core gameplay, the Instancing system was finalised and officially released in Alpha 4.10, with stronger barrier checks and better respawn handling, and research into separate Instanced Hangars has begun. The community team also announced the RSI Perseus as the Ship Showdown 2956 champion, while the Online Technology team began a client rebuild with a newly chosen tech stack and proof of concept."
+      }
+    }
+  ],
+  "upcoming": [],
+  "removeUpcoming": [],
+  "removeNews": []
+}
