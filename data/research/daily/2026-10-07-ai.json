@@ -67,6 +67,28 @@
         "summary": "Cursor launched a feature letting users view and reply to AI coding agents running on their computer from the Cursor iOS app, on by default for non-Enterprise users.",
         "details": "Cursor announced a \"Remote Control\" feature that lets users of its iOS app see the coding agents running locally on their computer and send them replies directly from their phone.\n\nComputers on a user's account appear automatically in the app after signing in; tapping a computer and approving the pairing request in the desktop app brings up a list of running agents. Users can also turn on an option that keeps the computer from sleeping while they're away, so remote sessions keep working.\n\n- The feature is on by default for everyone except Enterprise organizations, whose admins can enable it from security settings\n- Agents keep running on the same computer; the app only connects to them remotely rather than moving them to the cloud"
       }
+    },
+    {
+      "id": "google-playground-gaming-platform-launch",
+      "date": "2026-10-07",
+      "type": "product",
+      "importance": 2,
+      "sourceType": "official",
+      "sourceName": "Google Blog",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform/",
+      "originalTitle": "Introducing Playground: Create and play custom games",
+      "company": "Google",
+      "tool": "Playground",
+      "ar": {
+        "title": "غوغل تطلق Playground منصة لإنشاء الألعاب بالذكاء الاصطناعي",
+        "summary": "أطلقت غوغل منصة Playground التجريبية التي تتيح لمستخدمين بالغين في الولايات المتحدة وصف الألعاب بنص محادثة لإنشائها ولعبها ومشاركتها، مع دعم اللعب الجماعي ولوحات الصدارة في بعض الأنواع.",
+        "details": "أطلقت غوغل في 7 أكتوبر منصة Playground، وهي منصة ويب تجريبية تتيح للمستخدمين وصف أفكار الألعاب بنص محادثة ليقوم النظام ببنائها دون حاجة لمهارات برمجة.\n\nيمكن للاعبين تخصيص الفيزياء والقواعد والشخصيات والبيئات عبر الواجهة المحادثة، ويدعم بعض الأنواع اللعب الجماعي ولوحات صدارة داخل اللعبة. وتضم المنصة معرضاً مجتمعياً يتيح تصفح ألعاب صنعها لاعبون آخرون، مرتبة حسب التقييمات والنشاط.\n\nتتوفر المنصة حالياً فقط في الولايات المتحدة لمستخدمين بعمر 18 عاماً فأكثر، ويمكن الوصول إليها عبر المتصفح على الهاتف أو الحاسوب المحمول من خلال playground.google، مع إطلاق تدريجي لصلاحيات الإنشاء مرتبط بمستوى عضوية Google One للمستخدم.\n\nوأوضحت غوغل أن تكاملاً مستقبلياً مع Unity Spark سيضيف آليات لعب بمستوى محترف وقدرات رسوم ثلاثية الأبعاد عالية الدقة للمبدعين الأكثر تقدماً."
+      },
+      "en": {
+        "title": "Google launches Playground, an AI gaming platform for custom games",
+        "summary": "Google launched Playground, an experimental web platform where US adults can describe games in text prompts to create, play and share them, with multiplayer and leaderboards in some genres.",
+        "details": "Google launched Playground on October 7, an experimental web-based platform where users describe game ideas in text prompts and the system builds them, without requiring coding skills.\n\nPlayers can customize physics, rules, characters and environments through the conversational interface, and some genres support multiplayer play and in-game leaderboards. A community gallery lets players browse games others have made, ranked by ratings and activity.\n\nThe platform is available only in the United States for users 18 and older, playable in a browser on phones and laptops at playground.google. Creation access is rolling out in tiers tied to a user's Google One membership level.\n\nGoogle says a future integration with Unity Spark will add professional-level game mechanics and high-fidelity 3D capabilities for more advanced creators."
+      }
     }
   ],
   "upcoming": [],

@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": "2026-10-07T11:09:46+00:00",
+ "updatedAt": "2026-10-07T12:11:42+00:00",
  "coverage": {
   "from": "2026-07-07",
   "to": "2026-10-07"
@@ -1604,6 +1604,29 @@
   },
   "ai": {
    "news": [
+    {
+     "id": "google-playground-gaming-platform-launch",
+     "date": "2026-10-07",
+     "type": "product",
+     "importance": 2,
+     "sourceType": "official",
+     "sourceName": "Google Blog",
+     "url": "https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform/",
+     "originalTitle": "Introducing Playground: Create and play custom games",
+     "company": "Google",
+     "tool": "Playground",
+     "ar": {
+      "title": "غوغل تطلق Playground منصة لإنشاء الألعاب بالذكاء الاصطناعي",
+      "summary": "أطلقت غوغل منصة Playground التجريبية التي تتيح لمستخدمين بالغين في الولايات المتحدة وصف الألعاب بنص محادثة لإنشائها ولعبها ومشاركتها، مع دعم اللعب الجماعي ولوحات الصدارة في بعض الأنواع.",
+      "details": "أطلقت غوغل في 7 أكتوبر منصة Playground، وهي منصة ويب تجريبية تتيح للمستخدمين وصف أفكار الألعاب بنص محادثة ليقوم النظام ببنائها دون حاجة لمهارات برمجة.\n\nيمكن للاعبين تخصيص الفيزياء والقواعد والشخصيات والبيئات عبر الواجهة المحادثة، ويدعم بعض الأنواع اللعب الجماعي ولوحات صدارة داخل اللعبة. وتضم المنصة معرضاً مجتمعياً يتيح تصفح ألعاب صنعها لاعبون آخرون، مرتبة حسب التقييمات والنشاط.\n\nتتوفر المنصة حالياً فقط في الولايات المتحدة لمستخدمين بعمر 18 عاماً فأكثر، ويمكن الوصول إليها عبر المتصفح على الهاتف أو الحاسوب المحمول من خلال playground.google، مع إطلاق تدريجي لصلاحيات الإنشاء مرتبط بمستوى عضوية Google One للمستخدم.\n\nوأوضحت غوغل أن تكاملاً مستقبلياً مع Unity Spark سيضيف آليات لعب بمستوى محترف وقدرات رسوم ثلاثية الأبعاد عالية الدقة للمبدعين الأكثر تقدماً."
+     },
+     "en": {
+      "title": "Google launches Playground, an AI gaming platform for custom games",
+      "summary": "Google launched Playground, an experimental web platform where US adults can describe games in text prompts to create, play and share them, with multiplayer and leaderboards in some genres.",
+      "details": "Google launched Playground on October 7, an experimental web-based platform where users describe game ideas in text prompts and the system builds them, without requiring coding skills.\n\nPlayers can customize physics, rules, characters and environments through the conversational interface, and some genres support multiplayer play and in-game leaderboards. A community gallery lets players browse games others have made, ranked by ratings and activity.\n\nThe platform is available only in the United States for users 18 and older, playable in a browser on phones and laptops at playground.google. Creation access is rolling out in tiers tied to a user's Google One membership level.\n\nGoogle says a future integration with Unity Spark will add professional-level game mechanics and high-fidelity 3D capabilities for more advanced creators."
+     },
+     "addedAt": "2026-10-07T12:11:42+00:00"
+    },
     {
      "id": "mistral-large-4-launch",
      "date": "2026-10-06",
