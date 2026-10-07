@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": "2026-10-07T20:09:44+00:00",
+ "updatedAt": "2026-10-07T21:11:47+00:00",
  "coverage": {
   "from": "2026-07-07",
   "to": "2026-10-07"
@@ -1628,6 +1628,29 @@
      "addedAt": "2026-10-07T19:13:13+00:00"
     },
     {
+     "id": "anthropic-claude-haiku-5-5-release",
+     "date": "2026-10-07",
+     "type": "model",
+     "importance": 3,
+     "sourceType": "official",
+     "sourceName": "Anthropic",
+     "url": "https://www.anthropic.com/claude-haiku-5-5",
+     "originalTitle": "Introducing Claude Haiku 5.5",
+     "company": "Anthropic",
+     "tool": "Claude Haiku 5.5",
+     "ar": {
+      "title": "Anthropic تطلق Claude Haiku 5.5 لإكمال عائلة Claude 5.5",
+      "summary": "أطلقت Anthropic في 7 أكتوبر نموذج Claude Haiku 5.5 ليكمل عائلة Claude 5.5، مع قفزات كبيرة في الأداء وأسعار أقل بنحو 75% من Haiku 4.5.",
+      "details": "أطلقت Anthropic في 7 أكتوبر نموذج Claude Haiku 5.5 ليكمل عائلة Claude 5.5 إلى جانب Opus 5.5 وSonnet 5.5. وتصفه الشركة بأنه أسرع وأرخص وأقدر نموذج صغير أصدرته حتى الآن، وهو موجّه للمهام عالية الحجم مثل التلخيص والتصنيف واستعلامات قواعد البيانات، ومصمم للعمل كنموذج مساعد إلى جانب نموذجي Opus وSonnet الأكبر.\n\nوبحسب اختبارات Anthropic الداخلية، يحقق Haiku 5.5 قفزات كبيرة مقارنة بـ Haiku 4.5: من صفر إلى 39.2% في اختبار Terminal-Bench 4.0، ومن 15.7% إلى 72.4% في اختبار استخدام الحاسوب OSWorld. كما أنه أول نموذج من فئة Haiku يتيح ضبط مستوى «الجهد» للموازنة بين التكلفة والذكاء.\n\nوتنخفض أسعاره بنحو 75% في المتوسط مقارنة بـ Haiku 4.5، لتصل إلى 0.10 دولار لكل مليون رمز إدخال و0.50 دولار لكل مليون رمز إخراج للطلبات حتى 100 ألف رمز. والنموذج متاح الآن عبر تطبيقات Claude وواجهة برمجة التطبيقات، وكذلك AWS وGoogle Cloud وMicrosoft Azure تحت المعرف claude-haiku-5-5."
+     },
+     "en": {
+      "title": "Anthropic releases Claude Haiku 5.5, its fastest and cheapest small model yet",
+      "summary": "Anthropic launched Claude Haiku 5.5 on October 7, completing the Claude 5.5 lineup with big benchmark gains and prices cut roughly 75% from Haiku 4.5.",
+      "details": "Anthropic released Claude Haiku 5.5 on October 7, completing the Claude 5.5 family alongside Opus 5.5 and Sonnet 5.5. The company calls it the fastest, cheapest and most capable small model it has built, aimed at high-volume work such as summarization, classification and database queries, and designed to work as a subagent alongside the larger 5.5 models.\n\nOn Anthropic's own benchmarks, Haiku 5.5 scores far above Haiku 4.5: Terminal-Bench 4.0 jumps from 0% to 39.2%, and OSWorld computer-use results rise from 15.7% to 72.4%. It is also the first Haiku model with an adjustable effort setting that trades cost for intelligence.\n\nPricing drops roughly 75% on average versus Haiku 4.5, to $0.10 per million input tokens and $0.50 per million output tokens for prompts up to 100,000 tokens. The model is available now through the Claude apps, the Claude API and AWS, Google Cloud and Microsoft Azure under the ID claude-haiku-5-5."
+     },
+     "addedAt": "2026-10-07T21:11:47+00:00"
+    },
+    {
      "id": "nvidia-microsoft-rtx-spark-windows-event",
      "date": "2026-10-07",
      "type": "hardware",
@@ -1810,6 +1833,29 @@
       "details": "Liquid AI announced on October 7 two new open-weight \"decision models\" that answer structured questions (yes/no, multiple choice, or scoring) in a single forward pass rather than generating tokens one by one like a typical language model.\n\nThe first, d1-3B, has 3 billion parameters and handles text and image inputs, scoring about 82.9 on benchmark tests, ahead of the larger Decider 4B model. It also reaches sub-50ms inference on edge devices, down to 16ms on an NVIDIA Jetson AGX Thor.\n\nThe second, d1-omni-600M, is an experimental 600-million-parameter model handling text with images or text with audio, and reportedly outperforms models four times its size.\n\n- Both models are open-weight on Hugging Face under the LiquidAI organization\n- A live demo is available through the \"System One Arcade\" Hugging Face Space"
      },
      "addedAt": "2026-10-07T17:11:26+00:00"
+    },
+    {
+     "id": "github-copilot-claude-haiku-5-5-ga",
+     "date": "2026-10-07",
+     "type": "coding",
+     "importance": 1,
+     "sourceType": "official",
+     "sourceName": "GitHub Changelog",
+     "url": "https://github.blog/changelog/2026-10-07-claude-haiku-5-5-in-github-copilot",
+     "originalTitle": "Claude Haiku 5.5 in GitHub Copilot",
+     "company": "GitHub",
+     "tool": "Claude Haiku 5.5",
+     "ar": {
+      "title": "GitHub Copilot يتيح Claude Haiku 5.5 بشكل عام",
+      "summary": "أتاحت GitHub نموذج Claude Haiku 5.5 من Anthropic بشكل عام في Copilot، وتقول إن اختباراتها الأولية أظهرت أداءً يطابق Sonnet 5 في مهام برمجية كثيرة برموز أقل بكثير.",
+      "details": "أعلنت GitHub في 7 أكتوبر إتاحة نموذج Claude Haiku 5.5، أحدث النماذج المدمجة من Anthropic، بشكل عام داخل GitHub Copilot، ووصفته بأنه مخصص للمهام السريعة وعالية الحجم مثل مهام النماذج المساعدة والتعديلات الصغيرة وأوامر الطرفية.\n\nوقالت GitHub إن اختباراتها الأولية أظهرت أن أداء Haiku 5.5 يطابق أداء Claude Sonnet 5 في كثير من المهام البرمجية، باستخدام رموز وخطوات أقل بكثير.\n\n- يتاح لمشتركي خطط Copilot Pro وPro+ وMax وBusiness وEnterprise عبر VS Code وVisual Studio وJetBrains وXcode وCopilot CLI وغيرها، مع طرح تدريجي\n- يمكن لمسؤولي خطط Business وEnterprise التحكم في إتاحته عبر سياسة النماذج\n- يُحتسب استخدامه ضمن الفوترة القائمة على الاستهلاك بأسعار المزوّد المعلنة"
+     },
+     "en": {
+      "title": "GitHub Copilot makes Claude Haiku 5.5 generally available",
+      "summary": "GitHub rolled out Anthropic's Claude Haiku 5.5 to general availability in Copilot, saying early tests matched Sonnet 5 on many coding tasks using far fewer tokens.",
+      "details": "GitHub announced on October 7 that Claude Haiku 5.5, Anthropic's newest compact model, is now generally available in GitHub Copilot, built for fast, high-volume work such as subagent tasks, small edits and terminal commands.\n\nGitHub said early testing showed Haiku 5.5 matching Claude Sonnet 5's performance on many coding tasks while using significantly fewer tokens and steps.\n\n- Available to Copilot Pro, Pro+, Max, Business and Enterprise plans across VS Code, Visual Studio, JetBrains IDEs, Xcode, the Copilot CLI and more, rolling out gradually\n- Business and Enterprise admins can manage access through Copilot's model policy\n- Usage is billed under usage-based billing at provider list pricing"
+     },
+     "addedAt": "2026-10-07T21:11:47+00:00"
     },
     {
      "id": "openai-chatgpt-teens-college-planner",
@@ -4929,32 +4975,6 @@
       "dateNote": "Apple only said 'next month' (October 2026); October 15 is an estimate, not an announced date."
      },
      "addedAt": "2026-09-27T13:25:38+00:00"
-    },
-    {
-     "id": "anthropic-claude-haiku-5-5",
-     "date": "2026-10-15",
-     "type": "release",
-     "importance": 1,
-     "sourceType": "official",
-     "sourceName": "Anthropic",
-     "url": "https://www.anthropic.com/claude-sonnet-5-5",
-     "originalTitle": "",
-     "company": "Anthropic",
-     "tool": "Claude Haiku 5.5",
-     "dateConfidence": "expected",
-     "ar": {
-      "title": "Claude Haiku 5.5 مرتقب لاستكمال عائلة Claude 5.5",
-      "summary": "قالت Anthropic إن Claude Haiku 5.5 سيلحق بـ Sonnet 5.5 خلال الأسابيع المقبلة، ليكتمل بذلك تحديث عائلة Claude 5.5.",
-      "details": "قالت Anthropic في إعلانها عن Claude Sonnet 5.5 يوم 28 سبتمبر إن Claude Haiku 5.5 سينضم إلى عائلة Claude 5.5 خلال الأسابيع المقبلة، عقب إطلاق Sonnet 5.5 في اليوم نفسه وإطلاق Opus 5.5 في 22 سبتمبر.\n\nويمثل Haiku الفئة الأسرع والأقل تكلفة لدى Anthropic، لذا يهم هذا التحديث بشكل خاص المطورين والمنتجات التي تعتمد على طلبات كثيفة وسريعة الاستجابة.\n\nولم تنشر Anthropic بعد أسعار Haiku 5.5 أو نتائج اختباراته أو موعد إطلاقه الدقيق.\n\nالتاريخ المذكور تقديري استناداً إلى عبارة «الأسابيع المقبلة».",
-      "dateNote": "قالت Anthropic «خلال الأسابيع المقبلة» في 28 سبتمبر؛ تاريخ 15 أكتوبر تقديري."
-     },
-     "en": {
-      "title": "Claude Haiku 5.5 due to complete the Claude 5.5 lineup",
-      "summary": "Anthropic says Claude Haiku 5.5 will follow Sonnet 5.5 in the coming weeks, rounding out its refreshed Claude 5.5 model family.",
-      "details": "In its September 28 announcement of Claude Sonnet 5.5, Anthropic said Claude Haiku 5.5 would join the Claude 5.5 family in the coming weeks, following the same-day release of Sonnet 5.5 and the September 22 launch of Opus 5.5.\n\nHaiku is Anthropic's fastest, lowest-cost model tier, so the update matters most to developers and products that rely on high-volume, latency-sensitive requests.\n\nAnthropic has not yet published pricing, benchmark results or an exact launch date for Haiku 5.5.\n\nThe date shown is an estimate based on the \"coming weeks\" wording.",
-      "dateNote": "Anthropic said 'in the coming weeks' on September 28; October 15 is an estimate."
-     },
-     "addedAt": "2026-09-30T11:18:46+00:00"
     },
     {
      "id": "nvidia-gtc-berlin-2026",
