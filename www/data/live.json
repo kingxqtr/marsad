@@ -1,6 +1,26 @@
 {
- "updatedAt": "2026-10-08T14:47:12+00:00",
+ "updatedAt": "2026-10-08T15:03:15+00:00",
  "items": [
+  {
+   "id": "auto-5937b1363907",
+   "tab": "ai",
+   "date": "2026-10-08",
+   "publishedAt": "2026-10-08T00:00:00+00:00",
+   "type": "product",
+   "importance": 1,
+   "sourceType": "official",
+   "sourceName": "Anthropic Newsroom",
+   "url": "https://www.anthropic.com/news/genesis-mission-commitment",
+   "originalTitle": "Building on our commitment to American scientific discovery",
+   "en": {
+    "title": "Building on our commitment to American scientific discovery",
+    "summary": "Building on our commitment to American scientific discovery",
+    "details": ""
+   },
+   "translated": false,
+   "fetchedAt": "2026-10-08T15:03:09+00:00",
+   "company": "Anthropic"
+  },
   {
    "id": "auto-0b76b152e20b",
    "tab": "ai",
