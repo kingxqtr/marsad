@@ -87,6 +87,48 @@
         "summary": "OpenAI said it detected and shut down two influence operations that used fake journalist personas and a fabricated think tank to spread geopolitical messaging online.",
         "details": "OpenAI said on October 8 that it had identified and disrupted two coordinated influence operations that used its AI tools to generate content and personas for \"false fronts,\" including invented journalist identities and a fabricated think tank, in order to spread geopolitically themed messaging across the web and social media.\n\nThe company said it relies on its own models and internal investigation teams to detect such networks and disable the accounts behind them, as part of periodic reports it publishes on the misuse of its AI tools for influence and deception campaigns.\n\nOpenAI did not disclose how widely the two operations had spread or what real-world reach they achieved, but said it continues to develop detection methods to guard against this kind of abuse on its platforms."
       }
+    },
+    {
+      "id": "anthropic-2026-usage-policy-update",
+      "date": "2026-10-08",
+      "type": "policy",
+      "importance": 2,
+      "sourceType": "official",
+      "sourceName": "Anthropic Newsroom",
+      "url": "https://www.anthropic.com/news/2026-usage-policy-update",
+      "originalTitle": "2026 Usage Policy update",
+      "company": "Anthropic",
+      "ar": {
+        "title": "Anthropic تحدّث سياسة الاستخدام لعام 2026 قبل دخولها حيز التنفيذ في نوفمبر",
+        "summary": "نشرت Anthropic في 8 أكتوبر تحديثاً لسياسة الاستخدام يدخل حيز التنفيذ في 12 نوفمبر، يوضح قواعد قائمة أكثر مما يضيف قيوداً جديدة، ويغطي الخداع والمراقبة والأسلحة والتعامل مع Claude.",
+        "details": "نشرت Anthropic في 8 أكتوبر تحديثاً لسياسة الاستخدام الخاصة بها يدخل حيز التنفيذ في 12 نوفمبر 2026، وقالت إن معظم التغييرات توضيحية لقواعد قائمة أكثر من كونها قيوداً جديدة، وتأخذ في الحسبان قدرات أحدث مثل عمل Claude لفترات أطول وبشكل أكثر استقلالية.\n\n- دمج قواعد الخداع السياسي والتجاري (حسابات وهمية، مواقع إخبارية مزيفة) في قسم واحد\n- تضييق قسم الانتخابات ليركز على خداع الناخبين وتعطيل العمليات الانتخابية، مع إزالة الحظر الشامل على الاستهداف الشخصي للحملات\n- توضيح حظر الأسلحة ليشمل برمجياتها ومكوناتها وتسليح الطائرات المسيّرة والمركبات المستقلة\n- إعادة كتابة قسم المراقبة وإنفاذ القانون، مع تحديد الاستخدامات المسموحة كمراقبة الاحتيال والإشراف على المحتوى والصحافة والبحث القانوني\n- قواعد أوضح لحالات الاستخدام عالية المخاطر تشترط إشرافاً بشرياً مؤهلاً وإخطار المتأثرين، ومتطلبات جديدة عند تحكم Claude بمعدات مادية قابلة للإيقاف الآمن\n- حظر جديد للقسوة المستمرة وغير المبررة تجاه Claude، مع استثناء الإحباط العادي والاختبار\n- توضيح كيفية تطبيق قيود «المناطق المدعومة» على الأفراد والجهات في مناطق غير مدعومة"
+      },
+      "en": {
+        "title": "Anthropic updates its 2026 Usage Policy ahead of a November effective date",
+        "summary": "Anthropic published a Usage Policy update on October 8, taking effect November 12, mostly clarifying rules on deception, surveillance, weapons, high-risk use and treatment of Claude rather than adding new restrictions.",
+        "details": "Anthropic published an update to its Usage Policy on October 8, 2026, taking effect November 12, 2026. The company said most changes clarify existing rules rather than add new restrictions, reflecting newer capabilities such as Claude doing longer, more independent work.\n\n- Deceptive political and commercial activity (fake account networks, fabricated news sites) is consolidated into one section\n- The elections section is narrowed to focus on deceiving voters or disrupting elections, removing the blanket ban on personalized campaign targeting\n- Weapons prohibitions are clarified to explicitly cover weapons-related software and components, and arming drones or autonomous vehicles\n- The surveillance and law enforcement section is rewritten, spelling out permitted uses such as fraud monitoring, content moderation, journalism and legal research\n- Clearer rules on high-risk use cases require a qualified human in the loop and notice to affected individuals, plus new requirements when Claude controls physical hardware that must be stoppable\n- A new prohibition covers sustained, purposeless cruelty toward Claude, excluding ordinary frustration or testing\n- The Supported Regions page now clarifies how restrictions apply to users and entities in unsupported regions"
+      }
+    },
+    {
+      "id": "crowdstrike-artex-south-korea-finance",
+      "date": "2026-10-07",
+      "type": "policy",
+      "importance": 2,
+      "sourceType": "official",
+      "sourceName": "CrowdStrike Blog",
+      "url": "https://www.crowdstrike.com/en-us/blog/unknown-threat-actor-uses-artex-to-target-south-korean-finance/",
+      "originalTitle": "Unknown Threat Actor Uses ARTEX to Target South Korean Finance",
+      "company": "CrowdStrike",
+      "ar": {
+        "title": "CrowdStrike: جهة تهديد مجهولة استخدمت Claude Code ونماذج أخرى في اختراق بنوك كورية جنوبية",
+        "summary": "قالت CrowdStrike إن جهة تهديد مجهولة استهدفت مؤسسات مالية كورية جنوبية بين أواخر سبتمبر ومطلع أكتوبر باستخدام أداة اختراق مفتوحة المصدر تدعى ARTEX، مستعينة بنماذج منها DeepSeek وGLM وGrok وجلسات Claude Code.",
+        "details": "نشرت شركة الأمن السيبراني CrowdStrike في 7 أكتوبر تقريراً عن جهة تهديد مجهولة استهدفت مؤسسات مالية في كوريا الجنوبية بين أواخر سبتمبر ومطلع أكتوبر 2026، وسربت بيانات منها، باستخدام أداة اختبار اختراق آلية مفتوحة المصدر تطورت في الصين تُدعى ARTEX.\n\nبحسب الشركة، اعتمدت الأداة بشكل أساسي على نموذج DeepSeek v4.1-flash، مع استخدام GLM-5.3 من Zhipu AI وGrok 4.6 في جلسات إضافية عبر Claude Code. وعثرت CrowdStrike على سجلات جلسات مفتوحة للمهاجم تضمنت استعانته بـClaude للمساعدة في مهام مرتبطة بالهجوم، من بينها البحث عن مجموعات بيع بيانات كورية على تيليغرام.\n\nولم تكشف الشركة عن أسماء المؤسسات المتضررة، لكن تقارير متداولة أشارت إلى اختراق خدمة استعلام قروض لدى أحد البنوك ونظام دعم عمل للموظفين لدى بنك آخر. وتقيّم CrowdStrike بثقة متوسطة أن الجهة المهاجمة ذات دوافع مالية ويُحتمل أنها ناطقة بالصينية، دون ربطها بجهة معروفة سابقاً."
+      },
+      "en": {
+        "title": "CrowdStrike: threat actor used Claude Code and other AI models to breach Korean banks",
+        "summary": "CrowdStrike said an unnamed threat actor breached South Korean financial firms in late September and early October using an open-source tool called ARTEX, backed by models including DeepSeek, GLM, Grok and Claude Code sessions.",
+        "details": "Cybersecurity firm CrowdStrike published a report on October 7 describing an unnamed threat actor that breached and exfiltrated data from South Korean financial organizations between late September and early October 2026, using an open-source agentic penetration-testing tool called ARTEX, developed in China.\n\nThe firm said the tool's primary backend was DeepSeek v4.1-flash, with GLM-5.3 from Zhipu AI and Grok 4.6 used in additional sessions run through Claude Code. CrowdStrike found open session logs showing the actor had asked Claude for help with attack-related tasks, including finding Korean data-sales groups on Telegram.\n\nThe company did not name the affected organizations, though separate reporting pointed to a breach of one bank's loan-inquiry service for brokers and another bank's employee work-support system. CrowdStrike assesses with moderate confidence that the actor is financially motivated and likely Chinese-speaking, without linking it to a previously known group."
+      }
     }
   ],
   "upcoming": [],
