@@ -1,6 +1,45 @@
 {
- "updatedAt": "2026-10-08T20:55:59+00:00",
+ "updatedAt": "2026-10-08T21:10:02+00:00",
  "items": [
+  {
+   "id": "auto-6a1c6caede61",
+   "tab": "star-citizen",
+   "date": "2026-10-08",
+   "publishedAt": "2026-10-08T15:22:43+00:00",
+   "type": "community",
+   "importance": 1,
+   "sourceType": "community",
+   "sourceName": "r/starcitizen",
+   "url": "https://www.reddit.com/r/starcitizen/comments/1x0trw0/in_less_than_24_hours_the_squadron_42_playtest/",
+   "originalTitle": "In less than 24 hours, the Squadron 42 playtest will take place, the most important event in these 15 years of development so far, the first time people outside of CIG will get to play the game. What are your expectations?",
+   "en": {
+    "title": "In less than 24 hours, the Squadron 42 playtest will take place, the most important event in these 15 years of development so far, the first time people outside of CIG will get to play the game. What are your expectations?",
+    "summary": "Community post on r/starcitizen. Edit: More people are uninformed about the nature of the NDA than I thought, it simply concerns sharing images ,attendees are free to talk about everything they experienced.",
+    "details": "Community post on r/starcitizen.\n\nEdit: More people are uninformed about the nature of the NDA than I thought, it simply concerns sharing images ,attendees are free to talk about everything they experienced. ---> Post about the NDA\n\nI have the feeling that the community doesn't realize how important this event is. This is the first time that people independent from CIG will be able to play Squadron 42. We should expect 5 hours of extremely polished gameplay specifically for the occasion. They simply wouldn't allow themselves to do such a long test with so many people ( I believe around 100 people according to the rumors) if their product wasn't ready. Despite the slowness and the certain disappointment that can come with CIG's ability to deliver, I think this time they are genuinely confident about this event, especially by allowing the invited people to speak freely.\n\nTo get to the main topic\n\nIn terms of what I'm looking forward to, in the sense that I have absolutely no idea what it could be like but that it has a lot of potential, there is on one hand all the particular mechanics of Star Citizen that could be adapted to Squadron 42, the freedom of movement in missions that would lend themselves to it, the new mechanics that are planned to arrive in the PU like Maelstrom, QT boost, FPS scanning. …"
+   },
+   "translated": false,
+   "fetchedAt": "2026-10-08T21:10:00+00:00"
+  },
+  {
+   "id": "auto-6d3d1f13fbcd",
+   "tab": "ai",
+   "date": "2026-10-08",
+   "publishedAt": "2026-10-08T21:06:35+00:00",
+   "type": "business",
+   "importance": 1,
+   "sourceType": "official",
+   "sourceName": "NVIDIA Blog",
+   "url": "https://blogs.nvidia.com/blog/developers-simulations-frontier-ai-agents/",
+   "originalTitle": "Into the Omniverse: How Developers Turn Ideas Into Simulations With Frontier AI Agents",
+   "en": {
+    "title": "Into the Omniverse: How Developers Turn Ideas Into Simulations With Frontier AI Agents",
+    "summary": "Turning a simulation idea into a working application means assembling assets, connecting physics and rendering, and checking that the scene behaves as intended.",
+    "details": "Turning a simulation idea into a working application means assembling assets, connecting physics and rendering, and checking that the scene behaves as intended. Developers are combining frontier AI models with NVIDIA Omniverse libraries to help carry out that work — building applications for exploring scenarios, investigating failures and improving designs.\n\nDevelopers direct AI agents through natural-language instructions, review results and guide changes. Omniverse libraries provide GPU-accelerated physics, rendering and sensor simulation capabilities.\n\nExplore the projects below to see frontier AI models such as GPT-6 Astra at work, and check back for new examples from NVIDIA teams and developers across the ecosystem.\n\nBuild a Humanoid Simulator for a Warehouse Environment\n\nhttps://blogs.nvidia.com/wp-content/uploads/2026/10/Humanoid-Warehouse.mp4\n\nExplore a gamified, physics-based control of a humanoid robot in first- and third-person view.\n\nBefore automating warehouse tasks, developers need an interactive simulation environment to explore task behavior and evaluate how the work gets done. Frank DeLise, Omniverse product manager at NVIDIA, used Astra to turn a SimReady warehouse and humanoid robot into an interactive simulator with first- and third-person views. …"
+   },
+   "translated": false,
+   "fetchedAt": "2026-10-08T21:09:57+00:00",
+   "company": "NVIDIA"
+  },
   {
    "id": "auto-63f97b5df9a4",
    "tab": "ai",
@@ -14,8 +53,8 @@
    "originalTitle": "OpenAI annualised revenues $20B less than previously signalled",
    "en": {
     "title": "OpenAI annualised revenues $20B less than previously signalled",
-    "summary": "Community discussion on Hacker News (298 points, 184 comments).",
-    "details": "Community discussion on Hacker News (298 points, 184 comments)."
+    "summary": "Community discussion on Hacker News (305 points, 190 comments).",
+    "details": "Community discussion on Hacker News (305 points, 190 comments)."
    },
    "translated": false,
    "fetchedAt": "2026-10-08T20:19:53+00:00"
