@@ -45,6 +45,27 @@
         "summary": "GitHub rolled out Anthropic's Claude Haiku 5.5 to general availability in Copilot, saying early tests matched Sonnet 5 on many coding tasks using far fewer tokens.",
         "details": "GitHub announced on October 7 that Claude Haiku 5.5, Anthropic's newest compact model, is now generally available in GitHub Copilot, built for fast, high-volume work such as subagent tasks, small edits and terminal commands.\n\nGitHub said early testing showed Haiku 5.5 matching Claude Sonnet 5's performance on many coding tasks while using significantly fewer tokens and steps.\n\n- Available to Copilot Pro, Pro+, Max, Business and Enterprise plans across VS Code, Visual Studio, JetBrains IDEs, Xcode, the Copilot CLI and more, rolling out gradually\n- Business and Enterprise admins can manage access through Copilot's model policy\n- Usage is billed under usage-based billing at provider list pricing"
       }
+    },
+    {
+      "id": "anthropic-genesis-mission-commitment",
+      "date": "2026-10-08",
+      "type": "business",
+      "importance": 2,
+      "sourceType": "official",
+      "sourceName": "Anthropic Newsroom",
+      "url": "https://www.anthropic.com/news/genesis-mission-commitment",
+      "originalTitle": "Building on our commitment to American scientific discovery",
+      "company": "Anthropic",
+      "ar": {
+        "title": "Anthropic تلتزم بـ150 مليون دولار لمهمة Genesis الفيدرالية الأمريكية",
+        "summary": "أعلنت Anthropic التزاماً بـ150 مليون دولار على ثلاث سنوات لدعم مبادرة Genesis Mission الفيدرالية، لإتاحة Claude لأكثر من 15 جهة حكومية أمريكية من بينها ناسا.",
+        "details": "أعلنت Anthropic في 8 أكتوبر، خلال قمة استضافها مكتب السياسات العلمية والتقنية بالبيت الأبيض، التزاماً بتقديم 150 مليون دولار على مدى ثلاث سنوات لدعم «مهمة Genesis»، وهي مبادرة فيدرالية أمريكية لتسريع الاكتشاف العلمي والتقني عبر الذكاء الاصطناعي.\n\nبموجب الالتزام، ستتيح الشركة Claude وClaude Code وأرصدة من واجهة برمجة التطبيقات لمئات المشاريع البحثية ضمن المبادرة، وذلك لأكثر من 15 جهة مشارِكة من بينها وكالة ناسا والمعاهد الوطنية للصحة ومؤسسة العلوم الوطنية.\n\n- ستتعاون Anthropic مع الوكالات والمختبرات الوطنية في أولويات مثل طاقة الاندماج النووي والحوسبة الكمّية\n- ستقدّم تدريباً ودعماً فنياً للباحثين، وتساعد الجهات الحكومية الجديدة على إطلاق أولى مشاريعها"
+      },
+      "en": {
+        "title": "Anthropic commits $150M to US Genesis Mission science initiative",
+        "summary": "Anthropic pledged $150 million over three years to the federal Genesis Mission, giving Claude access to 15-plus US agencies including NASA, NIH and NSF.",
+        "details": "Anthropic announced on October 8, at a summit hosted by the White House Office of Science and Technology Policy, a three-year, $150 million commitment to the Genesis Mission, a federal initiative to accelerate scientific and technological discovery through AI.\n\nUnder the commitment, Anthropic will provide Claude, Claude Code and API credits to several hundred Genesis Mission research projects across more than 15 participating agencies, including NASA, the National Institutes of Health and the National Science Foundation.\n\n- Anthropic will partner with agencies and national laboratories on priorities such as fusion energy and quantum computing\n- It will offer training and technical support to scientists and help newer agencies launch their first projects"
+      }
     }
   ],
   "upcoming": [],
