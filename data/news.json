@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": "2026-10-08T22:10:20+00:00",
+ "updatedAt": "2026-10-08T23:10:19+00:00",
  "coverage": {
   "from": "2026-07-08",
   "to": "2026-10-08"
@@ -1663,6 +1663,28 @@
       "details": "Anthropic announced on October 8, at a summit hosted by the White House Office of Science and Technology Policy, a three-year, $150 million commitment to the Genesis Mission, a federal initiative to accelerate scientific and technological discovery through AI.\n\nUnder the commitment, Anthropic will provide Claude, Claude Code and API credits to several hundred Genesis Mission research projects across more than 15 participating agencies, including NASA, the National Institutes of Health and the National Science Foundation.\n\n- Anthropic will partner with agencies and national laboratories on priorities such as fusion energy and quantum computing\n- It will offer training and technical support to scientists and help newer agencies launch their first projects"
      },
      "addedAt": "2026-10-08T15:10:00+00:00"
+    },
+    {
+     "id": "nvidia-omniverse-frontier-ai-agent-simulations",
+     "date": "2026-10-08",
+     "type": "product",
+     "importance": 1,
+     "sourceType": "official",
+     "sourceName": "NVIDIA Blog",
+     "url": "https://blogs.nvidia.com/blog/developers-simulation-frontier-ai-agents/",
+     "originalTitle": "Into the Omniverse: How Developers Turn Ideas Into Simulations With Frontier AI Agents",
+     "company": "NVIDIA",
+     "ar": {
+      "title": "نفيديا تعرض مطورين يبنون محاكاة بأومنيفيرس عبر عملاء ذكاء اصطناعي متقدمين",
+      "summary": "نشرت نفيديا تدوينة تستعرض سبعة مشاريع يوجّه فيها مطورون نماذج متقدمة مثل GPT-6 Astra وClaude Fable 5 لبناء محاكاة روبوتات وقيادة ذاتية ومحطة فضاء باستخدام مكتبات Omniverse.",
+      "details": "نشرت نفيديا في 8 أكتوبر تدوينة بعنوان \"Into the Omniverse\" تستعرض كيف يجمع مطورون بين نماذج ذكاء اصطناعي متقدمة ومكتبات Omniverse المعجّلة بمعالجات الرسوميات لبناء تطبيقات محاكاة، حيث يوجّه المطورون العملاء بتعليمات بلغة طبيعية ثم يراجعون النتائج ويوجّهون التعديلات.\n\nضمت التدوينة سبعة مشاريع، منها محاكي لروبوت بشري في بيئة مستودع، وبيئة اختبار لقيادة ذاتية مستوحاة من شارع ماركت في سان فرانسيسكو، ومسابقة \"أولمبياد الروبوتات\" لاختبار حركات رياضية لروبوتات Unitree G1، وفكّ تعليق سيارة روبوتياً عبر Isaac Sim، ونموذج لمحطة الفضاء الدولية يعمل في المتصفح.\n\nمن بين النماذج المذكورة في المشاريع: GPT-6 Astra وClaude Fable 5، إضافة إلى نموذج Cosmos3-Nano الذي استُخدم في تجربة محاكاة الطقس والإضاءة لمشاهد القيادة الذاتية."
+     },
+     "en": {
+      "title": "NVIDIA showcases developers using frontier AI agents to build Omniverse simulations",
+      "summary": "NVIDIA's blog highlighted seven projects where developers directed frontier models like GPT-6 Astra and Claude Fable 5 to build robotics, driving and space-station simulations with Omniverse libraries.",
+      "details": "NVIDIA published a blog post on October 8 titled \"Into the Omniverse,\" describing how developers pair frontier AI models with GPU-accelerated Omniverse libraries to build simulation applications. Developers direct AI agents with natural-language instructions, then review results and guide further changes.\n\nThe post features seven projects, including a humanoid simulator for a warehouse environment, an autonomous-driving test environment modeled on San Francisco's Market Street, a \"Robo Olympics\" testing simulated Unitree G1 humanoids on sports movements, robotic disassembly of a car suspension via Isaac Sim, and a browser-based International Space Station model with telemetry.\n\nModels named across the projects include GPT-6 Astra and Claude Fable 5, along with Cosmos3-Nano, which was used in a weather and lighting experiment for the driving simulations."
+     },
+     "addedAt": "2026-10-08T23:10:19+00:00"
     },
     {
      "id": "openai-disrupts-false-front-influence-ops",
