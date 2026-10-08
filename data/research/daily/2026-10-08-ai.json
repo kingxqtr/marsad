@@ -66,6 +66,27 @@
         "summary": "Anthropic pledged $150 million over three years to the federal Genesis Mission, giving Claude access to 15-plus US agencies including NASA, NIH and NSF.",
         "details": "Anthropic announced on October 8, at a summit hosted by the White House Office of Science and Technology Policy, a three-year, $150 million commitment to the Genesis Mission, a federal initiative to accelerate scientific and technological discovery through AI.\n\nUnder the commitment, Anthropic will provide Claude, Claude Code and API credits to several hundred Genesis Mission research projects across more than 15 participating agencies, including NASA, the National Institutes of Health and the National Science Foundation.\n\n- Anthropic will partner with agencies and national laboratories on priorities such as fusion energy and quantum computing\n- It will offer training and technical support to scientists and help newer agencies launch their first projects"
       }
+    },
+    {
+      "id": "openai-disrupts-false-front-influence-ops",
+      "date": "2026-10-08",
+      "type": "policy",
+      "importance": 1,
+      "sourceType": "official",
+      "sourceName": "OpenAI News",
+      "url": "https://openai.com/index/disrupting-ai-enabled-false-front-operations",
+      "originalTitle": "Disrupting AI-enabled \"false front\" operations",
+      "company": "OpenAI",
+      "ar": {
+        "title": "OpenAI توقف شبكتي تأثير استخدمتا شخصيات صحفية وهمية ومركز أبحاث مزيّف",
+        "summary": "قالت OpenAI إنها أوقفت شبكتي تأثير استخدمتا نماذجها لإنشاء شخصيات صحفيين وهميين ومركز أبحاث مزيّف لنشر رسائل سياسية عبر الإنترنت.",
+        "details": "أعلنت OpenAI في 8 أكتوبر أنها كشفت وأوقفت شبكتي تأثير استخدمتا أدواتها لدعم عمليات خداع منسقة، شملت توليد محتوى وشخصيات مزيّفة لـ«واجهات كاذبة» تضم صحفيين وهميين ومركز أبحاث غير حقيقي، بهدف نشر رسائل ذات طابع جيوسياسي عبر الإنترنت ووسائل التواصل الاجتماعي.\n\nوقالت الشركة إنها تعتمد على نماذجها الخاصة وفرق التحقيق الداخلية لرصد مثل هذه الشبكات وتعطيل الحسابات المرتبطة بها، في إطار تقارير دورية تنشرها عن إساءة استخدام أدوات الذكاء الاصطناعي في عمليات التأثير والخداع.\n\nولم تكشف OpenAI عن مدى انتشار الشبكتين أو تأثيرهما الفعلي على الجمهور، لكنها أشارت إلى أنها تستمر في تطوير وسائل الكشف عن هذا النوع من الاستخدام المسيء لحماية منصاتها."
+      },
+      "en": {
+        "title": "OpenAI disrupts two AI-enabled \"false front\" influence operations",
+        "summary": "OpenAI said it detected and shut down two influence operations that used fake journalist personas and a fabricated think tank to spread geopolitical messaging online.",
+        "details": "OpenAI said on October 8 that it had identified and disrupted two coordinated influence operations that used its AI tools to generate content and personas for \"false fronts,\" including invented journalist identities and a fabricated think tank, in order to spread geopolitically themed messaging across the web and social media.\n\nThe company said it relies on its own models and internal investigation teams to detect such networks and disable the accounts behind them, as part of periodic reports it publishes on the misuse of its AI tools for influence and deception campaigns.\n\nOpenAI did not disclose how widely the two operations had spread or what real-world reach they achieved, but said it continues to develop detection methods to guard against this kind of abuse on its platforms."
+      }
     }
   ],
   "upcoming": [],
