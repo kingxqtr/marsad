@@ -1,25 +1,24 @@
 {
- "updatedAt": "2026-10-08T16:01:51+00:00",
+ "updatedAt": "2026-10-08T16:28:00+00:00",
  "items": [
   {
-   "id": "auto-a3558e48f2c9",
+   "id": "auto-b6a69e1bffca",
    "tab": "ai",
    "date": "2026-10-08",
-   "publishedAt": "2026-10-08T00:00:00+00:00",
-   "type": "product",
+   "publishedAt": "2026-10-08T10:11:02+00:00",
+   "type": "model",
    "importance": 1,
-   "sourceType": "official",
-   "sourceName": "OpenAI News",
-   "url": "https://openai.com/index/disrupting-ai-enabled-false-front-operations",
-   "originalTitle": "Disrupting AI-enabled “false front” operations",
+   "sourceType": "community",
+   "sourceName": "r/LocalLLaMA",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x0n4pt/last_week_some_of_south_koreas_biggest_banks_were/",
+   "originalTitle": "Last week some of South Korea's biggest banks were hit by a cyberattack. We now know the entire hack may have been done by a single person. He used a combined stack of an open-source AI penetration tool named ARTEX, DeepSeek v4.1-Flash, GLM-5.3, Grok 4.6, and Claude Code (CrowdStrike)",
    "en": {
-    "title": "Disrupting AI-enabled “false front” operations",
-    "summary": "OpenAI disrupted two AI-enabled influence operations that used false-front journalists and a think tank to spread geopolitical messaging.",
-    "details": "OpenAI disrupted two AI-enabled influence operations that used false-front journalists and a think tank to spread geopolitical messaging."
+    "title": "Last week some of South Korea's biggest banks were hit by a cyberattack. We now know the entire hack may have been done by a single person. He used a combined stack of an open-source AI penetration tool named ARTEX, DeepSeek v4.1-Flash, GLM-5.3, Grok 4.6, and Claude Code (CrowdStrike)",
+    "summary": "Community post on r/LocalLLaMA. CrowdStrike report: https://www.crowdstrike.com/en-us/blog/unknown-threat-actor-uses-artex-to-target-south-korean-finance/ From: Andrew Curran on 𝕏: https://x.com/AndrewCurran_/status/2108108695876092323 …",
+    "details": "Community post on r/LocalLLaMA.\n\nCrowdStrike report: https://www.crowdstrike.com/en-us/blog/unknown-threat-actor-uses-artex-to-target-south-korean-finance/\n\nFrom:\nAndrew Curran on 𝕏: https://x.com/AndrewCurran_/status/2108108695876092323\n\nJukan ✈️OCP 2026 on 𝕏: https://x.com/jukan05/status/2108110513033093369"
    },
    "translated": false,
-   "fetchedAt": "2026-10-08T15:45:29+00:00",
-   "company": "OpenAI"
+   "fetchedAt": "2026-10-08T16:28:00+00:00"
   },
   {
    "id": "auto-0b76b152e20b",
