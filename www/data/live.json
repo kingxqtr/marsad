@@ -1,6 +1,26 @@
 {
- "updatedAt": "2026-10-08T16:48:23+00:00",
+ "updatedAt": "2026-10-08T17:03:12+00:00",
  "items": [
+  {
+   "id": "auto-68b6f0a1246c",
+   "tab": "ai",
+   "date": "2026-10-08",
+   "publishedAt": "2026-10-08T16:53:24+00:00",
+   "type": "hardware",
+   "importance": 1,
+   "sourceType": "official",
+   "sourceName": "Meta Newsroom",
+   "url": "https://about.fb.com/news/2026/10/debunking-the-biggest-data-center-myths/",
+   "originalTitle": "Debunking the Biggest Data Center Myths",
+   "en": {
+    "title": "Debunking the Biggest Data Center Myths",
+    "summary": "The world of technology is full of myths and legends. That’s understandable when most of the technology we rely on operates completely behind the scenes.",
+    "details": "The world of technology is full of myths and legends. That’s understandable when most of the technology we rely on operates completely behind the scenes. Recently, I’ve been hearing a lot of talk around data centers, and many of the “facts” I’m hearing aren’t quite as true as some people believe.\n\nToday, I want to address some of these myths, not to create division or try to win an argument, but instead to inform and clear up some misconceptions that are quite common within the conversation of technology and AI at the moment.\n\nMyth #1: Data Centers Use Too Much Water and Take it Away From the Public\n\nWater is a huge topic of discussion around data centers at the moment, but very few people actually know how data centers use water for cooling. I can’t speak for all data centers, but I can speak about the two types of Meta data centers that I have visited over the past few months.\n\n- A traditional air-cooled compute data center : These facilities use water for only a few months of the year to cool down air as it passes into the building. …"
+   },
+   "translated": false,
+   "fetchedAt": "2026-10-08T17:03:04+00:00",
+   "company": "Meta"
+  },
   {
    "id": "auto-b6a69e1bffca",
    "tab": "ai",
