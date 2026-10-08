@@ -1,9 +1,9 @@
 {
  "version": 1,
- "updatedAt": "2026-10-07T23:11:39+00:00",
+ "updatedAt": "2026-10-08T00:12:19+00:00",
  "coverage": {
-  "from": "2026-07-07",
-  "to": "2026-10-07"
+  "from": "2026-07-08",
+  "to": "2026-10-08"
  },
  "tabs": {
   "once-human": {
@@ -1439,33 +1439,6 @@
     }
    ],
    "upcoming": [
-    {
-     "id": "sc-orison-relief-support-event",
-     "date": "2026-09-16",
-     "type": "event",
-     "importance": 1,
-     "sourceType": "official",
-     "sourceName": "RSI Spectrum – Orison Relief Support FAQ",
-     "url": "https://robertsspaceindustries.com/spectrum/community/SC/forum/3/thread/orison-relief-support-faq",
-     "originalTitle": "",
-     "endDate": "2026-10-07",
-     "dateConfidence": "confirmed",
-     "ar": {
-      "title": "حدث Orison Relief Support مستمر حتى 7 أكتوبر",
-      "summary": "يمنح حدث Orison Relief Support المحدود، الجاري منذ 16 سبتمبر، اللاعبين مهلة حتى 7 أكتوبر لإنجاز عقوده الأربعة عشر والحصول على طقم أسلحة ودروع SecondWind.",
-      "details": "انطلق حدث Orison Relief Support مع Alpha 4.10.1 في 16 سبتمبر ويستمر حتى 7 أكتوبر، استكمالًا لقصة Siege of Orison، إذ يدعو اللاعبين إلى المساعدة في إعادة إعمار مدينة Orison التابعة لكوكب Crusader بعد هجوم عصابة Nine Tails.\n\n- 14 عقدًا قابلًا للإعادة، تُقبل من أي مكان في نظام Stanton عبر تبويب الأولوية في تطبيق المهام\n- المهام: جمع الموارد (بعضها يتطلب سفينة إنقاذ)، وتوصيل الإمدادات الطبية، وتصنيع دافعات المنصات وتوصيلها، والقتال ضد Nine Tails\n- المكافآت: مسدس وبندقية ورشاش خفيف ودروع خفيفة ومتوسطة وثقيلة من طقم SecondWind، تُفتح بالنقاط وتضاف إلى حساب RSI\n\nويُتابع التقدم عبر سجل mobiGlas. وبعد ملاحظات مختبري PTU، خففت CIG متطلبات الحدث، وأصبحت مخططات التصنيع تُمنح مباشرة بدلًا من مسار المكافآت.",
-      "location": "داخل اللعبة – نظام Stanton",
-      "dateNote": "الحدث جارٍ حاليًا وينتهي في 7 أكتوبر 2026."
-     },
-     "en": {
-      "title": "Orison Relief Support event runs until 7 October",
-      "summary": "The limited-time Orison Relief Support event, live since 16 September, gives players until 7 October to finish its 14 contracts and earn the SecondWind weapon and armour set.",
-      "details": "Orison Relief Support arrived with Alpha 4.10.1 on 16 September and runs until 7 October. It continues the Siege of Orison story, asking players to help rebuild the Crusader city after the Nine Tails attack.\n\n- 14 replayable contracts, accepted from anywhere in Stanton through the Priority tab of the mission app\n- Tasks: resource gathering (some requiring a salvage ship), medical supply deliveries, crafting and delivering platform thrusters, and combat against the Nine Tails\n- Rewards: the SecondWind pistol, rifle, SMG and light, medium and heavy armour, unlocked with points and credited to the RSI account\n\nProgress is tracked in the mobiGlas journal. After PTU feedback, CIG reduced the event's requirements and now grants its blueprints directly instead of through the reward track.",
-      "location": "In game – Stanton system",
-      "dateNote": "Already running; ends 7 October 2026."
-     },
-     "addedAt": "2026-09-27T13:25:38+00:00"
-    },
     {
      "id": "sc-game-library-launch",
      "date": "2026-10-01",
@@ -4864,29 +4837,6 @@
       "details": "Qatar Investment Authority (QIA) announced on July 8 that it had joined SambaNova's $1 billion Series F financing, alongside General Atlantic, Seligman Ventures, T. Rowe Price, Capital Group and other new and existing investors. QIA also took part in SambaNova's previous round in February 2026.\n\nSambaNova, based in San Jose, California, sells a full-stack platform — chips, systems and software — built for AI inference, the step of running trained models to answer requests. Its customers include enterprises, AI labs, cloud providers and sovereign AI projects.\n\nThe company says the money will expand its global deployment capacity, speed up product development and scale infrastructure for enterprise customers, with continued investment across chips, systems and software.\n\nFor QIA, the deal is part of a wider push into AI infrastructure: in the following months it also invested in inference-chip start-up Positron AI and AI data-centre builder Crusoe."
      },
      "addedAt": "2026-07-08T23:59:59+00:00"
-    },
-    {
-     "id": "github-copilot-app-all-plans",
-     "date": "2026-07-07",
-     "type": "coding",
-     "importance": 2,
-     "sourceType": "official",
-     "sourceName": "GitHub Changelog",
-     "url": "https://github.blog/changelog/2026-07-07-github-copilot-app-available-to-all/",
-     "originalTitle": "GitHub Copilot app available to all",
-     "company": "GitHub",
-     "tool": "GitHub Copilot",
-     "ar": {
-      "title": "تطبيق GitHub Copilot لسطح المكتب متاح لكل الخطط بما فيها المجانية",
-      "summary": "أصبح تطبيق GitHub Copilot لسطح المكتب، المخصص للبرمجة عبر الوكلاء، متاحاً على macOS وWindows وLinux لجميع خطط Copilot، ويمكن تشغيله بمفتاح نموذج خاص دون أي اشتراك.",
-      "details": "أتاحت GitHub في 7 يوليو تطبيق GitHub Copilot للجميع، وهو تطبيق لسطح المكتب يتيح للمطورين تشغيل جلسات برمجة يقودها وكلاء الذكاء الاصطناعي من أجهزتهم بعد تسجيل الدخول بحساب GitHub.\n\n- الأنظمة: macOS وWindows وLinux.\n- الخطط: جميع فئات Copilot، ومنها Copilot Free وGitHub Education وCopilot Business وCopilot Enterprise.\n- استخدام مفتاح خاص: يمكن للمطور ربط مزوّد النماذج الخاص به وتشغيل الجلسات دون اشتراك في Copilot.\n\nولعملاء Business وEnterprise، يجب على مسؤول المؤسسة تفعيل سياسة Copilot CLI أولاً قبل أن يتمكن الأعضاء من استخدام التطبيق. وواصلت GitHub إضافة الميزات منذ الإطلاق، ومنها في 23 سبتمبر معاينة عامة لعزل محلي يحد من وصول الوكيل إلى الملفات والشبكات وبيانات الاعتماد."
-     },
-     "en": {
-      "title": "GitHub Copilot desktop app opens to every plan, including Copilot Free",
-      "summary": "GitHub's Copilot desktop app for agent-driven coding is now available on macOS, Windows and Linux on all Copilot plans, and developers can even run it with their own model key and no subscription.",
-      "details": "GitHub made the GitHub Copilot app available to everyone on 7 July. The desktop application lets developers run agent-driven coding sessions from their own computer after signing in with a GitHub account.\n\n- Platforms: macOS, Windows and Linux.\n- Plans: every Copilot tier, including Copilot Free, GitHub Education, Copilot Business and Copilot Enterprise.\n- Bring your own key: developers can connect their own model provider and run sessions without any Copilot subscription.\n\nFor Business and Enterprise customers, an organisation or enterprise administrator must first enable the Copilot CLI policy before members can use the app. GitHub has kept adding features since, including, on 23 September, a public preview of local sandboxing that limits an agent's access to files, networks and credentials."
-     },
-     "addedAt": "2026-07-07T23:59:59+00:00"
     }
    ],
    "upcoming": [
@@ -4918,32 +4868,6 @@
       "dateNote": "Campaign started September 14 and ends November 30, 2026."
      },
      "addedAt": "2026-09-27T13:25:38+00:00"
-    },
-    {
-     "id": "ai-everything-abu-dhabi-2026",
-     "date": "2026-10-06",
-     "type": "event",
-     "importance": 1,
-     "sourceType": "official",
-     "sourceName": "AI Everything Abu Dhabi (official site)",
-     "url": "https://aieverythingabudhabi.com/",
-     "originalTitle": "",
-     "company": "KAOUN International",
-     "endDate": "2026-10-07",
-     "dateConfidence": "confirmed",
-     "ar": {
-      "title": "قمة ومعرض AI Everything في أبوظبي يومي 6 و7 أكتوبر",
-      "summary": "تستضيف أبوظبي قمة ومعرض AI Everything في مركز أدنيك يومي 6 و7 أكتوبر، بمشاركة أكثر من 350 شركة وشركة ناشئة في مجال الذكاء الاصطناعي.",
-      "details": "يُقام حدث AI Everything في أبوظبي على مدى يومين، 6 و7 أكتوبر 2026، في مركز أدنيك، وتنظمه شركة KAOUN International بالشراكة مع مجموعة أدنيك ودائرة الثقافة والسياحة في أبوظبي.\n\nيجمع الحدث أكثر من 350 شركة تقنية وشركة ناشئة، ويتضمن يوم 6 أكتوبر قمة بعنوان «الذكاء الجديد» إلى جانب محور البنية التحتية الذكية والطاقة الجديدة، فيما يخصص يوم 7 أكتوبر لمنتدى التميز الحكومي بالذكاء الاصطناعي ومؤتمر AI 360 للمؤسسات، إضافة إلى برامج تدريبية وهاكاثون.\n\nيركز الحدث على مواضيع السيادة الرقمية والأنظمة العاملة بالوكالة (agentic AI) والاقتصادات القائمة على الذكاء الاصطناعي، ويُعد من أبرز فعاليات الخليج التقنية هذا الخريف.",
-      "location": "أبوظبي، الإمارات — مركز أدنيك"
-     },
-     "en": {
-      "title": "AI Everything Abu Dhabi summit and expo runs October 6–7",
-      "summary": "Abu Dhabi hosts the AI Everything summit and expo at ADNEC Centre on October 6–7, with more than 350 AI companies and startups taking part.",
-      "details": "AI Everything Abu Dhabi runs over two days, October 6–7, 2026, at the ADNEC Centre, organized by KAOUN International in partnership with ADNEC Group and Abu Dhabi's Department of Culture and Tourism.\n\nThe event brings together more than 350 tech companies and startups. October 6 features an AI summit branded 'New Intelligence' alongside an Intelligent Infrastructure and New Energy track, while October 7 hosts an AI Government Excellence Forum and the AI 360 Enterprise Conference, plus training sessions and a hackathon.\n\nThe event centers on sovereign AI, agentic systems and AI-native economies, making it one of the Gulf's notable tech gatherings this autumn.",
-      "location": "Abu Dhabi, UAE — ADNEC Centre"
-     },
-     "addedAt": "2026-10-03T21:11:42+00:00"
     },
     {
      "id": "meta-ray-ban-meta-audio-shipping",
