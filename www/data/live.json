@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-08T22:59:02+00:00",
+ "updatedAt": "2026-10-08T23:14:52+00:00",
  "items": [
   {
    "id": "auto-364feaef4be3",
@@ -60,26 +60,6 @@
    "fetchedAt": "2026-10-08T21:10:00+00:00"
   },
   {
-   "id": "auto-6d3d1f13fbcd",
-   "tab": "ai",
-   "date": "2026-10-08",
-   "publishedAt": "2026-10-08T21:06:35+00:00",
-   "type": "business",
-   "importance": 1,
-   "sourceType": "official",
-   "sourceName": "NVIDIA Blog",
-   "url": "https://blogs.nvidia.com/blog/developers-simulations-frontier-ai-agents/",
-   "originalTitle": "Into the Omniverse: How Developers Turn Ideas Into Simulations With Frontier AI Agents",
-   "en": {
-    "title": "Into the Omniverse: How Developers Turn Ideas Into Simulations With Frontier AI Agents",
-    "summary": "Turning a simulation idea into a working application means assembling assets, connecting physics and rendering, and checking that the scene behaves as intended.",
-    "details": "Turning a simulation idea into a working application means assembling assets, connecting physics and rendering, and checking that the scene behaves as intended. Developers are combining frontier AI models with NVIDIA Omniverse libraries to help carry out that work — building applications for exploring scenarios, investigating failures and improving designs.\n\nDevelopers direct AI agents through natural-language instructions, review results and guide changes. Omniverse libraries provide GPU-accelerated physics, rendering and sensor simulation capabilities.\n\nExplore the projects below to see frontier AI models such as GPT-6 Astra at work, and check back for new examples from NVIDIA teams and developers across the ecosystem.\n\nBuild a Humanoid Simulator for a Warehouse Environment\n\nhttps://blogs.nvidia.com/wp-content/uploads/2026/10/Humanoid-Warehouse.mp4\n\nExplore a gamified, physics-based control of a humanoid robot in first- and third-person view.\n\nBefore automating warehouse tasks, developers need an interactive simulation environment to explore task behavior and evaluate how the work gets done. Frank DeLise, Omniverse product manager at NVIDIA, used Astra to turn a SimReady warehouse and humanoid robot into an interactive simulator with first- and third-person views. …"
-   },
-   "translated": false,
-   "fetchedAt": "2026-10-08T21:09:57+00:00",
-   "company": "NVIDIA"
-  },
-  {
    "id": "auto-63f97b5df9a4",
    "tab": "ai",
    "date": "2026-10-08",
@@ -92,8 +72,8 @@
    "originalTitle": "OpenAI annualised revenues $20B less than previously signalled",
    "en": {
     "title": "OpenAI annualised revenues $20B less than previously signalled",
-    "summary": "Community discussion on Hacker News (342 points, 237 comments).",
-    "details": "Community discussion on Hacker News (342 points, 237 comments)."
+    "summary": "Community discussion on Hacker News (342 points, 238 comments).",
+    "details": "Community discussion on Hacker News (342 points, 238 comments)."
    },
    "translated": false,
    "fetchedAt": "2026-10-08T20:19:53+00:00"
