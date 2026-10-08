@@ -1,6 +1,45 @@
 {
- "updatedAt": "2026-10-08T22:00:19+00:00",
+ "updatedAt": "2026-10-08T22:24:01+00:00",
  "items": [
+  {
+   "id": "auto-364feaef4be3",
+   "tab": "ai",
+   "date": "2026-10-08",
+   "publishedAt": "2026-10-08T18:08:02+00:00",
+   "type": "product",
+   "importance": 1,
+   "sourceType": "community",
+   "sourceName": "r/LocalLLaMA",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x0y4lv/chatgpts_new_intelligent_ui_was_reverse/",
+   "originalTitle": "chatgpt's new intelligent ui was reverse engineered in less than 24 hours, and apparently you can recreate it with local llms",
+   "en": {
+    "title": "chatgpt's new intelligent ui was reverse engineered in less than 24 hours, and apparently you can recreate it with local llms",
+    "summary": "Community post on r/LocalLLaMA. came across a pretty interesting technical breakdown of chatgpt's newly launched \"intelligent ui\" feature, and thought this subreddit might find it interesting.",
+    "details": "Community post on r/LocalLLaMA.\n\ncame across a pretty interesting technical breakdown of chatgpt's newly launched \"intelligent ui\" feature, and thought this subreddit might find it interesting.\n\nfor anyone unfamiliar with the concept, intelligent ui is essentially openai's take on generative ui . instead of restricting llm responses to plain text or markdown, the model can compose actual interactive interfaces in real time.\n\nthere are different approaches to making this work. some systems let the model choose and compose elements from a predefined component library, while others allow it to generate entire interfaces on the fly (basically writing html/react code and rendering it inside an iframe).\n\nit's more of a spectrum than a single technique. projects like openui, vercel's json-render, google's a2ui, and now chatgpt's intelligent ui all sit somewhere along this spectrum, with different trade-offs in flexibility, reliability, performance, and how much freedom the model gets.\n\nbut that's not even the most interesting part.\n\nThese folks managed to reverse engineer chatgpt's implementation in less than 24 hours after launch!\n\nwhat's particularly impressive is that they claim to have done this entirely through publicly observable behavior, without access to openai's internal codebase.\n\nfrom their write-up:\n\n“All observations come from our own ChatGPT accounts, from the traffic the ChatGPT web app generates, and from the JavaScript that chatgpt.com serves publicly.” …"
+   },
+   "translated": false,
+   "fetchedAt": "2026-10-08T22:24:01+00:00"
+  },
+  {
+   "id": "auto-ba0c1ad98565",
+   "tab": "ai",
+   "date": "2026-10-08",
+   "publishedAt": "2026-10-08T00:00:00+00:00",
+   "type": "product",
+   "importance": 1,
+   "sourceType": "official",
+   "sourceName": "Hugging Face Blog",
+   "url": "https://huggingface.co/blog/building-with-ml-intern",
+   "originalTitle": "The model that didn't exist, so you made it yourself",
+   "en": {
+    "title": "The model that didn't exist, so you made it yourself",
+    "summary": "The model that didn't exist, so you made it yourself",
+    "details": ""
+   },
+   "translated": false,
+   "fetchedAt": "2026-10-08T22:23:55+00:00",
+   "company": "Hugging Face"
+  },
   {
    "id": "auto-6a1c6caede61",
    "tab": "star-citizen",
@@ -53,8 +92,8 @@
    "originalTitle": "OpenAI annualised revenues $20B less than previously signalled",
    "en": {
     "title": "OpenAI annualised revenues $20B less than previously signalled",
-    "summary": "Community discussion on Hacker News (331 points, 216 comments).",
-    "details": "Community discussion on Hacker News (331 points, 216 comments)."
+    "summary": "Community discussion on Hacker News (340 points, 226 comments).",
+    "details": "Community discussion on Hacker News (340 points, 226 comments)."
    },
    "translated": false,
    "fetchedAt": "2026-10-08T20:19:53+00:00"
