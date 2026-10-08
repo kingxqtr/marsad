@@ -1,6 +1,44 @@
 {
- "updatedAt": "2026-10-07T23:52:21+00:00",
+ "updatedAt": "2026-10-08T00:10:14+00:00",
  "items": [
+  {
+   "id": "auto-6e074f9f7fed",
+   "tab": "star-citizen",
+   "date": "2026-10-07",
+   "publishedAt": "2026-10-07T00:10:09+00:00",
+   "type": "ship",
+   "importance": 1,
+   "sourceType": "official",
+   "sourceName": "RSI Comm-Link",
+   "url": "https://robertsspaceindustries.com/comm-link/transmission/21279-October-2026-Subscriber-Promotions",
+   "originalTitle": "October 2026 Subscriber Promotions",
+   "en": {
+    "title": "October 2026 Subscriber Promotions",
+    "summary": "Whether you’re celebrating Halloween in 2026 or Day of the Vara in 2956, spooky season is well and truly upon us.",
+    "details": "Whether you’re celebrating Halloween in 2026 or Day of the Vara in 2956, spooky season is well and truly upon us. Embrace the thrills and chills with October’s skeletal flair and send any soul that crosses you to the underworld from the pilot seat of Drake’s tiniest terror."
+   },
+   "translated": false,
+   "fetchedAt": "2026-10-08T00:10:09+00:00"
+  },
+  {
+   "id": "auto-c8871ea6adda",
+   "tab": "ai",
+   "date": "2026-10-07",
+   "publishedAt": "2026-10-07T18:49:40+00:00",
+   "type": "product",
+   "importance": 1,
+   "sourceType": "community",
+   "sourceName": "Hacker News",
+   "url": "https://news.ycombinator.com/item?id=49997161",
+   "originalTitle": "Meta and Microsoft take steps to reduce employee usage of Claude AI",
+   "en": {
+    "title": "Meta and Microsoft take steps to reduce employee usage of Claude AI",
+    "summary": "Community discussion on Hacker News (252 points, 247 comments).",
+    "details": "Community discussion on Hacker News (252 points, 247 comments)."
+   },
+   "translated": false,
+   "fetchedAt": "2026-10-08T00:10:09+00:00"
+  },
   {
    "id": "auto-9469585aebc3",
    "tab": "ai",
