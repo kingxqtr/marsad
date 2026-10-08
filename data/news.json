@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": "2026-10-08T18:09:14+00:00",
+ "updatedAt": "2026-10-08T19:10:02+00:00",
  "coverage": {
   "from": "2026-07-08",
   "to": "2026-10-08"
@@ -1598,6 +1598,28 @@
   },
   "ai": {
    "news": [
+    {
+     "id": "anthropic-cyber-mission-launch",
+     "date": "2026-10-08",
+     "type": "policy",
+     "importance": 2,
+     "sourceType": "official",
+     "sourceName": "Anthropic Newsroom",
+     "url": "https://www.anthropic.com/news/anthropic-cyber-mission",
+     "originalTitle": "Introducing the Anthropic Cyber Mission",
+     "company": "Anthropic",
+     "ar": {
+      "title": "Anthropic تطلق «مهمة الأمن السيبراني» لدعم جهات الدفاع السيبراني",
+      "summary": "أطلقت Anthropic في 8 أكتوبر «مهمة الأمن السيبراني»، التزاماً طويل الأمد يبدأ ببرنامج لحماية البنية التحتية الحيوية مع شركاء كبار وخدمة مجانية لفحص مشاريع المصادر المفتوحة.",
+      "details": "أعلنت Anthropic في 8 أكتوبر عن «مهمة الأمن السيبراني» (Anthropic Cyber Mission)، وهي التزام طويل الأمد بتزويد جهات الدفاع السيبراني بأدوات وأبحاث وموارد لحماية أنظمتها، بدءاً من مجالين.\n\nالأول هو برنامج الدفاع عن البنية التحتية الحيوية، الذي يتيح لمزوّدي أمن موثوقين الوصول إلى نماذج Claude المتقدمة ومهندسين ميدانيين وأبحاث تهديدات، ويركز على التقنيات التشغيلية لشبكات الكهرباء والمياه والنقل والأنظمة الحكومية، بشراكة مؤسسة مع Accenture وBooz Allen وCrowdStrike وDeloitte وDragos وHitachi وPalo Alto Networks وPwC وRockwell Automation وغيرها.\n\nالثاني هو خدمة فحص المصادر المفتوحة (OSS Scanner)، وهي خدمة اختيارية ومجانية تمنح مشاريع المصادر المفتوحة فحوصاً دورية بأقوى نماذج الشركة، مع تقرير يضم إثباتاً تجريبياً للثغرة وتفسيراً وحلاً مقترحاً عند الإمكان، على أن تكون التقارير مولّدة بالنموذج دون مراجعة بشرية.\n\n- تتوقع الشركة أن تتفوق أدوات الدفاع على الهجوم خلال عامين، لكنها تحذر من أن المدى القريب قد يكون أصعب لأن استغلال الثغرات بات أرخص بينما يظل إصلاحها بطيئاً\n- قدّمت الشركة دعماً سابقاً لمؤسسات مثل Python Software Foundation وOpenSSF وApache Software Foundation، إلى جانب صندوق Defender Advantage Fund"
+     },
+     "en": {
+      "title": "Anthropic launches the Anthropic Cyber Mission to back cyber defenders",
+      "summary": "Anthropic announced the Cyber Mission on October 8, a long-term commitment starting with a critical-infrastructure defense program with major partners and a free scanning service for open-source projects.",
+      "details": "Anthropic announced the Anthropic Cyber Mission on October 8, describing it as a long-term commitment to give defenders tools, research and resources to secure their systems, starting in two areas.\n\nThe first is the Critical Infrastructure Defense Program, which gives trusted security providers access to frontier Claude models, on-site engineers and threat research, focused on the operational technology behind power grids, water systems, transportation networks and government systems. Founding partners include Accenture, Booz Allen, CrowdStrike, Deloitte, Dragos, Hitachi, Palo Alto Networks, PwC and Rockwell Automation.\n\nThe second is OSS Scanner, an opt-in, free service that gives open-source projects periodic scans from Anthropic's strongest models, with reports including a proof of concept, an explanation and a suggested fix where possible; reports are model-generated and sent without human review.\n\n- Anthropic expects AI to favor defense within two years, but warns the near term may be harder since exploiting vulnerabilities has gotten cheaper while fixing them remains slow\n- The company has previously funded groups including the Python Software Foundation, OpenSSF and the Apache Software Foundation, alongside its Defender Advantage Fund"
+     },
+     "addedAt": "2026-10-08T19:10:02+00:00"
+    },
     {
      "id": "anthropic-2026-usage-policy-update",
      "date": "2026-10-08",
