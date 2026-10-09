@@ -1,24 +1,4 @@
 {
- "updatedAt": "2026-10-09T10:00:51+00:00",
- "items": [
-  {
-   "id": "auto-3a82b48199ff",
-   "tab": "once-human",
-   "date": "2026-10-09",
-   "publishedAt": "2026-10-09T09:57:27+00:00",
-   "type": "update",
-   "importance": 1,
-   "sourceType": "official",
-   "sourceName": "Once Human — Steam News",
-   "url": "https://store.steampowered.com/news/app/2139460/view/1846018067932766",
-   "originalTitle": "3.0.7 Bug Fixes (October 9)",
-   "en": {
-    "title": "3.0.7 Bug Fixes (October 9)",
-    "summary": "October 9 The following issues are expected to be fixed by 04:30 PT. Actual completion time may vary: 1. Fixed an issue where the Dye on the Hollow Moon Wayfarer male top would occasionally flash when worn as a separate piece. 2.",
-    "details": "October 9\n\nThe following issues are expected to be fixed by 04:30 PT. Actual completion time may vary:\n\n1. Fixed an issue where the Dye on the Hollow Moon Wayfarer male top would occasionally flash when worn as a separate piece.\n\n2. Fixed an issue where the bowknot on the back of the Holly Blessing Set Bottom could not be dyed. Metas who have already dyed it will receive compensation for the tokens consumed within 3 business days after the fix.​\n\n3. Fixed an issue where some players were unable to place livestock in their territory."
-   },
-   "translated": false,
-   "fetchedAt": "2026-10-09T10:00:45+00:00"
-  }
- ]
+ "updatedAt": "2026-10-09T10:26:08+00:00",
+ "items": []
 }
