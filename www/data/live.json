@@ -1,6 +1,44 @@
 {
- "updatedAt": "2026-10-09T22:14:58+00:00",
+ "updatedAt": "2026-10-09T22:33:03+00:00",
  "items": [
+  {
+   "id": "auto-90836a08c0d9",
+   "tab": "star-citizen",
+   "date": "2026-10-09",
+   "publishedAt": "2026-10-09T09:58:16+00:00",
+   "type": "community",
+   "importance": 1,
+   "sourceType": "community",
+   "sourceName": "r/starcitizen",
+   "url": "https://www.reddit.com/r/starcitizen/comments/1x1hb88/influencers_gathering_outside_the_cig_office/",
+   "originalTitle": "Influencers gathering outside the CIG office ahead of the five-hour closed-door gameplay session (colorized)",
+   "en": {
+    "title": "Influencers gathering outside the CIG office ahead of the five-hour closed-door gameplay session (colorized)",
+    "summary": "Community post on r/starcitizen.",
+    "details": "Community post on r/starcitizen."
+   },
+   "translated": false,
+   "fetchedAt": "2026-10-09T22:33:01+00:00"
+  },
+  {
+   "id": "auto-bf49e8a8d300",
+   "tab": "star-citizen",
+   "date": "2026-10-09",
+   "publishedAt": "2026-10-09T16:51:06+00:00",
+   "type": "community",
+   "importance": 1,
+   "sourceType": "community",
+   "sourceName": "r/starcitizen",
+   "url": "https://www.reddit.com/r/starcitizen/comments/1x1qhyn/whichever_cig_ship_designer_is_obsessed_with/",
+   "originalTitle": "Whichever CIG ship designer is obsessed with adding unnecessary fins to otherwise beautiful ships needs to be stopped...",
+   "en": {
+    "title": "Whichever CIG ship designer is obsessed with adding unnecessary fins to otherwise beautiful ships needs to be stopped...",
+    "summary": "Community post on r/starcitizen.",
+    "details": "Community post on r/starcitizen."
+   },
+   "translated": false,
+   "fetchedAt": "2026-10-09T22:33:01+00:00"
+  },
   {
    "id": "auto-d21c8fdd716d",
    "tab": "star-citizen",
