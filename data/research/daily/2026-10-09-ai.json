@@ -22,6 +22,26 @@
         "summary": "NVIDIA's blog highlighted seven projects where developers directed frontier models like GPT-6 Astra and Claude Fable 5 to build robotics, driving and space-station simulations with Omniverse libraries.",
         "details": "NVIDIA published a blog post on October 8 titled \"Into the Omniverse,\" describing how developers pair frontier AI models with GPU-accelerated Omniverse libraries to build simulation applications. Developers direct AI agents with natural-language instructions, then review results and guide further changes.\n\nThe post features seven projects, including a humanoid simulator for a warehouse environment, an autonomous-driving test environment modeled on San Francisco's Market Street, a \"Robo Olympics\" testing simulated Unitree G1 humanoids on sports movements, robotic disassembly of a car suspension via Isaac Sim, and a browser-based International Space Station model with telemetry.\n\nModels named across the projects include GPT-6 Astra and Claude Fable 5, along with Cosmos3-Nano, which was used in a weather and lighting experiment for the driving simulations."
       }
+    },
+    {
+      "id": "openai-revenue-20b-below-signalled",
+      "date": "2026-10-08",
+      "type": "business",
+      "importance": 2,
+      "sourceType": "community",
+      "sourceName": "Hacker News",
+      "url": "https://news.ycombinator.com/item?id=50008187",
+      "originalTitle": "OpenAI annualised revenues $20B less than previously signalled",
+      "ar": {
+        "title": "تقرير: معدل عائدات OpenAI السنوي أقل بـ20 مليار دولار من التقديرات السابقة",
+        "summary": "ذكرت CNBC، نقلاً عن Financial Times، أن معدل عائدات OpenAI السنوي يقل بنحو 20 مليار دولار عن رقم 70 مليار دولار المتداول، جزئياً بسبب اختلاف طرق المحاسبة.",
+        "details": "ذكرت CNBC في 8 أكتوبر، نقلاً عن تقرير لصحيفة Financial Times، أن معدل عائدات OpenAI السنوي يقل بنحو 20 مليار دولار عن الرقم الذي كان متداولاً سابقاً ويقترب من 70 مليار دولار. وانتشر النقاش حول الخبر على موقع Hacker News.\n\nويعود جزء من هذا الفارق، حسب التقرير، إلى اختلاف طرق المحاسبة: فعائدات Anthropic المُعلنة تشمل إعادة البيع عبر شركاء السحابة مثل AWS و Google Cloud، في حين لا تُدرج OpenAI مثل هذه المبيعات في أرقامها. وكانت تقارير سابقة في أغسطس 2026 قد قدّرت عائدات OpenAI السنوية بنحو 40 مليار دولار.\n\nوتأتي هذه المقارنة في وقت تفيد التقارير بأن Anthropic بلغت معدل عائدات سنوي قدره 65 مليار دولار بنهاية يوليو، وتسعى للحصول على تقييم بقيمة 2 تريليون دولار، في حين قُدّرت قيمة OpenAI عند 852 مليار دولار."
+      },
+      "en": {
+        "title": "Report: OpenAI's annualized revenue run-rate is $20B below earlier estimates",
+        "summary": "CNBC, citing the Financial Times, said OpenAI's revenue run-rate is about $20B below the roughly $70B figure some had cited, partly due to accounting differences.",
+        "details": "CNBC reported on October 8, citing Financial Times reporting, that OpenAI's annualized revenue run-rate sits roughly $20 billion below the nearly $70 billion figure some investors and press had been citing. The story was widely discussed on Hacker News.\n\nPart of the gap reportedly comes from differing accounting practices: Anthropic's reported revenue includes resales through cloud partners like AWS and Google Cloud, while OpenAI's figures do not. Earlier reports in August 2026 had put OpenAI's annualized revenue closer to $40 billion.\n\nThe comparison comes as Anthropic is said to have reached a $65 billion run-rate by the end of July and is reportedly seeking a $2 trillion valuation, while OpenAI's valuation has been cited at $852 billion."
+      }
     }
   ],
   "upcoming": [],

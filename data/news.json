@@ -1,9 +1,9 @@
 {
  "version": 1,
- "updatedAt": "2026-10-08T23:10:19+00:00",
+ "updatedAt": "2026-10-09T00:12:44+00:00",
  "coverage": {
-  "from": "2026-07-08",
-  "to": "2026-10-08"
+  "from": "2026-07-09",
+  "to": "2026-10-09"
  },
  "tabs": {
   "once-human": {
@@ -619,33 +619,6 @@
     }
    ],
    "upcoming": [
-    {
-     "id": "oh-upcoming-isles-final-test",
-     "date": "2026-09-16",
-     "type": "scenario",
-     "importance": 1,
-     "sourceType": "official",
-     "sourceName": "Once Human — Official Website",
-     "url": "https://www.oncehuman.game/news/official/20260828/40779_1312551.html",
-     "originalTitle": "",
-     "endDate": "2026-10-08",
-     "dateConfidence": "confirmed",
-     "ar": {
-      "title": "الاختبار الأخير لـIsles of Abyss وفعالية الملاحظات مستمران حتى 8 أكتوبر",
-      "summary": "يستمر الاختبار السري الأخير للسيناريو البحري الجديد على خوادم أمريكا الشمالية حتى 8 أكتوبر (بتوقيت المحيط الهادئ)، مع فعالية ملاحظات تكافئ أفضل 20 مشاركًا.",
-      "details": "بدأ الاختبار الأخير لسيناريو Isles of Abyss في Once Human في 16 سبتمبر الساعة 9:00 مساءً بتوقيت المحيط الهادئ، وينتهي في 8 أكتوبر الساعة 3:00 فجرًا، أي نحو 22 يومًا مقسمة إلى مرحلة أولى من 5 أيام وثانية من 17 يومًا. ويقتصر على نحو 4000 لاعب مختار في أمريكا الشمالية على PC والمنصات المنزلية، ويخضع لاتفاقية عدم إفصاح، وتُحذف شخصيات الاختبار بعد انتهائه.\n\nيدخل المختارون من العميل الحالي عبر زر التبديل أعلى يسار شاشة اختيار السيناريو، ويحصلون على Wish Emblems يوميًا وعلى زي Jade Nocturne عند تسجيل الدخول في اليوم السابع.\n\nوتستمر فعالية الملاحظات للفترة نفسها:\n- كل بلاغ خطأ أو اقتراح مقبول يمنح نقطة واحدة\n- أفضل 20 لاعبًا: قسيمة Battle Pass Advanced Edition\n- كل من يقدّم ملاحظة مقبولة: ثلاثة صناديق Stardust Secret Crate S14 من فئة Epic و100 من Wish Emblems\n- إعلان الفائزين خلال 7 أيام عمل بعد نهاية الفعالية",
-      "location": "خوادم الاختبار في أمريكا الشمالية (PC والمنصات المنزلية)",
-      "dateNote": "ينتهي في 8 أكتوبر الساعة 3:00 فجرًا بتوقيت المحيط الهادئ، أي 1:00 ظهرًا في قطر والسعودية (UTC+3) و2:00 ظهرًا في الإمارات (UTC+4)."
-     },
-     "en": {
-      "title": "Isles of Abyss final test and feedback event run until October 8",
-      "summary": "The confidential final test of the new ocean scenario continues on North American servers until October 8 (PT), with a feedback event rewarding the top 20 contributors.",
-      "details": "The last test of Once Human's Isles of Abyss scenario started on September 16 at 9:00 PM PT and ends on October 8 at 3:00 AM PT: about 22 days, split into a 5-day Phase I and a 17-day Phase II. It is limited to about 4,000 selected North American players on PC and console, runs under an NDA, and all test characters are deleted afterwards.\n\nSelected players join from the current client using the mode switch at the top left of the scenario screen. Test rewards include daily Wish Emblems and the \"Jade Nocturne\" cosmetic for signing in on day 7.\n\nThe Isles of Abyss Final Test Feedback Event runs over the same period:\n- Each valid bug report or suggestion earns 1 point\n- Top 20 players: a Battle Pass Advanced Edition voucher\n- Everyone with valid feedback: three Epic S14 Stardust Secret Crates and 100 Wish Emblems\n- Winners will be announced within 7 business days after the event ends",
-      "location": "North America test servers (PC and console)",
-      "dateNote": "Ends October 8 at 3:00 AM PT, which is 1:00 PM in Qatar and Saudi Arabia (UTC+3) and 2:00 PM in the UAE (UTC+4)."
-     },
-     "addedAt": "2026-09-27T13:25:38+00:00"
-    },
     {
      "id": "oh-upcoming-golden-autumn-events",
      "date": "2026-09-29",
@@ -1641,6 +1614,27 @@
       "details": "Anthropic published an update to its Usage Policy on October 8, 2026, taking effect November 12, 2026. The company said most changes clarify existing rules rather than add new restrictions, reflecting newer capabilities such as Claude doing longer, more independent work.\n\n- Deceptive political and commercial activity (fake account networks, fabricated news sites) is consolidated into one section\n- The elections section is narrowed to focus on deceiving voters or disrupting elections, removing the blanket ban on personalized campaign targeting\n- Weapons prohibitions are clarified to explicitly cover weapons-related software and components, and arming drones or autonomous vehicles\n- The surveillance and law enforcement section is rewritten, spelling out permitted uses such as fraud monitoring, content moderation, journalism and legal research\n- Clearer rules on high-risk use cases require a qualified human in the loop and notice to affected individuals, plus new requirements when Claude controls physical hardware that must be stoppable\n- A new prohibition covers sustained, purposeless cruelty toward Claude, excluding ordinary frustration or testing\n- The Supported Regions page now clarifies how restrictions apply to users and entities in unsupported regions"
      },
      "addedAt": "2026-10-08T17:11:13+00:00"
+    },
+    {
+     "id": "openai-revenue-20b-below-signalled",
+     "date": "2026-10-08",
+     "type": "business",
+     "importance": 2,
+     "sourceType": "community",
+     "sourceName": "Hacker News",
+     "url": "https://news.ycombinator.com/item?id=50008187",
+     "originalTitle": "OpenAI annualised revenues $20B less than previously signalled",
+     "ar": {
+      "title": "تقرير: معدل عائدات OpenAI السنوي أقل بـ20 مليار دولار من التقديرات السابقة",
+      "summary": "ذكرت CNBC، نقلاً عن Financial Times، أن معدل عائدات OpenAI السنوي يقل بنحو 20 مليار دولار عن رقم 70 مليار دولار المتداول، جزئياً بسبب اختلاف طرق المحاسبة.",
+      "details": "ذكرت CNBC في 8 أكتوبر، نقلاً عن تقرير لصحيفة Financial Times، أن معدل عائدات OpenAI السنوي يقل بنحو 20 مليار دولار عن الرقم الذي كان متداولاً سابقاً ويقترب من 70 مليار دولار. وانتشر النقاش حول الخبر على موقع Hacker News.\n\nويعود جزء من هذا الفارق، حسب التقرير، إلى اختلاف طرق المحاسبة: فعائدات Anthropic المُعلنة تشمل إعادة البيع عبر شركاء السحابة مثل AWS و Google Cloud، في حين لا تُدرج OpenAI مثل هذه المبيعات في أرقامها. وكانت تقارير سابقة في أغسطس 2026 قد قدّرت عائدات OpenAI السنوية بنحو 40 مليار دولار.\n\nوتأتي هذه المقارنة في وقت تفيد التقارير بأن Anthropic بلغت معدل عائدات سنوي قدره 65 مليار دولار بنهاية يوليو، وتسعى للحصول على تقييم بقيمة 2 تريليون دولار، في حين قُدّرت قيمة OpenAI عند 852 مليار دولار."
+     },
+     "en": {
+      "title": "Report: OpenAI's annualized revenue run-rate is $20B below earlier estimates",
+      "summary": "CNBC, citing the Financial Times, said OpenAI's revenue run-rate is about $20B below the roughly $70B figure some had cited, partly due to accounting differences.",
+      "details": "CNBC reported on October 8, citing Financial Times reporting, that OpenAI's annualized revenue run-rate sits roughly $20 billion below the nearly $70 billion figure some investors and press had been citing. The story was widely discussed on Hacker News.\n\nPart of the gap reportedly comes from differing accounting practices: Anthropic's reported revenue includes resales through cloud partners like AWS and Google Cloud, while OpenAI's figures do not. Earlier reports in August 2026 had put OpenAI's annualized revenue closer to $40 billion.\n\nThe comparison comes as Anthropic is said to have reached a $65 billion run-rate by the end of July and is reportedly seeking a $2 trillion valuation, while OpenAI's valuation has been cited at $852 billion."
+     },
+     "addedAt": "2026-10-08T23:59:59+00:00"
     },
     {
      "id": "anthropic-genesis-mission-commitment",
@@ -4947,28 +4941,6 @@
       "details": "OpenAI released its GPT-5.6 models to the public on July 9, after a preview with a select group of partners. The family comes in three sizes for different needs.\n\n- Sol: the flagship, focused on frontier reasoning and long-horizon agent work. OpenAI reported record results on Terminal-Bench 2.1 and a score about 9 percentage points above GPT-5.5 on a SecureBio biology evaluation\n- Terra: a balanced everyday model that OpenAI says delivers GPT-5.5-level performance at half the cost\n- Luna: the fastest and most affordable member of the family\n\nThe release also added a \"max\" reasoning effort, which gives Sol more time on hard problems, and an \"ultra mode\" that uses sub-agents to speed up complex work. The models became available across ChatGPT, Codex and the API. OpenAI later cut prices, first for Terra and Luna in August and then by 20% for Sol in September."
      },
      "addedAt": "2026-07-09T23:59:59+00:00"
-    },
-    {
-     "id": "qia-sambanova-series-f",
-     "date": "2026-07-08",
-     "type": "business",
-     "importance": 1,
-     "sourceType": "official",
-     "sourceName": "Qatar Investment Authority — Newsroom",
-     "url": "https://www.qia.qa/en/Newsroom/Pages/QIA-Participates-in%C2%A0SambaNova%E2%80%99s%C2%A0$1-Billion-Series-E-Funding-Round.aspx",
-     "originalTitle": "QIA Participates in SambaNova’s $1 Billion Series F Funding Round",
-     "company": "Qatar Investment Authority",
-     "ar": {
-      "title": "جهاز قطر للاستثمار يدعم SambaNova في جولة تمويل بقيمة مليار دولار",
-      "summary": "انضم جهاز قطر للاستثمار إلى جولة التمويل من الفئة F لشركة SambaNova بقيمة مليار دولار إلى جانب General Atlantic ومستثمرين آخرين، في رهان على عتاد تشغيل نماذج الذكاء الاصطناعي بكفاءة.",
-      "details": "أعلن جهاز قطر للاستثمار في 8 يوليو مشاركته في جولة التمويل من الفئة F لشركة SambaNova بقيمة مليار دولار، إلى جانب General Atlantic وSeligman Ventures وT. Rowe Price وCapital Group ومستثمرين جدد وحاليين. وكان الجهاز قد شارك أيضاً في جولة الشركة السابقة في فبراير 2026.\n\nتقدم SambaNova، ومقرها سان خوسيه في كاليفورنيا، منصة متكاملة من الرقائق والأنظمة والبرمجيات مخصصة لـ«الاستدلال»، أي تشغيل النماذج المدرّبة للرد على الطلبات، ومن عملائها مؤسسات ومختبرات ذكاء اصطناعي ومزودو خدمات سحابية ومبادرات ذكاء اصطناعي سيادي.\n\nوتقول الشركة إن التمويل سيوسع قدرتها على النشر عالمياً ويسرّع تطوير المنتجات ويعزز البنية التحتية لعملائها من المؤسسات، مع مواصلة الاستثمار في الرقائق والأنظمة والبرمجيات.\n\nوتندرج الصفقة ضمن توجه أوسع للجهاز نحو البنية التحتية للذكاء الاصطناعي، إذ استثمر في الأشهر التالية في Positron AI لرقائق الاستدلال وفي Crusoe لبناء مراكز البيانات."
-     },
-     "en": {
-      "title": "Qatar's QIA backs AI chipmaker SambaNova in a $1 billion funding round",
-      "summary": "Qatar Investment Authority joined SambaNova's $1 billion Series F alongside General Atlantic and others, extending its bet on hardware that runs AI models efficiently.",
-      "details": "Qatar Investment Authority (QIA) announced on July 8 that it had joined SambaNova's $1 billion Series F financing, alongside General Atlantic, Seligman Ventures, T. Rowe Price, Capital Group and other new and existing investors. QIA also took part in SambaNova's previous round in February 2026.\n\nSambaNova, based in San Jose, California, sells a full-stack platform — chips, systems and software — built for AI inference, the step of running trained models to answer requests. Its customers include enterprises, AI labs, cloud providers and sovereign AI projects.\n\nThe company says the money will expand its global deployment capacity, speed up product development and scale infrastructure for enterprise customers, with continued investment across chips, systems and software.\n\nFor QIA, the deal is part of a wider push into AI infrastructure: in the following months it also invested in inference-chip start-up Positron AI and AI data-centre builder Crusoe."
-     },
-     "addedAt": "2026-07-08T23:59:59+00:00"
     }
    ],
    "upcoming": [
