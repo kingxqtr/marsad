@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": "2026-10-09T15:09:26+00:00",
+ "updatedAt": "2026-10-09T16:13:24+00:00",
  "coverage": {
   "from": "2026-07-09",
   "to": "2026-10-09"
@@ -822,6 +822,48 @@
   },
   "star-citizen": {
    "news": [
+    {
+     "id": "sc-sq42-manchester-impressions",
+     "date": "2026-10-09",
+     "type": "community",
+     "importance": 2,
+     "sourceType": "community",
+     "sourceName": "r/starcitizen",
+     "url": "https://www.reddit.com/r/starcitizen/comments/1x1nz2e/my_impressions_after_5_hours_of_playing_squadron/",
+     "originalTitle": "My impressions after 5 hours of playing Squadron 42 at the Manchester event",
+     "ar": {
+      "title": "أول انطباعات من حضور حصري: خمس ساعات مع Squadron 42 في مانشستر",
+      "summary": "نشر أحد الحاضرين في فعالية مانشستر المغلقة انطباعاته بعد خمس ساعات من تجربة Squadron 42، مشيرًا إلى رسوميات مبهرة وأسلوب لعب سينمائي موجّه، مع ظهور خاطف لمارك هاميل وكلمة افتتاحية لكريس روبرتس.",
+      "details": "نشر أحد المشاركين في جلسة مانشستر المغلقة على منتدى r/starcitizen في 9 أكتوبر انطباعاته التفصيلية بعد خمس ساعات من تجربة Squadron 42. وذكر أن الحضور انقسم إلى مجموعتين، كانت مجموعته تضم نحو 65 شخصًا، ولم يتعرّف على أغلب صناع المحتوى الحاضرين سوى BoredGamer، بينما رصد Morph وSulyce في المجموعة الثانية.\n\nوأفاد بأن الجلسة استمرت نحو خمس ساعات متواصلة من اللعب الفعلي، حيث كان لكل حاضر جهاز حاسوب خاص يلعب عليه بالسرعة التي يفضلها، مع توقف قصير لظهور الممثل مارك هاميل. وأشار إلى أن الرسوميات بدت مبهرة للغاية، لا سيما تفاصيل الوجوه وتصميم الشخصيات.\n\n- وصف التجربة العامة بأنها سينمائية وموجّهة إلى حد ما، إذ قدّم كريس روبرتس كلمة افتتاحية طويلة نسبيًا أكد فيها رغبته في استعادة روح لعبة Wing Commander، ورأى الكاتب أنه نجح في ذلك.\n\n- وأوضح أن هذا الطراز من الألعاب يروق له شخصيًا رغم أنه غير شائع في السوق الحالية، معتبرًا أن بعض اللاعبين قد يجدون قيود الحرية فيها مختلفة عن ألعاب العالم المفتوح، لكنه يحترم مراهنة CIG على رؤية كريس روبرتس."
+     },
+     "en": {
+      "title": "First impressions from Manchester: a reddit user's 5 hours with Squadron 42",
+      "summary": "An attendee of the closed-door Manchester session shared detailed impressions after five hours with Squadron 42, describing striking visuals and a guided, cinematic style of play, plus a brief appearance by Mark Hamill and an opening talk from Chris Roberts.",
+      "details": "A reddit user who attended the closed-door Manchester session posted detailed impressions on r/starcitizen on October 9 after five hours of hands-on time with Squadron 42. They said attendees were split into two groups of roughly 65 people each, and that among the content creators present they mainly recognized BoredGamer, while spotting Morph and Sulyce in the other group.\n\nThey described roughly five hours of uninterrupted gameplay, with each attendee on their own PC playing at their own pace, interrupted only briefly by an appearance from actor Mark Hamill. The visuals reportedly stood out, particularly facial detail and character models.\n\n- The overall experience was described as cinematic and somewhat guided rather than fully open, following a lengthy opening talk from Chris Roberts in which he said he set out to recreate the feel of Wing Commander; the poster felt he succeeded.\n\n- They added that this style of game personally appeals to them even though it's uncommon in today's market, acknowledging some players may find its structure more restrictive than an open-world game, while saying they respect CIG for committing to Roberts' vision."
+     },
+     "addedAt": "2026-10-09T16:13:24+00:00"
+    },
+    {
+     "id": "sc-roadmap-roundup-oct9-mk4-gold-skylark",
+     "date": "2026-10-09",
+     "type": "development",
+     "importance": 2,
+     "sourceType": "official",
+     "sourceName": "RSI Comm-Link",
+     "url": "https://robertsspaceindustries.com/comm-link/transmission/21353-Roadmap-Roundup-October-9-2026",
+     "originalTitle": "Roadmap Roundup - October 9, 2026",
+     "ar": {
+      "title": "خارطة الطريق: ترقية Constellation Mk IV وإطلاق مقاتلة Skylark في ألفا 4.10",
+      "summary": "كشفت نشرة خارطة الطريق أن طراز Constellation Mk IV سيحصل على ترقية Gold Standard بدل التقاعد الكامل، إلى جانب إطلاق المقاتلة الصغيرة RSI Skylark داخل هيكل طراز Mk V في ألفا 4.10.",
+      "details": "نشرت Cloud Imperium Games في 9 أكتوبر تحديث خارطة الطريق الدوري، موضّحة أن طراز Constellation Mk IV لن يُسحب بالكامل كما بدا من فعالية Discovery Month، بل سيحصل على ترقية بمعيار \"Gold Standard\" تشمل تحسين الرسوم والمكونات الفيزيائية ورؤية قمرة القيادة وواجهة العرض، وقد أُضيفت هذه البطاقة وحُددت كمُنجزة في ألفا 4.10.\n\nكما أكدت الخارطة إطلاق سفينة Constellation Mk V Centaurus متعددة الأدوار، إلى جانب مقاتلة صغيرة جديدة تحمل اسم RSI Skylark تنطلق من داخل هيكل طراز Mk V، وكلتاهما مُحددتان كمُنجزتين في ألفا 4.10.\n\n- بالنسبة لألفا 4.11، أظهرت الخارطة أن تقنية \"تقسيم الكواكب\" (DGS Planet Subdivision)، التي تتيح توزيع كوكب واحد على أكثر من خادم لعب ديناميكي، أصبحت في حالة \"مرتقبة\"، على أن يكون كوكب Nyx I أول من يستخدمها."
+     },
+     "en": {
+      "title": "Roadmap update: Constellation Mk IV gets Gold Standard, Skylark fighter releases in Alpha 4.10",
+      "summary": "CIG's roadmap update revealed the Constellation Mk IV is getting a Gold Standard rework rather than full retirement, while a new small RSI Skylark fighter nested in the Mk V's hull is releasing in Alpha 4.10.",
+      "details": "Cloud Imperium Games published its biweekly Roadmap Roundup on October 9, clarifying that the Constellation Mk IV is not being fully retired as Discovery Month framing suggested, but is instead getting a \"Gold Standard\" rework with updated art, physicalized components, improved cockpit visibility and a refreshed HUD; the card was added and marked Released for Alpha 4.10.\n\nThe roadmap also confirmed the release of the multi-role Constellation Mk V Centaurus alongside a new small snub fighter called the RSI Skylark, which launches from within the Mk V's hull; both cards are marked Released in Alpha 4.10.\n\n- For Alpha 4.11, the roadmap shows \"DGS Planet Subdivision\" technology, which splits a single planet or moon across multiple dynamic game servers, now set to Tentative, with Nyx I planned as the first planet to use it."
+     },
+     "addedAt": "2026-10-09T16:13:24+00:00"
+    },
     {
      "id": "sc-sq42-manchester-event-leaks",
      "date": "2026-10-09",
