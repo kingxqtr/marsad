@@ -1,6 +1,26 @@
 {
- "updatedAt": "2026-10-09T21:42:16+00:00",
+ "updatedAt": "2026-10-09T21:58:51+00:00",
  "items": [
+  {
+   "id": "auto-e2b91d0dc463",
+   "tab": "ai",
+   "date": "2026-10-09",
+   "publishedAt": "2026-10-09T21:32:54+00:00",
+   "type": "coding",
+   "importance": 1,
+   "sourceType": "official",
+   "sourceName": "GitHub Changelog",
+   "url": "https://github.blog/changelog/2026-10-09-codeql-2-27-2-improves-c-go-rust-and-javascript-analysis",
+   "originalTitle": "CodeQL 2.27.2 improves C++, Go, Rust, and JavaScript analysis",
+   "en": {
+    "title": "CodeQL 2.27.2 improves C++, Go, Rust, and JavaScript analysis",
+    "summary": "CodeQL 2.27.2 is now available, adding a C++ regular-expression parser and analysis improvements across several languages.",
+    "details": "CodeQL 2.27.2 is now available, adding a C++ regular-expression parser and analysis improvements across several languages. CodeQL is the static analysis engine behind GitHub code scanning, which helps you find and remediate security issues in your code. The Default suite runs 498 security queries covering 170 CWEs. The Extended suite adds 131 queries covering 32 more CWEs.\n\nLanguage and framework support\n\nC/C++\n\n- CodeQL now parses regular expressions that use the ECMAScript grammar in std::regex .\n\n- We’ve added SQL-injection sink models for the Comdb2 C API as well as flow summaries for Bloomberg BDE codecs and byte-stream deserializers.\n\nGo\n\n- CodeQL now models the github.com/coder/websocket import path, in addition to nhooyr.io/websocket .\n\nRust\n\n- The Rust extractor now supports the AnyAttr and DocComment classes.\n\n- We’ve improved data flow for async blocks used with await as well as added flow summaries for native-tls , async-native-tls , and tokio-native-tls .\n\nJavaScript/TypeScript\n\n- CodeQL now recognizes the Workflow SDK’s \"use workflow\" and \"use step\" directives.\n\n- We’ve improved Hapi route-handler and request-input tracking through custom route-registration helpers and higher-order functions.\n\nmacOS 27 compatibility …"
+   },
+   "translated": false,
+   "fetchedAt": "2026-10-09T21:58:46+00:00",
+   "company": "GitHub"
+  },
   {
    "id": "auto-d21c8fdd716d",
    "tab": "star-citizen",
