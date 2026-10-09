@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": "2026-10-09T16:13:24+00:00",
+ "updatedAt": "2026-10-09T17:10:45+00:00",
  "coverage": {
   "from": "2026-07-09",
   "to": "2026-10-09"
@@ -1676,6 +1676,49 @@
   },
   "ai": {
    "news": [
+    {
+     "id": "ai2-gpu-cluster-scheduling-rework",
+     "date": "2026-10-09",
+     "type": "hardware",
+     "importance": 1,
+     "sourceType": "official",
+     "sourceName": "Hugging Face Blog (Ai2)",
+     "url": "https://huggingface.co/blog/allenai/impactful-scheduling",
+     "originalTitle": "Impactful scheduling for GPU clusters",
+     "company": "Allen Institute for AI (Ai2)",
+     "ar": {
+      "title": "Ai2 تعيد تصميم جدولة معالجات GPU في عنقودها البحثي",
+      "summary": "استبدل معهد Ai2 نظام الجدولة القائم على الأولوية بنظام حصص زمنية وجدولة عادلة هرمية، ما رفع نسبة ساعات GPU التي تحصل عليها الفرق إلى 98% وخفض وقت انتظار المهام التجريبية من ساعتين إلى 30 ثانية.",
+      "details": "نشر معهد Ai2 في 9 أكتوبر على مدونته على منصة Hugging Face تفاصيل إعادة تصميم نظام جدولة معالجات GPU في عنقوده البحثي، بعد استبدال النظام القديم القائم على الأولوية بنظام يمنح المدراء حصصًا زمنية لكل مشروع بحثي، إلى جانب جدولة عادلة هرمية تتابع الاستخدام على مدى نافذة سبعة أيام.\n\nكما أدخل الفريق مفهوم \"عقد الجدولة\" الذي يتيح لكل مهمة الإعلان عن مدة تشغيل أدنى، بحد أقصى ثماني ساعات، تكون فيها محمية من المقاطعة، بما يسمح بتقسيم الوقت بين المهام.\n\nبحسب النتائج التي أعلنها المعهد منذ انطلاق النظام الجديد في أواخر يوليو، حصلت الفرق على 98% من ساعات GPU المستحقة لها خلال فترة اختبار 30 يومًا، وبقيت نسبة استغلال العنقود عند 98% مع طلب يتجاوز السعة بمقدار 2 إلى 3 مرات، بينما انخفض زمن الانتظار النمطي (p90) لمهام التصحيح من نحو ساعتين إلى 30 ثانية، وتراجعت إصلاحات الفريق اليدوية بنسبة 74%.\n\n- أشار المعهد إلى أن الجلسات التفاعلية تأثرت بسقف مدة التشغيل، ويخطط لإنشاء عنقود مخصص للمعالجات المركزية CPU وجلسات قابلة للاستعادة، كما يدرس إن كان تجزؤ السعة يزيد زمن انتظار أكبر المهام."
+     },
+     "en": {
+      "title": "Ai2 overhauls GPU cluster scheduling, cuts debug wait times sharply",
+      "summary": "The Allen Institute for AI replaced priority-based GPU scheduling with time budgets and hierarchical fair-share scheduling, lifting teams' delivered GPU-hours to 98% and cutting debug wait times from about 2 hours to 30 seconds.",
+      "details": "The Allen Institute for AI (Ai2) published a post on its Hugging Face blog on October 9 describing how its AI infrastructure team reworked GPU scheduling on its research cluster. The old priority-based scheduler was replaced with GPU time budgets that managers allocate per project, paired with hierarchical fair-share scheduling that tracks occupancy over a rolling seven-day window.\n\nThe team also introduced a \"scheduling contract,\" letting a workload declare a minimum runtime, capped at eight hours, during which it is protected from preemption, enabling time-slicing between jobs.\n\nAccording to results from a 30-day test period since the system went live in late July, teams received 98% of the GPU hours they were owed, cluster occupancy held at 98% even with demand running 2-3x above capacity, p90 wait time for debug workloads fell from about 2 hours to 30 seconds, and human-in-the-loop repairs dropped by 74%.\n\n- Ai2 said interactive sessions were hurt by the runtime cap, and it plans a CPU-only cluster and restorable sessions, while it continues investigating whether capacity fragmentation is slowing wait times for the largest jobs."
+     },
+     "addedAt": "2026-10-09T17:10:45+00:00"
+    },
+    {
+     "id": "hn-big-arrow-on-screen-agent-skill",
+     "date": "2026-10-09",
+     "type": "product",
+     "importance": 1,
+     "sourceType": "community",
+     "sourceName": "Hacker News",
+     "url": "https://news.ycombinator.com/item?id=50018817",
+     "originalTitle": "Let your AI agents paint big arrows, boxes and text on your screen",
+     "ar": {
+      "title": "أداة مفتوحة المصدر تتيح لوكلاء الذكاء الاصطناعي رسم أسهم وصناديق على الشاشة",
+      "summary": "طرح المطور فرانتس إنزنهوفر أداة لنظام macOS بعنوان \"big-arrow-on-the-screen\" تتيح لوكيل ذكاء اصطناعي رسم أسهم وصناديق ونصوص شفافة على الشاشة لتوجيه المستخدم بدلاً من التحكم بجهازه مباشرة.",
+      "details": "نشر المطور فرانتس إنزنهوفر على GitHub أداة سطر أوامر مفتوحة المصدر لنظام macOS بعنوان \"big-arrow-on-the-screen\"، تتيح لوكيل ذكاء اصطناعي رسم أسهم وصناديق ونصوص كبيرة فوق الشاشة لا تستحوذ على التركيز وتختفي تلقائيًا بعد فترة. نال المنشور نحو 280 نقطة و114 تعليقًا على منتدى Hacker News بتاريخ 9 أكتوبر.\n\nالهدف من الأداة أن يوجّه الوكيل المستخدم بدلاً من التحكم بجهازه مباشرة، مثل الإشارة إلى الزر الصحيح في تطبيق غير مألوف أو توضيح النافذة المطلوبة، واقترح معلّقون استخدامها في الشروحات والدعم التقني عن بُعد لأفراد العائلة.\n\n- دار نقاش في التعليقات حول المخاطر الأمنية المحتملة إذا استخدم وكيل الأداة لحجب أزرار الرفض في نوافذ الأذونات، فردّ المطور بأن أدوات مثل Claude ترفض تنفيذ إجراءات معينة كإدخال كلمات المرور حتى في الوضع الأكثر صلاحية، بينما لاحظ معلّقون آخرون أن الوكيل يملك أصلاً صلاحية تنفيذ أوامر نظامية عشوائية.\n\n- انتقد بعض المعلّقين محدودية الأداة ودقتها، في حين صحّح أحدهم تقديرًا متداولًا لحجم الكود موضحًا أن الإضافة لا تتجاوز نحو 1400 رمز (توكن)."
+     },
+     "en": {
+      "title": "Open-source tool lets AI agents draw arrows and boxes on a user's screen",
+      "summary": "Developer Franz Enzenhofer released a macOS tool called big-arrow-on-the-screen that lets an AI agent draw click-through arrows, boxes and text on screen to guide a user instead of controlling the machine directly.",
+      "details": "Developer Franz Enzenhofer posted an open-source macOS command-line tool and agent skill called \"big-arrow-on-the-screen\" on GitHub, letting an AI agent draw large arrows, boxes and text overlays on screen that never take focus and disappear on their own. The Show HN post reached about 280 points and 114 comments on Hacker News on October 9.\n\nThe idea is for an agent to guide a person rather than act for them directly, such as pointing at the right button in an unfamiliar app or indicating which window to use; commenters suggested uses like tutorials and remote tech support for relatives.\n\n- A discussion thread raised the security risk of an agent using the overlay to cover a \"decline\" button in a permission prompt; the author replied that tools like Claude refuse actions such as entering passwords even in a permissive mode, and another commenter noted the agent can already run arbitrary shell commands regardless.\n\n- Some commenters criticized the project's polish and purpose, while another corrected an inflated token-cost claim, saying the skill adds only about 1,400 tokens."
+     },
+     "addedAt": "2026-10-09T17:10:45+00:00"
+    },
     {
      "id": "anthropic-cyber-mission-launch",
      "date": "2026-10-08",
