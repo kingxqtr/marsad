@@ -1,25 +1,6 @@
 {
- "updatedAt": "2026-10-09T19:59:55+00:00",
+ "updatedAt": "2026-10-09T20:17:17+00:00",
  "items": [
-  {
-   "id": "auto-b27545d73b95",
-   "tab": "ai",
-   "date": "2026-10-09",
-   "publishedAt": "2026-10-09T10:00:26+00:00",
-   "type": "product",
-   "importance": 1,
-   "sourceType": "community",
-   "sourceName": "Hacker News",
-   "url": "https://news.ycombinator.com/item?id=50018350",
-   "originalTitle": "OpenAI fires three safety researchers for \"mishandling research information\"",
-   "en": {
-    "title": "OpenAI fires three safety researchers for \"mishandling research information\"",
-    "summary": "Community discussion on Hacker News (258 points, 166 comments).",
-    "details": "Community discussion on Hacker News (258 points, 166 comments)."
-   },
-   "translated": false,
-   "fetchedAt": "2026-10-09T19:32:59+00:00"
-  },
   {
    "id": "auto-d21c8fdd716d",
    "tab": "star-citizen",
