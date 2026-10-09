@@ -83,6 +83,27 @@
         "summary": "Developer Franz Enzenhofer released a macOS tool called big-arrow-on-the-screen that lets an AI agent draw click-through arrows, boxes and text on screen to guide a user instead of controlling the machine directly.",
         "details": "Developer Franz Enzenhofer posted an open-source macOS command-line tool and agent skill called \"big-arrow-on-the-screen\" on GitHub, letting an AI agent draw large arrows, boxes and text overlays on screen that never take focus and disappear on their own. The Show HN post reached about 280 points and 114 comments on Hacker News on October 9.\n\nThe idea is for an agent to guide a person rather than act for them directly, such as pointing at the right button in an unfamiliar app or indicating which window to use; commenters suggested uses like tutorials and remote tech support for relatives.\n\n- A discussion thread raised the security risk of an agent using the overlay to cover a \"decline\" button in a permission prompt; the author replied that tools like Claude refuse actions such as entering passwords even in a permissive mode, and another commenter noted the agent can already run arbitrary shell commands regardless.\n\n- Some commenters criticized the project's polish and purpose, while another corrected an inflated token-cost claim, saying the skill adds only about 1,400 tokens."
       }
+    },
+    {
+      "id": "openai-fired-safety-researchers-dispute",
+      "date": "2026-10-08",
+      "type": "policy",
+      "importance": 2,
+      "sourceType": "community",
+      "sourceName": "Hacker News",
+      "url": "https://news.ycombinator.com/item?id=50018350",
+      "originalTitle": "Fired OpenAI safety researchers dispute misconduct claims, warn of chilling effect",
+      "company": "OpenAI",
+      "ar": {
+        "title": "باحثو سلامة مفصولون من OpenAI ينفون سوء التصرف ويحذّرون من أثر مثبط",
+        "summary": "فصلت OpenAI ثلاثة باحثين في السلامة بدعوى سوء التعامل مع معلومات حساسة شاركوها مع جهة خارجية، بينما ينفي الباحثون الثلاثة التهمة ويحذّرون من أثر مثبط على أبحاث السلامة.",
+        "details": "أكدت OpenAI في أوائل أكتوبر فصل ثلاثة باحثين -ذُكر أنهم Jasmine Wang وMikita Balesni وTomek Korbak- قائلة إن تحقيقاً داخلياً وجد أنهم تعاملوا مع معلومات حساسة خارج الإجراءات المعتمدة في الشركة، بما في ذلك مشاركتها مع جهة خارجية متخصصة في سلامة الذكاء الاصطناعي. وأوضحت الشركة أن القرار لا يتعلق بأي مخاوف سلامة أثارها الباحثون.\n\nوعاد الجدل حول القضية بعد تقرير نُشر في 8 أكتوبر أفاد بأن الثلاثة ينازعون في تهمة سوء التصرف ويحذّرون من أن الفصل قد يخلق أثراً مثبطاً على أبحاث السلامة داخل الشركة. وكان Korbak يشغل منصب حلقة الوصل التقنية بين OpenAI وجهتي التقييم الخارجيتين METR وRedwood Research خلال مراجعة حادثة متعلقة بعملاء OpenAI، ولم تكشف الشركة عن اسم الجهة أو طبيعة المعلومات المتعلقة بالفصل.\n\n- انتشر النقاش حول الفصل على منتدى Hacker News، حيث أشار معلّقون إلى أن الباحثين الثلاثة كانوا قد نشروا علناً تحذيرات سابقة حول مخاطر الذكاء الاصطناعي، وأن عضواً في اللجنة التقدمية بالكونغرس الأمريكي وصفهم بـ\"المبلّغين عن مخالفات\" وقال إنه سيسعى للحصول على مزيد من الشفافية من OpenAI."
+      },
+      "en": {
+        "title": "OpenAI's fired safety researchers dispute misconduct claims, warn of chilling effect",
+        "summary": "OpenAI fired researchers Jasmine Wang, Mikita Balesni and Tomek Korbak over alleged mishandling of sensitive information shared with an outside safety group; the three dispute the claim and warn it will chill safety research.",
+        "details": "OpenAI confirmed in early October that it had fired three researchers, reported as Jasmine Wang, Mikita Balesni and Tomek Korbak, saying an internal investigation found they mishandled sensitive information outside company procedures, including sharing it with an outside AI safety organization. OpenAI said the dismissals were not related to any safety concerns the researchers had raised.\n\nThe story drew wider attention after an October 8 report said the three disputed the misconduct claims and warned the firings could have a chilling effect on safety research. Korbak had served as OpenAI's technical liaison to outside evaluators METR and Redwood Research during a review of an incident involving OpenAI's agents; OpenAI has not named the organization or information involved in the firings.\n\n- Discussion of the firings spread on Hacker News, where commenters noted all three researchers had previously posted publicly about AI safety risks, and that a member of the US Congressional Progressive Caucus had called them whistleblowers and said he would seek more transparency from OpenAI."
+      }
     }
   ],
   "upcoming": [],
