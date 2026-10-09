@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": "2026-10-09T13:09:30+00:00",
+ "updatedAt": "2026-10-09T14:12:47+00:00",
  "coverage": {
   "from": "2026-07-09",
   "to": "2026-10-09"
@@ -822,6 +822,48 @@
   },
   "star-citizen": {
    "news": [
+    {
+     "id": "sc-sq42-manchester-event-leaks",
+     "date": "2026-10-09",
+     "type": "community",
+     "importance": 2,
+     "sourceType": "community",
+     "sourceName": "r/starcitizen",
+     "url": "https://www.reddit.com/r/starcitizen/comments/1x1gkxl/new_squadron_42_footage_from_outside_the_studio/",
+     "originalTitle": "New Squadron 42 footage from outside the studio !",
+     "ar": {
+      "title": "تسريب لقطات وتجمع صناع محتوى خارج استوديو CIG مع بدء فعالية Squadron 42",
+      "summary": "نشر مستخدمو منتدى r/starcitizen لقطات قصيرة وصورًا لصناع محتوى يتجمعون خارج استوديو Cloud Imperium Games في مانشستر، مع بدء جلسات تجربة Squadron 42 المغلقة التي كانت قد أُعلنت مسبقًا.",
+      "details": "نشر أعضاء منتدى r/starcitizen في 9 أكتوبر لقطات قصيرة قيل إنها من خارج استوديو Cloud Imperium Games في مانشستر، حيث تجمّعت مجموعة صغيرة من الداعمين الأوائل وصناع المحتوى القدامى لحضور جلسات تجربة Squadron 42 التي سبق الإعلان عنها في رسالة الرئيس الصادرة في أغسطس.\n\nوأظهرت صور أخرى منشورة على المنتدى صناع محتوى بانتظار خارج المبنى تحضيرًا للجلسات، التي تُفيد تقارير مجتمعية بأنها تمتد من 9 إلى 11 أكتوبر 2026. ويخضع الحضور بحسب هذه التقارير لاتفاقية عدم إفشاء تسمح بمناقشة الانطباعات العامة لكنها تمنع التصوير أو التسجيل داخل الفعالية.\n\n- لم تؤكد CIG رسميًا موقع مانشستر ولم تعلّق على اللقطات المسرّبة حتى الآن."
+     },
+     "en": {
+      "title": "Leaked clips, creators gather outside CIG studio as SQ42 event starts",
+      "summary": "r/starcitizen users posted short clips and photos of content creators gathering outside Cloud Imperium Games' Manchester studio as the previously announced closed-door Squadron 42 hands-on sessions began.",
+      "details": "Members of r/starcitizen posted short clips on October 9 said to be from outside Cloud Imperium Games' Manchester studio, where a small group of original backers and veteran content creators gathered for the Squadron 42 hands-on sessions first announced in Chris Roberts' August Letter from the Chairman.\n\nOther photos shared on the forum showed creators waiting outside the building ahead of the sessions, which community reports say run from October 9 to 11, 2026. Attendees are reportedly bound by a non-disclosure agreement that allows discussing general impressions but bars filming or recording inside the event.\n\n- CIG has not officially confirmed the Manchester venue or commented on the leaked clips so far."
+     },
+     "addedAt": "2026-10-09T14:12:47+00:00"
+    },
+    {
+     "id": "sc-discovery-month-constellation-mkv",
+     "date": "2026-10-09",
+     "type": "ship",
+     "importance": 2,
+     "sourceType": "official",
+     "sourceName": "RSI Comm-Link",
+     "url": "https://robertsspaceindustries.com/comm-link/transmission/21334-Alpha-4102-RSI-Discovery-Month",
+     "originalTitle": "Alpha 4.10.2: RSI Discovery Month - Missions, Rewards, & Icons",
+     "ar": {
+      "title": "فعالية RSI Discovery Month تكشف طراز Constellation Mk V Centaurus الجديد",
+      "summary": "أطلقت Cloud Imperium Games فعالية RSI Discovery Month في ستانتون بمهمات وجوائز وأيقونات مرتبطة بوصول الجيل الجديد من سفينة Constellation، طراز Mk V Centaurus، مع حزمة هدايا رقمية مجانية وتوديع رمزي لطراز Mk IV.",
+      "details": "أطلقت Cloud Imperium Games في 9 أكتوبر فعالية \"RSI Discovery Month\"، وهي فعالية موضوعية مرتبطة بوصول الجيل الجديد من سفينة Constellation، طراز Mk V Centaurus. ويمكن للاعبين التوجه إلى نظام ستانتون للحصول على مهمات وجوائز وأيقونات جديدة خاصة بالفعالية.\n\nإلى جانب الفعالية، أصدرت الشركة حزمة هدايا رقمية مجانية للداعمين تضم ملابس وأسلحة وطلاءات مركبات وعناصر ديكور مرتبطة بالسفينة الجديدة.\n\n- نشرت الشركة أيضًا رسالة بعنوان \"RSI Constellation Mk IV Celebration\" تُقدّم الشهر كفرصة لتوديع طراز Mk IV الذي خدم اللاعبين طويلاً، قبل أن يحل محله طراز Mk V في تشكيلة Constellation."
+     },
+     "en": {
+      "title": "RSI Discovery Month unveils new Constellation Mk V Centaurus",
+      "summary": "Cloud Imperium launched RSI Discovery Month in Stanton with missions, rewards and icons tied to the new-generation Constellation Mk V Centaurus, plus a free digital goodies pack and a send-off for the Mk IV.",
+      "details": "Cloud Imperium Games launched \"RSI Discovery Month\" on October 9, a themed event tied to the arrival of the next-generation Constellation, the Mk V Centaurus. Players who head to the Stanton system can pick up new missions, rewards and ship icons tied to the celebration.\n\nAlongside the event, the studio released a free Digital Goodies Pack for backers with in-game wearables, weapons, vehicle paints and decor items referencing the new ship.\n\n- CIG also published a companion post, \"RSI Constellation Mk IV Celebration,\" framing the month as a send-off for the long-serving Mk IV variant as the Mk V takes its place in the Constellation lineup."
+     },
+     "addedAt": "2026-10-09T14:12:47+00:00"
+    },
     {
      "id": "sc-monthly-report-september-2026",
      "date": "2026-10-07",
