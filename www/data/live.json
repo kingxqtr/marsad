@@ -1,6 +1,26 @@
 {
- "updatedAt": "2026-10-09T15:03:28+00:00",
+ "updatedAt": "2026-10-09T15:24:22+00:00",
  "items": [
+  {
+   "id": "auto-6922db39f0c9",
+   "tab": "ai",
+   "date": "2026-10-09",
+   "publishedAt": "2026-10-09T15:20:29+00:00",
+   "type": "hardware",
+   "importance": 1,
+   "sourceType": "official",
+   "sourceName": "Hugging Face Blog",
+   "url": "https://huggingface.co/blog/allenai/impactful-scheduling",
+   "originalTitle": "Impactful scheduling for GPU clusters",
+   "en": {
+    "title": "Impactful scheduling for GPU clusters",
+    "summary": "Impactful scheduling for GPU clusters",
+    "details": ""
+   },
+   "translated": false,
+   "fetchedAt": "2026-10-09T15:24:17+00:00",
+   "company": "Hugging Face"
+  },
   {
    "id": "auto-f7d50faafb60",
    "tab": "star-citizen",
