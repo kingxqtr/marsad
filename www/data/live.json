@@ -1,45 +1,6 @@
 {
- "updatedAt": "2026-10-09T17:01:02+00:00",
+ "updatedAt": "2026-10-09T17:22:23+00:00",
  "items": [
-  {
-   "id": "auto-81948b760907",
-   "tab": "ai",
-   "date": "2026-10-09",
-   "publishedAt": "2026-10-09T11:03:48+00:00",
-   "type": "product",
-   "importance": 1,
-   "sourceType": "community",
-   "sourceName": "Hacker News",
-   "url": "https://news.ycombinator.com/item?id=50018817",
-   "originalTitle": "Let your AI agents paint big arrows, boxes and text on your screen",
-   "en": {
-    "title": "Let your AI agents paint big arrows, boxes and text on your screen",
-    "summary": "Community discussion on Hacker News (273 points, 112 comments).",
-    "details": "Community discussion on Hacker News (273 points, 112 comments)."
-   },
-   "translated": false,
-   "fetchedAt": "2026-10-09T16:24:26+00:00"
-  },
-  {
-   "id": "auto-6922db39f0c9",
-   "tab": "ai",
-   "date": "2026-10-09",
-   "publishedAt": "2026-10-09T15:20:29+00:00",
-   "type": "hardware",
-   "importance": 1,
-   "sourceType": "official",
-   "sourceName": "Hugging Face Blog",
-   "url": "https://huggingface.co/blog/allenai/impactful-scheduling",
-   "originalTitle": "Impactful scheduling for GPU clusters",
-   "en": {
-    "title": "Impactful scheduling for GPU clusters",
-    "summary": "Impactful scheduling for GPU clusters",
-    "details": ""
-   },
-   "translated": false,
-   "fetchedAt": "2026-10-09T15:24:17+00:00",
-   "company": "Hugging Face"
-  },
   {
    "id": "auto-d21c8fdd716d",
    "tab": "star-citizen",
