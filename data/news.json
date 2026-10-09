@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": "2026-10-09T21:11:10+00:00",
+ "updatedAt": "2026-10-09T22:10:50+00:00",
  "coverage": {
   "from": "2026-07-09",
   "to": "2026-10-09"
@@ -1718,6 +1718,29 @@
       "details": "Developer Franz Enzenhofer posted an open-source macOS command-line tool and agent skill called \"big-arrow-on-the-screen\" on GitHub, letting an AI agent draw large arrows, boxes and text overlays on screen that never take focus and disappear on their own. The Show HN post reached about 280 points and 114 comments on Hacker News on October 9.\n\nThe idea is for an agent to guide a person rather than act for them directly, such as pointing at the right button in an unfamiliar app or indicating which window to use; commenters suggested uses like tutorials and remote tech support for relatives.\n\n- A discussion thread raised the security risk of an agent using the overlay to cover a \"decline\" button in a permission prompt; the author replied that tools like Claude refuse actions such as entering passwords even in a permissive mode, and another commenter noted the agent can already run arbitrary shell commands regardless.\n\n- Some commenters criticized the project's polish and purpose, while another corrected an inflated token-cost claim, saying the skill adds only about 1,400 tokens."
      },
      "addedAt": "2026-10-09T17:10:45+00:00"
+    },
+    {
+     "id": "github-codeql-2-27-2",
+     "date": "2026-10-09",
+     "type": "coding",
+     "importance": 1,
+     "sourceType": "official",
+     "sourceName": "GitHub Changelog",
+     "url": "https://github.blog/changelog/2026-10-09-codeql-2-27-2-improves-c-go-rust-and-javascript-analysis",
+     "originalTitle": "CodeQL 2.27.2 improves C++, Go, Rust, and JavaScript analysis",
+     "company": "GitHub",
+     "tool": "CodeQL",
+     "ar": {
+      "title": "GitHub تطرح CodeQL 2.27.2 بتحسينات لتحليل عدة لغات برمجة",
+      "summary": "أصدرت GitHub الإصدار 2.27.2 من محرك التحليل الساكن CodeQL، مع تحسينات في تحليل C++‎ وGo وRust وJavaScript/TypeScript ضمن ميزة فحص الأكواد.",
+      "details": "أصدرت GitHub الإصدار 2.27.2 من CodeQL، المحرك الذي يقوم عليه فحص الأكواد (code scanning) للكشف عن الثغرات الأمنية ومعالجتها. تشمل مجموعة الفحوص الافتراضية 498 استعلام أمني تغطي 170 نوعاً من الثغرات المعروفة (CWE)، بينما تضيف المجموعة الموسعة 131 استعلاماً إضافياً.\n\nفي C++‎، أصبح CodeQL يحلل التعبيرات النمطية بصياغة ECMAScript داخل std::regex، مع نماذج جديدة لرصد ثغرات حقن SQL. وفي Go، يدعم الإصدار مسار استيراد مكتبة websocket الخاصة بـ coder إلى جانب nhooyr.io. وفي Rust، تحسّن تتبع تدفق البيانات في الكتل غير المتزامنة (async) مع await. أما في JavaScript وTypeScript، فقد أصبح CodeQL يتعرف على تعليمات Workflow SDK الخاصة، مع تحسينات في تتبع معالجات المسارات في Hapi.\n\n- لا يدعم وضعا البناء التلقائي واليدوي على نظام macOS 27، أو macOS 26 مع Xcode 27\n- تحسينات في رسائل الأخطاء وخيارات سطر الأوامر الجديدة لأداة CodeQL CLI"
+     },
+     "en": {
+      "title": "GitHub ships CodeQL 2.27.2 with multi-language analysis improvements",
+      "summary": "GitHub released CodeQL 2.27.2, improving static analysis for C++, Go, Rust and JavaScript/TypeScript in its code scanning feature.",
+      "details": "GitHub released version 2.27.2 of CodeQL, the static analysis engine behind code scanning, which finds and helps remediate security issues in code. The default query suite runs 498 security queries covering 170 CWEs, while the extended suite adds 131 more queries.\n\nFor C++, CodeQL now parses ECMAScript-grammar regular expressions inside std::regex and adds new SQL-injection sink models. For Go, it models the github.com/coder/websocket import path alongside nhooyr.io/websocket. For Rust, it improves data-flow tracking through async blocks that use await. For JavaScript/TypeScript, CodeQL now recognizes the Workflow SDK's own directives and improves tracking of Hapi route handlers.\n\n- Compiled-language autobuild and manual build modes are not supported on macOS 27, or macOS 26 with Xcode 27\n- Clearer CLI error messages and new command-line options were added to the CodeQL CLI"
+     },
+     "addedAt": "2026-10-09T22:10:50+00:00"
     },
     {
      "id": "anthropic-cyber-mission-launch",
