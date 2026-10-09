@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": "2026-10-09T09:09:10+00:00",
+ "updatedAt": "2026-10-09T10:09:49+00:00",
  "coverage": {
   "from": "2026-07-09",
   "to": "2026-10-09"
@@ -8,6 +8,27 @@
  "tabs": {
   "once-human": {
    "news": [
+    {
+     "id": "oh-3-0-7-bugfixes-oct9",
+     "date": "2026-10-09",
+     "type": "update",
+     "importance": 1,
+     "sourceType": "official",
+     "sourceName": "Once Human — Steam News",
+     "url": "https://store.steampowered.com/news/app/2139460/view/1846018067932766",
+     "originalTitle": "3.0.7 Bug Fixes (October 9)",
+     "ar": {
+      "title": "Once Human تعالج أعطال صبغ الأزياء ومشكلة وضع الماشية",
+      "summary": "أصدرت Once Human في 9 أكتوبر إصلاحات تعالج وميض الصبغة على قطعتي زي وعدم القدرة على صبغ فيونكة، إضافة لمشكلة منعت بعض اللاعبين من وضع الماشية في أرضهم.",
+      "details": "صدرت مجموعة جديدة من الإصلاحات للعبة Once Human في 9 أكتوبر، ضمن سلسلة الإصلاحات المستمرة لتحديث 3.0.7 \"الخريف الذهبي\"، ومن المتوقع تفعيلها بحلول الساعة 04:30 بتوقيت المحيط الهادئ.\n\nيعالج التحديث وميضًا في صبغة الجزء العلوي الرجالي \"Hollow Moon Wayfarer\" عند ارتدائه كقطعة منفصلة، ويصحح عطلاً كان يمنع صبغ الفيونكة الخلفية في \"Holly Blessing Set Bottom\"؛ واللاعبون الذين صبغوا هذه القطعة مسبقًا سيحصلون على تعويض عن الرموز المستهلكة خلال 3 أيام عمل بعد الإصلاح.\n\nكما يصلح التحديث مشكلة منعت بعض اللاعبين من وضع الماشية في أراضيهم."
+     },
+     "en": {
+      "title": "Once Human patches cosmetic dye glitches and a livestock bug",
+      "summary": "An October 9 hotfix for Once Human fixes dye flashing on two cosmetics and a bug stopping some players from placing livestock on their territory.",
+      "details": "A new round of fixes shipped for Once Human on October 9, part of the ongoing fix series for the 3.0.7 Golden Autumn update, expected to go live by 04:30 PT.\n\nThe patch fixes a flashing dye issue on the Hollow Moon Wayfarer male top when worn as a separate piece, and corrects a bug that prevented dyeing the back bowknot on the Holly Blessing Set Bottom; players who already dyed that piece will be compensated for the tokens they spent within 3 business days of the fix.\n\nThe update also fixes an issue that stopped some players from placing livestock on their territory."
+     },
+     "addedAt": "2026-10-09T10:09:49+00:00"
+    },
     {
      "id": "oh-3-0-7-bugfixes-sept30",
      "date": "2026-09-30",
