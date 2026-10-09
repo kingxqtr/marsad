@@ -1,6 +1,25 @@
 {
- "updatedAt": "2026-10-09T16:01:49+00:00",
+ "updatedAt": "2026-10-09T16:24:30+00:00",
  "items": [
+  {
+   "id": "auto-81948b760907",
+   "tab": "ai",
+   "date": "2026-10-09",
+   "publishedAt": "2026-10-09T11:03:48+00:00",
+   "type": "product",
+   "importance": 1,
+   "sourceType": "community",
+   "sourceName": "Hacker News",
+   "url": "https://news.ycombinator.com/item?id=50018817",
+   "originalTitle": "Let your AI agents paint big arrows, boxes and text on your screen",
+   "en": {
+    "title": "Let your AI agents paint big arrows, boxes and text on your screen",
+    "summary": "Community discussion on Hacker News (252 points, 103 comments).",
+    "details": "Community discussion on Hacker News (252 points, 103 comments)."
+   },
+   "translated": false,
+   "fetchedAt": "2026-10-09T16:24:26+00:00"
+  },
   {
    "id": "auto-6922db39f0c9",
    "tab": "ai",
@@ -20,25 +39,6 @@
    "translated": false,
    "fetchedAt": "2026-10-09T15:24:17+00:00",
    "company": "Hugging Face"
-  },
-  {
-   "id": "auto-f7d50faafb60",
-   "tab": "star-citizen",
-   "date": "2026-10-09",
-   "publishedAt": "2026-10-09T14:27:11+00:00",
-   "type": "development",
-   "importance": 1,
-   "sourceType": "official",
-   "sourceName": "RSI Comm-Link",
-   "url": "https://robertsspaceindustries.com/comm-link/transmission/21353-Roadmap-Roundup-October-9-2026",
-   "originalTitle": "Roadmap Roundup - October 9, 2026",
-   "en": {
-    "title": "Roadmap Roundup - October 9, 2026",
-    "summary": "With the Roadmap just updated, here is a brief explanatory note to give you insight into the decision-making that led to any changes.",
-    "details": "With the Roadmap just updated, here is a brief explanatory note to give you insight into the decision-making that led to any changes."
-   },
-   "translated": false,
-   "fetchedAt": "2026-10-09T14:27:11+00:00"
   },
   {
    "id": "auto-d21c8fdd716d",
