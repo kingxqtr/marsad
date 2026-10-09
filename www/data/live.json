@@ -1,4 +1,81 @@
 {
- "updatedAt": "2026-10-09T14:02:52+00:00",
- "items": []
+ "updatedAt": "2026-10-09T14:27:16+00:00",
+ "items": [
+  {
+   "id": "auto-f7d50faafb60",
+   "tab": "star-citizen",
+   "date": "2026-10-09",
+   "publishedAt": "2026-10-09T14:27:11+00:00",
+   "type": "development",
+   "importance": 1,
+   "sourceType": "official",
+   "sourceName": "RSI Comm-Link",
+   "url": "https://robertsspaceindustries.com/comm-link/transmission/21353-Roadmap-Roundup-October-9-2026",
+   "originalTitle": "Roadmap Roundup - October 9, 2026",
+   "en": {
+    "title": "Roadmap Roundup - October 9, 2026",
+    "summary": "With the Roadmap just updated, here is a brief explanatory note to give you insight into the decision-making that led to any changes.",
+    "details": "With the Roadmap just updated, here is a brief explanatory note to give you insight into the decision-making that led to any changes."
+   },
+   "translated": false,
+   "fetchedAt": "2026-10-09T14:27:11+00:00"
+  },
+  {
+   "id": "auto-d21c8fdd716d",
+   "tab": "star-citizen",
+   "date": "2026-10-09",
+   "publishedAt": "2026-10-09T14:27:11+00:00",
+   "type": "development",
+   "importance": 1,
+   "sourceType": "official",
+   "sourceName": "RSI Comm-Link",
+   "url": "https://robertsspaceindustries.com/comm-link/transmission/21350-FAQ-RSI-Discovery-Month",
+   "originalTitle": "FAQ: RSI Discovery Month",
+   "en": {
+    "title": "FAQ: RSI Discovery Month",
+    "summary": "FAQ: RSI Discovery Month",
+    "details": ""
+   },
+   "translated": false,
+   "fetchedAt": "2026-10-09T14:27:11+00:00"
+  },
+  {
+   "id": "auto-1c78a862e19d",
+   "tab": "star-citizen",
+   "date": "2026-10-09",
+   "publishedAt": "2026-10-09T14:27:11+00:00",
+   "type": "ship",
+   "importance": 1,
+   "sourceType": "official",
+   "sourceName": "RSI Comm-Link",
+   "url": "https://robertsspaceindustries.com/comm-link/transmission/21276-RSI-Discovery-Month-Digital-Goodies-Pack",
+   "originalTitle": "RSI Discovery Month Digital Goodies Pack - Available Now!",
+   "en": {
+    "title": "RSI Discovery Month Digital Goodies Pack - Available Now!",
+    "summary": "Join in and celebrate RSI Discovery Month with new in-game wearables, weapons, vehicle paints, décor, and more.",
+    "details": "Join in and celebrate RSI Discovery Month with new in-game wearables, weapons, vehicle paints, décor, and more."
+   },
+   "translated": false,
+   "fetchedAt": "2026-10-09T14:27:11+00:00"
+  },
+  {
+   "id": "auto-2f9347e3a585",
+   "tab": "star-citizen",
+   "date": "2026-10-09",
+   "publishedAt": "2026-10-09T14:27:11+00:00",
+   "type": "development",
+   "importance": 1,
+   "sourceType": "official",
+   "sourceName": "RSI Comm-Link",
+   "url": "https://robertsspaceindustries.com/comm-link/transmission/21336-RSI-Constellation-Mk-IV-Celebration",
+   "originalTitle": "RSI Constellation Mk IV Celebration - A Chapter Written in the Stars",
+   "en": {
+    "title": "RSI Constellation Mk IV Celebration - A Chapter Written in the Stars",
+    "summary": "As the Mk IV makes way for the next generation, we celebrate an icon of space travel and the countless stories written aboard it.",
+    "details": "As the Mk IV makes way for the next generation, we celebrate an icon of space travel and the countless stories written aboard it."
+   },
+   "translated": false,
+   "fetchedAt": "2026-10-09T14:27:11+00:00"
+  }
+ ]
 }
