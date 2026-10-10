@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": "2026-10-10T19:10:02+00:00",
+ "updatedAt": "2026-10-10T20:10:00+00:00",
  "coverage": {
   "from": "2026-07-10",
   "to": "2026-10-10"
@@ -1677,6 +1677,29 @@
   },
   "ai": {
    "news": [
+    {
+     "id": "github-copilot-jetbrains-controls-chat-oct10",
+     "date": "2026-10-10",
+     "type": "coding",
+     "importance": 1,
+     "sourceType": "official",
+     "sourceName": "GitHub Changelog",
+     "url": "https://github.blog/changelog/2026-10-10-new-controls-and-chat-improvements-in-copilot-for-jetbrains",
+     "originalTitle": "New controls and chat improvements in Copilot for JetBrains",
+     "company": "GitHub",
+     "tool": "GitHub Copilot",
+     "ar": {
+      "title": "GitHub تضيف أدوات تحكم بالنماذج وإصلاحات سريعة لـ Copilot في JetBrains",
+      "summary": "أصدرت GitHub تحديثاً لـ Copilot في بيئات JetBrains يتيح للمسؤولين تحديد نموذج افتراضي، ويضيف إجراء إصلاح سريع من التشخيصات، مع تحسينات في التنقل بالحساب والمحادثة.",
+      "details": "أصدرت GitHub مجموعة تحديثات جديدة لإضافة Copilot في بيئات JetBrains. يمكن لمسؤولي المؤسسات الآن تحديد نموذج ذكاء اصطناعي افتراضي على مستوى المؤسسة للمحادثات الجديدة عبر الإعدادات المُدارة، بينما يظل بإمكان المطورين اختيار نموذج مختلف بأنفسهم.\n\nكما أُضيف إجراء إصلاح جديد يظهر مباشرة في قائمة التشخيصات، يفتح المحادثة المضمّنة (inline chat) بطلب إصلاح المشكلة المرصودة. يعمل الإجراء بوضع الوكيل (agent) عند توفره، وينتقل إلى وضع السؤال (ask) في حال عدم توفره، ما يقلل الخطوات اللازمة للتحول من رصد خطأ إلى إصلاحه.\n\nيضيف التحديث أيضاً خياراً لتعطيل التشغيل التلقائي لخوادم MCP المستخدمة مع تكاملات Copilot وClaude، مما يمنح المطورين تحكماً أكبر في توقيت تفعيل الأدوات المهيأة.\n\nوتشمل التغييرات الأصغر تسميات أوضح لحالة الحساب، وخيار تبديل الحساب، وتنقلاً أسهل بين قوائم المحادثات الطويلة، إلى جانب تحسينات عامة في الاستقرار عبر جلسات الوكيل والتخصيصات ومساحات العمل (worktrees)."
+     },
+     "en": {
+      "title": "GitHub Copilot for JetBrains gains admin model controls, quick fixes",
+      "summary": "GitHub's latest Copilot update for JetBrains lets admins set a default AI model, adds a one-click Fix action from diagnostics, and improves chat and account navigation.",
+      "details": "GitHub shipped a fresh round of updates for Copilot in JetBrains IDEs. Enterprise administrators can now set an organization-wide default AI model for new chat conversations through managed settings, while developers can still pick a different model themselves.\n\nA new Fix action appears directly in the diagnostics intention menu, opening inline chat with a request to repair the flagged issue. It uses agent mode when available and falls back to ask mode otherwise, cutting the steps needed to go from an error to a working fix.\n\nThe update also adds a setting to turn off automatic startup of MCP servers used by Copilot and Claude integrations, giving developers more control over when configured tools activate.\n\nSmaller changes round out the release: clearer account status labels, a Switch Account option, easier navigation through long chat lists, and general reliability improvements across agent sessions, customizations, and worktrees."
+     },
+     "addedAt": "2026-10-10T20:10:00+00:00"
+    },
     {
      "id": "ai2-gpu-cluster-scheduling-rework",
      "date": "2026-10-09",
