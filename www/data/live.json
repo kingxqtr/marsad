@@ -1,6 +1,25 @@
 {
- "updatedAt": "2026-10-10T15:59:30+00:00",
+ "updatedAt": "2026-10-10T16:15:01+00:00",
  "items": [
+  {
+   "id": "auto-5a3766926e49",
+   "tab": "ai",
+   "date": "2026-10-10",
+   "publishedAt": "2026-10-10T10:20:08+00:00",
+   "type": "hardware",
+   "importance": 1,
+   "sourceType": "community",
+   "sourceName": "r/LocalLLaMA",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x2bt6r/nvidia_reportedly_discontinuing_rtx_5090_gb202/",
+   "originalTitle": "NVIDIA reportedly discontinuing RTX 5090, GB202 GPUs to be reserved for RTX PRO series",
+   "en": {
+    "title": "NVIDIA reportedly discontinuing RTX 5090, GB202 GPUs to be reserved for RTX PRO series",
+    "summary": "Community post on r/LocalLLaMA. No.....",
+    "details": "Community post on r/LocalLLaMA.\n\nNo....."
+   },
+   "translated": false,
+   "fetchedAt": "2026-10-10T16:15:01+00:00"
+  },
   {
    "id": "auto-ee7ae1376a71",
    "tab": "star-citizen",
