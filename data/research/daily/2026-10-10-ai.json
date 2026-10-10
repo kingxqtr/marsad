@@ -23,6 +23,28 @@
         "summary": "GitHub released CodeQL 2.27.2, improving static analysis for C++, Go, Rust and JavaScript/TypeScript in its code scanning feature.",
         "details": "GitHub released version 2.27.2 of CodeQL, the static analysis engine behind code scanning, which finds and helps remediate security issues in code. The default query suite runs 498 security queries covering 170 CWEs, while the extended suite adds 131 more queries.\n\nFor C++, CodeQL now parses ECMAScript-grammar regular expressions inside std::regex and adds new SQL-injection sink models. For Go, it models the github.com/coder/websocket import path alongside nhooyr.io/websocket. For Rust, it improves data-flow tracking through async blocks that use await. For JavaScript/TypeScript, CodeQL now recognizes the Workflow SDK's own directives and improves tracking of Hapi route handlers.\n\n- Compiled-language autobuild and manual build modes are not supported on macOS 27, or macOS 26 with Xcode 27\n- Clearer CLI error messages and new command-line options were added to the CodeQL CLI"
       }
+    },
+    {
+      "id": "github-copilot-cli-ollama-vscode-1-141",
+      "date": "2026-10-09",
+      "type": "coding",
+      "importance": 1,
+      "sourceType": "official",
+      "sourceName": "GitHub Changelog",
+      "url": "https://github.blog/changelog/2026-10-09-github-copilot-weekly-releases-october-5",
+      "originalTitle": "GitHub Copilot weekly releases — October 5",
+      "company": "GitHub",
+      "tool": "GitHub Copilot",
+      "ar": {
+        "title": "GitHub Copilot: اكتشاف نماذج Ollama المحلية في CLI وتحسينات VS Code 1.141",
+        "summary": "أضافت GitHub إلى Copilot CLI اكتشاف النماذج المحلية عبر Ollama، ودعم حسابات منفصلة في تطبيق Copilot، مع ميزات جديدة في إصدار VS Code 1.141.",
+        "details": "في ملخصها الأسبوعي للتحديثات، أضافت GitHub إلى Copilot CLI أمر /model الذي يكتشف الآن النماذج المتاحة من خلال نسخة Ollama تعمل محلياً على جهاز المستخدم، إلى جانب النماذج السحابية المهيأة مسبقاً.\n\nكما أصبح تطبيق Copilot يسمح باستخدام حساب GitHub مختلف لترخيص Copilot عن الحساب المستخدم للوصول إلى المستودعات، وهو مفيد لمن يملك ترخيص Copilot من جهة عمل لكنه يصل إلى مستودعات عبر حساب آخر.\n\n- في VS Code 1.141: يمكن الآن عرض جلسات الوكيل (agent) جنباً إلى جنب في نافذة Agents وترتيبها في شبكة لمقارنة النتائج أو تتبع عدة مهام في الوقت نفسه\n- ميزة جديدة لتنظيف مساحة القرص تعرض حجم مساحات العمل (worktrees) الخاصة بالجلسات غير النشطة وتتيح اختيار ما يجب حذفه"
+      },
+      "en": {
+        "title": "GitHub Copilot CLI adds local Ollama model discovery, VS Code 1.141 ships",
+        "summary": "GitHub's weekly Copilot roundup adds local Ollama model discovery to Copilot CLI, separate-account support in the Copilot app, and new agent-session tools in VS Code 1.141.",
+        "details": "In its weekly release roundup, GitHub added a feature to Copilot CLI's /model command so it now discovers models from a locally running Ollama instance, alongside already-configured and cloud models from GitHub Copilot.\n\nThe Copilot app now supports using a different GitHub account for your Copilot license than the one used to access repositories, useful for people with an enterprise-provided license who access repos through a separate account.\n\n- In VS Code 1.141: agent sessions can now be viewed side by side in the Agents window and arranged in a grid to compare results or follow multiple tasks\n- A new \"Open worktree cleanup\" option in chat shows how much disk space inactive session worktrees use and lets you choose which to remove"
+      }
     }
   ],
   "upcoming": [],

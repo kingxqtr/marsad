@@ -1,9 +1,9 @@
 {
  "version": 1,
- "updatedAt": "2026-10-09T23:09:50+00:00",
+ "updatedAt": "2026-10-10T00:16:20+00:00",
  "coverage": {
-  "from": "2026-07-09",
-  "to": "2026-10-09"
+  "from": "2026-07-10",
+  "to": "2026-10-10"
  },
  "tabs": {
   "once-human": {
@@ -595,48 +595,6 @@
       "details": "Once Human announced a partnership with StarDesk, a remote PC access tool that lets players connect to their home gaming PC from another device and keep playing the PC version of the game.\n\nAccording to the announcement, the PC runs the game while the phone, tablet or laptop only handles the display and controls, which the partners say reduces heat and battery drain on handheld devices. Because players connect to their own PC, their bases, missions and progress stay exactly the same.\n\n- Price: free to use as part of the partnership\n- Platforms: Windows, macOS, iOS and Android\n- Features: low-latency streaming, touch controls and key presets for mobile\n- Setup: install StarDesk on the gaming PC and on the second device, sign in with the same account, then connect\n\nOn the same day the official site also promoted a renewed partnership with the network booster GearUP."
      },
      "addedAt": "2026-07-10T23:59:59+00:00"
-    },
-    {
-     "id": "oh-version-3-0-1-anniversary-update",
-     "date": "2026-07-09",
-     "type": "update",
-     "importance": 3,
-     "sourceType": "official",
-     "sourceName": "Once Human — Official Website",
-     "url": "https://www.oncehuman.game/news/update/20260709/40780_1307147.html",
-     "originalTitle": "Version 3.0.1 Update Announcement (July 9)",
-     "ar": {
-      "title": "تحديث 3.0.1: منظور الشخص الأول والصبغ الحر وRaidFest في الذكرى الثانية",
-      "summary": "افتتح تحديث 9 يوليو فعالية الذكرى الثانية، وأضاف منظور الشخص الأول ونظام صبغ الملابس وعدوّين جديدين وأسلحة جديدة ومهرجان RaidFest في RaidZone.",
-      "details": "وصل الإصدار 3.0.1 بعد صيانة بدأت في 9 يوليو 2026 الساعة 4:00 عصرًا بتوقيت المحيط الهادئ (2:00 فجر 10 يوليو بتوقيت الخليج). وبلغ حجم التنزيل نحو 22.6 غيغابايت لمشغّل PC و1.9 غيغابايت على Android و2.2 غيغابايت على iOS، وحصل كل لاعب على 1000 Starchrom وصندوق S13 من فئة Epic وتذكرتي سحب للذكرى السنوية.\n\nأبرز الإضافات:\n- فعالية Dreamy Maelstrom حتى 30 يوليو، ومنظور الشخص الأول في اللعبة الرئيسية وRaidZone\n- نظام جديد لصبغ الملابس يبدأ بالمجموعات الأسطورية الصادرة حتى 11 يونيو\n- العدوّان Acting Physician وLady Sea Nettle، والسلاحان QBJ97 – Fiery Trees and Silver Flowers وSN700 – Finale، ومجموعة الدروع Ghost Link\n- طرق جديدة للحصول على Shiny Mods عبر تقييم السيناريو ومراحل الجمع، ومشغّل موسيقى مع خمس أغانٍ جديدة\n- مهرجان RaidFest في RaidZone مع طور Crimson Revelry المحدود الذي يفتح القتال بين اللاعبين ومداهمة القواعد لساعة في كل مرة\n\nكما حصلت الخوادم المخصصة على كاميرا حرة والتحكم في الطقس وقواعد للمنظور يحددها المضيف، وأضاف المتجر صندوق Eldritch Diadem مع زي Abyssal Touch القابل للترقية على أربع مراحل."
-     },
-     "en": {
-      "title": "Version 3.0.1: anniversary update adds first-person mode, dyes and RaidFest",
-      "summary": "The July 9 (PT) patch opened the anniversary event and added first-person mode, free-form fashion dyeing, two new enemies, new weapons and a RaidZone festival.",
-      "details": "Version 3.0.1 went live after maintenance starting July 9, 2026 at 4:00 PM PT (2:00 AM on July 10 in the Gulf, UTC+3). Downloads were about 22.6 GB for the PC launcher, 1.9 GB on Android and 2.2 GB on iOS, and every player received 1,000 Starchrom, an Epic S13 crate and two anniversary draw tickets.\n\nMain additions:\n- The Dreamy Maelstrom anniversary event (until July 30) and first-person mode in the main game and RaidZone\n- A new fashion dye system, starting with legendary sets released up to June 11\n- New enemies Acting Physician and Lady Sea Nettle; new weapons QBJ97 – Fiery Trees and Silver Flowers and SN700 – Finale; the Ghost Link armor set\n- New ways to earn Shiny Mods through scenario ratings and collection milestones, plus a music player with five new songs\n- RaidZone \"RaidFest\" with the limited Crimson Revelry mode, where PvP and base raids open for one hour at a time\n\nCustom Servers gained a free camera, weather control and host-set camera rules, and the shop added the Eldritch Diadem crate with the upgradable four-tier \"Abyssal Touch\" outfit."
-     },
-     "addedAt": "2026-07-09T23:59:59+00:00"
-    },
-    {
-     "id": "oh-console-launch-date-preorders",
-     "date": "2026-07-09",
-     "type": "platform",
-     "importance": 3,
-     "sourceType": "official",
-     "sourceName": "Once Human — Official YouTube",
-     "url": "https://www.youtube.com/watch?v=YRa7L46q7IE",
-     "originalTitle": "Once Human | Global Console Launch on Aug 25 (PT)",
-     "ar": {
-      "title": "Once Human تحدد 25 أغسطس موعدًا لإطلاقها على PS5 وXbox Series X|S",
-      "summary": "أعلنت لعبة البقاء المجانية موعد إطلاقها على PlayStation 5 وXbox Series X|S في 25 أغسطس (بتوقيت المحيط الهادئ)، مع فتح الطلب المسبق وحزمتين حصريتين للمنصتين.",
-      "details": "أعلنت Starry Studio وNetEase أن Once Human، المتاحة على PC والجوال، ستصل إلى PlayStation 5 وXbox Series X|S في 25 أغسطس بتوقيت المحيط الهادئ. ونُشر الموعد عبر القنوات الرسمية في 9 يوليو، بعد يوم من بث مباشر خاص بنسخة المنصات مع منتجها Vincent.\n\nركّز الإعلان على إمكانية اللعب الكامل بمنظور الشخص الأول، وفُتح الطلب المسبق فورًا عبر متجري PlayStation وXbox مع مكافآت حصرية لمستخدمي المنصات. وعُرضت حزمتان للطلب المسبق:\n- Starter Pack: اشتراك Meta Pass لشهر، وثلاثة أشكال أسلحة Midnight Rave، وشكل Cradle باسم Black Gold Butterfly، وشكل Wish Machine، وبطاقة اسم حصرية\n- Radiance Pack: اشتراك Meta Pass لشهر، واختيار مجموعة ملابس Epic، وBattle Pass المميز، واثنان من Lightforge Ingots، وإطار صورة حصري\n\nوتبقى اللعبة مجانية، مع لعب مشترك وتقدّم موحّد بين PC والجوال والمنصات المنزلية."
-     },
-     "en": {
-      "title": "Once Human sets August 25 console launch on PS5 and Xbox Series X|S",
-      "summary": "The free-to-play survival game dated its PlayStation 5 and Xbox Series X|S release for August 25 (PT), with pre-orders and two console-only bundles opening the same day.",
-      "details": "Starry Studio and NetEase announced that Once Human, already on PC and mobile, would launch on PlayStation 5 and Xbox Series X|S on August 25 (PT). The date was published on the official channels on July 9, a day after a special console livestream with console producer Vincent.\n\nThe announcement highlighted playing fully in first-person mode, and pre-orders opened immediately on the PlayStation Store and Xbox Store with exclusive console-only bonuses. Two pre-order bundles were shown:\n- Starter Pack: a one-month Meta Pass, three \"Midnight Rave\" weapon skins, a Black Gold Butterfly cradle skin, a Wish Machine skin and an exclusive namecard\n- Radiance Pack: a one-month Meta Pass, an Epic outfit-set selection, the premium Battle Pass, two Lightforge Ingots and an exclusive avatar frame\n\nThe game itself remains free to play, with cross-play and shared progress across PC, mobile and consoles."
-     },
-     "addedAt": "2026-07-09T23:59:59+00:00"
     }
    ],
    "upcoming": [
@@ -1741,6 +1699,29 @@
       "details": "GitHub released version 2.27.2 of CodeQL, the static analysis engine behind code scanning, which finds and helps remediate security issues in code. The default query suite runs 498 security queries covering 170 CWEs, while the extended suite adds 131 more queries.\n\nFor C++, CodeQL now parses ECMAScript-grammar regular expressions inside std::regex and adds new SQL-injection sink models. For Go, it models the github.com/coder/websocket import path alongside nhooyr.io/websocket. For Rust, it improves data-flow tracking through async blocks that use await. For JavaScript/TypeScript, CodeQL now recognizes the Workflow SDK's own directives and improves tracking of Hapi route handlers.\n\n- Compiled-language autobuild and manual build modes are not supported on macOS 27, or macOS 26 with Xcode 27\n- Clearer CLI error messages and new command-line options were added to the CodeQL CLI"
      },
      "addedAt": "2026-10-09T22:10:50+00:00"
+    },
+    {
+     "id": "github-copilot-cli-ollama-vscode-1-141",
+     "date": "2026-10-09",
+     "type": "coding",
+     "importance": 1,
+     "sourceType": "official",
+     "sourceName": "GitHub Changelog",
+     "url": "https://github.blog/changelog/2026-10-09-github-copilot-weekly-releases-october-5",
+     "originalTitle": "GitHub Copilot weekly releases — October 5",
+     "company": "GitHub",
+     "tool": "GitHub Copilot",
+     "ar": {
+      "title": "GitHub Copilot: اكتشاف نماذج Ollama المحلية في CLI وتحسينات VS Code 1.141",
+      "summary": "أضافت GitHub إلى Copilot CLI اكتشاف النماذج المحلية عبر Ollama، ودعم حسابات منفصلة في تطبيق Copilot، مع ميزات جديدة في إصدار VS Code 1.141.",
+      "details": "في ملخصها الأسبوعي للتحديثات، أضافت GitHub إلى Copilot CLI أمر /model الذي يكتشف الآن النماذج المتاحة من خلال نسخة Ollama تعمل محلياً على جهاز المستخدم، إلى جانب النماذج السحابية المهيأة مسبقاً.\n\nكما أصبح تطبيق Copilot يسمح باستخدام حساب GitHub مختلف لترخيص Copilot عن الحساب المستخدم للوصول إلى المستودعات، وهو مفيد لمن يملك ترخيص Copilot من جهة عمل لكنه يصل إلى مستودعات عبر حساب آخر.\n\n- في VS Code 1.141: يمكن الآن عرض جلسات الوكيل (agent) جنباً إلى جنب في نافذة Agents وترتيبها في شبكة لمقارنة النتائج أو تتبع عدة مهام في الوقت نفسه\n- ميزة جديدة لتنظيف مساحة القرص تعرض حجم مساحات العمل (worktrees) الخاصة بالجلسات غير النشطة وتتيح اختيار ما يجب حذفه"
+     },
+     "en": {
+      "title": "GitHub Copilot CLI adds local Ollama model discovery, VS Code 1.141 ships",
+      "summary": "GitHub's weekly Copilot roundup adds local Ollama model discovery to Copilot CLI, separate-account support in the Copilot app, and new agent-session tools in VS Code 1.141.",
+      "details": "In its weekly release roundup, GitHub added a feature to Copilot CLI's /model command so it now discovers models from a locally running Ollama instance, alongside already-configured and cloud models from GitHub Copilot.\n\nThe Copilot app now supports using a different GitHub account for your Copilot license than the one used to access repositories, useful for people with an enterprise-provided license who access repos through a separate account.\n\n- In VS Code 1.141: agent sessions can now be viewed side by side in the Agents window and arranged in a grid to compare results or follow multiple tasks\n- A new \"Open worktree cleanup\" option in chat shows how much disk space inactive session worktrees use and lets you choose which to remove"
+     },
+     "addedAt": "2026-10-09T23:59:59+00:00"
     },
     {
      "id": "anthropic-cyber-mission-launch",
@@ -5088,52 +5069,6 @@
       "details": "The US Commerce Department's Bureau of Industry and Security (BIS) published a final rule on July 14, effective from July 10, giving the United Arab Emirates much more favourable treatment under US export controls.\n\nWhat changes:\n- The UAE moves from Country Groups D:3 and D:4 into A:5, a group made up largely of close US allies, opening up more licence exceptions.\n- UAE government bodies, G42 and Core42 can now receive advanced AI chips and computing systems licence-free, in line with the May 2025 US-UAE AI cooperation framework.\n- Amazon, Apple, Google, Meta, Microsoft, OpenAI, Oracle and xAI, and their UAE subsidiaries, got the same approval.\n\nThere is a clock: unless BIS says otherwise, G42's and Core42's licence-free status expires on April 6, 2027, and if they have not become US companies by then they must reapply. BIS also said it will look favourably on chip and server export requests involving UAE-based MGX. G42 welcomed the decision as a milestone for the US-UAE technology partnership."
      },
      "addedAt": "2026-07-14T23:59:59+00:00"
-    },
-    {
-     "id": "openai-retires-atlas-browser-chatgpt-work",
-     "date": "2026-07-09",
-     "type": "product",
-     "importance": 3,
-     "sourceType": "official",
-     "sourceName": "OpenAI",
-     "url": "https://openai.com/index/chatgpt-for-your-most-ambitious-work/",
-     "originalTitle": "ChatGPT is now a partner for your most ambitious work",
-     "company": "OpenAI",
-     "tool": "ChatGPT Atlas",
-     "ar": {
-      "title": "OpenAI توقف متصفح Atlas وتنقل التصفح الذكي إلى ChatGPT",
-      "summary": "بالتزامن مع إطلاق وكيل ChatGPT Work في 9 يوليو، بدأت OpenAI إيقاف متصفحها المستقل Atlas الذي توقف عن العمل في 9 أغسطس، على أن تنتقل ميزات التصفح بالوكلاء إلى تطبيق ChatGPT لسطح المكتب.",
-      "details": "أعلنت OpenAI في 9 يوليو أنها ستوقف ChatGPT Atlas، متصفح الذكاء الاصطناعي لنظام macOS الذي أطلقته في أكتوبر 2025، ومنحت المستخدمين نحو شهر للانتقال، وقد توقف المتصفح عن العمل في 9 أغسطس 2026.\n\nوجاء الإعلان مع إطلاق ChatGPT Work، وهو وكيل جديد يعمل بتقنيات Codex ونموذج GPT-5.6، يستطيع تنفيذ مهام عبر تطبيقات المستخدم وملفاته ومتابعة المشروع لساعات لإنتاج مستندات وجداول وعروض وتطبيقات ويب مكتملة.\n\n- يضم تطبيق ChatGPT لسطح المكتب متصفحاً أكثر قدرة يدعم تعدد التبويبات وتنزيل الملفات وتسجيل الدخول إلى المواقع.\n- على سطح المكتب، تتيح ميزة Computer Use لـChatGPT تشغيل التطبيقات والمتصفح في الخلفية نيابة عن المستخدم.\n\nونصحت OpenAI مستخدمي Atlas بتصدير الإشارات المرجعية وحفظ الصفحات المهمة قبل موعد الإيقاف."
-     },
-     "en": {
-      "title": "OpenAI retires its Atlas browser and moves agentic browsing into ChatGPT",
-      "summary": "Alongside launching the ChatGPT Work agent on 9 July, OpenAI began winding down its standalone Atlas browser, which stopped working on 9 August. Its agentic browsing moves into the ChatGPT desktop app.",
-      "details": "OpenAI said on 9 July that it would retire ChatGPT Atlas, the AI browser for macOS it launched in October 2025, and gave users about a month to move. Atlas stopped working on 9 August 2026.\n\nThe announcement came with ChatGPT Work, a new agent powered by Codex and GPT-5.6 that can act across a user's apps and files and stay on a project for hours to deliver finished documents, spreadsheets, slides and web apps.\n\n- The ChatGPT desktop app now includes a more capable browser with multiple tabs, downloads and sign-in to websites.\n- On desktop, Computer Use lets ChatGPT operate apps and the browser in the background on the user's behalf.\n\nOpenAI advised Atlas users to export their bookmarks and save important pages before the shutdown date."
-     },
-     "addedAt": "2026-07-09T23:59:59+00:00"
-    },
-    {
-     "id": "openai-gpt-5-6-sol-terra-luna",
-     "date": "2026-07-09",
-     "type": "model",
-     "importance": 2,
-     "sourceType": "community",
-     "sourceName": "OpenAI Developer Community forum",
-     "url": "https://community.openai.com/t/introducing-gpt-5-6-series-sol-terra-and-luna-coming-july-9-10am-pt/1384931",
-     "originalTitle": "Introducing GPT-5.6 series: Sol, Terra and Luna. Coming July 9 10am PT",
-     "company": "OpenAI",
-     "tool": "GPT-5.6",
-     "ar": {
-      "title": "OpenAI تطلق عائلة GPT-5.6 بثلاثة نماذج: Sol وTerra وLuna",
-      "summary": "وصل جيل GPT-5.6 من OpenAI بثلاث فئات: Sol للاستدلال المتقدم ومهام الوكلاء الطويلة، وTerra للاستخدام اليومي بتكلفة أقل، وLuna الخيار الأسرع والأقل تكلفة.",
-      "details": "أطلقت OpenAI نماذج GPT-5.6 للعموم في 9 يوليو، بعد فترة معاينة مع مجموعة مختارة من الشركاء. وتأتي العائلة بثلاثة أحجام تناسب احتياجات مختلفة.\n\n- Sol: النموذج الرئيسي المخصص للاستدلال المتقدم وعمل الوكلاء طويل المدى، وقد سجل أرقامًا قياسية في Terminal-Bench 2.1 وتفوق بنحو 9 نقاط مئوية على GPT-5.5 في تقييم SecureBio للأحياء\n- Terra: نموذج متوازن للاستخدام اليومي تقول OpenAI إنه يقدم أداءً منافسًا لـ GPT-5.5 بنصف التكلفة\n- Luna: العضو الأسرع والأقل تكلفة في العائلة\n\nكما أضاف الإصدار مستوى تفكير «max» يمنح Sol وقتًا أطول للمسائل الصعبة، و«ultra mode» الذي يستخدم وكلاء فرعيين لتسريع الأعمال المعقدة. وأُتيحت النماذج عبر ChatGPT وCodex وواجهة API، ثم خفّضت OpenAI الأسعار لاحقًا، أولًا لـ Terra وLuna في أغسطس، ثم لـ Sol بنسبة 20% في سبتمبر."
-     },
-     "en": {
-      "title": "OpenAI launches the GPT-5.6 family: Sol, Terra and Luna",
-      "summary": "OpenAI's GPT-5.6 generation arrived in three tiers: Sol for frontier reasoning and long agent tasks, Terra for cheaper everyday use, and Luna as the fastest, lowest-cost option.",
-      "details": "OpenAI released its GPT-5.6 models to the public on July 9, after a preview with a select group of partners. The family comes in three sizes for different needs.\n\n- Sol: the flagship, focused on frontier reasoning and long-horizon agent work. OpenAI reported record results on Terminal-Bench 2.1 and a score about 9 percentage points above GPT-5.5 on a SecureBio biology evaluation\n- Terra: a balanced everyday model that OpenAI says delivers GPT-5.5-level performance at half the cost\n- Luna: the fastest and most affordable member of the family\n\nThe release also added a \"max\" reasoning effort, which gives Sol more time on hard problems, and an \"ultra mode\" that uses sub-agents to speed up complex work. The models became available across ChatGPT, Codex and the API. OpenAI later cut prices, first for Terra and Luna in August and then by 20% for Sol in September."
-     },
-     "addedAt": "2026-07-09T23:59:59+00:00"
     }
    ],
    "upcoming": [
