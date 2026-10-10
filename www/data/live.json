@@ -1,4 +1,24 @@
 {
- "updatedAt": "2026-10-10T13:40:27+00:00",
- "items": []
+ "updatedAt": "2026-10-10T13:57:01+00:00",
+ "items": [
+  {
+   "id": "auto-25b12a7660f4",
+   "tab": "ai",
+   "date": "2026-10-10",
+   "publishedAt": "2026-10-10T07:54:15+00:00",
+   "type": "model",
+   "importance": 1,
+   "sourceType": "community",
+   "sourceName": "r/LocalLLaMA",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x29hx8/big_or_small/",
+   "originalTitle": "big or small?",
+   "en": {
+    "title": "big or small?",
+    "summary": "Community post on r/LocalLLaMA. what size do you want? tell them on X: https://x.com/QwenDevs/status/2108764909798641737",
+    "details": "Community post on r/LocalLLaMA.\n\nwhat size do you want? tell them on X:\n\nhttps://x.com/QwenDevs/status/2108764909798641737"
+   },
+   "translated": false,
+   "fetchedAt": "2026-10-10T13:57:01+00:00"
+  }
+ ]
 }
