@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": "2026-10-10T09:08:14+00:00",
+ "updatedAt": "2026-10-10T10:09:42+00:00",
  "coverage": {
   "from": "2026-07-10",
   "to": "2026-10-10"
@@ -8,6 +8,27 @@
  "tabs": {
   "once-human": {
    "news": [
+    {
+     "id": "oh-3-0-7-bugfixes-oct10",
+     "date": "2026-10-10",
+     "type": "update",
+     "importance": 1,
+     "sourceType": "official",
+     "sourceName": "Once Human — Steam News",
+     "url": "https://store.steampowered.com/news/app/2139460/view/1846018067935834",
+     "originalTitle": "3.0.7 Bug Fixes (October 10)",
+     "ar": {
+      "title": "Once Human تصلح مشاكل في تناسق أزياء Violet Starpunk وDark Demon Hunter",
+      "summary": "أصدرت Once Human في 10 أكتوبر إصلاحات لعطل في طول الجزء السفلي من زي Violet Starpunk النسائي، وثنية غير سليمة في زي Dark Demon Hunter، وتهنيج في المتجر على جهاز الكمبيوتر.",
+      "details": "صدرت مجموعة جديدة من الإصلاحات للعبة Once Human في 10 أكتوبر، ضمن سلسلة الإصلاحات المستمرة لتحديث 3.0.7 \"الخريف الذهبي\"، ومن المتوقع تفعيلها بحلول الساعة 05:00 بتوقيت المحيط الهادئ.\n\nيعالج التحديث طولًا غير طبيعي في الجزء السفلي النسائي من زي \"Violet Starpunk\" عند ارتدائه كقطعة منفصلة، إلى جانب اختفاء قلادة الجزء العلوي عند تنسيق القطعتين معًا. كما يصحح ثنية غير سليمة كانت تظهر بشكل متقطع في الجزء السفلي النسائي من زي \"Dark Demon Hunter\".\n\nوأخيرًا، يصلح التحديث تهنيجًا متقطعًا كان يظهر في واجهة المتجر على نظام الكمبيوتر الشخصي."
+     },
+     "en": {
+      "title": "Once Human fixes Violet Starpunk and Dark Demon Hunter cosmetic bugs",
+      "summary": "An October 10 hotfix for Once Human fixes an abnormal length on the Violet Starpunk female bottom, a folding glitch on the Dark Demon Hunter female bottom, and shop lag on PC.",
+      "details": "A new round of fixes shipped for Once Human on October 10, part of the ongoing fix series for the 3.0.7 Golden Autumn update, expected to go live by 05:00 PT.\n\nThe patch fixes an abnormal length on the female bottom of the \"Violet Starpunk\" cosmetic when worn as a separate piece, along with the top's pendant disappearing when the two pieces are mixed and matched. It also corrects an occasional incorrect fold on the female bottom of the \"Dark Demon Hunter\" cosmetic.\n\nThe update additionally fixes occasional lag in the in-game Shop on PC."
+     },
+     "addedAt": "2026-10-10T10:09:42+00:00"
+    },
     {
      "id": "oh-3-0-7-bugfixes-oct9",
      "date": "2026-10-09",
