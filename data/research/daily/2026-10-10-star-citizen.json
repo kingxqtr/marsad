@@ -1,0 +1,30 @@
+{
+  "topic": "star-citizen",
+  "generatedAt": "2026-10-10",
+  "news": [
+    {
+      "id": "sc-sq42-steam-page-live",
+      "date": "2026-10-10",
+      "type": "squadron42",
+      "importance": 3,
+      "sourceType": "official",
+      "sourceName": "Squadron 42 — Steam",
+      "url": "https://store.steampowered.com/app/4045720/",
+      "originalTitle": "Squadron 42 on Steam",
+      "company": "Cloud Imperium Games",
+      "ar": {
+        "title": "صفحة Squadron 42 الرسمية تظهر على Steam ويفتح التمني لها",
+        "summary": "أطلقت Cloud Imperium Games صفحة رسمية للعبة Squadron 42 على Steam وفتحت خاصية إضافتها لقائمة التمنيات، مع استمرار استهداف الربع الثاني من 2027 دون تاريخ دقيق.",
+        "details": "نشرت Cloud Imperium Games صفحة رسمية للعبة Squadron 42 على متجر Steam، لتصبح متاحة هناك للمرة الأولى إلى جانب موقع Roberts Space Industries ومنصة اللعبة الخاصة بالاستوديو.\n\nتتيح الصفحة الجديدة للاعبين إضافة اللعبة إلى قائمة التمنيات (Wishlist) على Steam لتلقي إشعار عند توفرها، فيما تواصل Cloud Imperium Games استهداف الربع الثاني من عام 2027 موعداً للإصدار دون الإعلان عن تاريخ محدد بعد.\n\nلم يصدر الاستوديو حتى الآن بياناً رسمياً منفصلاً عبر قنواته المعتادة يوضح تفاصيل إضافية حول توفر اللعبة على Steam، مثل ما إذا كان الداعمون الحاليون للمشروع سيحصلون على نسخهم عبر هذه المنصة أيضاً."
+      },
+      "en": {
+        "title": "Squadron 42 goes live on Steam, wishlisting opens",
+        "summary": "Cloud Imperium Games published an official Squadron 42 store page on Steam and opened wishlisting, still targeting a Q2 2027 release with no specific date.",
+        "details": "Cloud Imperium Games published an official Squadron 42 store page on Steam, marking the first time the single-player Star Citizen spin-off has had a presence there alongside its own Roberts Space Industries site and launcher.\n\nThe new page lets players add the game to their Steam wishlist to be notified when it becomes available. Cloud Imperium Games continues to target a Q2 2027 release window, with no specific release date announced yet.\n\nThe studio has not yet published a separate announcement through its usual channels detailing further specifics, such as whether existing backers will also receive access through the Steam version."
+      }
+    }
+  ],
+  "upcoming": [],
+  "removeUpcoming": [],
+  "removeNews": []
+}
