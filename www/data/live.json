@@ -1,6 +1,26 @@
 {
- "updatedAt": "2026-10-10T19:00:51+00:00",
+ "updatedAt": "2026-10-10T19:21:12+00:00",
  "items": [
+  {
+   "id": "auto-4a46bd29d67f",
+   "tab": "ai",
+   "date": "2026-10-10",
+   "publishedAt": "2026-10-10T18:53:39+00:00",
+   "type": "coding",
+   "importance": 1,
+   "sourceType": "official",
+   "sourceName": "GitHub Changelog",
+   "url": "https://github.blog/changelog/2026-10-10-new-controls-and-chat-improvements-in-copilot-for-jetbrains",
+   "originalTitle": "New controls and chat improvements in Copilot for JetBrains",
+   "en": {
+    "title": "New controls and chat improvements in Copilot for JetBrains",
+    "summary": "This update brings more control over default models and MCP server in GitHub Copilot for JetBrains.",
+    "details": "This update brings more control over default models and MCP server in GitHub Copilot for JetBrains. It also makes diagnostics easier to address, improves chat navigation and account controls, and strengthens reliability across agent sessions, customizations, and worktrees.\n\nWhat’s new\n\nEnterprise-managed default models\n\nEnterprise administrators can now use managed settings to choose any available Copilot agent model as the default for new conversations. This gives organizations more control over the starting model while still preserving an explicit model picker choice.\n\nFaster fixes from diagnostics\n\nDiagnostic intention menus now include a Fix action that opens inline chat and asks Copilot to repair the issue. The action uses agent mode when it is available and ask mode otherwise, helping you move from a reported problem to a proposed fix with fewer steps.\n\nMore control over MCP server startup\n\nA new MCP setting lets you disable automatic server startup for Copilot and Claude, giving you more control over when configured tools become active.\n\nUser experience enhancements\n\nThis release makes everyday chat, account, and navigation workflows clearer:\n\n- Account controls : Signed-in Copilot accounts now have clearer labels, a simpler status display, better navigation for long lists, and a Switch Account action. …"
+   },
+   "translated": false,
+   "fetchedAt": "2026-10-10T19:21:07+00:00",
+   "company": "GitHub"
+  },
   {
    "id": "auto-4090c465289c",
    "tab": "once-human",
