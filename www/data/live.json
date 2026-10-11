@@ -1,4 +1,43 @@
 {
- "updatedAt": "2026-10-11T17:40:35+00:00",
- "items": []
+ "updatedAt": "2026-10-11T17:57:01+00:00",
+ "items": [
+  {
+   "id": "auto-8a5f81817380",
+   "tab": "ai",
+   "date": "2026-10-11",
+   "publishedAt": "2026-10-11T04:37:21+00:00",
+   "type": "product",
+   "importance": 1,
+   "sourceType": "community",
+   "sourceName": "r/LocalLLaMA",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x2z14s/qualcomm_ceo_reveals_ai_companies_want_phones/",
+   "originalTitle": "Qualcomm CEO reveals AI companies want phones running 100-billion-parameter models continuously by 2028.",
+   "en": {
+    "title": "Qualcomm CEO reveals AI companies want phones running 100-billion-parameter models continuously by 2028.",
+    "summary": "Community post on r/LocalLLaMA. https://x.com/firesidealpha/status/2108930562794864912",
+    "details": "Community post on r/LocalLLaMA.\n\nhttps://x.com/firesidealpha/status/2108930562794864912"
+   },
+   "translated": false,
+   "fetchedAt": "2026-10-11T17:57:01+00:00"
+  },
+  {
+   "id": "auto-0b3479cf209b",
+   "tab": "ai",
+   "date": "2026-10-11",
+   "publishedAt": "2026-10-11T00:20:07+00:00",
+   "type": "model",
+   "importance": 1,
+   "sourceType": "community",
+   "sourceName": "r/LocalLLaMA",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x2u742/building_a_4x_r9700_setup_for_a_10_person_startup/",
+   "originalTitle": "Building a 4x R9700 setup for a 10 person startup",
+   "en": {
+    "title": "Building a 4x R9700 setup for a 10 person startup",
+    "summary": "Community post on r/LocalLLaMA. Just wanted to share a build I am doing for a client. $18k.",
+    "details": "Community post on r/LocalLLaMA.\n\nJust wanted to share a build I am doing for a client.\n\n$18k.\n\nSpecs:\n\nThreadripper 9970x\n\n128gb DDR5 ECC 5600\n\n4x AMD Radeon R9700 AI Pro 32gb(128gb total VRAM)\n\n1600W PSU(GPUs are undervolted and under 210w each)\n\nEngine : using a fork of Radiance to serve Qwen 3.8 Next flash/27b and DSV4 Flash\n\nResults:\n\n16 concurrent sessions\n\nQwen 3.8 27b MXFP4\n\n6.3-6.8k aggregate prefill tok/s\n900 t/s - 80t/s aggregate decode(range: 4k - 128k context each)\n\nQwen 3.8 Next flash int4fp8\n\n48K/user | 6,880 tok/s | 538.5 tok/s aggregate prefill/decode\n\n128k/user | 3,050 tok/s | 365 tok/s aggreate prefill/decode\n\nBF16 kv for all."
+   },
+   "translated": false,
+   "fetchedAt": "2026-10-11T17:57:01+00:00"
+  }
+ ]
 }
