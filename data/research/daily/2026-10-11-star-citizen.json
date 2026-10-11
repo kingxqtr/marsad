@@ -1,0 +1,49 @@
+{
+  "topic": "star-citizen",
+  "generatedAt": "2026-10-11",
+  "news": [
+    {
+      "id": "sc-discovery-month-goodies-pack",
+      "date": "2026-10-10",
+      "type": "event",
+      "importance": 1,
+      "sourceType": "official",
+      "sourceName": "RSI Comm-Link",
+      "url": "https://robertsspaceindustries.com/comm-link/transmission/21276-RSI-Discovery-Month-Digital-Goodies-Pack",
+      "originalTitle": "RSI Discovery Month Digital Goodies Pack - Available Now!",
+      "ar": {
+        "title": "RSI تطرح حزمة هدايا رقمية مجانية لشهر الاستكشاف",
+        "summary": "أطلقت Cloud Imperium Games حزمة هدايا رقمية مجانية ضمن فعالية RSI Discovery Month تضم ملابس وأسلحة وطلاءات مركبات وعناصر تزيين جديدة داخل اللعبة.",
+        "details": "أتاحت Roberts Space Industries حزمة الهدايا الرقمية الخاصة بفعالية RSI Discovery Month لجميع الداعمين، في إطار الفعالية الترويجية المستمرة التي يقيمها الاستوديو هذا الشهر.\n\nتضم الحزمة عناصر تجميلية جديدة داخل اللعبة، من ملابس وأسلحة وطلاءات للمركبات وقطع تزيين إضافية، يمكن للاعبين استخدامها في Star Citizen طوال فترة الفعالية.\n\nوقد شهد شهر الاستكشاف هذا الأسبوع محتوى مرتبطاً آخر، منها وصول سفينة Constellation Mk V واستعادة لتاريخ النسخة السابقة Mk IV. ولم يوضح Cloud Imperium Games حتى الآن المدة التي ستبقى فيها حزمة الهدايا متاحة أو ما إذا كانت ستشمل عناصر إضافية قبل انتهاء الفعالية."
+      },
+      "en": {
+        "title": "RSI Discovery Month Digital Goodies Pack goes live",
+        "summary": "Cloud Imperium Games released a free RSI Discovery Month Digital Goodies Pack with new in-game wearables, weapons, vehicle paints and décor.",
+        "details": "Roberts Space Industries has made the RSI Discovery Month Digital Goodies Pack available to pledgers, tying in with the studio's ongoing Discovery Month promotion.\n\nThe pack bundles new in-game wearables, weapons, vehicle paints, and décor items, giving players extra cosmetic content to use across Star Citizen during the promotion.\n\nDiscovery Month has already brought other tie-in content this week, including the arrival of the Constellation Mk V and a retrospective on the outgoing Mk IV. Cloud Imperium Games has not detailed exactly how long the Digital Goodies Pack will remain available or whether further items will be added before the promotion ends."
+      }
+    },
+    {
+      "id": "sc-constellation-mk4-celebration",
+      "date": "2026-10-10",
+      "type": "ship",
+      "importance": 1,
+      "sourceType": "official",
+      "sourceName": "RSI Comm-Link",
+      "url": "https://robertsspaceindustries.com/comm-link/transmission/21336-RSI-Constellation-Mk-IV-Celebration",
+      "originalTitle": "RSI Constellation Mk IV Celebration - A Chapter Written in the Stars",
+      "ar": {
+        "title": "RSI تحتفي بسفينة Constellation Mk IV قبل وداعها",
+        "summary": "نشرت Roberts Space Industries مقالاً استعادياً يحتفي بسفينة Constellation Mk IV بالتزامن مع انتقال هذا الطراز إلى الجيل الجديد Mk V.",
+        "details": "نشرت Roberts Space Industries مقالاً بعنوان \"فصل مكتوب بين النجوم\"، يستعرض تاريخ سفينة Constellation Mk IV بالتزامن مع تسليم الراية لخليفتها الجديدة Mk V.\n\nيستعيد المقال دور سفينة Mk IV في Star Citizen منذ طرحها، باعتبارها واحدة من أبرز السفن متعددة الطاقم في اللعبة، ويسلط الضوء على القصص التي عاشها اللاعبون على متنها عبر السنوات.\n\nويأتي هذا الاحتفاء ضمن فعالية شهر الاستكشاف الجارية هذا الشهر، والتي شهدت أيضاً طرح سفينة Constellation Mk V وحزمة هدايا رقمية مجانية من العناصر التجميلية. ولم يوضح Cloud Imperium Games ما إذا كانت سفينة Mk IV ستُسحب من البيع أو ستستمر إلى جانب الطراز الجديد."
+      },
+      "en": {
+        "title": "RSI celebrates the Constellation Mk IV as Mk V arrives",
+        "summary": "Roberts Space Industries published a retrospective on the Constellation Mk IV as the ship line hands off to the new Mk V.",
+        "details": "Roberts Space Industries published \"A Chapter Written in the Stars,\" a retrospective comm-link marking the Constellation Mk IV's send-off as the ship line moves on to its next generation, the Mk V.\n\nThe piece looks back at the Mk IV's role in Star Citizen since its introduction, framing it as one of the game's most recognizable multi-crew ships and highlighting the player stories built around it over the years.\n\nThe celebration runs alongside this month's Discovery Month promotion, which has already introduced the Constellation Mk V and a free Digital Goodies Pack of cosmetic items. Cloud Imperium Games has not said whether the Mk IV will be removed from sale or simply continue alongside the Mk V."
+      }
+    }
+  ],
+  "upcoming": [],
+  "removeUpcoming": [],
+  "removeNews": []
+}

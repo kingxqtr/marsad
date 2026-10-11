@@ -1,9 +1,9 @@
 {
  "version": 1,
- "updatedAt": "2026-10-10T23:09:17+00:00",
+ "updatedAt": "2026-10-11T00:12:14+00:00",
  "coverage": {
-  "from": "2026-07-10",
-  "to": "2026-10-10"
+  "from": "2026-07-11",
+  "to": "2026-10-11"
  },
  "tabs": {
   "once-human": {
@@ -595,27 +595,6 @@
       "details": "Version 3.0.2 arrived after maintenance on July 22 at 4:00 PM PT (2:00 AM on July 23, Gulf time). The download was about 7.7 GB on the PC launcher and roughly 400 MB on Android and iOS.\n\nKey changes:\n- Item Lock: locked item types can't be discarded by accident, sold, listed or bulk-dismantled\n- Building: snap-point switching for walls, roofs, stairs and pillars (Shift + mouse wheel on PC)\n- Appearance presets shared across all characters on an account (up to 12 per gender)\n- RaidZone \"Mental Pollution\" zones: Sanity is replaced by Mentality, gear gains a Mental Resistance stat, and four protective gear pieces were added\n- RaidZone Deviation balance for ZapCam, Mini Wonder and Pyro Dino\n- SN700 – Finale nerf: maximum Reverb stacks cut from 5 to 4, with each stack now worth 5% instead of 4%\n- Six new variant fish and a simpler fishing mini-game\n\nCustom Servers got a redesigned homepage and editable custom dungeons, and five past Lightforge crates returned in a \"Summer Wave\" rerun."
      },
      "addedAt": "2026-07-22T23:59:59+00:00"
-    },
-    {
-     "id": "oh-stardesk-remote-play-partnership",
-     "date": "2026-07-10",
-     "type": "collab",
-     "importance": 1,
-     "sourceType": "official",
-     "sourceName": "Once Human — Official Website",
-     "url": "https://www.oncehuman.game/news/official/20260709/40779_1307083.html",
-     "originalTitle": "Once Human Partners with StarDesk to Help You Stay Connected Anywhere",
-     "ar": {
-      "title": "شراكة بين Once Human وStarDesk للعب عن بُعد من الهاتف والحاسوب المحمول",
-      "summary": "أعلنت Once Human شراكة مع تطبيق StarDesk المجاني للوصول عن بُعد، ليتمكن اللاعبون من بث اللعبة من حاسوبهم المنزلي إلى الهاتف أو الجهاز اللوحي أو الحاسوب المحمول.",
-      "details": "أعلنت Once Human شراكة مع StarDesk، وهي أداة للوصول إلى الحاسوب عن بُعد تتيح للاعبين الاتصال بجهاز الألعاب المنزلي من جهاز آخر ومواصلة لعب نسخة PC من اللعبة.\n\nوبحسب الإعلان، يتولى الحاسوب المنزلي تشغيل اللعبة بينما يكتفي الهاتف أو الجهاز اللوحي أو الحاسوب المحمول بالعرض والتحكم، ما يقلل حرارة الأجهزة المحمولة واستهلاك بطاريتها. ولأن اللاعب يتصل بحاسوبه الخاص، تبقى قاعدته ومهامه وتقدّمه كما هي.\n\n- السعر: مجاني ضمن الشراكة\n- الأنظمة المدعومة: Windows وmacOS وiOS وAndroid\n- المزايا: بث منخفض التأخير، وتحكم باللمس، وإعدادات مسبقة للأزرار على الجوال\n- طريقة الاستخدام: تثبيت StarDesk على حاسوب الألعاب وعلى الجهاز الثاني، ثم تسجيل الدخول بالحساب نفسه والاتصال\n\nوفي اليوم نفسه روّج الموقع الرسمي أيضًا لتعاون متجدد مع خدمة تحسين الاتصال GearUP."
-     },
-     "en": {
-      "title": "Once Human partners with StarDesk for remote play from phones and laptops",
-      "summary": "A new partnership promotes StarDesk, a free remote-desktop app, so players can stream Once Human from their own gaming PC to a phone, tablet or laptop.",
-      "details": "Once Human announced a partnership with StarDesk, a remote PC access tool that lets players connect to their home gaming PC from another device and keep playing the PC version of the game.\n\nAccording to the announcement, the PC runs the game while the phone, tablet or laptop only handles the display and controls, which the partners say reduces heat and battery drain on handheld devices. Because players connect to their own PC, their bases, missions and progress stay exactly the same.\n\n- Price: free to use as part of the partnership\n- Platforms: Windows, macOS, iOS and Android\n- Features: low-latency streaming, touch controls and key presets for mobile\n- Setup: install StarDesk on the gaming PC and on the second device, sign in with the same account, then connect\n\nOn the same day the official site also promoted a renewed partnership with the network booster GearUP."
-     },
-     "addedAt": "2026-07-10T23:59:59+00:00"
     }
    ],
    "upcoming": [
@@ -822,6 +801,48 @@
       "details": "Cloud Imperium Games published an official Squadron 42 store page on Steam, marking the first time the single-player Star Citizen spin-off has had a presence there alongside its own Roberts Space Industries site and launcher.\n\nThe new page lets players add the game to their Steam wishlist to be notified when it becomes available. Cloud Imperium Games continues to target a Q2 2027 release window, with no specific release date announced yet.\n\nThe studio has not yet published a separate announcement through its usual channels detailing further specifics, such as whether existing backers will also receive access through the Steam version."
      },
      "addedAt": "2026-10-10T19:10:02+00:00"
+    },
+    {
+     "id": "sc-constellation-mk4-celebration",
+     "date": "2026-10-10",
+     "type": "ship",
+     "importance": 1,
+     "sourceType": "official",
+     "sourceName": "RSI Comm-Link",
+     "url": "https://robertsspaceindustries.com/comm-link/transmission/21336-RSI-Constellation-Mk-IV-Celebration",
+     "originalTitle": "RSI Constellation Mk IV Celebration - A Chapter Written in the Stars",
+     "ar": {
+      "title": "RSI تحتفي بسفينة Constellation Mk IV قبل وداعها",
+      "summary": "نشرت Roberts Space Industries مقالاً استعادياً يحتفي بسفينة Constellation Mk IV بالتزامن مع انتقال هذا الطراز إلى الجيل الجديد Mk V.",
+      "details": "نشرت Roberts Space Industries مقالاً بعنوان \"فصل مكتوب بين النجوم\"، يستعرض تاريخ سفينة Constellation Mk IV بالتزامن مع تسليم الراية لخليفتها الجديدة Mk V.\n\nيستعيد المقال دور سفينة Mk IV في Star Citizen منذ طرحها، باعتبارها واحدة من أبرز السفن متعددة الطاقم في اللعبة، ويسلط الضوء على القصص التي عاشها اللاعبون على متنها عبر السنوات.\n\nويأتي هذا الاحتفاء ضمن فعالية شهر الاستكشاف الجارية هذا الشهر، والتي شهدت أيضاً طرح سفينة Constellation Mk V وحزمة هدايا رقمية مجانية من العناصر التجميلية. ولم يوضح Cloud Imperium Games ما إذا كانت سفينة Mk IV ستُسحب من البيع أو ستستمر إلى جانب الطراز الجديد."
+     },
+     "en": {
+      "title": "RSI celebrates the Constellation Mk IV as Mk V arrives",
+      "summary": "Roberts Space Industries published a retrospective on the Constellation Mk IV as the ship line hands off to the new Mk V.",
+      "details": "Roberts Space Industries published \"A Chapter Written in the Stars,\" a retrospective comm-link marking the Constellation Mk IV's send-off as the ship line moves on to its next generation, the Mk V.\n\nThe piece looks back at the Mk IV's role in Star Citizen since its introduction, framing it as one of the game's most recognizable multi-crew ships and highlighting the player stories built around it over the years.\n\nThe celebration runs alongside this month's Discovery Month promotion, which has already introduced the Constellation Mk V and a free Digital Goodies Pack of cosmetic items. Cloud Imperium Games has not said whether the Mk IV will be removed from sale or simply continue alongside the Mk V."
+     },
+     "addedAt": "2026-10-10T23:59:59+00:00"
+    },
+    {
+     "id": "sc-discovery-month-goodies-pack",
+     "date": "2026-10-10",
+     "type": "event",
+     "importance": 1,
+     "sourceType": "official",
+     "sourceName": "RSI Comm-Link",
+     "url": "https://robertsspaceindustries.com/comm-link/transmission/21276-RSI-Discovery-Month-Digital-Goodies-Pack",
+     "originalTitle": "RSI Discovery Month Digital Goodies Pack - Available Now!",
+     "ar": {
+      "title": "RSI تطرح حزمة هدايا رقمية مجانية لشهر الاستكشاف",
+      "summary": "أطلقت Cloud Imperium Games حزمة هدايا رقمية مجانية ضمن فعالية RSI Discovery Month تضم ملابس وأسلحة وطلاءات مركبات وعناصر تزيين جديدة داخل اللعبة.",
+      "details": "أتاحت Roberts Space Industries حزمة الهدايا الرقمية الخاصة بفعالية RSI Discovery Month لجميع الداعمين، في إطار الفعالية الترويجية المستمرة التي يقيمها الاستوديو هذا الشهر.\n\nتضم الحزمة عناصر تجميلية جديدة داخل اللعبة، من ملابس وأسلحة وطلاءات للمركبات وقطع تزيين إضافية، يمكن للاعبين استخدامها في Star Citizen طوال فترة الفعالية.\n\nوقد شهد شهر الاستكشاف هذا الأسبوع محتوى مرتبطاً آخر، منها وصول سفينة Constellation Mk V واستعادة لتاريخ النسخة السابقة Mk IV. ولم يوضح Cloud Imperium Games حتى الآن المدة التي ستبقى فيها حزمة الهدايا متاحة أو ما إذا كانت ستشمل عناصر إضافية قبل انتهاء الفعالية."
+     },
+     "en": {
+      "title": "RSI Discovery Month Digital Goodies Pack goes live",
+      "summary": "Cloud Imperium Games released a free RSI Discovery Month Digital Goodies Pack with new in-game wearables, weapons, vehicle paints and décor.",
+      "details": "Roberts Space Industries has made the RSI Discovery Month Digital Goodies Pack available to pledgers, tying in with the studio's ongoing Discovery Month promotion.\n\nThe pack bundles new in-game wearables, weapons, vehicle paints, and décor items, giving players extra cosmetic content to use across Star Citizen during the promotion.\n\nDiscovery Month has already brought other tie-in content this week, including the arrival of the Constellation Mk V and a retrospective on the outgoing Mk IV. Cloud Imperium Games has not detailed exactly how long the Digital Goodies Pack will remain available or whether further items will be added before the promotion ends."
+     },
+     "addedAt": "2026-10-10T23:59:59+00:00"
     },
     {
      "id": "sc-sq42-manchester-impressions",
@@ -1542,57 +1563,6 @@
       "details": "CIG's new Game Library system takes effect on 1 October 2026; the company says any mention of 8 October comes from a superseded version of the announcement.\n\n- One pledge per owned game (Star Citizen and Squadron 42) becomes protected and cannot be melted or gifted; a single pledge can cover both games\n- The pledge is chosen automatically: an existing non-meltable pledge such as a VIP reward, otherwise the oldest pledge granting that game\n- From 1 October to 1 November, backers can move protection to another eligible pledge on the My Gear page, as often as they like\n- Choices become final on 1 November, and CIG will not send a separate reminder\n\nUntil 1 October the current rules apply, so melting or gifting the only pledge that grants a game still removes access. Protected pledges can still be upgraded with CCUs.",
       "location": "RSI website – account Hangar (My Gear)",
       "dateNote": "Protection starts 1 October; the selection window closes 1 November 2026."
-     },
-     "addedAt": "2026-09-27T13:25:38+00:00"
-    },
-    {
-     "id": "sq42-hands-on-october",
-     "date": "2026-10-09",
-     "type": "squadron42",
-     "importance": 1,
-     "sourceType": "official",
-     "sourceName": "RSI Comm-Link (Letter from the Chairman)",
-     "url": "https://robertsspaceindustries.com/en/comm-link/transmission/21301-Letter-From-The-Chairman",
-     "originalTitle": "",
-     "endDate": "2026-10-10",
-     "dateConfidence": "confirmed",
-     "ar": {
-      "title": "داعمون وصناع محتوى مختارون يجربون Squadron 42 يومي 9 و10 أكتوبر",
-      "summary": "ستتيح CIG لمجموعة صغيرة من الداعمين الأوائل وصناع المحتوى القدامى تجربة Squadron 42 يومي 9 و10 أكتوبر، مع الكشف عن مزيد من خطط الإصدار حينها وتحديد موعد دقيق بعد ذلك بقليل.",
-      "details": "قال Chris Roberts في رسالة الرئيس الصادرة في 27 أغسطس إن عددًا محدودًا من الداعمين الأوائل وصناع محتوى Star Citizen القدامى سيحصلون على فرصة تجربة Squadron 42 يومي 9 و10 أكتوبر 2026.\n\nوتعتزم CIG الإعلان عن مزيد من خطط الإصدار خلال هذه الجلسات، ثم تحديد موعد إصدار دقيق بعدها بوقت قصير. ويُعد الربع الثاني من 2027 نافذة الإصدار الحالية للحملة الفردية، بعد تخلي الاستوديو عن هدف الربع الرابع من 2026 لتجنب منافسة التغطية الإعلامية للعبة GTA VI.\n\nوالجلسات بدعوات خاصة فقط، وقد أشارت تقارير مجتمعية في يوليو إلى حدث في استوديو CIG بمانشستر، لكن الشركة لم تعلن المكان رسميًا.",
-      "location": "بدعوات خاصة (المكان لم يُعلن رسميًا)"
-     },
-     "en": {
-      "title": "Select backers and creators to play Squadron 42 on 9–10 October",
-      "summary": "CIG will let a small group of original backers and long-time content creators play Squadron 42 on 9 and 10 October, sharing more release plans then and a firm release date soon after.",
-      "details": "In his 27 August Letter from the Chairman, Chris Roberts said a small number of original backers and long-time Star Citizen content creators will get to play Squadron 42 on 9 and 10 October 2026.\n\nCIG plans to make further announcements about its release plans during these sessions and to give a specific release date shortly afterwards. The single-player campaign's current window is the second quarter of 2027, after the studio dropped its Q4 2026 target to avoid competing with the coverage of GTA VI.\n\nThe sessions are invite-only. Community reports in July mentioned an event at CIG's Manchester studio, but CIG has not published the venue.",
-      "location": "Invite-only (venue not officially published)"
-     },
-     "addedAt": "2026-09-27T13:25:38+00:00"
-    },
-    {
-     "id": "sc-alpha-4-10-2-live-expected",
-     "date": "2026-10-10",
-     "type": "patch",
-     "importance": 1,
-     "sourceType": "official",
-     "sourceName": "RSI Comm-Link",
-     "url": "https://robertsspaceindustries.com/en/comm-link/transmission/21218-Star-Citizen-Alpha-4101",
-     "originalTitle": "",
-     "dateConfidence": "expected",
-     "ar": {
-      "title": "توقع وصول Alpha 4.10.2 إلى الخوادم الرسمية منتصف أكتوبر",
-      "summary": "بلغ اختبار Alpha 4.10.2 على PTU موجة \"كل الداعمين\" في 6 أكتوبر دون موعد رسمي للإطلاق المباشر، فيما يُقدَّر وصوله نحو 10 أكتوبر.",
-      "details": "دخل Alpha 4.10.2 اختبار Evocati في 21 سبتمبر، ووصل موجات PTU المتتالية حتى بلغ موجة \"كل الداعمين\" (All Backer) بحلول 6 أكتوبر. لم تُعلن CIG بعد موعداً رسمياً للإطلاق على الخوادم المباشرة، وتجاوز الموعد التقديري السابق المرتبط بنهاية حدث Orison Relief Support (7 أكتوبر) دون صدور التحديث.\n\n- يضيف حدثاً جديداً داخل نظام Stanton بمهام دورية ودعم وتوصيل وإنقاذ\n- يشمل إصلاحات لاستقرار تسجيل الدخول وتحسينات في أصوات أسلحة المنظور الأول\n- لا تتضمن هذه الدفعة إعادة موازنة زمن القتل في قتال السفن، التي لا تزال تُختبر على PTU بشكل منفصل\n\nوكما هو الحال مع جميع إصدارات Star Citizen، قد يتغير الموعد إذا كشفت الاختبارات عن مشكلات جوهرية.",
-      "location": "الخوادم الرسمية للعبة Star Citizen",
-      "dateNote": "تقدير: بلغ الاختبار موجة كل الداعمين في 6 أكتوبر دون تاريخ رسمي؛ يُقدَّر الإطلاق المباشر نحو 10 أكتوبر بالاستناد إلى زمن الموجات السابقة."
-     },
-     "en": {
-      "title": "Alpha 4.10.2 expected on live servers in mid-October",
-      "summary": "PTU testing of Alpha 4.10.2 reached the \"All Backer\" wave on 6 October with no live date announced yet; it is now estimated around 10 October.",
-      "details": "Alpha 4.10.2 entered Evocati testing on 21 September and progressed through successive PTU waves, reaching the \"All Backer\" wave by 6 October. CIG has not announced an official live-server date, and the previous estimate tied to the end of the Orison Relief Support event (7 October) has passed without the patch going live.\n\n- Adds a new in-system event for Stanton with patrol, support, delivery and salvage contracts\n- Includes login-stability fixes and further first-person weapon audio work\n- The ship combat time-to-kill rebalance is not part of this patch and remains in separate PTU testing\n\nAs with every Star Citizen release, the date can move if testing uncovers blocking issues.",
-      "location": "Star Citizen live servers",
-      "dateNote": "Estimate: PTU testing reached the All Backer wave on 6 October with no official date yet; the live release is now estimated around 10 October based on past wave timing."
      },
      "addedAt": "2026-09-27T13:25:38+00:00"
     },
