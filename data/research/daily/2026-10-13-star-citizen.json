@@ -1,0 +1,29 @@
+{
+  "topic": "star-citizen",
+  "generatedAt": "2026-10-13",
+  "news": [
+    {
+      "id": "sc-discovery-month-twitch-drops-phoenix",
+      "date": "2026-10-12",
+      "type": "event",
+      "importance": 1,
+      "sourceType": "official",
+      "sourceName": "RSI Comm-Link",
+      "url": "https://robertsspaceindustries.com/comm-link/transmission/21341-Twitch-Drops-RSI-Discovery-Month",
+      "originalTitle": "Twitch Drops: RSI Discovery Month",
+      "ar": {
+        "title": "Twitch Drops جديدة ضمن فعالية RSI Discovery Month",
+        "summary": "أطلقت Cloud Imperium Games عروض Twitch Drops ضمن RSI Discovery Month، حيث تمنح مشاهدة أي بث مباشر لـ Star Citigen لمدة أربع ساعات لوحة Phoenix Insignia المجانية.",
+        "details": "أضافت Roberts Space Industries عروض Twitch Drops جديدة إلى فعالية RSI Discovery Month الجارية هذا الشهر.\n\nيحصل اللاعبون الذين يشاهدون أي بث مباشر مفعّل لعروض Drops لعبة Star Citizen لمدة أربع ساعات إجمالية على لوحة Phoenix Insignia المجانية، وهي شاشة هولوغرافية مستوحاة من شعار سفينة Constellation Phoenix الكلاسيكية يمكن عرضها في حظيرة اللاعب.\n\nيأتي هذا العرض ضمن سلسلة فعاليات RSI Discovery Month التي تحتفي بتاريخ طراز Constellation Mk IV وتزامنًا مع وصول الجيل الجديد Mk V."
+      },
+      "en": {
+        "title": "RSI Discovery Month adds Twitch Drops for a free Phoenix Insignia Display",
+        "summary": "Cloud Imperium Games added Twitch Drops to RSI Discovery Month: watching four hours of any Drops-enabled Star Citizen stream unlocks a free Phoenix Insignia Display.",
+        "details": "Roberts Space Industries added a new Twitch Drops promotion to its ongoing RSI Discovery Month celebration.\n\nPlayers who watch any Drops-enabled Star Citizen stream for a combined four hours unlock the Phoenix Insignia Display for free, a holographic display inspired by the signature insignia of the classic Constellation Phoenix that can be placed in a player's hangar.\n\nThe promotion is part of the wider Discovery Month event line, which has also marked the history of the outgoing Constellation Mk IV alongside the arrival of the next-generation Mk V."
+      }
+    }
+  ],
+  "upcoming": [],
+  "removeUpcoming": [],
+  "removeNews": []
+}
