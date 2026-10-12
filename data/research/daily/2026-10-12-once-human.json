@@ -1,0 +1,29 @@
+{
+  "topic": "once-human",
+  "generatedAt": "2026-10-12",
+  "news": [
+    {
+      "id": "oh-devblog-oct21-weapon-armor",
+      "date": "2026-10-12",
+      "type": "announcement",
+      "importance": 1,
+      "sourceType": "official",
+      "sourceName": "Once Human — Steam News",
+      "url": "https://store.steampowered.com/news/app/2139460/view/1846018067940333",
+      "originalTitle": "Dev Blog | New Weapons and Armor Coming Soon",
+      "ar": {
+        "title": "Once Human يكشف عن سلاح ودرع جديدين قادمين في تحديث 21 أكتوبر",
+        "summary": "نشر فريق تطوير Once Human تدوينة تستعرض سلاح SOCR الملقب Cosmic Visitor ودرع Snowline Elite Vest المرتقبين بعد تحديث 21 أكتوبر، وكلاهما يعتمد على آليتي Frost Vortex وIce Spear الجديدتين.",
+        "details": "نشر فريق تطوير لعبة Once Human تدوينة تطويرية تستعرض محتوى سيضاف بعد تحديث الإصدار في 21 أكتوبر (بتوقيت المحيط الهادئ)، ويشمل سلاحاً جديداً ودرعاً جديداً واحداً.\n\nالسلاح الجديد هو بندقية من طراز SOCR تحمل اسم Cosmic Visitor، وترتكز على آلية Frost Vortex الجديدة؛ فضربات السلاح قد تولّد إعصاراً جليدياً، وبعد عدد من الضربات يُطلق قذيفة جليدية موجّهة تنفجر عند الاصطدام، وعند قتل الهدف تُطلق قذائف جليدية إضافية تلقائية.\n\nالدرع الجديد هو Snowline Elite Vest، ويجعل تأثيرات Frost Vortex تُفعَّل مرة إضافية دون توليد إعصار جديد، كما يراكم ضرر الإعصار حتى خمس مرات لمدة خمس ثوانٍ كل مرة يتولّد فيها إعصار.\n\nوأوضح الاستوديو أن الهدف من هذه الإضافات هو توسيع خيارات القتال لأنماط اللعب القائمة على عنصر الصقيع."
+      },
+      "en": {
+        "title": "Once Human teases SOCR weapon and Snowline Elite Vest armor for Oct 21",
+        "summary": "A dev blog says Once Human's October 21 update adds the SOCR 'Cosmic Visitor' weapon and Snowline Elite Vest armor, both built around new Frost Vortex and Ice Spear mechanics.",
+        "details": "Once Human's development team published a dev blog previewing content coming after the October 21 (PT) version update, including one new weapon and one new armor piece.\n\nThe weapon, an SOCR rifle called \"Cosmic Visitor,\" centers on a new Frost Vortex mechanic: weapon hits have a chance to generate a Frost Vortex, hitting enemies enough times fires a homing ice projectile that explodes on impact, and killing a target fires extra auto-targeting ice projectiles.\n\nThe armor, the Snowline Elite Vest, makes Frost Vortex effects trigger one extra time without creating additional vortices, and stacks Frost Vortex damage up to five times for five seconds each time one is generated.\n\nThe studio said the additions are meant to expand combat options for Frost-focused builds."
+      }
+    }
+  ],
+  "upcoming": [],
+  "removeUpcoming": [],
+  "removeNews": []
+}
