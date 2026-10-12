@@ -65,6 +65,49 @@
         "summary": "QGIS maintainers approved a policy banning AI-assisted code contributions outright, after a vote by reviewers on the enhancement proposal.",
         "details": "The QGIS Enhancement Proposals review board approved a policy change moving the open-source GIS project's AI stance to a strict, outright ban, after four reviewers voted on a proposal from one of its core developers. The change has been merged into the project's official policy documentation.\n\nMaintainers say the main driver is reviewer workload from a flood of low-quality, AI-generated pull requests that consume volunteer time. One maintainer said the intent is to start with a fully closed door, with narrow exceptions -- such as AI-assisted autocomplete or translation -- to be considered later.\n\nMaintainers describe the policy as a temporary placeholder, with further discussion on using LLMs for code review and security auditing expected at the project's next user conference."
       }
+    },
+    {
+      "id": "meta-muse-wonder-frontier-agent-models-oct12",
+      "date": "2026-10-12",
+      "type": "model",
+      "importance": 3,
+      "sourceType": "official",
+      "sourceName": "Meta Newsroom",
+      "url": "https://about.fb.com/news/2026/10/introducing-muse-wonder-models/",
+      "originalTitle": "Introducing Muse Wonder and Muse Wonder Full: Frontier Models for Agents",
+      "company": "Meta",
+      "tool": "Muse Wonder",
+      "ar": {
+        "title": "Meta تطرح نموذجي Muse Wonder وMuse Wonder Full الموجّهين للمهام الوكيلة",
+        "summary": "أعلنت Meta عن نموذجي Muse Wonder وMuse Wonder Full، أقوى نماذجها حتى الآن، ببرمجة متقدمة وقدرات ذاكرة ومتابعة مهام طويلة، مبنيين على أساس Muse Spark.",
+        "details": "أعلنت Meta عن إطلاق نموذجي Muse Wonder وMuse Wonder Full، وهما أقوى نموذجي ذكاء اصطناعي طورتهما الشركة حتى الآن، بعد أكثر من عام من إعادة بناء جهودها في الذكاء الاصطناعي. ويُبنى النموذجان على الأساس الذي وضعه نموذج Muse Spark السابق، ويستهدفان تحقيق أداء متقدم في المهام الوكيلة الشخصية والمهنية، مع أداء برمجي متطور يناسب بناء الألعاب والتطبيقات.\n\nويتوفر Muse Wonder الآن للمطورين عبر Meta Model API وMuse Code، وسيدعم قريباً تجربة تطبيق Muse بدءاً من المشتركين. أما Muse Wonder Full فمتاح حالياً لمشتركي Muse Code فقط.\n\nويقدّم النموذجان ميزة \"الذاكرة النشطة\" التي تحمل المعلومات المهمة بين المحادثات وتستحضر التفاصيل ذات الصلة بالمهمة، وميزة \"التركيز النشط\" التي تتيح للنموذج الاستمرار في المحاولة عند تعقّد المهمة، وتجربة أساليب مختلفة، والتعافي من الأخطاء، مع طلب التوضيح أو التأكد قبل تنفيذ خطوات مهمة. ويستهدف النموذجان أيضاً مجالات متخصصة مثل القانون والتمويل والصحة."
+      },
+      "en": {
+        "title": "Meta launches Muse Wonder and Muse Wonder Full frontier agent models",
+        "summary": "Meta introduced Muse Wonder and Muse Wonder Full, its most capable models yet, built on Muse Spark with frontier coding and new memory and persistence features for agentic tasks.",
+        "details": "Meta announced Muse Wonder and Muse Wonder Full, the company's most capable AI models to date, more than a year into an overhaul of its AI efforts. The models build on the groundwork laid by the earlier Muse Spark model and target state-of-the-art performance on personal and professional agentic tasks, alongside frontier coding performance for building games and apps.\n\nMuse Wonder is available now to developers through the Meta Model API and Muse Code, and will soon power experiences in the Muse app starting with subscribers. Muse Wonder Full is currently available only to Muse Code subscribers.\n\nThe models introduce \"Active Memory,\" which carries relevant information across conversations and recalls details pertinent to the current task, and \"Active Focus,\" which lets the model keep working toward a goal when a task gets hard, try other approaches, recover from errors, and ask for clarification or check in before important steps. The models also target expert domains including law, finance, and health."
+      }
+    },
+    {
+      "id": "decision-3-open-multimodal-models-oct12",
+      "date": "2026-10-12",
+      "type": "model",
+      "importance": 1,
+      "sourceType": "community",
+      "sourceName": "r/LocalLLaMA",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x3th4p/decision_30_open_multimodal_decision_models_from/",
+      "originalTitle": "Decision 3.0: open, multimodal decision models from 0.6B to 27B. Ranks #1 on both Jev Decision Index boards",
+      "tool": "Decision 3.0",
+      "ar": {
+        "title": "فريق vLLM Semantic Router يطرح عائلة نماذج قرار مفتوحة متعددة الوسائط Decision 3.0",
+        "summary": "أصدر فريق vLLM Semantic Router عائلة نماذج Decision 3.0 مفتوحة المصدر بأحجام من 0.6 إلى 27 مليار معامل، تقرأ النصوص والصور والفيديو، وتتصدر مؤشري Jev Decision Index بحسب تقييم الفريق نفسه.",
+        "details": "أصدر فريق vLLM Semantic Router عائلة نماذج \"القرار\" مفتوحة المصدر Decision 3.0 (d3) بترخيص Apache 2.0، بأحجام تتراوح بين 0.6 و27 مليار معامل، وتقرأ جميعها النصوص والصور ومقاطع الفيديو. وتُبنى النماذج على عائلة Qwen3.5 وQwen3.8-27B، وتُجيب بثلاث طرق: اختيار، نعم/لا، أو تقييم رقمي، مع حساب احتمال كل إجابة دون توليد نص.\n\nبحسب تقييم الفريق باستخدام عدة Jev 0.3 الرسمية، يتصدر نموذج 27 مليار معامل مؤشري Jev Decision Index النصي والبصري، متجاوزاً جميع النماذج المدرجة. كما تتصدر كل فئة حجم (0.6 و0.8 و4 و9 مليار معامل) فئتها، إذ يتفوق نموذج 9 مليار (d3-flash) على الجيل السابق من 27 مليار (Decision 2.0).\n\nوبرغم أن النماذج لم تُدرَّب على الفيديو، سجّل نموذج 27 مليار نتيجة 77.4 على كامل أسئلة التحقق في Perception Test (19,140 سؤالاً)، مقابل 70.3 لنموذج 4 مليار."
+      },
+      "en": {
+        "title": "vLLM Semantic Router team releases open multimodal Decision 3.0 model family",
+        "summary": "The vLLM Semantic Router team released Decision 3.0, an open-source family of decision models from 0.6B to 27B parameters that reads text, images and video, claiming the top spot on both Jev Decision Index boards in its own evaluation.",
+        "details": "The vLLM Semantic Router team released Decision 3.0 (d3), an Apache 2.0-licensed family of \"decision\" models ranging from 0.6B to 27B parameters, all able to read text, images and video. The models are built on the Qwen3.5 and Qwen3.8-27B families and answer in three forms -- choice, yes/no, or a numeric score -- returning a probability for each answer without generating text.\n\nUsing the official Jev 0.3 evaluation kit on the released weights, the team's own testing has the 27B model topping both the text and vision Jev Decision Index boards, ahead of every other listed model. Every smaller size also leads its class, with the 9B model (d3-flash) beating the team's previous-generation 27B model (Decision 2.0).\n\nAlthough none of the models were trained on video, the 27B model scored 77.4 across all 19,140 Perception Test validation questions, versus 70.3 for the 4B model, in a zero-shot evaluation."
+      }
     }
   ],
   "upcoming": [],
