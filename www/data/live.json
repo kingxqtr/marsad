@@ -1,6 +1,25 @@
 {
- "updatedAt": "2026-10-12T22:07:59+00:00",
+ "updatedAt": "2026-10-12T22:25:46+00:00",
  "items": [
+  {
+   "id": "auto-2062e304d1db",
+   "tab": "star-citizen",
+   "date": "2026-10-12",
+   "publishedAt": "2026-10-12T22:25:41+00:00",
+   "type": "development",
+   "importance": 1,
+   "sourceType": "official",
+   "sourceName": "RSI Comm-Link",
+   "url": "https://robertsspaceindustries.com/comm-link/transmission/21374-This-Week-In-Star-Citizen",
+   "originalTitle": "This Week in Star Citizen - October 12, 2026",
+   "en": {
+    "title": "This Week in Star Citizen - October 12, 2026",
+    "summary": "Stay up to date with everything going on in the ‘verse.",
+    "details": "Stay up to date with everything going on in the ‘verse."
+   },
+   "translated": false,
+   "fetchedAt": "2026-10-12T22:25:41+00:00"
+  },
   {
    "id": "auto-8238f6effc2a",
    "tab": "ai",
@@ -14,30 +33,11 @@
    "originalTitle": "AI coding agents generate more code, but not more software",
    "en": {
     "title": "AI coding agents generate more code, but not more software",
-    "summary": "Community discussion on Hacker News (267 points, 220 comments).",
-    "details": "Community discussion on Hacker News (267 points, 220 comments)."
+    "summary": "Community discussion on Hacker News (272 points, 225 comments).",
+    "details": "Community discussion on Hacker News (272 points, 225 comments)."
    },
    "translated": false,
    "fetchedAt": "2026-10-12T21:51:38+00:00"
-  },
-  {
-   "id": "auto-87ed64cb2ac8",
-   "tab": "star-citizen",
-   "date": "2026-10-12",
-   "publishedAt": "2026-10-12T19:42:49+00:00",
-   "type": "development",
-   "importance": 1,
-   "sourceType": "official",
-   "sourceName": "RSI Comm-Link",
-   "url": "https://robertsspaceindustries.com/comm-link/transmission/21341-Twitch-Drops-RSI-Discovery-Month",
-   "originalTitle": "Twitch Drops: RSI Discovery Month",
-   "en": {
-    "title": "Twitch Drops: RSI Discovery Month",
-    "summary": "RSI Discovery Month is here, and so are new Twitch Drops! Celebrate the legacy of the Constellation and the arrival of its next generation by watching any Drops-enabled Star Citizen stream for a total of four hours to unlock the Phoenix …",
-    "details": "RSI Discovery Month is here, and so are new Twitch Drops! Celebrate the legacy of the Constellation and the arrival of its next generation by watching any Drops-enabled Star Citizen stream for a total of four hours to unlock the Phoenix Insignia Display for free. Inspired by the signature fiery insignia found aboard the classic Constellation Phoenix, this holographic display brings a piece of RSI history straight to your hangar."
-   },
-   "translated": false,
-   "fetchedAt": "2026-10-12T19:42:49+00:00"
   },
   {
    "id": "auto-08530ddb37f4",
@@ -52,8 +52,8 @@
    "originalTitle": "Why aren't AI companies being charged for hacking?",
    "en": {
     "title": "Why aren't AI companies being charged for hacking?",
-    "summary": "Community discussion on Hacker News (301 points, 318 comments).",
-    "details": "Community discussion on Hacker News (301 points, 318 comments)."
+    "summary": "Community discussion on Hacker News (303 points, 320 comments).",
+    "details": "Community discussion on Hacker News (303 points, 320 comments)."
    },
    "translated": false,
    "fetchedAt": "2026-10-12T16:44:08+00:00"
@@ -71,8 +71,8 @@
    "originalTitle": "QGIS bans AI assisted contributions",
    "en": {
     "title": "QGIS enacts moratorium on AI contributions",
-    "summary": "Community discussion on Hacker News (353 points, 389 comments).",
-    "details": "Community discussion on Hacker News (353 points, 389 comments)."
+    "summary": "Community discussion on Hacker News (356 points, 391 comments).",
+    "details": "Community discussion on Hacker News (356 points, 391 comments)."
    },
    "translated": false,
    "fetchedAt": "2026-10-12T14:59:26+00:00"
