@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": "2026-10-12T14:08:51+00:00",
+ "updatedAt": "2026-10-12T15:09:56+00:00",
  "coverage": {
   "from": "2026-07-12",
   "to": "2026-10-12"
@@ -1689,6 +1689,28 @@
       "details": "Microsoft says its custom inference chip, Azure Maia 200, is now serving real production workloads, including Microsoft Copilot and the MAI team's work on next-generation models, with GitHub Copilot and Microsoft Foundry set to join by the end of the year. The chip runs OpenAI models, Microsoft's own MAI models, and leading open-source model families across data centers in the United States, Europe, and Australia.\n\nMicrosoft also detailed its third-generation chip, Maia 300, built specifically for inference and aimed at long-context, memory-intensive, and multi-step agentic workloads. The company says it delivers 40% more tokens per megawatt than leading GPU-based systems, and up to 7x the rack-scale token throughput of Maia 200 in a full 96-accelerator configuration.\n\nMicrosoft said it will begin scaling the Maia family to multi-gigawatt deployments starting in 2027, making it the primary inference system for its products and services, with more details expected at Microsoft Ignite 2026 in November."
      },
      "addedAt": "2026-10-12T13:10:07+00:00"
+    },
+    {
+     "id": "nvidia-vera-rubin-ocp-open-designs-oct12",
+     "date": "2026-10-12",
+     "type": "hardware",
+     "importance": 1,
+     "sourceType": "official",
+     "sourceName": "NVIDIA Blog",
+     "url": "https://blogs.nvidia.com/blog/ocp-global-summit-vera-rubin-scale-ai-factories/",
+     "originalTitle": "OCP Global Summit: Amid Ecosystem Adoption, NVIDIA Opens Vera Rubin Architecture to Help Scale AI Factories Worldwide",
+     "company": "NVIDIA",
+     "ar": {
+      "title": "NVIDIA تفتح تصاميم رفوف Vera Rubin أمام مجتمع OCP لتوسيع مصانع الذكاء الاصطناعي",
+      "summary": "في قمة Open Compute Project، قدّمت NVIDIA تصاميم رفوف وحوامل حوسبة Vera Rubin عبر بنية MGX المفتوحة، إلى جانب مبادرات شراكة جديدة في الشبكات والطاقة لمصانع الذكاء الاصطناعي.",
+      "details": "في فعالية قمة Open Compute Project (OCP) العالمية، قدّمت NVIDIA تصاميم رفوف وحوامل حوسبة Vera Rubin إلى المشروع عبر بنية NVIDIA MGX المفتوحة، لتوفير أساس مشترك يستخدمه مصنّعو الأنظمة في بناء الجيل القادم من البنية التحتية لمصانع الذكاء الاصطناعي.\n\nكما نشرت NVIDIA مع شركات حوسبة سحابية كبرى معايير مفتوحة جديدة تخص تصميم مصانع الذكاء الاصطناعي ومرونة شبكات الكهرباء، وأطلقت مكونات برمجية مفتوحة المصدر جديدة لمنصة NVIDIA DSX AI Factory.\n\nوبالتعاون مع Meta، طوّرت NVIDIA تقنيات الشبكات المفتوحة عبر بطاقات الشبكة الفائقة Spectrum-X Ethernet وابتكارات Spectrum-6، بينما كشفت شركة Visionbay عن تصميم لمصنع ذكاء اصطناعي يعمل بتيار مستمر 800 فولت مخصص لحقبة Vera Rubin."
+     },
+     "en": {
+      "title": "NVIDIA opens Vera Rubin rack designs to OCP for next-gen AI factories",
+      "summary": "At the OCP Global Summit, NVIDIA contributed its Vera Rubin rack and compute tray designs to the Open Compute Project and announced open networking and power-infrastructure work with partners including Meta.",
+      "details": "At the Open Compute Project (OCP) Global Summit, NVIDIA contributed its Vera Rubin rack and compute tray designs to OCP through the open NVIDIA MGX architecture, giving system builders a common, shared foundation for building next-generation AI factory infrastructure.\n\nNVIDIA and major hyperscale partners also published new open standards covering AI factory design and power-grid resilience, and NVIDIA released new open-source software components for its DSX AI Factory platform.\n\nWorking with Meta, NVIDIA advanced open AI networking through its Spectrum-X Ethernet SuperNIC and new Spectrum-6 technology, while partner Visionbay unveiled an 800V DC AI factory design aimed at the Vera Rubin generation of hardware."
+     },
+     "addedAt": "2026-10-12T15:09:56+00:00"
     },
     {
      "id": "github-copilot-jetbrains-controls-chat-oct10",
