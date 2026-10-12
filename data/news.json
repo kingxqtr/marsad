@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": "2026-10-12T12:09:24+00:00",
+ "updatedAt": "2026-10-12T13:10:07+00:00",
  "coverage": {
   "from": "2026-07-12",
   "to": "2026-10-12"
@@ -1668,6 +1668,28 @@
   },
   "ai": {
    "news": [
+    {
+     "id": "microsoft-azure-maia-multigigawatt-oct12",
+     "date": "2026-10-12",
+     "type": "hardware",
+     "importance": 2,
+     "sourceType": "official",
+     "sourceName": "Official Microsoft Blog",
+     "url": "https://blogs.microsoft.com/blog/2026/10/12/microsoft-to-expand-azure-maia-system-to-multi-gigawatt-deployments/",
+     "originalTitle": "Microsoft to expand Azure Maia system to multi-gigawatt deployments",
+     "company": "Microsoft",
+     "ar": {
+      "title": "Microsoft تعلن توسيع رقائق Azure Maia إلى نشر بحجم غيغاواط متعددة",
+      "summary": "أعلنت Microsoft أن رقاقة Azure Maia 200 تعمل الآن في الإنتاج، وأن الجيل التالي Maia 300 سيبدأ النشر في 2027 مع توسّع يصل إلى نشر بحجم غيغاواط متعددة.",
+      "details": "أعلنت Microsoft أن رقاقتها المخصصة للاستدلال Azure Maia 200 تعمل الآن ضمن أحمال الإنتاج الفعلية، بما يشمل Microsoft Copilot وفريق MAI لتطوير الأجيال القادمة من النماذج، على أن ينضم GitHub Copilot وMicrosoft Foundry إليها بنهاية العام. وتشغّل الرقاقة نماذج OpenAI ونماذج MAI الخاصة بـ Microsoft، إلى جانب نماذج مفتوحة المصدر، في مراكز بيانات بالولايات المتحدة وأوروبا وأستراليا.\n\nوأعلنت الشركة أيضاً عن الجيل الثالث Maia 300، المصمم خصيصاً للاستدلال، ويستهدف المهام ذات السياق الطويل والاستهلاك العالي للذاكرة والمهام الوكيلة متعددة الخطوات. وتقول Microsoft إنه يوفر زيادة بنسبة 40% في عدد الرموز لكل ميغاواط مقارنة بأفضل الأنظمة القائمة على معالجات الرسوميات، ويصل إلى سبعة أضعاف إنتاجية الرموز على مستوى الرف مقارنة بـ Maia 200 في تجميعة كاملة من 96 معجّلاً.\n\nوقالت الشركة إن النشر على نطاق واسع لعائلة Maia سيبدأ في 2027 ليصبح نظام الاستدلال الأساسي لمنتجات وخدمات Microsoft، وإنها ستكشف تفاصيل إضافية في مؤتمر Microsoft Ignite 2026 في نوفمبر."
+     },
+     "en": {
+      "title": "Microsoft to scale Azure Maia AI chips to multi-gigawatt deployments",
+      "summary": "Microsoft says its Maia 200 inference chip is now in production and the next-gen Maia 300 will begin deploying in 2027 as it scales the family to multi-gigawatt capacity.",
+      "details": "Microsoft says its custom inference chip, Azure Maia 200, is now serving real production workloads, including Microsoft Copilot and the MAI team's work on next-generation models, with GitHub Copilot and Microsoft Foundry set to join by the end of the year. The chip runs OpenAI models, Microsoft's own MAI models, and leading open-source model families across data centers in the United States, Europe, and Australia.\n\nMicrosoft also detailed its third-generation chip, Maia 300, built specifically for inference and aimed at long-context, memory-intensive, and multi-step agentic workloads. The company says it delivers 40% more tokens per megawatt than leading GPU-based systems, and up to 7x the rack-scale token throughput of Maia 200 in a full 96-accelerator configuration.\n\nMicrosoft said it will begin scaling the Maia family to multi-gigawatt deployments starting in 2027, making it the primary inference system for its products and services, with more details expected at Microsoft Ignite 2026 in November."
+     },
+     "addedAt": "2026-10-12T13:10:07+00:00"
+    },
     {
      "id": "github-copilot-jetbrains-controls-chat-oct10",
      "date": "2026-10-10",
