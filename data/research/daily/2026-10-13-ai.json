@@ -1,0 +1,29 @@
+{
+  "topic": "ai",
+  "generatedAt": "2026-10-13",
+  "news": [
+    {
+      "id": "qwengyre-rl-framework-long-horizon-agents",
+      "date": "2026-10-12",
+      "type": "model",
+      "importance": 1,
+      "sourceType": "community",
+      "sourceName": "r/LocalLLaMA",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x41myz/qwen_released_qwengyre_rl_framework_for_training/",
+      "originalTitle": "Qwen released QwenGyre - RL framework for training AI agents on extremely long complex tasks",
+      "ar": {
+        "title": "فريق Qwen يطرح QwenGyre، إطار تعلم معزز مرن لوكلاء الذكاء الاصطناعي طويلي المدى",
+        "summary": "إطار بحثي مفتوح جديد باسم QwenGyre يسرّع التعلم المعزز لوكلاء الذكاء الاصطناعي في المهام الطويلة والمعقدة جدًا، عبر نقل وحدات معالجة الرسوميات بين التنفيذ والتدريب وإزالة المسارات المتفرعة المكررة.",
+        "details": "طرح فريق العمل على نماذج Qwen التابعة لعلي بابا إطارًا مفتوحًا باسم QwenGyre لتدريب وكلاء الذكاء الاصطناعي على مهام تستغرق ساعات وتتضمن مئات الخطوات وقرابة مليون رمز لكل محاولة.\n\nيعمل الإطار على نقل وحدات معالجة الرسوميات بين توليد إجراءات الوكيل والتدريب عليها بحسب الحاجة، بدلًا من تركها خاملة أثناء المهام الطويلة. كما يعيد تنظيم المسارات المتفرعة، حين يعيد الوكيل المحاولة أو يستدعي وكلاء فرعيين، في أشجار مسارات مشتركة تقلّل البيانات المكررة مع الاحتفاظ بتقييم التقدّم الجزئي.\n\nفي الاختبارات على نموذج Qwen3.8 الرائد، رفع QwenGyre الأداء على معيار NL2RepoBench للترميز من 52.5% إلى 58.5% خلال 48 خطوة تدريب، مع خفض زمن التدريب الكلي بنحو 44% مقارنة بالإعداد التزامني المعتاد."
+      },
+      "en": {
+        "title": "Qwen team releases QwenGyre, an elastic RL framework for long-horizon AI agents",
+        "summary": "A new open research framework, QwenGyre, speeds up reinforcement learning for AI agents on very long, complex tasks by shifting GPUs between rollout and training and removing redundant branching trajectories.",
+        "details": "Researchers working on Alibaba's Qwen models published QwenGyre, an open framework for training AI agents on tasks that take hours to complete and involve hundreds of steps and nearly a million tokens per attempt.\n\nThe framework reallocates GPUs between generating agent actions and training on them as demand shifts, instead of leaving GPUs idle during long-running tasks. It also reorganizes branching rollouts, where an agent retries or spawns sub-agents, into shared trajectory trees that cut redundant training data while still scoring partial progress.\n\nIn tests on the flagship Qwen3.8 model, QwenGyre lifted performance on the NL2RepoBench coding benchmark from 52.5% to 58.5% in 48 training steps, while cutting end-to-end training time by about 44% compared with a standard asynchronous setup."
+      }
+    }
+  ],
+  "upcoming": [],
+  "removeUpcoming": [],
+  "removeNews": []
+}
