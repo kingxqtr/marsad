@@ -44,6 +44,28 @@
         "details": "At the Open Compute Project (OCP) Global Summit, NVIDIA contributed its Vera Rubin rack and compute tray designs to OCP through the open NVIDIA MGX architecture, giving system builders a common, shared foundation for building next-generation AI factory infrastructure.\n\nNVIDIA and major hyperscale partners also published new open standards covering AI factory design and power-grid resilience, and NVIDIA released new open-source software components for its DSX AI Factory platform.\n\nWorking with Meta, NVIDIA advanced open AI networking through its Spectrum-X Ethernet SuperNIC and new Spectrum-6 technology, while partner Visionbay unveiled an 800V DC AI factory design aimed at the Vera Rubin generation of hardware."
       }
     }
+    ,
+    {
+      "id": "qgis-bans-ai-contributions-oct",
+      "date": "2026-10-07",
+      "type": "policy",
+      "importance": 2,
+      "sourceType": "official",
+      "sourceName": "QGIS GitHub (Enhancement Proposals)",
+      "url": "https://github.com/qgis/QGIS-Enhancement-Proposals/pull/387",
+      "originalTitle": "Add QEP428: No ai contributions permitted",
+      "company": "QGIS",
+      "ar": {
+        "title": "مشروع QGIS مفتوح المصدر يحظر رسمياً المساهمات المعتمدة على الذكاء الاصطناعي",
+        "summary": "وافق القائمون على مشروع QGIS مفتوح المصدر على سياسة جديدة تحظر تماماً المساهمات المعتمدة على أدوات الذكاء الاصطناعي، بعد تصويت المراجعين.",
+        "details": "وافقت لجنة مراجعة مقترحات تطوير QGIS على سياسة جديدة تحوّل موقف المشروع من الذكاء الاصطناعي إلى حظر صريح وكامل، بعد تصويت أربعة مراجعين على المقترح الذي قدّمه أحد المطورين الأساسيين. وتم دمج السياسة في قاعدة الكود الرسمية للمشروع.\n\nويقول المطورون إن الدافع الرئيسي هو عبء العمل الناتج عن تدفق طلبات دمج شيفرة منخفضة الجودة ومولّدة بالذكاء الاصطناعي، وهو ما يستهلك وقت المراجعين من المتطوعين. وأوضح أحد القائمين على المشروع أن الهدف هو إغلاق الباب بالكامل في البداية، مع النظر لاحقاً في استثناءات محدودة مثل استخدام الذكاء الاصطناعي للإكمال التلقائي أو الترجمة.\n\nويصف المطورون القرار بأنه مؤقت، على أن تُستكمل النقاشات حول استخدام نماذج اللغة الكبيرة في المراجعة والتدقيق الأمني في مؤتمر المستخدمين المقبل."
+      },
+      "en": {
+        "title": "Open-source QGIS project formally bans AI-assisted contributions",
+        "summary": "QGIS maintainers approved a policy banning AI-assisted code contributions outright, after a vote by reviewers on the enhancement proposal.",
+        "details": "The QGIS Enhancement Proposals review board approved a policy change moving the open-source GIS project's AI stance to a strict, outright ban, after four reviewers voted on a proposal from one of its core developers. The change has been merged into the project's official policy documentation.\n\nMaintainers say the main driver is reviewer workload from a flood of low-quality, AI-generated pull requests that consume volunteer time. One maintainer said the intent is to start with a fully closed door, with narrow exceptions -- such as AI-assisted autocomplete or translation -- to be considered later.\n\nMaintainers describe the policy as a temporary placeholder, with further discussion on using LLMs for code review and security auditing expected at the project's next user conference."
+      }
+    }
   ],
   "upcoming": [],
   "removeUpcoming": [],
