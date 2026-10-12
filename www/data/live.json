@@ -1,25 +1,4 @@
 {
- "updatedAt": "2026-10-12T13:08:59+00:00",
- "items": [
-  {
-   "id": "auto-8bef04419081",
-   "tab": "ai",
-   "date": "2026-10-12",
-   "publishedAt": "2026-10-12T13:01:29+00:00",
-   "type": "product",
-   "importance": 1,
-   "sourceType": "official",
-   "sourceName": "Official Microsoft Blog",
-   "url": "https://blogs.microsoft.com/blog/2026/10/12/microsoft-to-expand-azure-maia-system-to-multi-gigawatt-deployments/",
-   "originalTitle": "Microsoft to expand Azure Maia system to multi-gigawatt deployments",
-   "en": {
-    "title": "Microsoft to expand Azure Maia system to multi-gigawatt deployments",
-    "summary": "Azure Maia 200 now in production; Azure Maia 300 coming in 2027 As we move into the era of Super Intelligence, Microsoft is entering a new phase of infrastructure.",
-    "details": "Azure Maia 200 now in production; Azure Maia 300 coming in 2027\n\nAs we move into the era of Super Intelligence, Microsoft is entering a new phase of infrastructure. We will scale our Azure Maia family to multi-gigawatt deployments starting in 2027, making Maia the primary inference system for Microsoft products and services.\n\nThe multigenerational Azure Maia program has become a foundational element of Microsoft’s AI infrastructure strategy. Maia 200 is now serving Microsoft production workloads, including Microsoft Copilot , and supporting the MAI team as they develop next-generation models, with GitHub Copilot and Microsoft Foundry to follow by end of year. Across these workloads, Maia 200 runs OpenAI models , Microsoft’s own MAI models and leading open-source model families. Insights from the scale of Microsoft’s AI services allow for unique co-design between hardware systems and software applications to optimize real-world use cases across enterprise applications and industry scenarios.\n\nMaia 300 is a complete intelligent system designed for the new types of AI workloads emerging today: Long-context reasoning, latency-sensitive conversational experiences and sustained, multi-step agentic tasks. By improving efficiency across the system, we expect Maia 300 to deliver 40% more tokens per megawatt compared to leading GPU-based systems. And in a full 96-accelerator configuration, it delivers up to 7x the rack-scale token throughput of Maia 200.\n\nYouTube Video …"
-   },
-   "translated": false,
-   "fetchedAt": "2026-10-12T13:08:54+00:00",
-   "company": "Microsoft"
-  }
- ]
+ "updatedAt": "2026-10-12T13:40:20+00:00",
+ "items": []
 }
