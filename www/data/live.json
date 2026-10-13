@@ -1,6 +1,26 @@
 {
- "updatedAt": "2026-10-13T16:11:18+00:00",
+ "updatedAt": "2026-10-13T16:38:18+00:00",
  "items": [
+  {
+   "id": "auto-4827ee16196e",
+   "tab": "ai",
+   "date": "2026-10-13",
+   "publishedAt": "2026-10-13T15:20:10+00:00",
+   "type": "coding",
+   "importance": 1,
+   "sourceType": "official",
+   "sourceName": "GitHub Changelog",
+   "url": "https://github.blog/changelog/2026-10-13-enterprise-managed-settings-enforcement-updates",
+   "originalTitle": "Enterprise managed settings enforcement updates",
+   "en": {
+    "title": "Enterprise managed settings enforcement updates",
+    "summary": "Enterprise administrators can now require supported GitHub Copilot clients to retrieve current server-managed settings at startup instead of relying on a cached policy.",
+    "details": "Enterprise administrators can now require supported GitHub Copilot clients to retrieve current server-managed settings at startup instead of relying on a cached policy. We are also adding minimum client version requirements to governance-focused managed settings keys over time, starting with the sandbox key.\n\nForce refresh settings on client startup\n\nSet forceRemoteSettingsRefresh to true through server-managed, MDM-managed, or file-based settings when a policy change must take effect before Copilot starts. The setting is supported in Copilot CLI, VS Code, and the GitHub Copilot app.\n\nMDM-managed and file-based delivery can require freshness before the client signs in for the first time. A server-managed value begins requiring refreshes on subsequent startups after the client has received it once. While the setting is active, a cached response cannot satisfy the freshness requirement. If the client cannot confirm current policy, it fails closed rather than running with a stale or unconfirmed policy. Without this setting, clients continue to use the normal managed-settings cache for faster startup and resilience during transient service failures.\n\nMinimum required client version …"
+   },
+   "translated": false,
+   "fetchedAt": "2026-10-13T16:38:13+00:00",
+   "company": "GitHub"
+  },
   {
    "id": "auto-77ad3f7fc3bd",
    "tab": "ai",
@@ -16,26 +36,6 @@
     "title": "Gemini 4 Argon: Built to solve your hardest problems",
     "summary": "We’re giving developers, enterprises, scientists, and consumers access to Gemini 4 Argon, our latest frontier model.",
     "details": "We’re giving developers, enterprises, scientists, and consumers access to Gemini 4 Argon, our latest frontier model."
-   },
-   "translated": false,
-   "fetchedAt": "2026-10-13T16:11:12+00:00",
-   "company": "Google"
-  },
-  {
-   "id": "auto-21562ea241a7",
-   "tab": "ai",
-   "date": "2026-10-13",
-   "publishedAt": "2026-10-13T16:01:58+00:00",
-   "type": "model",
-   "importance": 1,
-   "sourceType": "official",
-   "sourceName": "Google DeepMind Blog",
-   "url": "https://deepmind.google/blog/gemini-4-argon-for-robotics/",
-   "originalTitle": "Gemini 4 Argon for Robotics",
-   "en": {
-    "title": "Gemini 4 Argon for Robotics",
-    "summary": "Gemini 4 Argon for Robotics",
-    "details": ""
    },
    "translated": false,
    "fetchedAt": "2026-10-13T16:11:12+00:00",
