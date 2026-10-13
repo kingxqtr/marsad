@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": "2026-10-13T20:10:42+00:00",
+ "updatedAt": "2026-10-13T21:12:35+00:00",
  "coverage": {
   "from": "2026-07-13",
   "to": "2026-10-13"
@@ -1845,6 +1845,29 @@
       "details": "GitHub made Gemini 4 Argon, Google's newest frontier model, generally available in GitHub Copilot on October 13. The company says it solved more tasks than earlier Gemini models on every coding benchmark it tested, with the largest gains in Copilot CLI, and that it thoroughly checks its own work by testing edge cases before finishing a task.\n\nThe model is available to Copilot Pro+, Max, Business and Enterprise users via the model picker in VS Code, Visual Studio, Copilot CLI, the GitHub Copilot coding agent, JetBrains IDEs, Xcode and Eclipse, with a gradual rollout. It is billed at provider list pricing under usage-based billing, and Enterprise and Business admins can control access through the model policy in Copilot settings."
      },
      "addedAt": "2026-10-13T19:11:22+00:00"
+    },
+    {
+     "id": "github-copilot-enterprise-settings-refresh-oct13",
+     "date": "2026-10-13",
+     "type": "coding",
+     "importance": 1,
+     "sourceType": "official",
+     "sourceName": "GitHub Changelog",
+     "url": "https://github.blog/changelog/2026-10-13-enterprise-managed-settings-enforcement-updates",
+     "originalTitle": "Enterprise managed settings enforcement updates",
+     "company": "GitHub",
+     "tool": "GitHub Copilot",
+     "ar": {
+      "title": "GitHub تتيح لمسؤولي المؤسسات إجبار Copilot على تحديث إعداداته عند الإقلاع",
+      "summary": "أضافت GitHub خيار forceRemoteSettingsRefresh ليُلزم عملاء Copilot CLI وVS Code وتطبيق Copilot بجلب الإعدادات المُدارة الحالية عند الإقلاع، إلى جانب فرض حد أدنى لإصدار العميل بدءاً من إعداد الحماية (sandbox).",
+      "details": "أضافت GitHub ضابطين جديدين للإعدادات المُدارة على مستوى المؤسسات لعملاء GitHub Copilot.\n\nالأول هو خيار forceRemoteSettingsRefresh، الذي يمكن تفعيله عبر الإعدادات المُدارة من الخادم أو MDM أو الملفات، ويُلزم عملاء Copilot CLI وVS Code وتطبيق Copilot بجلب أحدث سياسة من الخادم عند الإقلاع بدلاً من الاعتماد على نسخة مخزّنة مؤقتاً. إن تعذّر على العميل تأكيد السياسة الحالية فإنه يفشل بشكل آمن (fail closed) ويرفض العمل بسياسة قديمة أو غير مؤكدة.\n\nالثاني هو فرض حد أدنى لإصدار العميل، يبدأ بإعداد الحماية (sandbox)، بحيث يُطالَب المستخدمون على إصدارات قديمة مثبّتة بالتحديث قبل استئناف استخدام Copilot، مع نية GitHub توسيع هذا النوع من الفرض على إعدادات حوكمة أخرى تدريجياً."
+     },
+     "en": {
+      "title": "GitHub lets admins force Copilot clients to refresh settings at startup",
+      "summary": "GitHub added a forceRemoteSettingsRefresh option requiring Copilot CLI, VS Code and the Copilot app to fetch current managed settings at startup, plus a minimum client version check starting with the sandbox setting.",
+      "details": "GitHub added two new enterprise managed-settings controls for GitHub Copilot clients.\n\nThe first, forceRemoteSettingsRefresh, can be set through server-managed, MDM-managed or file-based settings. It requires Copilot CLI, VS Code and the GitHub Copilot app to fetch current policy from the server at startup instead of relying on a cached copy. If a client cannot confirm current policy, it fails closed rather than running with a stale or unconfirmed one.\n\nThe second adds minimum required client version enforcement, starting with the governance-focused sandbox key: users on older pinned Copilot versions must update before they can keep using Copilot. GitHub says it plans to extend this kind of enforcement to other governance settings over time."
+     },
+     "addedAt": "2026-10-13T21:12:35+00:00"
     },
     {
      "id": "cursor-origin-app-marketplace-public",
