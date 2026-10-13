@@ -1,6 +1,26 @@
 {
- "updatedAt": "2026-10-13T19:13:37+00:00",
+ "updatedAt": "2026-10-13T19:48:25+00:00",
  "items": [
+  {
+   "id": "auto-fa099eb27365",
+   "tab": "ai",
+   "date": "2026-10-13",
+   "publishedAt": "2026-10-13T19:43:07+00:00",
+   "type": "model",
+   "importance": 1,
+   "sourceType": "official",
+   "sourceName": "Google DeepMind Blog",
+   "url": "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely/",
+   "originalTitle": "Developing Gemini 4 Argon responsibly and safely",
+   "en": {
+    "title": "Developing Gemini 4 Argon responsibly and safely",
+    "summary": "Developing Gemini 4 Argon responsibly and safely",
+    "details": ""
+   },
+   "translated": false,
+   "fetchedAt": "2026-10-13T19:48:19+00:00",
+   "company": "Google"
+  },
   {
    "id": "auto-1492cb3bacc8",
    "tab": "ai",
