@@ -3,6 +3,28 @@
   "generatedAt": "2026-10-13",
   "news": [
     {
+      "id": "google-gemini-4-argon-robotics",
+      "date": "2026-10-13",
+      "type": "model",
+      "importance": 2,
+      "sourceType": "official",
+      "sourceName": "Google Developers Blog",
+      "url": "https://developers.googleblog.com/gemini-4-argon-for-robotics",
+      "originalTitle": "Gemini 4 Argon for Robotics",
+      "company": "Google",
+      "tool": "Gemini 4 Argon",
+      "ar": {
+        "title": "غوغل توسّع Gemini 4 Argon إلى الروبوتات بقدرات استدلال فيزيائي جديدة",
+        "summary": "تقول Google DeepMind إن نسخة من Gemini 4 Argon مخصصة للروبوتات حققت 87% في معيار ERQA، ويمكنها التحكم بأذرع روبوتية وبناء توائم محاكاة من الفيديو وتوليد بيانات تدريب ترفع نجاح المهام الواقعية.",
+        "details": "كشفت Google DeepMind في 13 أكتوبر عن نسخة من نموذج Gemini 4 Argon مخصصة للروبوتات، ووصفتها بأنها نموذج استدلال فيزيائي عام الغرض. وتقول الشركة إن النموذج حقق نسبة 87% في معيار الاستدلال المجسّد (ERQA) بالاعتماد على الاستدلال الخالص، متفوقًا على النماذج الطليعية الأخرى.\n\nويعرض المنشور قدرات مثل التلاعب المتنقل والتحكم بأذرع روبوتية دون تدريب مسبق (zero-shot)، وبناء توائم محاكاة معايرة انطلاقًا من لقطات كاميرا الروبوت أو رسومات مرسومة باليد، والاستدلال في مهام فيزيائية مثل لغز ميزان بصري بحت.\n\nكما تقول غوغل إن النموذج يمكنه توليد بيانات محاكاة تحسّن أداء الروبوتات الواقعية: ففي أحد الأمثلة، ارتفع معدل نجاح مهمة التقاط ووضع من 56% إلى 75%، مع انخفاض زمن إنجازها من 35 إلى 24 ثانية.\n\nويتوفر النموذج باسم gemini-4-argon ضمن الفئة المدفوعة من واجهة Gemini البرمجية، وفي Google AI Studio وGoogle Antigravity لمشتركي Google AI Ultra."
+      },
+      "en": {
+        "title": "Google extends Gemini 4 Argon to robotics with new physical reasoning skills",
+        "summary": "Google DeepMind says a robotics-focused version of Gemini 4 Argon scores 87% on the ERQA benchmark and can control robot arms, build simulation twins from video, and generate training data that boosts real-world task success.",
+        "details": "Google DeepMind introduced a robotics-focused version of Gemini 4 Argon on October 13, describing it as a general-purpose physical reasoning model. The company says it scores 87% on the Embodied Reasoning (ERQA) benchmark using pure reasoning, ahead of other frontier models.\n\nThe post demonstrates mobile manipulation and zero-shot robotic arm control, building calibrated simulation twins from robot camera feeds or hand-drawn sketches, and reasoning about physical tasks such as a vision-only balance-scale puzzle.\n\nGoogle also says the model can generate simulation data to improve real-world robots: in one example, a pick-and-place task's success rate rose from 56% to 75% while completion time fell from 35 to 24 seconds.\n\nThe model is available as gemini-4-argon in the Gemini API's paid tier, and in Google AI Studio and Google Antigravity for Google AI Ultra subscribers."
+      }
+    },
+    {
       "id": "qwengyre-rl-framework-long-horizon-agents",
       "date": "2026-10-12",
       "type": "model",
