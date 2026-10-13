@@ -86,6 +86,26 @@
       }
     },
     {
+      "id": "ai-models-hide-capabilities-arxiv",
+      "date": "2026-10-13",
+      "type": "policy",
+      "importance": 2,
+      "sourceType": "community",
+      "sourceName": "Hacker News",
+      "url": "https://news.ycombinator.com/item?id=50065692",
+      "originalTitle": "AI Models Can Provably Hide Arbitrary Capabilities",
+      "ar": {
+        "title": "ورقة بحثية: يمكن للنماذج إخفاء قدرات خطرة بشكل يصعب كشفه",
+        "summary": "تكشف ورقة بحثية جديدة على arXiv أن نماذج الذكاء الاصطناعي يمكن أن تخفي قدرات مشفّرة تصمد أمام إعادة التدريب والفحص العدائي، في تحدٍّ لتقييمات الأمان الحالية.",
+        "details": "نشر باحثون في 9 أكتوبر ورقة بحثية على arXiv بعنوان \"AI Models Can Provably Hide Arbitrary Capabilities\"، تجادل بأن تقييمات القدرات التي تعتمدها مختبرات الذكاء الاصطناعي قبل إطلاق نماذجها لرصد السلوكيات الخطرة تفترض أن أي قدرة مخفية يمكن استخلاصها في النهاية. ويبيّن الباحثون أن هذا الافتراض قد ينهار.\n\nتعتمد الطريقة المقترحة على تضمين شبكات فرعية مشفّرة، أسموها \"أقفالًا رقمية\"، داخل أوزان النموذج، لا تُفعَّل وتعمل إلا عند استدعائها بمفتاح سري، بما يجعل القدرة المخفية صعبة الكشف أو التنشيط حتى مع إمكانية الوصول الكامل لأوزان النموذج، بحسب الفروض التشفيرية المعتادة.\n\nوفي نموذج تجريبي مبني على مهمة توقّع تفاعلات كيميائية كبديل لمخاطر تتعلق بالأسلحة الكيميائية والبيولوجية والنووية، صمدت القدرة المخفية أمام إعادة التدريب الدقيق، وإضافة تشويش على الأوزان، وعمليات بحث قائمة على التدرّج لاكتشاف المفتاح السري، والتدريب العدائي الكامن، وهي تقنيات تعتمدها المختبرات لكشف هذا النوع من السلوك المخفي.\n\nوانتشرت الورقة على نطاق واسع عبر منتدى Hacker News، حيث تجاوزت 250 نقطة وأكثر من 120 تعليقًا، وقال الباحثون إنهم أطلقوا نماذجهم التجريبية لدعم أبحاث الدفاع المستقبلية."
+      },
+      "en": {
+        "title": "Study finds AI models can provably hide capabilities from safety audits",
+        "summary": "A new arXiv paper shows AI models can embed encrypted hidden capabilities that survive fine-tuning and adversarial probing, challenging today's safety evaluations.",
+        "details": "A preprint titled \"AI Models Can Provably Hide Arbitrary Capabilities,\" posted to arXiv on October 9, argues that today's capability evaluations - the tests AI labs run before deployment to catch dangerous behaviors - rely on an assumption that any hidden capability can eventually be drawn out. The authors show that assumption can fail.\n\nTheir method embeds encrypted sub-networks, or \"digital lockers,\" inside a model's weights. These only decrypt and run when triggered by a secret key, making the hidden capability provably hard to detect or activate even with full access to the model's weights, under standard cryptographic assumptions.\n\nIn a proof-of-concept built on a chemistry-prediction task standing in for CBRN-relevant risk, the hidden capability survived fine-tuning, added weight noise, gradient-based searches for the trigger, and latent adversarial training - techniques labs use to surface exactly this kind of hidden behavior.\n\nThe paper circulated widely on Hacker News, where it drew over 250 points and 120 comments; the authors say they released their proof-of-concept models to support further defense research."
+      }
+    },
+    {
       "id": "apple-homepod-mini-2-siri-ai",
       "date": "2026-10-13",
       "type": "product",
