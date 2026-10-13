@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": "2026-10-13T18:11:31+00:00",
+ "updatedAt": "2026-10-13T19:11:22+00:00",
  "coverage": {
   "from": "2026-07-13",
   "to": "2026-10-13"
@@ -1800,6 +1800,52 @@
       "details": "Liquid AI released LFM2.5-24B-A2B, an open-weight reasoning model built for fast, private agents that run on-device. It is a mixture-of-experts design with 24 billion total parameters but only about 2 billion active per token, 40 layers, 64 experts per block with top-4 routing, and a 131,000-token context window, up from 32,000 in its predecessor.\n\nCompared with Qwen3.6-35B-A3B, Liquid AI reports higher scores on agentic benchmarks such as LiveClaw (48.09 vs 38.19) and AutomationBench (27.69 vs 8.72), though it trails on general knowledge and coding tests like GPQA Diamond and SWE-Bench Verified.\n\nThe company says the model runs at 184 tokens per second on an Apple M5 Max and 114 tokens per second on a Ryzen AI Max+ 395 chip. Weights are available on Hugging Face as LFM2.5-24B-A2B and a base variant, with support for llama.cpp, MLX, vLLM and SGLang."
      },
      "addedAt": "2026-10-13T17:11:41+00:00"
+    },
+    {
+     "id": "github-copilot-gemini-4-argon",
+     "date": "2026-10-13",
+     "type": "coding",
+     "importance": 1,
+     "sourceType": "official",
+     "sourceName": "GitHub Changelog",
+     "url": "https://github.blog/changelog/2026-10-13-gemini-4-argon-in-github-copilot",
+     "originalTitle": "Gemini 4 Argon in GitHub Copilot",
+     "company": "GitHub",
+     "tool": "Gemini 4 Argon",
+     "ar": {
+      "title": "Gemini 4 Argon يصل رسميًا إلى GitHub Copilot",
+      "summary": "أعلن GitHub عن توفر Gemini 4 Argon، أحدث نموذج طليعي من غوغل، بشكل عام في GitHub Copilot لمهام الترميز والاستدلال المعقدة.",
+      "details": "أعلن GitHub في 13 أكتوبر عن توفر نموذج Gemini 4 Argon، أحدث نموذج طليعي من غوغل، بشكل عام في GitHub Copilot. وتقول الشركة إن النموذج تفوّق على نماذج Gemini السابقة في كل معايير الترميز التي اختبرتها، مع أكبر تحسن في أداة Copilot CLI، وإنه يفحص عمله بدقة عبر اختبار الحالات الحدية قبل إنهاء المهمة.\n\nيتوفر النموذج لمستخدمي خطط Copilot Pro+ وMax وBusiness وEnterprise عبر قائمة اختيار النموذج في VS Code وVisual Studio وCopilot CLI وعميل الترميز الوكيل في GitHub Copilot وبيئات JetBrains وXcode وEclipse، مع طرح تدريجي. ويُحتسب استخدامه بتسعير المزوّد القائمة ضمن الفوترة حسب الاستخدام، ويمكن لمسؤولي خطتي Business وEnterprise التحكم بالوصول إليه عبر سياسة النماذج في إعدادات Copilot."
+     },
+     "en": {
+      "title": "Gemini 4 Argon arrives in GitHub Copilot",
+      "summary": "Google's newest frontier model, Gemini 4 Argon, is now generally available in GitHub Copilot for complex coding, agentic and reasoning tasks.",
+      "details": "GitHub made Gemini 4 Argon, Google's newest frontier model, generally available in GitHub Copilot on October 13. The company says it solved more tasks than earlier Gemini models on every coding benchmark it tested, with the largest gains in Copilot CLI, and that it thoroughly checks its own work by testing edge cases before finishing a task.\n\nThe model is available to Copilot Pro+, Max, Business and Enterprise users via the model picker in VS Code, Visual Studio, Copilot CLI, the GitHub Copilot coding agent, JetBrains IDEs, Xcode and Eclipse, with a gradual rollout. It is billed at provider list pricing under usage-based billing, and Enterprise and Business admins can control access through the model policy in Copilot settings."
+     },
+     "addedAt": "2026-10-13T19:11:22+00:00"
+    },
+    {
+     "id": "cursor-origin-app-marketplace-public",
+     "date": "2026-10-13",
+     "type": "coding",
+     "importance": 1,
+     "sourceType": "official",
+     "sourceName": "Cursor Changelog",
+     "url": "https://cursor.com/changelog/origin-app-marketplace",
+     "originalTitle": "Origin App Marketplace",
+     "company": "Anysphere",
+     "tool": "Origin",
+     "ar": {
+      "title": "Cursor يفتح متجر تطبيقات Origin أمام المطورين خارجيًا",
+      "summary": "توسّع منصة Origin التابعة لـCursor تكاملاتها إلى أكثر من 20 تطبيقًا شريكًا للنشر والتكامل المستمر ومراجعة الشيفرة والأمان والمراقبة، وأصبح متجرها مفتوحًا لتقديم التطبيقات العامة.",
+      "details": "أعلنت Cursor أن منصتها Origin للمطورين أصبحت تتكامل الآن مع أكثر من 20 تطبيقًا شريكًا تغطي مجالات النشر (Cloudflare وNetlify وRender وVercel)، والتكامل المستمر (CircleCI وBuildkite وDepot)، ومراجعة الشيفرة (CodeRabbit وGreptile)، والأمان (Semgrep وSocket Security)، والمراقبة (Sentry)، وإدارة المشاريع (Linear).\n\nواعتبارًا من 13 أكتوبر، أصبح متجر تطبيقات Origin مفتوحًا أيضًا للتقديمات العامة، بما يتيح لأي فريق يعمل على أدوات تطوير نشر تطبيقه الخاص. وتُبنى التطبيقات الجديدة بالاعتماد على واجهة برمجة Origin، وتُوثَّق هويتها عبر رمز JWT للتطبيق ورموز وصول التثبيت، ويمكنها استقبال أحداث Webhook والكتابة إلى نتائج الفحص وتعليقات طلبات السحب والمراجعات."
+     },
+     "en": {
+      "title": "Cursor opens Origin app marketplace to the public",
+      "summary": "Cursor's Origin now integrates with 20+ partner apps for deployments, CI, code review, security and monitoring, and the marketplace is open to public app submissions.",
+      "details": "Cursor announced that Origin, its developer platform, now integrates with more than 20 partner apps spanning deployments (Cloudflare, Netlify, Render, Vercel), CI (CircleCI, Buildkite, Depot), code review (CodeRabbit, Greptile), security (Semgrep, Socket Security), monitoring (Sentry) and project management (Linear).\n\nAs of October 13, the Origin marketplace is also open to public submissions, letting any developer-tools team publish an app. New apps are built against the Origin API, authenticate with an app JWT and installation access tokens, and can receive webhook events and write back check runs, pull request comments and reviews."
+     },
+     "addedAt": "2026-10-13T19:11:22+00:00"
     },
     {
      "id": "github-ai-scan-metrics-security-overview",
