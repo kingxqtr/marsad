@@ -21,6 +21,27 @@
         "summary": "A new open research framework, QwenGyre, speeds up reinforcement learning for AI agents on very long, complex tasks by shifting GPUs between rollout and training and removing redundant branching trajectories.",
         "details": "Researchers working on Alibaba's Qwen models published QwenGyre, an open framework for training AI agents on tasks that take hours to complete and involve hundreds of steps and nearly a million tokens per attempt.\n\nThe framework reallocates GPUs between generating agent actions and training on them as demand shifts, instead of leaving GPUs idle during long-running tasks. It also reorganizes branching rollouts, where an agent retries or spawns sub-agents, into shared trajectory trees that cut redundant training data while still scoring partial progress.\n\nIn tests on the flagship Qwen3.8 model, QwenGyre lifted performance on the NL2RepoBench coding benchmark from 52.5% to 58.5% in 48 training steps, while cutting end-to-end training time by about 44% compared with a standard asynchronous setup."
       }
+    },
+    {
+      "id": "anthropic-distillation-defenses-oct12",
+      "date": "2026-10-12",
+      "type": "policy",
+      "importance": 2,
+      "sourceType": "official",
+      "sourceName": "Anthropic",
+      "url": "https://www.anthropic.com/research/distillation-defenses",
+      "originalTitle": "Strengthening our defenses against distillation attacks",
+      "company": "Anthropic",
+      "ar": {
+        "title": "Anthropic تكشف عن دفاعات جديدة ضد هجمات تقطير نماذجها الذكية",
+        "summary": "تقول Anthropic إن تدابير تقنية وإجرائية جديدة قلصت كمية البيانات التي يحصدها المنافسون من نماذجها بنسبة 90 إلى 99%، مشيرة إلى نموذج GLM-5.3 من Zhipu وحساب يُشتبه بارتباطه بالجيش الصيني ضمن حالات مثيرة للقلق.",
+        "details": "نشرت Anthropic في 12 أكتوبر تفاصيل تدابير تقنية وسياسية جديدة لمواجهة حملات 'التقطير' واسعة النطاق، حيث تحصد شركات منافسة سلاسل تفكير Claude لتدريب نماذج منافسة دون إذن.\n\nوتقول الشركة إن هذه الدفاعات - التي تشمل قيودًا على إعادة استخدام السياق السابق، وتقييد رؤية نصوص التفكير، ومصنّفًا لرصد الاحتيال - قلّصت كمية البيانات التي يحصدها المقطّرون بنسبة تتراوح بين 90 و99%، وسمحت بحظر عشرات آلاف الحسابات المشتبه بها، غالبًا في غضون ساعتين.\n\nوأشارت Anthropic إلى نموذج GLM-5.3 من Zhipu كمثال على نموذج تعتقد أنه استفاد من قدرات سيبرانية مقطّرة، وقالت إن مستخدمًا يُشتبه بارتباطه بالجيش الصيني حاول استخدام نموذج مقطّر لتحليل لقطات مراقبة لشخص معين.\n\nواعترفت الشركة بوجود تنازلات، من ضمنها حظر نسبة صغيرة من الطلبات المشروعة والتنازل عن عائدات، ودعت شركات الذكاء الاصطناعي الأخرى ومزوّدي الخدمات السحابية إلى تبني دفاعات مماثلة لمواجهة إساءة استخدام الحسابات."
+      },
+      "en": {
+        "title": "Anthropic details new defenses against model-distillation attacks",
+        "summary": "Anthropic says new technical and enforcement measures cut data harvested by rivals from its models by 90-99%, citing Zhipu's GLM-5.3 and a suspected China-military-linked account as concerning cases.",
+        "details": "Anthropic published details on October 12 of new technical and policy measures meant to stop large-scale 'distillation' campaigns, where rival companies harvest Claude's reasoning to train competing models without permission.\n\nThe company says the defenses - including limits on reusing earlier context, visibility restrictions on reasoning transcripts, and a fraud-detection classifier - cut data harvested by distillers by roughly 90-99% and let it ban tens of thousands of suspicious accounts, often within two hours.\n\nAnthropic named Zhipu's GLM-5.3 as an example of a model it believes benefited from distilled cyber capabilities, and said a user believed to be linked to China's military sought to use a distilled model to analyze surveillance footage of an individual.\n\nThe company acknowledged trade-offs, including blocking a small share of legitimate requests and turning away revenue, and called on other AI companies and cloud providers to adopt similar account-abuse defenses."
+      }
     }
   ],
   "upcoming": [],

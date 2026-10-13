@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": "2026-10-13T09:09:40+00:00",
+ "updatedAt": "2026-10-13T10:11:10+00:00",
  "coverage": {
   "from": "2026-07-13",
   "to": "2026-10-13"
@@ -1733,6 +1733,28 @@
       "details": "Microsoft says its custom inference chip, Azure Maia 200, is now serving real production workloads, including Microsoft Copilot and the MAI team's work on next-generation models, with GitHub Copilot and Microsoft Foundry set to join by the end of the year. The chip runs OpenAI models, Microsoft's own MAI models, and leading open-source model families across data centers in the United States, Europe, and Australia.\n\nMicrosoft also detailed its third-generation chip, Maia 300, built specifically for inference and aimed at long-context, memory-intensive, and multi-step agentic workloads. The company says it delivers 40% more tokens per megawatt than leading GPU-based systems, and up to 7x the rack-scale token throughput of Maia 200 in a full 96-accelerator configuration.\n\nMicrosoft said it will begin scaling the Maia family to multi-gigawatt deployments starting in 2027, making it the primary inference system for its products and services, with more details expected at Microsoft Ignite 2026 in November."
      },
      "addedAt": "2026-10-12T13:10:07+00:00"
+    },
+    {
+     "id": "anthropic-distillation-defenses-oct12",
+     "date": "2026-10-12",
+     "type": "policy",
+     "importance": 2,
+     "sourceType": "official",
+     "sourceName": "Anthropic",
+     "url": "https://www.anthropic.com/research/distillation-defenses",
+     "originalTitle": "Strengthening our defenses against distillation attacks",
+     "company": "Anthropic",
+     "ar": {
+      "title": "Anthropic تكشف عن دفاعات جديدة ضد هجمات تقطير نماذجها الذكية",
+      "summary": "تقول Anthropic إن تدابير تقنية وإجرائية جديدة قلصت كمية البيانات التي يحصدها المنافسون من نماذجها بنسبة 90 إلى 99%، مشيرة إلى نموذج GLM-5.3 من Zhipu وحساب يُشتبه بارتباطه بالجيش الصيني ضمن حالات مثيرة للقلق.",
+      "details": "نشرت Anthropic في 12 أكتوبر تفاصيل تدابير تقنية وسياسية جديدة لمواجهة حملات 'التقطير' واسعة النطاق، حيث تحصد شركات منافسة سلاسل تفكير Claude لتدريب نماذج منافسة دون إذن.\n\nوتقول الشركة إن هذه الدفاعات - التي تشمل قيودًا على إعادة استخدام السياق السابق، وتقييد رؤية نصوص التفكير، ومصنّفًا لرصد الاحتيال - قلّصت كمية البيانات التي يحصدها المقطّرون بنسبة تتراوح بين 90 و99%، وسمحت بحظر عشرات آلاف الحسابات المشتبه بها، غالبًا في غضون ساعتين.\n\nوأشارت Anthropic إلى نموذج GLM-5.3 من Zhipu كمثال على نموذج تعتقد أنه استفاد من قدرات سيبرانية مقطّرة، وقالت إن مستخدمًا يُشتبه بارتباطه بالجيش الصيني حاول استخدام نموذج مقطّر لتحليل لقطات مراقبة لشخص معين.\n\nواعترفت الشركة بوجود تنازلات، من ضمنها حظر نسبة صغيرة من الطلبات المشروعة والتنازل عن عائدات، ودعت شركات الذكاء الاصطناعي الأخرى ومزوّدي الخدمات السحابية إلى تبني دفاعات مماثلة لمواجهة إساءة استخدام الحسابات."
+     },
+     "en": {
+      "title": "Anthropic details new defenses against model-distillation attacks",
+      "summary": "Anthropic says new technical and enforcement measures cut data harvested by rivals from its models by 90-99%, citing Zhipu's GLM-5.3 and a suspected China-military-linked account as concerning cases.",
+      "details": "Anthropic published details on October 12 of new technical and policy measures meant to stop large-scale 'distillation' campaigns, where rival companies harvest Claude's reasoning to train competing models without permission.\n\nThe company says the defenses - including limits on reusing earlier context, visibility restrictions on reasoning transcripts, and a fraud-detection classifier - cut data harvested by distillers by roughly 90-99% and let it ban tens of thousands of suspicious accounts, often within two hours.\n\nAnthropic named Zhipu's GLM-5.3 as an example of a model it believes benefited from distilled cyber capabilities, and said a user believed to be linked to China's military sought to use a distilled model to analyze surveillance footage of an individual.\n\nThe company acknowledged trade-offs, including blocking a small share of legitimate requests and turning away revenue, and called on other AI companies and cloud providers to adopt similar account-abuse defenses."
+     },
+     "addedAt": "2026-10-12T23:59:59+00:00"
     },
     {
      "id": "decision-3-open-multimodal-models-oct12",
