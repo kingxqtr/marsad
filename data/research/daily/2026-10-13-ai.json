@@ -212,6 +212,27 @@
         "summary": "Facebook's new 'Your algorithm' tool lets people type what topics they want more or less of in Feed and Reels, with recommendations updating in real time.",
         "details": "Meta introduced \"Your algorithm,\" a new Facebook tool that lets people directly add and manage the topics they want to see more of in Feed and Reels, accessible from the three-dot menu on any post.\n\nThe company is also expanding feedback options after someone taps \"Interested\" or \"Not interested\": Facebook may now ask follow-up questions in natural language about what they liked or disliked, and update recommendations immediately based on the answer.\n\nMeta says the goal is a more direct, conversational way for people to shape their own recommendations rather than relying only on passive signals like likes and watch time."
       }
+    },
+    {
+      "id": "nvidia-france-startups-investment",
+      "date": "2026-10-12",
+      "type": "business",
+      "importance": 1,
+      "sourceType": "official",
+      "sourceName": "NVIDIA Blog",
+      "url": "https://blogs.nvidia.com/blog/france-ecosystem-agentic-computing/",
+      "originalTitle": "NVIDIA Announces New Investments in France's Startups",
+      "company": "NVIDIA",
+      "ar": {
+        "title": "NVIDIA تستثمر في أربع شركات ناشئة فرنسية جديدة وسط التزام أوروبي يقارب 10 مليارات دولار",
+        "summary": "أعلنت NVIDIA عن استثمارات جديدة في Doctolib وEntalpic وGenesis AI وPigment، في خطوة تعمّق حضورها في قطاع الذكاء الاصطناعي الفرنسي مع اقتراب التزامها الأوروبي من 10 مليارات دولار.",
+        "details": "قالت NVIDIA إنها تخطط لاستثمارات جديدة في أربع شركات ناشئة فرنسية: Doctolib، شركة تقنيات صحية تبني وكلاء ذكاء اصطناعي لمساعدة الأطباء والمرضى؛ وEntalpic، التي تستخدم الذكاء الاصطناعي في تصميم المواد على المستوى الذري لصناعة أشباه الموصلات؛ وGenesis AI، شركة روبوتات تطوّر روبوتات عامة الاستخدام؛ وPigment، شركة برمجيات تخطيط أعمال للمؤسسات.\n\nيأتي الإعلان استكمالًا لاستثمارات سابقة لـNVIDIA في شركات فرنسية ناشئة أخرى هي Alice&Bob وGradium وScintil Photonics، في وقت تقترب فيه التزامات الشركة التقنية الإجمالية في أوروبا من 10 مليارات دولار.\n\nوأشارت NVIDIA إلى قمة العمل من أجل الذكاء الاصطناعي في فبراير 2025 وقمم Choose France في 2025 و2026 كأساس لنمو منظومة الحوسبة والذكاء الاصطناعي في فرنسا."
+      },
+      "en": {
+        "title": "NVIDIA announces new investments in four French AI startups",
+        "summary": "NVIDIA said it plans new investments in Doctolib, Entalpic, Genesis AI and Pigment, deepening its push into French AI as its European commitment nears $10 billion.",
+        "details": "NVIDIA said it plans new investments in four French startups: Doctolib, a healthcare technology company building AI agents for clinicians and patients; Entalpic, which applies AI to atomic-scale materials design for semiconductor manufacturing; Genesis AI, a robotics company building general-purpose robots; and Pigment, an enterprise business-planning software firm.\n\nThe announcement builds on earlier NVIDIA investments in French startups Alice&Bob, Gradium and Scintil Photonics, and comes as the company's total technology commitments across Europe approach $10 billion.\n\nNVIDIA pointed to the AI Action Summit in February 2025 and the Choose France Summits in 2025 and 2026 as groundwork for France's growing compute and AI ecosystem."
+      }
     }
   ],
   "upcoming": [

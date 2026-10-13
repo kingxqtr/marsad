@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": "2026-10-13T17:11:41+00:00",
+ "updatedAt": "2026-10-13T18:11:31+00:00",
  "coverage": {
   "from": "2026-07-13",
   "to": "2026-10-13"
@@ -1955,6 +1955,28 @@
       "details": "The vLLM Semantic Router team released Decision 3.0 (d3), an Apache 2.0-licensed family of \"decision\" models ranging from 0.6B to 27B parameters, all able to read text, images and video. The models are built on the Qwen3.5 and Qwen3.8-27B families and answer in three forms -- choice, yes/no, or a numeric score -- returning a probability for each answer without generating text.\n\nUsing the official Jev 0.3 evaluation kit on the released weights, the team's own testing has the 27B model topping both the text and vision Jev Decision Index boards, ahead of every other listed model. Every smaller size also leads its class, with the 9B model (d3-flash) beating the team's previous-generation 27B model (Decision 2.0).\n\nAlthough none of the models were trained on video, the 27B model scored 77.4 across all 19,140 Perception Test validation questions, versus 70.3 for the 4B model, in a zero-shot evaluation."
      },
      "addedAt": "2026-10-12T18:10:35+00:00"
+    },
+    {
+     "id": "nvidia-france-startups-investment",
+     "date": "2026-10-12",
+     "type": "business",
+     "importance": 1,
+     "sourceType": "official",
+     "sourceName": "NVIDIA Blog",
+     "url": "https://blogs.nvidia.com/blog/france-ecosystem-agentic-computing/",
+     "originalTitle": "NVIDIA Announces New Investments in France's Startups",
+     "company": "NVIDIA",
+     "ar": {
+      "title": "NVIDIA تستثمر في أربع شركات ناشئة فرنسية جديدة وسط التزام أوروبي يقارب 10 مليارات دولار",
+      "summary": "أعلنت NVIDIA عن استثمارات جديدة في Doctolib وEntalpic وGenesis AI وPigment، في خطوة تعمّق حضورها في قطاع الذكاء الاصطناعي الفرنسي مع اقتراب التزامها الأوروبي من 10 مليارات دولار.",
+      "details": "قالت NVIDIA إنها تخطط لاستثمارات جديدة في أربع شركات ناشئة فرنسية: Doctolib، شركة تقنيات صحية تبني وكلاء ذكاء اصطناعي لمساعدة الأطباء والمرضى؛ وEntalpic، التي تستخدم الذكاء الاصطناعي في تصميم المواد على المستوى الذري لصناعة أشباه الموصلات؛ وGenesis AI، شركة روبوتات تطوّر روبوتات عامة الاستخدام؛ وPigment، شركة برمجيات تخطيط أعمال للمؤسسات.\n\nيأتي الإعلان استكمالًا لاستثمارات سابقة لـNVIDIA في شركات فرنسية ناشئة أخرى هي Alice&Bob وGradium وScintil Photonics، في وقت تقترب فيه التزامات الشركة التقنية الإجمالية في أوروبا من 10 مليارات دولار.\n\nوأشارت NVIDIA إلى قمة العمل من أجل الذكاء الاصطناعي في فبراير 2025 وقمم Choose France في 2025 و2026 كأساس لنمو منظومة الحوسبة والذكاء الاصطناعي في فرنسا."
+     },
+     "en": {
+      "title": "NVIDIA announces new investments in four French AI startups",
+      "summary": "NVIDIA said it plans new investments in Doctolib, Entalpic, Genesis AI and Pigment, deepening its push into French AI as its European commitment nears $10 billion.",
+      "details": "NVIDIA said it plans new investments in four French startups: Doctolib, a healthcare technology company building AI agents for clinicians and patients; Entalpic, which applies AI to atomic-scale materials design for semiconductor manufacturing; Genesis AI, a robotics company building general-purpose robots; and Pigment, an enterprise business-planning software firm.\n\nThe announcement builds on earlier NVIDIA investments in French startups Alice&Bob, Gradium and Scintil Photonics, and comes as the company's total technology commitments across Europe approach $10 billion.\n\nNVIDIA pointed to the AI Action Summit in February 2025 and the Choose France Summits in 2025 and 2026 as groundwork for France's growing compute and AI ecosystem."
+     },
+     "addedAt": "2026-10-12T23:59:59+00:00"
     },
     {
      "id": "qwengyre-rl-framework-long-horizon-agents",
