@@ -63,6 +63,48 @@
         "summary": "Organization admins can now see how many AI Scan findings were generated, resolved and auto-fixed across their repositories, in a new public preview.",
         "details": "GitHub added new metrics for AI Scan, its AI-powered pull request code scanning feature, to the security overview page. The metrics show how many findings AI Scan generated, how many were resolved, the remediation rate, which repositories produced the most findings, trends over a chosen time period, and how often developers applied its autofix suggestions.\n\nThe page previously called 'CodeQL pull requests' is now named 'Code scanning on pull requests' and has separate CodeQL and AI Scan tabs instead of one combined view.\n\nThe public preview is available on github.com for customers with GitHub Code Security or GitHub Advanced Security; GitHub Enterprise Server is not supported."
       }
+    },
+    {
+      "id": "apple-tv-4k-siri-ai",
+      "date": "2026-10-13",
+      "type": "product",
+      "importance": 2,
+      "sourceType": "official",
+      "sourceName": "Apple Newsroom",
+      "url": "https://www.apple.com/newsroom/2026/10/apple-unveils-the-new-apple-tv-4k/",
+      "originalTitle": "Apple unveils the new Apple TV 4K, supercharged by Siri AI",
+      "company": "Apple",
+      "ar": {
+        "title": "آبل تكشف عن Apple TV 4K الجديد مع نظام Siri AI المحادثي",
+        "summary": "تطلق آبل جيلًا جديدًا من Apple TV 4K بمعالج A19 ونظام Siri AI المحادثي، الذي يتيح البحث الكامل بالشاشة والإجابة عن أسئلة المحتوى وإجراءات شخصية عبر جهاز مقترن.",
+        "details": "في 13 أكتوبر، أعلنت آبل عن جيل جديد من Apple TV 4K يعمل بمعالج A19، ويقدّم ميزة Siri AI، وهي نسخة محادثية جديدة من Siri تتيح للمشاهدين البحث في كامل مكتبة أبل تي في بلغة طبيعية، وطرح أسئلة حول المحتوى المعروض على الشاشة، والحصول على ملخصات لمقاطع كاميرا تطبيق المنزل.\n\nيمكن لـ Siri AI تنفيذ إجراءات شخصية، مثل مراجعة التقويم أو التذكيرات، عند اقتران الجهاز بآيفون أو آيباد يعمل بنظام Apple Intelligence. كما يدعم الجهاز استدعاء \"Hey Siri\" دون لمس بفضل ميكروفونات بعيدة المدى.\n\nتُطرح الميزة في نسخة تجريبية مع tvOS 27.2 ولن تكون متوفرة في الاتحاد الأوروبي في البداية. يتوفر الجهاز بسعر 299 دولارًا للطلب المسبق في 13 أكتوبر، على أن يبدأ الشحن في 13 نوفمبر."
+      },
+      "en": {
+        "title": "Apple unveils new Apple TV 4K with conversational Siri AI",
+        "summary": "Apple's new Apple TV 4K ships with the A19 chip and Siri AI, a conversational assistant for full-screen search, on-screen Q&A and personal actions via a paired device.",
+        "details": "Apple announced on October 13 a new Apple TV 4K powered by the A19 chip, introducing Siri AI, a conversational rebuild of Siri that lets viewers search Apple TV's full catalog in natural language, ask questions about what's on screen, and get Home app camera summaries.\n\nSiri AI can carry out personal-context actions, such as checking a calendar or reminders, when paired with an iPhone or iPad running Apple Intelligence. The device also supports hands-free \"Hey Siri\" via far-field microphones.\n\nThe feature ships in beta with tvOS 27.2 and is not initially available in the European Union. The $299 Apple TV 4K is available for preorder October 13 and ships November 13."
+      }
+    },
+    {
+      "id": "apple-homepod-mini-2-siri-ai",
+      "date": "2026-10-13",
+      "type": "product",
+      "importance": 1,
+      "sourceType": "official",
+      "sourceName": "Apple Newsroom",
+      "url": "https://www.apple.com/newsroom/2026/10/apple-announces-the-next-generation-of-homepod-mini/",
+      "originalTitle": "Apple announces the next generation of HomePod mini",
+      "company": "Apple",
+      "ar": {
+        "title": "آبل تعلن عن HomePod mini 2 مع وصول Siri AI لاحقًا بتحديث برمجي",
+        "summary": "يأتي HomePod mini 2 الجديد بمعالج S10 وألوان جديدة، على أن تصل ميزات Siri AI المحادثية، ومنها التعرف على ستة أصوات مختلفة، لاحقًا عبر تحديث برمجي.",
+        "details": "أعلنت آبل في 13 أكتوبر عن الجيل الجديد من HomePod mini المزوّد بمعالج S10 الجديد وألوان إضافية، إلى جانب تحسينات في جودة الصوت.\n\nوخلافًا لجهاز Apple TV 4K الجديد، لا يصل HomePod mini 2 مزودًا بميزة Siri AI منذ الإطلاق. وتقول آبل إن ميزات Siri AI المحادثية - ومنها التعرف على ستة أصوات مختلفة داخل المنزل، والإجابة عن أسئلة أوسع بلغة طبيعية، وتنفيذ إجراءات شخصية عبر جهاز مقترن يعمل بـ Apple Intelligence - ستصل لاحقًا عبر تحديث برمجي.\n\nيبلغ سعر HomePod mini 2 149 دولارًا، وهو متاح للطلب المسبق في 13 أكتوبر، على أن يبدأ الشحن في 30 أكتوبر."
+      },
+      "en": {
+        "title": "Apple announces HomePod mini 2, Siri AI coming via later update",
+        "summary": "Apple's new HomePod mini 2 adds the S10 chip and new colors; its conversational Siri AI features, including six-person voice recognition, arrive later via a software update.",
+        "details": "Apple announced on October 13 the next-generation HomePod mini, built around its new S10 chip and offered in new colors, alongside improved audio.\n\nUnlike the new Apple TV 4K, HomePod mini 2 does not launch with Siri AI built in. Apple says the conversational Siri AI features - including recognizing up to six different voices in a household, broader natural-language Q&A, and personal-context actions via a paired Apple Intelligence device - will arrive in a future software update.\n\nHomePod mini 2 costs $149, is available for preorder October 13, and ships October 30."
+      }
     }
   ],
   "upcoming": [
