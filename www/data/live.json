@@ -1,6 +1,63 @@
 {
- "updatedAt": "2026-10-13T17:53:19+00:00",
+ "updatedAt": "2026-10-13T18:13:02+00:00",
  "items": [
+  {
+   "id": "auto-1492cb3bacc8",
+   "tab": "ai",
+   "date": "2026-10-13",
+   "publishedAt": "2026-10-13T11:32:31+00:00",
+   "type": "product",
+   "importance": 1,
+   "sourceType": "community",
+   "sourceName": "r/LocalLLaMA",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x4u6vi/its_been_too_quiet_on_the_other_side_of_the/",
+   "originalTitle": "It's been too quiet on the other side of the Pacific",
+   "en": {
+    "title": "It's been too quiet on the other side of the Pacific",
+    "summary": "Community post on r/LocalLLaMA.",
+    "details": "Community post on r/LocalLLaMA."
+   },
+   "translated": false,
+   "fetchedAt": "2026-10-13T18:13:02+00:00"
+  },
+  {
+   "id": "auto-1f00e23c7406",
+   "tab": "ai",
+   "date": "2026-10-13",
+   "publishedAt": "2026-10-13T00:27:09+00:00",
+   "type": "product",
+   "importance": 1,
+   "sourceType": "community",
+   "sourceName": "r/LocalLLaMA",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x4ii8e/anthropic_is_doing_free_publicity_for_glm_again/",
+   "originalTitle": "Anthropic is doing free publicity for GLM again",
+   "en": {
+    "title": "Anthropic is doing free publicity for GLM again",
+    "summary": "Community post on r/LocalLLaMA. https://www.anthropic.com/research/distillation-defenses",
+    "details": "Community post on r/LocalLLaMA.\n\nhttps://www.anthropic.com/research/distillation-defenses"
+   },
+   "translated": false,
+   "fetchedAt": "2026-10-13T18:13:02+00:00"
+  },
+  {
+   "id": "auto-72f705de066d",
+   "tab": "ai",
+   "date": "2026-10-13",
+   "publishedAt": "2026-10-13T04:23:26+00:00",
+   "type": "product",
+   "importance": 1,
+   "sourceType": "community",
+   "sourceName": "r/LocalLLaMA",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x4n6sg/anyone_feel_like_reverseengineering_cuda/",
+   "originalTitle": "Anyone feel like reverse-engineering CUDA?",
+   "en": {
+    "title": "Anyone feel like reverse-engineering CUDA?",
+    "summary": "Community post on r/LocalLLaMA. I've been reading about all these modders using AI to reverse-engineer games and software. I've been trying out photocraft and gridcraft and have just watched a GTA5 mod featuring Sonic.",
+    "details": "Community post on r/LocalLLaMA.\n\nI've been reading about all these modders using AI to reverse-engineer games and software. I've been trying out photocraft and gridcraft and have just watched a GTA5 mod featuring Sonic. It's pretty damn impressive.\n\nAs a struggling AMD Radeon owner I'd love to see AI generated open source CUDA implementation.\n\nNot only do I dislike NVIDIA, but there's delicious irony in using CUDA cores to do it.\n\nAnyone up for the challenge?"
+   },
+   "translated": false,
+   "fetchedAt": "2026-10-13T18:13:02+00:00"
+  },
   {
    "id": "auto-4827ee16196e",
    "tab": "ai",
@@ -39,26 +96,6 @@
    },
    "translated": false,
    "fetchedAt": "2026-10-13T16:11:12+00:00"
-  },
-  {
-   "id": "auto-18a1b1e57f07",
-   "tab": "ai",
-   "date": "2026-10-13",
-   "publishedAt": "2026-10-13T05:00:31+00:00",
-   "type": "hardware",
-   "importance": 1,
-   "sourceType": "official",
-   "sourceName": "NVIDIA Blog",
-   "url": "https://blogs.nvidia.com/blog/france-ecosystem-agentic-computing/",
-   "originalTitle": "From Earth to Orbit, France’s Ecosystem Delivers Agentic Computing at Scale With NVIDIA",
-   "en": {
-    "title": "NVIDIA Announces New Investments in France’s Startups",
-    "summary": "Companies in France are deploying agentic computing across industries spanning space, financial services, the public sector and scientific research, demonstrating how the country’s ecosystem has moved from ambition to application.",
-    "details": "Companies in France are deploying agentic computing across industries spanning space, financial services, the public sector and scientific research, demonstrating how the country’s ecosystem has moved from ambition to application.\n\nFrance’s progress sits on deliberate groundwork.\n\nThe AI Action Summit in February 2025 and Choose France Summits in 2025 and 2026 anchored major compute commitments on French soil. What the ecosystem has built since then spans the full stack.\n\nRead All NVIDIA in Europe Announcements\n\nNVIDIA’s Investments in France\n\nNVIDIA has been investing in France’s startup ecosystem, having previously invested in leading technology companies including Alice&Bob, Gradium and Scintil Photonics .\n\nAcross all of Europe, NVIDIA has committed nearly $10 billion to the technology ecosystem.\n\nToday, NVIDIA announced new planned investments in Doctolib, Entalpic , Genesis AI and Pigment .\n\nThese startups are innovating to solve challenges across healthcare, materials discovery, physical AI and business planning.\n\nDoctolib , a European healthcare technology company, builds agents that free up healthcare professionals to deliver better care, while providing patients with a digital health companion that improves access to care and supports more preventive, continuous medicine. …"
-   },
-   "translated": false,
-   "fetchedAt": "2026-10-13T05:14:54+00:00",
-   "company": "NVIDIA"
   }
  ]
 }
