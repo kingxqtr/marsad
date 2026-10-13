@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-13T13:03:40+00:00",
+ "updatedAt": "2026-10-13T13:32:13+00:00",
  "items": [
   {
    "id": "auto-d2abe60c1c48",
@@ -40,46 +40,6 @@
    "translated": false,
    "fetchedAt": "2026-10-13T13:03:35+00:00",
    "company": "Apple"
-  },
-  {
-   "id": "auto-9fd3863434e8",
-   "tab": "ai",
-   "date": "2026-10-13",
-   "publishedAt": "2026-10-13T12:03:17+00:00",
-   "type": "coding",
-   "importance": 1,
-   "sourceType": "official",
-   "sourceName": "GitHub Changelog",
-   "url": "https://github.blog/changelog/2026-10-13-code-scanning-ai-scan-metrics-in-security-overview",
-   "originalTitle": "Code scanning AI Scan metrics in security overview",
-   "en": {
-    "title": "Code scanning AI Scan metrics in security overview",
-    "summary": "Organization and enterprise administrators can now observe the impact of AI Scan for pull requests in security overview.",
-    "details": "Organization and enterprise administrators can now observe the impact of AI Scan for pull requests in security overview. New metrics show how many AI Scan findings were generated, resolved, the remediation rate, which repositories generated findings, trends over the selected reporting period, and how often developers applied autofix suggestions.\n\nThe “CodeQL pull requests” page is now named “Code scanning on pull requests” and includes separate CodeQL and AI Scan tabs. The AI Scan tab shows total findings and how many findings include or do not include an autofix suggestion. Metrics from the “CodeQL pull requests” page are now under the CodeQL tab.\n\nThese metrics help security teams evaluate the effectiveness of AI Scan across their organization or enterprise, understand developer response, and make informed rollout and investment decisions without reviewing individual pull requests.\n\nThis public preview is available on github.com, including GitHub Enterprise Cloud, for customers with GitHub Code Security or GitHub Advanced Security. GitHub Enterprise Server isn’t supported for this release.\n\nLearn more about AI Scan for pull requests and join the AI Scan Community discussion .\n\nThe post Code scanning AI Scan metrics in security overview appeared first on The GitHub Blog ."
-   },
-   "translated": false,
-   "fetchedAt": "2026-10-13T12:33:10+00:00",
-   "company": "GitHub"
-  },
-  {
-   "id": "auto-3683130d1efe",
-   "tab": "ai",
-   "date": "2026-10-13",
-   "publishedAt": "2026-10-13T12:00:49+00:00",
-   "type": "coding",
-   "importance": 1,
-   "sourceType": "official",
-   "sourceName": "NVIDIA Blog",
-   "url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-laptops-software-updates/",
-   "originalTitle": "All Systems Go: Global PC App Ecosystem Ready for NVIDIA RTX Spark",
-   "en": {
-    "title": "All Systems Go: Global PC App Ecosystem Ready for NVIDIA RTX Spark",
-    "summary": "NVIDIA RTX Spark is a new beginning for the PC — a reinvention combining the capabilities of a gaming PC, a creative studio and a personal AI supercomputer into a single superchip.",
-    "details": "NVIDIA RTX Spark is a new beginning for the PC — a reinvention combining the capabilities of a gaming PC, a creative studio and a personal AI supercomputer into a single superchip. With up to 128GB of unified memory and 1 petaflop of AI compute, RTX Spark delivers the full stack of NVIDIA RTX and CUDA technologies for creators, developers and gamers, while unlocking a new paradigm in personal computing via powerful local AI agents.\n\nLast week, NVIDIA and Microsoft announced that RTX Spark laptops will be available on Friday, Oct. 16 . Ahead of the launch, NVIDIA and its ecosystem partners are rolling out new software features and performance optimizations to expand what’s possible with local AI on RTX Spark.\n\nNew and upcoming RTX Spark updates — among the thousands of apps, games and models available at launch — include:\n\n- New agent features, models and tools that enhance local agents on RTX Spark:\n\n- Updates to top agent apps including GitHub Copilot, Hermes, OpenClaw, Perplexity, Pi and WorkBuddy streamline setup on RTX Spark, improve security with OpenShell and Microsoft Execution Containers (MXC), and enable hybrid local and cloud AI routing.\n\n- The NVIDIA Nemotron 3.5 Bolt 74B model, purpose-built for agentic AI on RTX Spark, releases on Thursday, Oct. 15.\n\n- NVIDIA PAIR moves out of beta and adds llama.cpp support.\n\n- Top creative apps optimized for RTX Spark: …"
-   },
-   "translated": false,
-   "fetchedAt": "2026-10-13T12:33:10+00:00",
-   "company": "NVIDIA"
   },
   {
    "id": "auto-18a1b1e57f07",
