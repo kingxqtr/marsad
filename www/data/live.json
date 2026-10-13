@@ -1,4 +1,25 @@
 {
- "updatedAt": "2026-10-13T04:57:31+00:00",
- "items": []
+ "updatedAt": "2026-10-13T05:14:59+00:00",
+ "items": [
+  {
+   "id": "auto-18a1b1e57f07",
+   "tab": "ai",
+   "date": "2026-10-13",
+   "publishedAt": "2026-10-13T05:00:31+00:00",
+   "type": "hardware",
+   "importance": 1,
+   "sourceType": "official",
+   "sourceName": "NVIDIA Blog",
+   "url": "https://blogs.nvidia.com/blog/france-ecosystem-agentic-computing/",
+   "originalTitle": "From Earth to Orbit, France’s Ecosystem Delivers Agentic Computing at Scale With NVIDIA",
+   "en": {
+    "title": "From Earth to Orbit, France’s Ecosystem Delivers Agentic Computing at Scale With NVIDIA",
+    "summary": "Companies in France are deploying agentic computing across industries spanning space, financial services, the public sector and scientific research, demonstrating how the country’s ecosystem has moved from ambition to application.",
+    "details": "Companies in France are deploying agentic computing across industries spanning space, financial services, the public sector and scientific research, demonstrating how the country’s ecosystem has moved from ambition to application.\n\nFrance’s progress sits on deliberate groundwork.\n\nThe AI Action Summit in February 2025 and Choose France Summits in 2025 and 2026 anchored major compute commitments on French soil. What the ecosystem has built since then spans the full stack.\n\nRead All NVIDIA in Europe Announcements\n\nSovereign AI Infrastructure\n\nFrance-based companies are expanding agentic infrastructure on NVIDIA technology.\n\nBull is extending its European AI server production to NVIDIA Vera Rubin Ultra NVL72 systems, planned for 2028, with trays produced in Europe and rack integration at its Angers factory — inaugurated Friday, Oct. 2.\n\nAltair-1, the first satellite in a $1 billion, 50-satellite constellation with on-board autonomous capabilities, launched this month and has successfully reached orbit. Integrated by Loft Orbital and built in Abu Dhabi by Orbitworks , a joint venture between Loft Orbital and Marlan Space , the satellite is flying NVIDIA Jetson AGX Orin edge modules, running Mistral’s models, for real-time Earth observation and autonomous operations in orbit.\n\nOpen Models\n\nNVIDIA Nemotron open models are in production across French organizations that require sovereign, trustworthy data. …"
+   },
+   "translated": false,
+   "fetchedAt": "2026-10-13T05:14:54+00:00",
+   "company": "NVIDIA"
+  }
+ ]
 }
