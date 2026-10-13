@@ -42,9 +42,56 @@
         "summary": "Anthropic says new technical and enforcement measures cut data harvested by rivals from its models by 90-99%, citing Zhipu's GLM-5.3 and a suspected China-military-linked account as concerning cases.",
         "details": "Anthropic published details on October 12 of new technical and policy measures meant to stop large-scale 'distillation' campaigns, where rival companies harvest Claude's reasoning to train competing models without permission.\n\nThe company says the defenses - including limits on reusing earlier context, visibility restrictions on reasoning transcripts, and a fraud-detection classifier - cut data harvested by distillers by roughly 90-99% and let it ban tens of thousands of suspicious accounts, often within two hours.\n\nAnthropic named Zhipu's GLM-5.3 as an example of a model it believes benefited from distilled cyber capabilities, and said a user believed to be linked to China's military sought to use a distilled model to analyze surveillance footage of an individual.\n\nThe company acknowledged trade-offs, including blocking a small share of legitimate requests and turning away revenue, and called on other AI companies and cloud providers to adopt similar account-abuse defenses."
       }
+    },
+    {
+      "id": "github-ai-scan-metrics-security-overview",
+      "date": "2026-10-13",
+      "type": "coding",
+      "importance": 1,
+      "sourceType": "official",
+      "sourceName": "GitHub Changelog",
+      "url": "https://github.blog/changelog/2026-10-13-code-scanning-ai-scan-metrics-in-security-overview",
+      "originalTitle": "Code scanning AI Scan metrics in security overview",
+      "company": "GitHub",
+      "ar": {
+        "title": "GitHub يضيف مقاييس AI Scan إلى نظرة الأمان العامة",
+        "summary": "يمكن لمسؤولي المؤسسات الآن رؤية عدد نتائج AI Scan التي ظهرت وأُصلحت ومعدل إصلاحها عبر مستودعاتهم، ضمن معاينة عامة جديدة.",
+        "details": "أضاف GitHub إلى صفحة نظرة الأمان العامة مقاييس جديدة لأداة AI Scan، وهي ميزة فحص طلبات السحب بالذكاء الاصطناعي ضمن فحص الشيفرة. تُظهر المقاييس عدد النتائج التي رصدتها الأداة، وعدد ما أُصلح منها، ومعدل الإصلاح، والمستودعات الأكثر توليدًا للنتائج، واتجاه الأرقام خلال الفترة المختارة، ومدى استخدام المطورين لاقتراحات الإصلاح التلقائي.\n\nكما أُعيدت تسمية صفحة 'طلبات سحب CodeQL' إلى 'فحص الشيفرة في طلبات السحب'، وأصبحت تضم تبويبين منفصلين لـ CodeQL وAI Scan بدلًا من تبويب واحد.\n\nتتوفر هذه المعاينة العامة حاليًا على github.com لعملاء GitHub Code Security أو GitHub Advanced Security، ولا تشمل GitHub Enterprise Server."
+      },
+      "en": {
+        "title": "GitHub adds AI Scan metrics to its security overview page",
+        "summary": "Organization admins can now see how many AI Scan findings were generated, resolved and auto-fixed across their repositories, in a new public preview.",
+        "details": "GitHub added new metrics for AI Scan, its AI-powered pull request code scanning feature, to the security overview page. The metrics show how many findings AI Scan generated, how many were resolved, the remediation rate, which repositories produced the most findings, trends over a chosen time period, and how often developers applied its autofix suggestions.\n\nThe page previously called 'CodeQL pull requests' is now named 'Code scanning on pull requests' and has separate CodeQL and AI Scan tabs instead of one combined view.\n\nThe public preview is available on github.com for customers with GitHub Code Security or GitHub Advanced Security; GitHub Enterprise Server is not supported."
+      }
     }
   ],
-  "upcoming": [],
+  "upcoming": [
+    {
+      "id": "nvidia-rtx-spark-laptops-on-sale-oct16",
+      "date": "2026-10-16",
+      "endDate": null,
+      "dateConfidence": "confirmed",
+      "type": "release",
+      "sourceType": "official",
+      "sourceName": "NVIDIA Blog",
+      "url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-laptops-software-updates/",
+      "company": "NVIDIA",
+      "ar": {
+        "title": "حواسيب NVIDIA RTX Spark المحمولة تصل إلى الأسواق في 16 أكتوبر",
+        "summary": "تطلق NVIDIA ومايكروسوفت حواسيب RTX Spark المحمولة المخصصة لتشغيل الذكاء الاصطناعي محليًا، مع تحديثات برمجية من تطبيقات وكيلة مثل GitHub Copilot وPerplexity.",
+        "details": "تبدأ حواسيب RTX Spark المحمولة، التي تجمع بين إمكانات حاسوب الألعاب واستوديو إبداعي وحاسوب ذكاء اصطناعي شخصي بذاكرة موحدة تصل إلى 128 غيغابايت، بالوصول إلى الأسواق يوم الجمعة 16 أكتوبر. وقبيل الإطلاق، تطرح NVIDIA وشركاؤها تحديثات لتطبيقات وكيلة مثل GitHub Copilot وPerplexity وWorkBuddy لتحسين الإعداد والأمان على الجهاز.\n\nكما يُطرح نموذج NVIDIA Nemotron 3.5 Bolt بحجم 74 مليار معامل، المصمم خصيصًا للذكاء الاصطناعي الوكيل على RTX Spark، في 15 أكتوبر.",
+        "location": "",
+        "dateNote": "تاريخ مؤكد من مدونة NVIDIA الرسمية؛ موعد طرح نموذج Nemotron 3.5 Bolt هو 15 أكتوبر."
+      },
+      "en": {
+        "title": "NVIDIA RTX Spark laptops go on sale October 16",
+        "summary": "NVIDIA and Microsoft's RTX Spark laptops for local AI arrive this week, alongside software updates from agent apps like GitHub Copilot and Perplexity.",
+        "details": "RTX Spark laptops, which combine a gaming PC, creative studio and personal AI supercomputer with up to 128GB of unified memory, become available Friday, October 16. Ahead of launch, NVIDIA and its partners are rolling out updates to agent apps including GitHub Copilot, Perplexity and WorkBuddy to streamline setup and improve security on-device.\n\nThe NVIDIA Nemotron 3.5 Bolt 74B model, built for agentic AI on RTX Spark, releases separately on October 15.",
+        "location": "",
+        "dateNote": "Confirmed from NVIDIA's official blog; the Nemotron 3.5 Bolt model releases a day earlier, on October 15."
+      }
+    }
+  ],
   "removeUpcoming": [],
   "removeNews": []
 }
