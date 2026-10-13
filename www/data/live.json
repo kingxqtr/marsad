@@ -1,6 +1,46 @@
 {
- "updatedAt": "2026-10-13T12:33:17+00:00",
+ "updatedAt": "2026-10-13T13:03:40+00:00",
  "items": [
+  {
+   "id": "auto-d2abe60c1c48",
+   "tab": "ai",
+   "date": "2026-10-13",
+   "publishedAt": "2026-10-13T12:58:10+00:00",
+   "type": "product",
+   "importance": 1,
+   "sourceType": "official",
+   "sourceName": "Apple Newsroom",
+   "url": "https://www.apple.com/newsroom/2026/10/apple-unveils-the-new-apple-tv-4k/",
+   "originalTitle": "Apple unveils the new Apple TV 4K, supercharged by Siri AI",
+   "en": {
+    "title": "Apple unveils the new Apple TV 4K, supercharged by Siri AI",
+    "summary": "Apple today announced the next generation of Apple TV 4K, delivering its most immersive home theater experience yet.",
+    "details": "Apple today announced the next generation of Apple TV 4K, delivering its most immersive home theater experience yet."
+   },
+   "translated": false,
+   "fetchedAt": "2026-10-13T13:03:35+00:00",
+   "company": "Apple"
+  },
+  {
+   "id": "auto-91ff4348a6fc",
+   "tab": "ai",
+   "date": "2026-10-13",
+   "publishedAt": "2026-10-13T12:57:08+00:00",
+   "type": "media",
+   "importance": 1,
+   "sourceType": "official",
+   "sourceName": "Apple Newsroom",
+   "url": "https://www.apple.com/newsroom/2026/10/apple-announces-the-next-generation-of-homepod-mini/",
+   "originalTitle": "Apple announces the next generation of HomePod mini",
+   "en": {
+    "title": "Apple announces the next generation of HomePod mini",
+    "summary": "Apple today announced HomePod mini 2, featuring Siri AI, gorgeous new colors, and enhanced audio experiences.",
+    "details": "Apple today announced HomePod mini 2, featuring Siri AI, gorgeous new colors, and enhanced audio experiences."
+   },
+   "translated": false,
+   "fetchedAt": "2026-10-13T13:03:35+00:00",
+   "company": "Apple"
+  },
   {
    "id": "auto-9fd3863434e8",
    "tab": "ai",
