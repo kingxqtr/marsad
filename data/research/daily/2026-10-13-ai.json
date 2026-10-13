@@ -147,6 +147,71 @@
         "summary": "Apple's new HomePod mini 2 adds the S10 chip and new colors; its conversational Siri AI features, including six-person voice recognition, arrive later via a software update.",
         "details": "Apple announced on October 13 the next-generation HomePod mini, built around its new S10 chip and offered in new colors, alongside improved audio.\n\nUnlike the new Apple TV 4K, HomePod mini 2 does not launch with Siri AI built in. Apple says the conversational Siri AI features - including recognizing up to six different voices in a household, broader natural-language Q&A, and personal-context actions via a paired Apple Intelligence device - will arrive in a future software update.\n\nHomePod mini 2 costs $149, is available for preorder October 13, and ships October 30."
       }
+    },
+    {
+      "id": "google-gemini-4-argon-launch",
+      "date": "2026-10-13",
+      "type": "model",
+      "importance": 3,
+      "sourceType": "official",
+      "sourceName": "Google Blog",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/",
+      "originalTitle": "Gemini 4 Argon: Built to solve your hardest problems",
+      "company": "Google",
+      "tool": "Gemini 4 Argon",
+      "ar": {
+        "title": "غوغل تطلق Gemini 4 Argon نموذجها الطليعي الجديد",
+        "summary": "أطلقت غوغل نموذج Gemini 4 Argon عالميًا، متصدرًا مؤشر Vals Index ومحققًا 87% في معيار الاستدلال المجسّد ERQA، بتسعير تمهيدي للواجهة البرمجية يبلغ دولارين و10 دولارات لكل مليون رمز.",
+        "details": "أعلنت غوغل في 13 أكتوبر عن توفر نموذجها الطليعي الجديد Gemini 4 Argon عالميًا، وتسوّقه كنموذج مخصص للمهام المعقدة متعددة الخطوات في الترميز والتمويل والقانون والأمن السيبراني والعلوم.\n\nوتقول الشركة إن Argon يتصدر مؤشر Vals Index، وهو معيار يغطي مهام التمويل والترميز والقانون والضرائب، ويحقق نسبة 87% في معيار الاستدلال المجسّد ERQA، و57% في RareBench، و52.2% في LabBench. كما تفيد غوغل بزيادة تتجاوز 35% في عدد مساهمات الترميز الوكيل المقبولة عبر أداة Antigravity مع تراجع حالات الرجوع عن التغييرات بنحو الثلث، وبمعدل نجاح هجمات حقن التوجيهات لا يتجاوز 0.7% وفق معيار Gray Swan.\n\nويتوفر Argon عبر واجهة Gemini البرمجية وGoogle AI Studio بتسعير تمهيدي يبلغ دولارين لكل مليون رمز إدخال و10 دولارات لكل مليون رمز إخراج (مع خصم 95% على الإدخال المخزّن مؤقتًا) حتى 30 نوفمبر، ليرتفع إلى 4 و20 دولارًا بعد ذلك، إضافة إلى توفره في Antigravity لمشتركي Google AI Ultra وفي تطبيق Gemini ووضع AI Mode لمشتركي Ultra وPro."
+      },
+      "en": {
+        "title": "Google launches Gemini 4 Argon, its new frontier model",
+        "summary": "Google made Gemini 4 Argon globally available, topping the Vals Index and posting an 87% ERQA embodied-reasoning score, with introductory API pricing of $2/$10 per million tokens.",
+        "details": "Google made Gemini 4 Argon, its newest frontier model, globally available on October 13, pitching it for deep multi-step work in coding, finance, legal, cybersecurity and science.\n\nThe company says Argon ranks #1 on the Vals Index, a benchmark spanning finance, coding, legal and tax tasks, and scores 87% on the ERQA embodied-reasoning benchmark, 57% on RareBench and 52.2% on LabBench. Google also reports more than 35% more agentic code submissions accepted in its Antigravity tool with about a third fewer rollbacks, and a 0.7% attack success rate on the Gray Swan prompt-injection benchmark.\n\nArgon is available through the Gemini API and Google AI Studio at introductory pricing of $2 per million input tokens and $10 per million output tokens (cached input 95% cheaper) through November 30, rising to $4/$20 afterward, as well as in Antigravity for Google AI Ultra subscribers and in the Gemini app and AI Mode for Ultra and Pro subscribers."
+      }
+    },
+    {
+      "id": "liquidai-lfm2-5-24b-a2b",
+      "date": "2026-10-13",
+      "type": "model",
+      "importance": 1,
+      "sourceType": "official",
+      "sourceName": "Hugging Face Blog",
+      "url": "https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b",
+      "originalTitle": "Run fast, private agents on-device with LFM2.5-24B-A2B",
+      "company": "Liquid AI",
+      "tool": "LFM2.5-24B-A2B",
+      "ar": {
+        "title": "Liquid AI تطرح LFM2.5-24B-A2B لوكلاء الذكاء الاصطناعي على الجهاز",
+        "summary": "نموذج Liquid AI مفتوح الأوزان يفعّل 2 مليار معامل فقط من أصل 24 مليار لكل رمز، ويتفوق على Qwen3.6-35B-A3B في عدة معايير وكيلة مع عمله على أجهزة استهلاكية.",
+        "details": "طرحت Liquid AI نموذج LFM2.5-24B-A2B، وهو نموذج استدلال مفتوح الأوزان مصمم لتشغيل وكلاء ذكاء اصطناعي سريعين وخاصين مباشرة على الجهاز. يعتمد النموذج بنية \"خليط الخبراء\" بإجمالي 24 مليار معامل، لكن يُفعَّل منها نحو 2 مليار فقط لكل رمز، ضمن 40 طبقة و64 خبيرًا لكل وحدة مع توجيه لأفضل 4 خبراء، ونافذة سياق تبلغ 131 ألف رمز، ارتفاعًا من 32 ألف رمز في النسخة السابقة.\n\nوبالمقارنة مع نموذج Qwen3.6-35B-A3B، تقول Liquid AI إن نموذجها يحقق نتائج أعلى في معايير وكيلة مثل LiveClaw (48.09 مقابل 38.19) وAutomationBench (27.69 مقابل 8.72)، بينما يتراجع في اختبارات المعرفة العامة والترميز مثل GPQA Diamond وSWE-Bench Verified.\n\nوتقول الشركة إن النموذج يعمل بسرعة 184 رمزًا في الثانية على معالج Apple M5 Max، و114 رمزًا في الثانية على معالج Ryzen AI Max+ 395. وتتوفر أوزان النموذج على Hugging Face باسم LFM2.5-24B-A2B إلى جانب نسخة أساسية، مع دعم لأدوات llama.cpp وMLX وvLLM وSGLang."
+      },
+      "en": {
+        "title": "Liquid AI releases LFM2.5-24B-A2B for on-device agents",
+        "summary": "Liquid AI's open-weight mixture-of-experts model activates only 2B of its 24B parameters per token and outperforms Qwen3.6-35B-A3B on several agentic benchmarks while running on consumer hardware.",
+        "details": "Liquid AI released LFM2.5-24B-A2B, an open-weight reasoning model built for fast, private agents that run on-device. It is a mixture-of-experts design with 24 billion total parameters but only about 2 billion active per token, 40 layers, 64 experts per block with top-4 routing, and a 131,000-token context window, up from 32,000 in its predecessor.\n\nCompared with Qwen3.6-35B-A3B, Liquid AI reports higher scores on agentic benchmarks such as LiveClaw (48.09 vs 38.19) and AutomationBench (27.69 vs 8.72), though it trails on general knowledge and coding tests like GPQA Diamond and SWE-Bench Verified.\n\nThe company says the model runs at 184 tokens per second on an Apple M5 Max and 114 tokens per second on a Ryzen AI Max+ 395 chip. Weights are available on Hugging Face as LFM2.5-24B-A2B and a base variant, with support for llama.cpp, MLX, vLLM and SGLang."
+      }
+    },
+    {
+      "id": "meta-your-algorithm-facebook",
+      "date": "2026-10-13",
+      "type": "product",
+      "importance": 1,
+      "sourceType": "official",
+      "sourceName": "Meta Newsroom",
+      "url": "https://about.fb.com/news/2026/10/introducing-your-algorithm-facebook/",
+      "originalTitle": "Your Algorithm, Your Words: New Ways to Shape What You See on Facebook",
+      "company": "Meta",
+      "ar": {
+        "title": "ميتا تتيح لمستخدمي فيسبوك توجيه خوارزمية موجزهم بكلماتهم",
+        "summary": "أداة \"خوارزميتك\" الجديدة في فيسبوك تتيح للمستخدمين كتابة المواضيع التي يريدون رؤيتها أكثر أو أقل في Feed وReels، مع تحديث التوصيات فوريًا.",
+        "details": "طرحت ميتا أداة جديدة باسم \"خوارزميتك\" في فيسبوك، تتيح للمستخدمين إضافة وإدارة المواضيع التي يريدون رؤيتها بشكل مباشر في Feed وReels، ويمكن الوصول إليها من قائمة النقاط الثلاث على أي منشور.\n\nكما توسّع الشركة خيارات التغذية الراجعة بعد الضغط على \"مهتم\" أو \"غير مهتم\": قد يطرح فيسبوك الآن أسئلة متابعة بلغة طبيعية حول سبب الإعجاب أو عدمه، ويحدّث التوصيات فورًا بناءً على الإجابة.\n\nوتقول ميتا إن الهدف هو منح المستخدمين طريقة مباشرة وتحاورية لتشكيل توصياتهم الخاصة، بدل الاعتماد فقط على إشارات غير مباشرة كالإعجابات ومدة المشاهدة."
+      },
+      "en": {
+        "title": "Meta lets Facebook users steer their AI-driven feed in their own words",
+        "summary": "Facebook's new 'Your algorithm' tool lets people type what topics they want more or less of in Feed and Reels, with recommendations updating in real time.",
+        "details": "Meta introduced \"Your algorithm,\" a new Facebook tool that lets people directly add and manage the topics they want to see more of in Feed and Reels, accessible from the three-dot menu on any post.\n\nThe company is also expanding feedback options after someone taps \"Interested\" or \"Not interested\": Facebook may now ask follow-up questions in natural language about what they liked or disliked, and update recommendations immediately based on the answer.\n\nMeta says the goal is a more direct, conversational way for people to shape their own recommendations rather than relying only on passive signals like likes and watch time."
+      }
     }
   ],
   "upcoming": [
