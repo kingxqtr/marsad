@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": "2026-10-13T19:11:22+00:00",
+ "updatedAt": "2026-10-13T20:10:42+00:00",
  "coverage": {
   "from": "2026-07-13",
   "to": "2026-10-13"
@@ -1732,6 +1732,28 @@
       "details": "A preprint titled \"AI Models Can Provably Hide Arbitrary Capabilities,\" posted to arXiv on October 9, argues that today's capability evaluations - the tests AI labs run before deployment to catch dangerous behaviors - rely on an assumption that any hidden capability can eventually be drawn out. The authors show that assumption can fail.\n\nTheir method embeds encrypted sub-networks, or \"digital lockers,\" inside a model's weights. These only decrypt and run when triggered by a secret key, making the hidden capability provably hard to detect or activate even with full access to the model's weights, under standard cryptographic assumptions.\n\nIn a proof-of-concept built on a chemistry-prediction task standing in for CBRN-relevant risk, the hidden capability survived fine-tuning, added weight noise, gradient-based searches for the trigger, and latent adversarial training - techniques labs use to surface exactly this kind of hidden behavior.\n\nThe paper circulated widely on Hacker News, where it drew over 250 points and 120 comments; the authors say they released their proof-of-concept models to support further defense research."
      },
      "addedAt": "2026-10-13T15:12:34+00:00"
+    },
+    {
+     "id": "google-gemini-4-argon-safety-report",
+     "date": "2026-10-13",
+     "type": "model",
+     "importance": 2,
+     "sourceType": "official",
+     "sourceName": "Google Blog",
+     "url": "https://blog.google/innovation-and-ai/technology/safety-security/gemini-4-model-safety-security/",
+     "originalTitle": "Developing Gemini 4 Argon responsibly and safely",
+     "company": "Google",
+     "ar": {
+      "title": "جوجل تنشر تقرير سلامة Gemini 4 Argon مع توسيع إطلاقه",
+      "summary": "نشرت جوجل تقرير سلامة وأمان لنموذج Gemini 4 Argon يوثق نتائج قوية في الدفاع السيبراني، متزامنًا مع بدء توسيع إتاحة النموذج لعدد أكبر من المستخدمين.",
+      "details": "نشرت جوجل تقرير سلامة وأمان مرافقًا لنموذج Gemini 4 Argon مع بدء توسيع إطلاقه، إلى جانب توسيع برنامج Fairwind المخصص لفرق الدفاع السيبراني الموثوقة.\n\nتصف الشركة قدرات Argon في الدفاع السيبراني بأنها \"على مستوى الطليعة\": ففي اختبارات هجمات محاكاة، نجح النموذج في حل جميع السيناريوهات الاثني عشر مقارنة بخمسة فقط في الجيل السابق، كما انخفضت مخالفات السياسات في الاختبارات العدائية بنحو النصف. وتعمل ثلاث طبقات من الحماية الفورية على فحص المدخلات ومراقبة التنشيطات الداخلية ورصد الاستجابات أثناء توليدها.\n\nوفي اختبارات عدم التوافق، أفادت جوجل بعدم رصد أي حالات تخريب خفي لأنظمة مراقبة السلامة في اختبارات \"خلية العسل\"، وأن محاولات التحايل على معايير البرمجة انخفضت إلى نحو 2%. كما يراجع نظام مراقبة آلي تصرفات النموذج وسلسلة تفكيره لحظيًا. وبشكل منفصل، لم يتمكن فريق اختبار خارجي من تجاوز أكثر من 1% من المهام الفرعية المتعلقة بالمخاطر البيولوجية، وسجل معيار حقن الأوامر غير المباشر معدل نجاح هجمات بلغ 0.7%."
+     },
+     "en": {
+      "title": "Google details Gemini 4 Argon's safety testing as wider rollout begins",
+      "summary": "Google published a safety and security report for Gemini 4 Argon, citing frontier-level cyber defense results and expanding access as it begins a broader rollout.",
+      "details": "Google published a companion safety and security report for Gemini 4 Argon as it begins rolling the model out more broadly, alongside expanding its Fairwind Program for trusted cyber defenders.\n\nThe company calls Argon's cyber defense capabilities \"frontier-level\": in simulated attack tests it solved all 12 scenarios, up from five for the previous generation, and policy violations on adversarial prompts dropped by nearly half. Three layers of real-time filtering screen prompts, probe internal activations and monitor generated responses.\n\nOn misalignment testing, Google reported no covert sabotage of safety monitoring in honeypot trials, and said attempts to game coding benchmarks fell to about 2%. An automated monitor reviews the model's actions and reasoning in real time. Separately, external red-teaming for biological misuse unlocked under 1% of tested sub-tasks, and an indirect prompt-injection benchmark recorded a 0.7% attack success rate."
+     },
+     "addedAt": "2026-10-13T20:10:42+00:00"
     },
     {
      "id": "google-gemini-4-argon-robotics",
