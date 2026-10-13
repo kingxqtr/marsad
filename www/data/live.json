@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-13T16:57:27+00:00",
+ "updatedAt": "2026-10-13T17:13:57+00:00",
  "items": [
   {
    "id": "auto-4827ee16196e",
@@ -20,46 +20,6 @@
    "translated": false,
    "fetchedAt": "2026-10-13T16:38:13+00:00",
    "company": "GitHub"
-  },
-  {
-   "id": "auto-77ad3f7fc3bd",
-   "tab": "ai",
-   "date": "2026-10-13",
-   "publishedAt": "2026-10-13T16:00:00+00:00",
-   "type": "model",
-   "importance": 1,
-   "sourceType": "official",
-   "sourceName": "Google Blog — AI",
-   "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/",
-   "originalTitle": "Gemini 4 Argon: Built to solve your hardest problems",
-   "en": {
-    "title": "Gemini 4 Argon: Built to solve your hardest problems",
-    "summary": "We’re giving developers, enterprises, scientists, and consumers access to Gemini 4 Argon, our latest frontier model.",
-    "details": "We’re giving developers, enterprises, scientists, and consumers access to Gemini 4 Argon, our latest frontier model."
-   },
-   "translated": false,
-   "fetchedAt": "2026-10-13T16:11:12+00:00",
-   "company": "Google"
-  },
-  {
-   "id": "auto-644354541139",
-   "tab": "ai",
-   "date": "2026-10-13",
-   "publishedAt": "2026-10-13T16:00:29+00:00",
-   "type": "product",
-   "importance": 1,
-   "sourceType": "official",
-   "sourceName": "Meta Newsroom",
-   "url": "https://about.fb.com/news/2026/10/introducing-your-algorithm-facebook/",
-   "originalTitle": "Your Algorithm, Your Words: New Ways to Shape What You See on Facebook",
-   "en": {
-    "title": "Your Algorithm, Your Words: New Ways to Shape What You See on Facebook",
-    "summary": "Facebook is at its best when it helps you find and do more of what you’re actually into. Now we’re putting you in the driver’s seat.",
-    "details": "Facebook is at its best when it helps you find and do more of what you’re actually into. Now we’re putting you in the driver’s seat. New AI-powered tools let you tell Facebook, in your own words, what you want to see in Feed and Reels, and your recommendations respond right away.\n\nYou can now fine-tune your experience and interact directly with the algorithms that rank and recommend what you see on Facebook, meaning you’ll see recommendations that are more relevant, more nuanced, and more you. We’ve updated the three-dot menu on every post to make it easier to access these new customization tools.\n\nTalk to Your Algorithm, Fine-Tune What You See\n\nWe’re rolling out Your algorithm, where you can directly add and manage the topics you want to see in Feed and Reels. Think of it as a dedicated space to tell us exactly what you’re into. You can find it in the three-dot menu.\n\nDownload video\n\nDownload video\n\nMore Ways to Tell Us What You Want, In Your Own Words\n\nSee something you love, or something that’s not for you? We’re introducing more ways to provide feedback directly from the posts you see in Feed and Reels. After clicking ‘Interested’ or ‘Not interested,’ we may ask follow up questions for more detail on what you liked or disliked. You can easily tell us, in your own words, what you want to see more or less of, and your recommendations will update in real time. It’s a more direct, conversational way to shape your experience.\n\nDownload video\n\nDownload video …"
-   },
-   "translated": false,
-   "fetchedAt": "2026-10-13T16:11:12+00:00",
-   "company": "Meta"
   },
   {
    "id": "auto-c24568a8fa34",
