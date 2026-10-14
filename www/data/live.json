@@ -1,6 +1,26 @@
 {
- "updatedAt": "2026-10-14T08:01:42+00:00",
+ "updatedAt": "2026-10-14T08:37:49+00:00",
  "items": [
+  {
+   "id": "auto-83fe39ce83ce",
+   "tab": "ai",
+   "date": "2026-10-14",
+   "publishedAt": "2026-10-14T00:00:00+00:00",
+   "type": "policy",
+   "importance": 1,
+   "sourceType": "official",
+   "sourceName": "Anthropic Newsroom",
+   "url": "https://www.anthropic.com/news/singapore-office-opening",
+   "originalTitle": "Anthropic opens Singapore office and signs MOU with the Government of Singapore",
+   "en": {
+    "title": "Anthropic opens Singapore office and signs MOU with the Government of Singapore",
+    "summary": "Anthropic opens Singapore office and signs MOU with the Government of Singapore",
+    "details": ""
+   },
+   "translated": false,
+   "fetchedAt": "2026-10-14T08:37:44+00:00",
+   "company": "Anthropic"
+  },
   {
    "id": "auto-1673b6cdd3ae",
    "tab": "ai",
@@ -15,7 +35,7 @@
    "en": {
     "title": "From Enterprise to Earthshot: UK’s Ecosystem Moves From Ambition to Application With NVIDIA",
     "summary": "Across industries, the U.K. is putting the full stack to work — and the scale of deployment is growing fast, from enterprises transforming their businesses to startups solving some of the planet’s hardest problems.",
-    "details": "Across industries, the U.K. is putting the full stack to work — and the scale of deployment is growing fast, from enterprises transforming their businesses to startups solving some of the planet’s hardest problems.\n\nNVIDIA is putting that principle into practice, including through a five-year, $250 million compute commitment to strengthen the U.K.’s agentic safety and security research, providing $50 million in accelerated computing access through BOLD at the University of Oxford, SOFAIR at UCL and Imperial College London.\n\nIn addition, NVIDIA is partnering with the Earthshot Prize , joining as a Global Alliance Founding Partner to bring compute and technical expertise to innovators working on solutions for the world’s greatest climate and sustainability challenges.\n\nRead All NVIDIA in Europe Announcements\n\nTechnology Leaders Pioneer Intelligent Solutions Across the UK\n\nIn energy, Fuse Energy is moving its customer AI onto its own in-house infrastructure, built on NVIDIA B300 Blackwell Ultra, delivering faster, more responsive support to over 450,000 U.K. households.\n\nMeanwhile, sovereign AI company Locai Labs released Nemotron-Personas-UK — an open source dataset of one million synthetic personas representing the UK’s demographic, regional and cultural diversity — helping developers build fairer, more representative AI systems.\n\nHealthcare …"
+    "details": "Across industries, the U.K. is putting the full stack to work — and the scale of deployment is growing fast, from enterprises transforming their businesses to startups solving some of the planet’s hardest problems.\n\nNVIDIA is putting that principle into practice, including through a five-year, $250 million compute commitment to strengthen the U.K.’s agentic safety and security research.\n\nIn addition, NVIDIA is partnering with the Earthshot Prize , joining as a Global Alliance Founding Partner to bring compute and technical expertise to innovators working on solutions for the world’s greatest climate and sustainability challenges.\n\nRead All NVIDIA in Europe Announcements\n\nTechnology Leaders Pioneer Intelligent Solutions Across the UK\n\nIn energy, Fuse Energy is moving its customer AI onto its own in-house infrastructure, built on NVIDIA B300 Blackwell Ultra, delivering faster, more responsive support to over 450,000 U.K. households.\n\nMeanwhile, sovereign AI company Locai Labs released Nemotron-Personas-UK — an open source dataset of one million synthetic personas representing the UK’s demographic, regional and cultural diversity — helping developers build fairer, more representative AI systems.\n\nHealthcare\n\nIn healthcare, OneAdvanced is deploying what it calls the U.K.’s first and most advanced fine-tuned LLM for Primary Care AI-triage — built with NVIDIA Agent Toolkit software and open models — supporting millions of National Health Service patients. …"
    },
    "translated": false,
    "fetchedAt": "2026-10-14T06:44:19+00:00",
