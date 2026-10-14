@@ -1,45 +1,6 @@
 {
- "updatedAt": "2026-10-14T21:06:25+00:00",
+ "updatedAt": "2026-10-14T21:35:55+00:00",
  "items": [
-  {
-   "id": "auto-6dba3b5fc41e",
-   "tab": "ai",
-   "date": "2026-10-14",
-   "publishedAt": "2026-10-14T20:01:35+00:00",
-   "type": "coding",
-   "importance": 1,
-   "sourceType": "official",
-   "sourceName": "GitHub Changelog",
-   "url": "https://github.blog/changelog/2026-10-14-hydrafusion-updates-and-new-max-option",
-   "originalTitle": "HydraFusion updates and new Max option",
-   "en": {
-    "title": "HydraFusion updates and new Max option",
-    "summary": "HydraFusion has an updated model pool, improved orchestration workflows, and introduces HydraFusion Max.",
-    "details": "HydraFusion has an updated model pool, improved orchestration workflows, and introduces HydraFusion Max. Both HydraFusion and HydraFusion Max are available across VS Code, the GitHub Copilot app, and GitHub Copilot CLI and remain in research preview.\n\nHydraFusion orchestrates multiple models to produce a single response, bringing together their strengths so you don’t have to choose an individual model for each task.\n\nWhat’s new in HydraFusion\n\n- Latest frontier models: HydraFusion and HydraFusion Max draw from a pool that now includes Claude Opus 5.5, GPT-6 Astra, GPT-6.1 Sol, and GPT-6 Luna. The models used for each task vary based on the orchestration workflow.\n\n- Reasoning effort tailored to each step: Previously, HydraFusion only used each model’s default reasoning effort. With this update, it explicitly tailors effort to each stage, using medium effort for initial drafts and high effort for review. This keeps drafting efficient while dedicating deeper reasoning to checking and improving the work.\n\n- Optimized Cascade and Critique workflows:\n\n- Cascade: Previously used an initial model to solve the task, with escalation to a stronger model when needed. It can now include a judging step that inspects the initial work and requests a repair only when needed.\n\n- Critique: Previously relied heavily on text summaries. It now relies more on tools to inspect the actual workspace directly. Critique now also uses parallel critic models to inspect work. …"
-   },
-   "translated": false,
-   "fetchedAt": "2026-10-14T20:37:28+00:00",
-   "company": "GitHub"
-  },
-  {
-   "id": "auto-eb66d310b80a",
-   "tab": "ai",
-   "date": "2026-10-14",
-   "publishedAt": "2026-10-14T17:45:23+00:00",
-   "type": "product",
-   "importance": 1,
-   "sourceType": "community",
-   "sourceName": "Hacker News",
-   "url": "https://news.ycombinator.com/item?id=50091788",
-   "originalTitle": "AI agents aren't 'going rogue.' Frontier labs are skipping security basics",
-   "en": {
-    "title": "AI agents aren't 'going rogue.' Frontier labs are skipping security basics",
-    "summary": "Community discussion on Hacker News (748 points, 349 comments).",
-    "details": "Community discussion on Hacker News (748 points, 349 comments)."
-   },
-   "translated": false,
-   "fetchedAt": "2026-10-14T19:07:22+00:00"
-  },
   {
    "id": "auto-f4f3b5abac73",
    "tab": "star-citizen",
