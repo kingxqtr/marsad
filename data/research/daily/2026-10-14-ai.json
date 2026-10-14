@@ -45,6 +45,28 @@
         "summary": "Google DeepMind and GovTech Singapore unveiled an on-device tool that uses a fine-tuned Gemma model to detect scam messages in real time without sending data to the cloud.",
         "details": "Google DeepMind and GovTech Singapore announced an on-device AI tool, unveiled at Singapore International Cyber Week 2026, aimed at helping residents catch scam messages before they lose money. The tool is part of the two organizations' National AI Partnership.\n\nBecause many chat apps are end-to-end encrypted, the system analyzes conversations directly on a user's phone in two stages: a lightweight first-pass classifier screens incoming messages, then a Gemma model fine-tuned on local scam patterns, including impersonation of banks and government bodies, checks flagged conversations more closely and warns the user before they share money or personal details.\n\nGovTech says scams make up more than half of Singapore's reported crimes and have cost residents over S$4 billion since 2019, with social-engineering scams responsible for up to 80% of losses. Training used only synthetic and non-identifiable data inside GovTech's managed cloud environment."
       }
+    },
+    {
+      "id": "anthropic-singapore-office-mou-oct14",
+      "date": "2026-10-14",
+      "type": "business",
+      "importance": 2,
+      "sourceType": "official",
+      "sourceName": "Anthropic Newsroom",
+      "url": "https://www.anthropic.com/news/singapore-office-opening",
+      "originalTitle": "Anthropic opens Singapore office and signs MOU with the Government of Singapore",
+      "company": "Anthropic",
+      "tool": "Claude",
+      "ar": {
+        "title": "Anthropic تفتتح مكتباً في سنغافورة وتوقع مذكرة تفاهم مع الحكومة",
+        "summary": "افتتحت Anthropic مكتبها الخامس في آسيا والمحيط الهادئ بسنغافورة، ووقعت مذكرة تفاهم مع وزارة التنمية الرقمية والمعلومات بشأن سلامة الذكاء الاصطناعي وتقييم النماذج ومهارات الموظفين.",
+        "details": "افتتحت شركة Anthropic مكتباً جديداً في سنغافورة، هو الخامس لها في منطقة آسيا والمحيط الهادئ، ووقعت مذكرة تفاهم مع وزارة التنمية الرقمية والمعلومات السنغافورية (MDDI) خلال فعاليات أسبوع سنغافورة الدولي للأمن السيبراني.\n\nتغطي المذكرة التعاون في مجالات سلامة الذكاء الاصطناعي وأمنه وتقييم النماذج، إضافة إلى أبحاث حول تبني الذكاء الاصطناعي واستخدامه المسؤول في القطاعين العام والخاص. وتشمل الخطط تبادلاً تقنياً حول معايير الاختبار والاستجابة للحوادث، وتدريب الموظفين الحكوميين على مهارات الذكاء الاصطناعي، ودعم الشركات الصغيرة والمتوسطة في تبني هذه التقنية، ومشاركة بيانات من مؤشر Anthropic الاقتصادي.\n\nوذكرت Anthropic أن سنغافورة تحتل المرتبة الثانية من بين 121 دولة من حيث استخدام Claude.ai نسبةً إلى عدد سكانها. وتقول GovTech Singapore إن أكثر من 1500 من مهندسيها وموظفيها التقنيين يستخدمون الآن Claude Code، بينما تدرس جهات من بينها وكالة الأمن السيبراني السنغافورية استخدام Claude في تعزيز الدفاعات السيبرانية."
+      },
+      "en": {
+        "title": "Anthropic opens Singapore office, signs AI safety MOU with government",
+        "summary": "Anthropic opened its fifth APAC office in Singapore and signed an MOU with the Ministry of Digital Development and Information on AI safety, evaluation and skills.",
+        "details": "Anthropic opened a new office in Singapore, its fifth in the Asia-Pacific region, and signed a Memorandum of Understanding with the country's Ministry of Digital Development and Information (MDDI) during Singapore International Cyber Week.\n\nThe MOU covers cooperation on AI safety, security and model evaluation, research into AI adoption, and responsible use of AI in the public and private sectors. Planned work includes technical exchanges on testing standards and incident response, AI skills training for public officers, support for small and medium businesses adopting AI, and sharing data from the Anthropic Economic Index.\n\nAnthropic said Singapore ranks second of 121 countries in Claude.ai usage relative to its population. GovTech Singapore says more than 1,500 of its engineers and technical staff now use Claude Code, and agencies including the Cyber Security Agency of Singapore are exploring Claude for cyber defense."
+      }
     }
   ],
   "upcoming": [],
