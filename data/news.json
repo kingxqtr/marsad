@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": "2026-10-14T01:09:43+00:00",
+ "updatedAt": "2026-10-14T02:10:06+00:00",
  "coverage": {
   "from": "2026-07-14",
   "to": "2026-10-14"
@@ -1689,6 +1689,29 @@
   },
   "ai": {
    "news": [
+    {
+     "id": "deepmind-govtech-singapore-scam-detection-gemma",
+     "date": "2026-10-14",
+     "type": "product",
+     "importance": 1,
+     "sourceType": "official",
+     "sourceName": "Google DeepMind Blog",
+     "url": "https://deepmind.google/blog/on-device-ai-scam-detection-mddi/",
+     "originalTitle": "Google DeepMind and Singapore Government announce new AI tool to protect citizens against scams",
+     "company": "Google",
+     "tool": "Gemma",
+     "ar": {
+      "title": "Google DeepMind وحكومة سنغافورة تطلقان أداة لرصد الاحتيال عبر Gemma على الجهاز",
+      "summary": "كشفت Google DeepMind وGovTech سنغافورة عن أداة تعمل على الجهاز تستخدم نموذج Gemma المعدّل لرصد رسائل الاحتيال فورياً دون إرسال البيانات إلى السحابة.",
+      "details": "أعلنت Google DeepMind وGovTech سنغافورة عن أداة ذكاء اصطناعي تعمل محلياً على الهاتف، كُشف عنها خلال أسبوع سنغافورة الدولي للأمن السيبراني 2026 (Singapore International Cyber Week)، بهدف مساعدة السكان على اكتشاف رسائل الاحتيال قبل خسارة أموالهم. وتأتي الأداة في إطار الشراكة الوطنية للذكاء الاصطناعي بين الطرفين.\n\nولأن كثيراً من تطبيقات المحادثة مشفّرة تشفيراً تاماً من طرف إلى طرف، يحلّل النظام المحادثات مباشرة على هاتف المستخدم عبر مرحلتين: مصنّف أولي خفيف يفرز الرسائل الواردة، ثم نموذج Gemma المعدّل على أنماط احتيال محلية، منها انتحال صفة البنوك والجهات الحكومية، يفحص المحادثات المشتبه بها بعمق أكبر ويحذّر المستخدم قبل مشاركة أموال أو بيانات شخصية.\n\nوتقول GovTech إن الاحتيال يمثّل أكثر من نصف الجرائم المسجّلة في سنغافورة، وتسبّب بخسائر تجاوزت 4 مليارات دولار سنغافوري منذ عام 2019، مع مسؤولية عمليات الاحتيال بالتصيّد الاجتماعي عن نسبة تصل إلى 80% من الخسائر. واستُخدمت في التدريب بيانات اصطناعية وغير معرِّفة للهوية ضمن بيئة GovTech السحابية المُدارة."
+     },
+     "en": {
+      "title": "Google DeepMind and Singapore launch on-device Gemma scam detector",
+      "summary": "Google DeepMind and GovTech Singapore unveiled an on-device tool that uses a fine-tuned Gemma model to detect scam messages in real time without sending data to the cloud.",
+      "details": "Google DeepMind and GovTech Singapore announced an on-device AI tool, unveiled at Singapore International Cyber Week 2026, aimed at helping residents catch scam messages before they lose money. The tool is part of the two organizations' National AI Partnership.\n\nBecause many chat apps are end-to-end encrypted, the system analyzes conversations directly on a user's phone in two stages: a lightweight first-pass classifier screens incoming messages, then a Gemma model fine-tuned on local scam patterns, including impersonation of banks and government bodies, checks flagged conversations more closely and warns the user before they share money or personal details.\n\nGovTech says scams make up more than half of Singapore's reported crimes and have cost residents over S$4 billion since 2019, with social-engineering scams responsible for up to 80% of losses. Training used only synthetic and non-identifiable data inside GovTech's managed cloud environment."
+     },
+     "addedAt": "2026-10-14T02:10:06+00:00"
+    },
     {
      "id": "google-gemini-4-argon-launch",
      "date": "2026-10-13",
