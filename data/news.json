@@ -1,9 +1,9 @@
 {
  "version": 1,
- "updatedAt": "2026-10-13T23:11:07+00:00",
+ "updatedAt": "2026-10-14T00:09:29+00:00",
  "coverage": {
-  "from": "2026-07-13",
-  "to": "2026-10-13"
+  "from": "2026-07-14",
+  "to": "2026-10-14"
  },
  "tabs": {
   "once-human": {
@@ -5621,32 +5621,6 @@
       "details": "Canva World Tour is back for 2026, running worldwide from September 14 through November 30.\n\n- Format: Canva teams in different countries host local community meetups and live training sessions; an event finder is available at canva.com/events.\n- AI Essentials: a new free certification that anyone can complete at their own pace, covering how to get the most out of Canva AI.\n- Design School: short, mobile-first lessons that teach one skill at a time, some lasting about 90 seconds.\n\nAll of the learning content can also be followed online through Canva Design School at any time during the campaign, so people can take part even without a local event nearby.",
       "location": "Worldwide (local events and online)",
       "dateNote": "Campaign started September 14 and ends November 30, 2026."
-     },
-     "addedAt": "2026-09-27T13:25:38+00:00"
-    },
-    {
-     "id": "meta-ray-ban-meta-audio-shipping",
-     "date": "2026-10-13",
-     "type": "release",
-     "importance": 1,
-     "sourceType": "official",
-     "sourceName": "Meta Newsroom",
-     "url": "https://about.fb.com/news/2026/09/introducing-ray-ban-meta-audio-glasses-new-styles-plus-muse/",
-     "originalTitle": "",
-     "company": "Meta",
-     "tool": "Ray-Ban Meta",
-     "dateConfidence": "confirmed",
-     "ar": {
-      "title": "بدء شحن نظارات Ray-Ban Meta Audio",
-      "summary": "تبدأ Meta في 13 أكتوبر شحن أولى نظاراتها الذكية بلا كاميرا، المخصصة للموسيقى والمكالمات وMeta AI، إلى من طلبوها مسبقًا، بسعر يبدأ من 349 دولارًا.",
-      "details": "تبدأ Meta في 13 أكتوبر شحن نظارات Ray-Ban Meta Audio التي أعلنتها في مؤتمر Connect يوم 23 سبتمبر. وهي أول نظارات ذكاء اصطناعي من Meta بلا كاميرا، وتركز على الصوت المفتوح والوصول الصوتي إلى Meta AI.\n\n- السعر: يبدأ من 349 دولارًا (في الولايات المتحدة)\n- الوزن: 43 غرامًا، مع أطراف أذرع ووسادات أنف قابلة للتعديل لارتدائها طوال اليوم\n- البطارية: حتى 12 ساعة استخدام، إضافة إلى ما يصل إلى 48 ساعة من علبة الشحن\n- الطرازات: Clubmaster وBurbank بـ 23 تركيبة من الألوان والعدسات، مع دعم العدسات الطبية\n\nوتتيح النظارات الاستماع إلى الموسيقى والبودكاست وإجراء المكالمات والتحدث إلى Meta AI دون استخدام اليدين. ولم تحدد Meta موعد وصول هذا الطراز إلى أسواق الخليج، رغم أن تشكيلة Meta Glasses انطلقت في الإمارات يوم 23 سبتمبر.",
-      "dateNote": "فُتح باب الطلب المسبق في 23 سبتمبر"
-     },
-     "en": {
-      "title": "Ray-Ban Meta Audio glasses start shipping",
-      "summary": "Meta's first camera-free AI glasses, built for music, calls and Meta AI, begin shipping on October 13 to customers who pre-ordered, starting at $349.",
-      "details": "Ray-Ban Meta Audio, announced at Meta Connect on September 23, starts shipping on October 13. It is Meta's first pair of AI glasses without a camera, focused on open-ear audio and voice access to Meta AI.\n\n- Price: from $349 (US)\n- Weight: 43 grams, with adjustable temple tips and nose pads for all-day wear\n- Battery: up to 12 hours of use, plus up to 48 more hours from the charging case\n- Styles: Clubmaster and Burbank, in 23 color and lens combinations, with prescription lenses supported\n\nThe glasses let wearers listen to music and podcasts, take calls and talk to Meta AI hands-free. Meta has not said when this model will reach Gulf markets, although its Meta Glasses line launched in the UAE on September 23.",
-      "dateNote": "Pre-orders opened on September 23"
      },
      "addedAt": "2026-09-27T13:25:38+00:00"
     },
