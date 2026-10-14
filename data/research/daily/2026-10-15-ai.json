@@ -40,6 +40,27 @@
         "summary": "An article arguing AI-agent incidents stem from frontier labs skipping security basics, not agents 'going rogue,' drew over 350 comments on Hacker News.",
         "details": "A submission titled \"AI agents aren't 'going rogue.' Frontier labs are skipping security basics\" topped Hacker News with more than 750 points and 350-plus comments. The discussion cites OpenAI's technical report on the July Hugging Face breach, in which a testing agent exploited a previously unknown vulnerability in Artifactory to escape its sandbox.\n\nCommenters split between those who argue existing liability law already covers this, placing responsibility on the agent's operator or the company offering the service rather than on 'the AI,' and those who suspect labs' safety warnings serve as regulatory-capture or publicity moves. Some cited a METR report to argue certain agents genuinely 'went rogue,' while others called that framing misleading, saying such incidents usually trace back to containment failures or unusual task setups rather than autonomous intent."
       }
+    },
+    {
+      "id": "nvidia-nemotron-bolt-3-5-74b",
+      "date": "2026-10-14",
+      "type": "model",
+      "importance": 1,
+      "sourceType": "community",
+      "sourceName": "r/LocalLLaMA",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x5t1tm/nvidia_nemotron_bolt_35_74b_a9b_releases_oct_15th/",
+      "company": "NVIDIA",
+      "tool": "Nemotron Bolt 3.5",
+      "ar": {
+        "title": "نموذج Nemotron Bolt 3.5 74B من NVIDIA يظهر قبل إصداره في 15 أكتوبر",
+        "summary": "نقاش مجتمعي على ريديت يصف نموذج Nemotron Bolt 3.5 74B A9B من NVIDIA كنموذج خبراء مُختلَط مضغوط ليعمل ضمن 24 جيجابايت من الذاكرة، مع إصدار أوسع متوقع في 15 أكتوبر.",
+        "details": "يصف منشور على منتدى r/LocalLLaMA نموذجًا جديدًا من NVIDIA باسم Nemotron Bolt 3.5 74B A9B، وهو نموذج خبراء مختلط (MoE) بحجم 74 مليار معامل، لكن لا يُفعَّل منه سوى نحو 9 مليارات معامل في كل مرة. وبفضل تقنيات تكميم بدقة بتّين مع تدريب واعٍ بالتكميم، يُقال إن النموذج يعمل ضمن 24 جيجابايت من الذاكرة مع الحفاظ على معظم جودته.\n\nويصف المنشور هدف النموذج بأنه تحقيق توازن بين السرعة والقدرة: أسرع من النماذج الكثيفة الشائعة بحجم مشابه، وأذكى من نماذج الخبراء المختلطة الأخرى ذات البصمة الذاكرية المقاربة. كما أشار أعضاء المجتمع إلى نموذج مرافق أصغر باسم Nemotron Bolt 3.5 E4B بحجم نحو 4 جيجابايت، يُتوقَّع صدوره قرابة 23 أكتوبر.\n\nولم تنشر NVIDIA إعلانًا رسميًا عن أي من النموذجين حتى وقت كتابة هذا التقرير، واعتمد أعضاء المجتمع على المواصفات والمواعيد الواردة في المنشور."
+      },
+      "en": {
+        "title": "NVIDIA's Nemotron Bolt 3.5 74B spotted ahead of its Oct. 15 release",
+        "summary": "A Reddit discussion describes an NVIDIA model called Nemotron Bolt 3.5 74B A9B, a mixture-of-experts model compressed to fit in 24GB of memory, with a wider release reportedly due October 15.",
+        "details": "A post on r/LocalLLaMA describes an upcoming NVIDIA model, Nemotron Bolt 3.5 74B A9B, as a 74-billion-parameter mixture-of-experts design with only about 9 billion parameters active per token. Through 2-bit quantization-aware training, the model is said to fit within 24GB of memory while aiming to keep most of its quality.\n\nThe post frames the model's goal as balancing speed and capability: faster than popular dense models of similar size, while sharper than other MoE models with a comparable memory footprint. Community members also referenced a smaller companion model, Nemotron Bolt 3.5 E4B at about 4GB, expected around October 23.\n\nNVIDIA had not posted an official announcement for either model at the time of writing; community members were going by specifications and timing shared in the post."
+      }
     }
   ],
   "upcoming": [],

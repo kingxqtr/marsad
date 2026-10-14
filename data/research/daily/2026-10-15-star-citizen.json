@@ -1,0 +1,28 @@
+{
+  "topic": "star-citizen",
+  "generatedAt": "2026-10-15",
+  "news": [
+    {
+      "id": "sc-constellation-mk-v-centaurus-qa-video",
+      "date": "2026-10-14",
+      "type": "ship",
+      "importance": 1,
+      "sourceType": "official",
+      "sourceName": "RSI Comm-Link",
+      "url": "https://robertsspaceindustries.com/comm-link/engineering/21377-Q-A-RSI-Constellation-Mk-V-Centaurus",
+      "ar": {
+        "title": "RSI تنشر جلسة أسئلة وأجوبة وفيديو عن سفينة Constellation Mk V Centaurus",
+        "summary": "نشرت Roberts Space Industries جلسة أسئلة وأجوبة مع المطورين وفيديو \"خلف السفن\" يتعمّقان في سفينة Constellation Mk V Centaurus متعددة الطاقم المُعلَنة حديثًا.",
+        "details": "بعد الكشف عن سفينة RSI Constellation Mk V Centaurus، نشرت Roberts Space Industries مقالين متابعين على Comm-Link: جلسة أسئلة وأجوبة وفيديو بعنوان \"خلف السفن\". في الجلسة، أجاب فريقا المركبات وتجربة اللعب عن أسئلة المجتمع حول هذه السفينة الجديدة متعددة المهام ومتعددة الطاقم.\n\nويستعرض الفيديو المرافق كيف تبني Mk V على طراز Mk IV السابق، إذ تصف RSI طراز Centaurus بأنه إعادة تصور لجيل جديد من سلسلة Constellation الكلاسيكية، يحافظ على روحها التراثية مع التركيز على تعدد الاستخدامات.\n\nويضيف العملان سياقًا حول تصميم السفينة ودورها المقصود أكثر مما يعلنان ميزات جديدة تتجاوز ما كُشف عنه عند الإطلاق."
+      },
+      "en": {
+        "title": "RSI publishes Q&A and behind-the-scenes video on Constellation Mk V Centaurus",
+        "summary": "Roberts Space Industries released a developer Q&A and a \"Behind the Ships\" video going deeper on the newly announced Constellation Mk V Centaurus multi-crew ship.",
+        "details": "Following the reveal of the RSI Constellation Mk V Centaurus, Roberts Space Industries published two follow-up Comm-Links: a developer Q&A and a \"Behind the Ships\" video. In the Q&A, the Vehicle and Gameplay teams answered community questions about the new multi-role, multi-crew ship.\n\nThe companion video walks through how the Mk V builds on the earlier Mk IV, with RSI describing the Centaurus as a next-generation reinterpretation of the classic Constellation line that keeps its legacy feel while emphasizing versatility.\n\nBoth pieces add context to the ship's design and intended role rather than announcing new features beyond what was revealed at launch."
+      }
+    }
+  ],
+  "upcoming": [],
+  "removeUpcoming": [],
+  "removeNews": []
+}
