@@ -1,0 +1,29 @@
+{
+  "topic": "star-citizen",
+  "generatedAt": "2026-10-14",
+  "news": [
+    {
+      "id": "sc-constellation-mkv-centaurus-reveal",
+      "date": "2026-10-14",
+      "type": "ship",
+      "importance": 2,
+      "sourceType": "official",
+      "sourceName": "RSI Comm-Link",
+      "url": "https://robertsspaceindustries.com/comm-link/transmission/21335-RSI-Constellation-Mk-V-Centaurus",
+      "originalTitle": "RSI Constellation Mk V Centaurus - For Living Out There",
+      "ar": {
+        "title": "RSI تكشف رسمياً عن Constellation Mk V Centaurus مع لقاء أسئلة وفيديو",
+        "summary": "نشرت Roberts Space Industries الكشف الكامل عن سفينة Constellation Mk V Centaurus، إلى جانب لقاء أسئلة مع فريق التطوير وفيديو “خلف السفن”.",
+        "details": "نشرت Roberts Space Industries الكشف الكامل بأسلوب الكتيب التعريفي عن سفينة Constellation Mk V Centaurus، الجيل الجديد من خط سفن Constellation متعددة المهام ومتعددة الطاقم طويل الأمد في اللعبة، بعد أن ظهرت السفينة لأول مرة كتشويق خلال فعالية Discovery Month هذا الشهر.\n\nورافق الكشف لقاء أسئلة أجاب فيه فريقا المركبات وأسلوب اللعب على استفسارات اللاعبين مباشرة حول السفينة الجديدة، إضافة إلى فيديو بعنوان “خلف السفن” يعرض تفاصيل تصميمها عن قرب. وتصف Cloud Imperium Games الـ Centaurus بأنها نسخة أكبر وأكثر مرونة من طراز Mk IV، صُممت للعيش والعمل بعيداً عن المحطات لفترات طويلة.\n\nولا تزال Centaurus غير متاحة للشراء حتى الآن؛ إذ يمكن للاعبين حالياً الوصول إليها فقط عبر إيجار محدود لخمسة أيام مرتبط بمهمة ضمن فعالية Discovery Month، بينما تستمر سفينة Mk IV السابقة لها في البيع بشكل منفصل."
+      },
+      "en": {
+        "title": "RSI formally unveils Constellation Mk V Centaurus with Q&A, video",
+        "summary": "Roberts Space Industries published the full reveal of the Constellation Mk V Centaurus, alongside a developer Q&A and a Behind the Ships video.",
+        "details": "Roberts Space Industries published the full brochure-style reveal of the Constellation Mk V Centaurus, the next generation of its long-running multi-role, multi-crew Constellation line, after the ship first appeared as a teaser during this month's Discovery Month event.\n\nThe reveal was accompanied by a Q&A in which the Vehicle and Gameplay teams answered player questions directly, plus a \"Behind the Ships\" video showing its design up close. Cloud Imperium Games describes the Centaurus as a bigger, more versatile take on the Mk IV, built for living and working away from stations for extended periods.\n\nThe Centaurus is not yet available for purchase; players can currently only access it through a limited five-day rental tied to a Discovery Month mission, while its Mk IV predecessor remains on sale separately."
+      }
+    }
+  ],
+  "upcoming": [],
+  "removeUpcoming": [],
+  "removeNews": []
+}

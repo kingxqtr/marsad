@@ -67,8 +67,7 @@
         "summary": "Anthropic opened its fifth APAC office in Singapore and signed an MOU with the Ministry of Digital Development and Information on AI safety, evaluation and skills.",
         "details": "Anthropic opened a new office in Singapore, its fifth in the Asia-Pacific region, and signed a Memorandum of Understanding with the country's Ministry of Digital Development and Information (MDDI) during Singapore International Cyber Week.\n\nThe MOU covers cooperation on AI safety, security and model evaluation, research into AI adoption, and responsible use of AI in the public and private sectors. Planned work includes technical exchanges on testing standards and incident response, AI skills training for public officers, support for small and medium businesses adopting AI, and sharing data from the Anthropic Economic Index.\n\nAnthropic said Singapore ranks second of 121 countries in Claude.ai usage relative to its population. GovTech Singapore says more than 1,500 of its engineers and technical staff now use Claude Code, and agencies including the Cyber Security Agency of Singapore are exploring Claude for cyber defense."
       }
-    }
-    ,
+    },
     {
       "id": "nvidia-uk-250m-agentic-safety-compute-oct14",
       "date": "2026-10-14",
@@ -88,6 +87,28 @@
         "title": "NVIDIA commits $250M over 5 years to UK agentic AI safety research",
         "summary": "NVIDIA announced a five-year, $250 million compute commitment to strengthen agentic AI safety and security research in the UK, alongside joining the Earthshot Prize alliance as a founding partner.",
         "details": "NVIDIA announced a five-year, $250 million compute commitment to strengthen agentic AI safety and security research in the UK, part of a broader set of announcements about its growing UK ecosystem ahead of CEO Jensen Huang's keynote at GTC Berlin on Wednesday, October 21.\n\nNVIDIA also joined the Earthshot Prize as a Global Alliance Founding Partner, providing compute and technical expertise to innovators working on climate and sustainability challenges.\n\nThe company cited other examples of its technology spreading across the UK, including more than 3,100 UK companies now in its Inception program, and new infrastructure built on NVIDIA B300 Blackwell Ultra that energy firm Fuse Energy is using to serve over 450,000 UK households."
+      }
+    },
+    {
+      "id": "ai2-hiro-acev2-climate-emulator",
+      "date": "2026-10-14",
+      "type": "model",
+      "importance": 1,
+      "sourceType": "official",
+      "sourceName": "Hugging Face Blog",
+      "url": "https://huggingface.co/blog/allenai/hiro-acev2",
+      "originalTitle": "HiRO-ACEv2: Simulating extreme weather at 3 km resolution for a fraction of the cost",
+      "company": "Ai2",
+      "tool": "HiRO-ACE",
+      "ar": {
+        "title": "Ai2 تطلق HiRO-ACEv2 لمحاكاة الطقس المتطرف بدقة 3 كم",
+        "summary": "أصدر معهد Ai2 نسخة محدثة من نموذج محاكاة المناخ HiRO-ACE، تُنتج بيانات عالمية بدقة 3 كم وتطابق محاكاة الطقس عالية الدقة بهامش خطأ 3% بتكلفة حوسبة أقل بنحو 300 مرة.",
+        "details": "أصدر معهد آلن للذكاء الاصطناعي (Ai2) النسخة الثانية من مُحاكي المناخ عالي الدقة HiRO-ACE عبر مدونته على Hugging Face. يجمع النظام بين نموذج عالمي خشن الدقة (ACE) ونموذج ترقية الدقة (HiRO) الذي يُحوّل مخرجاته من 100 كم إلى 3 كم على مستوى العالم.\n\nتضيف النسخة الثانية القدرة على التنبؤ بعدة حقول عالية الدقة في آن واحد، مثل الرياح والضغط إلى جانب الأمطار، بدلاً من حقل واحد فقط، كما تتعامل مع الأحداث المتطرفة بدقة أكبر. وعند اختباره على بيانات مخفّضة الدقة من نموذج X-SHiELD التابع لناسا، طابق النموذج إحصاءات الدقة العالية بهامش خطأ 3% فقط، بتكلفة حوسبة تقارب 1 إلى 300 من تكلفة تشغيل X-SHiELD نفسه.\n\nويعمل النموذج حالياً فقط مع نسخة ACE المضبوطة على بيانات X-SHiELD، ولا يمكنه بعد محاكاة مناخات أخرى كسيناريوهات الاحتباس الحراري المستقبلية. وتقول Ai2 إنها تخطط لتدريبه على بيانات أكثر دفئاً بمقدار 4 درجات مئوية وإضافة حقول مخرجات جديدة."
+      },
+      "en": {
+        "title": "Ai2 releases HiRO-ACEv2 climate model for 3km extreme-weather data",
+        "summary": "Ai2's updated climate emulator downscales low-resolution forecasts to global 3 km data, matching high-resolution storm simulations within 3% accuracy at roughly 1/300th the computing cost.",
+        "details": "The Allen Institute for AI (Ai2) released HiRO-ACEv2, the second version of its high-resolution climate emulator, in a Hugging Face blog post. The two-stage system pairs a coarse global model (ACE) with a downscaling model (HiRO) that sharpens 100 km output down to 3 km resolution worldwide.\n\nVersion 2 adds the ability to predict several high-resolution fields at once, such as wind and pressure alongside rainfall, instead of just one, and handles extreme events more accurately. Tested on coarsened data from NASA's X-SHiELD high-resolution model, it reproduces the same detailed statistics within 3% while costing roughly 1/300th as much to run.\n\nThe model currently only works with the ACE version tuned to match X-SHiELD, so it cannot yet simulate other climates such as a warmer future. Ai2 says it plans to train on a 4°C-warmer scenario and add new output fields such as near-surface temperature."
       }
     }
   ],

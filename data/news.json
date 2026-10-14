@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": "2026-10-14T16:10:18+00:00",
+ "updatedAt": "2026-10-14T17:11:20+00:00",
  "coverage": {
   "from": "2026-07-14",
   "to": "2026-10-14"
@@ -801,6 +801,27 @@
   },
   "star-citizen": {
    "news": [
+    {
+     "id": "sc-constellation-mkv-centaurus-reveal",
+     "date": "2026-10-14",
+     "type": "ship",
+     "importance": 2,
+     "sourceType": "official",
+     "sourceName": "RSI Comm-Link",
+     "url": "https://robertsspaceindustries.com/comm-link/transmission/21335-RSI-Constellation-Mk-V-Centaurus",
+     "originalTitle": "RSI Constellation Mk V Centaurus - For Living Out There",
+     "ar": {
+      "title": "RSI تكشف رسمياً عن Constellation Mk V Centaurus مع لقاء أسئلة وفيديو",
+      "summary": "نشرت Roberts Space Industries الكشف الكامل عن سفينة Constellation Mk V Centaurus، إلى جانب لقاء أسئلة مع فريق التطوير وفيديو “خلف السفن”.",
+      "details": "نشرت Roberts Space Industries الكشف الكامل بأسلوب الكتيب التعريفي عن سفينة Constellation Mk V Centaurus، الجيل الجديد من خط سفن Constellation متعددة المهام ومتعددة الطاقم طويل الأمد في اللعبة، بعد أن ظهرت السفينة لأول مرة كتشويق خلال فعالية Discovery Month هذا الشهر.\n\nورافق الكشف لقاء أسئلة أجاب فيه فريقا المركبات وأسلوب اللعب على استفسارات اللاعبين مباشرة حول السفينة الجديدة، إضافة إلى فيديو بعنوان “خلف السفن” يعرض تفاصيل تصميمها عن قرب. وتصف Cloud Imperium Games الـ Centaurus بأنها نسخة أكبر وأكثر مرونة من طراز Mk IV، صُممت للعيش والعمل بعيداً عن المحطات لفترات طويلة.\n\nولا تزال Centaurus غير متاحة للشراء حتى الآن؛ إذ يمكن للاعبين حالياً الوصول إليها فقط عبر إيجار محدود لخمسة أيام مرتبط بمهمة ضمن فعالية Discovery Month، بينما تستمر سفينة Mk IV السابقة لها في البيع بشكل منفصل."
+     },
+     "en": {
+      "title": "RSI formally unveils Constellation Mk V Centaurus with Q&A, video",
+      "summary": "Roberts Space Industries published the full reveal of the Constellation Mk V Centaurus, alongside a developer Q&A and a Behind the Ships video.",
+      "details": "Roberts Space Industries published the full brochure-style reveal of the Constellation Mk V Centaurus, the next generation of its long-running multi-role, multi-crew Constellation line, after the ship first appeared as a teaser during this month's Discovery Month event.\n\nThe reveal was accompanied by a Q&A in which the Vehicle and Gameplay teams answered player questions directly, plus a \"Behind the Ships\" video showing its design up close. Cloud Imperium Games describes the Centaurus as a bigger, more versatile take on the Mk IV, built for living and working away from stations for extended periods.\n\nThe Centaurus is not yet available for purchase; players can currently only access it through a limited five-day rental tied to a Discovery Month mission, while its Mk IV predecessor remains on sale separately."
+     },
+     "addedAt": "2026-10-14T17:11:20+00:00"
+    },
     {
      "id": "sc-discovery-month-twitch-drops-phoenix",
      "date": "2026-10-12",
@@ -1756,6 +1777,29 @@
       "details": "Google DeepMind and GovTech Singapore announced an on-device AI tool, unveiled at Singapore International Cyber Week 2026, aimed at helping residents catch scam messages before they lose money. The tool is part of the two organizations' National AI Partnership.\n\nBecause many chat apps are end-to-end encrypted, the system analyzes conversations directly on a user's phone in two stages: a lightweight first-pass classifier screens incoming messages, then a Gemma model fine-tuned on local scam patterns, including impersonation of banks and government bodies, checks flagged conversations more closely and warns the user before they share money or personal details.\n\nGovTech says scams make up more than half of Singapore's reported crimes and have cost residents over S$4 billion since 2019, with social-engineering scams responsible for up to 80% of losses. Training used only synthetic and non-identifiable data inside GovTech's managed cloud environment."
      },
      "addedAt": "2026-10-14T02:10:06+00:00"
+    },
+    {
+     "id": "ai2-hiro-acev2-climate-emulator",
+     "date": "2026-10-14",
+     "type": "model",
+     "importance": 1,
+     "sourceType": "official",
+     "sourceName": "Hugging Face Blog",
+     "url": "https://huggingface.co/blog/allenai/hiro-acev2",
+     "originalTitle": "HiRO-ACEv2: Simulating extreme weather at 3 km resolution for a fraction of the cost",
+     "company": "Ai2",
+     "tool": "HiRO-ACE",
+     "ar": {
+      "title": "Ai2 تطلق HiRO-ACEv2 لمحاكاة الطقس المتطرف بدقة 3 كم",
+      "summary": "أصدر معهد Ai2 نسخة محدثة من نموذج محاكاة المناخ HiRO-ACE، تُنتج بيانات عالمية بدقة 3 كم وتطابق محاكاة الطقس عالية الدقة بهامش خطأ 3% بتكلفة حوسبة أقل بنحو 300 مرة.",
+      "details": "أصدر معهد آلن للذكاء الاصطناعي (Ai2) النسخة الثانية من مُحاكي المناخ عالي الدقة HiRO-ACE عبر مدونته على Hugging Face. يجمع النظام بين نموذج عالمي خشن الدقة (ACE) ونموذج ترقية الدقة (HiRO) الذي يُحوّل مخرجاته من 100 كم إلى 3 كم على مستوى العالم.\n\nتضيف النسخة الثانية القدرة على التنبؤ بعدة حقول عالية الدقة في آن واحد، مثل الرياح والضغط إلى جانب الأمطار، بدلاً من حقل واحد فقط، كما تتعامل مع الأحداث المتطرفة بدقة أكبر. وعند اختباره على بيانات مخفّضة الدقة من نموذج X-SHiELD التابع لناسا، طابق النموذج إحصاءات الدقة العالية بهامش خطأ 3% فقط، بتكلفة حوسبة تقارب 1 إلى 300 من تكلفة تشغيل X-SHiELD نفسه.\n\nويعمل النموذج حالياً فقط مع نسخة ACE المضبوطة على بيانات X-SHiELD، ولا يمكنه بعد محاكاة مناخات أخرى كسيناريوهات الاحتباس الحراري المستقبلية. وتقول Ai2 إنها تخطط لتدريبه على بيانات أكثر دفئاً بمقدار 4 درجات مئوية وإضافة حقول مخرجات جديدة."
+     },
+     "en": {
+      "title": "Ai2 releases HiRO-ACEv2 climate model for 3km extreme-weather data",
+      "summary": "Ai2's updated climate emulator downscales low-resolution forecasts to global 3 km data, matching high-resolution storm simulations within 3% accuracy at roughly 1/300th the computing cost.",
+      "details": "The Allen Institute for AI (Ai2) released HiRO-ACEv2, the second version of its high-resolution climate emulator, in a Hugging Face blog post. The two-stage system pairs a coarse global model (ACE) with a downscaling model (HiRO) that sharpens 100 km output down to 3 km resolution worldwide.\n\nVersion 2 adds the ability to predict several high-resolution fields at once, such as wind and pressure alongside rainfall, instead of just one, and handles extreme events more accurately. Tested on coarsened data from NASA's X-SHiELD high-resolution model, it reproduces the same detailed statistics within 3% while costing roughly 1/300th as much to run.\n\nThe model currently only works with the ACE version tuned to match X-SHiELD, so it cannot yet simulate other climates such as a warmer future. Ai2 says it plans to train on a 4°C-warmer scenario and add new output fields such as near-surface temperature."
+     },
+     "addedAt": "2026-10-14T17:11:20+00:00"
     },
     {
      "id": "google-gemini-4-argon-launch",
