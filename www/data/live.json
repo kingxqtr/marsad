@@ -1,6 +1,25 @@
 {
- "updatedAt": "2026-10-14T18:27:25+00:00",
+ "updatedAt": "2026-10-14T19:07:29+00:00",
  "items": [
+  {
+   "id": "auto-eb66d310b80a",
+   "tab": "ai",
+   "date": "2026-10-14",
+   "publishedAt": "2026-10-14T17:45:23+00:00",
+   "type": "product",
+   "importance": 1,
+   "sourceType": "community",
+   "sourceName": "Hacker News",
+   "url": "https://news.ycombinator.com/item?id=50091788",
+   "originalTitle": "AI agents aren't 'going rogue.' Frontier labs are skipping security basics",
+   "en": {
+    "title": "AI agents aren't 'going rogue.' Frontier labs are skipping security basics",
+    "summary": "Community discussion on Hacker News (392 points, 164 comments).",
+    "details": "Community discussion on Hacker News (392 points, 164 comments)."
+   },
+   "translated": false,
+   "fetchedAt": "2026-10-14T19:07:22+00:00"
+  },
   {
    "id": "auto-f4f3b5abac73",
    "tab": "star-citizen",
