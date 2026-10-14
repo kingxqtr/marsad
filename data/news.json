@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": "2026-10-14T19:09:49+00:00",
+ "updatedAt": "2026-10-14T20:13:52+00:00",
  "coverage": {
   "from": "2026-07-14",
   "to": "2026-10-14"
@@ -1711,6 +1711,29 @@
   "ai": {
    "news": [
     {
+     "id": "anthropic-2026-midterms-election-safeguards",
+     "date": "2026-10-14",
+     "type": "policy",
+     "importance": 2,
+     "sourceType": "official",
+     "sourceName": "Anthropic Newsroom",
+     "url": "https://www.anthropic.com/news/2026-us-midterms",
+     "originalTitle": "Preparing for the 2026 US midterms",
+     "company": "Anthropic",
+     "tool": "Claude",
+     "ar": {
+      "title": "أنثروبيك تطرح ضمانات انتخابية لـ Claude قبل انتخابات التجديد النصفي الأمريكية 2026",
+      "summary": "أضافت أنثروبيك إلى Claude أدوات لتسجيل الناخبين وتصنيفات جديدة لمكافحة حملات التضليل متعددة الخطوات، قبل انتخابات التجديد النصفي الأمريكية في نوفمبر 2026.",
+      "details": "طرحت أنثروبيك مجموعة من الضمانات الانتخابية لمساعدها Claude قبل انتخابات التجديد النصفي الأمريكية في نوفمبر 2026، بدءًا بشريط لتسجيل الناخبين عبر أداة TurboVote التابعة لـ Democracy Works، مع خطط لإضافة معلومات تصويت خاصة بكل ولاية ونتائج مباشرة ليلة الانتخابات.\n\nتقول الشركة إن نماذج Opus وSonnet وHaiku 5.5 حققت نسبة 99% في تقييم داخلي للحياد السياسي راجعته ثلاث جهات خارجية، رغم أن المراجعين وجدوا بعض التحيز، مثل إضافة Claude مزيدًا من التحفظات على الحجج اليمينية.\n\nأظهرت اختبارات ضغط مع Institute for Strategic Dialogue وMcCain Institute في الولايات المتحدة وإسرائيل والبرازيل أن Claude يمنع الطلبات الضارة المنفردة بفعالية لكنه قد يفوّت حملات تضليل منسقة متعددة الخطوات. ونشرت أنثروبيك تصنيفات جديدة لذلك، وحظرت حسابات وراء عملية إخبارية مزيفة استخدمت محتوى من Claude لنشر روايات روسية وإيرانية وكورية شمالية حول الانتخابات.\n\nووجدت مراجعة لـ250 ألف محادثة عشوائية على Claude.ai من أواخر سبتمبر أن 5.75% منها تناولت السياسة، وأن 0.002% فقط خالفت سياسة الاستخدام."
+     },
+     "en": {
+      "title": "Anthropic rolls out election safeguards for Claude ahead of 2026 US midterms",
+      "summary": "Anthropic added voter-registration tools and new misuse classifiers to Claude ahead of the November 2026 US midterms, after partners found it could miss multi-step disinformation campaigns.",
+      "details": "Anthropic has rolled out election safeguards for Claude ahead of the November 2026 US midterms, starting with a voter-registration banner from Democracy Works' TurboVote and plans to add state-by-state voting information and live results on election night.\n\nThe company says its Opus, Sonnet and Haiku 5.5 models scored 99% on an internal political-evenhandedness evaluation reviewed by three outside groups, though reviewers still found some bias, such as Claude adding more caveats to right-leaning arguments.\n\nStress tests with the Institute for Strategic Dialogue and the McCain Institute in the US, Israel and Brazil found Claude blocks single harmful requests but can miss coordinated, multi-step disinformation campaigns. Anthropic has deployed new classifiers for this and banned accounts behind a foreign operation that used Claude-generated content to push Russian, Iranian and North Korean narratives about the midterms.\n\nA review of 250,000 random Claude.ai conversations from late September found 5.75% touched on politics or policy, and only 0.002% violated the usage policy."
+     },
+     "addedAt": "2026-10-14T20:13:52+00:00"
+    },
+    {
      "id": "anthropic-singapore-office-mou-oct14",
      "date": "2026-10-14",
      "type": "business",
@@ -1800,6 +1823,50 @@
       "details": "The Allen Institute for AI (Ai2) released HiRO-ACEv2, the second version of its high-resolution climate emulator, in a Hugging Face blog post. The two-stage system pairs a coarse global model (ACE) with a downscaling model (HiRO) that sharpens 100 km output down to 3 km resolution worldwide.\n\nVersion 2 adds the ability to predict several high-resolution fields at once, such as wind and pressure alongside rainfall, instead of just one, and handles extreme events more accurately. Tested on coarsened data from NASA's X-SHiELD high-resolution model, it reproduces the same detailed statistics within 3% while costing roughly 1/300th as much to run.\n\nThe model currently only works with the ACE version tuned to match X-SHiELD, so it cannot yet simulate other climates such as a warmer future. Ai2 says it plans to train on a 4°C-warmer scenario and add new output fields such as near-surface temperature."
      },
      "addedAt": "2026-10-14T17:11:20+00:00"
+    },
+    {
+     "id": "nvidia-european-cities-ai-agents-urban-ops",
+     "date": "2026-10-14",
+     "type": "business",
+     "importance": 1,
+     "sourceType": "official",
+     "sourceName": "NVIDIA Blog",
+     "url": "https://blogs.nvidia.com/blog/european-cities-agents-urban-operations/",
+     "originalTitle": "European Cities Deploy NVIDIA-Powered AI Agents to Run Smarter Urban Operations",
+     "company": "NVIDIA",
+     "ar": {
+      "title": "وكلاء ذكاء اصطناعي من NVIDIA يعملون فعليًا في عمليات مدن أوروبية",
+      "summary": "عرضت NVIDIA عمليات نشر لوكلاء ذكاء اصطناعي في مدن مثل Côte-d'Or وميلانو، حيث خفّضت مقاطعة Côte-d'Or الفرنسية تكاليف التشغيل 10% وسرّعت البحث في الوثائق.",
+      "details": "عرضت NVIDIA كيف تنشر مدن وشركاء محليون في أوروبا وكلاء ذكاء اصطناعي ونماذج توائم رقمية مبنية على تقنياتها Cosmos وNemotron وOmniverse لتشغيل الخدمات العامة. في مقاطعة Côte-d'Or الفرنسية، يغطي الوكلاء أكثر من 500 مبنى عام، مما قلّص البحث في الوثائق من أسابيع إلى دقائق وخفّض تكاليف التشغيل نحو 10%، مع هدف للوصول إلى خفض 30% عند التوسع.\n\nوفي إيطاليا، يعمل نشر مماثل في مدينة Cinisello Balsamo قرب ميلانو ويتوسع إلى أربع بلديات أخرى، ما قلّص زمن الوصول إلى البيانات من ساعات إلى ثوانٍ. وتجري مشاريع مشابهة في منطقة Liverpool وجزيرة Jersey وبلفاست في بريطانيا، وموانئ Sète وأنتويرب-بروج، وبرنامج التوائم الرقمية في غوتنبرغ، بالتعاون مع شركاء برمجيات مثل Honeywell وLinker Vision وMilestone.\n\nوقالت NVIDIA إن هذه المشاريع تمتد في أكثر من ثماني دول أوروبية، بدعم من شركاء بنية تحتية مثل Cisco وDell وHPE وAccenture."
+     },
+     "en": {
+      "title": "NVIDIA-powered AI agents go live in European city operations",
+      "summary": "NVIDIA detailed AI-agent deployments in cities including Côte-d'Or and Milan, with France's Côte-d'Or département citing a 10% cut in operating costs and faster document search.",
+      "details": "NVIDIA outlined how cities and local partners across Europe are deploying AI agents and digital twins built on its Cosmos, Nemotron and Omniverse technologies to run public services. In France's Côte-d'Or département, agents now cover more than 500 public buildings, cutting document searches from weeks to minutes and operating costs by about 10%, with a 30% reduction targeted at scale.\n\nIn Italy, a similar deployment is live in Cinisello Balsamo near Milan and expanding to four more municipalities, cutting data access time from hours to seconds. Similar projects are underway in the UK's Liverpool City Region, Jersey and Belfast, the ports of Sète and Antwerp-Bruges, and Gothenburg's digital-twin program, with software partners including Honeywell, Linker Vision and Milestone.\n\nNVIDIA said the projects span more than eight European countries, backed by infrastructure partners such as Cisco, Dell, HPE and Accenture."
+     },
+     "addedAt": "2026-10-14T20:13:52+00:00"
+    },
+    {
+     "id": "openai-eu-agentic-adoption-report-oct2026",
+     "date": "2026-10-14",
+     "type": "business",
+     "importance": 1,
+     "sourceType": "official",
+     "sourceName": "OpenAI News",
+     "url": "https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic",
+     "originalTitle": "The EU's next chapter in AI is agentic",
+     "company": "OpenAI",
+     "ar": {
+      "title": "بيانات OpenAI: أدوات الوكلاء تتجاوز نصف استخدام ChatGPT Enterprise في أوروبا",
+      "summary": "وجد بحث اقتصادي لـ OpenAI أن Codex وChatGPT Work يشكلان أكثر من 50% من مخرجات عملاء ChatGPT Enterprise في الاتحاد الأوروبي، مع نمو المستخدمين الأسبوعيين للشركات الصغيرة أكثر من 8 مرات منذ مايو 2026.",
+      "details": "نشرت OpenAI بحثًا اقتصاديًا جديدًا حول تبنّي الشركات الأوروبية لأدوات الذكاء الاصطناعي الوكيلي. فبين عملاء ChatGPT Enterprise في الاتحاد الأوروبي، أصبحت أداتا Codex وChatGPT Work، المخصصتان للبرمجة وأتمتة المهام، تمثلان أكثر من نصف إجمالي رموز المخرجات (tokens).\n\nونمت نسبة المستخدمين الأسبوعيين النشطين لهذه الأدوات بين الشركات الصغيرة والمتوسطة الأوروبية (حتى 200 موظف) أكثر من 8 مرات منذ مايو 2026، مع تحقيق مكاسب في كل دولة عضو. ويتفاوت التبني بشدة بين الدول، حيث تتراوح حصة هذه الأدوات من المخرجات بين 22% في سلوفينيا و85% في ليتوانيا.\n\nوقالت OpenAI إن ما تصنّفه كشركات طليعية في الاتحاد الأوروبي تستخدم الذكاء الاصطناعي بكثافة أكبر من الشركة الأوروبية العادية، لكنها لا تزال متأخرة عن الشركات الأكثر تبنيًا للذكاء الاصطناعي عالميًا."
+     },
+     "en": {
+      "title": "OpenAI data shows agentic tools now over half of EU Enterprise ChatGPT usage",
+      "summary": "OpenAI's economic research found Codex and ChatGPT Work make up over 50% of output tokens among EU ChatGPT Enterprise customers, with small-business weekly users up more than 8x since May 2026.",
+      "details": "OpenAI published new economic research on how European businesses are adopting agentic AI tools. Among its EU ChatGPT Enterprise customers, Codex and ChatGPT Work, OpenAI's coding and task-automation products, now account for more than half of all output tokens generated.\n\nWeekly active users of these agentic tools among small and medium EU businesses with up to 200 employees grew more than eightfold since May 2026, with gains across every EU member state. Adoption varies widely by country: the agentic tools' share of output tokens ranges from 22% in Slovenia to 85% in Lithuania.\n\nOpenAI said the EU companies it considers \"frontier firms\" use AI more intensively than the typical European business, though they still lag behind the most AI-intensive firms globally."
+     },
+     "addedAt": "2026-10-14T20:13:52+00:00"
     },
     {
      "id": "google-gemini-4-argon-launch",
