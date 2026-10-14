@@ -1,6 +1,45 @@
 {
- "updatedAt": "2026-10-14T16:11:28+00:00",
+ "updatedAt": "2026-10-14T16:51:40+00:00",
  "items": [
+  {
+   "id": "auto-5ea4c0c66169",
+   "tab": "ai",
+   "date": "2026-10-14",
+   "publishedAt": "2026-10-14T16:12:42+00:00",
+   "type": "product",
+   "importance": 1,
+   "sourceType": "official",
+   "sourceName": "Hugging Face Blog",
+   "url": "https://huggingface.co/blog/allenai/hiro-acev2",
+   "originalTitle": "HiRO-ACEv2: Simulating extreme weather at 3 km resolution for a fraction of the cost",
+   "en": {
+    "title": "HiRO-ACEv2: Simulating extreme weather at 3 km resolution for a fraction of the cost",
+    "summary": "HiRO-ACEv2: Simulating extreme weather at 3 km resolution for a fraction of the cost",
+    "details": ""
+   },
+   "translated": false,
+   "fetchedAt": "2026-10-14T16:51:35+00:00",
+   "company": "Hugging Face"
+  },
+  {
+   "id": "auto-f4f3b5abac73",
+   "tab": "star-citizen",
+   "date": "2026-10-14",
+   "publishedAt": "2026-10-14T16:51:33+00:00",
+   "type": "development",
+   "importance": 1,
+   "sourceType": "official",
+   "sourceName": "RSI Comm-Link",
+   "url": "https://robertsspaceindustries.com/comm-link/transmission/21381-Star-Citizen-Behind-The-Ships-RSI-Constellation-Mk-V-Centaurus-Video",
+   "originalTitle": "Star Citizen | Behind the Ships: RSI Constellation Mk V Centaurus : Video",
+   "en": {
+    "title": "Star Citizen | Behind the Ships: RSI Constellation Mk V Centaurus : Video",
+    "summary": "It’s the Conny, but it’s not… but it is! The Mk IV’s better and the Mk V’s bigger. A next-generation-iteration-combination, with every bit of legacy-inspired spirit reimagined for today. The watchword is ‘versatile!’",
+    "details": "It’s the Conny, but it’s not… but it is! The Mk IV’s better and the Mk V’s bigger. A next-generation-iteration-combination, with every bit of legacy-inspired spirit reimagined for today. The watchword is ‘versatile!’"
+   },
+   "translated": false,
+   "fetchedAt": "2026-10-14T16:51:33+00:00"
+  },
   {
    "id": "auto-345fc2f0559d",
    "tab": "star-citizen",
