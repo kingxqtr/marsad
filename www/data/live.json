@@ -1,25 +1,25 @@
 {
- "updatedAt": "2026-10-14T09:11:10+00:00",
+ "updatedAt": "2026-10-14T09:48:47+00:00",
  "items": [
   {
-   "id": "auto-83fe39ce83ce",
+   "id": "auto-2468d0155f57",
    "tab": "ai",
    "date": "2026-10-14",
    "publishedAt": "2026-10-14T00:00:00+00:00",
-   "type": "policy",
+   "type": "product",
    "importance": 1,
    "sourceType": "official",
-   "sourceName": "Anthropic Newsroom",
-   "url": "https://www.anthropic.com/news/singapore-office-opening",
-   "originalTitle": "Anthropic opens Singapore office and signs MOU with the Government of Singapore",
+   "sourceName": "OpenAI News",
+   "url": "https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic",
+   "originalTitle": "The EU’s next chapter in AI is agentic",
    "en": {
-    "title": "Anthropic opens Singapore office and signs MOU with the Government of Singapore",
-    "summary": "Anthropic opens Singapore office and signs MOU with the Government of Singapore",
-    "details": ""
+    "title": "The EU’s next chapter in AI is agentic",
+    "summary": "New analysis shows how agentic AI adoption is growing across EU enterprises and small businesses—and where deeper use could unlock more value.",
+    "details": "New analysis shows how agentic AI adoption is growing across EU enterprises and small businesses—and where deeper use could unlock more value."
    },
    "translated": false,
-   "fetchedAt": "2026-10-14T08:37:44+00:00",
-   "company": "Anthropic"
+   "fetchedAt": "2026-10-14T09:48:42+00:00",
+   "company": "OpenAI"
   },
   {
    "id": "auto-1673b6cdd3ae",
