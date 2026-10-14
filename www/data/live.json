@@ -1,6 +1,44 @@
 {
- "updatedAt": "2026-10-14T15:31:11+00:00",
+ "updatedAt": "2026-10-14T16:11:28+00:00",
  "items": [
+  {
+   "id": "auto-345fc2f0559d",
+   "tab": "star-citizen",
+   "date": "2026-10-14",
+   "publishedAt": "2026-10-14T16:11:20+00:00",
+   "type": "ship",
+   "importance": 1,
+   "sourceType": "official",
+   "sourceName": "RSI Comm-Link",
+   "url": "https://robertsspaceindustries.com/comm-link/engineering/21377-Q-A-RSI-Constellation-Mk-V-Centaurus",
+   "originalTitle": "Q&A: RSI Constellation Mk V Centaurus",
+   "en": {
+    "title": "Q&A: RSI Constellation Mk V Centaurus",
+    "summary": "We asked the Vehicle and Gameplay teams a few questions about this new RSI multi-role, multi-crew ship. Here are the answers, straight from the devs themselves.",
+    "details": "We asked the Vehicle and Gameplay teams a few questions about this new RSI multi-role, multi-crew ship. Here are the answers, straight from the devs themselves."
+   },
+   "translated": false,
+   "fetchedAt": "2026-10-14T16:11:20+00:00"
+  },
+  {
+   "id": "auto-5934f9bc8038",
+   "tab": "star-citizen",
+   "date": "2026-10-14",
+   "publishedAt": "2026-10-14T16:11:20+00:00",
+   "type": "development",
+   "importance": 1,
+   "sourceType": "official",
+   "sourceName": "RSI Comm-Link",
+   "url": "https://robertsspaceindustries.com/comm-link/transmission/21335-RSI-Constellation-Mk-V-Centaurus",
+   "originalTitle": "RSI Constellation Mk V Centaurus - For Living Out There",
+   "en": {
+    "title": "RSI Constellation Mk V Centaurus - For Living Out There",
+    "summary": "RSI carries its legacy into the future with the next generation of one of space travel’s most iconic and beloved ships.",
+    "details": "RSI carries its legacy into the future with the next generation of one of space travel’s most iconic and beloved ships."
+   },
+   "translated": false,
+   "fetchedAt": "2026-10-14T16:11:20+00:00"
+  },
   {
    "id": "auto-2468d0155f57",
    "tab": "ai",
@@ -35,7 +73,7 @@
    "en": {
     "title": "European Cities Deploy NVIDIA-Powered AI Agents to Run Smarter Urban Operations",
     "summary": "Keeping a city running means making decisions that affect residents every day — from when to repair a road to how to use energy more efficiently.",
-    "details": "Keeping a city running means making decisions that affect residents every day — from when to repair a road to how to use energy more efficiently.\n\nAcross the EMEA region, cities and local software, infrastructure and integration partners are using NVIDIA accelerated computing to build physical AI agents and digital twins that help teams make those decisions. These applications can anticipate maintenance needs, guide urban planning and make public services more responsive.\n\nSoftware partners including ABA Technology , Akila , Galene AI , Honeywell Technologies , K2K , Linker Vision , Milestone , Onetera , ThinkDeep and Younite are using NVIDIA physical and agentic AI to develop solutions for city operations and public services.\n\nhttps://blogs.nvidia.com/wp-content/uploads/2026/10/linker-vision.mp4\n\nVideo courtesy of Linker Vision.\n\nNVIDIA Cosmos open models and the NVIDIA Metropolis Blueprint for video search and summarization (VSS) help agents interpret video and identify conditions, such as traffic congestion, equipment condition, underused spaces and safety hazards, that need attention. NVIDIA Nemotron open models enable developers to build agents that reason over information, respond in natural language and deploy digital twins with NVIDIA Omniverse libraries.\n\nProjects span Belgium, Finland, France, Italy, the Netherlands, Poland, Sweden, the U.K. and elsewhere.\n\nRead All NVIDIA in Europe Announcements …"
+    "details": "Keeping a city running means making decisions that affect residents every day — from when to repair a road to how to use energy more efficiently.\n\nAcross the EMEA region, cities and local software, infrastructure and integration partners are using NVIDIA accelerated computing to build physical AI agents and digital twins that help teams make those decisions. These applications can anticipate maintenance needs, guide urban planning and make public services more responsive.\n\nSoftware partners including ABA Technology , Akila , Galene AI , Honeywell Technologies , K2K , Linker Vision , Milestone , Onetera , ThinkDeep and Younite AI are using NVIDIA physical and agentic AI to develop solutions for city operations and public services.\n\nhttps://blogs.nvidia.com/wp-content/uploads/2026/10/linker-vision.mp4\n\nVideo courtesy of Linker Vision.\n\nNVIDIA Cosmos open models and the NVIDIA Metropolis Blueprint for video search and summarization (VSS) help agents interpret video and identify conditions, such as traffic congestion, equipment condition, underused spaces and safety hazards, that need attention. NVIDIA Nemotron open models enable developers to build agents that reason over information, respond in natural language and deploy digital twins with NVIDIA Omniverse libraries.\n\nProjects span Belgium, Finland, France, Italy, the Netherlands, Poland, Sweden, the U.K. and elsewhere.\n\nRead All NVIDIA in Europe Announcements …"
    },
    "translated": false,
    "fetchedAt": "2026-10-14T06:06:13+00:00",
