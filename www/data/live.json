@@ -1,6 +1,26 @@
 {
- "updatedAt": "2026-10-14T19:07:29+00:00",
+ "updatedAt": "2026-10-14T19:39:22+00:00",
  "items": [
+  {
+   "id": "auto-8acef971a6b4",
+   "tab": "ai",
+   "date": "2026-10-14",
+   "publishedAt": "2026-10-14T00:00:00+00:00",
+   "type": "product",
+   "importance": 1,
+   "sourceType": "official",
+   "sourceName": "Anthropic Newsroom",
+   "url": "https://www.anthropic.com/news/2026-us-midterms",
+   "originalTitle": "Preparing for the 2026 US midterms",
+   "en": {
+    "title": "Preparing for the 2026 US midterms",
+    "summary": "Preparing for the 2026 US midterms",
+    "details": ""
+   },
+   "translated": false,
+   "fetchedAt": "2026-10-14T19:39:18+00:00",
+   "company": "Anthropic"
+  },
   {
    "id": "auto-eb66d310b80a",
    "tab": "ai",
@@ -14,8 +34,8 @@
    "originalTitle": "AI agents aren't 'going rogue.' Frontier labs are skipping security basics",
    "en": {
     "title": "AI agents aren't 'going rogue.' Frontier labs are skipping security basics",
-    "summary": "Community discussion on Hacker News (392 points, 164 comments).",
-    "details": "Community discussion on Hacker News (392 points, 164 comments)."
+    "summary": "Community discussion on Hacker News (514 points, 214 comments).",
+    "details": "Community discussion on Hacker News (514 points, 214 comments)."
    },
    "translated": false,
    "fetchedAt": "2026-10-14T19:07:22+00:00"
