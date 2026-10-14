@@ -1,26 +1,6 @@
 {
- "updatedAt": "2026-10-14T16:51:40+00:00",
+ "updatedAt": "2026-10-14T17:22:11+00:00",
  "items": [
-  {
-   "id": "auto-5ea4c0c66169",
-   "tab": "ai",
-   "date": "2026-10-14",
-   "publishedAt": "2026-10-14T16:12:42+00:00",
-   "type": "product",
-   "importance": 1,
-   "sourceType": "official",
-   "sourceName": "Hugging Face Blog",
-   "url": "https://huggingface.co/blog/allenai/hiro-acev2",
-   "originalTitle": "HiRO-ACEv2: Simulating extreme weather at 3 km resolution for a fraction of the cost",
-   "en": {
-    "title": "HiRO-ACEv2: Simulating extreme weather at 3 km resolution for a fraction of the cost",
-    "summary": "HiRO-ACEv2: Simulating extreme weather at 3 km resolution for a fraction of the cost",
-    "details": ""
-   },
-   "translated": false,
-   "fetchedAt": "2026-10-14T16:51:35+00:00",
-   "company": "Hugging Face"
-  },
   {
    "id": "auto-f4f3b5abac73",
    "tab": "star-citizen",
@@ -55,25 +35,6 @@
     "title": "Q&A: RSI Constellation Mk V Centaurus",
     "summary": "We asked the Vehicle and Gameplay teams a few questions about this new RSI multi-role, multi-crew ship. Here are the answers, straight from the devs themselves.",
     "details": "We asked the Vehicle and Gameplay teams a few questions about this new RSI multi-role, multi-crew ship. Here are the answers, straight from the devs themselves."
-   },
-   "translated": false,
-   "fetchedAt": "2026-10-14T16:11:20+00:00"
-  },
-  {
-   "id": "auto-5934f9bc8038",
-   "tab": "star-citizen",
-   "date": "2026-10-14",
-   "publishedAt": "2026-10-14T16:11:20+00:00",
-   "type": "development",
-   "importance": 1,
-   "sourceType": "official",
-   "sourceName": "RSI Comm-Link",
-   "url": "https://robertsspaceindustries.com/comm-link/transmission/21335-RSI-Constellation-Mk-V-Centaurus",
-   "originalTitle": "RSI Constellation Mk V Centaurus - For Living Out There",
-   "en": {
-    "title": "RSI Constellation Mk V Centaurus - For Living Out There",
-    "summary": "RSI carries its legacy into the future with the next generation of one of space travel’s most iconic and beloved ships.",
-    "details": "RSI carries its legacy into the future with the next generation of one of space travel’s most iconic and beloved ships."
    },
    "translated": false,
    "fetchedAt": "2026-10-14T16:11:20+00:00"
