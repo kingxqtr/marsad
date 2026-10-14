@@ -1,25 +1,4 @@
 {
- "updatedAt": "2026-10-14T02:09:19+00:00",
- "items": [
-  {
-   "id": "auto-4211cf8b52e6",
-   "tab": "ai",
-   "date": "2026-10-14",
-   "publishedAt": "2026-10-14T02:00:14+00:00",
-   "type": "policy",
-   "importance": 1,
-   "sourceType": "official",
-   "sourceName": "Google DeepMind Blog",
-   "url": "https://deepmind.google/blog/on-device-ai-scam-detection-mddi/",
-   "originalTitle": "Google DeepMind and Singapore Government announce new AI tool to protect citizens against scams",
-   "en": {
-    "title": "Google DeepMind and Singapore Government announce new AI tool to protect citizens against scams",
-    "summary": "Learn how Google DeepMind and GovTech Singapore uses lightweight on-device Gemma models to intercept conversational scams in private chats with zero cloud data egress.",
-    "details": "Learn how Google DeepMind and GovTech Singapore uses lightweight on-device Gemma models to intercept conversational scams in private chats with zero cloud data egress."
-   },
-   "translated": false,
-   "fetchedAt": "2026-10-14T02:09:13+00:00",
-   "company": "Google"
-  }
- ]
+ "updatedAt": "2026-10-14T02:38:01+00:00",
+ "items": []
 }
