@@ -68,8 +68,56 @@
         "details": "Anthropic opened a new office in Singapore, its fifth in the Asia-Pacific region, and signed a Memorandum of Understanding with the country's Ministry of Digital Development and Information (MDDI) during Singapore International Cyber Week.\n\nThe MOU covers cooperation on AI safety, security and model evaluation, research into AI adoption, and responsible use of AI in the public and private sectors. Planned work includes technical exchanges on testing standards and incident response, AI skills training for public officers, support for small and medium businesses adopting AI, and sharing data from the Anthropic Economic Index.\n\nAnthropic said Singapore ranks second of 121 countries in Claude.ai usage relative to its population. GovTech Singapore says more than 1,500 of its engineers and technical staff now use Claude Code, and agencies including the Cyber Security Agency of Singapore are exploring Claude for cyber defense."
       }
     }
+    ,
+    {
+      "id": "nvidia-uk-250m-agentic-safety-compute-oct14",
+      "date": "2026-10-14",
+      "type": "business",
+      "importance": 2,
+      "sourceType": "official",
+      "sourceName": "NVIDIA Blog",
+      "url": "https://blogs.nvidia.com/blog/uk-ecosystem-deployment/",
+      "originalTitle": "From Enterprise to Earthshot: UK's Ecosystem Moves From Ambition to Application With NVIDIA",
+      "company": "NVIDIA",
+      "ar": {
+        "title": "NVIDIA تلتزم بـ250 مليون دولار على 5 سنوات لأبحاث سلامة الذكاء الاصطناعي العاملي في بريطانيا",
+        "summary": "أعلنت NVIDIA التزاماً حاسوبياً بقيمة 250 مليون دولار على مدى خمس سنوات لتعزيز أبحاث سلامة وأمن الذكاء الاصطناعي العاملي (agentic) في المملكة المتحدة، إلى جانب انضمامها كشريك مؤسس لتحالف Earthshot Prize.",
+        "details": "أعلنت NVIDIA التزاماً حاسوبياً (compute commitment) بقيمة 250 مليون دولار على مدى خمس سنوات لتعزيز أبحاث سلامة وأمن الذكاء الاصطناعي العاملي في المملكة المتحدة، ضمن مجموعة إعلانات أوسع حول توسّع منظومة الشركة هناك قبيل كلمة الرئيس التنفيذي جنسن هوانغ في مؤتمر GTC برلين يوم الأربعاء 21 أكتوبر.\n\nكما انضمت NVIDIA كشريك مؤسس عالمي لتحالف Earthshot Prize، لتقديم قدرات حاسوبية وخبرة تقنية لمبتكرين يعملون على تحديات المناخ والاستدامة.\n\nوذكرت الشركة أمثلة أخرى على انتشار تقنياتها في بريطانيا، من بينها أكثر من 3100 شركة بريطانية منضمة إلى برنامج Inception الخاص بها، وبنية تحتية جديدة قائمة على معالجات NVIDIA B300 Blackwell Ultra تستخدمها شركة Fuse Energy لخدمة أكثر من 450 ألف منزل بريطاني."
+      },
+      "en": {
+        "title": "NVIDIA commits $250M over 5 years to UK agentic AI safety research",
+        "summary": "NVIDIA announced a five-year, $250 million compute commitment to strengthen agentic AI safety and security research in the UK, alongside joining the Earthshot Prize alliance as a founding partner.",
+        "details": "NVIDIA announced a five-year, $250 million compute commitment to strengthen agentic AI safety and security research in the UK, part of a broader set of announcements about its growing UK ecosystem ahead of CEO Jensen Huang's keynote at GTC Berlin on Wednesday, October 21.\n\nNVIDIA also joined the Earthshot Prize as a Global Alliance Founding Partner, providing compute and technical expertise to innovators working on climate and sustainability challenges.\n\nThe company cited other examples of its technology spreading across the UK, including more than 3,100 UK companies now in its Inception program, and new infrastructure built on NVIDIA B300 Blackwell Ultra that energy firm Fuse Energy is using to serve over 450,000 UK households."
+      }
+    }
   ],
-  "upcoming": [],
+  "upcoming": [
+    {
+      "id": "nvidia-gtc-berlin-keynote-oct21",
+      "date": "2026-10-21",
+      "endDate": null,
+      "dateConfidence": "confirmed",
+      "type": "business",
+      "sourceType": "official",
+      "sourceName": "NVIDIA Blog",
+      "url": "https://blogs.nvidia.com/blog/uk-ecosystem-deployment/",
+      "company": "NVIDIA",
+      "ar": {
+        "title": "كلمة جنسن هوانغ الرئيسية في مؤتمر GTC برلين",
+        "summary": "يلقي الرئيس التنفيذي لشركة NVIDIA جنسن هوانغ كلمة رئيسية في مؤتمر GTC برلين.",
+        "details": "يلقي الرئيس التنفيذي لشركة NVIDIA جنسن هوانغ كلمة رئيسية في مؤتمر GTC برلين يوم الأربعاء 21 أكتوبر 2026، من الساعة 11 صباحاً حتى 1 ظهراً بتوقيت وسط أوروبا الصيفي.",
+        "location": "برلين، ألمانيا",
+        "dateNote": "تاريخ مؤكد من مدونة NVIDIA الرسمية."
+      },
+      "en": {
+        "title": "Jensen Huang's GTC Berlin keynote",
+        "summary": "NVIDIA CEO Jensen Huang delivers a keynote address at GTC Berlin.",
+        "details": "NVIDIA CEO Jensen Huang delivers a keynote address at GTC Berlin on Wednesday, October 21, 2026, from 11 a.m. to 1 p.m. CEST.",
+        "location": "Berlin, Germany",
+        "dateNote": "Confirmed date from NVIDIA's official blog."
+      }
+    }
+  ],
   "removeUpcoming": [],
   "removeNews": []
 }
