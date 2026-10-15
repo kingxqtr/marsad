@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": "2026-10-15T21:16:43+00:00",
+ "updatedAt": "2026-10-15T22:10:45+00:00",
  "coverage": {
   "from": "2026-07-15",
   "to": "2026-10-15"
@@ -1975,6 +1975,29 @@
       "details": "At the AI in Science Summit in Dublin, the European Commission launched the \"AI in Science Enablers Initiative,\" a framework linked to RAISE (Resource for AI Science in Europe) meant to bring private-sector support closer to Europe's research community.\n\nNVIDIA is joining the effort by providing access to accelerated tools, models and platforms; compute, cloud, data and scientific resources; training and technical support; collaborative projects and pilots with researchers; and support for startups and ecosystem development.\n\nThe initiative is aimed particularly at smaller labs, early-career scientists and science-based startups, for whom the hardest part of research is often what comes before the science itself: assembling the right tools, finding compute, and building the expertise to use both."
      },
      "addedAt": "2026-10-15T21:16:43+00:00"
+    },
+    {
+     "id": "openai-rosalind-academic-plan",
+     "date": "2026-10-15",
+     "type": "business",
+     "importance": 1,
+     "sourceType": "official",
+     "sourceName": "OpenAI",
+     "url": "https://openai.com/index/introducing-the-rosalind-academic-plan/",
+     "originalTitle": "Bringing GPT-Rosalind to academic research labs",
+     "company": "OpenAI",
+     "tool": "GPT-Rosalind",
+     "ar": {
+      "title": "OpenAI تطلق خطة أكاديمية لمنح مختبرات البحث وصولاً مجانياً لـ GPT-Rosalind",
+      "summary": "أطلقت OpenAI خطة Rosalind الأكاديمية التي تمنح مختبرات الأبحاث المؤهلة حتى 30 مقعداً مجانياً لمدة تصل إلى 12 شهراً، مع وصول لنموذج العلوم الحيوية GPT-Rosalind رهناً بموافقة أمنية.",
+      "details": "أعلنت OpenAI عن \"خطة Rosalind الأكاديمية\"، برنامج يمنح مختبرات البحث الجامعية المؤهلة حتى 30 مقعداً من خطة Business Standard مجاناً لمدة تصل إلى 12 شهراً. ويشمل ذلك الوصول إلى بيئة عمل Rosalind Workbench التي تجمع بين النماذج المتخصصة وأدوات التحليل لأبحاث العلوم الحيوية، مثل تحليل بنية البروتينات وتسلسلها، وتدفقات عمل الجينوم، والكيمياء الدوائية.\n\nأما الوصول إلى نموذج GPT-Rosalind نفسه، وهو أقوى نموذج OpenAI المخصص لأبحاث العلوم الحيوية، فيبقى مشروطاً بموافقة ضمن برنامج \"الوصول الموثوق\" الخاص بالشركة، وهي عملية تحقق أمني تسبق منح الوصول لهذا النوع من النماذج الحساسة.\n\nتضع OpenAI هذه الخطوة في سياق دعم العلماء الأكاديميين الذين تسبق أبحاثهم غالباً أي اختراق طبي أو تقني في مجال التكنولوجيا الحيوية."
+     },
+     "en": {
+      "title": "OpenAI launches academic plan giving research labs free GPT-Rosalind access",
+      "summary": "OpenAI introduced the Rosalind Academic Plan, giving eligible university labs up to 30 free Business Standard seats for up to 12 months, with GPT-Rosalind access subject to security approval.",
+      "details": "OpenAI announced the Rosalind Academic Plan, a program giving eligible academic research labs up to 30 Business Standard seats at no cost for up to 12 months. This includes access to Rosalind Workbench, a research environment combining specialized models and analysis tools for life-sciences work such as protein structure and sequence analysis, genomics workflows, and medicinal chemistry.\n\nAccess to GPT-Rosalind itself, OpenAI's most capable model for life-sciences research, remains subject to approval under the company's \"trusted access\" program, a security vetting process that gates access to this category of sensitive models.\n\nOpenAI frames the plan as support for academic scientists, whose research typically precedes any medical or biotech breakthrough."
+     },
+     "addedAt": "2026-10-15T22:10:45+00:00"
     },
     {
      "id": "github-copilot-model-deprecations-november",
