@@ -1,6 +1,46 @@
 {
- "updatedAt": "2026-10-15T16:51:18+00:00",
+ "updatedAt": "2026-10-15T17:22:05+00:00",
  "items": [
+  {
+   "id": "auto-2ea302ed111c",
+   "tab": "ai",
+   "date": "2026-10-15",
+   "publishedAt": "2026-10-15T00:00:00+00:00",
+   "type": "product",
+   "importance": 1,
+   "sourceType": "official",
+   "sourceName": "Anthropic Newsroom",
+   "url": "https://www.anthropic.com/news/an-update-on-independent-evaluators",
+   "originalTitle": "An update on independent evaluators",
+   "en": {
+    "title": "An update on independent evaluators",
+    "summary": "An update on independent evaluators",
+    "details": ""
+   },
+   "translated": false,
+   "fetchedAt": "2026-10-15T17:22:00+00:00",
+   "company": "Anthropic"
+  },
+  {
+   "id": "auto-c29d43bb899b",
+   "tab": "ai",
+   "date": "2026-10-15",
+   "publishedAt": "2026-10-15T17:00:23+00:00",
+   "type": "hardware",
+   "importance": 1,
+   "sourceType": "official",
+   "sourceName": "NVIDIA Blog",
+   "url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-launch-event-invite/",
+   "originalTitle": "Be There for the Beginning: Celebrate the Launch of NVIDIA RTX Spark",
+   "en": {
+    "title": "Be There for the Beginning: Celebrate the Launch of NVIDIA RTX Spark",
+    "summary": "A new beginning for Windows PCs starts tomorrow with the launch of NVIDIA RTX Spark — one PC built for creators, gamers and AI agents. All are invited to celebrate with NVIDIA and partners at launch events around the world.",
+    "details": "A new beginning for Windows PCs starts tomorrow with the launch of NVIDIA RTX Spark — one PC built for creators, gamers and AI agents. All are invited to celebrate with NVIDIA and partners at launch events around the world.\n\nShare Your Spark\n\nEvery PC has a story. What was your first Windows PC, and what did it spark a love for? Join the celebration online by sharing responses with #ShareYourSpark for a chance to win an ASUS ProArt P14 RTX Spark laptop signed by NVIDIA founder and CEO Jensen Huang. See the campaign and official rules .\n\nSee What Reviewers Are Saying\n\nFrom local AI workflows to creative apps and gaming, see what reviewers are saying about RTX Spark — then experience it at a launch celebration.\n\n“The fact that NVIDIA, Microsoft and their partners have delivered such a capable, compatible and polished platform even in its first at-bat should put the rest of the PC industry on notice.” — Tom’s Hardware\n\n“I tested NVIDIA’s RTX Spark for gaming and local AI – the performance absolutely stunned me.” — TrustedReviews , UK\n\n“I’m very happy to report that performance is actually looking really good when it comes to AI, gaming and creative workflows.” — Microcenter\n\n“[RTX Spark] is a different species of computer that has arrived early. It is a statement of intent from NVIDIA about where computing is going — trading raw benchmarking crowns for the ability to carry a self-rewriting, fully autonomous, CUDA-accelerated digital brain in your backpack.” — Tom’s Guide …"
+   },
+   "translated": false,
+   "fetchedAt": "2026-10-15T17:22:00+00:00",
+   "company": "NVIDIA"
+  },
   {
    "id": "auto-cbc7643dde66",
    "tab": "ai",
@@ -20,26 +60,6 @@
    "translated": false,
    "fetchedAt": "2026-10-15T16:10:17+00:00",
    "company": "Google"
-  },
-  {
-   "id": "auto-9cb368175a72",
-   "tab": "ai",
-   "date": "2026-10-15",
-   "publishedAt": "2026-10-15T00:00:00+00:00",
-   "type": "media",
-   "importance": 1,
-   "sourceType": "official",
-   "sourceName": "Hugging Face Blog",
-   "url": "https://huggingface.co/blog/flux-3",
-   "originalTitle": "Welcome FLUX.3 Image Klein in Diffusers",
-   "en": {
-    "title": "Welcome FLUX.3 Image Klein in Diffusers",
-    "summary": "Welcome FLUX.3 Image Klein in Diffusers",
-    "details": ""
-   },
-   "translated": false,
-   "fetchedAt": "2026-10-15T15:39:28+00:00",
-   "company": "Hugging Face"
   },
   {
    "id": "auto-44b43cd3d8ff",
