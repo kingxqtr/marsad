@@ -1,26 +1,6 @@
 {
- "updatedAt": "2026-10-15T21:06:06+00:00",
+ "updatedAt": "2026-10-15T21:36:54+00:00",
  "items": [
-  {
-   "id": "auto-7ac30e8d183c",
-   "tab": "ai",
-   "date": "2026-10-15",
-   "publishedAt": "2026-10-15T20:34:01+00:00",
-   "type": "product",
-   "importance": 1,
-   "sourceType": "official",
-   "sourceName": "Hugging Face Blog",
-   "url": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1",
-   "originalTitle": "Granite Switch 4.1: Chat, Decisions, and Speech from One Endpoint",
-   "en": {
-    "title": "Granite Switch 4.1: Chat, Decisions, and Speech from One Endpoint",
-    "summary": "Granite Switch 4.1: Chat, Decisions, and Speech from One Endpoint",
-    "details": ""
-   },
-   "translated": false,
-   "fetchedAt": "2026-10-15T21:06:00+00:00",
-   "company": "Hugging Face"
-  },
   {
    "id": "auto-c29d43bb899b",
    "tab": "ai",
@@ -60,26 +40,6 @@
    "translated": false,
    "fetchedAt": "2026-10-15T14:26:05+00:00",
    "company": "OpenAI"
-  },
-  {
-   "id": "auto-6ced9f5823a7",
-   "tab": "ai",
-   "date": "2026-10-15",
-   "publishedAt": "2026-10-15T10:00:12+00:00",
-   "type": "media",
-   "importance": 1,
-   "sourceType": "official",
-   "sourceName": "NVIDIA Blog",
-   "url": "https://blogs.nvidia.com/blog/ec-scientific-computing-pledge/",
-   "originalTitle": "NVIDIA Expands Advanced Technology Access for Europe’s Scientific Community Through Open Learning Resources, Collaborations and Compute",
-   "en": {
-    "title": "NVIDIA Expands Advanced Technology Access for Europe’s Scientific Community Through Open Learning Resources, Collaborations and Compute",
-    "summary": "Much of today’s scientific progress begins with computation. But turning accelerated computing’s potential into scientific progress — modeling climate systems, designing molecules, simulating materials and more — depends on more than …",
-    "details": "Much of today’s scientific progress begins with computation.\n\nBut turning accelerated computing’s potential into scientific progress — modeling climate systems, designing molecules, simulating materials and more — depends on more than breakthrough technology. Especially for smaller labs, early-career scientists or science-based startups, the hardest part of research can be everything that comes before the science: assembling tools, finding compute and building the expertise to use both.\n\nAt the AI in Science Summit in Dublin today, the European Commission launched the AI in Science Enablers Initiative, a shared framework connected to RAISE — the Resource for AI Science in Europe — that brings private-sector support closer to Europe’s research community.\n\nRead All NVIDIA in Europe Announcements\n\nNVIDIA is joining the campaign , providing:\n\n- Access to accelerated tools, models and platforms\n\n- Compute, cloud resources, data and scientific resources\n\n- Skills, training and technical support\n\n- Collaborative projects and pilots along with support for researchers and talent\n\n- Support for startups and ecosystem development …"
-   },
-   "translated": false,
-   "fetchedAt": "2026-10-15T10:14:05+00:00",
-   "company": "NVIDIA"
   },
   {
    "id": "auto-ed17e1caefe1",
