@@ -1,6 +1,26 @@
 {
- "updatedAt": "2026-10-15T20:33:35+00:00",
+ "updatedAt": "2026-10-15T21:06:06+00:00",
  "items": [
+  {
+   "id": "auto-7ac30e8d183c",
+   "tab": "ai",
+   "date": "2026-10-15",
+   "publishedAt": "2026-10-15T20:34:01+00:00",
+   "type": "product",
+   "importance": 1,
+   "sourceType": "official",
+   "sourceName": "Hugging Face Blog",
+   "url": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1",
+   "originalTitle": "Granite Switch 4.1: Chat, Decisions, and Speech from One Endpoint",
+   "en": {
+    "title": "Granite Switch 4.1: Chat, Decisions, and Speech from One Endpoint",
+    "summary": "Granite Switch 4.1: Chat, Decisions, and Speech from One Endpoint",
+    "details": ""
+   },
+   "translated": false,
+   "fetchedAt": "2026-10-15T21:06:00+00:00",
+   "company": "Hugging Face"
+  },
   {
    "id": "auto-c29d43bb899b",
    "tab": "ai",
