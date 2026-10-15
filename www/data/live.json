@@ -1,25 +1,45 @@
 {
- "updatedAt": "2026-10-15T13:56:03+00:00",
+ "updatedAt": "2026-10-15T14:26:10+00:00",
  "items": [
   {
-   "id": "auto-f2c18060258b",
+   "id": "auto-77daa80ba38b",
    "tab": "ai",
    "date": "2026-10-15",
-   "publishedAt": "2026-10-15T09:08:45+00:00",
+   "publishedAt": "2026-10-15T13:49:20+00:00",
+   "type": "coding",
+   "importance": 1,
+   "sourceType": "official",
+   "sourceName": "GitHub Changelog",
+   "url": "https://github.blog/changelog/2026-10-15-agentic-autofix-for-code-scanning-alerts-general-availability",
+   "originalTitle": "Agentic autofix for code scanning alerts general availability",
+   "en": {
+    "title": "Agentic autofix for code scanning alerts general availability",
+    "summary": "Agentic autofix for code scanning alerts is now generally available.",
+    "details": "Agentic autofix for code scanning alerts is now generally available. It remediates alerts by working across your codebase the way a developer would: it explores relevant files, proposes a fix, and reruns CodeQL to confirm the fix closes the alert before opening a pull request for your review. Agentic autofix is available to GitHub Code Security and GitHub Advanced Security customers on GitHub Enterprise Cloud, including GitHub Enterprise Cloud with data residency.\n\nHow it works\n\nWhen you assign a code scanning alert to Copilot, it:\n\n- Explores relevant files across your codebase.\n\n- Generates a proposed fix.\n\n- Validates the fix works by rerunning CodeQL.\n\n- Iterates if needed, then opens a draft pull request ready for your review.\n\nThe pull request includes a summary of the fix, why it closes the alert, and the validation steps Copilot took to confirm that it works. When the pull request containing the fix is ready, you can instruct Copilot to make further changes to it by commenting on the pull request or interacting with the session in the Agents tab of your repository.\n\nHow to use it\n\nWhen enabled, agentic autofix replaces the free Generate Fix option on individual code scanning alerts with an Assign to Copilot button.\n\nYou can use agentic autofix:\n\n- From any code scanning alert on the repository’s default branch, by assigning the alert to Copilot. …"
+   },
+   "translated": false,
+   "fetchedAt": "2026-10-15T14:26:05+00:00",
+   "company": "GitHub"
+  },
+  {
+   "id": "auto-44b43cd3d8ff",
+   "tab": "ai",
+   "date": "2026-10-15",
+   "publishedAt": "2026-10-15T13:00:00+00:00",
    "type": "product",
    "importance": 1,
    "sourceType": "official",
-   "sourceName": "Hugging Face Blog",
-   "url": "https://huggingface.co/blog/swiss-ai/apertus-v15-release-notes",
-   "originalTitle": "Apertus 1.5 Release Notes",
+   "sourceName": "OpenAI News",
+   "url": "https://openai.com/index/teaching-students-to-think-and-learn-through-questions",
+   "originalTitle": "Teaching students to think and learn through questions",
    "en": {
-    "title": "Apertus 1.5 Release Notes",
-    "summary": "Apertus 1.5 Release Notes",
-    "details": ""
+    "title": "Teaching students to think and learn through questions",
+    "summary": "Celebrate Teachers’ Day with AI for Educators in Brazilian Portuguese and see how Study Mode can help teachers support active, step-by-step learning.",
+    "details": "Celebrate Teachers’ Day with AI for Educators in Brazilian Portuguese and see how Study Mode can help teachers support active, step-by-step learning."
    },
    "translated": false,
-   "fetchedAt": "2026-10-15T13:55:58+00:00",
-   "company": "Hugging Face"
+   "fetchedAt": "2026-10-15T14:26:05+00:00",
+   "company": "OpenAI"
   },
   {
    "id": "auto-6ced9f5823a7",
