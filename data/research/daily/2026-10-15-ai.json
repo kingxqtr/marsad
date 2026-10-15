@@ -188,6 +188,26 @@
       }
     },
     {
+      "id": "github-copilot-model-deprecations-november",
+      "date": "2026-10-15",
+      "type": "business",
+      "importance": 1,
+      "sourceType": "official",
+      "sourceName": "GitHub Changelog",
+      "url": "https://github.blog/changelog/2026-10-15-upcoming-deprecation-of-selected-github-copilot-models-in-mid-november",
+      "company": "GitHub",
+      "ar": {
+        "title": "جيت هاب تعلن إهمال نماذج Copilot مختارة في منتصف نوفمبر",
+        "summary": "ستُهمل جيت هاب نماذج Claude Opus 4.8 و Claude Opus 5 و GPT-5.6 Terra في جميع واجهات Copilot بحلول 16 نوفمبر 2026، وتقترح الانتقال إلى Claude Opus 5.5 أو GPT-6.1 Sol أو GPT-6 Luna.",
+        "details": "أعلنت جيت هاب أنها ستُهمل في 16 نوفمبر 2026 عددًا من نماذج Copilot عبر كل تجارب الأداة، بما يشمل Copilot Chat والتحرير الداخلي ووضعي السؤال والوكيل وإكمال الكود. تشمل القائمة Claude Opus 4.8 وClaude Opus 5 وGPT-5.6 Terra، مع اقتراح الانتقال إلى Claude Opus 5.5 كبديل عن نموذجي Opus، وإلى GPT-6.1 Sol أو GPT-6 Luna بديلاً عن GPT-5.6 Terra.\n\nويستثنى من ذلك مشتركو Copilot الأفراد على الخطط السنوية، إذ يبقى Claude Opus 4.8 متاحًا لهم رغم الإهمال.\n\nبموجب سياسة تفعيل النماذج الافتراضية، تُفعَّل البدائل المقترحة تلقائيًا لعملاء Copilot Enterprise وBusiness ما لم يعطّل المسؤول الإعداد الافتراضي العام أو يحظر النموذج صراحة. ولا يتطلب الأمر أي إجراء لإزالة النماذج المُهملة بعد الموعد المحدد."
+      },
+      "en": {
+        "title": "GitHub to deprecate several Copilot models in mid-November",
+        "summary": "GitHub will deprecate Claude Opus 4.8, Claude Opus 5 and GPT-5.6 Terra across all Copilot experiences by November 16, 2026, suggesting Claude Opus 5.5, GPT-6.1 Sol or GPT-6 Luna as replacements.",
+        "details": "GitHub announced it will deprecate several Copilot models across all Copilot experiences, including Copilot Chat, inline edits, ask and agent modes, and code completions, on November 16, 2026. The affected models are Claude Opus 4.8, Claude Opus 5 and GPT-5.6 Terra. GitHub suggests Claude Opus 5.5 as the replacement for both Opus models, and GPT-6.1 Sol or GPT-6 Luna as replacements for GPT-5.6 Terra.\n\nIndividual Copilot subscribers on annual plans are exempted: Claude Opus 4.8 stays available to them despite the deprecation.\n\nUnder GitHub's default model enablement policy, the suggested replacement models are automatically enabled for Copilot Enterprise and Business customers unless an administrator has turned off the global default or explicitly blocked a model. No action is required to remove the deprecated models once the date passes."
+      }
+    },
+    {
       "id": "google-antigravity-antimicrobial-peptide-discovery",
       "date": "2026-10-15",
       "type": "product",

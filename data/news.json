@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": "2026-10-15T19:09:45+00:00",
+ "updatedAt": "2026-10-15T20:09:11+00:00",
  "coverage": {
   "from": "2026-07-15",
   "to": "2026-10-15"
@@ -1863,6 +1863,28 @@
       "details": "The Swiss AI Initiative released Apertus 1.5, an update to its Apertus family of fully open models, which the project describes as open in weights, training data and governance values alike.\n\nThe update adds multimodal input: both the 8B and 70B models can now take images and audio alongside text, though audio support remains experimental and outputs stay text-only. Apertus 1.5 also adds an optional thinking mode that lets the model reason step by step before answering, and extends the context window to 262,144 tokens, four times the original Apertus 1.0 models. Instruction-following and tool use are also improved.\n\nThe Swiss AI Initiative says Apertus 1.5 still trails frontier open-weight models overall, but that its 8B model leads similarly sized open-weight models on instruction-following and multilingual benchmarks. The weights are released under an Apache 2.0 license."
      },
      "addedAt": "2026-10-15T14:10:23+00:00"
+    },
+    {
+     "id": "github-copilot-model-deprecations-november",
+     "date": "2026-10-15",
+     "type": "business",
+     "importance": 1,
+     "sourceType": "official",
+     "sourceName": "GitHub Changelog",
+     "url": "https://github.blog/changelog/2026-10-15-upcoming-deprecation-of-selected-github-copilot-models-in-mid-november",
+     "originalTitle": "",
+     "company": "GitHub",
+     "ar": {
+      "title": "جيت هاب تعلن إهمال نماذج Copilot مختارة في منتصف نوفمبر",
+      "summary": "ستُهمل جيت هاب نماذج Claude Opus 4.8 و Claude Opus 5 و GPT-5.6 Terra في جميع واجهات Copilot بحلول 16 نوفمبر 2026، وتقترح الانتقال إلى Claude Opus 5.5 أو GPT-6.1 Sol أو GPT-6 Luna.",
+      "details": "أعلنت جيت هاب أنها ستُهمل في 16 نوفمبر 2026 عددًا من نماذج Copilot عبر كل تجارب الأداة، بما يشمل Copilot Chat والتحرير الداخلي ووضعي السؤال والوكيل وإكمال الكود. تشمل القائمة Claude Opus 4.8 وClaude Opus 5 وGPT-5.6 Terra، مع اقتراح الانتقال إلى Claude Opus 5.5 كبديل عن نموذجي Opus، وإلى GPT-6.1 Sol أو GPT-6 Luna بديلاً عن GPT-5.6 Terra.\n\nويستثنى من ذلك مشتركو Copilot الأفراد على الخطط السنوية، إذ يبقى Claude Opus 4.8 متاحًا لهم رغم الإهمال.\n\nبموجب سياسة تفعيل النماذج الافتراضية، تُفعَّل البدائل المقترحة تلقائيًا لعملاء Copilot Enterprise وBusiness ما لم يعطّل المسؤول الإعداد الافتراضي العام أو يحظر النموذج صراحة. ولا يتطلب الأمر أي إجراء لإزالة النماذج المُهملة بعد الموعد المحدد."
+     },
+     "en": {
+      "title": "GitHub to deprecate several Copilot models in mid-November",
+      "summary": "GitHub will deprecate Claude Opus 4.8, Claude Opus 5 and GPT-5.6 Terra across all Copilot experiences by November 16, 2026, suggesting Claude Opus 5.5, GPT-6.1 Sol or GPT-6 Luna as replacements.",
+      "details": "GitHub announced it will deprecate several Copilot models across all Copilot experiences, including Copilot Chat, inline edits, ask and agent modes, and code completions, on November 16, 2026. The affected models are Claude Opus 4.8, Claude Opus 5 and GPT-5.6 Terra. GitHub suggests Claude Opus 5.5 as the replacement for both Opus models, and GPT-6.1 Sol or GPT-6 Luna as replacements for GPT-5.6 Terra.\n\nIndividual Copilot subscribers on annual plans are exempted: Claude Opus 4.8 stays available to them despite the deprecation.\n\nUnder GitHub's default model enablement policy, the suggested replacement models are automatically enabled for Copilot Enterprise and Business customers unless an administrator has turned off the global default or explicitly blocked a model. No action is required to remove the deprecated models once the date passes."
+     },
+     "addedAt": "2026-10-15T20:09:11+00:00"
     },
     {
      "id": "anthropic-2026-midterms-election-safeguards",
