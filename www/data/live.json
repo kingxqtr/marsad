@@ -1,46 +1,6 @@
 {
- "updatedAt": "2026-10-15T17:54:55+00:00",
+ "updatedAt": "2026-10-15T18:21:09+00:00",
  "items": [
-  {
-   "id": "auto-dde8b65065e5",
-   "tab": "ai",
-   "date": "2026-10-15",
-   "publishedAt": "2026-10-15T00:00:00+00:00",
-   "type": "model",
-   "importance": 1,
-   "sourceType": "official",
-   "sourceName": "Hugging Face Blog",
-   "url": "https://huggingface.co/blog/meta-muse-spark-open",
-   "originalTitle": "Welcome Muse Spark Open: open-weight frontier multimodal mixture-of-experts model from Meta",
-   "en": {
-    "title": "Welcome Muse Spark Open: open-weight frontier multimodal mixture-of-experts model from Meta",
-    "summary": "Welcome Muse Spark Open: open-weight frontier multimodal mixture-of-experts model from Meta",
-    "details": ""
-   },
-   "translated": false,
-   "fetchedAt": "2026-10-15T17:54:50+00:00",
-   "company": "Hugging Face"
-  },
-  {
-   "id": "auto-2ea302ed111c",
-   "tab": "ai",
-   "date": "2026-10-15",
-   "publishedAt": "2026-10-15T00:00:00+00:00",
-   "type": "product",
-   "importance": 1,
-   "sourceType": "official",
-   "sourceName": "Anthropic Newsroom",
-   "url": "https://www.anthropic.com/news/an-update-on-independent-evaluators",
-   "originalTitle": "An update on independent evaluators",
-   "en": {
-    "title": "An update on independent evaluators",
-    "summary": "An update on independent evaluators",
-    "details": ""
-   },
-   "translated": false,
-   "fetchedAt": "2026-10-15T17:22:00+00:00",
-   "company": "Anthropic"
-  },
   {
    "id": "auto-c29d43bb899b",
    "tab": "ai",
@@ -60,26 +20,6 @@
    "translated": false,
    "fetchedAt": "2026-10-15T17:22:00+00:00",
    "company": "NVIDIA"
-  },
-  {
-   "id": "auto-cbc7643dde66",
-   "tab": "ai",
-   "date": "2026-10-15",
-   "publishedAt": "2026-10-15T16:08:03+00:00",
-   "type": "product",
-   "importance": 1,
-   "sourceType": "official",
-   "sourceName": "Google DeepMind Blog",
-   "url": "https://deepmind.google/blog/accelerating-antimicrobial-discovery/",
-   "originalTitle": "Accelerating the search for antimicrobial peptides with Google Antigravity",
-   "en": {
-    "title": "Accelerating the search for antimicrobial peptides with Google Antigravity",
-    "summary": "Accelerating the search for novel antimicrobial peptides using Google Antigravity for Science.",
-    "details": "Accelerating the search for novel antimicrobial peptides using Google Antigravity for Science."
-   },
-   "translated": false,
-   "fetchedAt": "2026-10-15T16:10:17+00:00",
-   "company": "Google"
   },
   {
    "id": "auto-44b43cd3d8ff",
