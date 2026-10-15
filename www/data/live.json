@@ -1,43 +1,4 @@
 {
- "updatedAt": "2026-10-14T23:56:18+00:00",
- "items": [
-  {
-   "id": "auto-f4f3b5abac73",
-   "tab": "star-citizen",
-   "date": "2026-10-14",
-   "publishedAt": "2026-10-14T16:51:33+00:00",
-   "type": "development",
-   "importance": 1,
-   "sourceType": "official",
-   "sourceName": "RSI Comm-Link",
-   "url": "https://robertsspaceindustries.com/comm-link/transmission/21381-Star-Citizen-Behind-The-Ships-RSI-Constellation-Mk-V-Centaurus-Video",
-   "originalTitle": "Star Citizen | Behind the Ships: RSI Constellation Mk V Centaurus : Video",
-   "en": {
-    "title": "Star Citizen | Behind the Ships: RSI Constellation Mk V Centaurus : Video",
-    "summary": "It’s the Conny, but it’s not… but it is! The Mk IV’s better and the Mk V’s bigger. A next-generation-iteration-combination, with every bit of legacy-inspired spirit reimagined for today. The watchword is ‘versatile!’",
-    "details": "It’s the Conny, but it’s not… but it is! The Mk IV’s better and the Mk V’s bigger. A next-generation-iteration-combination, with every bit of legacy-inspired spirit reimagined for today. The watchword is ‘versatile!’"
-   },
-   "translated": false,
-   "fetchedAt": "2026-10-14T16:51:33+00:00"
-  },
-  {
-   "id": "auto-345fc2f0559d",
-   "tab": "star-citizen",
-   "date": "2026-10-14",
-   "publishedAt": "2026-10-14T16:11:20+00:00",
-   "type": "ship",
-   "importance": 1,
-   "sourceType": "official",
-   "sourceName": "RSI Comm-Link",
-   "url": "https://robertsspaceindustries.com/comm-link/engineering/21377-Q-A-RSI-Constellation-Mk-V-Centaurus",
-   "originalTitle": "Q&A: RSI Constellation Mk V Centaurus",
-   "en": {
-    "title": "Q&A: RSI Constellation Mk V Centaurus",
-    "summary": "We asked the Vehicle and Gameplay teams a few questions about this new RSI multi-role, multi-crew ship. Here are the answers, straight from the devs themselves.",
-    "details": "We asked the Vehicle and Gameplay teams a few questions about this new RSI multi-role, multi-crew ship. Here are the answers, straight from the devs themselves."
-   },
-   "translated": false,
-   "fetchedAt": "2026-10-14T16:11:20+00:00"
-  }
- ]
+ "updatedAt": "2026-10-15T00:21:32+00:00",
+ "items": []
 }
