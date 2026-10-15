@@ -1,6 +1,26 @@
 {
- "updatedAt": "2026-10-15T15:39:33+00:00",
+ "updatedAt": "2026-10-15T16:10:22+00:00",
  "items": [
+  {
+   "id": "auto-cbc7643dde66",
+   "tab": "ai",
+   "date": "2026-10-15",
+   "publishedAt": "2026-10-15T16:08:03+00:00",
+   "type": "product",
+   "importance": 1,
+   "sourceType": "official",
+   "sourceName": "Google DeepMind Blog",
+   "url": "https://deepmind.google/blog/accelerating-antimicrobial-discovery/",
+   "originalTitle": "Accelerating the search for antimicrobial peptides with Google Antigravity",
+   "en": {
+    "title": "Accelerating the search for antimicrobial peptides with Google Antigravity",
+    "summary": "Accelerating the search for novel antimicrobial peptides using Google Antigravity for Science.",
+    "details": "Accelerating the search for novel antimicrobial peptides using Google Antigravity for Science."
+   },
+   "translated": false,
+   "fetchedAt": "2026-10-15T16:10:17+00:00",
+   "company": "Google"
+  },
   {
    "id": "auto-9f851e14fd10",
    "tab": "ai",
