@@ -1,6 +1,26 @@
 {
- "updatedAt": "2026-10-15T13:12:49+00:00",
+ "updatedAt": "2026-10-15T13:56:03+00:00",
  "items": [
+  {
+   "id": "auto-f2c18060258b",
+   "tab": "ai",
+   "date": "2026-10-15",
+   "publishedAt": "2026-10-15T09:08:45+00:00",
+   "type": "product",
+   "importance": 1,
+   "sourceType": "official",
+   "sourceName": "Hugging Face Blog",
+   "url": "https://huggingface.co/blog/swiss-ai/apertus-v15-release-notes",
+   "originalTitle": "Apertus 1.5 Release Notes",
+   "en": {
+    "title": "Apertus 1.5 Release Notes",
+    "summary": "Apertus 1.5 Release Notes",
+    "details": ""
+   },
+   "translated": false,
+   "fetchedAt": "2026-10-15T13:55:58+00:00",
+   "company": "Hugging Face"
+  },
   {
    "id": "auto-6ced9f5823a7",
    "tab": "ai",
