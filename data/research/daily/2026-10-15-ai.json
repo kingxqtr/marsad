@@ -83,6 +83,27 @@
         "details": "The Swiss AI Initiative released Apertus 1.5, an update to its Apertus family of fully open models, which the project describes as open in weights, training data and governance values alike.\n\nThe update adds multimodal input: both the 8B and 70B models can now take images and audio alongside text, though audio support remains experimental and outputs stay text-only. Apertus 1.5 also adds an optional thinking mode that lets the model reason step by step before answering, and extends the context window to 262,144 tokens, four times the original Apertus 1.0 models. Instruction-following and tool use are also improved.\n\nThe Swiss AI Initiative says Apertus 1.5 still trails frontier open-weight models overall, but that its 8B model leads similarly sized open-weight models on instruction-following and multilingual benchmarks. The weights are released under an Apache 2.0 license."
       }
     }
+    ,
+    {
+      "id": "github-agentic-autofix-code-scanning-ga",
+      "date": "2026-10-15",
+      "type": "coding",
+      "importance": 2,
+      "sourceType": "official",
+      "sourceName": "GitHub Changelog",
+      "url": "https://github.blog/changelog/2026-10-15-agentic-autofix-for-code-scanning-alerts-general-availability",
+      "company": "GitHub",
+      "ar": {
+        "title": "جيت هاب تطرح الإصلاح التلقائي الوكيلي لتنبيهات فحص الكود بشكل عام",
+        "summary": "أصبحت ميزة الإصلاح التلقائي الوكيلي لتنبيهات فحص الكود في جيت هاب متاحة للجميع، حيث يستكشف Copilot الملفات ذات الصلة ويقترح إصلاحاً ويتحقق منه قبل فتح طلب سحب.",
+        "details": "أعلنت جيت هاب أن ميزة 'الإصلاح التلقائي الوكيلي' لتنبيهات فحص الكود (code scanning) أصبحت متاحة عمومًا بعد مرحلة المعاينة. عند إسناد تنبيه إلى Copilot، يستكشف الوكيل الملفات ذات الصلة في المستودع بالطريقة نفسها التي يعمل بها مطوّر بشري، ثم يقترح إصلاحًا ويعيد تشغيل أداة CodeQL للتأكد من أن الإصلاح يغلق التنبيه فعليًا قبل فتح طلب سحب جاهز للمراجعة.\n\nيتضمن طلب السحب الناتج ملخصًا للإصلاح وسبب إغلاقه للتنبيه وخطوات التحقق التي اتخذها Copilot، ويمكن لاحقًا توجيه تعليمات إضافية عبر التعليق على الطلب أو من تبويب Agents في المستودع. كما يمكن إسناد حتى 25 تنبيهًا دفعة واحدة، أو إسنادها عبر واجهة REST البرمجية.\n\nتتوفر الميزة لعملاء GitHub Code Security وGitHub Advanced Security على GitHub Enterprise Cloud، بما في ذلك نسخة الإقامة السيادية للبيانات (data residency)."
+      },
+      "en": {
+        "title": "GitHub's agentic autofix for code scanning alerts reaches general availability",
+        "summary": "GitHub's agentic autofix for code scanning alerts is now generally available: Copilot explores relevant files, proposes a fix, and reruns CodeQL to confirm it before opening a pull request.",
+        "details": "GitHub announced that agentic autofix for code scanning alerts has moved from preview to general availability. When a code scanning alert is assigned to Copilot, it explores relevant files across the codebase the way a developer would, proposes a fix, and reruns CodeQL to confirm the fix actually closes the alert before opening a draft pull request for review.\n\nThe resulting pull request includes a summary of the fix, why it closes the alert, and the validation steps Copilot took. Reviewers can ask for further changes by commenting on the pull request or using the repository's Agents tab. Up to 25 alerts can be assigned at once, or assigned programmatically through the REST API.\n\nThe feature is available to GitHub Code Security and GitHub Advanced Security customers on GitHub Enterprise Cloud, including the data-residency version."
+      }
+    }
   ],
   "upcoming": [],
   "removeUpcoming": [],
