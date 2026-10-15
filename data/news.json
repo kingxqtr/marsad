@@ -1,9 +1,9 @@
 {
  "version": 1,
- "updatedAt": "2026-10-14T23:10:02+00:00",
+ "updatedAt": "2026-10-15T00:10:28+00:00",
  "coverage": {
-  "from": "2026-07-14",
-  "to": "2026-10-14"
+  "from": "2026-07-15",
+  "to": "2026-10-15"
  },
  "tabs": {
   "once-human": {
@@ -619,33 +619,6 @@
     }
    ],
    "upcoming": [
-    {
-     "id": "oh-upcoming-golden-autumn-events",
-     "date": "2026-09-29",
-     "type": "event",
-     "importance": 1,
-     "sourceType": "official",
-     "sourceName": "Once Human — Official Website",
-     "url": "https://www.oncehuman.game/news/update/20260924/40780_1315053.html",
-     "originalTitle": "",
-     "endDate": "2026-10-14",
-     "dateConfidence": "confirmed",
-     "ar": {
-      "title": "فعاليتا Golden Autumn Harvest وFrames of Wonder مستمرتان حتى 14 أكتوبر",
-      "summary": "فعاليتان محدودتان في Once Human تقدمان مكافآت دخول يومية ومهام تصوير حتى 14 أكتوبر بتوقيت الخوادم.",
-      "details": "تستمر فعاليتا Golden Autumn Harvest وFrames of Wonder من 29 سبتمبر حتى 14 أكتوبر بتوقيت الخوادم، بالتزامن مع تحديث 3.0.7.\n\nتمنح Golden Autumn Harvest ورقة Golden Leaf واحدة يوميًا الساعة 6:00 صباحًا بتوقيت الخادم، يمكن استبدالها بأزياء أسلحة دائمة ومكافآت موسمية أخرى مقابل تسجيل الدخول المنتظم.\n\nأما Frames of Wonder فهي فعالية تصوير يومية: إتمام مهمة تصوير كل يوم يفتح خطوة جديدة في تقويم الفعالية، وصولًا إلى وصفات صناعة محدودة حصرية على الفعالية.",
-      "location": "خوادم Once Human (عالميًا)",
-      "dateNote": "تبدأ المكافآت اليومية الساعة 6:00 صباحًا بتوقيت الخادم وتستمر حتى 14 أكتوبر."
-     },
-     "en": {
-      "title": "Golden Autumn Harvest and Frames of Wonder events run until October 14",
-      "summary": "Once Human's two limited-time autumn events give daily login rewards and photo-based tasks through October 14 (server time).",
-      "details": "Golden Autumn Harvest and Frames of Wonder run from September 29 to October 14, server time, alongside the version 3.0.7 update.\n\nGolden Autumn Harvest hands players one Golden Leaf at 6:00 AM server time each day, which can be traded for permanent weapon cosmetics and other seasonal rewards for logging in regularly.\n\nFrames of Wonder is a daily photo check-in event: completing a photo task each day unlocks a new step in the event calendar, eventually revealing limited-time crafting recipes exclusive to the event.",
-      "location": "Once Human servers (worldwide)",
-      "dateNote": "Daily rewards refresh at 6:00 AM server time and continue through October 14."
-     },
-     "addedAt": "2026-09-28T21:12:40+00:00"
-    },
     {
      "id": "oh-upcoming-custom-server-revenue-carnival",
      "date": "2026-10-01",
@@ -5815,28 +5788,6 @@
       "details": "Lovable announced on 15 July that apps built on its platform can work inside ChatGPT and Claude through agent integrations based on the Model Context Protocol (MCP).\n\nWhen a user asks one of these assistants to do something, it connects to the app's MCP server and reads a plain-language list of what the app can do. It can then fetch information or carry out actions, for example submitting an expense, creating a quote or producing a report.\n\n- Available for any publicly published Lovable app; the builder asks Lovable to switch it on.\n- Lovable suggests which actions to expose, and the builder can narrow the scope and access.\n- Servers require sign-in through OAuth by default and are security-checked when published.\n- Lovable hosts the server and keeps it in sync as the app changes."
      },
      "addedAt": "2026-07-15T23:59:59+00:00"
-    },
-    {
-     "id": "us-bis-uae-country-group-a5-g42-core42",
-     "date": "2026-07-14",
-     "type": "policy",
-     "importance": 3,
-     "sourceType": "official",
-     "sourceName": "Federal Register — US Bureau of Industry and Security",
-     "url": "https://www.federalregister.gov/documents/2026/07/14/2026-14132/enhanced-favorable-treatment-for-the-united-arab-emirates-under-the-export-administration",
-     "originalTitle": "Enhanced Favorable Treatment for the United Arab Emirates Under the Export Administration Regulations",
-     "company": "US Department of Commerce (BIS)",
-     "ar": {
-      "title": "واشنطن تخفف قيود تصدير رقائق الذكاء الاصطناعي إلى الإمارات وتعتمد G42 وCore42",
-      "summary": "نقلت قاعدة أمريكية جديدة الإمارات إلى مجموعة الدول A:5 إلى جانب أقرب حلفاء واشنطن، وسمحت للحكومة الإماراتية وG42 وCore42 بتلقي رقائق الذكاء الاصطناعي المتقدمة دون تراخيص فردية.",
-      "details": "نشر مكتب الصناعة والأمن (BIS) التابع لوزارة التجارة الأمريكية في 14 يوليو قاعدة نهائية، نافذة منذ 10 يوليو، تمنح الإمارات معاملة أكثر تفضيلاً في ضوابط التصدير الأمريكية.\n\nما الذي تغيّر:\n- انتقلت الإمارات من المجموعتين D:3 وD:4 إلى المجموعة A:5 التي تضم أساساً أقرب حلفاء الولايات المتحدة، ما يتيح استثناءات ترخيص أوسع.\n- باتت الجهات الحكومية الإماراتية وG42 وCore42 قادرة على تلقي رقائق وأنظمة الحوسبة المتقدمة دون ترخيص، وفق إطار التعاون الأمريكي الإماراتي في الذكاء الاصطناعي الموقع في مايو 2025.\n- نالت Amazon وApple وGoogle وMeta وMicrosoft وOpenAI وOracle وxAI وفروعها في الإمارات الموافقة نفسها.\n\nلكن هناك مهلة: ما لم يقرر المكتب خلاف ذلك، ينتهي إعفاء G42 وCore42 في 6 أبريل 2027، وإذا لم تصبح الشركتان أمريكيتين بحلول ذلك الموعد فعليهما التقدم بطلب جديد. كما سينظر المكتب بإيجابية في طلبات تصدير الرقائق والخوادم المتعلقة بشركة MGX الإماراتية. ورحبت G42 بالقرار بوصفه محطة مهمة في الشراكة التقنية بين البلدين."
-     },
-     "en": {
-      "title": "US eases AI-chip export rules for the UAE and clears G42 and Core42",
-      "summary": "A new US rule moves the UAE into Country Group A:5 alongside close allies and lets the UAE government, G42 and Core42 receive advanced AI chips without individual licences.",
-      "details": "The US Commerce Department's Bureau of Industry and Security (BIS) published a final rule on July 14, effective from July 10, giving the United Arab Emirates much more favourable treatment under US export controls.\n\nWhat changes:\n- The UAE moves from Country Groups D:3 and D:4 into A:5, a group made up largely of close US allies, opening up more licence exceptions.\n- UAE government bodies, G42 and Core42 can now receive advanced AI chips and computing systems licence-free, in line with the May 2025 US-UAE AI cooperation framework.\n- Amazon, Apple, Google, Meta, Microsoft, OpenAI, Oracle and xAI, and their UAE subsidiaries, got the same approval.\n\nThere is a clock: unless BIS says otherwise, G42's and Core42's licence-free status expires on April 6, 2027, and if they have not become US companies by then they must reapply. BIS also said it will look favourably on chip and server export requests involving UAE-based MGX. G42 welcomed the decision as a milestone for the US-UAE technology partnership."
-     },
-     "addedAt": "2026-07-14T23:59:59+00:00"
     }
    ],
    "upcoming": [
