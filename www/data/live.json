@@ -1,6 +1,26 @@
 {
- "updatedAt": "2026-10-15T19:35:35+00:00",
+ "updatedAt": "2026-10-15T20:03:06+00:00",
  "items": [
+  {
+   "id": "auto-8ab81af0d39b",
+   "tab": "ai",
+   "date": "2026-10-15",
+   "publishedAt": "2026-10-15T19:35:13+00:00",
+   "type": "coding",
+   "importance": 1,
+   "sourceType": "official",
+   "sourceName": "GitHub Changelog",
+   "url": "https://github.blog/changelog/2026-10-15-upcoming-deprecation-of-selected-github-copilot-models-in-mid-november",
+   "originalTitle": "Upcoming deprecation of selected GitHub Copilot models in mid-November",
+   "en": {
+    "title": "Upcoming deprecation of selected GitHub Copilot models in mid-November",
+    "summary": "We will deprecate the following models across all GitHub Copilot experiences (including Copilot Chat, inline edits, ask and agent modes, and code completions) on November 16th, 2026: Model Deprecation date Suggested alternative Claude Opus …",
+    "details": "We will deprecate the following models across all GitHub Copilot experiences (including Copilot Chat, inline edits, ask and agent modes, and code completions) on November 16th, 2026:\n\nModel\nDeprecation date\nSuggested alternative\n\nClaude Opus 4.8*\n2026-11-16\nClaude Opus 5.5\n\nClaude Opus 5\n2026-11-16\nClaude Opus 5.5\n\nGPT-5.6 Terra\n2026-11-16\nGPT-6.1 Sol or GPT-6 Luna\n\n*Claude Opus 4.8 will remain available to individual GitHub Copilot subscribers on annual plans so they retain an Opus offering. The deprecation of Claude Opus 4.8 does not apply to these customers.\n\nPlease update your workflows and integrations to use the supported models before this date. Under default model enablement, the suggested alternatives are automatically enabled for Copilot Enterprise and Copilot Business customers unless an administrator has turned off the global default or explicitly disabled the model. If you’ve turned off the global default, you can enable access to the alternative models through their model policies in Copilot settings.\n\nOnce enabled, users will see the model in the Copilot Chat model selector in supported GitHub Copilot experiences.\n\nNo action is required to remove the models after they have been deprecated.\n\nGitHub Enterprise customers with questions or concerns are encouraged to contact their account team for assistance.\n\nShare your feedback\n\nTo learn more about the models available in Copilot, see our documentation on supported models . …"
+   },
+   "translated": false,
+   "fetchedAt": "2026-10-15T20:03:00+00:00",
+   "company": "GitHub"
+  },
   {
    "id": "auto-c29d43bb899b",
    "tab": "ai",
