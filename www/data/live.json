@@ -1,6 +1,26 @@
 {
- "updatedAt": "2026-10-15T17:22:05+00:00",
+ "updatedAt": "2026-10-15T17:54:55+00:00",
  "items": [
+  {
+   "id": "auto-dde8b65065e5",
+   "tab": "ai",
+   "date": "2026-10-15",
+   "publishedAt": "2026-10-15T00:00:00+00:00",
+   "type": "model",
+   "importance": 1,
+   "sourceType": "official",
+   "sourceName": "Hugging Face Blog",
+   "url": "https://huggingface.co/blog/meta-muse-spark-open",
+   "originalTitle": "Welcome Muse Spark Open: open-weight frontier multimodal mixture-of-experts model from Meta",
+   "en": {
+    "title": "Welcome Muse Spark Open: open-weight frontier multimodal mixture-of-experts model from Meta",
+    "summary": "Welcome Muse Spark Open: open-weight frontier multimodal mixture-of-experts model from Meta",
+    "details": ""
+   },
+   "translated": false,
+   "fetchedAt": "2026-10-15T17:54:50+00:00",
+   "company": "Hugging Face"
+  },
   {
    "id": "auto-2ea302ed111c",
    "tab": "ai",
