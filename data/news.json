@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": "2026-10-15T20:09:11+00:00",
+ "updatedAt": "2026-10-15T21:16:43+00:00",
  "coverage": {
   "from": "2026-07-15",
   "to": "2026-10-15"
@@ -1706,6 +1706,96 @@
      "addedAt": "2026-10-15T18:11:06+00:00"
     },
     {
+     "id": "cohere-aisle-acquisition-letter-of-intent",
+     "date": "2026-10-15",
+     "type": "business",
+     "importance": 2,
+     "sourceType": "official",
+     "sourceName": "Cohere Blog",
+     "url": "https://cohere.com/blog/cohere-and-aisle-sign-letter-of-intent-to-advance-cyber-resilient-sovereign-ai",
+     "originalTitle": "Cohere and AISLE sign letter of intent to advance cyber-resilient sovereign AI",
+     "company": "Cohere",
+     "ar": {
+      "title": "Cohere توقع نية شراء AISLE وتؤسس وحدة Cohere Cyber للأمن السيبراني",
+      "summary": "وقّعت Cohere خطاب نوايا للاستحواذ على شركة اكتشاف الثغرات AISLE، وستُنشئ وحدة جديدة باسم Cohere Cyber يقودها مؤسسو AISLE الثلاثة.",
+      "details": "أعلنت Cohere توقيع خطاب نوايا للاستحواذ على AISLE، شركة تأسست عام 2024 وتبني أنظمة ذكاء اصطناعي مستقلة تكتشف ثغرات أمنية غير معروفة سابقًا في برمجيات الإنتاج وتساعد على إصلاحها. تقول Cohere إن AISLE اكتشفت في عامها الأول أكثر من 500 ثغرة حصلت على معرّفات CVE في أكثر من 100 قاعدة شيفرة، من بينها جميع الثغرات الاثنتي عشرة في إصدار يناير الأمني لمكتبة OpenSSL و18 من أصل 24 ثغرة في أحدث إصدار لأداة curl.\n\nبموجب الصفقة، التي لم تُكشف شروطها المالية، سينضم فريق AISLE إلى Cohere، وستُنشئ الشركة وحدة جديدة باسم Cohere Cyber لقيادة أعمالها في مجال الأمن السيبراني. سيتولى مؤسسو AISLE الثلاثة مناصب قيادية: أوندريه فلتشيك نائبًا أول للرئيس لوحدة Cohere Cyber، وجايا بالو مسؤولة أولى لأمن المعلومات في Cohere، وستانيسلاف فورت نائبًا للرئيس لأمن الذكاء الاصطناعي.\n\nتخطط Cohere أيضًا لاستثمار طويل الأمد في براغ، حيث تتمركز AISLE أصلاً، لتجعل منها مركزًا عالميًا لأمن الذكاء الاصطناعي السيبراني. وتأتي هذه الصفقة بعد استحواذي Cohere السابقين على Reliant AI وAleph Alpha، في إطار توسّع الشركة في أوروبا والأمن السيبراني السيادي."
+     },
+     "en": {
+      "title": "Cohere signs letter of intent to acquire AISLE, forms Cohere Cyber unit",
+      "summary": "Cohere signed a letter of intent to acquire vulnerability-research startup AISLE and will form a new Cohere Cyber unit led by AISLE's three founders.",
+      "details": "Cohere announced a letter of intent to acquire AISLE, a company founded in 2024 that builds autonomous AI systems to find, validate and help fix previously unknown vulnerabilities in production software. Cohere says that in its first year out of stealth, AISLE discovered more than 500 vulnerabilities that received CVE identifiers across over 100 codebases, including all 12 vulnerabilities in OpenSSL's January security release and 18 of the 24 CVEs in curl's latest release.\n\nUnder the proposed deal, whose financial terms were not disclosed, AISLE's team will join Cohere, which will form a new unit called Cohere Cyber to lead its cybersecurity business. AISLE's three founders will take leadership roles: Ondrej Vlcek as Senior Vice President of Cohere Cyber, Jaya Baloo as Cohere's Chief Information Security Officer, and Stanislav Fort as Vice President of AI Security.\n\nCohere also plans a long-term investment in Prague, where AISLE is already based, aiming to make it a global hub for AI cybersecurity. The deal follows Cohere's earlier acquisitions of Reliant AI and Aleph Alpha, continuing a push into Europe and into sovereign, security-focused AI."
+     },
+     "addedAt": "2026-10-15T21:16:43+00:00"
+    },
+    {
+     "id": "granite-switch-4-1-release",
+     "date": "2026-10-15",
+     "type": "model",
+     "importance": 2,
+     "sourceType": "official",
+     "sourceName": "Hugging Face Blog",
+     "url": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1",
+     "originalTitle": "Granite Switch 4.1: Chat, Decisions, and Speech from One Endpoint",
+     "company": "IBM",
+     "tool": "Granite Switch 4.1",
+     "ar": {
+      "title": "IBM تطلق Granite Switch 4.1 بمحادثة وقرارات وصوت من نقطة واحدة",
+      "summary": "أصدرت IBM طرازين من Granite Switch 4.1 بحجمي 8 و30 مليار معامل يجمعان المحادثة واتخاذ القرار والتعرف على الكلام في نشر واحد دون زيادة استهلاك الذاكرة.",
+      "details": "أطلقت IBM عائلة Granite Switch 4.1 بنسختين: 8B و30B. يضم كل طراز، إلى جانب النموذج الأساسي للمحادثة، وحدة تكيّف إضافية (aLoRA) عامة لاتخاذ القرارات، ووحدة أخرى متخصصة باسم Guardian للقرارات المتعلقة بالسلامة، ونموذجًا مدمجًا للتعرف على الكلام وتحويله إلى نص يُدعى Granite-Speech-5.0-Turbo-CTC. وتؤكد IBM أن هذا كله يعمل ضمن نفس حجم ذاكرة الوحدة الرسومية التي يحتاجها النموذج الأساسي وحده.\n\nالفكرة التقنية هي أن وحدات aLoRA تعيد استخدام ذاكرة التخزين المؤقت (KV cache) من توليد النموذج الأساسي، ما يسمح بالتبديل السريع بين أنواع الطلبات (محادثة، قرار، صوت) دون الحاجة إلى تشغيل نماذج منفصلة لكل مهمة.\n\n- تقول IBM إن وحدة Guardian تتفوق في المتوسط على عدة نماذج منافسة في مهام القرارات المتعلقة بالسلامة\n- تصف نموذج الكلام بأنه الأسرع على لوحة OpenASR للتصنيف\n- في اختبار داخلي أنجز الطراز 30B مهمة بحث واسترجاع من خمس خطوات أسرع من نموذج منافس بحجم 27B\n- في عرض تجريبي داخل لعبة Doom، اتخذ طراز مصغر بحجم 3B من 60 إلى 100 قرار في الثانية مقابل 10 قرارات فقط لنموذج منافس، بحسب أرقام ذكرتها IBM نفسها"
+     },
+     "en": {
+      "title": "IBM's Granite Switch 4.1 bundles chat, decisions and speech in one model",
+      "summary": "IBM released Granite Switch 4.1 in 8B and 30B sizes, pairing a base chat model with decision-making and safety adapters plus a built-in speech model, served from one endpoint.",
+      "details": "IBM released the Granite Switch 4.1 family in two sizes, 8B and 30B. Each bundles a base chat model with a general-purpose \"Decision\" adapter (aLoRA), a specialized \"Guardian\" adapter for safety-related decisions, and an embedded speech-recognition model called Granite-Speech-5.0-Turbo-CTC. IBM says all of this fits within roughly the same GPU memory footprint as the base model alone.\n\nThe technical trick is that these Activated LoRA adapters reuse the key-value cache from the base model's own generation, letting the system switch quickly between chat, decision and speech requests instead of running separate models for each task.\n\n- IBM says the Guardian adapter beats several rival models on average for safety-related decision tasks\n- The bundled speech model is described as the fastest on the OpenASR leaderboard\n- In an internal test, the 30B model finished a five-step retrieval workflow faster than a 27B rival model\n- In a Doom-playing demo, a smaller 3B variant reportedly made 60 to 100 decisions per second versus about 10 for a competing model, figures reported by IBM itself"
+     },
+     "addedAt": "2026-10-15T21:16:43+00:00"
+    },
+    {
+     "id": "mistral-timestral-time-series-models",
+     "date": "2026-10-15",
+     "type": "model",
+     "importance": 2,
+     "sourceType": "official",
+     "sourceName": "Mistral AI — News",
+     "url": "https://mistral.ai/news/timestral",
+     "originalTitle": "Introducing Timestral",
+     "company": "Mistral AI",
+     "tool": "Timestral",
+     "ar": {
+      "title": "Mistral تطلق Timestral، أول عائلة نماذج لديها متخصصة بالسلاسل الزمنية",
+      "summary": "كشفت Mistral عن Timestral، عائلة من أربعة نماذج مفتوحة (من 5 إلى 209 ملايين معامل) للتنبؤ بالسلاسل الزمنية في الشركات دون الحاجة لتدريب خاص بكل عميل.",
+      "details": "قدّمت Mistral عائلة Timestral، أول نماذجها المخصصة للتنبؤ الاحتمالي بسلاسل زمنية متعددة المتغيرات، مثل بيانات أجهزة الاستشعار والطاقة وسلاسل التوريد والبيانات المالية. تضم العائلة أربعة أحجام تشترك في نفس البنية: 5 و28 و123 و209 ملايين معامل، بسياق يصل إلى 32768 خطوة زمنية.\n\nتعتمد النماذج على تقنية أسمتها Mistral \"التنبؤ بالأفق المنفصل\"، حيث يبقى التاريخ الكامل ضمن التسلسل وتُستخدم رموز تنبؤ متعلمة، إلى جانب آلية انتباه تراعي نوع كل سلسلة (هدف، أو عامل مساعد من الماضي، أو عامل مساعد معروف مستقبلاً). دُرّبت النماذج أولاً على بيانات اصطناعية بسياق أقصر، ثم على مزيج من بيانات حقيقية واصطناعية بسياق أطول بأربع مرات.\n\n- تقول Mistral إن أكبر نموذج في العائلة يتصدر دون أي تدريب إضافي معايير GIFT-Eval وTIME وfev-bench\n- يمكن نشر النماذج محليًا أو في شبكة خاصة أو في بيئة معزولة تمامًا عن الإنترنت\n- يمكن للعملاء ضبط النماذج على بياناتهم الخاصة عبر منصة Mistral Forge\n- صدرت النماذج برخصة MIT معدّلة"
+     },
+     "en": {
+      "title": "Mistral launches Timestral, its first dedicated time-series model family",
+      "summary": "Mistral introduced Timestral, four open time-series forecasting models (5M to 209M parameters) built for zero-shot enterprise forecasting on sensor, energy and finance data.",
+      "details": "Mistral launched Timestral, its first family of foundation models dedicated to probabilistic, multivariate time-series forecasting, aimed at enterprise data such as sensor telemetry, energy usage, supply chains and finance. The family has four sizes sharing one architecture: 5M, 28M, 123M and 209M parameters, with a context of up to 32,768 time steps.\n\nThe models use what Mistral calls \"Decoupled Horizon Forecasting,\" which keeps the full history in the sequence and relies on learned forecast tokens, combined with an attention mechanism that treats each series as a target, a past-only helper series, or a known-future helper series. Training happened in two stages: first mostly on synthetic data with a shorter context, then on a mix of real and synthetic data with four times the context length.\n\n- Mistral says its largest model ranks first, zero-shot, on the GIFT-Eval, TIME and fev-bench forecasting benchmarks\n- The models can run on-premises, in a private cloud, or fully air-gapped\n- Customers can fine-tune them on their own data through Mistral's Forge platform\n- They are released under a modified MIT license"
+     },
+     "addedAt": "2026-10-15T21:16:43+00:00"
+    },
+    {
+     "id": "simons-foundation-anthropic-openai-ai-math-grants",
+     "date": "2026-10-15",
+     "type": "business",
+     "importance": 2,
+     "sourceType": "official",
+     "sourceName": "Simons Foundation",
+     "url": "https://www.simonsfoundation.org/news/simons-foundation-launches-15m-effort-to-help-mathematicians-navigate-ai-era/",
+     "originalTitle": "Simons Foundation Launches $15M Effort to Help Mathematicians Navigate AI Era",
+     "company": "Simons Foundation",
+     "ar": {
+      "title": "Simons Foundation وAnthropic وOpenAI يطلقون مبادرة بـ15 مليون دولار لرياضيين",
+      "summary": "أعلنت مؤسسة Simons مبادرة بقيمة 15 مليون دولار بتمويل وموارد من Anthropic وOpenAI لمساعدة علماء الرياضيات على التحقق من نتائج الذكاء الاصطناعي وتبنّي أدواته بثقة.",
+      "details": "أطلقت مؤسسة Simons، بدعم مالي وحوسبي من Anthropic وOpenAI، مبادرة بقيمة 15 مليون دولار لمساعدة مجتمع الرياضيات على التكيف مع دخول أدوات الذكاء الاصطناعي إلى مجال بحثهم. ستتولى المؤسسة إدارة الأموال وتوزيعها، بما في ذلك عبر دعوة مفتوحة لتقديم مقترحات لتمويل ورشات عمل ومبادرات بحثية.\n\nتهدف المبادرة إلى مساعدة الباحثين على التحقق من النتائج التي تنتجها أدوات الذكاء الاصطناعي، وتعلم استخدام هذه الأدوات بفعالية، وتبادل الآراء حول تأثيرها، ووضع معايير مشتركة لاستخدامها في الرياضيات. كما ستوفر Anthropic وOpenAI أدوات ذكاء اصطناعي وموارد حوسبة للباحثين المدعومين من المؤسسة، بما يتجاوز الرياضيات إلى مجالات العلوم الأساسية الأخرى.\n\nونقل الإعلان عن رئيس المؤسسة ديفيد شبرغل قوله إن النقاش حول كيفية تقييم هذه الأدوات واعتمادها واستخدامها يجب أن يقوده المجتمع العلمي نفسه، لا شركة أو مؤسسة واحدة بمفردها، وهو ما يجعل الشراكة بين مؤسسة بحثية مستقلة وشركتي ذكاء اصطناعي كبريين أمرًا لافتًا."
+     },
+     "en": {
+      "title": "Simons Foundation, Anthropic and OpenAI launch $15M grant for mathematicians",
+      "summary": "The Simons Foundation launched a $15 million initiative, funded and resourced with Anthropic and OpenAI, to help mathematicians check AI-assisted results and adopt AI tools responsibly.",
+      "details": "The Simons Foundation, with funding and computing resources from Anthropic and OpenAI, launched a $15 million initiative to help the mathematics community navigate the arrival of AI tools in research. The Foundation will manage and distribute the funds itself, including through an open call for proposals supporting workshops and research initiatives.\n\nThe effort aims to help mathematicians verify AI-assisted results, learn to use these tools effectively, share perspectives on their impact, and develop shared standards for using AI in mathematics. Anthropic and OpenAI will also provide AI tools and computing resources to researchers the Foundation supports, extending beyond mathematics into other areas of basic science.\n\nFoundation president David Spergel said the community, rather than any single company or institution, should drive decisions about how these tools are evaluated, adopted and used — a notable framing for a deal that pairs an independent research foundation with two of the leading AI labs."
+     },
+     "addedAt": "2026-10-15T21:16:43+00:00"
+    },
+    {
      "id": "nvidia-nemotron-bolt-3-5-74b",
      "date": "2026-10-15",
      "type": "model",
@@ -1863,6 +1953,28 @@
       "details": "The Swiss AI Initiative released Apertus 1.5, an update to its Apertus family of fully open models, which the project describes as open in weights, training data and governance values alike.\n\nThe update adds multimodal input: both the 8B and 70B models can now take images and audio alongside text, though audio support remains experimental and outputs stay text-only. Apertus 1.5 also adds an optional thinking mode that lets the model reason step by step before answering, and extends the context window to 262,144 tokens, four times the original Apertus 1.0 models. Instruction-following and tool use are also improved.\n\nThe Swiss AI Initiative says Apertus 1.5 still trails frontier open-weight models overall, but that its 8B model leads similarly sized open-weight models on instruction-following and multilingual benchmarks. The weights are released under an Apache 2.0 license."
      },
      "addedAt": "2026-10-15T14:10:23+00:00"
+    },
+    {
+     "id": "nvidia-ec-ai-science-enablers-initiative",
+     "date": "2026-10-15",
+     "type": "business",
+     "importance": 1,
+     "sourceType": "official",
+     "sourceName": "NVIDIA Blog",
+     "url": "https://blogs.nvidia.com/blog/ec-scientific-computing-pledge/",
+     "originalTitle": "NVIDIA Expands Advanced Technology Access for Europe's Scientific Community Through Open Learning Resources, Collaborations and Compute",
+     "company": "NVIDIA",
+     "ar": {
+      "title": "NVIDIA تنضم لمبادرة المفوضية الأوروبية لدعم العلماء بأدوات وحوسبة الذكاء الاصطناعي",
+      "summary": "في قمة الذكاء الاصطناعي للعلوم بدبلن، أطلقت المفوضية الأوروبية مبادرة لتسهيل وصول الباحثين الأوروبيين لأدوات وحوسبة الذكاء الاصطناعي، وانضمت NVIDIA كأحد الشركاء الأوائل.",
+      "details": "أطلقت المفوضية الأوروبية في قمة الذكاء الاصطناعي للعلوم المنعقدة في دبلن مبادرة أسمتها \"ممكّنات الذكاء الاصطناعي في العلوم\"، وهي إطار مرتبط ببرنامج RAISE (مورد الذكاء الاصطناعي للعلوم في أوروبا) يهدف إلى تقريب دعم القطاع الخاص من مجتمع البحث العلمي الأوروبي.\n\nتنضم NVIDIA إلى هذه الحملة بتقديم: الوصول إلى أدوات ونماذج ومنصات معجّلة، وموارد حوسبة وسحابة وبيانات، وتدريب ودعم تقني، ومشاريع تعاونية ودعم للباحثين والمواهب، إضافة إلى دعم الشركات الناشئة وتطوير النظام البيئي.\n\nتستهدف المبادرة بشكل خاص المختبرات الصغيرة والعلماء في بداية مسيرتهم والشركات الناشئة القائمة على العلوم، الذين غالبًا ما يواجهون أكبر عائق قبل البدء بالبحث نفسه: تجميع الأدوات المناسبة، وإيجاد الحوسبة اللازمة، وبناء الخبرة لاستخدام الاثنين معًا."
+     },
+     "en": {
+      "title": "NVIDIA joins EU initiative giving European scientists more AI access",
+      "summary": "At the AI in Science Summit in Dublin, the European Commission launched an initiative to widen researchers' access to AI tools and compute, with NVIDIA as an early industry partner.",
+      "details": "At the AI in Science Summit in Dublin, the European Commission launched the \"AI in Science Enablers Initiative,\" a framework linked to RAISE (Resource for AI Science in Europe) meant to bring private-sector support closer to Europe's research community.\n\nNVIDIA is joining the effort by providing access to accelerated tools, models and platforms; compute, cloud, data and scientific resources; training and technical support; collaborative projects and pilots with researchers; and support for startups and ecosystem development.\n\nThe initiative is aimed particularly at smaller labs, early-career scientists and science-based startups, for whom the hardest part of research is often what comes before the science itself: assembling the right tools, finding compute, and building the expertise to use both."
+     },
+     "addedAt": "2026-10-15T21:16:43+00:00"
     },
     {
      "id": "github-copilot-model-deprecations-november",
