@@ -1,24 +1,64 @@
 {
- "updatedAt": "2026-10-15T15:01:24+00:00",
+ "updatedAt": "2026-10-15T15:39:33+00:00",
  "items": [
   {
-   "id": "auto-77daa80ba38b",
+   "id": "auto-9f851e14fd10",
    "tab": "ai",
    "date": "2026-10-15",
-   "publishedAt": "2026-10-15T13:49:20+00:00",
+   "publishedAt": "2026-10-15T15:00:24+00:00",
+   "type": "hardware",
+   "importance": 1,
+   "sourceType": "official",
+   "sourceName": "NVIDIA Blog",
+   "url": "https://blogs.nvidia.com/blog/nemotron-3-5-super-vl/",
+   "originalTitle": "Open From Data Center to Desktop: NVIDIA Expands Nemotron Family With Highest Efficiency Super VL and Bolt Models",
+   "en": {
+    "title": "Open From Data Center to Desktop: NVIDIA Expands Nemotron Family With Highest Efficiency Super VL and Bolt Models",
+    "summary": "NVIDIA today released Nemotron 3.5 Super VL, an open 120-billion-parameter model that delivers the fastest task completion and highest accuracy for specialized always-on agents.",
+    "details": "NVIDIA today released Nemotron 3.5 Super VL, an open 120-billion-parameter model that delivers the fastest task completion and highest accuracy for specialized always-on agents.\n\nJoining it are two new edge models: Nemotron 3.5 Bolt 74B-A9B 24GB, optimized to balance intelligence and speed per GB for local agentic workloads, and Nemotron 3.5 Bolt E4B 4GB, optimized for intelligence per GB for fast conversational agents.\n\nSuper VL and Bolt 74B-A9B are available now, with Bolt E4B coming Oct. 23.\n\nThe three open models together cover the full range of agent deployments, from large enterprise servers down to edge devices and local hardware.\n\nAny organization that wants to run agents on NVIDIA infrastructure now has an open, optimized model for their tier, without having to choose between capability and deployability.\n\nSuper VL and Bolt join the Nemotron family alongside Lightning and Ultra.\n\nLightning, released in August, handles high-throughput workloads; Ultra handles the hardest reasoning tasks; and Bolt brings intelligence to the edge.\n\nNemotron 3.5 Super VL: Frontier Accuracy at One-Fifth the Size\n\nSuper VL, built in collaboration with the Nemotron Coalition , delivers leading accuracy on multimodal agentic tasks — instruction following, tool use, multistep business workflows, and visual understanding — comparable with NVIDIA’s largest reasoning model at roughly one-fifth the parameter count. …"
+   },
+   "translated": false,
+   "fetchedAt": "2026-10-15T15:39:29+00:00",
+   "company": "NVIDIA"
+  },
+  {
+   "id": "auto-9cb368175a72",
+   "tab": "ai",
+   "date": "2026-10-15",
+   "publishedAt": "2026-10-15T00:00:00+00:00",
+   "type": "media",
+   "importance": 1,
+   "sourceType": "official",
+   "sourceName": "Hugging Face Blog",
+   "url": "https://huggingface.co/blog/flux-3",
+   "originalTitle": "Welcome FLUX.3 Image Klein in Diffusers",
+   "en": {
+    "title": "Welcome FLUX.3 Image Klein in Diffusers",
+    "summary": "Welcome FLUX.3 Image Klein in Diffusers",
+    "details": ""
+   },
+   "translated": false,
+   "fetchedAt": "2026-10-15T15:39:28+00:00",
+   "company": "Hugging Face"
+  },
+  {
+   "id": "auto-e709eb480f6a",
+   "tab": "ai",
+   "date": "2026-10-15",
+   "publishedAt": "2026-10-15T15:04:51+00:00",
    "type": "coding",
    "importance": 1,
    "sourceType": "official",
    "sourceName": "GitHub Changelog",
-   "url": "https://github.blog/changelog/2026-10-15-agentic-autofix-for-code-scanning-alerts-general-availability",
-   "originalTitle": "Agentic autofix for code scanning alerts general availability",
+   "url": "https://github.blog/changelog/2026-10-15-ai-scan-for-pull-requests-generally-available",
+   "originalTitle": "AI Scan for pull requests generally available",
    "en": {
-    "title": "Agentic autofix for code scanning alerts general availability",
-    "summary": "Agentic autofix for code scanning alerts is now generally available.",
-    "details": "Agentic autofix for code scanning alerts is now generally available. It remediates alerts by working across your codebase the way a developer would: it explores relevant files, proposes a fix, and reruns CodeQL to confirm the fix closes the alert before opening a pull request for your review. Agentic autofix is available to GitHub Code Security and GitHub Advanced Security customers on GitHub Enterprise Cloud, including GitHub Enterprise Cloud with data residency.\n\nHow it works\n\nWhen you assign a code scanning alert to Copilot, it:\n\n- Explores relevant files across your codebase.\n\n- Generates a proposed fix.\n\n- Validates the fix works by rerunning CodeQL.\n\n- Iterates if needed, then opens a draft pull request ready for your review.\n\nThe pull request includes a summary of the fix, why it closes the alert, and the validation steps Copilot took to confirm that it works. When the pull request containing the fix is ready, you can instruct Copilot to make further changes to it by commenting on the pull request or interacting with the session in the Agents tab of your repository.\n\nHow to use it\n\nWhen enabled, agentic autofix replaces the free Generate Fix option on individual code scanning alerts with an Assign to Copilot button.\n\nYou can use agentic autofix:\n\n- From any code scanning alert on the repository’s default branch, by assigning the alert to Copilot. …"
+    "title": "AI Scan for pull requests generally available",
+    "summary": "Code scanning AI Scan for pull requests is now generally available.",
+    "details": "Code scanning AI Scan for pull requests is now generally available. It complements CodeQL by finding vulnerabilities in pull request changes for languages and frameworks that CodeQL does not currently cover, including PHP, Shell/Bash, Terraform configuration (HCL), Dockerfiles, JSP for Java, Blazor for C#, and more.\n\nHow it works\n\nAI Scan runs automatically on pull requests when code scanning and the repository’s effective AI Scan setting are enabled. Findings appear alongside CodeQL results on the Conversation and Files changed tabs, with an “AI” indicator to distinguish them from CodeQL alerts. Findings can include an explanation of the security risk and a suggested autofix.\n\nAI Scan findings are advisory. They do not fail the code scanning check and cannot block pull request merges through ruleset requirements. AI Scan does not run on pull requests from forks or pull requests created by Dependabot.\n\nAvailability\n\nAI Scan is available for public repositories owned by organizations or personal accounts. For private and internal organization-owned repositories, GitHub Code Security or GitHub Advanced Security is required. A GitHub Copilot license is not required.\n\nBilling\n\nAI Scan for pull requests consumes Code Security AI Credits. AI Credit usage is displayed in the “AI usage” section of enterprise billing and licensing as the “Advanced Security” product. You can also set SKU-level budgets for Code Security AI Credits. Learn more about usage-based billing . …"
    },
    "translated": false,
-   "fetchedAt": "2026-10-15T14:26:05+00:00",
+   "fetchedAt": "2026-10-15T15:39:28+00:00",
    "company": "GitHub"
   },
   {
