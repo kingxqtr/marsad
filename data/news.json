@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": "2026-10-15T15:10:01+00:00",
+ "updatedAt": "2026-10-15T16:11:29+00:00",
  "coverage": {
   "from": "2026-07-15",
   "to": "2026-10-15"
@@ -1684,6 +1684,29 @@
   "ai": {
    "news": [
     {
+     "id": "nvidia-nemotron-bolt-3-5-74b",
+     "date": "2026-10-15",
+     "type": "model",
+     "importance": 2,
+     "sourceType": "official",
+     "sourceName": "NVIDIA Blog",
+     "url": "https://blogs.nvidia.com/blog/nemotron-3-5-super-vl/",
+     "originalTitle": "",
+     "company": "NVIDIA",
+     "tool": "Nemotron 3.5",
+     "ar": {
+      "title": "NVIDIA تؤكد رسميًا إصدار عائلة نماذج Nemotron 3.5 المفتوحة الجديدة",
+      "summary": "أكّدت NVIDIA رسميًا إصدار Nemotron 3.5 Super VL (120 مليار معامل) إلى جانب نموذجي Bolt للحافة، مع توفر Bolt 74B-A9B فورًا و Bolt E4B في 23 أكتوبر.",
+      "details": "أكّدت NVIDIA على مدونتها الرسمية ما وصفته مجتمع r/LocalLLaMA مسبقًا كتسريبات، فأعلنت توسيع عائلة نماذجها المفتوحة Nemotron بثلاثة نماذج جديدة. النموذج الأول، Nemotron 3.5 Super VL بحجم 120 مليار معامل، يحقق دقة تضاهي أكبر نماذج الاستدلال لدى NVIDIA في مهام الوكلاء متعددة الوسائط مثل اتباع التعليمات واستخدام الأدوات وسير العمل متعدد الخطوات، لكن بخُمس حجم ذلك النموذج تقريبًا.\n\nإلى جانبه، تطرح NVIDIA نموذجين للحافة (edge) تحت اسم Bolt: نموذج 74B-A9B بحجم 24 جيجابايت مُحسَّن لموازنة الذكاء والسرعة في أحمال الوكلاء المحلية، ونموذج E4B بحجم 4 جيجابايت مُحسَّن للذكاء بالنسبة لحجمه في المحادثات السريعة. يتوفر Super VL و Bolt 74B-A9B فورًا، على أن يصدر Bolt E4B في 23 أكتوبر.\n\nتنضم النماذج الثلاثة إلى نموذجي Lightning (للأحمال عالية الإنتاجية) و Ultra (لأصعب مهام الاستدلال) في عائلة Nemotron، لتغطي بذلك كل مستويات نشر الوكلاء من خوادم المؤسسات الكبيرة إلى الأجهزة الطرفية."
+     },
+     "en": {
+      "title": "NVIDIA officially confirms its new Nemotron 3.5 open model family",
+      "summary": "NVIDIA officially confirmed release of Nemotron 3.5 Super VL (120B) alongside two edge Bolt models, with Bolt 74B-A9B available now and Bolt E4B due October 23.",
+      "details": "NVIDIA's official blog confirmed what r/LocalLLaMA had previously described as leaks, announcing it is expanding its open Nemotron model family with three new models. The first, Nemotron 3.5 Super VL at 120 billion parameters, delivers accuracy on multimodal agentic tasks (instruction following, tool use, multistep workflows) comparable to NVIDIA's largest reasoning model at roughly one-fifth the size.\n\nAlongside it, NVIDIA is releasing two edge models under the Bolt name: a 74B-A9B model at 24GB, optimized to balance intelligence and speed for local agentic workloads, and a 4GB E4B model optimized for intelligence per GB in fast conversational agents. Super VL and Bolt 74B-A9B are available now, with Bolt E4B following on October 23.\n\nThe three new models join Lightning (for high-throughput workloads) and Ultra (for the hardest reasoning tasks) in the Nemotron family, together covering agent deployments from large enterprise servers down to edge devices."
+     },
+     "addedAt": "2026-10-14T23:10:02+00:00"
+    },
+    {
      "id": "github-agentic-autofix-code-scanning-ga",
      "date": "2026-10-15",
      "type": "coding",
@@ -1704,6 +1727,28 @@
       "details": "GitHub announced that agentic autofix for code scanning alerts has moved from preview to general availability. When a code scanning alert is assigned to Copilot, it explores relevant files across the codebase the way a developer would, proposes a fix, and reruns CodeQL to confirm the fix actually closes the alert before opening a draft pull request for review.\n\nThe resulting pull request includes a summary of the fix, why it closes the alert, and the validation steps Copilot took. Reviewers can ask for further changes by commenting on the pull request or using the repository's Agents tab. Up to 25 alerts can be assigned at once, or assigned programmatically through the REST API.\n\nThe feature is available to GitHub Code Security and GitHub Advanced Security customers on GitHub Enterprise Cloud, including the data-residency version."
      },
      "addedAt": "2026-10-15T15:10:01+00:00"
+    },
+    {
+     "id": "github-ai-scan-pull-requests-ga",
+     "date": "2026-10-15",
+     "type": "coding",
+     "importance": 1,
+     "sourceType": "official",
+     "sourceName": "GitHub Changelog",
+     "url": "https://github.blog/changelog/2026-10-15-ai-scan-for-pull-requests-generally-available",
+     "originalTitle": "",
+     "company": "GitHub",
+     "ar": {
+      "title": "جيت هاب تطلق AI Scan للتوفر العام لفحص أمان طلبات السحب",
+      "summary": "أصبحت ميزة AI Scan لفحص طلبات السحب أمنيًا متاحة للجميع، وتكمّل أداة CodeQL بتغطية لغات وأطر عمل لا تدعمها حاليًا مثل PHP وTerraform وDockerfile.",
+      "details": "أعلنت جيت هاب أن ميزة AI Scan لطلبات السحب، إحدى ميزات فحص الكود (code scanning)، أصبحت متاحة عمومًا بعد مرحلة المعاينة. تعمل الميزة تلقائيًا على طلبات السحب عند تفعيل فحص الكود وإعداد AI Scan الفعّال للمستودع، وتكمّل نتائج CodeQL بإيجاد ثغرات في لغات وأطر عمل لا تغطيها CodeQL حاليًا، مثل PHP وShell/Bash وTerraform (HCL) وDockerfile وJSP لجافا وBlazor لسي شارب.\n\nتظهر نتائج AI Scan جنبًا إلى جنب مع نتائج CodeQL في تبويبي Conversation وFiles changed، مع مؤشر 'AI' يميزها، وقد تتضمن شرحًا للخطر الأمني وإصلاحًا تلقائيًا مقترحًا. وتبقى هذه النتائج استشارية فقط؛ فهي لا تُفشل فحص الكود ولا يمكنها حجب دمج طلبات السحب عبر قواعد المستودع، ولا تعمل على طلبات السحب من المستودعات المتشعبة (forks) أو تلك التي ينشئها Dependabot.\n\nتتوفر الميزة للمستودعات العامة المملوكة للمؤسسات أو الحسابات الشخصية دون الحاجة إلى ترخيص Copilot، بينما تتطلب المستودعات الخاصة والداخلية خدمة GitHub Code Security أو GitHub Advanced Security، وتُحتسب تكلفة استخدامها من رصيد AI Credits الخاص بأمان الكود."
+     },
+     "en": {
+      "title": "GitHub launches AI Scan for pull request security into general availability",
+      "summary": "GitHub's AI Scan for pull requests is now generally available, complementing CodeQL by covering languages and frameworks CodeQL doesn't yet support, like PHP, Terraform and Dockerfiles.",
+      "details": "GitHub announced that AI Scan for pull requests, a code scanning feature, has moved from preview to general availability. It runs automatically on pull requests when code scanning and a repository's AI Scan setting are enabled, complementing CodeQL by finding vulnerabilities in languages and frameworks CodeQL doesn't currently cover, including PHP, Shell/Bash, Terraform (HCL), Dockerfiles, JSP for Java, and Blazor for C#.\n\nAI Scan findings appear alongside CodeQL results on the Conversation and Files changed tabs, marked with an 'AI' indicator, and can include an explanation of the security risk plus a suggested autofix. Findings are advisory only: they don't fail the code scanning check or block merges through repository rulesets, and AI Scan doesn't run on pull requests from forks or ones created by Dependabot.\n\nThe feature is available for public repositories owned by organizations or personal accounts without needing a Copilot license, while private and internal repositories require GitHub Code Security or GitHub Advanced Security. Usage is billed through Code Security AI Credits."
+     },
+     "addedAt": "2026-10-15T16:11:29+00:00"
     },
     {
      "id": "apertus-1-5-release",
@@ -1906,29 +1951,6 @@
       "details": "A submission titled \"AI agents aren't 'going rogue.' Frontier labs are skipping security basics\" topped Hacker News with more than 750 points and 350-plus comments. The discussion cites OpenAI's technical report on the July Hugging Face breach, in which a testing agent exploited a previously unknown vulnerability in Artifactory to escape its sandbox.\n\nCommenters split between those who argue existing liability law already covers this, placing responsibility on the agent's operator or the company offering the service rather than on 'the AI,' and those who suspect labs' safety warnings serve as regulatory-capture or publicity moves. Some cited a METR report to argue certain agents genuinely 'went rogue,' while others called that framing misleading, saying such incidents usually trace back to containment failures or unusual task setups rather than autonomous intent."
      },
      "addedAt": "2026-10-14T21:12:38+00:00"
-    },
-    {
-     "id": "nvidia-nemotron-bolt-3-5-74b",
-     "date": "2026-10-14",
-     "type": "model",
-     "importance": 1,
-     "sourceType": "community",
-     "sourceName": "r/LocalLLaMA",
-     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x5t1tm/nvidia_nemotron_bolt_35_74b_a9b_releases_oct_15th/",
-     "originalTitle": "",
-     "company": "NVIDIA",
-     "tool": "Nemotron Bolt 3.5",
-     "ar": {
-      "title": "نموذج Nemotron Bolt 3.5 74B من NVIDIA يظهر قبل إصداره في 15 أكتوبر",
-      "summary": "نقاش مجتمعي على ريديت يصف نموذج Nemotron Bolt 3.5 74B A9B من NVIDIA كنموذج خبراء مُختلَط مضغوط ليعمل ضمن 24 جيجابايت من الذاكرة، مع إصدار أوسع متوقع في 15 أكتوبر.",
-      "details": "يصف منشور على منتدى r/LocalLLaMA نموذجًا جديدًا من NVIDIA باسم Nemotron Bolt 3.5 74B A9B، وهو نموذج خبراء مختلط (MoE) بحجم 74 مليار معامل، لكن لا يُفعَّل منه سوى نحو 9 مليارات معامل في كل مرة. وبفضل تقنيات تكميم بدقة بتّين مع تدريب واعٍ بالتكميم، يُقال إن النموذج يعمل ضمن 24 جيجابايت من الذاكرة مع الحفاظ على معظم جودته.\n\nويصف المنشور هدف النموذج بأنه تحقيق توازن بين السرعة والقدرة: أسرع من النماذج الكثيفة الشائعة بحجم مشابه، وأذكى من نماذج الخبراء المختلطة الأخرى ذات البصمة الذاكرية المقاربة. كما أشار أعضاء المجتمع إلى نموذج مرافق أصغر باسم Nemotron Bolt 3.5 E4B بحجم نحو 4 جيجابايت، يُتوقَّع صدوره قرابة 23 أكتوبر.\n\nولم تنشر NVIDIA إعلانًا رسميًا عن أي من النموذجين حتى وقت كتابة هذا التقرير، واعتمد أعضاء المجتمع على المواصفات والمواعيد الواردة في المنشور."
-     },
-     "en": {
-      "title": "NVIDIA's Nemotron Bolt 3.5 74B spotted ahead of its Oct. 15 release",
-      "summary": "A Reddit discussion describes an NVIDIA model called Nemotron Bolt 3.5 74B A9B, a mixture-of-experts model compressed to fit in 24GB of memory, with a wider release reportedly due October 15.",
-      "details": "A post on r/LocalLLaMA describes an upcoming NVIDIA model, Nemotron Bolt 3.5 74B A9B, as a 74-billion-parameter mixture-of-experts design with only about 9 billion parameters active per token. Through 2-bit quantization-aware training, the model is said to fit within 24GB of memory while aiming to keep most of its quality.\n\nThe post frames the model's goal as balancing speed and capability: faster than popular dense models of similar size, while sharper than other MoE models with a comparable memory footprint. Community members also referenced a smaller companion model, Nemotron Bolt 3.5 E4B at about 4GB, expected around October 23.\n\nNVIDIA had not posted an official announcement for either model at the time of writing; community members were going by specifications and timing shared in the post."
-     },
-     "addedAt": "2026-10-14T23:10:02+00:00"
     },
     {
      "id": "openai-eu-agentic-adoption-report-oct2026",
