@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": "2026-10-15T16:11:29+00:00",
+ "updatedAt": "2026-10-15T17:09:49+00:00",
  "coverage": {
   "from": "2026-07-15",
   "to": "2026-10-15"
@@ -1705,6 +1705,29 @@
       "details": "NVIDIA's official blog confirmed what r/LocalLLaMA had previously described as leaks, announcing it is expanding its open Nemotron model family with three new models. The first, Nemotron 3.5 Super VL at 120 billion parameters, delivers accuracy on multimodal agentic tasks (instruction following, tool use, multistep workflows) comparable to NVIDIA's largest reasoning model at roughly one-fifth the size.\n\nAlongside it, NVIDIA is releasing two edge models under the Bolt name: a 74B-A9B model at 24GB, optimized to balance intelligence and speed for local agentic workloads, and a 4GB E4B model optimized for intelligence per GB in fast conversational agents. Super VL and Bolt 74B-A9B are available now, with Bolt E4B following on October 23.\n\nThe three new models join Lightning (for high-throughput workloads) and Ultra (for the hardest reasoning tasks) in the Nemotron family, together covering agent deployments from large enterprise servers down to edge devices."
      },
      "addedAt": "2026-10-14T23:10:02+00:00"
+    },
+    {
+     "id": "flux-3-image-klein-release",
+     "date": "2026-10-15",
+     "type": "model",
+     "importance": 2,
+     "sourceType": "official",
+     "sourceName": "Hugging Face Blog",
+     "url": "https://huggingface.co/blog/flux-3",
+     "originalTitle": "",
+     "company": "Black Forest Labs",
+     "tool": "FLUX.3 Image Klein",
+     "ar": {
+      "title": "Black Forest Labs تطلق FLUX.3 Image Klein بدعم فوري في مكتبة Diffusers",
+      "summary": "نموذج صور مفتوح جديد يجمع التحويل من نص إلى صورة والتحرير بمراجع متعددة والتحكم بتخطيط الصورة عبر صناديق تحديد في الطلب، مع نسخة مقطّرة سريعة ونسخة أساسية للضبط الدقيق.",
+      "details": "أصدرت Black Forest Labs نموذج FLUX.3 Image Klein، نموذجًا جديدًا مفتوح الأوزان لتوليد الصور، مع دعم فوري في مكتبة Diffusers التابعة لـ Hugging Face.\n\nيجمع النموذج بين عدة مهام كانت تحتاج أدوات منفصلة سابقًا: التحويل من نص إلى صورة، والتحرير بالصور المرجعية المتعددة، وميزة جديدة للتحكم بتخطيط الصورة تتيح للمستخدم تحديد صناديق إحداثية داخل الطلب لنقل أو وضع أجزاء من الصورة.\n\nيتوفر FLUX.3 Image Klein بنسختين: نسخة مقطّرة تولّد صورة بدقة 1024×1024 في نحو ثانيتين على معالج H100 باستخدام 16 خطوة فقط دون توجيه خالٍ من المصنّف، ونسخة أساسية تستخدم 50 خطوة مع توجيه وهي مخصصة للضبط الدقيق. كما تتوفر أوزان مكمَّمة بصيغتي FP8 وNVFP4 لتشغيل النموذج على معالجات رسومية أصغر.\n\nأضافت Diffusers أيضًا سكربتات تدريب DreamBooth LoRA لكل من التحويل من نص إلى صورة وتحرير الصور، وبُني خط المعالجة باستخدام نظام Diffusers المعياري الذي يتيح للمطورين إزالة أو توسيع وحدات معالجة منفردة."
+     },
+     "en": {
+      "title": "Black Forest Labs releases FLUX.3 Image Klein with same-day Diffusers support",
+      "summary": "FLUX.3 Image Klein is a new open image model handling text-to-image, multi-reference editing and prompt-based layout control, with a fast distilled checkpoint and a full base checkpoint for fine-tuning.",
+      "details": "Black Forest Labs released FLUX.3 Image Klein, a new open-weight image generation model, with same-day integration into Hugging Face's Diffusers library.\n\nThe model combines several tasks that previously needed separate tools: text-to-image generation, multi-reference image-to-image editing, and a new layout-control feature that lets users specify bounding boxes in the prompt to place or move regions of an image.\n\nFLUX.3 Image Klein ships in two checkpoints. A distilled version generates a 1024x1024 image in about 2 seconds on an H100 using only 16 steps and no classifier-free guidance, while a base checkpoint uses 50 steps with guidance and is meant for fine-tuning. Quantized FP8 and NVFP4 weights let the model run on smaller GPUs.\n\nDiffusers also added DreamBooth LoRA training scripts for both text-to-image and image editing, and the pipeline is built with Diffusers' modular system, letting developers remove or extend individual processing blocks."
+     },
+     "addedAt": "2026-10-15T17:09:49+00:00"
     },
     {
      "id": "github-agentic-autofix-code-scanning-ga",

@@ -124,6 +124,28 @@
         "details": "GitHub announced that agentic autofix for code scanning alerts has moved from preview to general availability. When a code scanning alert is assigned to Copilot, it explores relevant files across the codebase the way a developer would, proposes a fix, and reruns CodeQL to confirm the fix actually closes the alert before opening a draft pull request for review.\n\nThe resulting pull request includes a summary of the fix, why it closes the alert, and the validation steps Copilot took. Reviewers can ask for further changes by commenting on the pull request or using the repository's Agents tab. Up to 25 alerts can be assigned at once, or assigned programmatically through the REST API.\n\nThe feature is available to GitHub Code Security and GitHub Advanced Security customers on GitHub Enterprise Cloud, including the data-residency version."
       }
     }
+    ,
+    {
+      "id": "flux-3-image-klein-release",
+      "date": "2026-10-15",
+      "type": "model",
+      "importance": 2,
+      "sourceType": "official",
+      "sourceName": "Hugging Face Blog",
+      "url": "https://huggingface.co/blog/flux-3",
+      "company": "Black Forest Labs",
+      "tool": "FLUX.3 Image Klein",
+      "ar": {
+        "title": "Black Forest Labs تطلق FLUX.3 Image Klein بدعم فوري في مكتبة Diffusers",
+        "summary": "نموذج صور مفتوح جديد يجمع التحويل من نص إلى صورة والتحرير بمراجع متعددة والتحكم بتخطيط الصورة عبر صناديق تحديد في الطلب، مع نسخة مقطّرة سريعة ونسخة أساسية للضبط الدقيق.",
+        "details": "أصدرت Black Forest Labs نموذج FLUX.3 Image Klein، نموذجًا جديدًا مفتوح الأوزان لتوليد الصور، مع دعم فوري في مكتبة Diffusers التابعة لـ Hugging Face.\n\nيجمع النموذج بين عدة مهام كانت تحتاج أدوات منفصلة سابقًا: التحويل من نص إلى صورة، والتحرير بالصور المرجعية المتعددة، وميزة جديدة للتحكم بتخطيط الصورة تتيح للمستخدم تحديد صناديق إحداثية داخل الطلب لنقل أو وضع أجزاء من الصورة.\n\nيتوفر FLUX.3 Image Klein بنسختين: نسخة مقطّرة تولّد صورة بدقة 1024×1024 في نحو ثانيتين على معالج H100 باستخدام 16 خطوة فقط دون توجيه خالٍ من المصنّف، ونسخة أساسية تستخدم 50 خطوة مع توجيه وهي مخصصة للضبط الدقيق. كما تتوفر أوزان مكمَّمة بصيغتي FP8 وNVFP4 لتشغيل النموذج على معالجات رسومية أصغر.\n\nأضافت Diffusers أيضًا سكربتات تدريب DreamBooth LoRA لكل من التحويل من نص إلى صورة وتحرير الصور، وبُني خط المعالجة باستخدام نظام Diffusers المعياري الذي يتيح للمطورين إزالة أو توسيع وحدات معالجة منفردة."
+      },
+      "en": {
+        "title": "Black Forest Labs releases FLUX.3 Image Klein with same-day Diffusers support",
+        "summary": "FLUX.3 Image Klein is a new open image model handling text-to-image, multi-reference editing and prompt-based layout control, with a fast distilled checkpoint and a full base checkpoint for fine-tuning.",
+        "details": "Black Forest Labs released FLUX.3 Image Klein, a new open-weight image generation model, with same-day integration into Hugging Face's Diffusers library.\n\nThe model combines several tasks that previously needed separate tools: text-to-image generation, multi-reference image-to-image editing, and a new layout-control feature that lets users specify bounding boxes in the prompt to place or move regions of an image.\n\nFLUX.3 Image Klein ships in two checkpoints. A distilled version generates a 1024x1024 image in about 2 seconds on an H100 using only 16 steps and no classifier-free guidance, while a base checkpoint uses 50 steps with guidance and is meant for fine-tuning. Quantized FP8 and NVFP4 weights let the model run on smaller GPUs.\n\nDiffusers also added DreamBooth LoRA training scripts for both text-to-image and image editing, and the pipeline is built with Diffusers' modular system, letting developers remove or extend individual processing blocks."
+      }
+    }
   ],
   "upcoming": [],
   "removeUpcoming": [],
