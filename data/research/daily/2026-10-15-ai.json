@@ -61,6 +61,27 @@
         "summary": "A Reddit discussion describes an NVIDIA model called Nemotron Bolt 3.5 74B A9B, a mixture-of-experts model compressed to fit in 24GB of memory, with a wider release reportedly due October 15.",
         "details": "A post on r/LocalLLaMA describes an upcoming NVIDIA model, Nemotron Bolt 3.5 74B A9B, as a 74-billion-parameter mixture-of-experts design with only about 9 billion parameters active per token. Through 2-bit quantization-aware training, the model is said to fit within 24GB of memory while aiming to keep most of its quality.\n\nThe post frames the model's goal as balancing speed and capability: faster than popular dense models of similar size, while sharper than other MoE models with a comparable memory footprint. Community members also referenced a smaller companion model, Nemotron Bolt 3.5 E4B at about 4GB, expected around October 23.\n\nNVIDIA had not posted an official announcement for either model at the time of writing; community members were going by specifications and timing shared in the post."
       }
+    },
+    {
+      "id": "apertus-1-5-release",
+      "date": "2026-10-15",
+      "type": "model",
+      "importance": 1,
+      "sourceType": "official",
+      "sourceName": "Hugging Face Blog (Swiss AI)",
+      "url": "https://huggingface.co/blog/swiss-ai/apertus-v15-release-notes",
+      "company": "Swiss AI Initiative",
+      "tool": "Apertus 1.5",
+      "ar": {
+        "title": "سويس إيه آي تُحدّث Apertus إلى الإصدار 1.5 بدعم الصور والصوت وسياق أطول",
+        "summary": "نماذج Apertus 1.5 المفتوحة بالكامل (8 و70 مليار معامل) تدعم الآن الصور والصوت تجريبياً، مع وضع تفكير اختياري ونافذة سياق تصل إلى 262 ألف رمز.",
+        "details": "أصدرت مبادرة Swiss AI تحديث Apertus 1.5 لعائلة نماذجها المفتوحة بالكامل، التي يصفها المشروع بأنها مفتوحة في الأوزان وبيانات التدريب وقيم الحوكمة على حد سواء.\n\nيضيف التحديث إدخالاً متعدد الوسائط: يمكن لنموذجي 8 و70 مليار معامل الآن استقبال صور وملفات صوتية إلى جانب النص، مع بقاء دعم الصوت تجريبياً والمخرجات نصية فقط. كما يضيف Apertus 1.5 وضع تفكير اختياري يتيح للنموذج التفكير خطوة بخطوة قبل الإجابة، ويوسّع نافذة السياق إلى 262,144 رمزاً، أي أربعة أضعاف نماذج Apertus 1.0 الأصلية. كما تحسّن اتباع التعليمات واستخدام الأدوات.\n\nوتقول مبادرة Swiss AI إن Apertus 1.5 لا يزال متأخراً عموماً عن النماذج المفتوحة الأوزان الرائدة، لكن نموذج 8 مليار معامل يتقدّم على نماذج مماثلة في الحجم بمعايير اتباع التعليمات ودعم تعدد اللغات. وتُصدر الأوزان بترخيص Apache 2.0."
+      },
+      "en": {
+        "title": "Swiss AI's Apertus 1.5 adds vision, audio input and longer context",
+        "summary": "The fully open Apertus 1.5 models (8B and 70B) now accept images and experimental audio, support optional step-by-step reasoning, and extend context to 262K tokens.",
+        "details": "The Swiss AI Initiative released Apertus 1.5, an update to its Apertus family of fully open models, which the project describes as open in weights, training data and governance values alike.\n\nThe update adds multimodal input: both the 8B and 70B models can now take images and audio alongside text, though audio support remains experimental and outputs stay text-only. Apertus 1.5 also adds an optional thinking mode that lets the model reason step by step before answering, and extends the context window to 262,144 tokens, four times the original Apertus 1.0 models. Instruction-following and tool use are also improved.\n\nThe Swiss AI Initiative says Apertus 1.5 still trails frontier open-weight models overall, but that its 8B model leads similarly sized open-weight models on instruction-following and multilingual benchmarks. The weights are released under an Apache 2.0 license."
+      }
     }
   ],
   "upcoming": [],
