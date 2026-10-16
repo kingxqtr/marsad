@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": "2026-10-16T18:09:47+00:00",
+ "updatedAt": "2026-10-16T19:11:41+00:00",
  "coverage": {
   "from": "2026-07-16",
   "to": "2026-10-16"
@@ -1704,6 +1704,27 @@
   },
   "ai": {
    "news": [
+    {
+     "id": "china-mofcom-ai-export-control-draft",
+     "date": "2026-10-16",
+     "type": "policy",
+     "importance": 2,
+     "sourceType": "official",
+     "sourceName": "Ministry of Commerce of China (MOFCOM)",
+     "url": "https://www.mofcom.gov.cn/syxwfb/art/2026/art_a4acff07e134447fbe7bbeb486df3ea6.html",
+     "originalTitle": "商务部新闻发言人就修订《中国禁止出口限制出口技术目录》答记者问",
+     "ar": {
+      "title": "الصين تقترح ضوابط تصدير على 23 تقنية ذكاء اصطناعي",
+      "summary": "نشرت وزارتا التجارة والعلوم والتكنولوجيا في الصين مشروع تعديل يضيف 23 تقنية ذكاء اصطناعي إلى قائمة التصدير المحظور والمقيد، مع استثناء التقنيات مفتوحة المصدر.",
+      "details": "في 16 أكتوبر، أصدرت وزارة التجارة ووزارة العلوم والتكنولوجيا في الصين الإعلان رقم 48 لعام 2026، لفتح باب التعليقات العامة على مشروع تعديل \"قائمة التقنيات المحظور والمقيد تصديرها\". يضيف المشروع 40 تقنية في مجالات الذكاء الاصطناعي والطب الحيوي والطاقة الشمسية، منها 23 تقنية متعلقة بالذكاء الاصطناعي تشمل النماذج الكبيرة والعملاء الأذكياء (agents) وعناقيد الحوسبة وتقنيات معالجة المعلومات.\n\nمن بين الأربعين تقنية، 14 ستكون محظورة التصدير بالكامل و26 مقيدة تتطلب ترخيصاً. وتقول الوزارتان إن التقنيات التي سبق نشرها علناً عبر إصدارات مفتوحة المصدر أو أبحاث أكاديمية مستثناة من الضوابط، وأن تقديم الوصول عبر واجهات برمجة التطبيقات أو التطبيقات أو خدمات البرمجيات لا يُعد تصديراً بشكل عام.\n\n- من تاريخ الإعلان وحتى دخول القائمة المعدّلة حيز التنفيذ، يجب على المصدّرين تسجيل التقنيات المدرجة في نظام موحّد تابع لوزارة التجارة قبل نقلها للخارج\n- يشمل التسجيل حالات نقل الملكية للخارج، أو ترخيص تقنية محلية للاستخدام الخارجي، أو انتقال الملكية أو السيطرة الفعلية إلى جهة خارجية"
+     },
+     "en": {
+      "title": "China proposes export controls on 23 AI technologies",
+      "summary": "China's Commerce and Science ministries published a draft adding 40 technologies, 23 of them AI-related (large models, agents, compute clusters), to its export control catalogue, exempting open-source releases.",
+      "details": "On October 16, China's Ministry of Commerce and Ministry of Science and Technology issued Announcement No. 48 of 2026, opening public comment on a revision to the Catalogue of Technologies Prohibited and Restricted from Export. The draft adds 40 technologies across AI, biomedicine and solar photovoltaics, including 23 AI-related entries covering large models, intelligent agents, computing clusters and information-processing techniques.\n\nOf the 40, 14 would be fully prohibited from export and 26 restricted, requiring a license. The ministries say technologies already made public through open-source releases or academic papers are excluded from the controls, and that providing access via APIs, apps or SaaS is generally not treated as a technology export.\n\n- From the announcement date until the revised catalogue takes effect, exporters must register listed technologies on a unified Commerce Ministry system before transferring them abroad\n- Registration covers transferring ownership overseas, licensing domestic technology for foreign use, or a shift of ownership or control to a foreign entity"
+     },
+     "addedAt": "2026-10-16T19:11:41+00:00"
+    },
     {
      "id": "reflection-beam-501b-open-model",
      "date": "2026-10-16",
