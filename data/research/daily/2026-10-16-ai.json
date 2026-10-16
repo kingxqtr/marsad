@@ -152,6 +152,27 @@
         "summary": "NVIDIA, with IIT Madras's AI4Bharat lab, is preparing to release Nemotron-pretraining-Indic-v1, a roughly 2.8-trillion-token pretraining corpus across 22 Indian languages, plus an open data pipeline.",
         "details": "NVIDIA, working with the AI4Bharat lab at IIT Madras, detailed an upcoming dataset called Nemotron-pretraining-Indic-v1 containing about 2.8 trillion tokens across 22 Indian languages: roughly 2,601 billion native-script tokens and 225 billion romanized tokens, counted with the Gemma-4 tokenizer. Twelve of the 22 languages also get a romanized version, giving 34 language-script combinations in total.\n\nThe text comes from 15 subsets of Nemotron-CC-v2 and is translated from English, with translation quality scored and low-scoring outputs repaired below a threshold of 75 out of 100. Gemma-4-31B-it handles translation for twelve languages, while Bodhan AI's Indic Translate covers the other ten, inside a pipeline built on NVIDIA's NeMo Data Designer.\n\n- Continued pretraining on the new data added 10 billion Indic tokens to Nemotron 3.5 Super VL, raising its scores on five Indic benchmarks by 4.98 to 9.82 points\n- The model improved on five of six Indic benchmarks versus Nemotron 3 Super, though its IFEval score dropped by 2.04 points\n- AI4Bharat lead Mitesh Khapra says Indian-language AI lags English mainly for lack of training data\n- NVIDIA notes translated text is no substitute for data originally written in these languages, and that quality checks are still mostly automated"
       }
+    },
+    {
+      "id": "github-copilot-slack-teams-multi-repo",
+      "date": "2026-10-16",
+      "type": "coding",
+      "importance": 1,
+      "sourceType": "official",
+      "sourceName": "GitHub Changelog",
+      "url": "https://github.blog/changelog/2026-10-15-copilot-in-slack-and-teams-adds-model-and-repository-updates",
+      "originalTitle": "Multi-repo support and other improvements for GitHub Copilot in Slack and Microsoft Teams",
+      "company": "GitHub",
+      "ar": {
+        "title": "GitHub Copilot في Slack وTeams يدعم العمل على عدة مستودعات في محادثة واحدة",
+        "summary": "أضافت GitHub دعم العمل على عدة مستودعات في محادثة واحدة لـ Copilot داخل Slack وMicrosoft Teams، مع تحسينات في التنقل بين المستودعات واستخدام سياق محادثات Slack.",
+        "details": "حدّثت GitHub نسخة Copilot العاملة داخل Slack وMicrosoft Teams لتسمح للمستخدمين بتتبع طلبات السحب (pull requests)، ومتابعة المشكلات (issues)، واستعراض نشاط عدة مشاريع عبر مستودعات مختلفة ضمن محادثة واحدة، بدلاً من الاضطرار للتبديل بين محادثات منفصلة لكل مستودع.\n\n- يمكن الآن ذكر @GitHub في أي موضع من الرسالة، لا في بدايتها فقط\n- أصبح التبديل بين المستودعات أثناء المحادثة أكثر سلاسة\n- يمكن لـ Copilot الاستفادة من رسائل وخيوط Slack المُشارَكة كسياق إضافي للرد"
+      },
+      "en": {
+        "title": "GitHub Copilot in Slack and Teams gains multi-repository conversations",
+        "summary": "GitHub updated Copilot in Slack and Microsoft Teams to let users track pull requests, issues and activity across multiple repositories within a single conversation.",
+        "details": "GitHub updated the version of Copilot that runs inside Slack and Microsoft Teams so users can track pull requests, follow issues and review activity across several repositories in one conversation, instead of switching between separate conversations for each repository.\n\n- @GitHub can now be mentioned anywhere in a message, not just at the start\n- Switching between repositories mid-conversation is smoother\n- Copilot can use shared Slack messages and threads as extra context for its replies"
+      }
     }
   ],
   "upcoming": [],
