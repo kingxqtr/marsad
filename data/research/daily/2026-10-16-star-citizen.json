@@ -1,7 +1,28 @@
 {
   "topic": "star-citizen",
   "generatedAt": "2026-10-16",
-  "news": [],
+  "news": [
+    {
+      "id": "sc-sq42-steam-wishlist-top250",
+      "date": "2026-10-16",
+      "type": "community",
+      "importance": 1,
+      "sourceType": "community",
+      "sourceName": "r/starcitizen",
+      "url": "https://www.reddit.com/r/starcitizen/comments/1x78wzf/squadron_42_enters_top_250_in_steam_wishlists_and/",
+      "originalTitle": "Squadron 42 enters top 250 in Steam wishlists and 11th in wishlist activity",
+      "ar": {
+        "title": "Squadron 42 يدخل أعلى 250 لعبة في قوائم رغبات Steam",
+        "summary": "رصد أعضاء مجتمع r/starcitizen دخول Squadron 42 ضمن أعلى 250 لعبة في قوائم رغبات Steam، واحتلاله المرتبة 11 من حيث نشاط الإضافة إلى القائمة، بعد أيام من افتتاح صفحتها على المنصة.",
+        "details": "لاحظ أعضاء مجتمع r/starcitizen أن صفحة Squadron 42 على Steam، التي افتُتحت للتصويت بقائمة الرغبات في وقت سابق هذا الشهر، دخلت أعلى 250 لعبة من حيث إجمالي عدد قوائم الرغبات، كما احتلت المرتبة 11 من حيث نشاط الإضافة إليها (معدّل الإضافة اليومي).\n\nيأتي هذا التقدّم بعد أيام قليلة من ذهاب صفحة اللعبة مباشرة على Steam لأول مرة، ويُنظر إليه داخل المجتمع كمؤشر أولي على الاهتمام بالحملة الفردية التي طال انتظارها لسلسلة Star Citizen."
+      },
+      "en": {
+        "title": "Squadron 42 enters Steam's top 250 wishlisted games",
+        "summary": "Community trackers on r/starcitizen noted Squadron 42 entering Steam's top 250 games by total wishlists and ranking 11th by wishlist activity, days after its Steam page went live.",
+        "details": "Members of the r/starcitizen community noted that Squadron 42's Steam page, which opened for wishlisting earlier this month, has entered the top 250 games by total wishlist count and ranks 11th by wishlist activity (the rate at which it is being added).\n\nThe milestone comes just days after the game's page went live on Steam for the first time, and the community is reading it as an early signal of interest in the long-awaited single-player campaign for the Star Citizen series."
+      }
+    }
+  ],
   "upcoming": [],
   "removeUpcoming": [],
   "removeNews": []
