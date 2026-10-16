@@ -214,6 +214,27 @@
         "summary": "China's Commerce and Science ministries published a draft adding 40 technologies, 23 of them AI-related (large models, agents, compute clusters), to its export control catalogue, exempting open-source releases.",
         "details": "On October 16, China's Ministry of Commerce and Ministry of Science and Technology issued Announcement No. 48 of 2026, opening public comment on a revision to the Catalogue of Technologies Prohibited and Restricted from Export. The draft adds 40 technologies across AI, biomedicine and solar photovoltaics, including 23 AI-related entries covering large models, intelligent agents, computing clusters and information-processing techniques.\n\nOf the 40, 14 would be fully prohibited from export and 26 restricted, requiring a license. The ministries say technologies already made public through open-source releases or academic papers are excluded from the controls, and that providing access via APIs, apps or SaaS is generally not treated as a technology export.\n\n- From the announcement date until the revised catalogue takes effect, exporters must register listed technologies on a unified Commerce Ministry system before transferring them abroad\n- Registration covers transferring ownership overseas, licensing domestic technology for foreign use, or a shift of ownership or control to a foreign entity"
       }
+    },
+    {
+      "id": "mercor-ai-benchmark-labor-map",
+      "date": "2026-10-16",
+      "type": "model",
+      "importance": 1,
+      "sourceType": "official",
+      "sourceName": "Mercor Research",
+      "url": "https://www.mercor.com/research/labor-index/benchmark-map/",
+      "originalTitle": "A benchmark map of the US economy",
+      "company": "Mercor",
+      "ar": {
+        "title": "دراسة: معايير قياس الذكاء الاصطناعي تغطي 10% فقط من ساعات العمل الأمريكية",
+        "summary": "خرّطت شركة Mercor 29 معيار قياس للذكاء الاصطناعي مقابل تصنيف وزارة العمل الأمريكية O*NET، ووجدت أن 90% من ساعات العمل الأمريكية تقع في مهام ضعيفة التغطية أو غير مغطاة أصلاً.",
+        "details": "نشرت شركة تقييم المواهب والذكاء الاصطناعي Mercor دراسة بحثية تربط 29 معيار قياس شائعاً للذكاء الاصطناعي بتصنيف O*NET التابع لوزارة العمل الأمريكية، الذي يغطي 923 مهنة و18797 مهمة موزعة على 22 فئة وظيفية. وجدت الدراسة أن المعايير لا تغطي بشكل كافٍ (بأقل من 5 أسئلة لكل مهمة) سوى 208 مهن و924 مهمة فقط، أي أن 90% من ساعات العمل الأمريكية تنفق على مهام ضعيفة التمثيل في هذه المعايير أو غائبة عنها كلياً.\n\nووجدت الدراسة أن المهام الأكثر تعرضاً لتأثير الذكاء الاصطناعي، كالبرمجة والتحليل المالي، أكثر تغطية بنحو 6 مرات من المهام الأقل تعرضاً، مثل قيادة الشاحنات وتشغيل محطات الغاز. وحتى بعد ضبط هذا العامل، تبقى مهام المهن ذات الأجور الأعلى ممثَّلة بشكل مبالغ فيه؛ فالمحامون مغطون جيداً بينما السكرتاريون القانونيون وكتبة المحاكم نادراً ما يظهرون في المعايير.\n\n- المهام التي يصنفها O*NET كأكثر أهمية في وظيفتها أكثر عرضة للقياس بنحو 6 إلى 10 مرات من الأقل أهمية\n- في اختبار APEX لقطاعات البنوك الاستثمارية والقانون والمحاسبة والبرمجة، لم يحظَ أقل من ثلث المهام ذات الصلة بتغطية كافية للإدراج\n- نحو 63% من الوظائف تتضمن عنصراً جسدياً يصعب قياسه بمعايير النص\n- تصف Mercor نتائجها بأنها مبدئية، إذ من المرجح أن عينة 29 معياراً تقلل من التغطية الفعلية، وتخطط لتوسيع القائمة"
+      },
+      "en": {
+        "title": "Study: AI benchmarks cover only 10% of US working hours",
+        "summary": "Mercor mapped 29 AI benchmarks against the US Department of Labor's O*NET taxonomy and found 90% of American working hours fall in tasks with little or no benchmark coverage.",
+        "details": "AI talent and evaluation company Mercor published a research report mapping 29 widely used AI benchmarks against the O*NET taxonomy, which covers 923 occupations and 18,797 tasks across 22 job families. The study found the benchmarks adequately cover (at least 5 prompts per task) only 208 occupations and 924 tasks, meaning 90% of US working hours go to tasks that are poorly represented or missing entirely from existing benchmarks.\n\nTasks more exposed to AI, such as software engineering and financial analysis, are about 6 times more likely to be covered than less-exposed tasks like truck driving or gas plant operation. Even after controlling for that, higher-wage occupations remain overrepresented: lawyers are well covered while legal secretaries and court clerks are barely represented.\n\n- Tasks O*NET rates as most important to a job are about 6 to 10 times more likely to be benchmarked than the least important ones\n- In the APEX test covering investment banking, law, accounting and software engineering, fewer than a third of relevant tasks had enough coverage to be included\n- About 63% of jobs involve a physical component that is hard to capture with text-based benchmarks\n- Mercor calls its results provisional, since the 29-benchmark sample likely understates real coverage, and says it plans to expand the list"
+      }
     }
   ],
   "upcoming": [],
