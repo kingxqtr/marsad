@@ -131,6 +131,27 @@
         "summary": "OpenAI introduced the Rosalind Academic Plan, giving eligible university labs up to 30 free Business Standard seats for up to 12 months, with GPT-Rosalind access subject to security approval.",
         "details": "OpenAI announced the Rosalind Academic Plan, a program giving eligible academic research labs up to 30 Business Standard seats at no cost for up to 12 months. This includes access to Rosalind Workbench, a research environment combining specialized models and analysis tools for life-sciences work such as protein structure and sequence analysis, genomics workflows, and medicinal chemistry.\n\nAccess to GPT-Rosalind itself, OpenAI's most capable model for life-sciences research, remains subject to approval under the company's \"trusted access\" program, a security vetting process that gates access to this category of sensitive models.\n\nOpenAI frames the plan as support for academic scientists, whose research typically precedes any medical or biotech breakthrough."
       }
+    },
+    {
+      "id": "nvidia-nemotron-indic-pretraining-corpus",
+      "date": "2026-10-16",
+      "type": "model",
+      "importance": 1,
+      "sourceType": "official",
+      "sourceName": "Hugging Face Blog",
+      "url": "https://huggingface.co/blog/nvidia/scaling-indic-pretraining",
+      "originalTitle": "Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline",
+      "company": "NVIDIA",
+      "ar": {
+        "title": "NVIDIA وIIT Madras تعدّان مجموعة بيانات ضخمة بـ22 لغة هندية لتدريب النماذج",
+        "summary": "تعمل NVIDIA مع مختبر AI4Bharat التابع لمعهد IIT Madras على إصدار Nemotron-pretraining-Indic-v1، مجموعة بيانات بنحو 2.8 تريليون رمز في 22 لغة هندية، إلى جانب خط إنتاج بيانات مفتوح.",
+        "details": "كشفت NVIDIA، بالتعاون مع مختبر AI4Bharat في معهد IIT Madras، عن مجموعة بيانات قادمة باسم Nemotron-pretraining-Indic-v1 تضم نحو 2.8 تريليون رمز موزعة على 22 لغة هندية، منها نحو 2601 مليار رمز بالخط الأصلي للغات و225 مليار رمز بالحروف اللاتينية (رومنة)، بحسب عدّاد Gemma-4. تتوفر 12 من هذه اللغات أيضًا بنسخة مرومنة، ما يجعل عدد تركيبات اللغة والخط 34.\n\nتُستخرج النصوص من 15 مجموعة فرعية من Nemotron-CC-v2 وتُترجم من الإنجليزية، مع تقييم جودة الترجمة وإصلاح النتائج الضعيفة التي تقل عن عتبة 75 من 100، باستخدام نموذج Gemma-4-31B-it لاثنتي عشرة لغة وأداة Indic Translate من شركة Bodhan AI للغات العشر الباقية، ضمن خط إنتاج يعتمد أداة NeMo Data Designer.\n\n- أضاف التدريب الإضافي لنموذج Nemotron 3.5 Super VL عشرة مليارات رمز هندي، ورفع نتائجه في خمسة معايير قياس هندية بين 4.98 و9.82 نقطة\n- تحسّن النموذج في خمسة من ستة معايير هندية مقارنة بإصدار Nemotron 3 Super، لكن نتيجته في معيار IFEval تراجعت 2.04 نقطة\n- يقول رئيس مختبر AI4Bharat ميتيش خابرا إن تقنية اللغات الهندية متأخرة عن الإنجليزية بسبب نقص البيانات\n- تنبّه NVIDIA إلى أن البيانات المترجمة لا تعادل نصوصًا مكتوبة أصلاً بهذه اللغات، وأن التحقق من جودتها آلي في غالبه"
+      },
+      "en": {
+        "title": "NVIDIA and IIT Madras build a 2.8-trillion-token dataset for 22 Indian languages",
+        "summary": "NVIDIA, with IIT Madras's AI4Bharat lab, is preparing to release Nemotron-pretraining-Indic-v1, a roughly 2.8-trillion-token pretraining corpus across 22 Indian languages, plus an open data pipeline.",
+        "details": "NVIDIA, working with the AI4Bharat lab at IIT Madras, detailed an upcoming dataset called Nemotron-pretraining-Indic-v1 containing about 2.8 trillion tokens across 22 Indian languages: roughly 2,601 billion native-script tokens and 225 billion romanized tokens, counted with the Gemma-4 tokenizer. Twelve of the 22 languages also get a romanized version, giving 34 language-script combinations in total.\n\nThe text comes from 15 subsets of Nemotron-CC-v2 and is translated from English, with translation quality scored and low-scoring outputs repaired below a threshold of 75 out of 100. Gemma-4-31B-it handles translation for twelve languages, while Bodhan AI's Indic Translate covers the other ten, inside a pipeline built on NVIDIA's NeMo Data Designer.\n\n- Continued pretraining on the new data added 10 billion Indic tokens to Nemotron 3.5 Super VL, raising its scores on five Indic benchmarks by 4.98 to 9.82 points\n- The model improved on five of six Indic benchmarks versus Nemotron 3 Super, though its IFEval score dropped by 2.04 points\n- AI4Bharat lead Mitesh Khapra says Indian-language AI lags English mainly for lack of training data\n- NVIDIA notes translated text is no substitute for data originally written in these languages, and that quality checks are still mostly automated"
+      }
     }
   ],
   "upcoming": [],
