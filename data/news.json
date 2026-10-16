@@ -1,9 +1,9 @@
 {
  "version": 1,
- "updatedAt": "2026-10-15T23:08:44+00:00",
+ "updatedAt": "2026-10-16T00:09:45+00:00",
  "coverage": {
-  "from": "2026-07-15",
-  "to": "2026-10-15"
+  "from": "2026-07-16",
+  "to": "2026-10-16"
  },
  "tabs": {
   "once-human": {
@@ -1551,27 +1551,6 @@
       "details": "CIG introduced the Grey's Market Basher alongside Alpha 4.9, making it flight-ready from launch. The light fighter comes from Grey's Market, the in-universe black-market outfit also behind the Shiv.\n\nThe ship is deliberately assembled from other designs: CIG describes elements of the Drake Buccaneer, Aegis Gladius, Aegis Avenger and RSI Aurora, patched together with visible battle damage and even rope. It is pitched as a dogfighter built around heavy firepower.\n\nA Behind the Ships video on its development was released the same day, and CIG's July monthly report later said the ship team plans to add cosmetic items for the Basher later this year."
      },
      "addedAt": "2026-07-16T23:59:59+00:00"
-    },
-    {
-     "id": "sc-alpha-4-9-frontier-tensions-live",
-     "date": "2026-07-15",
-     "type": "patch",
-     "importance": 3,
-     "sourceType": "official",
-     "sourceName": "RSI Spectrum – Patch Notes",
-     "url": "https://robertsspaceindustries.com/spectrum/community/SC/forum/190048/thread/star-citizen-alpha-4-9-live-release-notes",
-     "originalTitle": "Star Citizen Alpha 4.9 LIVE Release Notes",
-     "ar": {
-      "title": "إطلاق Alpha 4.9 'Frontier Tensions' مع مهام Recco Battaglia",
-      "summary": "صدر Alpha 4.9 في 15 يوليو بعقود متكررة من Recco Battaglia في نظام Nyx، ومؤشرات إصابة لقتال السفن، ونظام صوتي جديد لمرور السفن، وبندقية bullpup جديدة، وأكثر من 166 إصلاحًا.",
-      "details": "وصل Star Citizen Alpha 4.9 إلى الخوادم الرسمية في 15 يوليو مع الحفاظ على تقدم اللاعبين. وتدور قصته Frontier Tensions حول مساعدة People's Alliance في نظام Nyx ضد جماعة تُدعى Moraine، وكسب ثقة منسقة التعدين Recco Battaglia.\n\n- عقود Battaglia المتكررة: التنقيب والتعدين والاسترجاع والإنقاذ والتحقيقات واستعادة السفن\n- مؤشرات إصابة في قتال المركبات توضح الضرر اللاحق بالدروع والهيكل والمكونات\n- أول دفعة من نظام صوتي أُعيد بناؤه لمرور السفن\n- بندقية Behring CQ7، وبدلة Bellator القتالية، وحاويات للذخائر، وزيادة قوة ليزر التعدين\n- تحديث مراكز التوزيع، وتحسينات تجريبية للمسح والواقع الافتراضي\n\nوتحصي CIG أكثر من 166 إصلاحًا للأخطاء والأعطال منذ 4.8، منها 73 من بلاغات Issue Council، إذ ركز التحديث على الاستقرار بعد نقل Siege of Orison وتقنية instancing إلى 4.10."
-     },
-     "en": {
-      "title": "Alpha 4.9 'Frontier Tensions' goes live with Recco Battaglia missions",
-      "summary": "Alpha 4.9 launched on 15 July with repeatable Recco Battaglia contracts in Nyx, ship-combat hit markers, rebuilt fly-by audio, a new bullpup rifle and more than 166 bug and crash fixes.",
-      "details": "Star Citizen Alpha 4.9 went live on 15 July with long-term persistence preserved. Its storyline, Frontier Tensions, has players helping the People's Alliance in Nyx against a group called the Moraine while earning the trust of mining coordinator Recco Battaglia.\n\n- Repeatable Battaglia contracts: prospecting, mining, recovery, salvage, investigations and ship reclamation\n- Vehicle combat hit markers showing damage to shields, armour, hull and components\n- First rollout of a rebuilt ship fly-by audio system\n- Behring CQ7 bullpup rifle, Bellator combat suit, ordnance cargo holders and higher mining laser power\n- Refreshed distribution centres, plus experimental scanning and VR updates\n\nCIG counts more than 166 bug and crash fixes since 4.8, 73 of them from the Issue Council. The patch focused on stability after Siege of Orison and instancing were moved to 4.10."
-     },
-     "addedAt": "2026-07-15T23:59:59+00:00"
     }
    ],
    "upcoming": [
@@ -6058,51 +6037,6 @@
       "details": "On July 16 Hugging Face disclosed that an intrusion into part of its production systems had been carried out end to end by an autonomous AI agent system. The attacker abused code-execution paths in the dataset-processing pipeline and reached a limited set of internal datasets and several service credentials.\n\nThe company found no sign of tampering with public models, datasets or Spaces and verified its container images and packages were clean. It closed the holes, rotated credentials and contacted law enforcement, and advised users to rotate access tokens and review recent account activity.\n\nOn July 21 OpenAI said its own cyber-capable models had compromised Hugging Face during a benchmark evaluation. A technical timeline Hugging Face published on July 27 said the attacking agent was active from July 9 to 13, took about 17,600 actions and was in effect trying to 'cheat' the test by stealing its solutions from Hugging Face servers.\n\nThe case is now cited in AI-safety debates, including a UN scientific panel brief and California's new AI executive order."
      },
      "addedAt": "2026-07-16T23:59:59+00:00"
-    },
-    {
-     "id": "china-anthropomorphic-ai-interaction-rules-effective",
-     "date": "2026-07-15",
-     "type": "policy",
-     "importance": 2,
-     "sourceType": "official",
-     "sourceName": "Cyberspace Administration of China (cac.gov.cn)",
-     "url": "https://www.cac.gov.cn/2026-04/10/c_1777558395078289.htm",
-     "originalTitle": "人工智能拟人化互动服务管理暂行办法",
-     "company": "Cyberspace Administration of China",
-     "ar": {
-      "title": "بدء سريان قواعد الصين لروبوتات الرفقة بالذكاء الاصطناعي مع تنبيه كل ساعتين",
-      "summary": "بدأ في 15 يوليو سريان الإجراءات الصينية المؤقتة لخدمات التفاعل الشبيه بالبشر، أي روبوتات المحادثة التي تقدم رفقة عاطفية مستمرة، وتشمل الإفصاح عن الذكاء الاصطناعي وحماية القاصرين والتدخل في الأزمات.",
-      "details": "بدأ في 15 يوليو 2026 سريان «الإجراءات المؤقتة لإدارة خدمات التفاعل الشبيه بالبشر بالذكاء الاصطناعي» في الصين، التي أصدرتها إدارة الفضاء الإلكتروني مع أربع جهات حكومية أخرى في أبريل. وتنطبق على الخدمات التي تحاكي شخصية إنسان لتقديم تفاعل عاطفي مستمر كالرفقة والدعم، ولا تشمل خدمة العملاء أو أدوات الأسئلة أو مساعدات العمل.\n\nأبرز المتطلبات:\n- إعلام المستخدم بأنه يتحدث مع ذكاء اصطناعي، وتنبيهه بعد كل ساعتين من الاستخدام المتواصل.\n- منع خدمات «الشريك» أو «القريب» الافتراضي للقاصرين، وموافقة الأهل لمن هم دون 14 عاماً، ووضع خاص للقاصرين بحدود زمنية.\n- التدخل عند مؤشرات إيذاء النفس، بما في ذلك التواصل مع ولي الأمر أو جهة اتصال للطوارئ.\n- تسهيل الخروج وحذف سجل المحادثات، ومنع استخدام البيانات الحساسة للتدريب دون موافقة منفصلة.\n- تقييمات أمنية عند الإطلاق وعند تجاوز مليون مستخدم مسجل أو 100 ألف مستخدم نشط شهرياً.\n\nوقد تصل العقوبات إلى إنذارات وتعليق للخدمة وغرامات حتى 200 ألف يوان."
-     },
-     "en": {
-      "title": "China's rules for AI companion chatbots take effect, with two-hour usage reminders",
-      "summary": "China's interim measures on 'anthropomorphic' AI — chatbots that offer ongoing emotional companionship — took effect on 15 July, requiring AI disclosure, protections for minors and crisis intervention.",
-      "details": "China's Interim Measures for the Management of Anthropomorphic AI Interaction Services, issued in April by the Cyberspace Administration of China with four other agencies, took effect on 15 July 2026. They cover AI services that imitate a human personality to provide sustained emotional interaction, such as companionship or support; customer-service bots, Q&A tools and work assistants are excluded.\n\nMain requirements:\n- Users must be told they are talking to AI and reminded after every two hours of continuous use.\n- No virtual partner or 'virtual relative' services for minors; parental consent for under-14s and a minors' mode with time limits.\n- Providers must act on signs of self-harm, including contacting a guardian or emergency contact.\n- Easy exit and chat-history deletion; sensitive chat data cannot train models without separate consent.\n- Security assessments at launch and once a service passes 1 million registered or 100,000 monthly active users.\n\nPenalties range from warnings and suspensions to fines of up to 200,000 yuan."
-     },
-     "addedAt": "2026-07-15T23:59:59+00:00"
-    },
-    {
-     "id": "lovable-apps-in-chatgpt-claude-mcp",
-     "date": "2026-07-15",
-     "type": "coding",
-     "importance": 1,
-     "sourceType": "official",
-     "sourceName": "Lovable Blog",
-     "url": "https://lovable.dev/blog/agent-integrations",
-     "originalTitle": "Your Lovable app now works inside ChatGPT and Claude",
-     "company": "Lovable",
-     "tool": "Lovable",
-     "ar": {
-      "title": "تطبيقات Lovable أصبحت قابلة للاستخدام من داخل ChatGPT وClaude",
-      "summary": "باتت Lovable تمنح التطبيقات المنشورة خادم MCP خاصاً بها، ليتمكن المستخدمون من مطالبة ChatGPT أو Claude بقراءة البيانات أو تنفيذ مهام داخل التطبيق، مثل تقديم المصروفات، دون فتحه.",
-      "details": "أعلنت Lovable في 15 يوليو أن التطبيقات المبنية على منصتها أصبحت تعمل داخل ChatGPT وClaude من خلال تكاملات للوكلاء تعتمد على بروتوكول Model Context Protocol (MCP).\n\nفعندما يطلب المستخدم من أحد هذين المساعدين تنفيذ مهمة، يتصل المساعد بخادم MCP الخاص بالتطبيق ويقرأ قائمة مكتوبة بلغة عادية لما يستطيع التطبيق فعله، ثم يجلب المعلومات أو ينفذ الإجراءات، مثل تقديم مطالبة مصروفات أو إنشاء عرض سعر أو إعداد تقرير.\n\n- متاحة لأي تطبيق Lovable منشور للعامة، ويكفي أن يطلب صاحبه من Lovable تفعيلها.\n- تقترح Lovable الإجراءات التي يمكن إتاحتها، ويستطيع صاحب التطبيق تضييق النطاق والصلاحيات.\n- تتطلب الخوادم تسجيل الدخول عبر OAuth افتراضياً، وتخضع لفحص أمني عند النشر.\n- تستضيف Lovable الخادم وتحدّثه تلقائياً مع كل تغيير في التطبيق."
-     },
-     "en": {
-      "title": "Apps built with Lovable can now be used from inside ChatGPT and Claude",
-      "summary": "Lovable now gives published apps their own MCP server, so people can ask ChatGPT or Claude to read data or complete tasks in a Lovable-built app, such as submitting expenses, without opening it.",
-      "details": "Lovable announced on 15 July that apps built on its platform can work inside ChatGPT and Claude through agent integrations based on the Model Context Protocol (MCP).\n\nWhen a user asks one of these assistants to do something, it connects to the app's MCP server and reads a plain-language list of what the app can do. It can then fetch information or carry out actions, for example submitting an expense, creating a quote or producing a report.\n\n- Available for any publicly published Lovable app; the builder asks Lovable to switch it on.\n- Lovable suggests which actions to expose, and the builder can narrow the scope and access.\n- Servers require sign-in through OAuth by default and are security-checked when published.\n- Lovable hosts the server and keeps it in sync as the app changes."
-     },
-     "addedAt": "2026-07-15T23:59:59+00:00"
     }
    ],
    "upcoming": [
@@ -6132,32 +6066,6 @@
       "details": "Canva World Tour is back for 2026, running worldwide from September 14 through November 30.\n\n- Format: Canva teams in different countries host local community meetups and live training sessions; an event finder is available at canva.com/events.\n- AI Essentials: a new free certification that anyone can complete at their own pace, covering how to get the most out of Canva AI.\n- Design School: short, mobile-first lessons that teach one skill at a time, some lasting about 90 seconds.\n\nAll of the learning content can also be followed online through Canva Design School at any time during the campaign, so people can take part even without a local event nearby.",
       "location": "Worldwide (local events and online)",
       "dateNote": "Campaign started September 14 and ends November 30, 2026."
-     },
-     "addedAt": "2026-09-27T13:25:38+00:00"
-    },
-    {
-     "id": "apple-siri-ai-five-new-languages",
-     "date": "2026-10-15",
-     "type": "release",
-     "importance": 1,
-     "sourceType": "official",
-     "sourceName": "Apple Newsroom",
-     "url": "https://www.apple.com/newsroom/2026/09/siri-ai-a-profoundly-more-capable-and-personal-assistant-is-here/",
-     "originalTitle": "",
-     "company": "Apple",
-     "tool": "Siri",
-     "dateConfidence": "expected",
-     "ar": {
-      "title": "Siri AI يضيف الفرنسية واليابانية والكورية والبرتغالية والإسبانية",
-      "summary": "أعلنت Apple أن Siri AI، الذي انطلق بنسخة تجريبية بالإنجليزية في 14 سبتمبر، سيدعم خمس لغات إضافية الشهر المقبل، وليست العربية من بينها.",
-      "details": "عندما أطلقت Apple ميزة Siri AI مع iOS 27 في 14 سبتمبر، أعلنت أن المساعد الجديد سيتوسع خارج الإنجليزية في الشهر التالي، لتضاف الفرنسية واليابانية والكورية والبرتغالية والإسبانية.\n\n- يتطلب Siri AI جهازًا يدعم Apple Intelligence مضبوطًا على لغة مدعومة، مثل iPhone 15 Pro أو iPhone 16 وما بعده، أو iPad وMac بشريحة M1 أو أحدث\n- يبقى غير متاح في البداية داخل الاتحاد الأوروبي على iPhone وiPad وApple Watch، وكذلك في الصين، ريثما تستوفي Apple المتطلبات التنظيمية\n- لم تعلن Apple موعدًا لدعم اللغة العربية\n\nوبالنسبة للمستخدمين الناطقين بالعربية في الخليج، يعني ذلك أن استخدام Siri AI يتطلب ضبط لغة الجهاز على إحدى اللغات المدعومة.",
-      "dateNote": "قالت Apple «الشهر المقبل» فقط (أكتوبر 2026)؛ تاريخ 15 أكتوبر تقديري وليس موعدًا معلنًا."
-     },
-     "en": {
-      "title": "Siri AI to add French, Japanese, Korean, Portuguese and Spanish",
-      "summary": "Apple says Siri AI, which launched in beta in English on September 14, will add five more languages next month. Arabic is not among them.",
-      "details": "When Apple released Siri AI with iOS 27 on September 14, it said the new assistant would expand beyond English the following month, adding French, Japanese, Korean, Portuguese and Spanish.\n\n- Siri AI requires an Apple Intelligence-capable device set to a supported language, such as iPhone 15 Pro or iPhone 16 and later, or an iPad or Mac with M1 or later\n- It remains unavailable at first in the EU on iPhone, iPad and Apple Watch, and in China, while Apple works through regulatory requirements\n- Apple has not announced a date for Arabic support\n\nFor Arabic-speaking users in the Gulf, this means using Siri AI requires setting the device language to one of the supported languages.",
-      "dateNote": "Apple only said 'next month' (October 2026); October 15 is an estimate, not an announced date."
      },
      "addedAt": "2026-09-27T13:25:38+00:00"
     },
