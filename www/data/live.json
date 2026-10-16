@@ -1,27 +1,6 @@
 {
- "updatedAt": "2026-10-16T22:03:05+00:00",
+ "updatedAt": "2026-10-16T22:33:12+00:00",
  "items": [
-  {
-   "id": "auto-98999492274e",
-   "tab": "ai",
-   "date": "2026-10-16",
-   "publishedAt": "2026-10-16T00:00:00+00:00",
-   "type": "coding",
-   "importance": 1,
-   "sourceType": "official",
-   "sourceName": "Cursor Changelog",
-   "url": "https://cursor.com/changelog/cloud-agent-canvases-and-environments",
-   "originalTitle": "Cloud Agent Canvases and Environment Improvements",
-   "en": {
-    "title": "Cloud Agent Canvases and Environment Improvements",
-    "summary": "Canvases from cloud agents Cloud agents can now build interactive canvases as part of their work. Share a finished canvas with your team by sending its link.",
-    "details": "Canvases from cloud agents\n\nCloud agents can now build interactive canvases as part of their work. Share a finished canvas with your team by sending its link.\n\n<figure><video src=\"https://cursor.com/marketing-static/changelog/cloud-agent-canvases-and-environments.mp4\" controls preload=\"metadata\"></video></figure>\n\nLearn more about sharing canvases .\n\nEnvironments API\n\nThe Environments API is now available in beta. Use it to programmatically create and manage the cloud environments your agents run in.\n\nLarger, faster environments\n\nCloud agent environments now support up to 300 repositories. Large environments also load 5x faster."
-   },
-   "translated": false,
-   "fetchedAt": "2026-10-16T21:32:20+00:00",
-   "company": "Anysphere",
-   "tool": "Cursor"
-  },
   {
    "id": "auto-10646700db6d",
    "tab": "ai",
@@ -35,8 +14,8 @@
    "originalTitle": "90% of US working hours are spent on tasks not covered well by AI benchmarks",
    "en": {
     "title": "90% of US working hours are spent on tasks not covered well by AI benchmarks",
-    "summary": "Community discussion on Hacker News (325 points, 292 comments).",
-    "details": "Community discussion on Hacker News (325 points, 292 comments)."
+    "summary": "Community discussion on Hacker News (339 points, 298 comments).",
+    "details": "Community discussion on Hacker News (339 points, 298 comments)."
    },
    "translated": false,
    "fetchedAt": "2026-10-16T20:32:45+00:00"
