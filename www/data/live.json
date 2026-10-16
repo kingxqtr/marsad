@@ -1,4 +1,25 @@
 {
- "updatedAt": "2026-10-16T01:17:14+00:00",
- "items": []
+ "updatedAt": "2026-10-16T01:48:19+00:00",
+ "items": [
+  {
+   "id": "auto-af14d0aa7e59",
+   "tab": "ai",
+   "date": "2026-10-16",
+   "publishedAt": "2026-10-16T01:44:47+00:00",
+   "type": "product",
+   "importance": 1,
+   "sourceType": "official",
+   "sourceName": "Hugging Face Blog",
+   "url": "https://huggingface.co/blog/nvidia/scaling-indic-pretraining",
+   "originalTitle": "Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline",
+   "en": {
+    "title": "Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline",
+    "summary": "Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline",
+    "details": ""
+   },
+   "translated": false,
+   "fetchedAt": "2026-10-16T01:48:14+00:00",
+   "company": "Hugging Face"
+  }
+ ]
 }
