@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": "2026-10-16T06:08:49+00:00",
+ "updatedAt": "2026-10-16T07:11:11+00:00",
  "coverage": {
   "from": "2026-07-16",
   "to": "2026-10-16"
@@ -8,6 +8,27 @@
  "tabs": {
   "once-human": {
    "news": [
+    {
+     "id": "oh-isles-of-abyss-devblog-phases",
+     "date": "2026-10-16",
+     "type": "scenario",
+     "importance": 2,
+     "sourceType": "official",
+     "sourceName": "Once Human — Steam News",
+     "url": "https://store.steampowered.com/news/app/2139460/view/1846651706680362",
+     "originalTitle": "New Survival Scenario Isles of Abyss Launches Officially on October 21",
+     "ar": {
+      "title": "مدونة Once Human التمهيدية تكشف تفاصيل آليات إطلاق Isles of Abyss",
+      "summary": "مدونة تطويرية تؤكد انطلاق سيناريو Isles of Abyss في 21 أكتوبر بتوقيت المحيط الهادئ على جميع المنصات، بدورة من مرحلتين تمتد نحو 21 يومًا و12 عالمًا لكل سيرفر.",
+      "details": "نشر فريق Once Human مدونة تطويرية قبل إطلاق سيناريو Isles of Abyss البحري، مؤكدًا انطلاقه بعد صيانة يوم 21 أكتوبر بتوقيت المحيط الهادئ على أجهزة الكمبيوتر والكونسول والجوال. السيناريو من نوع PvE، ويضم كل سيرفر 12 عالمًا.\n\nتمتد التجربة الأساسية نحو 21 يومًا على مرحلتين، تليهما مرحلة راحة. تدوم المرحلة الأولى بين 5 و10 أيام تقريبًا، وتقصر كلما تقدمت نسبة التطهير في السيرفر. أما المرحلة الثانية فتدوم 11 يومًا، وتُفتح خلالها تحديًا نهائيًا باسم \"The Sunken Lord\" مع تقدم التطهير أكثر.\n\nسينطلق Isles of Abyss دون علامة Vision، على أن يُفتح عالم Vision خاص بسيرفراته لاحقًا مع إصدار Vision للموسم الخامس."
+     },
+     "en": {
+      "title": "Once Human Dev Blog Details Isles of Abyss Launch Mechanics",
+      "summary": "A pre-launch dev blog confirms Isles of Abyss launches October 21 (PT) on all platforms, with a two-phase ~21-day cycle and 12 worlds per server.",
+      "details": "Once Human published a dev blog ahead of the Isles of Abyss ocean scenario, confirming it launches after maintenance on October 21 (PT) across PC, console and mobile. The scenario is PvE, and each server hosts 12 worlds.\n\nThe core experience runs about 21 days across two phases, followed by a rest stage. Phase I lasts roughly 5 to 10 days, shortening as a server's purification progress advances. Phase II lasts 11 days and unlocks the endgame challenge \"The Sunken Lord\" as purification advances further.\n\nIsles of Abyss will launch without a Vision Tag. A separate Vision World for Isles of Abyss servers opens later alongside the Season 5 Vision release."
+     },
+     "addedAt": "2026-10-16T07:11:11+00:00"
+    },
     {
      "id": "oh-devblog-oct21-weapon-armor",
      "date": "2026-10-12",
