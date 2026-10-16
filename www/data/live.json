@@ -1,4 +1,25 @@
 {
- "updatedAt": "2026-10-16T03:13:24+00:00",
- "items": []
+ "updatedAt": "2026-10-16T03:49:28+00:00",
+ "items": [
+  {
+   "id": "auto-d37fda406661",
+   "tab": "ai",
+   "date": "2026-10-16",
+   "publishedAt": "2026-10-16T02:16:35+00:00",
+   "type": "coding",
+   "importance": 1,
+   "sourceType": "official",
+   "sourceName": "GitHub Changelog",
+   "url": "https://github.blog/changelog/2026-10-15-copilot-in-slack-and-teams-adds-model-and-repository-updates",
+   "originalTitle": "Multi-repo support and other improvements for GitHub Copilot in Slack and Microsoft Teams",
+   "en": {
+    "title": "Multi-repo support and other improvements for GitHub Copilot in Slack and Microsoft Teams",
+    "summary": "Multi-repo support in Slack and Microsoft Teams GitHub Copilot in Slack and Microsoft Teams now supports working across multiple repositories in a single conversation.",
+    "details": "Multi-repo support in Slack and Microsoft Teams\n\nGitHub Copilot in Slack and Microsoft Teams now supports working across multiple repositories in a single conversation. Whether you’re tracking pull requests, investigating issues, or catching up on project activity, you can get the information you need across repositories without switching between conversations.\n\nFor example, you can ask Copilot to:\n\nTrack your work: “@GitHub Show me all my open pull requests across repositories and highlight which ones need my attention.”\n\nGet updates: “@GitHub What pull requests were merged this week across my repositories?”\n\nInvestigate issues: “@GitHub Help me investigate an issue that spans our frontend and backend repositories.”\n\nReview progress: “@GitHub Summarize recent activity across our repositories.”\n\nYou can ask these questions directly in Slack or Microsoft Teams, making it easier to stay on top of work across projects without leaving the conversation.\n\nAdditional improvements\n\nWe’ve also made several improvements to GitHub Copilot in Slack and Microsoft Teams:\n\nMore natural conversations: Mention @GitHub anywhere in your message, not just at the beginning.\n\nSmoother repository switching: Move between repositories more easily during a conversation.\n\nBetter Slack conversation context: Copilot can use shared Slack messages and threads as context, making it easier to reference discussions without copying and pasting details. …"
+   },
+   "translated": false,
+   "fetchedAt": "2026-10-16T03:49:23+00:00",
+   "company": "GitHub"
+  }
+ ]
 }
