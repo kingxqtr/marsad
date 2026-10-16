@@ -173,6 +173,28 @@
         "summary": "GitHub updated Copilot in Slack and Microsoft Teams to let users track pull requests, issues and activity across multiple repositories within a single conversation.",
         "details": "GitHub updated the version of Copilot that runs inside Slack and Microsoft Teams so users can track pull requests, follow issues and review activity across several repositories in one conversation, instead of switching between separate conversations for each repository.\n\n- @GitHub can now be mentioned anywhere in a message, not just at the start\n- Switching between repositories mid-conversation is smoother\n- Copilot can use shared Slack messages and threads as extra context for its replies"
       }
+    },
+    {
+      "id": "reflection-beam-501b-open-model",
+      "date": "2026-10-16",
+      "type": "model",
+      "importance": 2,
+      "sourceType": "official",
+      "sourceName": "Hugging Face Blog",
+      "url": "https://huggingface.co/blog/reflection-beam",
+      "originalTitle": "Welcome Beam: a 501B open model you can own, customize, and scale",
+      "company": "Reflection AI",
+      "tool": "Beam",
+      "ar": {
+        "title": "Reflection AI تطلق Beam، نموذجاً مفتوحاً بـ501 مليار معامل برخصة Apache 2.0",
+        "summary": "أصدرت شركة Reflection AI أول نموذج لها، Beam، بمزيج خبراء يضم 501 مليار معامل (23 مليار نشط لكل رمز) ونافذة سياق مليون رمز، برخصة Apache 2.0 المفتوحة.",
+        "details": "طرحت شركة Reflection AI نموذجها الأول Beam كأوزان مفتوحة على Hugging Face، وهو نموذج مزيج خبراء (MoE) بـ501 مليار معامل إجمالاً، منها 23 مليار معامل نشط لكل رمز، موزعة على 52 طبقة و256 خبيراً لكل طبقة MoE، مع توجيه 8 خبراء لكل رمز. يتعامل النموذج مع النص فقط إدخالاً وإخراجاً، بنافذة سياق تصل إلى مليون رمز.\n\nتوفر Reflection نسخاً بصيغ BF16 وFP8 وNVFP4، حيث تقلّص صيغة NVFP4 حجم النموذج من نحو تيرابايت واحد في BF16 إلى نحو 280 غيغابايت. ويدعم Beam خمسة مستويات من \"التفكير\" (منخفض، متوسط وهو الافتراضي، مرتفع، مرتفع جداً، وأقصى)، إلى جانب استدعاء الأدوات ودعم فوري في مكتبات transformers وSGLang وvLLM، وهو موجّه أساساً لمهام البرمجة والوكلاء الذكية.\n\n- تقول Reflection إن النموذج (بصيغة BF16) سجّل 81.6% على معيار SWE-bench Verified و97.7% على AIME 2026 و90.6% على GPQA Diamond\n- صدر النموذج برخصة Apache 2.0 المفتوحة بالكامل\n- تقدّم الشركة 10 آلاف دولار من رصيد Hugging Face Hub لأفضل المشاريع المبنية على Beam"
+      },
+      "en": {
+        "title": "Reflection AI releases Beam, a 501B-parameter open model under Apache 2.0",
+        "summary": "Reflection AI launched its first model, Beam, a 501B-parameter mixture-of-experts model (23B active per token) with a 1M-token context window, released under the open Apache 2.0 license.",
+        "details": "Reflection AI released its first model, Beam, as open weights on Hugging Face. Beam is a mixture-of-experts model with 501 billion total parameters, 23 billion of which are active per token, spread across 52 layers and 256 experts per MoE layer, with 8 experts routed per token. It is text-in, text-out, with a context window of up to 1 million tokens.\n\nReflection is shipping checkpoints in BF16, FP8 and NVFP4; the NVFP4 version shrinks the roughly 1 TB BF16 model to about 280 GB. Beam supports five reasoning levels (low, medium as default, high, xhigh and max), tool calling, and day-0 support in the transformers, SGLang and vLLM libraries, with a focus on coding and agentic use cases.\n\n- Reflection reports BF16 scores of 81.6% on SWE-bench Verified, 97.7% on AIME 2026 and 90.6% on GPQA Diamond\n- The model is released under the fully open Apache 2.0 license\n- Reflection is offering $10,000 in Hugging Face Hub credits for the best community projects built with Beam"
+      }
     }
   ],
   "upcoming": [],
