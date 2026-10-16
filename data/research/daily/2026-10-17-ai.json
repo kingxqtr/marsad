@@ -1,0 +1,75 @@
+{
+  "topic": "ai",
+  "generatedAt": "2026-10-17",
+  "news": [
+    {
+      "id": "nvidia-rtx-spark-laptops-launch-oct16",
+      "date": "2026-10-16",
+      "type": "hardware",
+      "importance": 2,
+      "sourceType": "official",
+      "sourceName": "NVIDIA Newsroom",
+      "url": "https://nvidianews.nvidia.com/news/nvidia-rtx-spark-pcs-available-today-a-new-beginning-for-windows-pcs",
+      "originalTitle": "NVIDIA RTX Spark PCs Available Today — A New Beginning for Windows PCs",
+      "company": "NVIDIA",
+      "tool": "RTX Spark",
+      "ar": {
+        "title": "إطلاق حواسيب NVIDIA RTX Spark المحمولة من كبرى الشركات المصنعة",
+        "summary": "بدأت NVIDIA طرح حواسيبها المحمولة RTX Spark التي تجمع معالج Blackwell مع معالج Grace لتشغيل الذكاء الاصطناعي محلياً، بأسعار تبدأ من 2,599 دولاراً عبر ASUS وDell وHP وLenovo وMicrosoft وMSI.",
+        "details": "طرحت NVIDIA في 16 أكتوبر منصتها الجديدة للحواسيب المحمولة RTX Spark، التي تجمع معالج رسوميات Blackwell مع معالج Grace المخصص الذي طورته بالتعاون مع MediaTek على رقاقة واحدة فائقة. توفر الأجهزة ذاكرة موحدة تصل إلى 128 جيجابايت مشتركة بين المعالجين، وأداء يصل إلى بيتافلوب واحد لعمليات FP4، بهدف تشغيل نماذج اللغة الكبيرة وعملاء الذكاء الاصطناعي مباشرة على الجهاز.\n\nستطرح ست شركات مصنعة أجهزتها عند الإطلاق: ASUS (ProArt P14/P16)، وDell (XPS 16)، وHP (OmniBook Ultra وOmniBook X 14)، وLenovo (Yoga Pro 9n)، وMicrosoft (Surface Laptop Ultra)، وMSI (Prestige N16 Flip AI+ وPrestige N16)، بأسعار تبدأ من 2,599 دولاراً.\n\nوتقول NVIDIA إن هذه الأجهزة يمكنها تشغيل عملاء ذكاء اصطناعي مثل GitHub Copilot وPerplexity محلياً، إضافة إلى نموذجها Nemotron 3.5 Bolt البالغ 74 مليار معلمة، إلى جانب دعم أصلي لتطبيقات إبداعية مثل Photoshop وPremiere وأكثر من 1,000 لعبة مدعومة بتقنية RTX."
+      },
+      "en": {
+        "title": "NVIDIA RTX Spark laptops go on sale from major PC makers",
+        "summary": "NVIDIA's RTX Spark laptops, combining a Blackwell GPU with a Grace CPU for local AI, are now shipping from ASUS, Dell, HP, Lenovo, Microsoft and MSI starting at $2,599.",
+        "details": "NVIDIA's new RTX Spark laptop platform went on sale on October 16, pairing a Blackwell RTX GPU with a custom Grace CPU co-developed with MediaTek on a single \"superchip.\" The machines offer up to 128GB of unified memory shared between CPU and GPU, with up to 1 petaflop of FP4 AI performance, aimed at running large language models and AI agents directly on the device.\n\nSix PC makers are shipping systems at launch: ASUS (ProArt P14/P16), Dell (XPS 16), HP (OmniBook Ultra and OmniBook X 14), Lenovo (Yoga Pro 9n), Microsoft (Surface Laptop Ultra) and MSI (Prestige N16 Flip AI+ and Prestige N16), with prices starting at $2,599.\n\nNVIDIA says the laptops can run agents such as GitHub Copilot and Perplexity locally, plus its own 74-billion-parameter Nemotron 3.5 Bolt model, alongside native support for creative tools like Photoshop and Premiere and over 1,000 RTX-accelerated games."
+      }
+    },
+    {
+      "id": "nvidia-mercedes-benz-autonomous-driving-expansion",
+      "date": "2026-10-16",
+      "type": "business",
+      "importance": 2,
+      "sourceType": "official",
+      "sourceName": "NVIDIA Newsroom",
+      "url": "https://nvidianews.nvidia.com/news/mercedes-benz-and-nvidia-expand-strategic-partnership-to-advance-safe-highly-automated-driving-in-the-next-decade",
+      "originalTitle": "Mercedes-Benz and NVIDIA Expand Strategic Partnership to Advance Safe Highly Automated Driving in the Next Decade",
+      "company": "NVIDIA",
+      "tool": "NVIDIA Hyperion",
+      "ar": {
+        "title": "NVIDIA وMercedes-Benz توسعان شراكتهما في مجال القيادة الذاتية",
+        "summary": "تعتزم الشركتان تطوير الجيل الجديد من أنظمة مساعدة السائق والقيادة الآلية باستخدام منظومات NVIDIA Hyperion وAlpamayo وHalos، تمهيداً لتطبيقات المستوى الرابع.",
+        "details": "أعلنت Mercedes-Benz وNVIDIA في 16 أكتوبر توسيع شراكتهما الإستراتيجية الممتدة منذ سنوات، لتطوير الجيل القادم من أنظمة مساعدة السائق والقيادة الآلية، على أن يشمل التعاون مستقبلاً تطبيقات من المستوى الرابع (SAE Level 4) مثل السيارات الليموزين ذاتية القيادة.\n\nيرتكز التعاون على منصة الحوسبة والاستشعار NVIDIA Hyperion، ومنظومة القيادة الكاملة المعتمدة على الذكاء الاصطناعي NVIDIA Alpamayo، إلى جانب منظومة السلامة الموازية NVIDIA Halos التي تضيف طبقة حماية إضافية لمنظومة السلامة الحالية لدى Mercedes-Benz. كما تستخدم الشركة تقنيات NVIDIA في محاكاة هندسة المركبات وفي منظومة الإنتاج الرقمية MO360.\n\nووصف يورغ بورتسر، عضو مجلس إدارة Mercedes-Benz ومديرها التقني، NVIDIA بأنها 'أهم شريك إستراتيجي' للشركة في مجال القيادة الآلية، في حين لم تكشف الشركتان عن تفاصيل مالية للاتفاق."
+      },
+      "en": {
+        "title": "NVIDIA and Mercedes-Benz expand partnership on automated driving",
+        "summary": "The companies will jointly develop next-generation driver assistance and Level 4 automated driving using NVIDIA's Hyperion, Alpamayo and Halos stacks.",
+        "details": "Mercedes-Benz and NVIDIA announced on October 16 an expansion of their years-long strategic partnership to jointly develop the next generation of driver assistance and automated driving systems, with an eye toward future SAE Level 4 applications such as robo-limousines.\n\nThe work builds on NVIDIA's Hyperion in-vehicle compute and sensor architecture and its Alpamayo full-stack, AI-reasoning driving software, alongside NVIDIA Halos, a parallel safety stack adding redundancy to Mercedes-Benz's existing safety systems. Mercedes-Benz also uses NVIDIA technology for vehicle engineering simulation and its MO360 digital production ecosystem.\n\nMercedes-Benz CTO Jörg Burzer called NVIDIA \"our most important strategic partner in automated driving,\" while NVIDIA automotive VP Ali Kani said the goal is to \"make autonomous driving an everyday reality.\" No financial terms were disclosed."
+      }
+    },
+    {
+      "id": "github-open-source-license-compliance-ga",
+      "date": "2026-10-16",
+      "type": "coding",
+      "importance": 1,
+      "sourceType": "official",
+      "sourceName": "GitHub Changelog",
+      "url": "https://github.blog/changelog/2026-10-16-open-source-license-compliance-generally-available/",
+      "originalTitle": "Open source license compliance generally available",
+      "company": "GitHub",
+      "tool": "GitHub Code Security",
+      "ar": {
+        "title": "GitHub تطرح ميزة الامتثال لترخيص المصدر المفتوح للمؤسسات",
+        "summary": "أصبحت ميزة فحص ترخيص التبعيات مفتوحة المصدر عبر GitHub Code Security متاحة بشكل عام لعملاء GitHub Enterprise Cloud، مع إمكانية حظر طلبات السحب غير الملتزمة بسياسة الترخيص.",
+        "details": "أعلنت GitHub في 16 أكتوبر توفر ميزة الامتثال لترخيص المصدر المفتوح بشكل عام لعملاء GitHub Enterprise Cloud الذين يستخدمون GitHub Code Security، لتمكين المؤسسات من إدارة تراخيص تبعياتها البرمجية وفق سياسة مركزية موحدة.\n\nعند تفعيل قاعدة 'طلب نتائج الامتثال للترخيص قبل الدمج'، تفحص GitHub كل تبعية جديدة أو معدّلة في طلبات السحب للتأكد من توافق ترخيصها مع السياسة، وتعلّم التبعيات غير المتوافقة تلقائياً. يمكن للمطورين إزالة التبعية أو استبدالها أو تعديل السياسة أو طلب استثناء عبر دور جديد هو 'مدير ترخيص المصدر المفتوح للمؤسسة'.\n\nوأضافت GitHub واجهات برمجية جديدة لتحميل سياسة الترخيص وتحديثها والتحقق من امتثال الحزم، يمكن لعملاء الترميز الذكية الاستفادة منها لتجنّب اقتراح حزم غير متوافقة مع السياسة."
+      },
+      "en": {
+        "title": "GitHub launches open source license compliance for enterprises",
+        "summary": "GitHub Code Security now lets Enterprise Cloud customers enforce license policies on dependencies and block noncompliant pull requests.",
+        "details": "GitHub announced on October 16 that open source license compliance is now generally available for GitHub Enterprise Cloud customers using GitHub Code Security, letting enterprises manage dependency licenses at scale through a centralized, company-wide policy.\n\nA new ruleset condition, \"Require license compliance results before merging,\" applies the policy to targeted repositories. When a pull request adds or changes dependencies, GitHub checks each one against the policy and flags noncompliant packages automatically; developers can remove or replace the dependency, amend the policy, or request a package exception through a new Enterprise Open-Source License Manager role.\n\nSince the feature's June public preview, GitHub added license data for data-residency customers, audit log events for policy changes, and new API endpoints to read, update and check license policies — the last of which coding agents can use to avoid recommending non-compliant packages."
+      }
+    }
+  ],
+  "upcoming": [],
+  "removeUpcoming": [],
+  "removeNews": []
+}
