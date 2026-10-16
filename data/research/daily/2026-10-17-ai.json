@@ -67,6 +67,28 @@
         "summary": "GitHub Code Security now lets Enterprise Cloud customers enforce license policies on dependencies and block noncompliant pull requests.",
         "details": "GitHub announced on October 16 that open source license compliance is now generally available for GitHub Enterprise Cloud customers using GitHub Code Security, letting enterprises manage dependency licenses at scale through a centralized, company-wide policy.\n\nA new ruleset condition, \"Require license compliance results before merging,\" applies the policy to targeted repositories. When a pull request adds or changes dependencies, GitHub checks each one against the policy and flags noncompliant packages automatically; developers can remove or replace the dependency, amend the policy, or request a package exception through a new Enterprise Open-Source License Manager role.\n\nSince the feature's June public preview, GitHub added license data for data-residency customers, audit log events for policy changes, and new API endpoints to read, update and check license policies — the last of which coding agents can use to avoid recommending non-compliant packages."
       }
+    },
+    {
+      "id": "cursor-cloud-agent-canvases-environments",
+      "date": "2026-10-16",
+      "type": "coding",
+      "importance": 1,
+      "sourceType": "official",
+      "sourceName": "Cursor Changelog",
+      "url": "https://cursor.com/changelog/cloud-agent-canvases-and-environments",
+      "originalTitle": "Cloud Agent Canvases and Environment Improvements",
+      "company": "Anysphere",
+      "tool": "Cursor",
+      "ar": {
+        "title": "Cursor تضيف لوحات تفاعلية وتحسينات لبيئات العمل السحابية",
+        "summary": "أصبح عملاء Cursor السحابيون قادرين على بناء لوحات تفاعلية قابلة للمشاركة، مع إطلاق واجهة برمجية تجريبية للبيئات وزيادة سعة البيئات السحابية إلى 300 مستودع وتسريع تحميلها خمس مرات.",
+        "details": "أعلنت Cursor في 16 أكتوبر أن عملاءها السحابيين (cloud agents) يمكنهم الآن بناء 'لوحات' (canvases) تفاعلية كجزء من عملهم، ومشاركة اللوحة المكتملة مع الفريق عبر رابط مباشر.\n\nكما طرحت الشركة واجهة برمجية تجريبية (Environments API) تتيح للمطورين إنشاء وإدارة بيئات تشغيل العملاء السحابيين برمجياً. وزادت Cursor السعة القصوى للبيئات السحابية إلى 300 مستودع، مع تسريع تحميل البيئات الكبيرة بمقدار خمس مرات."
+      },
+      "en": {
+        "title": "Cursor adds interactive canvases and cloud environment upgrades",
+        "summary": "Cursor's cloud agents can now build shareable interactive canvases, alongside a new beta Environments API and cloud environments that support up to 300 repos and load 5x faster.",
+        "details": "Cursor announced on October 16 that its cloud agents can now build interactive \"canvases\" as part of their work, which can be shared with a team via a direct link to the finished result.\n\nThe company also launched a beta Environments API, letting developers programmatically create and manage the cloud environments that agents run in. Cursor additionally raised the maximum size of cloud environments to 300 repositories, with large environments now loading up to 5x faster."
+      }
     }
   ],
   "upcoming": [],

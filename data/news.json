@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": "2026-10-16T21:17:35+00:00",
+ "updatedAt": "2026-10-16T22:09:59+00:00",
  "coverage": {
   "from": "2026-07-16",
   "to": "2026-10-16"
@@ -1882,6 +1882,29 @@
       "details": "GitHub updated the version of Copilot that runs inside Slack and Microsoft Teams so users can track pull requests, follow issues and review activity across several repositories in one conversation, instead of switching between separate conversations for each repository.\n\n- @GitHub can now be mentioned anywhere in a message, not just at the start\n- Switching between repositories mid-conversation is smoother\n- Copilot can use shared Slack messages and threads as extra context for its replies"
      },
      "addedAt": "2026-10-16T04:09:16+00:00"
+    },
+    {
+     "id": "cursor-cloud-agent-canvases-environments",
+     "date": "2026-10-16",
+     "type": "coding",
+     "importance": 1,
+     "sourceType": "official",
+     "sourceName": "Cursor Changelog",
+     "url": "https://cursor.com/changelog/cloud-agent-canvases-and-environments",
+     "originalTitle": "Cloud Agent Canvases and Environment Improvements",
+     "company": "Anysphere",
+     "tool": "Cursor",
+     "ar": {
+      "title": "Cursor تضيف لوحات تفاعلية وتحسينات لبيئات العمل السحابية",
+      "summary": "أصبح عملاء Cursor السحابيون قادرين على بناء لوحات تفاعلية قابلة للمشاركة، مع إطلاق واجهة برمجية تجريبية للبيئات وزيادة سعة البيئات السحابية إلى 300 مستودع وتسريع تحميلها خمس مرات.",
+      "details": "أعلنت Cursor في 16 أكتوبر أن عملاءها السحابيين (cloud agents) يمكنهم الآن بناء 'لوحات' (canvases) تفاعلية كجزء من عملهم، ومشاركة اللوحة المكتملة مع الفريق عبر رابط مباشر.\n\nكما طرحت الشركة واجهة برمجية تجريبية (Environments API) تتيح للمطورين إنشاء وإدارة بيئات تشغيل العملاء السحابيين برمجياً. وزادت Cursor السعة القصوى للبيئات السحابية إلى 300 مستودع، مع تسريع تحميل البيئات الكبيرة بمقدار خمس مرات."
+     },
+     "en": {
+      "title": "Cursor adds interactive canvases and cloud environment upgrades",
+      "summary": "Cursor's cloud agents can now build shareable interactive canvases, alongside a new beta Environments API and cloud environments that support up to 300 repos and load 5x faster.",
+      "details": "Cursor announced on October 16 that its cloud agents can now build interactive \"canvases\" as part of their work, which can be shared with a team via a direct link to the finished result.\n\nThe company also launched a beta Environments API, letting developers programmatically create and manage the cloud environments that agents run in. Cursor additionally raised the maximum size of cloud environments to 300 repositories, with large environments now loading up to 5x faster."
+     },
+     "addedAt": "2026-10-16T22:09:59+00:00"
     },
     {
      "id": "anthropic-independent-evaluators-program",
