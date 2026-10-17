@@ -1,24 +1,4 @@
 {
- "updatedAt": "2026-10-17T00:03:39+00:00",
- "items": [
-  {
-   "id": "auto-10646700db6d",
-   "tab": "ai",
-   "date": "2026-10-16",
-   "publishedAt": "2026-10-16T17:08:38+00:00",
-   "type": "model",
-   "importance": 1,
-   "sourceType": "community",
-   "sourceName": "Hacker News",
-   "url": "https://news.ycombinator.com/item?id=50121179",
-   "originalTitle": "90% of US working hours are spent on tasks not covered well by AI benchmarks",
-   "en": {
-    "title": "90% of US working hours are spent on tasks not covered well by AI benchmarks",
-    "summary": "Community discussion on Hacker News (373 points, 322 comments).",
-    "details": "Community discussion on Hacker News (373 points, 322 comments)."
-   },
-   "translated": false,
-   "fetchedAt": "2026-10-16T20:32:45+00:00"
-  }
- ]
+ "updatedAt": "2026-10-17T00:44:41+00:00",
+ "items": []
 }
