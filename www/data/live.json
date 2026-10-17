@@ -1,6 +1,25 @@
 {
- "updatedAt": "2026-10-17T12:04:58+00:00",
+ "updatedAt": "2026-10-17T12:35:50+00:00",
  "items": [
+  {
+   "id": "auto-a73e59be9f66",
+   "tab": "ai",
+   "date": "2026-10-17",
+   "publishedAt": "2026-10-17T08:37:46+00:00",
+   "type": "model",
+   "importance": 1,
+   "sourceType": "community",
+   "sourceName": "Hacker News",
+   "url": "https://news.ycombinator.com/item?id=50129121",
+   "originalTitle": "DeepSeek: DeepSeek v4.1 Flash 1017",
+   "en": {
+    "title": "DeepSeek: DeepSeek v4.1 Flash 1017",
+    "summary": "Community discussion on Hacker News (270 points, 96 comments).",
+    "details": "Community discussion on Hacker News (270 points, 96 comments)."
+   },
+   "translated": false,
+   "fetchedAt": "2026-10-17T12:35:45+00:00"
+  },
   {
    "id": "auto-4ac9e9f1090b",
    "tab": "ai",
