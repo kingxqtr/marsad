@@ -1,4 +1,24 @@
 {
- "updatedAt": "2026-10-17T10:58:09+00:00",
- "items": []
+ "updatedAt": "2026-10-17T11:20:01+00:00",
+ "items": [
+  {
+   "id": "auto-4ac9e9f1090b",
+   "tab": "ai",
+   "date": "2026-10-17",
+   "publishedAt": "2026-10-17T08:09:21+00:00",
+   "type": "model",
+   "importance": 1,
+   "sourceType": "community",
+   "sourceName": "r/LocalLLaMA",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x84po4/deepseekaideepseekv41flash1017_hugging_face/",
+   "originalTitle": "deepseek-ai/DeepSeek-V4.1-Flash-1017 · Hugging Face",
+   "en": {
+    "title": "deepseek-ai/DeepSeek-V4.1-Flash-1017 · Hugging Face",
+    "summary": "Community post on r/LocalLLaMA.",
+    "details": "Community post on r/LocalLLaMA."
+   },
+   "translated": false,
+   "fetchedAt": "2026-10-17T11:20:01+00:00"
+  }
+ ]
 }
