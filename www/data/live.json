@@ -1,6 +1,26 @@
 {
- "updatedAt": "2026-10-17T21:05:52+00:00",
+ "updatedAt": "2026-10-17T21:30:22+00:00",
  "items": [
+  {
+   "id": "auto-145e91d47a62",
+   "tab": "ai",
+   "date": "2026-10-17",
+   "publishedAt": "2026-10-17T21:00:13+00:00",
+   "type": "hardware",
+   "importance": 1,
+   "sourceType": "official",
+   "sourceName": "NVIDIA Blog",
+   "url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-windows-laptops-celebration/",
+   "originalTitle": "RTX Spark Ignites Global Celebration as New Windows PCs Arrive",
+   "en": {
+    "title": "RTX Spark Ignites Global Celebration as New Windows PCs Arrive",
+    "summary": "NVIDIA RTX Spark laptops are now available, bringing NVIDIA Blackwell RTX graphics, up to 128GB of unified memory and the full NVIDIA AI platform to slim, premium Windows PCs.",
+    "details": "NVIDIA RTX Spark laptops are now available, bringing NVIDIA Blackwell RTX graphics, up to 128GB of unified memory and the full NVIDIA AI platform to slim, premium Windows PCs.\n\nStarting at $2,399, laptops from ASUS, Dell, HP, Lenovo, Microsoft and MSI bring powerful local AI, content creation and gaming capabilities to a portable device, with additional systems on the way.\n\nNVIDIA celebrated the launch with events around the world, including one in Berlin, where NVIDIA founder and CEO Jensen Huang made a surprise appearance.\n\nA New Generation of Windows PCs Has Arrived\n\nRTX Spark brings decades of NVIDIA accelerated computing innovation into a single superchip, combining an NVIDIA Blackwell RTX GPU and NVIDIA Grace CPU with up to 1 petaflop of AI compute and up to 128GB of unified memory. Read more in the press release .\n\nRTX Spark Launch Celebrations Light Up Berlin\n\nThe arrival of RTX Spark brought fans, creators and PC enthusiasts together in Berlin during the Festival of Lights, an annual autumn art festival that transforms the German capital’s most famous landmarks, streets and squares into glowing canvases. This year, the festival featured RTX Spark-themed lighting on the Berlin TV Tower.\n\nBerlin sparked something special, indeed. …"
+   },
+   "translated": false,
+   "fetchedAt": "2026-10-17T21:30:17+00:00",
+   "company": "NVIDIA"
+  },
   {
    "id": "auto-7aae29d96c3e",
    "tab": "ai",
@@ -14,8 +34,8 @@
    "originalTitle": "DeepSeek-v4.1-Flash-1017",
    "en": {
     "title": "DeepSeek-v4.1-Flash-1017",
-    "summary": "Community discussion on Hacker News (581 points, 517 comments).",
-    "details": "Community discussion on Hacker News (581 points, 517 comments)."
+    "summary": "Community discussion on Hacker News (591 points, 526 comments).",
+    "details": "Community discussion on Hacker News (591 points, 526 comments)."
    },
    "translated": false,
    "fetchedAt": "2026-10-17T13:09:00+00:00"
