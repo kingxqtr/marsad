@@ -89,6 +89,28 @@
         "summary": "Cursor's cloud agents can now build shareable interactive canvases, alongside a new beta Environments API and cloud environments that support up to 300 repos and load 5x faster.",
         "details": "Cursor announced on October 16 that its cloud agents can now build interactive \"canvases\" as part of their work, which can be shared with a team via a direct link to the finished result.\n\nThe company also launched a beta Environments API, letting developers programmatically create and manage the cloud environments that agents run in. Cursor additionally raised the maximum size of cloud environments to 300 repositories, with large environments now loading up to 5x faster."
       }
+    },
+    {
+      "id": "deepseek-v4-1-flash-1017-update",
+      "date": "2026-10-17",
+      "type": "model",
+      "importance": 1,
+      "sourceType": "official",
+      "sourceName": "Hugging Face (deepseek-ai)",
+      "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
+      "originalTitle": "deepseek-ai/DeepSeek-V4.1-Flash-1017",
+      "company": "DeepSeek",
+      "tool": "DeepSeek-V4.1-Flash",
+      "ar": {
+        "title": "DeepSeek تطرح تحديثاً مصغراً لنموذج V4.1-Flash برخصة MIT",
+        "summary": "نشرت DeepSeek على Hugging Face نسخة محدثة بعنوان DeepSeek-V4.1-Flash-1017 تحسّن الاستدلال والترميز والمهام العميلة وتقلّص زمن التنفيذ وطول المخرجات.",
+        "details": "نشرت DeepSeek على Hugging Face تحديثاً مصغراً لنموذجها مفتوح المصدر DeepSeek-V4.1-Flash تحت اسم DeepSeek-V4.1-Flash-1017، برخصة MIT ذاتها.\n\nووفق بطاقة النموذج، يحسّن هذا الإصدار الأداء في الاستدلال والترميز والمهام العميلة (agentic) والمقاييس البصرية مقارنة بالإصدار السابق، مع تقليص زمن تنفيذ المهام وطول المخرجات، مما يخفّض التكلفة. وأظهرت مقاييس مثل Terminal-Bench وProgramBench وApex Bench تحسناً ملحوظاً، من دون أن تكشف الشركة عن تفاصيل تقنية للتغييرات الكامنة خلف هذه النتائج."
+      },
+      "en": {
+        "title": "DeepSeek ships minor update to V4.1-Flash model under MIT license",
+        "summary": "DeepSeek published DeepSeek-V4.1-Flash-1017 on Hugging Face, a minor update improving reasoning, coding and agentic benchmarks while cutting task time and output length.",
+        "details": "DeepSeek published a minor update to its open-source DeepSeek-V4.1-Flash model on Hugging Face under the name DeepSeek-V4.1-Flash-1017, keeping the same MIT license.\n\nPer the model card, the update improves reasoning, coding, agentic-task and visual benchmark performance over the prior version while reducing task execution time and output length, lowering cost. Benchmarks such as Terminal-Bench, ProgramBench and Apex Bench showed notable gains, though the card does not detail the technical changes behind the improvements."
+      }
     }
   ],
   "upcoming": [],
