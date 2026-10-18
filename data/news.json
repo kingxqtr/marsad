@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": "2026-10-18T18:08:43+00:00",
+ "updatedAt": "2026-10-18T19:09:50+00:00",
  "coverage": {
   "from": "2026-07-18",
   "to": "2026-10-18"
@@ -1683,6 +1683,28 @@
   },
   "ai": {
    "news": [
+    {
+     "id": "anthropic-public-benefit-fund-launch",
+     "date": "2026-10-18",
+     "type": "business",
+     "importance": 2,
+     "sourceType": "official",
+     "sourceName": "Anthropic Newsroom",
+     "url": "https://www.anthropic.com/news/public-benefit-fund",
+     "originalTitle": "Investing in the public benefit",
+     "company": "Anthropic",
+     "ar": {
+      "title": "أنثروبيك تنشئ صندوقاً للمنفعة العامة بحصة من أسهمها",
+      "summary": "تخصص أنثروبيك 5% من أسهمها لصندوق منفعة عامة جديد، مع إمكانية إضافة 2% أخرى عند كل زيادة 50% في قيمة الشركة.",
+      "details": "أعلنت أنثروبيك إنشاء \"صندوق المنفعة العامة\"، وهو كيان مملوك لها بالكامل يحصل على 5% من أسهمها كبداية، رهناً بموافقة المساهمين، مع إمكانية أن يضيف مجلس الإدارة 2% أخرى عند كل زيادة بنسبة 50% في قيمة الشركة عن حد أساسي محدد.\n\nالصندوق شركة ذات مسؤولية محدودة وليس جمعية خيرية، مما يعطيه مرونة أكبر في أشكال العطاء، لكن أسهمه لن تُستخدم في التأثير السياسي أو جماعات الضغط داخل الولايات المتحدة أو خارجها.\n\nيأتي هذا إلى جانب تعهد مؤسسي الشركة بالتبرع بـ80% من أسهمهم وبرنامج مطابقة تبرعات الموظفين، بحيث يصل إجمالي الحصة المخصصة للمنفعة العامة إلى نحو 20% من الشركة. وتقول أنثروبيك إنها ستعلن تفاصيل أكثر عن حوكمة الصندوق وتقييماته خلال الأشهر المقبلة."
+     },
+     "en": {
+      "title": "Anthropic creates Public Benefit Fund funded by company shares",
+      "summary": "Anthropic is dedicating 5% of its shares to a new Public Benefit Fund, with up to 2% more added for every 50% rise in company value.",
+      "details": "Anthropic announced the Anthropic Public Benefit Fund, a wholly-owned LLC that will hold an initial 5% of the company's shares, subject to stockholder approval. The board may add another 2% for every 50% increase in company value above a set baseline.\n\nStructuring it as an LLC rather than a 501(c)(3) nonprofit gives the Fund flexibility in how it gives, though its equity will not be used for lobbying or political giving in the US or abroad.\n\nCombined with the co-founders' existing pledge of 80% of their equity and an employee equity-donation match program, roughly 20% of Anthropic's shares are now earmarked for public benefit. The company says it will share more on the Fund's governance and valuation milestones in the coming months and publish a public benefit report on its progress."
+     },
+     "addedAt": "2026-10-18T19:09:50+00:00"
+    },
     {
      "id": "deepseek-v4-1-flash-1017-update",
      "date": "2026-10-17",
