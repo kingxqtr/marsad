@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": "2026-10-18T20:08:31+00:00",
+ "updatedAt": "2026-10-18T21:12:59+00:00",
  "coverage": {
   "from": "2026-07-18",
   "to": "2026-10-18"
@@ -1704,6 +1704,28 @@
       "details": "Anthropic announced the Anthropic Public Benefit Fund, a wholly-owned LLC that will hold an initial 5% of the company's shares, subject to stockholder approval. The board may add another 2% for every 50% increase in company value above a set baseline.\n\nStructuring it as an LLC rather than a 501(c)(3) nonprofit gives the Fund flexibility in how it gives, though its equity will not be used for lobbying or political giving in the US or abroad.\n\nCombined with the co-founders' existing pledge of 80% of their equity and an employee equity-donation match program, roughly 20% of Anthropic's shares are now earmarked for public benefit. The company says it will share more on the Fund's governance and valuation milestones in the coming months and publish a public benefit report on its progress."
      },
      "addedAt": "2026-10-18T19:09:50+00:00"
+    },
+    {
+     "id": "deepseek-search-fetch-api-launch",
+     "date": "2026-10-17",
+     "type": "product",
+     "importance": 2,
+     "sourceType": "official",
+     "sourceName": "DeepSeek API Docs",
+     "url": "https://api-docs.deepseek.com/news/news261017",
+     "originalTitle": "DeepSeek Search API and Fetch API now open to everyone",
+     "company": "DeepSeek",
+     "ar": {
+      "title": "ديب سيك تطرح واجهتي البحث والجلب Search وFetch لجميع المطورين",
+      "summary": "تتيح ديب سيك الآن واجهتي Search API وFetch API المبنيتين على محرك بحثها الداخلي لجميع المطورين، بسعر 0.75 دولار لكل 1000 طلب ناجح لكل واجهة.",
+      "details": "أعلنت ديب سيك فتح واجهتي Search API وFetch API أمام جميع المطورين، وهما مبنيتان على محرك البحث الداخلي للشركة الذي يعالج مئات ملايين الاستعلامات يومياً.\n\nتحدد ديب سيك سعر كل واجهة بـ0.75 دولار لكل 1000 طلب ناجح، على أن تبقى الاستدعاءات التي تتم عبر أدوات الخادم في DeepSeek Harness وClaude Code وCodex مجانية حتى بدء الفوترة في 31 أكتوبر 2026 الساعة 16:00 بتوقيت غرينتش.\n\nتأتي هذه الخطوة في نفس تحديث سجل التغييرات الذي شمل تحديثاً طفيفاً لنموذج V4.1-Flash، وتهدف إلى تمكين الوكلاء والتطبيقات من الوصول المباشر لنتائج البحث وجلب محتوى الصفحات."
+     },
+     "en": {
+      "title": "DeepSeek opens Search and Fetch APIs to all developers",
+      "summary": "DeepSeek has opened its Search API and Fetch API, built on its in-house search engine, to all developers at $0.75 per 1,000 successful requests each.",
+      "details": "DeepSeek has opened its Search API and Fetch API to all developers, built on the company's in-house search engine that handles hundreds of millions of queries a day.\n\nEach endpoint is priced at $0.75 per 1,000 successful requests. Calls made through server-side tools in DeepSeek Harness, Claude Code, and Codex remain free until billing begins on October 31, 2026 at 16:00 UTC.\n\nThe launch appears in the same changelog update that included a minor refresh to the V4.1-Flash model, and is aimed at giving agents and applications direct access to search results and page-fetching."
+     },
+     "addedAt": "2026-10-17T23:59:59+00:00"
     },
     {
      "id": "deepseek-v4-1-flash-1017-update",
