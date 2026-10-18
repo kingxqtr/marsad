@@ -1,4 +1,25 @@
 {
- "updatedAt": "2026-10-18T17:52:22+00:00",
- "items": []
+ "updatedAt": "2026-10-18T18:12:57+00:00",
+ "items": [
+  {
+   "id": "auto-a14270afa4ea",
+   "tab": "ai",
+   "date": "2026-10-18",
+   "publishedAt": "2026-10-18T00:00:00+00:00",
+   "type": "business",
+   "importance": 1,
+   "sourceType": "official",
+   "sourceName": "Anthropic Newsroom",
+   "url": "https://www.anthropic.com/news/public-benefit-fund",
+   "originalTitle": "Investing in the public benefit",
+   "en": {
+    "title": "Investing in the public benefit",
+    "summary": "Investing in the public benefit",
+    "details": ""
+   },
+   "translated": false,
+   "fetchedAt": "2026-10-18T18:12:52+00:00",
+   "company": "Anthropic"
+  }
+ ]
 }
