@@ -1,4 +1,25 @@
 {
- "updatedAt": "2026-10-19T12:10:27+00:00",
- "items": []
+ "updatedAt": "2026-10-19T13:01:47+00:00",
+ "items": [
+  {
+   "id": "auto-9a5ba6f06103",
+   "tab": "ai",
+   "date": "2026-10-19",
+   "publishedAt": "2026-10-19T13:00:02+00:00",
+   "type": "product",
+   "importance": 1,
+   "sourceType": "official",
+   "sourceName": "Official Microsoft Blog",
+   "url": "https://blogs.microsoft.com/blog/2026/10/19/securing-the-agentic-insider/",
+   "originalTitle": "Securing the agentic insider",
+   "en": {
+    "title": "Securing the agentic insider",
+    "summary": "In the last few months, concerns have arisen about AI safety as a growing number of incidents were publicly disclosed. These incidents exposed how powerful models have become and how they represent a significant threat if not handled well.",
+    "details": "In the last few months, concerns have arisen about AI safety as a growing number of incidents were publicly disclosed. These incidents exposed how powerful models have become and how they represent a significant threat if not handled well. And with the global race on innovation, the challenge will compound as models become even more powerful.\n\nWhile most have been worried about threat actors using powerful models to attack, the focus has been less on agents within our own walls. Since we were the ones who deployed agents internally for our companies, we implicitly trusted our agents.\n\nUnfortunately, frontier models, regardless of their origin, cannot be trusted . This is not because models are inherently malicious. Models have been trained to attain results, which often leads to reward hacking, and models are not optimized around organizational norms or judgment. Agents are unpredictable. They will adapt as the context changes, may not behave as intended and will collaborate and collude with other agents to reach their objectives, without needing to be compromised.\n\nAgents have been unleashed in the enterprise, at scale, and their numbers are growing rapidly. These agents are frequently overprivileged, have access to data, tools and systems and can take actions and make decisions in critical processes. They have become active participants in the enterprise.\n\nThey are agentic insiders. …"
+   },
+   "translated": false,
+   "fetchedAt": "2026-10-19T13:01:40+00:00",
+   "company": "Microsoft"
+  }
+ ]
 }
