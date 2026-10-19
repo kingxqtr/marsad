@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": "2026-10-19T19:09:57+00:00",
+ "updatedAt": "2026-10-19T20:09:58+00:00",
  "coverage": {
   "from": "2026-07-19",
   "to": "2026-10-19"
@@ -1683,6 +1683,28 @@
   },
   "ai": {
    "news": [
+    {
+     "id": "nvidia-germany-industrial-ai-declaration",
+     "date": "2026-10-19",
+     "type": "business",
+     "importance": 2,
+     "sourceType": "official",
+     "sourceName": "NVIDIA Blog",
+     "url": "https://blogs.nvidia.com/blog/germany-wants-to-lead-the-world-in-industrial-ai-how-nvidia-will-help/",
+     "originalTitle": "Germany Wants to Lead the World in Industrial AI: How NVIDIA Will Help",
+     "company": "NVIDIA",
+     "ar": {
+      "title": "نفيديا وألمانيا توقّعان إعلان نوايا مشتركاً بشأن الذكاء الاصطناعي الصناعي",
+      "summary": "في قمة \"الاستثمار في ألمانيا\" ببرلين، وقّع المستشار ميرتس والرئيس التنفيذي لنفيديا جنسن هوانغ إعلان نوايا للتعاون في تطوير نماذج ذكاء اصطناعي صناعي، مع استثمارات جديدة في أربع شركات ناشئة ألمانية.",
+      "details": "وقّع المستشار الألماني فريدريش ميرتس والرئيس التنفيذي لشركة نفيديا جنسن هوانغ، إلى جانب وزارتي الاقتصاد والطاقة الاتحادية والبحث والتكنولوجيا والفضاء الاتحادية، إعلان نوايا مشتركاً خلال قمة \"الاستثمار في ألمانيا\" في برلين يوم 19 أكتوبر. يلزم الإعلان الأطراف بمبادرة مشتركة لتطوير نماذج ذكاء اصطناعي متقدمة للتطبيقات الصناعية الفعلية، بناءً على تعاون نفيديا القائم مع منصة \"الصناعة 4.0\" الألمانية.\n\nواستعرض هوانغ علاقة نفيديا الطويلة مع الصناعة الألمانية التي بدأت بأنظمة الألعاب ومحطات العمل وتصميم السيارات في أوائل الألفية، وتطورت اليوم لتشمل شراكات في القيادة الذاتية والتوائم الرقمية للتصنيع. وقال ميرتس إنه يريد أن تكون نقاط قوة ألمانيا في التصنيع والآلات والسيارات ركيزة لريادتها في الذكاء الاصطناعي، ودعا الشركات الصغيرة والمتوسطة إلى مشاركة بياناتها مع أنظمة الذكاء الاصطناعي، كما اقترح عقد لقاء سنوي مع هوانغ لمتابعة التقدم.\n\nوأعلنت نفيديا أيضاً استثمارات جديدة في أربع شركات ألمانية ناشئة هي Agile Robots وAvelios Medical وMirelo وReflex Aerospace، في إطار التزام يقارب 10 مليارات دولار عبر أوروبا، كما أعلنت شركة Siemens في اليوم نفسه عن شراكة جديدة منفصلة مع نفيديا."
+     },
+     "en": {
+      "title": "NVIDIA and Germany sign joint declaration on industrial AI",
+      "summary": "At Berlin's Invest in Germany Summit, Chancellor Merz and NVIDIA CEO Jensen Huang signed a declaration to jointly develop physical AI models, alongside new NVIDIA investments in four German startups.",
+      "details": "At the Invest in Germany Summit in Berlin on October 19, German Chancellor Friedrich Merz and NVIDIA founder and CEO Jensen Huang, together with the Federal Ministry for Economic Affairs and Energy and the Federal Ministry for Research, Technology and Space, signed a Joint Declaration of Intent. It commits the parties to a joint initiative advancing AI models for physical, industrial applications, building on NVIDIA's existing work with Germany's Industry 4.0 Platform.\n\nHuang traced NVIDIA's ties to German industry back to gaming systems, workstations and automotive design in the early 2000s, now extended into autonomous driving and digital twins for manufacturing. Merz said he wants Germany's strengths in manufacturing, machinery and automotive to anchor its AI leadership, and urged small and mid-sized 'Mittelstand' firms to share their data with AI systems; he proposed meeting Huang at least once a year to track progress.\n\nNVIDIA also announced new investments in four German startups - Agile Robots, Avelios Medical, Mirelo and Reflex Aerospace - part of a nearly $10 billion commitment across Europe, and Siemens separately announced its own new partnership with NVIDIA the same day."
+     },
+     "addedAt": "2026-10-19T20:09:58+00:00"
+    },
     {
      "id": "nvidia-ebu-media-agentic-security-berlin",
      "date": "2026-10-19",
