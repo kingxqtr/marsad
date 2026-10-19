@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": "2026-10-19T15:13:18+00:00",
+ "updatedAt": "2026-10-19T16:12:54+00:00",
  "coverage": {
   "from": "2026-07-19",
   "to": "2026-10-19"
@@ -1683,6 +1683,28 @@
   },
   "ai": {
    "news": [
+    {
+     "id": "nvidia-ebu-media-agentic-security-berlin",
+     "date": "2026-10-19",
+     "type": "product",
+     "importance": 1,
+     "sourceType": "official",
+     "sourceName": "NVIDIA Blog",
+     "url": "https://blogs.nvidia.com/blog/media-agentic-security-european-public-service-broadcasting-global-content-production/",
+     "originalTitle": "NVIDIA Advances Agentic Security for Media, From European Public Service Broadcasting to Global Content Production",
+     "company": "NVIDIA",
+     "ar": {
+      "title": "نفيديا والاتحاد الأوروبي للبث يوسّعان معايير الذكاء الاصطناعي السيادي للمحطات الأوروبية",
+      "summary": "في فعالية إعلامية ببرلين بحضور Adobe وBertelsmann وUFA، وسّعت NVIDIA والاتحاد الأوروبي للبث إطار الذكاء الاصطناعي السيادي الخاص بهما، في حين سرّعت أدوات Adobe Frame.io البحث في الأرشيف لصالح UFA.",
+      "details": "في فعالية للصناعات الإبداعية أُقيمت في برلين يوم 19 أكتوبر، عرضت NVIDIA وAdobe وBertelsmann والمنتج الألماني UFA أدوات ذكاء اصطناعي وكيلي جديدة للإعلام، إلى جانب توسيع إطار السيادة الرقمية الذي أعلنته NVIDIA مع الاتحاد الأوروبي للبث (EBU).\n\nيمثّل الاتحاد الأوروبي للبث أكثر من 115 هيئة بث عامة في أكثر من 55 دولة، وهو يوسّع الآن المعايير السيادية التي وضعها مع NVIDIA العام الماضي لتشمل مزوّدي سحابة سياديين ومطوّري نماذج مفتوحة وشركات تكامل أنظمة. وستُطابق Microsoft هذه المعايير مع خدماتها Azure Local وFoundry Local، بينما تقدّم Nebius منصة أوروبية للتدريب والتشغيل، وتعمل نماذج NVIDIA المفتوحة Nemotron كأساس قابل للتخصيص، بما يتيح لمحطات البث معالجة المواد الحساسة محليًا تحت سيطرتها الكاملة.\n\nفي جانب آخر، استخدمت منصة Adobe Frame.io أدوات NVIDIA مثل CUDA وTensorRT وتقنيات فك التشفير لتسريع البحث في الأرشيف، مع نتائج تُظهر فهرسة أسرع بنحو 5 مرات وزمن بحث أقل بنحو 5 مرات. وتستخدم UFA، التي تنتج أكثر من 3500 ساعة من البرامج سنويًا، هذا البحث المطوَّر للعثور على مشاهد محددة ضمن 15 عامًا من أرشيف مسلسلها الطويل \"Gute Zeiten, schlechte Zeiten\"."
+     },
+     "en": {
+      "title": "NVIDIA and EBU expand sovereign AI standards for European broadcasters",
+      "summary": "At a Berlin media event with Adobe, Bertelsmann and UFA, NVIDIA and the European Broadcasting Union expanded their sovereign AI framework, while Adobe's Frame.io sped up archive search for producer UFA.",
+      "details": "At a creative-industry event in Berlin on October 19, NVIDIA, Adobe, Bertelsmann and German producer UFA showcased new agentic AI tools for media, alongside an expanded sovereignty framework from NVIDIA and the European Broadcasting Union (EBU).\n\nThe EBU, which represents more than 115 public broadcasters in over 55 countries, is widening the sovereign standards it set with NVIDIA last year to include sovereign cloud providers, open-model developers and systems integrators. Microsoft will map the standards to its Azure Local and Foundry Local offerings, Nebius will offer a European training and inference platform, and NVIDIA's open Nemotron models serve as a customizable base, letting broadcasters process sensitive material locally under their own control.\n\nSeparately, Adobe's Frame.io used NVIDIA's CUDA, TensorRT and video-decoding tools to speed up its archive search pipeline, citing roughly 5x faster indexing and up to 5x lower search latency. UFA, which produces more than 3,500 hours of programming a year, is using the upgraded search to find specific scenes across 15 years of footage from its long-running drama \"Gute Zeiten, schlechte Zeiten.\""
+     },
+     "addedAt": "2026-10-19T16:12:54+00:00"
+    },
     {
      "id": "microsoft-agentic-insider-security-oct19",
      "date": "2026-10-19",
