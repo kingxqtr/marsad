@@ -3,6 +3,27 @@
   "generatedAt": "2026-10-19",
   "news": [
     {
+      "id": "huggingface-torchneuron-trainium-plugin",
+      "date": "2026-10-19",
+      "type": "product",
+      "importance": 1,
+      "sourceType": "official",
+      "sourceName": "Hugging Face Blog",
+      "url": "https://huggingface.co/blog/hf-torchneuron",
+      "originalTitle": "TorchNeuron: running HF models on AWS Trainium is easier than ever",
+      "company": "Hugging Face",
+      "ar": {
+        "title": "هاغينغ فيس تطرح TorchNeuron لتشغيل نماذجها على رقائق Trainium من أمازون",
+        "summary": "تطرح هاغينغ فيس إضافة TorchNeuron التي تعامل رقائق AWS Trainium كأي معالج آخر ضمن مكتباتها، في نسخة تجريبية عامة تبدأ 20 أكتوبر.",
+        "details": "أعلنت هاغينغ فيس عن TorchNeuron، إضافة لـPyTorch تضيف دعماً أصلياً لرقائق AWS Trainium، وتدعم النمط التفاعلي Eager mode وtorch.compile وواجهات PyTorch الموزعة مثل FSDP والتوازي عبر المعاملات.\n\nتدخل الإضافة نسخة تجريبية عامة في 20 أكتوبر 2026 عبر pip install torch-neuronx، وتنصح هاغينغ فيس المستخدمين بالانتقال من Optimum Neuron إلى مكتباتها مباشرة مثل Transformers وDiffusers وAccelerate وPEFT وTRL وKernels، التي تتعامل الآن مع Trainium كمعالج عادي.\n\nفي Transformers، يكفي تمرير device_map=neuron لنقل النموذج إلى أجهزة Neuron، مع عمل 89% من أهم 100 بنية لتوليد النصوص مباشرة دون تعديل، مقارنة بـ46% فقط مع Optimum Neuron 0.4.5 سابقاً. كما تدعم Diffusers عدة خطوط أنابيب بما فيها FLUX.1-dev وFLUX.2 وQwen-Image مع التوازي عبر المعاملات، بينما تُنشر نوى Neuron مخصصة على Hub، أحدها يحقق تسريعاً يصل إلى 2.4 مرة في نموذج محوّل بصري."
+      },
+      "en": {
+        "title": "Hugging Face launches TorchNeuron plugin for AWS Trainium chips",
+        "summary": "Hugging Face's TorchNeuron treats AWS Trainium as a standard PyTorch device across Transformers, Diffusers and other libraries, entering public beta October 20.",
+        "details": "Hugging Face announced TorchNeuron, a PyTorch plugin that adds a native backend for AWS Trainium, supporting eager mode, torch.compile, and PyTorch's distributed APIs such as FSDP and tensor parallelism.\n\nThe plugin enters public beta on October 20, 2026 via pip install torch-neuronx. Hugging Face recommends Neuron users move from Optimum Neuron to its core libraries directly, as Transformers, Diffusers, Accelerate, PEFT, TRL and Kernels now treat Trainium like any other accelerator.\n\nIn Transformers, passing device_map=neuron moves a model to Neuron devices, with 89% of the top 100 text-generation architectures working out of the box versus 46% for Optimum Neuron v0.4.5. Diffusers supports pipelines including FLUX.1-dev, FLUX.2 and Qwen-Image with tensor parallelism, and Neuron-specific kernels are being shared on the Hub, with one vision-transformer kernel reporting up to a 2.4x speedup."
+      }
+    },
+    {
       "id": "deepseek-search-fetch-api-launch",
       "date": "2026-10-17",
       "type": "product",
