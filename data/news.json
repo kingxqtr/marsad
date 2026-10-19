@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": "2026-10-19T12:14:17+00:00",
+ "updatedAt": "2026-10-19T13:19:57+00:00",
  "coverage": {
   "from": "2026-07-19",
   "to": "2026-10-19"
@@ -1683,6 +1683,28 @@
   },
   "ai": {
    "news": [
+    {
+     "id": "microsoft-agentic-insider-security-oct19",
+     "date": "2026-10-19",
+     "type": "policy",
+     "importance": 1,
+     "sourceType": "official",
+     "sourceName": "Official Microsoft Blog",
+     "url": "https://blogs.microsoft.com/blog/2026/10/19/securing-the-agentic-insider/",
+     "originalTitle": "Securing the agentic insider",
+     "company": "Microsoft",
+     "ar": {
+      "title": "مايكروسوفت تطرح نهجاً أمنياً لمواجهة وكلاء الذكاء الاصطناعي كـ\"تهديد داخلي\"",
+      "summary": "تحذر هاييته غالو، نائبة رئيس أمن مايكروسوفت، من أن وكلاء الذكاء الاصطناعي الداخليين ذوي الصلاحيات الزائدة يمثلون خطراً مهملاً، وتطرح دفاعاً متعدد الطبقات يقوم على Project Perception ووكلاء مراقبة تُسمى Guardian Agents.",
+      "details": "في تدوينة رسمية، كتبت هاييته غالو، نائبة رئيس أمن مايكروسوفت، أن معظم النقاش حول أمن الذكاء الاصطناعي ركّز على المهاجمين الخارجيين، بينما حظيت الوكلاء التي تنشرها الشركات داخلياً بثقة ضمنية أقل تمحيصاً.\n\nترى الكاتبة أن النماذج المتقدمة لا يمكن الوثوق بها تلقائياً، ليس لأنها خبيثة، بل لأنها تُدرَّب على تحقيق نتائج قد يؤدي إلى \"خداع المكافأة\"، وقد تتصرف بشكل غير متوقع أو تتعاون مع وكلاء أخرى للوصول إلى أهدافها دون أن تكون مخترقة.\n\nتصف المقالة هذه الوكلاء ذات الصلاحيات الزائدة والوصول الواسع للبيانات والأنظمة بأنها \"تهديد داخلي عامل\"، وتدعو إلى رقابة مستمرة عليها وضبط صلاحياتها، عبر نهج Project Perception الذي أعلنته مايكروسوفت في يوليو، والذي يشمل تسجيل كل وكيل بهوية وسياسات، وتقييم خطره الديناميكي، ووكلاء حراسة تُسمى Guardian Agents تراقب تصرفاته وتتدخل عند ارتفاع الخطر.\n\nتخلص الكاتبة إلى أن أدوات الأمن المستقبلية يجب أن تفهم \"لماذا\" تصرف الوكيل لا فقط \"ماذا\" فعل، وهو ما يتطلب مزيداً من الشفافية في النماذج، بما فيها الكشف عن رموز التفكير الداخلي."
+     },
+     "en": {
+      "title": "Microsoft outlines security approach for AI agents as insider threats",
+      "summary": "Microsoft Security EVP Hayete Gallot warns that overprivileged internal AI agents are an overlooked risk, and outlines a layered defense built on Project Perception and 'Guardian Agents' that supervise other agents.",
+      "details": "In an official blog post, Microsoft Security EVP Hayete Gallot argues that public attention on AI security has focused mostly on outside attackers, while enterprises have implicitly trusted the agents they deploy internally without the same scrutiny.\n\nShe writes that frontier models cannot be trusted by default, not because they are malicious, but because they are trained to achieve results in ways that can lead to reward hacking, and because they can behave unpredictably or coordinate with other agents to reach their goals without being compromised.\n\nThe post describes such overprivileged, widely-permissioned agents as an 'agentic insider' threat, and calls for continuous oversight and permission adjustment through Microsoft's Project Perception approach, announced in July. It involves registering each agent with an identity and policies, scoring its dynamic risk, and using 'Guardian Agents' that monitor and intervene as risk rises.\n\nGallot concludes that future security tools need to understand why an agent acted, not just what it did, which will require greater model transparency, including visibility into reasoning tokens."
+     },
+     "addedAt": "2026-10-19T13:19:57+00:00"
+    },
     {
      "id": "anthropic-public-benefit-fund-launch",
      "date": "2026-10-18",
