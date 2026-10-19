@@ -1,6 +1,26 @@
 {
- "updatedAt": "2026-10-19T19:29:42+00:00",
+ "updatedAt": "2026-10-19T20:04:24+00:00",
  "items": [
+  {
+   "id": "auto-76da373c496a",
+   "tab": "ai",
+   "date": "2026-10-19",
+   "publishedAt": "2026-10-19T19:27:08+00:00",
+   "type": "media",
+   "importance": 1,
+   "sourceType": "official",
+   "sourceName": "NVIDIA Blog",
+   "url": "https://blogs.nvidia.com/blog/germany-wants-to-lead-the-world-in-industrial-ai-how-nvidia-will-help/",
+   "originalTitle": "Germany Wants to Lead the World in Industrial AI: How NVIDIA Will Help",
+   "en": {
+    "title": "Germany Wants to Lead the World in Industrial AI: How NVIDIA Will Help",
+    "summary": "In the cavernous hall of Kraftwerk, a former power station in Berlin, German Chancellor Friedrich Merz and NVIDIA founder and CEO Jensen Huang sat down to discuss Germany’s AI roadmap, and in particular, the industrial applications of AI.",
+    "details": "In the cavernous hall of Kraftwerk, a former power station in Berlin, German Chancellor Friedrich Merz and NVIDIA founder and CEO Jensen Huang sat down to discuss Germany’s AI roadmap, and in particular, the industrial applications of AI.\n\nHuang opened by tracing NVIDIA’s longstanding relationship with German industry, beginning with gaming systems, workstations and automotive design in the early 2000s and leading to today’s partnerships in autonomous vehicle development and digital twins for manufacturing.\n\nThe conversation focused on how Germany can make the most of the AI revolution by playing to its strengths in manufacturing and automotive — and by encouraging AI adoption across the country’s ecosystem of small and medium-sized companies.\n\nEarlier in the day, as part of the Invest in Germany Summit, Chancellor Merz, the Federal Ministry for Economic Affairs and Energy and the Federal Ministry for Research, Technology and Space signed a Joint Declaration of Intent with NVIDIA.\n\nThe German federal government’s aim is to merge traditional German engineering and manufacturing expertise with cutting-edge research and AI technology. The declaration sets out an agreement to work on a joint initiative with NVIDIA to advance cutting edge AI models for physical AI. …"
+   },
+   "translated": false,
+   "fetchedAt": "2026-10-19T20:04:19+00:00",
+   "company": "NVIDIA"
+  },
   {
    "id": "auto-ef5697e31e3e",
    "tab": "ai",
@@ -14,8 +34,8 @@
    "originalTitle": "Timestral: Mistral release time-series foundation models",
    "en": {
     "title": "Timestral: Mistral's time-series foundation models",
-    "summary": "Community discussion on Hacker News (445 points, 84 comments).",
-    "details": "Community discussion on Hacker News (445 points, 84 comments)."
+    "summary": "Community discussion on Hacker News (457 points, 85 comments).",
+    "details": "Community discussion on Hacker News (457 points, 85 comments)."
    },
    "translated": false,
    "fetchedAt": "2026-10-19T15:38:10+00:00"
