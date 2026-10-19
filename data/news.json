@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": "2026-10-19T20:09:58+00:00",
+ "updatedAt": "2026-10-19T21:17:35+00:00",
  "coverage": {
   "from": "2026-07-19",
   "to": "2026-10-19"
@@ -1706,6 +1706,74 @@
      "addedAt": "2026-10-19T20:09:58+00:00"
     },
     {
+     "id": "nvidia-julich-quantum-simulation-record",
+     "date": "2026-10-19",
+     "type": "hardware",
+     "importance": 2,
+     "sourceType": "official",
+     "sourceName": "NVIDIA Newsroom",
+     "url": "https://nvidianews.nvidia.com/news/nvidia-runs-record-simulation-of-fault-tolerant-quantum-computing-at-julich-supercomputing-centre",
+     "originalTitle": "NVIDIA Runs Record Simulation of Fault-Tolerant Quantum Computing at Jülich Supercomputing Centre",
+     "company": "NVIDIA",
+     "ar": {
+      "title": "NVIDIA تنفذ أكبر محاكاة للحوسبة الكمية المتسامحة مع الأخطاء في JUPITER",
+      "summary": "محاكت NVIDIA ومركز Jülich الألماني للحوسبة الفائقة 104 كيوبت على الحاسوب الفائق JUPITER، في أكبر محاكاة شاملة لمعالج كمي متسامح مع الأخطاء حتى الآن.",
+      "details": "أعلنت NVIDIA بالتعاون مع مركز Jülich الألماني للحوسبة الفائقة عن محاكاة قياسية لمعالج كمي متسامح مع الأخطاء يضم 104 كيوبت، نُفذت على الحاسوب الفائق JUPITER الذي يوصف بأنه أول نظام إكساسكيل في أوروبا وأكبر حاسوب فائق فيها.\n\nركزت المحاكاة على طريقة \"زراعة الحالات السحرية\" (magic state cultivation)، أحد أبرز الأساليب الواعدة لبناء حواسيب كمية متسامحة مع الأخطاء، وأثبتت أن هذه الطريقة تحتاج إلى أقل بنسبة 90% من الكيوبتات الفعلية مقارنة بالأساليب السابقة. كما تضمنت المحاكاة ضجيجاً واقعياً يحاكي عيوب الأجهزة الحقيقية، بخلاف محاكاة سابقة لمركز Jülich شملت 50 كيوبت في ظروف مثالية بلا ضجيج.\n\nاستخدم الفريق معالجات NVIDIA GH200 الفائقة، بعد تطوير الأسلوب على نظام GB200 NVL72 في مركز NVAQC التابع لـ NVIDIA ثم التوسع إلى 8192 معالج رسومي على JUPITER، باستخدام برمجيتي cuQuantum وطبقة الحوسبة الكمية المتسامحة في CUDA-Q. وبحسب NVIDIA، أصبحت عمليات محاكاة كانت تستغرق أسابيع تنتهي الآن في أيام فقط."
+     },
+     "en": {
+      "title": "NVIDIA runs record fault-tolerant quantum simulation on JUPITER supercomputer",
+      "summary": "NVIDIA and Germany's Jülich Supercomputing Centre simulated a 104-qubit fault-tolerant quantum processor on JUPITER, the largest such simulation to date.",
+      "details": "NVIDIA, working with Germany's Jülich Supercomputing Centre, announced a record-scale simulation of a fault-tolerant quantum processor spanning 104 qubits, run on JUPITER, described as Europe's first exascale supercomputer and its largest.\n\nThe work focused on magic state cultivation, a leading approach to fault-tolerant quantum computing, and showed the method needs 90% fewer physical qubits than earlier techniques. The simulation also included realistic hardware noise, going beyond an earlier Jülich simulation of 50 qubits under ideal, noiseless conditions.\n\nThe team used NVIDIA GH200 superchips, developing the approach on a GB200 NVL72 system at NVIDIA's NVAQC center before scaling to 8,192 GPUs on JUPITER, with NVIDIA cuQuantum and CUDA-Q's fault-tolerant logical layer handling the computation. NVIDIA said simulations that once took weeks now finish in days, which it says could speed up the design of future quantum computers for fields like drug discovery and materials science."
+     },
+     "addedAt": "2026-10-19T21:17:35+00:00"
+    },
+    {
+     "id": "inception-mercury-3-diffusion-llm",
+     "date": "2026-10-19",
+     "type": "model",
+     "importance": 2,
+     "sourceType": "official",
+     "sourceName": "Inception Labs Blog",
+     "url": "https://www.inceptionlabs.ai/blog/introducing-mercury-3",
+     "originalTitle": "Diffusion at Scale: Introducing Mercury 3",
+     "company": "Inception",
+     "tool": "Mercury 3",
+     "ar": {
+      "title": "Inception تطلق Mercury 3 نموذج اللغة القائم على الانتشار الأسرع",
+      "summary": "أطلقت Inception نموذج Mercury 3 القائم على الانتشار، وتقول إنه يوازي أداء GPT-6 Luna و Claude Haiku 5.5 بينما يعمل أسرع بمقدار 4 إلى 8 مرات.",
+      "details": "أطلقت شركة Inception نموذج Mercury 3، الذي تصفه بأنه أقوى نموذج لغوي كبير قائم على الانتشار (diffusion) يُطرح حتى الآن. وتقول الشركة إنه يوازي أو يتفوق على نموذجي GPT-6 Luna و Claude Haiku 5.5 المُحسَّنين للسرعة من حيث الجودة، بينما يعمل أسرع بمقدار 4 إلى 8 مرات، وفق اختبارات الشركة الخاصة.\n\nويضم Mercury 3 أكثر من 40 ضعف عدد معاملات نموذج Mercury الأول، ونافذة سياق تبلغ مليون رمز، ارتفاعاً من 260 ألف رمز في Mercury 2.5. وتفيد Inception بأن سرعة المعالجة تبلغ نحو 1068 رمزاً في الثانية على معالجات NVIDIA.\n\n- التسعير: 0.20 دولار لكل مليون رمز إدخال و0.70 دولار لكل مليون رمز إخراج، مع خصم 50% خلال فترة الإطلاق\n- التوفر: عبر منصة Inception للواجهة البرمجية، وOpenRouter، وBaseten، وVercel، مع توافق مع واجهة OpenAI API و100 مليون رمز مجاني على منصة الواجهة البرمجية\n- قدّمت Inception أيضاً نموذجين مرتبطين: Mercury Voice للتطبيقات الصوتية منخفضة التأخير، و Mercury Decide للتصنيف بحجم كبير"
+     },
+     "en": {
+      "title": "Inception launches Mercury 3, a faster diffusion-based LLM",
+      "summary": "Inception released Mercury 3, a diffusion-based language model it says matches GPT-6 Luna and Claude Haiku 5.5 while running 4-8x faster.",
+      "details": "Inception launched Mercury 3, which it calls the most capable diffusion-based large language model released so far. The company says it matches or beats the speed-optimized GPT-6 Luna and Claude Haiku 5.5 on quality while running four to eight times faster, based on its own benchmarks.\n\nMercury 3 has over 40 times the parameters of the original Mercury model and a 1-million-token context window, up from 260K in Mercury 2.5. Inception reports throughput around 1,068 tokens per second on NVIDIA GPUs.\n\n- Pricing: $0.20 per million input tokens and $0.70 per million output tokens, cut by half during a launch promotion\n- Availability: Inception's API platform, OpenRouter, Baseten and Vercel, with OpenAI-API compatibility and 100 million free tokens on the API platform\n- Inception also introduced two related models: Mercury Voice for low-latency voice apps and Mercury Decide for high-volume classification"
+     },
+     "addedAt": "2026-10-19T21:17:35+00:00"
+    },
+    {
+     "id": "minimax-m3-1-flash-agent-model",
+     "date": "2026-10-19",
+     "type": "model",
+     "importance": 2,
+     "sourceType": "official",
+     "sourceName": "MiniMax Blog",
+     "url": "https://www.minimax.io/blog/minimax-m31f",
+     "originalTitle": "MiniMax M3.1 Flash: Redefining Agent Performance and Cost",
+     "company": "MiniMax",
+     "tool": "M3.1 Flash",
+     "ar": {
+      "title": "MiniMax تطلق نموذج M3.1 Flash الأسرع والأقل تكلفة للمهام الوكيلة",
+      "summary": "أطلقت MiniMax نموذج M3.1 Flash الذي يوفر استدلالاً أسرع بنحو ثلاث مرات وتكلفة أقل بنسبة 70% تقريباً للمهام الوكيلة مقارنة بالنموذج السابق.",
+      "details": "أطلقت شركة MiniMax نموذج M3.1 Flash، وهو نموذج جديد من فئة Flash مصمم للمهام الوكيلة مثل البرمجة واستخدام الحاسوب ومهام الأمن السيبراني. وتقول الشركة إنها عالجت أكثر من 200 تريليون رمز (token) خلال تطويره تحت الاسم الرمزي \"Space Bunny\".\n\nومقارنة بالنموذج السابق، يعمل M3.1 Flash بسرعة أعلى بنحو ثلاث مرات عبر الإنترنت، ويخفض تكلفة المهام الوكيلة بنسبة 70% تقريباً، مع سرعة إخراج تتجاوز 200 رمز في الثانية في الاستخدام العادي.\n\n- التسعير: 0.15 دولار لكل مليون رمز إدخال، و0.60 دولار لكل مليون رمز إخراج، و0.015 دولار للإدخال المخزن مؤقتاً\n- الأداء: يتصدر النماذج الصينية في اختبار OSWorld V2 لاستخدام الحاسوب وفي اختبار Agents' Last Exam، ويسجل 82% في اختبار CyberGym الأمني\n- التوفر: متاح الآن عبر واجهة MiniMax API وخطة M Plan وأداة MiniMax Code، مع خطط لإصدار أوزان النموذج ونموذج \"Pro\" منفصل لاحقاً"
+     },
+     "en": {
+      "title": "MiniMax launches M3.1 Flash, a faster, cheaper agentic model",
+      "summary": "MiniMax released M3.1 Flash, claiming nearly 3x faster inference and about 70% lower cost for agentic tasks than its predecessor.",
+      "details": "MiniMax released M3.1 Flash, a new Flash model built for agentic work such as coding, computer use and cybersecurity tasks. The company says it processed over 200 trillion tokens during development under the codename \"Space Bunny.\"\n\nCompared with its predecessor, M3.1 Flash runs close to three times faster online and cuts the cost of agentic tasks by roughly 70%, with output speeds above 200 tokens per second in typical use.\n\n- Pricing: $0.15 per million input tokens, $0.60 per million output tokens, and $0.015 for cached input\n- Benchmarks: leads Chinese models on the OSWorld V2 computer-use test and the Agents' Last Exam, and scores 82% on the CyberGym security benchmark\n- Availability: live now via the MiniMax API, M Plan and MiniMax Code; model weights and a separate \"Pro\" model are both planned for later release"
+     },
+     "addedAt": "2026-10-19T21:17:35+00:00"
+    },
+    {
      "id": "nvidia-ebu-media-agentic-security-berlin",
      "date": "2026-10-19",
      "type": "product",
@@ -2106,6 +2174,28 @@
       "details": "IBM released the Granite Switch 4.1 family in two sizes, 8B and 30B. Each bundles a base chat model with a general-purpose \"Decision\" adapter (aLoRA), a specialized \"Guardian\" adapter for safety-related decisions, and an embedded speech-recognition model called Granite-Speech-5.0-Turbo-CTC. IBM says all of this fits within roughly the same GPU memory footprint as the base model alone.\n\nThe technical trick is that these Activated LoRA adapters reuse the key-value cache from the base model's own generation, letting the system switch quickly between chat, decision and speech requests instead of running separate models for each task.\n\n- IBM says the Guardian adapter beats several rival models on average for safety-related decision tasks\n- The bundled speech model is described as the fastest on the OpenASR leaderboard\n- In an internal test, the 30B model finished a five-step retrieval workflow faster than a 27B rival model\n- In a Doom-playing demo, a smaller 3B variant reportedly made 60 to 100 decisions per second versus about 10 for a competing model, figures reported by IBM itself"
      },
      "addedAt": "2026-10-15T21:16:43+00:00"
+    },
+    {
+     "id": "mistral-cern-large-physics-model",
+     "date": "2026-10-15",
+     "type": "business",
+     "importance": 2,
+     "sourceType": "official",
+     "sourceName": "CERN",
+     "url": "https://home.cern/cern-and-mistral-join-forces-to-accelerate-ai-for-science/",
+     "originalTitle": "CERN and Mistral join forces to accelerate AI for science",
+     "company": "Mistral AI",
+     "ar": {
+      "title": "سيرن وميسترال يوقّعان اتفاقاً لبناء \"نموذج فيزياء كبير\"",
+      "summary": "وقّع CERN (المختبر الأوروبي لفيزياء الجزيئات) وشركة Mistral AI بيان نوايا لتطوير نموذج أساسي مشترك لتحليل بيانات تصادمات الجزيئات من مصادم الهادرونات الكبير.",
+      "details": "وقّع المختبر الأوروبي لفيزياء الجزيئات (CERN) وشركة Mistral AI بيان نوايا في 15 أكتوبر لبناء شراكة طويلة الأمد في النماذج الأساسية لخدمة العلوم.\n\nويتمثل الهدف الرئيسي في بناء نموذج واحد مُدرَّب مسبقاً يُسمى \"Large Physics Model\"، يتم تدريبه على مليارات التصادمات المحاكاة بين البروتونات من مصادم الهادرونات الكبير (LHC). ويُفترض أن يتعلم النموذج إعادة بناء التصادمات، والتعرف على الجزيئات، ورصد الإشارات غير المعتادة، والمساعدة في تقييم تصاميم أجهزة الكشف المستقبلية؛ وهي مهام تعتمد اليوم على سلسلة من الخوارزميات المتخصصة المنفصلة.\n\nويخزّن CERN حالياً نحو إكسابايت واحد من بيانات المصادم، وهو حجم يُتوقع أن يتضاعف نحو عشر مرات بعد تشغيل مصادم الهادرونات الكبير عالي اللمعان المتوقع حوالي عام 2030. وقالت رئيسة قسم المعلومات في CERN، إنريكا بوركاري، إن فيزياء الطاقة العالية بيئة فريدة لتطوير واختبار الذكاء الاصطناعي. وتركز الشراكة مبدئياً على فيزياء الجزيئات، لكن الجانبين يقولان إنها قد تمتد إلى مجالات علمية أوسع."
+     },
+     "en": {
+      "title": "CERN and Mistral sign pact to build a 'Large Physics Model'",
+      "summary": "CERN and Mistral AI signed a statement of intent to jointly develop a foundation model for particle-collision data from the Large Hadron Collider.",
+      "details": "CERN, the European particle-physics laboratory, and Mistral AI signed a statement of intent on October 15 to build a long-term partnership on foundation models for science.\n\nTheir main goal is a single pretrained \"Large Physics Model\" trained on billions of simulated proton-proton collisions from the Large Hadron Collider. The model would learn to reconstruct collisions, identify particles, flag unusual signals and help evaluate future detector designs — tasks that today rely on a chain of separate specialised algorithms.\n\nCERN currently stores about one exabyte of collider data, a volume expected to grow roughly tenfold once the High-Luminosity LHC starts around 2030. CERN's Chief Information Officer, Enrica Porcari, said high-energy physics offers a unique environment to develop and test AI. The partnership's initial focus is particle physics, but both sides say it could extend AI approaches to wider scientific research."
+     },
+     "addedAt": "2026-10-15T23:59:59+00:00"
     },
     {
      "id": "mistral-timestral-time-series-models",
