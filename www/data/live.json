@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-19T17:46:01+00:00",
+ "updatedAt": "2026-10-19T18:11:39+00:00",
  "items": [
   {
    "id": "auto-ef5697e31e3e",
@@ -13,9 +13,9 @@
    "url": "https://news.ycombinator.com/item?id=50150434",
    "originalTitle": "Timestral: Mistral release time-series foundation models",
    "en": {
-    "title": "Timestral: Mistral release time-series foundation models",
-    "summary": "Community discussion on Hacker News (386 points, 73 comments).",
-    "details": "Community discussion on Hacker News (386 points, 73 comments)."
+    "title": "Timestral: Mistral's time-series foundation models",
+    "summary": "Community discussion on Hacker News (399 points, 76 comments).",
+    "details": "Community discussion on Hacker News (399 points, 76 comments)."
    },
    "translated": false,
    "fetchedAt": "2026-10-19T15:38:10+00:00"
