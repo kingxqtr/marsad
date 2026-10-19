@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": "2026-10-19T22:10:58+00:00",
+ "updatedAt": "2026-10-19T23:12:11+00:00",
  "coverage": {
   "from": "2026-07-19",
   "to": "2026-10-19"
@@ -1774,6 +1774,29 @@
      "addedAt": "2026-10-19T21:17:35+00:00"
     },
     {
+     "id": "github-copilot-models-deprecated-oct-2026",
+     "date": "2026-10-19",
+     "type": "coding",
+     "importance": 2,
+     "sourceType": "official",
+     "sourceName": "GitHub Changelog",
+     "url": "https://github.blog/changelog/2026-10-19-github-copilot-models-deprecated-on-october-19-2026",
+     "originalTitle": "GitHub Copilot models deprecated on October 19, 2026",
+     "company": "GitHub",
+     "tool": "GitHub Copilot",
+     "ar": {
+      "title": "GitHub تُلغي دعم ستة نماذج في Copilot وتوجّه المستخدمين لنماذج أحدث",
+      "summary": "ألغت GitHub في 19 أكتوبر دعم ستة نماذج في Copilot، منها Gemini 3.7 Flash و GPT-5.5 و Grok 4.5، ووجّهت المستخدمين إلى نماذج بديلة أحدث.",
+      "details": "ألغت GitHub دعم ستة نماذج ضمن معظم تجارب Copilot -شات Copilot، والتعديلات المضمّنة، ووضعي السؤال والوكيل، واستكمال الشيفرة- بدءاً من 19 أكتوبر 2026، بعد إعلان سابق عن هذه الخطوة في 18 سبتمبر.\n\n- Gemini 3.7 Flash ← البديل: Gemini 3.8 Flash\n- GPT-5.5 و GPT-5.4 ← البديل: GPT-6.1 Sol\n- GPT-5.4 mini و GPT-5 mini ← البديل: GPT-6 Luna\n- Grok 4.5 ← البديل: Grok 4.7\n\nوأوضحت GitHub أنه لا حاجة لأي إجراء لإزالة النماذج المُلغاة من أعمال المستخدمين، لكن قد يحتاج مسؤولو المؤسسات إلى تفعيل النماذج الجديدة عبر إعدادات سياسة النماذج في Copilot قبل أن تظهر في قائمة اختيار النموذج داخل VS Code وموقع github.com."
+     },
+     "en": {
+      "title": "GitHub deprecates six Copilot models, pushes users to newer ones",
+      "summary": "GitHub deprecated Gemini 3.7 Flash, GPT-5.5, GPT-5.4, GPT-5.4 mini, GPT-5 mini and Grok 4.5 across Copilot on October 19, pointing users to newer replacements.",
+      "details": "GitHub deprecated six Copilot models across most Copilot experiences -Copilot Chat, inline edits, ask and agent modes, and code completions- starting October 19, 2026, following an earlier deprecation notice from September 18.\n\n- Gemini 3.7 Flash -> replacement: Gemini 3.8 Flash\n- GPT-5.5 and GPT-5.4 -> replacement: GPT-6.1 Sol\n- GPT-5.4 mini and GPT-5 mini -> replacement: GPT-6 Luna\n- Grok 4.5 -> replacement: Grok 4.7\n\nGitHub says no action is needed to remove the deprecated models from existing workflows, but enterprise admins may need to enable the newer models through Copilot's model policy settings before they appear in the model selector in VS Code and on github.com."
+     },
+     "addedAt": "2026-10-19T23:12:11+00:00"
+    },
+    {
      "id": "nvidia-ebu-media-agentic-security-berlin",
      "date": "2026-10-19",
      "type": "product",
@@ -1838,6 +1861,29 @@
       "details": "Hugging Face announced TorchNeuron, a PyTorch plugin that adds a native backend for AWS Trainium, supporting eager mode, torch.compile, and PyTorch's distributed APIs such as FSDP and tensor parallelism.\n\nThe plugin enters public beta on October 20, 2026 via pip install torch-neuronx. Hugging Face recommends Neuron users move from Optimum Neuron to its core libraries directly, as Transformers, Diffusers, Accelerate, PEFT, TRL and Kernels now treat Trainium like any other accelerator.\n\nIn Transformers, passing device_map=neuron moves a model to Neuron devices, with 89% of the top 100 text-generation architectures working out of the box versus 46% for Optimum Neuron v0.4.5. Diffusers supports pipelines including FLUX.1-dev, FLUX.2 and Qwen-Image with tensor parallelism, and Neuron-specific kernels are being shared on the Hub, with one vision-transformer kernel reporting up to a 2.4x speedup."
      },
      "addedAt": "2026-10-19T19:09:57+00:00"
+    },
+    {
+     "id": "openai-low-resource-programming-languages",
+     "date": "2026-10-19",
+     "type": "coding",
+     "importance": 1,
+     "sourceType": "official",
+     "sourceName": "OpenAI News",
+     "url": "https://openai.com/index/low-resource-programming-languages",
+     "originalTitle": "Advancing Coding in Low-Resource Programming Languages",
+     "company": "OpenAI",
+     "tool": "ChatGPT",
+     "ar": {
+      "title": "OpenAI توضّح جهودها لتحسين برمجة ChatGPT باللغات النادرة",
+      "summary": "نشرت OpenAI تقييمات جديدة لقياس كفاءة ChatGPT في لغات البرمجة قليلة الموارد، تشمل مهام هندسة البرمجيات والعمل مع SQLite وترحيل شيفرات COBOL القديمة.",
+      "details": "نشرت OpenAI في 19 أكتوبر تدوينة تتحدث عن جهودها لتحسين أداء ChatGPT في البرمجة بلغات قليلة الموارد، وهي لغات تتوفر لها بيانات تدريب وشيفرات برمجية علنية أقل بكثير من لغات شائعة مثل Python أو JavaScript.\n\nوتقدّم التدوينة تقييمات جديدة لتتبع هذا التقدم بمرور الوقت، تشمل مهام هندسة برمجيات عامة، والعمل مع قاعدة بيانات SQLite، وترحيل شيفرات COBOL القديمة إلى لغات حديثة.\n\nوتصف OpenAI هذا العمل بأنه جزء من مسعى أوسع لجعل أدوات البرمجة التابعة لها مفيدة في نطاق أوسع من لغات البرمجة وقواعد الشيفرات، لا في اللغات الأكثر شيوعاً فقط."
+     },
+     "en": {
+      "title": "OpenAI details work to improve ChatGPT's coding in rare languages",
+      "summary": "OpenAI published new evaluations of how well ChatGPT handles low-resource programming languages, covering software-engineering tasks, SQLite and COBOL migration.",
+      "details": "OpenAI published a blog post on October 19 describing efforts to improve ChatGPT's coding performance on low-resource programming languages - languages with far less training data and public code available than widely used languages like Python or JavaScript.\n\nThe post introduces new evaluations meant to track this progress over time, covering general software-engineering tasks, working with SQLite, and migrating legacy COBOL code to modern languages.\n\nOpenAI frames the work as part of a broader push to make its coding tools useful across a wider range of programming languages and codebases, not only the most popular ones."
+     },
+     "addedAt": "2026-10-19T23:12:11+00:00"
     },
     {
      "id": "anthropic-public-benefit-fund-launch",
