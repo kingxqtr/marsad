@@ -1,0 +1,30 @@
+{
+  "topic": "ai",
+  "generatedAt": "2026-10-20",
+  "news": [
+    {
+      "id": "nvidia-julich-quantum-simulation-record",
+      "date": "2026-10-19",
+      "type": "hardware",
+      "importance": 2,
+      "sourceType": "official",
+      "sourceName": "NVIDIA Newsroom",
+      "url": "https://nvidianews.nvidia.com/news/nvidia-runs-record-simulation-of-fault-tolerant-quantum-computing-at-julich-supercomputing-centre",
+      "originalTitle": "NVIDIA Runs Record Simulation of Fault-Tolerant Quantum Computing at Jülich Supercomputing Centre",
+      "company": "NVIDIA",
+      "ar": {
+        "title": "NVIDIA تنفذ أكبر محاكاة للحوسبة الكمية المتسامحة مع الأخطاء في JUPITER",
+        "summary": "محاكت NVIDIA ومركز Jülich الألماني للحوسبة الفائقة 104 كيوبت على الحاسوب الفائق JUPITER، في أكبر محاكاة شاملة لمعالج كمي متسامح مع الأخطاء حتى الآن.",
+        "details": "أعلنت NVIDIA بالتعاون مع مركز Jülich الألماني للحوسبة الفائقة عن محاكاة قياسية لمعالج كمي متسامح مع الأخطاء يضم 104 كيوبت، نُفذت على الحاسوب الفائق JUPITER الذي يوصف بأنه أول نظام إكساسكيل في أوروبا وأكبر حاسوب فائق فيها.\n\nركزت المحاكاة على طريقة \"زراعة الحالات السحرية\" (magic state cultivation)، أحد أبرز الأساليب الواعدة لبناء حواسيب كمية متسامحة مع الأخطاء، وأثبتت أن هذه الطريقة تحتاج إلى أقل بنسبة 90% من الكيوبتات الفعلية مقارنة بالأساليب السابقة. كما تضمنت المحاكاة ضجيجاً واقعياً يحاكي عيوب الأجهزة الحقيقية، بخلاف محاكاة سابقة لمركز Jülich شملت 50 كيوبت في ظروف مثالية بلا ضجيج.\n\nاستخدم الفريق معالجات NVIDIA GH200 الفائقة، بعد تطوير الأسلوب على نظام GB200 NVL72 في مركز NVAQC التابع لـ NVIDIA ثم التوسع إلى 8192 معالج رسومي على JUPITER، باستخدام برمجيتي cuQuantum وطبقة الحوسبة الكمية المتسامحة في CUDA-Q. وبحسب NVIDIA، أصبحت عمليات محاكاة كانت تستغرق أسابيع تنتهي الآن في أيام فقط."
+      },
+      "en": {
+        "title": "NVIDIA runs record fault-tolerant quantum simulation on JUPITER supercomputer",
+        "summary": "NVIDIA and Germany's Jülich Supercomputing Centre simulated a 104-qubit fault-tolerant quantum processor on JUPITER, the largest such simulation to date.",
+        "details": "NVIDIA, working with Germany's Jülich Supercomputing Centre, announced a record-scale simulation of a fault-tolerant quantum processor spanning 104 qubits, run on JUPITER, described as Europe's first exascale supercomputer and its largest.\n\nThe work focused on magic state cultivation, a leading approach to fault-tolerant quantum computing, and showed the method needs 90% fewer physical qubits than earlier techniques. The simulation also included realistic hardware noise, going beyond an earlier Jülich simulation of 50 qubits under ideal, noiseless conditions.\n\nThe team used NVIDIA GH200 superchips, developing the approach on a GB200 NVL72 system at NVIDIA's NVAQC center before scaling to 8,192 GPUs on JUPITER, with NVIDIA cuQuantum and CUDA-Q's fault-tolerant logical layer handling the computation. NVIDIA said simulations that once took weeks now finish in days, which it says could speed up the design of future quantum computers for fields like drug discovery and materials science."
+      }
+    }
+  ],
+  "upcoming": [],
+  "removeUpcoming": [],
+  "removeNews": []
+}
