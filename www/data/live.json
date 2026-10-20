@@ -1,66 +1,6 @@
 {
- "updatedAt": "2026-10-20T18:56:30+00:00",
+ "updatedAt": "2026-10-20T19:27:06+00:00",
  "items": [
-  {
-   "id": "auto-24909601d2df",
-   "tab": "ai",
-   "date": "2026-10-20",
-   "publishedAt": "2026-10-20T18:17:47+00:00",
-   "type": "product",
-   "importance": 1,
-   "sourceType": "official",
-   "sourceName": "Hugging Face Blog",
-   "url": "https://huggingface.co/blog/nvidia/cosmos3-h-dreams",
-   "originalTitle": "NVIDIA Cosmos3-H-Dreams: Bringing Clinical Surgery to Life Through Generative Simulation",
-   "en": {
-    "title": "NVIDIA Cosmos3-H-Dreams: Bringing Clinical Surgery to Life Through Generative Simulation",
-    "summary": "NVIDIA Cosmos3-H-Dreams: Bringing Clinical Surgery to Life Through Generative Simulation",
-    "details": ""
-   },
-   "translated": false,
-   "fetchedAt": "2026-10-20T18:56:25+00:00",
-   "company": "Hugging Face"
-  },
-  {
-   "id": "auto-d62552bab33a",
-   "tab": "ai",
-   "date": "2026-10-20",
-   "publishedAt": "2026-10-20T00:00:00+00:00",
-   "type": "business",
-   "importance": 1,
-   "sourceType": "official",
-   "sourceName": "OpenAI News",
-   "url": "https://openai.com/index/openai-to-acquire-orchestra-bio",
-   "originalTitle": "OpenAI acquires Orchestra Bio",
-   "en": {
-    "title": "OpenAI acquires Orchestra Bio",
-    "summary": "OpenAI is acquiring Orchestra Bio to bring AI-powered operations to life sciences R&D, helping biopharma teams accelerate drug development and advance new treatments.",
-    "details": "OpenAI is acquiring Orchestra Bio to bring AI-powered operations to life sciences R&D, helping biopharma teams accelerate drug development and advance new treatments."
-   },
-   "translated": false,
-   "fetchedAt": "2026-10-20T18:56:24+00:00",
-   "company": "OpenAI"
-  },
-  {
-   "id": "auto-e9cdbb65b9b0",
-   "tab": "ai",
-   "date": "2026-10-20",
-   "publishedAt": "2026-10-20T16:11:53+00:00",
-   "type": "coding",
-   "importance": 1,
-   "sourceType": "official",
-   "sourceName": "GitHub Changelog",
-   "url": "https://github.blog/changelog/2026-10-20-github-package-firewall-in-public-preview",
-   "originalTitle": "GitHub package firewall in public preview",
-   "en": {
-    "title": "GitHub package firewall in public preview",
-    "summary": "An increasing number of malware attacks exploit systems at package installation time, harvesting credentials on CI/CD hosts or developer workstations without even running the package’s code.",
-    "details": "An increasing number of malware attacks exploit systems at package installation time, harvesting credentials on CI/CD hosts or developer workstations without even running the package’s code. To stem this tide of attacks, GitHub is introducing a new package firewall capability. The package firewall sits between endpoints like Actions runners or coding agents and the upstream package repositories, inspecting both metadata requests and package downloads for signs of malicious activity. The package firewall is available today in public preview for all GitHub Enterprise Cloud customers, including data-resident GitHub Enterprise Cloud.\n\nHow it works\n\nFirst, administrators set policy controls for their enterprise. The controls available today include a configurable cooldown period, checking the GitHub Advisory Database for malware or vulnerability alerts, and supply-chain checks like attestation downgrades.\n\nThen endpoints like coding agents and CI/CD hosts need configuration to use the firewall for their requests instead of pointing directly at the upstream package registries. Metadata requests for package lists as well as the actual package downloads then flow through the firewall, which evaluates them against the policy. If a package is blocked erroneously, the user can request an exception with a workflow similar to other GitHub Advanced Security features.\n\nAvailability and limitations …"
-   },
-   "translated": false,
-   "fetchedAt": "2026-10-20T17:13:11+00:00",
-   "company": "GitHub"
-  },
   {
    "id": "auto-49c0f9b01548",
    "tab": "ai",
@@ -93,8 +33,8 @@
    "originalTitle": "DeepSeek just open-sourced its inference engine",
    "en": {
     "title": "DeepInfer: High-performance inference framework for DeepSeek models",
-    "summary": "Community discussion on Hacker News (1919 points, 744 comments).",
-    "details": "Community discussion on Hacker News (1919 points, 744 comments)."
+    "summary": "Community discussion on Hacker News (1946 points, 753 comments).",
+    "details": "Community discussion on Hacker News (1946 points, 753 comments)."
    },
    "translated": false,
    "fetchedAt": "2026-10-20T11:15:29+00:00"
