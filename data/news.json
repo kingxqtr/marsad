@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": "2026-10-20T15:09:26+00:00",
+ "updatedAt": "2026-10-20T16:11:38+00:00",
  "coverage": {
   "from": "2026-07-20",
   "to": "2026-10-20"
@@ -1815,6 +1815,29 @@
       "details": "NVIDIA said members of its Inception startup program can now access select services from the Barcelona Supercomputing Center's (BSC) AI Factory Accelerator Programme through the NVIDIA Inception portal, as the program moves from pilot to full operation.\n\nThe accelerator gives startups access to sovereign compute, technical support and training. At the pilot's demo day, three Inception members were named AI Champions: Qatium (water-network intelligence), OneCareAI (atrial fibrillation detection from ECGs) and Avatia (a voice-first multi-agent system for pharmaceutical companies).\n\nBSC's AI Factory, among Europe's first, launched in April 2025 and has delivered more than 800 services to public and private clients. NVIDIA said an upcoming extension of the MareNostrum 5 supercomputer, which powers the AI Factory, will expand supercomputing access across other AI Factories in Europe."
      },
      "addedAt": "2026-10-20T10:10:33+00:00"
+    },
+    {
+     "id": "huggingface-torchtpu-native-pytorch-backend",
+     "date": "2026-10-20",
+     "type": "hardware",
+     "importance": 1,
+     "sourceType": "official",
+     "sourceName": "Hugging Face Blog",
+     "url": "https://huggingface.co/blog/hf-torchtpu",
+     "originalTitle": "Hugging Face ❤️ TorchTPU: TPUs, Natively",
+     "company": "Hugging Face",
+     "tool": "TorchTPU",
+     "ar": {
+      "title": "Hugging Face تطلق TorchTPU لتشغيل PyTorch مباشرة على معالجات TPU",
+      "summary": "قدّمت Hugging Face خلفية TorchTPU التي تجعل معالجات TPU من Google جهاز PyTorch عادياً، فتعمل مكتبات Transformers وDiffusers وKernels عليها دون الحاجة لـ torch_xla أو JAX.",
+      "details": "أعلنت Hugging Face عن TorchTPU، خلفية أصلية لـ PyTorch تجعل معالجات TPU من Google جهازاً عادياً ضمن PyTorch، مثل وحدات المعالجة الرسومية أو المعالجات المركزية. ويتيح ذلك تشغيل مكتبات Transformers وDiffusers وKernels على TPU دون الحاجة إلى تحويل الشيفرة إلى torch_xla أو JAX.\n\nيمكن للمطورين تحميل نموذج ونقله إلى TPU بتحديد قيمة \"tpu\" كجهاز فقط، بنفس الطريقة المعتادة في PyTorch. وتضمّن المنشور أيضاً نوى معالجة (kernels) مخصصة لـ TPU من منصة Kernels Hub، إلى جانب نتائج اختبارات من نظام التكامل المستمر الخاص بمكتبة Transformers تؤكد التوافق."
+     },
+     "en": {
+      "title": "Hugging Face launches TorchTPU, a native PyTorch backend for Google TPUs",
+      "summary": "Hugging Face introduced TorchTPU, making Google TPUs a regular PyTorch device so Transformers, Diffusers and Kernels run on them without porting code to torch_xla or JAX.",
+      "details": "Hugging Face announced TorchTPU, a native PyTorch backend that makes Google TPUs an ordinary PyTorch device, alongside GPUs and CPUs. This lets libraries such as Transformers, Diffusers and Kernels run on TPUs without rewriting code for torch_xla or JAX.\n\nDevelopers can load a model and move it to TPU by setting the device to \"tpu\", the same way they would for any other PyTorch device. The announcement also includes TPU-specific kernels from the Kernels Hub, along with test results from the Transformers CI confirming compatibility."
+     },
+     "addedAt": "2026-10-20T16:11:38+00:00"
     },
     {
      "id": "nvidia-germany-industrial-ai-declaration",

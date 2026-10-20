@@ -268,6 +268,29 @@
         "details": "Hugging Face's PyTorch team detailed MPS (Apple Metal) backend improvements shipping in PyTorch 2.15. The release adds support for float8_e4m3fn tensors, which use half the memory of BF16, plus scaled matrix multiplication on Apple GPUs.\n\nThe team reported mixture-of-experts models now decode 5-6.5x faster than in PyTorch 2.14; Qwen3.6-35B-A3B rose from 9.4 to 61.3 tokens per second on an M3 Ultra with torch.compile. Dense linear layers gained about 1.23x on average, and softmax over large vocabularies got roughly 8x faster.\n\n- Linear algebra: complex LU decomposition and triangular solves now run on MPS, with improved small-matrix inverse, QR and SVD support\n- Memory: peak driver memory for Wan2.2's tiled VAE decode fell from about 270 GiB to 8 GiB\n- Requirements: macOS 15 or later and Python 3.11 or later"
       }
     }
+    ,
+    {
+      "id": "huggingface-torchtpu-native-pytorch-backend",
+      "date": "2026-10-20",
+      "type": "hardware",
+      "importance": 1,
+      "sourceType": "official",
+      "sourceName": "Hugging Face Blog",
+      "url": "https://huggingface.co/blog/hf-torchtpu",
+      "originalTitle": "Hugging Face ❤️ TorchTPU: TPUs, Natively",
+      "company": "Hugging Face",
+      "tool": "TorchTPU",
+      "ar": {
+        "title": "Hugging Face تطلق TorchTPU لتشغيل PyTorch مباشرة على معالجات TPU",
+        "summary": "قدّمت Hugging Face خلفية TorchTPU التي تجعل معالجات TPU من Google جهاز PyTorch عادياً، فتعمل مكتبات Transformers وDiffusers وKernels عليها دون الحاجة لـ torch_xla أو JAX.",
+        "details": "أعلنت Hugging Face عن TorchTPU، خلفية أصلية لـ PyTorch تجعل معالجات TPU من Google جهازاً عادياً ضمن PyTorch، مثل وحدات المعالجة الرسومية أو المعالجات المركزية. ويتيح ذلك تشغيل مكتبات Transformers وDiffusers وKernels على TPU دون الحاجة إلى تحويل الشيفرة إلى torch_xla أو JAX.\n\nيمكن للمطورين تحميل نموذج ونقله إلى TPU بتحديد قيمة \"tpu\" كجهاز فقط، بنفس الطريقة المعتادة في PyTorch. وتضمّن المنشور أيضاً نوى معالجة (kernels) مخصصة لـ TPU من منصة Kernels Hub، إلى جانب نتائج اختبارات من نظام التكامل المستمر الخاص بمكتبة Transformers تؤكد التوافق."
+      },
+      "en": {
+        "title": "Hugging Face launches TorchTPU, a native PyTorch backend for Google TPUs",
+        "summary": "Hugging Face introduced TorchTPU, making Google TPUs a regular PyTorch device so Transformers, Diffusers and Kernels run on them without porting code to torch_xla or JAX.",
+        "details": "Hugging Face announced TorchTPU, a native PyTorch backend that makes Google TPUs an ordinary PyTorch device, alongside GPUs and CPUs. This lets libraries such as Transformers, Diffusers and Kernels run on TPUs without rewriting code for torch_xla or JAX.\n\nDevelopers can load a model and move it to TPU by setting the device to \"tpu\", the same way they would for any other PyTorch device. The announcement also includes TPU-specific kernels from the Kernels Hub, along with test results from the Transformers CI confirming compatibility."
+      }
+    }
   ],
   "upcoming": [],
   "removeUpcoming": [],

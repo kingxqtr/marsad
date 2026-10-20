@@ -134,6 +134,7 @@
 "huggingface-open-tts-leaderboard": "2026-09-30T16:10:27+00:00",
 "huggingface-pytorch-2-15-mps": "2026-10-20T13:18:20+00:00",
 "huggingface-torchneuron-trainium-plugin": "2026-10-19T19:09:57+00:00",
+"huggingface-torchtpu-native-pytorch-backend": "2026-10-20T16:11:38+00:00",
 "inception-mercury-3-diffusion-llm": "2026-10-19T21:17:35+00:00",
 "jetbrains-junie-local-free-mac": "2026-08-24T23:59:59+00:00",
 "kiro-web-cloud-sessions-ga": "2026-09-03T23:59:59+00:00",
