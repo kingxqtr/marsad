@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": "2026-10-20T12:13:29+00:00",
+ "updatedAt": "2026-10-20T13:18:20+00:00",
  "coverage": {
   "from": "2026-07-20",
   "to": "2026-10-20"
@@ -1748,6 +1748,51 @@
       "details": "DeepSeek published an open-source inference engine called DeepInfer on GitHub, describing it as the high-performance framework behind its own large-scale production services. The current release focuses on offline inference and currently supports DeepSeek-V4.1-Flash, downloading the DeepSeek-V4.1-Flash-1017 checkpoint from Hugging Face by default when no local copy is provided.\n\nThe engine targets NVIDIA SM100-class GPUs and Huawei Ascend 950 NPUs, with optimized kernels, attention data parallelism, mixture-of-experts expert parallelism, speculative decoding, asynchronous scheduling, and structured outputs such as JSON schema or grammar-constrained generation.\n\nDeepInfer is built primarily on the vLLM project, drawing on ideas from SGLang and TensorRT-LLM, and is released under the Apache 2.0 license. The announcement drew a large discussion thread on Hacker News about the economics and profitability of AI inference services."
      },
      "addedAt": "2026-10-20T12:13:29+00:00"
+    },
+    {
+     "id": "huggingface-anylanguagemodel-1-0-swift",
+     "date": "2026-10-20",
+     "type": "coding",
+     "importance": 1,
+     "sourceType": "official",
+     "sourceName": "Hugging Face Blog",
+     "url": "https://huggingface.co/blog/anylanguagemodel-1-0",
+     "originalTitle": "AnyLanguageModel 1.0: One Year of Local Models on Apple Platforms",
+     "company": "Hugging Face",
+     "tool": "AnyLanguageModel",
+     "ar": {
+      "title": "Hugging Face تطرح الإصدار 1.0 من مكتبة AnyLanguageModel لمطوري Swift",
+      "summary": "بلغت مكتبة AnyLanguageModel من Hugging Face لمطوري Swift الإصدار 1.0، وتتيح التبديل بين النماذج المحلية (llama.cpp وMLX وCore ML) ومزوّدين سحابيين مثل OpenAI وAnthropic وGemini عبر واجهة برمجية واحدة.",
+      "details": "طرحت Hugging Face الإصدار 1.0 من مكتبة AnyLanguageModel، وهي مكتبة Swift مصمّمة كبديل مباشر لإطار عمل Foundation Models التابع لآبل. ويترافق هذا الإصدار مع إصدارين مكمّلين: swift-huggingface 1.0 وswift-xet 1.0.\n\nتتيح المكتبة للمطورين التبديل بين النماذج المحلية والنماذج السحابية بتغيير سطر الاستيراد (import) فقط دون إعادة كتابة الشيفرة. وخلال العام الماضي أضيفت إليها ميزات استدعاء الأدوات، والتوليد الموجَّه (بما فيه أنواع متداخلة منظّمة)، ودعم الصور، وتعمل جميعها مع كل المزوّدين المدعومين.\n\n- تعمل النماذج المحلية عبر llama.cpp وMLX وCore ML، وعلى نظام آبل OS 27 تدعم المكتبة أيضاً أي نموذج يتوافق مع بروتوكول Foundation Models، بما فيها نماذج Core AI الخاصة بآبل\n- من بين المزوّدين السحابيين المدعومين: OpenAI وAnthropic وGoogle Gemini وOllama وخدمة Private Cloud Compute من آبل، ومزوّدو الاستدلال في Hugging Face\n- تعمل المكتبة الآن أيضاً على Linux، ويتم تمرير مفاتيح الواجهة البرمجية عبر دالة إغلاق (closure) لتمكين التطبيقات من جلب رموز وصول قصيرة الأجل"
+     },
+     "en": {
+      "title": "AnyLanguageModel hits 1.0, a unified Swift API for local and hosted LLMs",
+      "summary": "Hugging Face's AnyLanguageModel Swift library reached 1.0, letting Apple developers switch between local models (llama.cpp, MLX, Core ML) and hosted providers like OpenAI, Anthropic and Gemini through one shared API.",
+      "details": "Hugging Face released version 1.0 of AnyLanguageModel, a Swift library built as a drop-in replacement for Apple's Foundation Models framework. The 1.0 release also ships companion packages swift-huggingface 1.0 and swift-xet 1.0.\n\nThe library lets developers switch between local and hosted language models by changing an import statement rather than rewriting code. Over the past year it gained tool calling, guided generation (including nested structured types) and image support that work across every supported provider.\n\n- Local models run through llama.cpp, MLX and Core ML, and on Apple's OS 27 it also supports any model conforming to the Foundation Models protocol, including Apple's own Core AI models\n- Hosted providers include OpenAI, Anthropic, Google Gemini, Ollama, Apple's Private Cloud Compute, and Hugging Face Inference Providers\n- The library now also runs on Linux, and API keys are supplied through a closure so apps can fetch short-lived tokens"
+     },
+     "addedAt": "2026-10-20T13:18:20+00:00"
+    },
+    {
+     "id": "huggingface-pytorch-2-15-mps",
+     "date": "2026-10-20",
+     "type": "hardware",
+     "importance": 1,
+     "sourceType": "official",
+     "sourceName": "Hugging Face Blog",
+     "url": "https://huggingface.co/blog/mps-pytorch-2-15",
+     "originalTitle": "MPS in PyTorch 2.15",
+     "company": "PyTorch",
+     "ar": {
+      "title": "PyTorch 2.15 يدعم FP8 ويسرّع استدلال نماذج خليط الخبراء على شرائح آبل",
+      "summary": "أضاف إصدار PyTorch 2.15 دعم موترات FP8 وسرّع فك تشفير نماذج خليط الخبراء حتى 6.5 مرة على شرائح آبل عبر خلفية MPS، وفق فريق PyTorch في Hugging Face.",
+      "details": "أوضح فريق PyTorch في Hugging Face تحسينات خلفية MPS (معالجات آبل الرسومية Metal) الواردة في إصدار PyTorch 2.15. ويضيف الإصدار دعم موترات float8_e4m3fn التي تستهلك نصف ذاكرة BF16، إلى جانب ضرب المصفوفات المُقيّس على معالجات آبل الرسومية.\n\nوأفاد الفريق بأن نماذج خليط الخبراء (MoE) تفكّ التشفير الآن بسرعة أكبر بـ5 إلى 6.5 مرة مقارنة بإصدار PyTorch 2.14؛ فقد ارتفعت سرعة نموذج Qwen3.6-35B-A3B من 9.4 إلى 61.3 رمزاً في الثانية على شريحة M3 Ultra باستخدام torch.compile. كما ارتفعت سرعة طبقات الربط الخطي الكثيفة بنحو 1.23 مرة في المتوسط، وتسارعت دالة softmax على قوائم المفردات الكبيرة بنحو 8 مرات.\n\n- الجبر الخطي: أصبح تحليل LU المركّب وحل المعادلات المثلثية يعملان على MPS، مع تحسين دعم معكوس المصفوفات الصغيرة وتحليلي QR وSVD\n- الذاكرة: انخفضت أعلى استهلاك لذاكرة المُشغّل في فك ترميز VAE المُجزّأ لنموذج Wan2.2 من نحو 270 غيغابايت إلى 8 غيغابايت\n- المتطلبات: macOS 15 أو أحدث وPython 3.11 أو أحدث"
+     },
+     "en": {
+      "title": "PyTorch 2.15 brings FP8 and faster MoE decoding to Apple's MPS backend",
+      "summary": "PyTorch 2.15 adds FP8 tensor support and speeds up mixture-of-experts decoding by up to 6.5x on Apple Silicon via the MPS backend, Hugging Face's PyTorch team said.",
+      "details": "Hugging Face's PyTorch team detailed MPS (Apple Metal) backend improvements shipping in PyTorch 2.15. The release adds support for float8_e4m3fn tensors, which use half the memory of BF16, plus scaled matrix multiplication on Apple GPUs.\n\nThe team reported mixture-of-experts models now decode 5-6.5x faster than in PyTorch 2.14; Qwen3.6-35B-A3B rose from 9.4 to 61.3 tokens per second on an M3 Ultra with torch.compile. Dense linear layers gained about 1.23x on average, and softmax over large vocabularies got roughly 8x faster.\n\n- Linear algebra: complex LU decomposition and triangular solves now run on MPS, with improved small-matrix inverse, QR and SVD support\n- Memory: peak driver memory for Wan2.2's tiled VAE decode fell from about 270 GiB to 8 GiB\n- Requirements: macOS 15 or later and Python 3.11 or later"
+     },
+     "addedAt": "2026-10-20T13:18:20+00:00"
     },
     {
      "id": "nvidia-bsc-ai-factory-accelerator-spain",
