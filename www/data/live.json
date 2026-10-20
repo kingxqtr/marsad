@@ -1,4 +1,25 @@
 {
- "updatedAt": "2026-10-20T05:06:49+00:00",
- "items": []
+ "updatedAt": "2026-10-20T05:36:34+00:00",
+ "items": [
+  {
+   "id": "auto-d8bab3317e8c",
+   "tab": "ai",
+   "date": "2026-10-20",
+   "publishedAt": "2026-10-20T05:00:00+00:00",
+   "type": "hardware",
+   "importance": 1,
+   "sourceType": "official",
+   "sourceName": "NVIDIA Blog",
+   "url": "https://blogs.nvidia.com/blog/spain-startups-barcelona-supercomputing-center/",
+   "originalTitle": "Spain-Based Startups Advance Regional Innovation With Barcelona Supercomputing Center",
+   "en": {
+    "title": "Spain-Based Startups Advance Regional Innovation With Barcelona Supercomputing Center",
+    "summary": "The Barcelona Supercomputing Center (BSC) ’s AI Factory Accelerator Programme, now in full operation following a pilot initiative, gives startups access to sovereign compute, technical support and training to support innovation across …",
+    "details": "The Barcelona Supercomputing Center (BSC) ’s AI Factory Accelerator Programme, now in full operation following a pilot initiative, gives startups access to sovereign compute, technical support and training to support innovation across industries.\n\nMany of these companies are also members of the NVIDIA Inception program for cutting-edge startups — and as of today, access to some of the BSC AI Factory services are available through the NVIDIA Inception portal .\n\nNVIDIA Inception complements the BSC AI Factory Accelerator Programme by providing members with training through NVIDIA Deep Learning Institute open courses, business mentoring, venture capital connections and other resources.\n\nAn upcoming extension of MareNostrum 5 — BSC’s public infrastructure serving scientific and technological innovation, powered by NVIDIA accelerated computing — will deliver supercomputing access through the BSC AI Factory and other AI Factories across Europe. BSC AI Factory is among Europe’s first AI factories and the first in Spain, and has delivered more than 800 services to private and public-sector clients since its April 2025 launch.\n\nRead All NVIDIA in Europe Announcements\n\nThree Inception members were recently named the BSC AI Factory Accelerator Programme’s AI Champions at the pilot initiative’s demo day: …"
+   },
+   "translated": false,
+   "fetchedAt": "2026-10-20T05:36:29+00:00",
+   "company": "NVIDIA"
+  }
+ ]
 }
