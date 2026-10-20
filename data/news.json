@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": "2026-10-20T20:09:07+00:00",
+ "updatedAt": "2026-10-20T21:11:56+00:00",
  "coverage": {
   "from": "2026-07-20",
   "to": "2026-10-20"
@@ -785,6 +785,30 @@
       "dateNote": "End date per the September 16 patch notes (PT); the next Vision's start date is not confirmed."
      },
      "addedAt": "2026-09-27T13:25:38+00:00"
+    },
+    {
+     "id": "oh-upcoming-isles-of-abyss-permanent-server",
+     "date": "2026-11-18",
+     "type": "scenario",
+     "importance": 1,
+     "sourceType": "official",
+     "sourceName": "Once Human — Steam News",
+     "url": "https://store.steampowered.com/news/app/2139460/view/703282384630449900",
+     "originalTitle": "",
+     "dateConfidence": "expected",
+     "ar": {
+      "title": "سيرفر Isles of Abyss الدائم يفتح في 18 نوفمبر",
+      "summary": "تتوقع Once Human افتتاح السيرفر الدائم لسيناريو Isles of Abyss في 18 نوفمبر، قبل إغلاق الدفعة الأولى من السيرفرات المؤقتة.",
+      "details": "أعلن فريق Once Human أن السيرفر الدائم لسيناريو Isles of Abyss، المُطرح في 21 أكتوبر، من المتوقع أن يفتح في 18 نوفمبر 2026 بتوقيت المحيط الهادئ، قبل إغلاق الدفعة الأولى من السيرفرات المؤقتة للسيناريو.",
+      "dateNote": "تاريخ متوقع ذكره الفريق في إعلان افتتاح سيرفرات Isles of Abyss؛ قد يتغير."
+     },
+     "en": {
+      "title": "Isles of Abyss permanent server expected to open November 18",
+      "summary": "Once Human expects the permanent server for its Isles of Abyss scenario to open November 18, before the first batch of temporary servers closes.",
+      "details": "Once Human's team said the permanent server for the Isles of Abyss scenario, which launched October 21, is expected to open on November 18, 2026 (PT), before the first batch of temporary scenario servers closes.",
+      "dateNote": "Estimated date given by the team in its Isles of Abyss server-opening announcement; subject to change."
+     },
+     "addedAt": "2026-10-20T21:11:56+00:00"
     },
     {
      "id": "oh-upcoming-console-test-rewards-deadline",
