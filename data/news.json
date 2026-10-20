@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": "2026-10-20T11:17:26+00:00",
+ "updatedAt": "2026-10-20T12:13:29+00:00",
  "coverage": {
   "from": "2026-07-20",
   "to": "2026-10-20"
@@ -1725,6 +1725,29 @@
       "details": "Microsoft published a roundup of updates to its Sovereign Cloud program, timed to its Ignite conference, covering both its public Azure cloud and the on-premises Azure Local platform.\n\nFor Azure, it introduced a Sovereign Control Panel (public preview) that gives customers a single view of their sovereignty posture, risks and workload dependencies, alongside EU-focused Data Guardian oversight of remote engineer access and a tamper-evident Production Touch Ledger. External key management with Azure Managed HSM reached general availability, letting customers hold root encryption keys outside Microsoft's control.\n\nOn Azure Local, GitHub Enterprise Local and Foundry Local both reached general availability, letting organizations run GitHub Enterprise Server and Copilot with locally hosted models, plus local AI inference and agentic retrieval over on-premises data, in connected or fully disconnected environments.\n\nMicrosoft also named 29 partners in its sovereign ecosystem, including Accenture, Dell, HPE, Mistral and NVIDIA."
      },
      "addedAt": "2026-10-20T10:10:33+00:00"
+    },
+    {
+     "id": "deepseek-deepinfer-inference-engine-opensource",
+     "date": "2026-10-20",
+     "type": "coding",
+     "importance": 2,
+     "sourceType": "official",
+     "sourceName": "DeepSeek GitHub",
+     "url": "https://github.com/deepseek-ai/DeepInfer",
+     "originalTitle": "deepseek-ai/DeepInfer",
+     "company": "DeepSeek",
+     "tool": "DeepInfer",
+     "ar": {
+      "title": "DeepSeek تفتح مصدر محرك الاستدلال DeepInfer الذي يشغّل خدماتها",
+      "summary": "طرحت DeepSeek بشكل مفتوح المصدر محرك الاستدلال DeepInfer الذي تستخدمه داخلياً لخدمات DeepSeek الكبيرة، مع دعم أولي لنموذج DeepSeek-V4.1-Flash.",
+      "details": "طرحت DeepSeek على GitHub محرك استدلال مفتوح المصدر باسم DeepInfer، وتصفه بأنه إطار العمل عالي الأداء الذي يشغّل خدمات الإنتاج الكبيرة لديها. ويركّز الإصدار الحالي على الاستدلال غير المتصل (offline)، ويدعم حالياً نموذج DeepSeek-V4.1-Flash، مع تحميل تلقائي لنسخة DeepSeek-V4.1-Flash-1017 من Hugging Face عند عدم توفر نسخة محلية.\n\nيعمل المحرك على معالجات NVIDIA من فئة SM100 ومعالجات Huawei Ascend 950، ويضم نواة معالجة محسّنة، وتوازياً للبيانات في طبقة الانتباه، وتوازياً للخبراء في بنية مزيج الخبراء (MoE)، إلى جانب فك تشفير تخميني (speculative decoding) وجدولة غير متزامنة ومخرجات منظّمة (JSON أو قواعد نحوية).\n\nبُني DeepInfer أساساً على مشروع vLLM، مع استفادة من أفكار SGLang وTensorRT-LLM، ورُخّص بترخيص Apache 2.0. وتصدّر الإعلان نقاشات واسعة على منتدى Hacker News حول ربحية خدمات الاستدلال في الذكاء الاصطناعي."
+     },
+     "en": {
+      "title": "DeepSeek open-sources DeepInfer, the engine behind its own services",
+      "summary": "DeepSeek released DeepInfer as an open-source inference engine it says powers its large-scale production services, with initial support for DeepSeek-V4.1-Flash.",
+      "details": "DeepSeek published an open-source inference engine called DeepInfer on GitHub, describing it as the high-performance framework behind its own large-scale production services. The current release focuses on offline inference and currently supports DeepSeek-V4.1-Flash, downloading the DeepSeek-V4.1-Flash-1017 checkpoint from Hugging Face by default when no local copy is provided.\n\nThe engine targets NVIDIA SM100-class GPUs and Huawei Ascend 950 NPUs, with optimized kernels, attention data parallelism, mixture-of-experts expert parallelism, speculative decoding, asynchronous scheduling, and structured outputs such as JSON schema or grammar-constrained generation.\n\nDeepInfer is built primarily on the vLLM project, drawing on ideas from SGLang and TensorRT-LLM, and is released under the Apache 2.0 license. The announcement drew a large discussion thread on Hacker News about the economics and profitability of AI inference services."
+     },
+     "addedAt": "2026-10-20T12:13:29+00:00"
     },
     {
      "id": "nvidia-bsc-ai-factory-accelerator-spain",

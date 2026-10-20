@@ -200,6 +200,29 @@
         "details": "NVIDIA said members of its Inception startup program can now access select services from the Barcelona Supercomputing Center's (BSC) AI Factory Accelerator Programme through the NVIDIA Inception portal, as the program moves from pilot to full operation.\n\nThe accelerator gives startups access to sovereign compute, technical support and training. At the pilot's demo day, three Inception members were named AI Champions: Qatium (water-network intelligence), OneCareAI (atrial fibrillation detection from ECGs) and Avatia (a voice-first multi-agent system for pharmaceutical companies).\n\nBSC's AI Factory, among Europe's first, launched in April 2025 and has delivered more than 800 services to public and private clients. NVIDIA said an upcoming extension of the MareNostrum 5 supercomputer, which powers the AI Factory, will expand supercomputing access across other AI Factories in Europe."
       }
     }
+  ,
+    {
+      "id": "deepseek-deepinfer-inference-engine-opensource",
+      "date": "2026-10-20",
+      "type": "coding",
+      "importance": 2,
+      "sourceType": "official",
+      "sourceName": "DeepSeek GitHub",
+      "url": "https://github.com/deepseek-ai/DeepInfer",
+      "originalTitle": "deepseek-ai/DeepInfer",
+      "company": "DeepSeek",
+      "tool": "DeepInfer",
+      "ar": {
+        "title": "DeepSeek تفتح مصدر محرك الاستدلال DeepInfer الذي يشغّل خدماتها",
+        "summary": "طرحت DeepSeek بشكل مفتوح المصدر محرك الاستدلال DeepInfer الذي تستخدمه داخلياً لخدمات DeepSeek الكبيرة، مع دعم أولي لنموذج DeepSeek-V4.1-Flash.",
+        "details": "طرحت DeepSeek على GitHub محرك استدلال مفتوح المصدر باسم DeepInfer، وتصفه بأنه إطار العمل عالي الأداء الذي يشغّل خدمات الإنتاج الكبيرة لديها. ويركّز الإصدار الحالي على الاستدلال غير المتصل (offline)، ويدعم حالياً نموذج DeepSeek-V4.1-Flash، مع تحميل تلقائي لنسخة DeepSeek-V4.1-Flash-1017 من Hugging Face عند عدم توفر نسخة محلية.\n\nيعمل المحرك على معالجات NVIDIA من فئة SM100 ومعالجات Huawei Ascend 950، ويضم نواة معالجة محسّنة، وتوازياً للبيانات في طبقة الانتباه، وتوازياً للخبراء في بنية مزيج الخبراء (MoE)، إلى جانب فك تشفير تخميني (speculative decoding) وجدولة غير متزامنة ومخرجات منظّمة (JSON أو قواعد نحوية).\n\nبُني DeepInfer أساساً على مشروع vLLM، مع استفادة من أفكار SGLang وTensorRT-LLM، ورُخّص بترخيص Apache 2.0. وتصدّر الإعلان نقاشات واسعة على منتدى Hacker News حول ربحية خدمات الاستدلال في الذكاء الاصطناعي."
+      },
+      "en": {
+        "title": "DeepSeek open-sources DeepInfer, the engine behind its own services",
+        "summary": "DeepSeek released DeepInfer as an open-source inference engine it says powers its large-scale production services, with initial support for DeepSeek-V4.1-Flash.",
+        "details": "DeepSeek published an open-source inference engine called DeepInfer on GitHub, describing it as the high-performance framework behind its own large-scale production services. The current release focuses on offline inference and currently supports DeepSeek-V4.1-Flash, downloading the DeepSeek-V4.1-Flash-1017 checkpoint from Hugging Face by default when no local copy is provided.\n\nThe engine targets NVIDIA SM100-class GPUs and Huawei Ascend 950 NPUs, with optimized kernels, attention data parallelism, mixture-of-experts expert parallelism, speculative decoding, asynchronous scheduling, and structured outputs such as JSON schema or grammar-constrained generation.\n\nDeepInfer is built primarily on the vLLM project, drawing on ideas from SGLang and TensorRT-LLM, and is released under the Apache 2.0 license. The announcement drew a large discussion thread on Hacker News about the economics and profitability of AI inference services."
+      }
+    }
   ],
   "upcoming": [],
   "removeUpcoming": [],
