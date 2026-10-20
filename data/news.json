@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": "2026-10-20T18:08:59+00:00",
+ "updatedAt": "2026-10-20T19:10:57+00:00",
  "coverage": {
   "from": "2026-07-20",
   "to": "2026-10-20"
@@ -1727,6 +1727,28 @@
      "addedAt": "2026-10-20T10:10:33+00:00"
     },
     {
+     "id": "github-package-firewall-preview",
+     "date": "2026-10-20",
+     "type": "coding",
+     "importance": 2,
+     "sourceType": "official",
+     "sourceName": "GitHub Changelog",
+     "url": "https://github.blog/changelog/2026-10-20-github-package-firewall-in-public-preview",
+     "originalTitle": "GitHub package firewall in public preview",
+     "company": "GitHub",
+     "ar": {
+      "title": "GitHub تطلق جدار حماية الحزم في معاينة عامة",
+      "summary": "يفحص جدار حماية الحزم الجديد من GitHub تثبيتات حزم npm بحثاً عن البرمجيات الخبيثة ومخاطر سلسلة التوريد بين أدوات CI/CD أو الوكلاء البرمجية والسجل، وهو مجاني خلال فترة المعاينة.",
+      "details": "قدّمت GitHub جدار حماية الحزم (package firewall)، المتاح الآن في معاينة عامة لجميع عملاء GitHub Enterprise Cloud، بما فيهم نسخة الإقامة السيادية للبيانات. يعمل الجدار بين نقاط مثل عدّائي Actions والوكلاء البرمجية وسجلات الحزم، ويفحص طلبات البيانات الوصفية وتنزيلات الحزم للكشف عن أي نشاط خبيث.\n\nيضبط مسؤولو المؤسسات ضوابط سياسة على مستوى المؤسسة، تشمل فترة تهدئة قابلة للتخصيص قبل الوثوق بإصدارات حزم جديدة، وفحصاً مقابل قاعدة بيانات GitHub الاستشارية لتنبيهات البرمجيات الخبيثة أو الثغرات، وفحوصاً لسلسلة التوريد مثل تراجع الشهادات. ويتطلب الأمر ضبط نقاط الوصول لتوجيه طلبات الحزم عبر الجدار بدل الاتصال المباشر بالسجلات؛ وإذا حُظرت حزمة خطأً، يمكن للمستخدمين طلب استثناء عبر مسار مماثل لميزات GitHub Advanced Security الأخرى.\n\nيدعم الجدار حالياً حزم npm فقط، وهو مجاني خلال فترة المعاينة؛ وقالت GitHub إنه سينتقل إلى فوترة مقنّنة بحسب الاستخدام، على غرار Actions، عند إطلاقه بشكل كامل."
+     },
+     "en": {
+      "title": "GitHub launches package firewall in public preview",
+      "summary": "GitHub's package firewall screens npm installs for malware and supply-chain risks between CI/CD hosts or coding agents and the registry, free during preview.",
+      "details": "GitHub introduced a package firewall, now in public preview for all GitHub Enterprise Cloud customers, including data-resident GitHub Enterprise Cloud. It sits between endpoints such as Actions runners and coding agents and the upstream package registries, screening both metadata requests and package downloads for signs of malicious activity.\n\nAdministrators set enterprise-level policy controls, including a configurable cooldown period before new package versions are trusted, checks against the GitHub Advisory Database for malware or vulnerability alerts, and supply-chain checks such as attestation downgrades. Endpoints need to be configured to route package requests through the firewall rather than contacting registries directly; if a package is blocked incorrectly, users can request an exception through a workflow similar to other GitHub Advanced Security features.\n\nThe firewall currently supports npm packages only and is free during the preview period; GitHub says it will move to metered billing, similar to Actions, once generally available."
+     },
+     "addedAt": "2026-10-20T19:10:57+00:00"
+    },
+    {
      "id": "deepseek-deepinfer-inference-engine-opensource",
      "date": "2026-10-20",
      "type": "coding",
@@ -1750,6 +1772,29 @@
      "addedAt": "2026-10-20T12:13:29+00:00"
     },
     {
+     "id": "openai-acquires-orchestra-bio",
+     "date": "2026-10-20",
+     "type": "business",
+     "importance": 2,
+     "sourceType": "official",
+     "sourceName": "OpenAI News",
+     "url": "https://openai.com/index/openai-to-acquire-orchestra-bio",
+     "originalTitle": "OpenAI acquires Orchestra Bio",
+     "company": "OpenAI",
+     "tool": "Rosalind",
+     "ar": {
+      "title": "OpenAI تستحوذ على Orchestra Bio لتسريع تطوير الأدوية",
+      "summary": "استحوذت OpenAI على Orchestra Bio، منصة تساعد فرق صناعة الأدوية الحيوية على تنسيق عمليات تطوير الأدوية، لبناء وكلاء فوق نموذجها Rosalind للعلوم الحياتية.",
+      "details": "أعلنت OpenAI في 20 أكتوبر استحواذها على Orchestra Bio، منصة يعمل فيها بشر ووكلاء ذكاء اصطناعي معاً لتنسيق برامج تطوير الأدوية. تتولى وكلاء Orchestra Bio تتبّع تقدّم الدراسات ورصد التأخيرات المحتملة في جدول التطوير؛ وقد أسّسها أشوكا راجيندرا (Ashoka Rajendra) حوالي عام 2022.\n\nوقالت OpenAI إنها تخطط لدمج فريق Orchestra Bio وتقنيته مع Rosalind، مجموعة نماذج وأدوات الذكاء الاصطناعي الخاصة بها لأبحاث العلوم الحياتية، والتي تضم أصلاً نموذج GPT-Rosalind للمساعدة في التفكير بمسائل البيولوجيا والكيمياء. والهدف بناء وكلاء تربط النتائج العلمية بالدراسات والقرارات والخطوات اللازمة لتطوير علاج محتمل.\n\nوربطت OpenAI الصفقة بحقيقة أن تطوير دواء جديد يستغرق عادة من 10 إلى 15 عاماً، وقالت إنها تريد أن يساعد الذكاء الاصطناعي في تقليص هذه المدة. ولم تُكشف الشروط المالية للصفقة."
+     },
+     "en": {
+      "title": "OpenAI acquires Orchestra Bio to speed up drug development",
+      "summary": "OpenAI acquired Orchestra Bio, a platform that helps biopharma teams coordinate drug development, to build agents atop its life-sciences model Rosalind.",
+      "details": "OpenAI announced on October 20 that it has acquired Orchestra Bio, a platform where people and AI agents work together to coordinate drug-development programs. Orchestra Bio's agents track study progress and flag potential delays in development timelines; the company was founded around 2022 by Ashoka Rajendra.\n\nOpenAI said it plans to combine Orchestra Bio's team and technology with Rosalind, its existing suite of AI models and tools for life-sciences research, which already includes GPT-Rosalind for reasoning through biology and chemistry questions. The goal is to build agents that connect scientific findings to the studies, decisions and next steps needed to advance a potential medicine.\n\nOpenAI framed the deal around the fact that developing a new drug typically takes 10 to 15 years, and said it wants AI to help shorten that timeline. Financial terms of the deal were not disclosed."
+     },
+     "addedAt": "2026-10-20T19:10:57+00:00"
+    },
+    {
      "id": "ai2-fairstress-llm-fairness-benchmark",
      "date": "2026-10-20",
      "type": "model",
@@ -1771,6 +1816,29 @@
       "details": "Ai2 (Allen Institute for AI) published FairStress on October 20, a benchmark measuring demographic fairness in LLM decision-making beyond just the final answer. It covers 300 two-candidate scenarios across 29 domains such as hiring, lending, healthcare, education, housing and criminal justice, expanding via identity variations and adversarial prompts to more than 13 million test cases, with a smaller 50K-item FairStress-Core subset for faster evaluation.\n\nThe study found that while models show little bias without demographic cues, asymmetry grows as identity becomes explicit: models often abandon a well-supported decision more easily when doing so favors a minority-coded candidate, a pattern the authors call \"anti-stereotypical over-correction.\" Explanations for those decisions also used more confident, identity-focused language that could overstate the candidate's merit.\n\nAi2 said most debiasing techniques it tested did not reliably fix the asymmetry; counterfactual chain-of-thought prompting came closest while mostly preserving accuracy. The dataset and code are public and being added to Ai2's Olmo-eval suite."
      },
      "addedAt": "2026-10-20T17:11:13+00:00"
+    },
+    {
+     "id": "nvidia-cosmos3-h-dreams-surgical-simulator",
+     "date": "2026-10-20",
+     "type": "product",
+     "importance": 1,
+     "sourceType": "official",
+     "sourceName": "Hugging Face Blog",
+     "url": "https://huggingface.co/blog/nvidia/cosmos3-h-dreams",
+     "originalTitle": "NVIDIA Cosmos3-H-Dreams: Bringing Clinical Surgery to Life Through Generative Simulation",
+     "company": "NVIDIA",
+     "tool": "Cosmos3-H-Dreams",
+     "ar": {
+      "title": "NVIDIA تكشف عن Cosmos3-H-Dreams لمحاكاة العمليات الجراحية في الوقت الفعلي",
+      "summary": "يولّد نموذج Cosmos3-H-Dreams من NVIDIA فيديو جراحياً في الوقت الفعلي يستجيب لأوامر الأدوات، بعد تدريبه على تسجيلات جراحة استئصال المرارة السريرية.",
+      "details": "كشفت NVIDIA عن Cosmos3-H-Dreams، محاكي بحثي للجراحة السريرية يولّد فيديو مشاهد جراحية في الوقت الفعلي يستجيب لأوامر الأدوات. وهو النسخة اللاحقة لنموذج Cosmos-H-Dreams السابق الذي غطّى عمليات الخياطة على الطاولة، بينما دُرّب هذا الإصدار على تسجيلات من منصة Versius لشركة CMR Surgical، مع التركيز على عملية استئصال المرارة باستخدام أداتين: ملقط Cadiere في اليد اليسرى وخطّاف أحادي القطب في اليمنى.\n\nيعتمد النموذج على Cosmos3-H-Embodied-Nano، وهو نموذج أساسي بـ16 مليار معامل، مع فضاء أفعال بـ28 بعداً يغطي وضعية الذراعين والقابض وضوابط الطاقة ومدخلات العصا التحكمية. يتدرّب النموذج على فيديو بدقة 832×480 بمعدل 10 هرتز، ووسّعت NVIDIA أفق تدريب النموذج المعلّم من 24 إلى 72 إطاراً (7.2 ثانية) لتحسين الاتساق في التسلسلات الطويلة. يعمل النظام تفاعلياً على معالج NVIDIA RTX PRO 6000 واحد، باستخدام خط أنابيب استدلال متدفق باسم FlashDreams ووحدة لدمج الذاكرة باسم FadeMem.\n\nوأكدت NVIDIA أن Cosmos3-H-Dreams أداة بحثية وليس نظاماً معتمداً لرعاية المرضى، وأشارت إلى أعمال مستقبلية تشمل محاكاة العملية كاملة والدمج بين المحاكاة التوليدية والعددية."
+     },
+     "en": {
+      "title": "NVIDIA unveils Cosmos3-H-Dreams, a real-time surgical simulator",
+      "summary": "NVIDIA's Cosmos3-H-Dreams generates real-time surgical video that responds to instrument commands, trained on clinical cholecystectomy recordings.",
+      "details": "NVIDIA introduced Cosmos3-H-Dreams, a research simulator for clinical surgery that generates real-time video of surgical scenes reacting to instrument commands. It succeeds the earlier Cosmos-H-Dreams, which covered tabletop suturing, and this version was trained on recordings from CMR Surgical's Versius platform, focusing on a cholecystectomy (gallbladder removal) using two instruments: a left Cadiere grasper and a right monopolar hook.\n\nThe model builds on Cosmos3-H-Embodied-Nano, a 16-billion-parameter base model, with a 28-dimensional action space covering arm pose, gripper state, energy controls and thumbstick inputs. It trains on 832x480 video at 10 Hz, and NVIDIA extended the teacher model's training horizon from 24 to 72 frames (7.2 seconds) to improve consistency over long rollouts. The system runs interactively on a single NVIDIA RTX PRO 6000 GPU, using a streaming inference pipeline called FlashDreams and a memory-consolidation module called FadeMem.\n\nNVIDIA stressed that Cosmos3-H-Dreams is a research tool, not a validated system for patient care, and outlined future work including modeling full procedures and combining generative with numerical simulation."
+     },
+     "addedAt": "2026-10-20T19:10:57+00:00"
     },
     {
      "id": "ibm-altk-evolve-agent-guidelines-tau2-bench",
