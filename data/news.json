@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": "2026-10-20T10:10:33+00:00",
+ "updatedAt": "2026-10-20T11:17:26+00:00",
  "coverage": {
   "from": "2026-07-20",
   "to": "2026-10-20"
@@ -8,6 +8,27 @@
  "tabs": {
   "once-human": {
    "news": [
+    {
+     "id": "oh-isles-of-abyss-server-schedule",
+     "date": "2026-10-20",
+     "type": "scenario",
+     "importance": 1,
+     "sourceType": "official",
+     "sourceName": "Once Human — Steam News",
+     "url": "https://store.steampowered.com/news/app/2139460/view/1846651706694440",
+     "originalTitle": "Ocean Expansion: Isles of Abyss Is Now Live",
+     "ar": {
+      "title": "Once Human يعلن جدول افتتاح سيرفرات Isles of Abyss",
+      "summary": "أعلنت Once Human جدول افتتاح سيرفرات سيناريو Isles of Abyss الجديد الذي يُطرح في 21 أكتوبر، مع فتح سيرفرات فورية في أمريكا الشمالية وأوروبا ودفعات لاحقة في مناطق أخرى.",
+      "details": "أعلن فريق Once Human جدول افتتاح السيرفرات الخاص بسيناريو النجاة الجديد Isles of Abyss، الذي يُطرح رسمياً في 21 أكتوبر بتوقيت المحيط الهادئ عقب تحديث اللعبة.\n\nستُفتح أربعة سيرفرات فوراً بعد التحديث في أمريكا الشمالية وأوروبا، بينما تُفتح سيرفرين في كل من أمريكا الجنوبية واليابان وكوريا وجنوب شرق آسيا وهونغ كونغ وماكاو وتايوان. وأوضح الفريق أنه سيفتح سيرفرات إضافية حسب الحاجة بناءً على الطاقة الاستيعابية المتبقية.\n\n- لن يتوفر التسجيل المسبق لسيناريو Isles of Abyss، وسيمكن اللاعبون من الدخول مباشرة عبر واجهة التسجيل بعد افتتاح السيرفرات.\n- يحتوي كل سيرفر على 12 عالماً."
+     },
+     "en": {
+      "title": "Once Human shares Isles of Abyss server-opening schedule",
+      "summary": "Once Human published the server rollout schedule for its new Isles of Abyss survival scenario, which launches October 21 with immediate servers in North America and Europe and later batches elsewhere.",
+      "details": "Once Human's team published the server-opening schedule for the new Isles of Abyss survival scenario, which officially launches October 21 (PT) after the version update.\n\nFour servers will open immediately in North America and Europe once the update lands, while South America, Japan, Korea, Southeast Asia, and Hong Kong/Macau/Taiwan each get two servers. The team said it will open additional servers as needed based on remaining capacity.\n\n- There is no advance sign-up for Isles of Abyss; players enter directly through the scenario's sign-up interface once servers open.\n- Each server contains 12 worlds."
+     },
+     "addedAt": "2026-10-20T11:17:26+00:00"
+    },
     {
      "id": "oh-isles-of-abyss-devblog-phases",
      "date": "2026-10-16",
