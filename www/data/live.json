@@ -1,46 +1,6 @@
 {
- "updatedAt": "2026-10-20T13:01:41+00:00",
+ "updatedAt": "2026-10-20T13:44:42+00:00",
  "items": [
-  {
-   "id": "auto-b8ae1e84bd6c",
-   "tab": "ai",
-   "date": "2026-10-20",
-   "publishedAt": "2026-10-20T00:00:00+00:00",
-   "type": "product",
-   "importance": 1,
-   "sourceType": "official",
-   "sourceName": "Hugging Face Blog",
-   "url": "https://huggingface.co/blog/anylanguagemodel-1-0",
-   "originalTitle": "AnyLanguageModel 1.0: One Year of Local Models on Apple Platforms",
-   "en": {
-    "title": "AnyLanguageModel 1.0: One Year of Local Models on Apple Platforms",
-    "summary": "AnyLanguageModel 1.0: One Year of Local Models on Apple Platforms",
-    "details": ""
-   },
-   "translated": false,
-   "fetchedAt": "2026-10-20T13:01:32+00:00",
-   "company": "Hugging Face"
-  },
-  {
-   "id": "auto-00624af5a69a",
-   "tab": "ai",
-   "date": "2026-10-20",
-   "publishedAt": "2026-10-20T00:00:00+00:00",
-   "type": "product",
-   "importance": 1,
-   "sourceType": "official",
-   "sourceName": "Hugging Face Blog",
-   "url": "https://huggingface.co/blog/mps-pytorch-2-15",
-   "originalTitle": "MPS in PyTorch 2.15",
-   "en": {
-    "title": "MPS in PyTorch 2.15",
-    "summary": "MPS in PyTorch 2.15",
-    "details": ""
-   },
-   "translated": false,
-   "fetchedAt": "2026-10-20T11:15:29+00:00",
-   "company": "Hugging Face"
-  },
   {
    "id": "auto-2be49dc81c9b",
    "tab": "ai",
@@ -54,8 +14,8 @@
    "originalTitle": "DeepSeek just open-sourced its inference engine",
    "en": {
     "title": "DeepSeek just open-sourced its inference engine",
-    "summary": "Community discussion on Hacker News (841 points, 281 comments).",
-    "details": "Community discussion on Hacker News (841 points, 281 comments)."
+    "summary": "Community discussion on Hacker News (1028 points, 350 comments).",
+    "details": "Community discussion on Hacker News (1028 points, 350 comments)."
    },
    "translated": false,
    "fetchedAt": "2026-10-20T11:15:29+00:00"
