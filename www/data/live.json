@@ -1,6 +1,26 @@
 {
- "updatedAt": "2026-10-20T08:03:40+00:00",
+ "updatedAt": "2026-10-20T08:38:18+00:00",
  "items": [
+  {
+   "id": "auto-05015e20f6d4",
+   "tab": "ai",
+   "date": "2026-10-20",
+   "publishedAt": "2026-10-20T08:20:02+00:00",
+   "type": "policy",
+   "importance": 1,
+   "sourceType": "official",
+   "sourceName": "Official Microsoft Blog",
+   "url": "https://blogs.microsoft.com/blog/2026/10/20/advancing-digital-sovereignty-with-greater-control-and-choice/",
+   "originalTitle": "Advancing digital sovereignty with greater control and choice",
+   "en": {
+    "title": "Advancing digital sovereignty with greater control and choice",
+    "summary": "Across my conversations with leaders in government, critical infrastructure and regulated industries, one priority consistently rises to the top: putting technology to work on their most important systems while maintaining the control …",
+    "details": "Across my conversations with leaders in government, critical infrastructure and regulated industries, one priority consistently rises to the top: putting technology to work on their most important systems while maintaining the control those systems require.\n\nThis challenge is becoming more important as advanced cloud and AI capabilities move into public services, regulated processes and essential operations. Organizations are considering more than where data resides. They also seek to understand who can access and operate their systems, how sensitive digital assets remain protected, which technology dependencies matter most and whether critical services can continue as regulatory, geopolitical, security or network conditions change. Digital sovereignty should give organizations greater control and security over the technology they depend on, while continuing to innovate.\n\nLast year, we introduced Microsoft Sovereign Cloud to give customers more choice in how they address these requirements. Since then, we have continued to turn our commitments into practical capabilities across public cloud and customer-operated environments, while expanding how we enable partners to address sovereignty requirements in their local markets. Today, we are sharing the next stage of that work.\n\nA continuum of control, built around the workload …"
+   },
+   "translated": false,
+   "fetchedAt": "2026-10-20T08:38:13+00:00",
+   "company": "Microsoft"
+  },
   {
    "id": "auto-d8bab3317e8c",
    "tab": "ai",
