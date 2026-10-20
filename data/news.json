@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": "2026-10-20T09:10:34+00:00",
+ "updatedAt": "2026-10-20T10:10:33+00:00",
  "coverage": {
   "from": "2026-07-20",
   "to": "2026-10-20"
@@ -1683,6 +1683,50 @@
   },
   "ai": {
    "news": [
+    {
+     "id": "microsoft-sovereign-cloud-ignite-2026",
+     "date": "2026-10-20",
+     "type": "product",
+     "importance": 2,
+     "sourceType": "official",
+     "sourceName": "Official Microsoft Blog",
+     "url": "https://blogs.microsoft.com/blog/2026/10/20/advancing-digital-sovereignty-with-greater-control-and-choice/",
+     "originalTitle": "Advancing digital sovereignty with greater control and choice",
+     "company": "Microsoft",
+     "ar": {
+      "title": "مايكروسوفت توسّع Sovereign Cloud بأدوات جديدة لـ Azure وAzure Local",
+      "summary": "كشفت مايكروسوفت عن ميزات سيادة جديدة لـ Azure وAzure Local قبل مؤتمر Ignite، تشمل لوحة تحكم سيادية جديدة وإصدار Foundry Local وGitHub Enterprise Local بشكل عام.",
+      "details": "نشرت مايكروسوفت تلخيصاً لتحديثات برنامج Sovereign Cloud، تزامناً مع مؤتمر Ignite، تغطي سحابة Azure العامة ومنصة Azure Local المحلية.\n\nوعلى Azure، قدّمت مايكروسوفت لوحة تحكم سيادية (Sovereign Control Panel) في معاينة عامة تمنح العملاء رؤية واحدة لوضعهم السيادي ومخاطرهم واعتمادية أعباء العمل، إلى جانب خدمة Data Guardian للإشراف على وصول المهندسين عن بُعد في أوروبا، وسجل Production Touch Ledger المحصّن من التلاعب. كما أصبحت إدارة المفاتيح الخارجية عبر Azure Managed HSM متاحة بشكل عام، مما يتيح للعملاء الاحتفاظ بمفاتيح التشفير الجذرية خارج سيطرة مايكروسوفت.\n\nوعلى Azure Local، أصبح كل من GitHub Enterprise Local و Foundry Local متاحين بشكل عام، مما يتيح للمؤسسات تشغيل GitHub Enterprise Server و Copilot بنماذج مستضافة محلياً، إضافة إلى الاستدلال المحلي للذكاء الاصطناعي واسترجاع المعلومات الوكيل على بيانات محلية، في بيئات متصلة أو معزولة بالكامل.\n\nوأعلنت مايكروسوفت أيضاً عن 29 شريكاً في منظومتها السيادية، منها Accenture و Dell و HPE و Mistral و NVIDIA."
+     },
+     "en": {
+      "title": "Microsoft expands Sovereign Cloud with new Azure and Azure Local tools",
+      "summary": "Microsoft unveiled sovereignty features for Azure and Azure Local ahead of Ignite, including a new Sovereign Control Panel and GA releases for Foundry Local and GitHub Enterprise Local.",
+      "details": "Microsoft published a roundup of updates to its Sovereign Cloud program, timed to its Ignite conference, covering both its public Azure cloud and the on-premises Azure Local platform.\n\nFor Azure, it introduced a Sovereign Control Panel (public preview) that gives customers a single view of their sovereignty posture, risks and workload dependencies, alongside EU-focused Data Guardian oversight of remote engineer access and a tamper-evident Production Touch Ledger. External key management with Azure Managed HSM reached general availability, letting customers hold root encryption keys outside Microsoft's control.\n\nOn Azure Local, GitHub Enterprise Local and Foundry Local both reached general availability, letting organizations run GitHub Enterprise Server and Copilot with locally hosted models, plus local AI inference and agentic retrieval over on-premises data, in connected or fully disconnected environments.\n\nMicrosoft also named 29 partners in its sovereign ecosystem, including Accenture, Dell, HPE, Mistral and NVIDIA."
+     },
+     "addedAt": "2026-10-20T10:10:33+00:00"
+    },
+    {
+     "id": "nvidia-bsc-ai-factory-accelerator-spain",
+     "date": "2026-10-20",
+     "type": "hardware",
+     "importance": 1,
+     "sourceType": "official",
+     "sourceName": "NVIDIA Blog",
+     "url": "https://blogs.nvidia.com/blog/spain-startups-barcelona-supercomputing-center/",
+     "originalTitle": "Spain-Based Startups Advance Regional Innovation With Barcelona Supercomputing Center",
+     "company": "NVIDIA",
+     "ar": {
+      "title": "برنامج NVIDIA Inception يربط شركات ناشئة إسبانية بحوسبة برشلونة الفائقة",
+      "summary": "قالت NVIDIA إن شركات برنامج Inception يمكنها الآن الوصول إلى بعض خدمات BSC AI Factory، بعد خروج برنامج التسريع التابع لمركز برشلونة للحوسبة الفائقة من مرحلته التجريبية.",
+      "details": "قالت NVIDIA إن أعضاء برنامجها Inception للشركات الناشئة يمكنهم الآن الوصول إلى بعض خدمات برنامج BSC AI Factory Accelerator التابع لمركز برشلونة للحوسبة الفائقة (BSC) عبر بوابة NVIDIA Inception، بعد انتقال البرنامج من مرحلة تجريبية إلى التشغيل الكامل.\n\nويمنح برنامج التسريع الشركات الناشئة إمكانية الوصول إلى حوسبة سيادية ودعم تقني وتدريب. وفي يوم العرض التجريبي، تم اختيار ثلاث شركات من برنامج Inception كـ \"أبطال ذكاء اصطناعي\": Qatium (ذكاء شبكات المياه)، و OneCareAI (رصد الرجفان الأذيني من تخطيط القلب)، و Avatia (نظام متعدد الوكلاء يعتمد على الصوت لشركات الأدوية).\n\nوانطلق BSC AI Factory، أحد أوائل مصانع الذكاء الاصطناعي في أوروبا، في أبريل 2025، وقدّم أكثر من 800 خدمة لعملاء من القطاعين العام والخاص. وقالت NVIDIA إن توسعة قادمة للحاسوب الفائق MareNostrum 5، الذي يشغّل AI Factory، ستوسّع إمكانية الوصول إلى الحوسبة الفائقة عبر مصانع الذكاء الاصطناعي الأخرى في أوروبا."
+     },
+     "en": {
+      "title": "NVIDIA Inception links Spanish AI startups to Barcelona supercomputer access",
+      "summary": "NVIDIA said Inception-program startups can now access some BSC AI Factory services, as the Barcelona Supercomputing Center's accelerator for sovereign-compute startups moves out of its pilot phase.",
+      "details": "NVIDIA said members of its Inception startup program can now access select services from the Barcelona Supercomputing Center's (BSC) AI Factory Accelerator Programme through the NVIDIA Inception portal, as the program moves from pilot to full operation.\n\nThe accelerator gives startups access to sovereign compute, technical support and training. At the pilot's demo day, three Inception members were named AI Champions: Qatium (water-network intelligence), OneCareAI (atrial fibrillation detection from ECGs) and Avatia (a voice-first multi-agent system for pharmaceutical companies).\n\nBSC's AI Factory, among Europe's first, launched in April 2025 and has delivered more than 800 services to public and private clients. NVIDIA said an upcoming extension of the MareNostrum 5 supercomputer, which powers the AI Factory, will expand supercomputing access across other AI Factories in Europe."
+     },
+     "addedAt": "2026-10-20T10:10:33+00:00"
+    },
     {
      "id": "nvidia-germany-industrial-ai-declaration",
      "date": "2026-10-19",
