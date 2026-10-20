@@ -1,9 +1,9 @@
 {
  "version": 1,
- "updatedAt": "2026-10-19T23:12:11+00:00",
+ "updatedAt": "2026-10-20T00:10:39+00:00",
  "coverage": {
-  "from": "2026-07-19",
-  "to": "2026-10-19"
+  "from": "2026-07-20",
+  "to": "2026-10-20"
  },
  "tabs": {
   "once-human": {
@@ -1884,6 +1884,29 @@
       "details": "OpenAI published a blog post on October 19 describing efforts to improve ChatGPT's coding performance on low-resource programming languages - languages with far less training data and public code available than widely used languages like Python or JavaScript.\n\nThe post introduces new evaluations meant to track this progress over time, covering general software-engineering tasks, working with SQLite, and migrating legacy COBOL code to modern languages.\n\nOpenAI frames the work as part of a broader push to make its coding tools useful across a wider range of programming languages and codebases, not only the most popular ones."
      },
      "addedAt": "2026-10-19T23:12:11+00:00"
+    },
+    {
+     "id": "github-copilot-model-policy-api-enterprise",
+     "date": "2026-10-19",
+     "type": "coding",
+     "importance": 1,
+     "sourceType": "official",
+     "sourceName": "GitHub Changelog",
+     "url": "https://github.blog/changelog/2026-10-19-copilot-model-policy-api-for-enterprise-orgs-and-teams",
+     "originalTitle": "Copilot model policy API for enterprise, orgs, and teams",
+     "company": "GitHub",
+     "tool": "GitHub Copilot",
+     "ar": {
+      "title": "GitHub تطلق واجهة برمجية لإدارة سياسات نماذج Copilot في المؤسسات",
+      "summary": "أصدرت GitHub واجهة REST API متاحة بشكل عام لقراءة وتعديل سياسات نماذج Copilot على مستوى المؤسسة والمنظمات والفرق.",
+      "details": "أعلنت GitHub في 19 أكتوبر عن توفر واجهة REST API بشكل عام تتيح لمسؤولي المؤسسات قراءة وتعديل سياسات نماذج Copilot برمجياً، عبر نقاط وصول GET و PATCH على أربعة مستويات: المؤسسة، وفرق المؤسسة، وتطبيقات المؤسسة، والمنظمة.\n\nتتيح هذه الآلية لسياسات المؤسسة تفويض التحكم بالنماذج إلى المنظمات في وضع المنظمات، أو إلى الفرق والتطبيقات في وضع فرق المؤسسة، بما يسهّل إدارة توفر نماذج Copilot عبر المؤسسة بأكملها."
+     },
+     "en": {
+      "title": "GitHub launches API to manage Copilot model policies across enterprises",
+      "summary": "GitHub made a REST API generally available for reading and updating Copilot model policies at the enterprise, enterprise team, enterprise app and organization levels.",
+      "details": "GitHub announced on October 19 that a REST API for managing Copilot model policies is now generally available, with GET and PATCH endpoints at four levels: enterprise, enterprise teams, enterprise apps and organizations.\n\nThe endpoints let enterprise policies delegate model control down to organizations in organization mode, or to teams and apps in enterprise teams mode, making it easier for admins to manage which Copilot models are available across a large enterprise programmatically rather than through the UI alone."
+     },
+     "addedAt": "2026-10-19T23:59:59+00:00"
     },
     {
      "id": "anthropic-public-benefit-fund-launch",
