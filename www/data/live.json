@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-20T17:13:16+00:00",
+ "updatedAt": "2026-10-20T17:45:29+00:00",
  "items": [
   {
    "id": "auto-e9cdbb65b9b0",
@@ -52,9 +52,9 @@
    "url": "https://news.ycombinator.com/item?id=50163277",
    "originalTitle": "DeepSeek just open-sourced its inference engine",
    "en": {
-    "title": "DeepSeek just open-sourced its inference engine",
-    "summary": "Community discussion on Hacker News (1786 points, 655 comments).",
-    "details": "Community discussion on Hacker News (1786 points, 655 comments)."
+    "title": "DeepInfer: High-performance, large-scale inference framework for DeepSeek models",
+    "summary": "Community discussion on Hacker News (1856 points, 699 comments).",
+    "details": "Community discussion on Hacker News (1856 points, 699 comments)."
    },
    "translated": false,
    "fetchedAt": "2026-10-20T11:15:29+00:00"
