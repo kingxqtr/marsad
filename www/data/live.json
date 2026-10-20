@@ -1,45 +1,24 @@
 {
- "updatedAt": "2026-10-20T09:48:44+00:00",
+ "updatedAt": "2026-10-20T10:13:44+00:00",
  "items": [
   {
-   "id": "auto-05015e20f6d4",
-   "tab": "ai",
+   "id": "auto-ae9b3eca6136",
+   "tab": "once-human",
    "date": "2026-10-20",
-   "publishedAt": "2026-10-20T08:20:02+00:00",
-   "type": "policy",
+   "publishedAt": "2026-10-20T09:29:37+00:00",
+   "type": "scenario",
    "importance": 1,
    "sourceType": "official",
-   "sourceName": "Official Microsoft Blog",
-   "url": "https://blogs.microsoft.com/blog/2026/10/20/advancing-digital-sovereignty-with-greater-control-and-choice/",
-   "originalTitle": "Advancing digital sovereignty with greater control and choice",
+   "sourceName": "Once Human — Steam News",
+   "url": "https://store.steampowered.com/news/app/2139460/view/1846651706694440",
+   "originalTitle": "Ocean Expansion: Isles of Abyss Is Now Live",
    "en": {
-    "title": "Advancing digital sovereignty with greater control and choice",
-    "summary": "Across my conversations with leaders in government, critical infrastructure and regulated industries, one priority consistently rises to the top: putting technology to work on their most important systems while maintaining the control …",
-    "details": "Across my conversations with leaders in government, critical infrastructure and regulated industries, one priority consistently rises to the top: putting technology to work on their most important systems while maintaining the control those systems require.\n\nThis challenge is becoming more important as advanced cloud and AI capabilities move into public services, regulated processes and essential operations. Organizations are considering more than where data resides. They also seek to understand who can access and operate their systems, how sensitive digital assets remain protected, which technology dependencies matter most and whether critical services can continue as regulatory, geopolitical, security or network conditions change. Digital sovereignty should give organizations greater control and security over the technology they depend on, while continuing to innovate.\n\nLast year, we introduced Microsoft Sovereign Cloud to give customers more choice in how they address these requirements. Since then, we have continued to turn our commitments into practical capabilities across public cloud and customer-operated environments, while expanding how we enable partners to address sovereignty requirements in their local markets. Today, we are sharing the next stage of that work.\n\nA continuum of control, built around the workload …"
+    "title": "Ocean Expansion: Isles of Abyss Is Now Live",
+    "summary": "Dear Metas, Once Human's brand-new survival scenario, Isles of Abyss, officially launches on October 21 (PT)! To help you prepare, here is the server opening schedule.",
+    "details": "Dear Metas,\n\nOnce Human's brand-new survival scenario, Isles of Abyss, officially launches on October 21 (PT)! To help you prepare, here is the server opening schedule. For more details about the scenario, please check: https://steamcommunity.com/games/2139460/announcements/detail/703282384630448451\n\n1. Isles of Abyss Server Opening Schedule\n\n1.1 Server Opening Schedule Announcement\n\nAfter the version update on October 21, 2026 (PT), the system will open Isles of Abyss servers that Metas can join right away. See the schedule below:\n\nRegion ｜ First Batch of Servers ｜ Server Name ｜ First Batch Opening Time\n\nNorth America, Europe ｜ 4 ｜ Isles_Abyss-X0001、Isles_Abyss-X0002、Isles_Abyss-X0003、Isles_Abyss-X0004 ｜ Opens immediately after version update\n\nSouth America, Japan, Korea, Southeast Asia, HK & MO & TW ｜ 2 ｜ Isles_Abyss-X0001、Isles_Abyss-X0002\n\nNote:\n\nAdditional Server Plan: To ensure all Metas can experience Isles of Abyss, we will open new servers as needed based on the remaining capacity of existing servers. Feel free to choose a server and jump in!\n\nSign Up: We will ensure sufficient servers are available when the scenario officially launches on October 21 (PT). Meanwhile, Isles of Abyss sign-ups will not be available in advance—once servers are open, you can enter directly through the scenario sign-up interface.\n\nServer Worlds: Isles of Abyss has 12 worlds per server. …"
    },
    "translated": false,
-   "fetchedAt": "2026-10-20T08:38:13+00:00",
-   "company": "Microsoft"
-  },
-  {
-   "id": "auto-d8bab3317e8c",
-   "tab": "ai",
-   "date": "2026-10-20",
-   "publishedAt": "2026-10-20T05:00:00+00:00",
-   "type": "hardware",
-   "importance": 1,
-   "sourceType": "official",
-   "sourceName": "NVIDIA Blog",
-   "url": "https://blogs.nvidia.com/blog/spain-startups-barcelona-supercomputing-center/",
-   "originalTitle": "Spain-Based Startups Advance Regional Innovation With Barcelona Supercomputing Center",
-   "en": {
-    "title": "Spain-Based Startups Advance Regional Innovation With Barcelona Supercomputing Center",
-    "summary": "The Barcelona Supercomputing Center (BSC) ’s AI Factory Accelerator Programme, now in full operation following a pilot initiative, gives startups access to sovereign compute, technical support and training to support innovation across …",
-    "details": "The Barcelona Supercomputing Center (BSC) ’s AI Factory Accelerator Programme, now in full operation following a pilot initiative, gives startups access to sovereign compute, technical support and training to support innovation across industries.\n\nMany of these companies are also members of the NVIDIA Inception program for cutting-edge startups — and as of today, access to some of the BSC AI Factory services are available through the NVIDIA Inception portal .\n\nNVIDIA Inception complements the BSC AI Factory Accelerator Programme by providing members with training through NVIDIA Deep Learning Institute open courses, business mentoring, venture capital connections and other resources.\n\nAn upcoming extension of MareNostrum 5 — BSC’s public infrastructure serving scientific and technological innovation, powered by NVIDIA accelerated computing — will deliver supercomputing access through the BSC AI Factory and other AI Factories across Europe. BSC AI Factory is among Europe’s first AI factories and the first in Spain, and has delivered more than 800 services to private and public-sector clients since its April 2025 launch.\n\nRead All NVIDIA in Europe Announcements\n\nThree Inception members were recently named the BSC AI Factory Accelerator Programme’s AI Champions at the pilot initiative’s demo day: …"
-   },
-   "translated": false,
-   "fetchedAt": "2026-10-20T05:36:29+00:00",
-   "company": "NVIDIA"
+   "fetchedAt": "2026-10-20T10:13:40+00:00"
   }
  ]
 }
