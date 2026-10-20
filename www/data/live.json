@@ -1,24 +1,24 @@
 {
- "updatedAt": "2026-10-20T16:00:26+00:00",
+ "updatedAt": "2026-10-20T16:36:04+00:00",
  "items": [
   {
-   "id": "auto-12716f82e903",
+   "id": "auto-f1aea4a6bb2d",
    "tab": "ai",
    "date": "2026-10-20",
-   "publishedAt": "2026-10-20T00:00:00+00:00",
-   "type": "product",
+   "publishedAt": "2026-10-20T16:09:19+00:00",
+   "type": "business",
    "importance": 1,
    "sourceType": "official",
    "sourceName": "Hugging Face Blog",
-   "url": "https://huggingface.co/blog/hf-torchtpu",
-   "originalTitle": "Hugging Face ❤️ TorchTPU: TPUs, Natively",
+   "url": "https://huggingface.co/blog/allenai/fairstress",
+   "originalTitle": "FairStress: A deeper evaluation of fairness in LLM decision-making",
    "en": {
-    "title": "Hugging Face ❤️ TorchTPU: TPUs, Natively",
-    "summary": "Hugging Face ❤️ TorchTPU: TPUs, Natively",
+    "title": "FairStress: A deeper evaluation of fairness in LLM decision-making",
+    "summary": "FairStress: A deeper evaluation of fairness in LLM decision-making",
     "details": ""
    },
    "translated": false,
-   "fetchedAt": "2026-10-20T16:00:18+00:00",
+   "fetchedAt": "2026-10-20T16:35:58+00:00",
    "company": "Hugging Face"
   },
   {
@@ -73,8 +73,8 @@
    "originalTitle": "DeepSeek just open-sourced its inference engine",
    "en": {
     "title": "DeepSeek just open-sourced its inference engine",
-    "summary": "Community discussion on Hacker News (1579 points, 575 comments).",
-    "details": "Community discussion on Hacker News (1579 points, 575 comments)."
+    "summary": "Community discussion on Hacker News (1684 points, 615 comments).",
+    "details": "Community discussion on Hacker News (1684 points, 615 comments)."
    },
    "translated": false,
    "fetchedAt": "2026-10-20T11:15:29+00:00"
