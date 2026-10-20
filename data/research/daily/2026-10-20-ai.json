@@ -291,6 +291,52 @@
         "details": "Hugging Face announced TorchTPU, a native PyTorch backend that makes Google TPUs an ordinary PyTorch device, alongside GPUs and CPUs. This lets libraries such as Transformers, Diffusers and Kernels run on TPUs without rewriting code for torch_xla or JAX.\n\nDevelopers can load a model and move it to TPU by setting the device to \"tpu\", the same way they would for any other PyTorch device. The announcement also includes TPU-specific kernels from the Kernels Hub, along with test results from the Transformers CI confirming compatibility."
       }
     }
+    ,
+    {
+      "id": "ai2-fairstress-llm-fairness-benchmark",
+      "date": "2026-10-20",
+      "type": "model",
+      "importance": 1,
+      "sourceType": "official",
+      "sourceName": "Hugging Face Blog",
+      "url": "https://huggingface.co/blog/allenai/fairstress",
+      "originalTitle": "FairStress: A deeper evaluation of fairness in LLM decision-making",
+      "company": "Ai2",
+      "tool": "FairStress",
+      "ar": {
+        "title": "Ai2 تطلق FairStress لقياس العدالة في قرارات نماذج اللغة الكبيرة",
+        "summary": "طرح معهد Ai2 معيار FairStress لقياس تحيز نماذج اللغة في القرارات الشبيهة بالبشر، عبر أكثر من 13 مليون سيناريو اختبار موزعة على 29 مجالاً.",
+        "details": "نشر معهد Ai2 (Allen Institute for AI) في 20 أكتوبر معيار FairStress لقياس العدالة الديموغرافية في قرارات نماذج اللغة الكبيرة، بما يتجاوز مجرد النتيجة النهائية للقرار. يغطي المعيار 300 سيناريو مكوّن من مرشَّحَين عبر 29 مجالاً مثل التوظيف والإقراض والرعاية الصحية والتعليم والسكن والعدالة الجنائية، ويتوسع عبر تغييرات في الهوية ومحفزات إقناعية إلى أكثر من 13 مليون حالة اختبار، مع مجموعة فرعية أصغر باسم FairStress-Core من 50 ألف عنصر لتقييم أسرع.\n\nوأظهرت الدراسة أن النماذج تُبدي تحيزاً ضئيلاً من دون إشارات ديموغرافية، لكن عدم التكافؤ يتزايد كلما أصبحت الهوية أكثر وضوحاً: فغالباً ما تتخلى النماذج عن قرار مدعوم جيداً بسهولة أكبر حين يصب ذلك في مصلحة مرشح من أقلية، وهو نمط تسميه الدراسة \"التصحيح المفرط المعاكس للصورة النمطية\". كما استخدمت تبريرات هذه القرارات لغة أكثر ثقة وتركيزاً على الهوية قد تبالغ في تقدير جدارة المرشح.\n\nوقالت Ai2 إن معظم أساليب تقليل التحيز التي اختبرتها لم تنجح بشكل موثوق في تصحيح هذا الخلل، بينما اقترب أسلوب \"سلسلة التفكير المضادة للواقع\" من الحل مع الحفاظ على معظم الدقة. البيانات والشيفرة متاحة للعموم وستُضاف إلى مجموعة اختبارات Olmo-eval التابعة لـ Ai2."
+      },
+      "en": {
+        "title": "Ai2 releases FairStress, a benchmark for LLM fairness in decisions",
+        "summary": "Ai2 released FairStress, a benchmark testing whether LLMs apply human-like decisions evenhandedly across demographic groups, built from over 13 million test scenarios.",
+        "details": "Ai2 (Allen Institute for AI) published FairStress on October 20, a benchmark measuring demographic fairness in LLM decision-making beyond just the final answer. It covers 300 two-candidate scenarios across 29 domains such as hiring, lending, healthcare, education, housing and criminal justice, expanding via identity variations and adversarial prompts to more than 13 million test cases, with a smaller 50K-item FairStress-Core subset for faster evaluation.\n\nThe study found that while models show little bias without demographic cues, asymmetry grows as identity becomes explicit: models often abandon a well-supported decision more easily when doing so favors a minority-coded candidate, a pattern the authors call \"anti-stereotypical over-correction.\" Explanations for those decisions also used more confident, identity-focused language that could overstate the candidate's merit.\n\nAi2 said most debiasing techniques it tested did not reliably fix the asymmetry; counterfactual chain-of-thought prompting came closest while mostly preserving accuracy. The dataset and code are public and being added to Ai2's Olmo-eval suite."
+      }
+    }
+    ,
+    {
+      "id": "ibm-altk-evolve-agent-guidelines-tau2-bench",
+      "date": "2026-10-20",
+      "type": "model",
+      "importance": 1,
+      "sourceType": "official",
+      "sourceName": "Hugging Face Blog",
+      "url": "https://huggingface.co/blog/ibm-research/altk-evolve-bc",
+      "originalTitle": "ALTK-Evolve: How learned memory tops the τ²-bench leaderboard on customer service tasks without a frontier model",
+      "company": "IBM Research",
+      "tool": "ALTK-Evolve",
+      "ar": {
+        "title": "ALTK-Evolve من IBM يرفع موثوقية الوكلاء في اختبار τ²-bench دون ضبط النموذج",
+        "summary": "أطلقت IBM Research مكتبة ALTK-Evolve التي تستخلص إرشادات سلوكية من محاولات الوكيل نفسه، وتصدّرت بها لوحة صدارة τ²-bench لخدمة العملاء دون ضبط دقيق للنموذج.",
+        "details": "أصدرت IBM Research مكتبة مفتوحة المصدر باسم ALTK-Evolve، تستخلص إرشادات سلوكية قصيرة من محاولات الوكيل السابقة لأداء المهام وتضيفها إلى موجّه النظام (system prompt)، دون أي تحديث لأوزان النموذج أو بيانات موسومة بشرياً؛ إذ يقوم النموذج نفسه باستخلاص الإرشادات وتشغيل الوكيل معاً.\n\nوفي اختبار τ²-bench الخاص بخدمة العملاء من Sierra، والذي يغطي مجالي التجزئة والطيران، رفعت الإرشادات درجة Pass^4 لنموذج GPT-4.1 في مهام التجزئة غير المُطّلع عليها مسبقاً من 57.5% إلى 67.5%، والدقة من 78.1% إلى 82.5%. وفي مجال الطيران، ارتفعت درجة Pass^4 من 35% إلى 45%. وبحسب لقطة لوحة الصدارة بتاريخ 12 أكتوبر، تصدّر الأسلوب كلاً من تصنيف التجزئة (67.5%، متقدماً على نموذج خضع لضبط دقيق على بيانات التجزئة) وتصنيف الطيران باستخدام GPT-5.5 (82%).\n\nورفعت التقنية تكلفة المحادثة الواحدة بشكل طفيف، من نحو 0.084 دولار إلى 0.139 دولار في مجال التجزئة، بسبب طول الموجّهات بشكل أساسي، بينما كانت المحادثات أقصر قليلاً إجمالاً. وقالت IBM إن الأسلوب يحسّن موثوقية الوكلاء عبر نماذج أساس مختلفة دون أي ضبط دقيق."
+      },
+      "en": {
+        "title": "IBM's ALTK-Evolve lifts agent reliability on tau2-bench without tuning",
+        "summary": "IBM Research's ALTK-Evolve library learns behavioral guidelines from an agent's own attempts, topping the tau2-bench customer-service leaderboard without fine-tuning.",
+        "details": "IBM Research released ALTK-Evolve, an open-source library that learns short behavioral guidelines from an agent's own past task attempts and adds them to its system prompt, without any weight updates or human-labeled data; the same model both extracts the guidelines and runs the agent.\n\nOn tau2-bench, Sierra's customer-service benchmark covering retail and airline domains, the guidelines raised GPT-4.1's Pass^4 score on held-out retail tasks from 57.5% to 67.5% and accuracy from 78.1% to 82.5%. In the airline domain, Pass^4 rose from 35% to 45%. On the leaderboard snapshot from October 12, the method ranked first on both the retail split (67.5%, ahead of a model fine-tuned on retail data) and the airline split using GPT-5.5 (82%).\n\nThe technique raised the cost per conversation modestly, from about $0.084 to $0.139 in retail, mainly from longer prompts, while conversations ran slightly shorter overall. IBM said the approach improved reliability across different base models without any fine-tuning."
+      }
+    }
   ],
   "upcoming": [],
   "removeUpcoming": [],
