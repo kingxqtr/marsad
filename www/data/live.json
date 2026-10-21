@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-21T21:06:28+00:00",
+ "updatedAt": "2026-10-21T21:37:08+00:00",
  "items": [
   {
    "id": "auto-f0e6e11565ba",
@@ -120,25 +120,6 @@
    "company": "Hugging Face"
   },
   {
-   "id": "auto-95170b87e5e0",
-   "tab": "ai",
-   "date": "2026-10-21",
-   "publishedAt": "2026-10-21T06:19:12+00:00",
-   "type": "hardware",
-   "importance": 1,
-   "sourceType": "community",
-   "sourceName": "r/LocalLLaMA",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xbfhxp/be_prepared_gpu_price_increase_incoming_samsung/",
-   "originalTitle": "Be prepared, GPU price increase incoming --> Samsung sells out 100% of all 2027 HBM capacity - HBM prices expected to jump 200% next year, DRAM prices expected to see a double-digit price increase",
-   "en": {
-    "title": "Be prepared, GPU price increase incoming --> Samsung sells out 100% of all 2027 HBM capacity - HBM prices expected to jump 200% next year, DRAM prices expected to see a double-digit price increase",
-    "summary": "Community post on r/LocalLLaMA.",
-    "details": "Community post on r/LocalLLaMA."
-   },
-   "translated": false,
-   "fetchedAt": "2026-10-21T16:02:00+00:00"
-  },
-  {
    "id": "auto-e1be55d6da2d",
    "tab": "ai",
    "date": "2026-10-21",
@@ -151,8 +132,8 @@
    "originalTitle": "PHP2Shell: AI uncovers critical RCE in PHP",
    "en": {
     "title": "PHP2Shell: AI uncovers critical RCE in PHP",
-    "summary": "Community discussion on Hacker News (419 points, 164 comments).",
-    "details": "Community discussion on Hacker News (419 points, 164 comments)."
+    "summary": "Community discussion on Hacker News (421 points, 167 comments).",
+    "details": "Community discussion on Hacker News (421 points, 167 comments)."
    },
    "translated": false,
    "fetchedAt": "2026-10-21T16:01:54+00:00"
