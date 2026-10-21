@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": "2026-10-21T15:10:20+00:00",
+ "updatedAt": "2026-10-21T16:15:53+00:00",
  "coverage": {
   "from": "2026-07-21",
   "to": "2026-10-21"
@@ -1749,6 +1749,27 @@
   },
   "ai": {
    "news": [
+    {
+     "id": "php2shell-ai-rce-wiz-openai",
+     "date": "2026-10-21",
+     "type": "coding",
+     "importance": 3,
+     "sourceType": "official",
+     "sourceName": "Wiz Research",
+     "url": "https://www.wiz.io/blog/php2shell-php-rce",
+     "originalTitle": "PHP2Shell: AI uncovers critical RCE vulnerabilities affecting 70% of the Internet",
+     "ar": {
+      "title": "PHP2Shell: ذكاء اصطناعي يكتشف ثغرات حرجة في PHP تهدد 70% من الإنترنت",
+      "summary": "استخدمت Wiz Research نماذج ذكاء اصطناعي من Google وOpenAI لاكتشاف ثغرتين حرجتين في لغة PHP تتيحان تنفيذ تعليمات عن بُعد دون مصادقة على WordPress وDrupal وJoomla، وقد صدرت تصحيحاتها رسمياً.",
+      "details": "أعلنت شركة Wiz Research عن اكتشاف عائلة ثغرات أمنية حرجة في لغة PHP أسمتها \"PHP2Shell\"، بدرجة خطورة تصل إلى 9.2 من 10 على مقياس CVSS، في مشروع استخدمت فيه أداتها Wiz Atlas إلى جانب نموذجي Gemini 4 Argon من Google وGPT-5.6 Sol من OpenAI لاكتشاف الثغرات وتطوير استغلالها والتحقق من التصحيحات.\n\nتحمل الثغرتان الرمزين CVE-2026-109618 وCVE-2026-109619، وتسمحان بتنفيذ تعليمات عن بُعد دون مصادقة أو بتسريب ذاكرة عمليات PHP، وقد أثبتت Wiz إمكانية استغلالهما على مواقع تستخدم WordPress وDrupal وJoomla، مع تحذيرها من أن أي تطبيق PHP على إصدار متأثر قد يكون معرضاً للخطر، بما يشمل خوادم PHP-FPM.\n\nتتأثر تقريباً كل إصدارات PHP الممتدة حتى الإصدار 5.4، وأبلغت Wiz فريق أمان PHP في 24 أغسطس 2026، الذي أقرّ بالثغرات في 21 سبتمبر وأصدر تصحيحات علنية في 21 أكتوبر ضمن الإصدارات 8.2.35 و8.3.36 و8.4.27 و8.5.12.\n\n- نشرت OpenAI منشوراً منسقاً عن الكشف يؤكد مساهمة نموذجها في البحث.\n- أثار وصف \"اكتشاف بالذكاء الاصطناعي\" نقاشاً بين المعلّقين حول حجم دور النماذج الفعلي ومدى قدم الثغرات الأساسية."
+     },
+     "en": {
+      "title": "AI-assisted research uncovers critical PHP flaws hitting 70% of the web",
+      "summary": "Wiz Research used Google's Gemini 4 and OpenAI's GPT-5.6 Sol alongside its own Wiz Atlas tool to find two critical PHP vulnerabilities enabling unauthenticated remote code execution on WordPress, Drupal and Joomla; patches are now public.",
+      "details": "Wiz Research disclosed a family of critical PHP vulnerabilities it named \"PHP2Shell,\" reaching a CVSS severity of 9.2, found during a project that used its own Wiz Atlas tool alongside Google's Gemini 4 Argon and OpenAI's GPT-5.6 Sol for vulnerability discovery, exploit development and patch validation.\n\nThe two flaws, tracked as CVE-2026-109618 and CVE-2026-109619, allow unauthenticated remote code execution or process-memory disclosure in the core PHP engine. Wiz demonstrated working exploits against WordPress, Drupal and Joomla, and warned that any PHP application on a vulnerable version could be exposed, including PHP-FPM deployments.\n\nNearly every PHP release going back to version 5.4 is affected. Wiz reported the issues to the PHP security team on August 24, 2026; PHP acknowledged them on September 21 and shipped public patches on October 21 in versions 8.2.35, 8.3.36, 8.4.27 and 8.5.12.\n\n- OpenAI published its own coordinated-disclosure post confirming its model's role in the research.\n- The \"AI discovered it\" framing drew debate among security researchers over how much the models actually contributed versus how old the underlying bugs were."
+     },
+     "addedAt": "2026-10-21T16:15:53+00:00"
+    },
     {
      "id": "nvidia-dgx-spark-europe-local-ai",
      "date": "2026-10-21",
