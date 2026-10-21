@@ -1,6 +1,46 @@
 {
- "updatedAt": "2026-10-21T09:29:43+00:00",
+ "updatedAt": "2026-10-21T10:05:41+00:00",
  "items": [
+  {
+   "id": "auto-77ae0b416129",
+   "tab": "ai",
+   "date": "2026-10-21",
+   "publishedAt": "2026-10-21T10:00:07+00:00",
+   "type": "coding",
+   "importance": 1,
+   "sourceType": "official",
+   "sourceName": "NVIDIA Blog",
+   "url": "https://blogs.nvidia.com/blog/open-models-europe-industry/",
+   "originalTitle": "NVIDIA Open Models Advance Europe’s Sovereign Intelligence Across Industries",
+   "en": {
+    "title": "NVIDIA Open Models Advance Europe’s Sovereign Intelligence Across Industries",
+    "summary": "NVIDIA is expanding its family of open models across language, robotics, biology, and quantum computing, giving developers, researchers and enterprises what they need to build applications tailored to local languages and industries The …",
+    "details": "NVIDIA is expanding its family of open models across language, robotics, biology, and quantum computing, giving developers, researchers and enterprises what they need to build applications tailored to local languages and industries\n\nThe portfolio includes the new NVIDIA Nemotron 3.5 Super VL and Nemotron 3.5 Bolt models; new NVIDIA Nemotron Retriever models for embedding, reranking and document parsing; the new NVIDIA Kumo family open weight foundation models and libraries for structured business data; NVIDIA Cosmos 3.5 world models; NVIDIA Alpamayo 2 Edge for autonomous vehicles; NVIDIA BioNeMo for healthcare and scientific discovery; and NVIDIA Ising for quantum computing.\n\nThe open models give organizations a foundation they can customize with local data and deploy on infrastructure they control.\n\nRead All NVIDIA in Europe Announcements\n\nNVIDIA Nemotron Powers Post-Training Across Industries\n\nNVIDIA Nemotron brings open language models, datasets and recipes to developers building agents. The models support text and images, helping agents orchestrate workflows, reason through complex problems and complete specialized tasks at a lower cost. Nemotron models are built with data, research and expertise from the NVIDIA Nemotron Coalition , including European partners Black Forest Labs , H-Company and Mistral . …"
+   },
+   "translated": false,
+   "fetchedAt": "2026-10-21T10:05:36+00:00",
+   "company": "NVIDIA"
+  },
+  {
+   "id": "auto-d3cb5476035d",
+   "tab": "ai",
+   "date": "2026-10-21",
+   "publishedAt": "2026-10-21T09:30:16+00:00",
+   "type": "hardware",
+   "importance": 1,
+   "sourceType": "official",
+   "sourceName": "NVIDIA Blog",
+   "url": "https://blogs.nvidia.com/blog/gtc-berlin-2026-keynote/",
+   "originalTitle": "GTC Berlin 2026: Live Updates From NVIDIA CEO Jensen Huang’s Keynote",
+   "en": {
+    "title": "GTC Berlin 2026: Live Updates From NVIDIA CEO Jensen Huang’s Keynote",
+    "summary": "Founded in a tent near the Berlin Wall in 1980, the Tempodrom moved several times before settling near Anhalter Bahnhof in 2001. Its permanent home has since hosted concerts, galas and political events.",
+    "details": "Founded in a tent near the Berlin Wall in 1980, the Tempodrom moved several times before settling near Anhalter Bahnhof in 2001. Its permanent home has since hosted concerts, galas and political events.\n\nToday, it hosts a different kind of spectacle.\n\nGTC Berlin runs three days, with more than 100 sessions on agentic AI, robotics, physical AI, open models and accelerated computing underway at STATION-Berlin down the road. Here, journalists, analysts and partners have gathered for the main event: NVIDIA founder and CEO Jensen Huang’s keynote.\n\nHuang Takes the Stage\n\nHuang opened with a question: What do L’Oréal, Revolut, Spotify, Merck, Vodafone, Zara, Porsche, Nestlé and HSBC have in common? They’re all European companies and they’re all working with NVIDIA on AI, he said.\n\nThe keynote comes on the heels of NVIDIA’s weeklong road across Europe — Paris, London, Stockholm, Dublin — with the company committing nearly $10 billion to the technology ecosystem across Europe and working with 12,000+ partners.\n\n“After decades of advancement in the computer industry, we are now at the beginnings of a new industrial revolution,” Huang said.\n\nAI is a five-layer cake , Huang explained. Energy powers advanced computers that are part of an AI factory, which generates tokens and digital intelligence from the models that run on it, which are then integrated into every application. …"
+   },
+   "translated": false,
+   "fetchedAt": "2026-10-21T10:05:36+00:00",
+   "company": "NVIDIA"
+  },
   {
    "id": "auto-f3171f8bbbdf",
    "tab": "once-human",
