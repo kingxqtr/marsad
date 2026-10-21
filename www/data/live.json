@@ -1,6 +1,63 @@
 {
- "updatedAt": "2026-10-21T15:23:19+00:00",
+ "updatedAt": "2026-10-21T16:02:00+00:00",
  "items": [
+  {
+   "id": "auto-95170b87e5e0",
+   "tab": "ai",
+   "date": "2026-10-21",
+   "publishedAt": "2026-10-21T06:19:12+00:00",
+   "type": "hardware",
+   "importance": 1,
+   "sourceType": "community",
+   "sourceName": "r/LocalLLaMA",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xbfhxp/be_prepared_gpu_price_increase_incoming_samsung/",
+   "originalTitle": "Be prepared, GPU price increase incoming --> Samsung sells out 100% of all 2027 HBM capacity - HBM prices expected to jump 200% next year, DRAM prices expected to see a double-digit price increase",
+   "en": {
+    "title": "Be prepared, GPU price increase incoming --> Samsung sells out 100% of all 2027 HBM capacity - HBM prices expected to jump 200% next year, DRAM prices expected to see a double-digit price increase",
+    "summary": "Community post on r/LocalLLaMA.",
+    "details": "Community post on r/LocalLLaMA."
+   },
+   "translated": false,
+   "fetchedAt": "2026-10-21T16:02:00+00:00"
+  },
+  {
+   "id": "auto-e1be55d6da2d",
+   "tab": "ai",
+   "date": "2026-10-21",
+   "publishedAt": "2026-10-21T13:43:19+00:00",
+   "type": "product",
+   "importance": 1,
+   "sourceType": "community",
+   "sourceName": "Hacker News",
+   "url": "https://news.ycombinator.com/item?id=50180836",
+   "originalTitle": "PHP2Shell: AI uncovers critical RCE in PHP",
+   "en": {
+    "title": "PHP2Shell: AI uncovers critical RCE in PHP",
+    "summary": "Community discussion on Hacker News (307 points, 88 comments).",
+    "details": "Community discussion on Hacker News (307 points, 88 comments)."
+   },
+   "translated": false,
+   "fetchedAt": "2026-10-21T16:01:54+00:00"
+  },
+  {
+   "id": "auto-bfba5ac6d78a",
+   "tab": "star-citizen",
+   "date": "2026-10-21",
+   "publishedAt": "2026-10-21T16:01:54+00:00",
+   "type": "development",
+   "importance": 1,
+   "sourceType": "official",
+   "sourceName": "RSI Comm-Link",
+   "url": "https://robertsspaceindustries.com/comm-link/transmission/21337-Day-Of-The-Vara-2956",
+   "originalTitle": "Day of the Vara 2956 - Don’t Wake the Dead",
+   "en": {
+    "title": "Day of the Vara 2956 - Don’t Wake the Dead",
+    "summary": "Honor the lost with reverence, revelry, and the comfort of company. There’s safety in numbers… supposedly.",
+    "details": "Honor the lost with reverence, revelry, and the comfort of company. There’s safety in numbers… supposedly."
+   },
+   "translated": false,
+   "fetchedAt": "2026-10-21T16:01:54+00:00"
+  },
   {
    "id": "auto-50e4f092ed8a",
    "tab": "ai",
