@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": "2026-10-21T13:14:20+00:00",
+ "updatedAt": "2026-10-21T14:12:49+00:00",
  "coverage": {
   "from": "2026-07-21",
   "to": "2026-10-21"
@@ -1750,6 +1750,28 @@
   "ai": {
    "news": [
     {
+     "id": "nvidia-dgx-spark-europe-local-ai",
+     "date": "2026-10-21",
+     "type": "hardware",
+     "importance": 2,
+     "sourceType": "official",
+     "sourceName": "NVIDIA Blog",
+     "url": "https://blogs.nvidia.com/blog/local-ai-gtc-rtx-dgx-spark-station-sync/",
+     "originalTitle": "Bringing the Spark to Europe: Local Intelligence Powers Next Wave of Agents",
+     "company": "NVIDIA",
+     "ar": {
+      "title": "NVIDIA تتوسع بأجهزة RTX وDGX Spark في أوروبا وتطرح نموذج Recursive Flint للبرمجة المحلية",
+      "summary": "في مؤتمر GTC برلين، كشفت NVIDIA عن توفر إصدار DGX Spark بسعة 64 جيجابايت في 23 أكتوبر، ونموذج برمجة محلي جديد اسمه Recursive Flint، إلى جانب دعم فوري لنماذج مفتوحة عدة على أجهزتها الشخصية.",
+      "details": "قدّمت NVIDIA في مؤتمر GTC برلين تحديثات لمنظومة أجهزتها الشخصية للذكاء الاصطناعي المحلي: RTX Spark الذي أُطلق في 16 أكتوبر لتشغيل وكلاء شخصيين على ويندوز بذاكرة موحدة تصل إلى 128 جيجابايت، وDGX Spark الموجّه للمطورين على لينكس الذي سيتوفر إصداره بسعة 64 جيجابايت من شركاء الشركة اعتباراً من 23 أكتوبر، وDGX Station للمؤسسات.\n\nمن أبرز الإعلانات نموذج برمجة محلي جديد اسمه Recursive Flint من شركة Recursive Superintelligence، بحجم 40 مليار معامل (2.5 مليار نشط لكل رمز)، يعمل بسرعة تتجاوز 220 رمزاً في الثانية على DGX Spark بسعة 64 جيجابايت، وأوزانه متاحة على Hugging Face برخصة Apache 2.0.\n\n- دعم فوري (Day-0) لعدة نماذج مفتوحة جديدة على عتاد NVIDIA المحلي، منها Nemotron Bolt E4B المخصص للمساعدات الصوتية، ونماذج من عائلات GLM وDeepSeek وQwen وMiniMax ونموذج FLUX.3 Klein لتوليد الصور.\n- تضيف منصة NVIDIA Sync دعماً لعناقيد تصل إلى ثمانية أجهزة DGX Spark، وميزة Model Launcher التي تُطرح لاحقاً هذا الشهر، إلى جانب ربط DGX Station بأجهزة لينكس الأخرى."
+     },
+     "en": {
+      "title": "NVIDIA expands RTX/DGX Spark in Europe, unveils Recursive Flint coding model",
+      "summary": "At GTC Berlin, NVIDIA said its 64GB DGX Spark ships from partners October 23 alongside a new local coding model, Recursive Flint, plus day-0 support for several open models on its personal AI hardware.",
+      "details": "NVIDIA used GTC Berlin to update its local AI hardware lineup: RTX Spark, launched October 16 for personal agents on Windows PCs with up to 128GB of unified memory; DGX Spark for Linux developers, whose 64GB version ships from partners starting October 23; and DGX Station for enterprise teams.\n\nAmong the announcements is Recursive Flint, a new local coding model from Recursive Superintelligence with 40B total parameters (2.5B active per token), running at over 220 tokens per second on a 64GB DGX Spark, with open weights on Hugging Face under Apache 2.0.\n\n- Day-0 support for several new open models on NVIDIA's local hardware, including Nemotron Bolt E4B for voice assistants, models from the GLM, DeepSeek, Qwen and MiniMax families, and the FLUX.3 Klein image model.\n- NVIDIA Sync adds support for clusters of up to eight DGX Spark systems and a Model Launcher feature arriving later this month, plus the ability to connect DGX Station to other Linux systems."
+     },
+     "addedAt": "2026-10-21T14:12:49+00:00"
+    },
+    {
      "id": "google-economy-sea-2026-report",
      "date": "2026-10-21",
      "type": "business",
@@ -1880,6 +1902,50 @@
       "details": "OpenAI announced a partnership with Google Cloud to make its frontier models and Codex coding workflows available to developers inside Gemini's Model Garden, distributed through Google Cloud Marketplace.\n\nThe move lets Google Cloud customers access OpenAI's models alongside Google's own within the same development environment, part of a broader trend of rival AI labs striking cross-distribution deals across the major cloud platforms."
      },
      "addedAt": "2026-10-21T13:14:20+00:00"
+    },
+    {
+     "id": "openai-agents-biological-data-research",
+     "date": "2026-10-21",
+     "type": "product",
+     "importance": 2,
+     "sourceType": "official",
+     "sourceName": "OpenAI News",
+     "url": "https://openai.com/index/scaling-ai-research-for-complex-biological-data",
+     "originalTitle": "Using thousands of AI agents to uncover new leads in biological data",
+     "company": "OpenAI",
+     "ar": {
+      "title": "OpenAI تستخدم آلاف الوكلاء الذكية لتحليل بيانات بيولوجية معقدة",
+      "summary": "تعاونت OpenAI مع PerturbAI وScripps Research لنشر آلاف الوكلاء الذكية في تحليل بيانات من ملايين الخلايا الدماغية، بهدف اكتشاف اتجاهات بحثية واعدة في علم الأحياء.",
+      "details": "قالت OpenAI إنها تعاونت مع شركة PerturbAI ومعهد Scripps Research لاستخدام آلاف الوكلاء الذكية الموزعة في تحليل بيانات بيولوجية معقدة مستخلصة من ملايين الخلايا الدماغية.\n\nهدف المشروع، بحسب الشركة، هو تسريع اكتشاف اتجاهات بحثية واعدة لم تكن لتظهر بالطرق التقليدية، عبر توزيع مهام التحليل على عدد كبير من الوكلاء يعملون في آن واحد على مجموعة البيانات."
+     },
+     "en": {
+      "title": "OpenAI uses thousands of AI agents to analyze complex biological data",
+      "summary": "OpenAI, PerturbAI and Scripps Research used thousands of distributed AI agents to analyze data from millions of brain cells, aiming to surface promising research leads in biology.",
+      "details": "OpenAI said it worked with PerturbAI and Scripps Research to deploy thousands of distributed AI agents to analyze complex biological data drawn from millions of brain cells.\n\nThe company said the project's goal was to speed up the discovery of promising research leads that traditional methods might miss, by splitting the analysis across a large number of agents working on the dataset at once."
+     },
+     "addedAt": "2026-10-21T14:12:49+00:00"
+    },
+    {
+     "id": "openai-chatgpt-ads-expands-26-countries",
+     "date": "2026-10-21",
+     "type": "business",
+     "importance": 2,
+     "sourceType": "official",
+     "sourceName": "OpenAI News",
+     "url": "https://openai.com/index/chatgpt-ads-expands-26-new-countries",
+     "originalTitle": "ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform",
+     "company": "OpenAI",
+     "ar": {
+      "title": "OpenAI توسّع إعلانات ChatGPT إلى 26 دولة جديدة بعد استخدام أكثر من 100 ألف معلن للمنصة",
+      "summary": "قالت OpenAI إن أكثر من 100 ألف معلن استخدموا منصة إعلانات ChatGPT حتى الآن، مع توسيع الخدمة إلى 26 دولة جديدة لتمكين الشركات المحلية والعلامات العالمية من الوصول للمستخدمين أثناء تصفحهم ومقارنتهم واتخاذ قرارات الشراء داخل ChatGPT.",
+      "details": "أعلنت OpenAI توسيع إعلانات ChatGPT لتشمل 26 دولة جديدة، بعد أن استخدم أكثر من 100 ألف معلن المنصة منذ إطلاقها، بحسب الشركة.\n\nقالت OpenAI إن التوسع يتيح لمزيد من المعلنين، من الشركات المحلية الصغيرة إلى العلامات التجارية العالمية، الوصول إلى المستخدمين أثناء استكشافهم ومقارنتهم واتخاذهم قرارات الشراء داخل ChatGPT."
+     },
+     "en": {
+      "title": "OpenAI expands ChatGPT Ads to 26 new countries, says 100,000+ advertisers used it",
+      "summary": "OpenAI said more than 100,000 advertisers have used the ChatGPT Ads platform so far, as it expands the service to 26 new countries for local businesses and global brands to reach shoppers inside ChatGPT.",
+      "details": "OpenAI announced it is expanding ChatGPT Ads to 26 new countries, after more than 100,000 advertisers have used the platform since launch, the company said.\n\nOpenAI said the expansion lets more advertisers, from local businesses to global brands, reach people as they explore, compare and decide what to buy inside ChatGPT."
+     },
+     "addedAt": "2026-10-21T14:12:49+00:00"
     },
     {
      "id": "nvidia-kumo-forecast-release",
