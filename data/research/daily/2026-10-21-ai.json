@@ -76,6 +76,31 @@
         "location": "",
         "dateNote": ""
       }
+    },
+    {
+      "id": "nvidia-google-cloud-vera-rubin-a5x",
+      "date": "2026-10-21",
+      "type": "hardware",
+      "importance": 2,
+      "sourceType": "official",
+      "sourceName": "NVIDIA Blog",
+      "url": "https://blogs.nvidia.com/blog/google-cloud-vera-rubin-infrastructure/",
+      "originalTitle": "Google Cloud and NVIDIA Announce General Availability of NVIDIA Vera Rubin Infrastructure",
+      "company": "NVIDIA",
+      "ar": {
+        "title": "Google Cloud وNVIDIA تعلنان عن بنية Vera Rubin الجديدة بسعة تصل إلى 960 ألف معالج رسومي",
+        "summary": "تعتمد Google Cloud فئة A5X الجديدة القائمة على أنظمة NVIDIA Vera Rubin NVL72 للوكلاء الذكية والتعلم المعزز، مع توفر عام الشهر المقبل وخطط للتوسع حتى 960 ألف معالج Rubin.",
+        "details": "أعلنت Google Cloud وNVIDIA عن فئة حوسبة جديدة باسم A5X تعمل على أنظمة NVIDIA Vera Rubin NVL72، وتجمع بين شبكات ConnectX-9 SuperNIC وشبكة Virgo الخاصة بـGoogle Cloud وتبريد سائل من الجيل الرابع، وتستهدف أعباء الاستدلال الوكيل والتعلم المعزز.\n\nقالت الشركتان إن التوفر العام سيكون الشهر المقبل مع توسع إلى أوروبا، وإن شركة Ineffable Intelligence البريطانية التي أسسها David Silver كانت أول عميل يصل إلى A5X. كما تخطط Google Cloud لتوسيع بنية Vera Rubin حتى 960 ألف معالج Rubin عبر مواقع متعددة.\n\n- اختبرت شركة WPP معمارية وكيل إبداعي على A5X باستخدام نماذج NVIDIA Nemotron ومنصة OpenShell، وشغّلت أعباءً كانت تحتاج عنقوداً متعدد العقد على جهاز واحد في تجاربها الأولية.\n- تخطط Google Cloud لحوسبة سرية على مستوى الرفوف في أجهزة A4X Max (GB300 NVL72)، بينما أصبحت أجهزة G4 السرية بمعالجات RTX PRO 6000 Blackwell متاحة للجميع الآن.",
+        "location": "",
+        "dateNote": ""
+      },
+      "en": {
+        "title": "Google Cloud, NVIDIA unveil Vera Rubin A5X instances, eye 960K GPUs",
+        "summary": "Google Cloud's new A5X instances run on NVIDIA Vera Rubin NVL72 systems for agentic inference and reinforcement learning, with general availability next month and plans to scale to 960,000 Rubin GPUs.",
+        "details": "Google Cloud and NVIDIA announced a new compute class, A5X, built on NVIDIA Vera Rubin NVL72 systems, combining ConnectX-9 SuperNICs, Google Cloud's Virgo networking and fourth-generation liquid cooling for agentic inference and reinforcement-learning workloads.\n\nThe companies said general availability is coming next month with expansion into Europe, and that London AI company Ineffable Intelligence, founded by David Silver, was the first customer to access A5X. Google Cloud plans to scale its Vera Rubin infrastructure to as many as 960,000 Rubin GPUs across multiple sites.\n\n- WPP tested a creative-agent architecture on A5X using NVIDIA Nemotron models and the OpenShell platform, running workloads that typically needed a multi-node cluster on a single instance in early tests.\n- Google Cloud plans rack-scale confidential computing on A4X Max instances (GB300 NVL72), while confidential G4 VMs with RTX PRO 6000 Blackwell GPUs are now generally available.",
+        "location": "",
+        "dateNote": ""
+      }
     }
   ],
   "upcoming": [],
