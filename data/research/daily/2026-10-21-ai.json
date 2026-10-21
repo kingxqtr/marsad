@@ -1,0 +1,34 @@
+{
+  "topic": "ai",
+  "generatedAt": "2026-10-21",
+  "news": [
+    {
+      "id": "google-economy-sea-2026-report",
+      "date": "2026-10-21",
+      "type": "business",
+      "importance": 2,
+      "sourceType": "official",
+      "sourceName": "Google Blog",
+      "url": "https://blog.google/company-news/inside-google/around-the-globe/google-asia/e-conomy-sea-report-2026/",
+      "originalTitle": "Southeast Asia's digital economy to hit $368 billion",
+      "company": "Google",
+      "ar": {
+        "title": "تقرير Google: اقتصاد جنوب شرق آسيا الرقمي يبلغ 368 مليار دولار بدفع الذكاء الاصطناعي",
+        "summary": "تقرير e-Conomy SEA من Google وTemasek وBain يقول إن 243 مليون شخص في جنوب شرق آسيا يستخدمون الذكاء الاصطناعي التوليدي يومياً، وإن الاقتصاد الرقمي سيبلغ 368 مليار دولار في 2026.",
+        "details": "نشرت Google، بالتعاون مع Temasek وBain & Company، النسخة الحادية عشرة من تقرير e-Conomy SEA بعنوان \"بناء الاقتصاد الذكي\"، وقالت إن 243 مليون شخص في جنوب شرق آسيا، أي نحو 58% من القوى العاملة، يستخدمون الذكاء الاصطناعي التوليدي يومياً، بمعدل انتشار أسرع بأربع مرات من انتشار إنترنت الهاتف المحمول.\n\nيتوقع التقرير أن يبلغ الاقتصاد الرقمي الإقليمي 368 مليار دولار من حجم المعاملات الإجمالي في 2026، بنمو 17% عن 315 مليار دولار في 2025، وأن يتجاوز تريليون دولار بحلول 2035. كما يتوقع نمو استخدام الذكاء الاصطناعي في المنطقة 60 ضعفاً خلال خمس سنوات.\n\n- يقول التقرير إن التخصيص القائم على الذكاء الاصطناعي يرفع معدلات التحويل 10% وحجم الطلبات حتى 75%.\n- تجاوز الذكاء الاصطناعي التوليدي وسائل التواصل الاجتماعي كثاني أكثر أداة استخداماً لتخطيط الرحلات المعقدة.\n- يوصي التقرير بتوسيع سعة مراكز البيانات نحو ثلاثة أضعاف خلال خمس سنوات واعتماد حوكمة إقليمية موحدة عبر اتفاقية ASEAN الرقمية المتوقعة في نوفمبر 2026.",
+        "location": "",
+        "dateNote": ""
+      },
+      "en": {
+        "title": "Google: Southeast Asia's digital economy to hit $368B, driven by AI",
+        "summary": "Google's e-Conomy SEA report with Temasek and Bain finds 243 million Southeast Asians use generative AI daily, and projects the region's digital economy to reach $368 billion in 2026.",
+        "details": "Google, with Temasek and Bain & Company, published the 11th annual e-Conomy SEA report, \"Building the Intelligent Economy.\" It found that 243 million people in Southeast Asia, about 58% of the working population, use generative AI daily, with adoption spreading roughly four times faster than mobile internet did.\n\nThe report projects the region's digital economy will reach $368 billion in gross merchandise value in 2026, up 17% from $315 billion in 2025, and will exceed $1 trillion by 2035. It also projects regional AI usage will grow 60-fold over the next five years.\n\n- AI-driven personalization is said to lift conversions by 10% and order volume by up to 75%.\n- Generative AI has overtaken social media as the second most-used tool for planning complex travel itineraries.\n- The report recommends expanding data center capacity roughly 3x over five years and adopting region-wide AI governance through the ASEAN Digital Economy Framework Agreement, expected in November 2026.",
+        "location": "",
+        "dateNote": ""
+      }
+    }
+  ],
+  "upcoming": [],
+  "removeUpcoming": [],
+  "removeNews": []
+}
