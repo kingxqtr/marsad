@@ -1,6 +1,45 @@
 {
- "updatedAt": "2026-10-21T17:11:18+00:00",
+ "updatedAt": "2026-10-21T17:47:02+00:00",
  "items": [
+  {
+   "id": "auto-ed36d01401c4",
+   "tab": "star-citizen",
+   "date": "2026-10-21",
+   "publishedAt": "2026-10-21T15:28:30+00:00",
+   "type": "community",
+   "importance": 1,
+   "sourceType": "community",
+   "sourceName": "r/starcitizen",
+   "url": "https://www.reddit.com/r/starcitizen/comments/1xbq9e4/new_image_of_chris_roberts_and_mark_hamil/",
+   "originalTitle": "New image of Chris Roberts and Mark Hamil",
+   "en": {
+    "title": "New image of Chris Roberts and Mark Hamil",
+    "summary": "Community post on r/starcitizen.",
+    "details": "Community post on r/starcitizen."
+   },
+   "translated": false,
+   "fetchedAt": "2026-10-21T17:47:00+00:00"
+  },
+  {
+   "id": "auto-200c8b2b86cf",
+   "tab": "ai",
+   "date": "2026-10-21",
+   "publishedAt": "2026-10-21T17:35:36+00:00",
+   "type": "product",
+   "importance": 1,
+   "sourceType": "official",
+   "sourceName": "Hugging Face Blog",
+   "url": "https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization",
+   "originalTitle": "How Specializing the Vocabulary of SLMs Can Cut Inference Cost by 77% in Real Applications",
+   "en": {
+    "title": "How Specializing the Vocabulary of SLMs Can Cut Inference Cost by 77% in Real Applications",
+    "summary": "How Specializing the Vocabulary of SLMs Can Cut Inference Cost by 77% in Real Applications",
+    "details": ""
+   },
+   "translated": false,
+   "fetchedAt": "2026-10-21T17:46:57+00:00",
+   "company": "Hugging Face"
+  },
   {
    "id": "auto-78cc7b0f6eb4",
    "tab": "ai",
@@ -53,27 +92,8 @@
    "originalTitle": "PHP2Shell: AI uncovers critical RCE in PHP",
    "en": {
     "title": "PHP2Shell: AI uncovers critical RCE in PHP",
-    "summary": "Community discussion on Hacker News (373 points, 133 comments).",
-    "details": "Community discussion on Hacker News (373 points, 133 comments)."
-   },
-   "translated": false,
-   "fetchedAt": "2026-10-21T16:01:54+00:00"
-  },
-  {
-   "id": "auto-bfba5ac6d78a",
-   "tab": "star-citizen",
-   "date": "2026-10-21",
-   "publishedAt": "2026-10-21T16:01:54+00:00",
-   "type": "development",
-   "importance": 1,
-   "sourceType": "official",
-   "sourceName": "RSI Comm-Link",
-   "url": "https://robertsspaceindustries.com/comm-link/transmission/21337-Day-Of-The-Vara-2956",
-   "originalTitle": "Day of the Vara 2956 - Don’t Wake the Dead",
-   "en": {
-    "title": "Day of the Vara 2956 - Don’t Wake the Dead",
-    "summary": "Honor the lost with reverence, revelry, and the comfort of company. There’s safety in numbers… supposedly.",
-    "details": "Honor the lost with reverence, revelry, and the comfort of company. There’s safety in numbers… supposedly."
+    "summary": "Community discussion on Hacker News (392 points, 146 comments).",
+    "details": "Community discussion on Hacker News (392 points, 146 comments)."
    },
    "translated": false,
    "fetchedAt": "2026-10-21T16:01:54+00:00"
