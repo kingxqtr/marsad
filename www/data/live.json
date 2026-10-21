@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-21T23:04:00+00:00",
+ "updatedAt": "2026-10-21T23:32:55+00:00",
  "items": [
   {
    "id": "auto-1fd8460ad1bd",
@@ -190,8 +190,8 @@
    "originalTitle": "PHP2Shell: AI uncovers critical RCE in PHP",
    "en": {
     "title": "PHP2Shell: AI uncovers critical RCE in PHP",
-    "summary": "Community discussion on Hacker News (428 points, 170 comments).",
-    "details": "Community discussion on Hacker News (428 points, 170 comments)."
+    "summary": "Community discussion on Hacker News (428 points, 171 comments).",
+    "details": "Community discussion on Hacker News (428 points, 171 comments)."
    },
    "translated": false,
    "fetchedAt": "2026-10-21T16:01:54+00:00"
@@ -214,26 +214,6 @@
    },
    "translated": false,
    "fetchedAt": "2026-10-21T11:11:01+00:00"
-  },
-  {
-   "id": "auto-17aba45c860c",
-   "tab": "ai",
-   "date": "2026-10-21",
-   "publishedAt": "2026-10-21T10:30:02+00:00",
-   "type": "hardware",
-   "importance": 1,
-   "sourceType": "official",
-   "sourceName": "NVIDIA Blog",
-   "url": "https://blogs.nvidia.com/blog/confidential-computing-model-builders-infrastructure/",
-   "originalTitle": "NVIDIA Confidential Computing Expands, Enabling Frontier Model Builders to Securely Scale Across Global Infrastructure",
-   "en": {
-    "title": "NVIDIA Confidential Computing Expands, Enabling Frontier Model Builders to Securely Scale Across Global Infrastructure",
-    "summary": "NVIDIA builds tools to enable safe agents across the stack . The NVIDIA OpenShell Reference Architecture, announced today , is part of NVIDIA’s growing portfolio of technologies that enables organizations to safely deploy agents at scale.",
-    "details": "NVIDIA builds tools to enable safe agents across the stack . The NVIDIA OpenShell Reference Architecture, announced today , is part of NVIDIA’s growing portfolio of technologies that enables organizations to safely deploy agents at scale. NVIDIA Confidential Computing is the infrastructure layer that protects the models and data those agents depend on while running.\n\nToday, NVIDIA is expanding that layer with Confidential Bare Metal, a new deployment option with NVIDIA Confidential Computing that enables frontier model builders to run sensitive workloads on dedicated third-party infrastructure while retaining control of their models and data.\n\nNVIDIA is introducing new platform security controls that protect data in transit, measure platform integrity and enforce hardware-level access restrictions. These new controls let frontier model builders use bare-metal instances to own and operate their bespoke software stack, including host and platform infrastructure software, when operating on NVIDIA accelerated computing infrastructure across third-party cloud, neocloud and enterprise infrastructure.\n\nRead All NVIDIA in Europe Announcements\n\nNVIDIA Confidential Computing now offers a converged security architecture with three deployment options:\n\n- Confidential Bare Metal for bare-metal infrastructure\n\n- Confidential Containers for Kubernetes environments\n\n- Confidential Virtual Machines for virtualized environments …"
-   },
-   "translated": false,
-   "fetchedAt": "2026-10-21T11:10:54+00:00",
-   "company": "NVIDIA"
   },
   {
    "id": "auto-61803a1c35b2",
