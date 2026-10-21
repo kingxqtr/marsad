@@ -1,6 +1,26 @@
 {
- "updatedAt": "2026-10-21T21:37:08+00:00",
+ "updatedAt": "2026-10-21T22:08:04+00:00",
  "items": [
+  {
+   "id": "auto-0fbafbf407dd",
+   "tab": "ai",
+   "date": "2026-10-21",
+   "publishedAt": "2026-10-21T21:00:00+00:00",
+   "type": "product",
+   "importance": 1,
+   "sourceType": "official",
+   "sourceName": "OpenAI News",
+   "url": "https://openai.com/index/broad-access-through-consistent-standards",
+   "originalTitle": "Broad access through consistent standards",
+   "en": {
+    "title": "Broad access through consistent standards",
+    "summary": "How OpenAI works with distribution partners to uphold consistent safeguards, support responsible access, and clarify expectations in our Usage Policies.",
+    "details": "How OpenAI works with distribution partners to uphold consistent safeguards, support responsible access, and clarify expectations in our Usage Policies."
+   },
+   "translated": false,
+   "fetchedAt": "2026-10-21T22:07:58+00:00",
+   "company": "OpenAI"
+  },
   {
    "id": "auto-f0e6e11565ba",
    "tab": "star-citizen",
@@ -132,8 +152,8 @@
    "originalTitle": "PHP2Shell: AI uncovers critical RCE in PHP",
    "en": {
     "title": "PHP2Shell: AI uncovers critical RCE in PHP",
-    "summary": "Community discussion on Hacker News (421 points, 167 comments).",
-    "details": "Community discussion on Hacker News (421 points, 167 comments)."
+    "summary": "Community discussion on Hacker News (423 points, 167 comments).",
+    "details": "Community discussion on Hacker News (423 points, 167 comments)."
    },
    "translated": false,
    "fetchedAt": "2026-10-21T16:01:54+00:00"
