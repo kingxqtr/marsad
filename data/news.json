@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": "2026-10-21T14:12:49+00:00",
+ "updatedAt": "2026-10-21T15:10:20+00:00",
  "coverage": {
   "from": "2026-07-21",
   "to": "2026-10-21"
@@ -1968,6 +1968,29 @@
       "details": "NVIDIA released Kumo Forecast (formerly NV-Tesseract Forecasting), a multivariate time-series forecasting model pairing a pretrained transformer encoder (about 340M parameters) with a trainable forecasting head.\n\nThe model produces direct forecasts for a requested horizon and can extend predictions beyond its native horizon autoregressively. Its Domain-Aware Representation and Retrieval (DARR) mode retrieves similar patterns from a separate historical context dataset and blends them with the direct forecast to improve accuracy.\n\n- A DataFrame-first API with configurable forecast horizons and optional retrieval context.\n- A model-agnostic interpretability framework giving lag and feature attributions per horizon.\n- Supported input sequence lengths of 256, 512, 1024 and 2048.\n- Code is Apache 2.0 licensed in the NVIDIA/Kumo-TS repo, with weights on Hugging Face."
      },
      "addedAt": "2026-10-21T13:14:20+00:00"
+    },
+    {
+     "id": "granite-speech-5-0-release",
+     "date": "2026-10-21",
+     "type": "model",
+     "importance": 1,
+     "sourceType": "official",
+     "sourceName": "Hugging Face Blog",
+     "url": "https://huggingface.co/blog/ibm-granite/granite-speech-5",
+     "originalTitle": "Granite Speech 5.0: Transcribe, Translate, and Attribute more Accurately and Faster",
+     "company": "IBM",
+     "tool": "Granite Speech 5.0",
+     "ar": {
+      "title": "آي بي إم تطلق Granite Speech 5.0 بنسخ صوتي أسرع وأدق",
+      "summary": "أطلقت IBM عائلة Granite Speech 5.0 من ثلاثة نماذج مفتوحة الوزن للنسخ الصوتي والترجمة وتمييز المتحدثين، بدقة أعلى وسرعة استدلال أسرع بنحو 1.6 مرة مقارنة بالنسخة السابقة.",
+      "details": "أطلقت IBM في 21 أكتوبر نسخة محدثة من عائلة نماذجها الصوتية باسم Granite Speech 5.0، وتضم ثلاثة نماذج مفتوحة الوزن برخصة Apache 2.0، تغطي النسخ الصوتي والترجمة وتمييز المتحدثين.\n\nيحسّن نموذج granite-speech-5.0-2b الجديد بحجم 2 مليار معامل دقة النسخ الصوتي للإنجليزية القصيرة، ويتعامل بشكل أفضل مع الضوضاء والميكروفونات البعيدة، وينسخ ست لغات، ويترجم بين الإنجليزية ولغات أخرى تشمل الإيطالية والصينية الماندرين.\n\nكما أصبح نموذج Turbo CTC المحدّث بحجم 470 مليون معامل يدعم سبع لغات بدلاً من الإنجليزية فقط، ويعمل بسرعة أكبر بنحو 1.6 مرة مقارنة بالنسخة السابقة مع الحفاظ على الدقة ذاتها. أما النموذج الثالث المخصص للاجتماعات فقد حسّن دقة تمييز المتحدثين وخفّض أخطاء النسخ الطويل بنحو الربع."
+     },
+     "en": {
+      "title": "IBM releases Granite Speech 5.0 with faster, more accurate transcription",
+      "summary": "IBM released Granite Speech 5.0, a family of three open-weight models for transcription, translation and speaker attribution, with better accuracy and up to 1.6x faster inference than the previous version.",
+      "details": "IBM released Granite Speech 5.0 on October 21, an updated family of three open-weight speech models under the Apache 2.0 license, covering transcription, translation and speaker attribution.\n\nThe new 2-billion-parameter granite-speech-5.0-2b model improves accuracy on short-form English speech and handles noisy or distant audio better, transcribes six languages, and translates between English and several others, including Italian and Mandarin.\n\nThe updated 470-million-parameter Turbo CTC model now supports seven languages instead of English only, and runs about 1.6 times faster than before at the same accuracy. A third model aimed at meetings improved speaker attribution and cut long-form transcription errors by about a quarter."
+     },
+     "addedAt": "2026-10-21T15:10:20+00:00"
     },
     {
      "id": "microsoft-sovereign-cloud-ignite-2026",
