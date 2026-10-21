@@ -1,6 +1,26 @@
 {
- "updatedAt": "2026-10-21T17:47:02+00:00",
+ "updatedAt": "2026-10-21T18:13:13+00:00",
  "items": [
+  {
+   "id": "auto-883ce3a4ca58",
+   "tab": "ai",
+   "date": "2026-10-21",
+   "publishedAt": "2026-10-21T17:58:42+00:00",
+   "type": "product",
+   "importance": 1,
+   "sourceType": "official",
+   "sourceName": "Hugging Face Blog",
+   "url": "https://huggingface.co/blog/nvidia/microduck-isaac-lab-sim-to-real",
+   "originalTitle": "Train in Simulation, Deploy on a Real Robot: Microduck with Isaac Lab 3.0",
+   "en": {
+    "title": "Train in Simulation, Deploy on a Real Robot: Microduck with Isaac Lab 3.0",
+    "summary": "Train in Simulation, Deploy on a Real Robot: Microduck with Isaac Lab 3.0",
+    "details": ""
+   },
+   "translated": false,
+   "fetchedAt": "2026-10-21T18:13:08+00:00",
+   "company": "Hugging Face"
+  },
   {
    "id": "auto-ed36d01401c4",
    "tab": "star-citizen",
@@ -92,8 +112,8 @@
    "originalTitle": "PHP2Shell: AI uncovers critical RCE in PHP",
    "en": {
     "title": "PHP2Shell: AI uncovers critical RCE in PHP",
-    "summary": "Community discussion on Hacker News (392 points, 146 comments).",
-    "details": "Community discussion on Hacker News (392 points, 146 comments)."
+    "summary": "Community discussion on Hacker News (395 points, 149 comments).",
+    "details": "Community discussion on Hacker News (395 points, 149 comments)."
    },
    "translated": false,
    "fetchedAt": "2026-10-21T16:01:54+00:00"
