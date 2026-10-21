@@ -43,6 +43,49 @@
         "summary": "Industry reports say Samsung, SK hynix and Micron have sold out their 2027 DRAM and HBM output, with HBM prices projected to more than double next year.",
         "details": "Reports surfacing on r/LocalLLaMA and cited by outlets including DigiTimes say Samsung, SK hynix and Micron have allocated all of their 2027 DRAM and HBM manufacturing capacity, driven by AI demand for high-bandwidth memory. The three manufacturers have not confirmed the reports.\n\nAnalysts expect prices to climb sharply as a result: KB Securities projects Samsung's HBM selling prices rising more than 100% in 2027, while TrendForce separately forecasts a 121% increase in blended HBM prices. Reported asking prices for Samsung's next-generation HBM sit in the mid-to-high $4 range per gigabit, versus roughly $1.50 per gigabit for current HBM3E chips.\n\nBecause HBM and conventional DRAM compete for the same wafer capacity, Samsung has said HBM growth could squeeze supply of standard DRAM, with smartphone and PC makers expected to face tighter 2027 allocations. Tighter memory supply would raise costs across AI servers and consumer GPUs alike."
       }
+    },
+    {
+      "id": "recursivesi-flint-moe-coding-model",
+      "date": "2026-10-21",
+      "type": "coding",
+      "importance": 1,
+      "sourceType": "official",
+      "sourceName": "Hugging Face (RecursiveSI)",
+      "url": "https://huggingface.co/RecursiveSI/flint",
+      "originalTitle": "RecursiveSI/flint (40B A2.5B) model card",
+      "company": "Recursive Superintelligence",
+      "tool": "Flint",
+      "ar": {
+        "title": "Recursive Superintelligence تُطلق Flint: نموذج ترميز مفتوح بتقنية MoE بـ40 مليار معامل",
+        "summary": "أطلقت شركة Recursive Superintelligence نموذج Flint، وهو نموذج لغوي بخبراء متعددين (MoE) مرخّص بموجب Apache 2.0 بحجم نحو 40 مليار معامل و2.5 مليار معامل نشط، مصمم لعمل وكلاء الترميز الذكية بشكل مستقل.",
+        "details": "نشرت شركة Recursive Superintelligence نموذج Flint على منصة Hugging Face، وهو نموذج لغوي من نوع فك التشفير فقط يعتمد تقنية خليط الخبراء (Mixture of Experts)، ويستهدف بشكل أساسي وكلاء الترميز البرمجي. يضم النموذج نحو 39.8 مليار معامل إجمالي، منها نحو 2.5 مليار معامل نشط لكل رمز، موزعة على 49 طبقة، أغلبها طبقات MoE تضم 256 خبيرًا يُختار منها 6 خبراء لكل رمز.\n\nيمزج Flint بين طبقات الانتباه ذات النافذة المنزلقة وطبقات الانتباه الكامل، ويدعم نافذة سياق تصل إلى 262,144 رمزًا، إلى جانب دعم الاستخدام المتعدد للأدوات ضمن محادثة واحدة لمهام مثل فحص المستودعات البرمجية وإصلاح الأخطاء وإضافة ميزات جديدة وكتابة الاختبارات.\n\nالإصدار المتاح هو نسخة BF16 تُشغَّل عبر محرك الاستدلال SGLang، وتحتاج إلى معالج رسومي واحد من طراز Nvidia B300 أو H200 لكل نسخة تشغيل. ونشرت الشركة Flint بموجب ترخيص Apache 2.0 مفتوح المصدر، ما يتيح استخدامه وتعديله بحرية."
+      },
+      "en": {
+        "title": "Recursive Superintelligence releases Flint, an open 40B MoE coding model",
+        "summary": "Startup Recursive Superintelligence released Flint, an Apache 2.0 mixture-of-experts coding model with about 40B total and 2.5B active parameters, built for autonomous coding agents.",
+        "details": "Recursive Superintelligence, Inc. published Flint on Hugging Face, a decoder-only mixture-of-experts language model aimed at coding agents. The model has roughly 39.8 billion total parameters with about 2.5 billion active per token, spread across 49 layers, most of them mixture-of-experts layers with 256 routed experts and 6 selected per token.\n\nFlint mixes sliding-window and full attention layers and supports a 262,144-token context window, with multi-turn tool use meant for tasks like examining a codebase, fixing bugs, adding features and writing tests.\n\nThe release is a BF16 checkpoint served with the SGLang inference engine and needs a single Nvidia B300 or H200 GPU per replica. Recursive Superintelligence published Flint under the Apache 2.0 license, making it freely usable and modifiable."
+      }
+    },
+    {
+      "id": "nvidia-confidential-bare-metal-gtc-berlin",
+      "date": "2026-10-21",
+      "type": "hardware",
+      "importance": 2,
+      "sourceType": "official",
+      "sourceName": "NVIDIA Blog",
+      "url": "https://blogs.nvidia.com/blog/confidential-computing-model-builders-infrastructure/",
+      "originalTitle": "NVIDIA Confidential Computing Expands, Enabling Frontier Model Builders to Securely Scale Across Global Infrastructure",
+      "company": "Nvidia",
+      "ar": {
+        "title": "Nvidia تطرح Confidential Bare Metal لحماية بيانات نماذج الذكاء الاصطناعي",
+        "summary": "كشفت Nvidia في مؤتمر GTC ببرلين عن خيار جديد ضمن منصة الحوسبة السرّية (Confidential Computing) يتيح لمطوري النماذج الكبرى تشغيل أعمال حساسة على بنية تحتية مخصّصة مع بقاء التحكم الكامل بنماذجهم وبياناتهم بأيديهم.",
+        "details": "أعلنت Nvidia في مؤتمر GTC ببرلين يوم 21 أكتوبر عن وضع تشغيل جديد باسم Confidential Bare Metal ضمن منصتها للحوسبة السرّية Confidential Computing، يتيح لمطوري النماذج المتقدّمة تشغيل أعمال حسّاسة على بنية تحتية مخصّصة لدى طرف ثالث مع الاحتفاظ بالتحكم الكامل في نماذجهم وبياناتهم. وينضم هذا الوضع إلى خيارين سابقين هما Confidential Containers وConfidential Virtual Machines، ويضيف ضوابط أمنية تحمي البيانات أثناء انتقالها وتتحقّق من سلامة المنصّة وتفرض قيودًا على الوصول على مستوى العتاد.\n\nيدعم الوضع الجديد أنظمة Grace Blackwell NVL72 ذات المقياس الرفّي، وأنظمة HGX Rubin NVL8 وDGX Rubin NVL8 المعتمدة على معالجات x86، على أن يكون نظام Nvidia DSX OS بمثابة نموذج مرجعي لمزوّدي الحوسبة السحابية. وتعتزم شركة Cohere دمج هذا الخيار في منصّتها Cohere Model Vault، بينما توسّع Google Cloud دعمه ليشمل حزم A4X Max المعتمدة على أنظمة Nvidia GB300 NVL72.\n\nومن بين مزوّدي البنية التحتية الذين أعلنوا دعمهم للخيار الجديد: CoreWeave وMicrosoft Azure وGoogle Cloud وLambda وNebius، إلى جانب شركاء تصنيع الأنظمة Cisco وDell وHPE وLenovo وSupermicro، عبر أنظمة معتمدة من Nvidia."
+      },
+      "en": {
+        "title": "Nvidia launches Confidential Bare Metal for AI model builders at GTC Berlin",
+        "summary": "Nvidia unveiled Confidential Bare Metal, a new Confidential Computing option letting AI labs run sensitive workloads on dedicated infrastructure while keeping control of their models and data.",
+        "details": "Nvidia announced Confidential Bare Metal at GTC Berlin on October 21, a new deployment mode for its Confidential Computing platform that lets frontier model builders run sensitive workloads on dedicated third-party hardware while keeping control over their models and data. It joins the existing Confidential Containers and Confidential Virtual Machines options, and adds platform security controls that protect data in transit, verify platform integrity and enforce hardware-level access limits.\n\nThe new mode supports Nvidia's Grace Blackwell NVL72 rack-scale systems as well as x86-based HGX Rubin NVL8 and DGX Rubin NVL8 systems, with Nvidia's DSX OS serving as a reference architecture for cloud providers. Cohere plans to integrate it into Cohere Model Vault, and Google Cloud is extending it to A4X Max instances built on Nvidia GB300 NVL72 systems.\n\nInfrastructure providers including CoreWeave, Microsoft Azure, Google Cloud, Lambda and Nebius, along with systems partners Cisco, Dell, HPE, Lenovo and Supermicro, are lining up to support the new deployment option on Nvidia-certified hardware."
+      }
     }
   ],
   "upcoming": [],
