@@ -1,0 +1,51 @@
+{
+  "topic": "ai",
+  "generatedAt": "2026-10-22",
+  "news": [
+    {
+      "id": "anthropic-stubbs-long-term-benefit-trust",
+      "date": "2026-10-21",
+      "type": "business",
+      "importance": 1,
+      "sourceType": "official",
+      "sourceName": "Anthropic Blog",
+      "url": "https://www.anthropic.com/news/christopher-stubbs-joins-long-term-benefit-trust",
+      "originalTitle": "Physicist Christopher Stubbs joins Anthropic's Long-Term Benefit Trust",
+      "company": "Anthropic",
+      "ar": {
+        "title": "فيزيائي من Harvard ينضم إلى Long-Term Benefit Trust في Anthropic",
+        "summary": "ينضم عالم الفيزياء Christopher Stubbs، عميد العلوم السابق في Harvard، كأول فيزيائي ضمن أمناء صندوق Long-Term Benefit Trust التابع لشركة Anthropic.",
+        "details": "عيّنت Anthropic عالم الفيزياء Christopher Stubbs، عميد العلوم السابق بجامعة Harvard، أمينًا في صندوق Long-Term Benefit Trust التابع لها في 21 أكتوبر، ليصبح أول فيزيائي ينضم إلى هذا الكيان.\n\nشارك Stubbs في اكتشاف تسارع تمدد الكون ضمن فريق High-Z Supernova Search، وهو عمل حاز لاحقًا جائزة Breakthrough Prize in Fundamental Physics، كما شغل منصب عالم المشروع المؤسس لمرصد Vera C. Rubin. وهو أيضًا عضو في مجموعة JASON الاستشارية العلمية للحكومة الأمريكية، وكتب عن الحفاظ على إمكانية إعادة إنتاج الأبحاث المعتمدة على الذكاء الاصطناعي.\n\nويُعد الصندوق جهة مستقلة قادرة على تعيين أغلبية أعضاء مجلس إدارة Anthropic، ويقدّم المشورة للإدارة بشأن مخاطر الذكاء الاصطناعي وتأثيره المجتمعي. وينضم Stubbs إلى الأمناء Neil Buddy Shah وRichard Fontaine ورئيس الاحتياطي الفيدرالي الأمريكي السابق Ben Bernanke.\n\nوجاء الإعلان متزامنًا مع أول تقرير للمنفعة العامة تصدره Anthropic، أسهم الصندوق في صياغته، إلى جانب خطة لإنشاء صندوق Anthropic Public Benefit Fund الممول بحصة من أسهم الشركة، رهنًا بموافقة المساهمين."
+      },
+      "en": {
+        "title": "Harvard physicist Christopher Stubbs joins Anthropic's governance trust",
+        "summary": "Christopher Stubbs, a Harvard physicist and former Dean of Science, becomes the first physicist trustee on Anthropic's Long-Term Benefit Trust.",
+        "details": "Anthropic named Christopher Stubbs, a Harvard physicist and the university's former Dean of Science, as a trustee of its Long-Term Benefit Trust on October 21. He is the first physicist to join the body.\n\nStubbs helped discover the accelerating expansion of the universe as part of the High-Z Supernova Search Team, work later recognized with the Breakthrough Prize in Fundamental Physics, and was the founding project scientist for the Vera C. Rubin Observatory. He also advises the US government on national security as a member of JASON and has written about keeping AI-assisted research reproducible.\n\nThe Trust is an independent body that can appoint a majority of Anthropic's board and advises leadership on AI's risks and societal impact. Stubbs joins trustees Neil Buddy Shah, Richard Fontaine and former Federal Reserve Chair Ben Bernanke.\n\nThe announcement came alongside Anthropic's first Public Benefit Report, which the Trust helped shape, and a planned Anthropic Public Benefit Fund funded by a share of company stock, subject to stockholder approval."
+      }
+    },
+    {
+      "id": "samsung-hbm-2027-capacity-sellout-price-surge",
+      "date": "2026-10-21",
+      "type": "hardware",
+      "importance": 2,
+      "sourceType": "community",
+      "sourceName": "r/LocalLLaMA",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xbfhxp/be_prepared_gpu_price_increase_incoming_samsung/",
+      "originalTitle": "Be prepared, GPU price increase incoming --> Samsung sells out 100% of all 2027 HBM capacity - HBM prices expected to jump 200% next year, DRAM prices expected to see a double-digit price increase",
+      "company": "Samsung",
+      "ar": {
+        "title": "تقارير: Samsung تبيع كامل طاقتها من ذاكرة HBM لعام 2027 وسط توقعات بارتفاع الأسعار",
+        "summary": "تفيد تقارير صناعية بأن Samsung وSK hynix وMicron باعتا كامل طاقتهما الإنتاجية من DRAM وHBM لعام 2027، مع توقعات بارتفاع أسعار HBM لأكثر من الضعف العام المقبل.",
+        "details": "تشير تقارير تداولتها منصة r/LocalLLaMA واستشهدت بها مصادر مثل DigiTimes إلى أن Samsung وSK hynix وMicron خصّصت كامل طاقتها الإنتاجية من ذاكرة DRAM وHBM لعام 2027، مدفوعة بالطلب المتصاعد على ذاكرة النطاق الترددي العالي (HBM) لأغراض الذكاء الاصطناعي. ولم تؤكد الشركات الثلاث هذه التقارير رسميًا.\n\nويتوقع المحللون ارتفاعًا حادًا في الأسعار نتيجة ذلك؛ إذ تتوقع KB Securities ارتفاع أسعار بيع HBM لدى Samsung بأكثر من 100% في 2027، بينما تتوقع TrendForce ارتفاعًا بنسبة 121% في متوسط أسعار HBM. وتتراوح الأسعار المطلوبة لشرائح HBM من الجيل التالي لدى Samsung بين 4 و5 دولارات تقريبًا لكل غيغابت، مقارنة بنحو 1.5 دولار لكل غيغابت لشرائح HBM3E الحالية.\n\nوبما أن إنتاج HBM وذاكرة DRAM التقليدية يتنافسان على سعة التصنيع نفسها، ذكرت Samsung أن نمو HBM قد يُضيّق المعروض من DRAM القياسية، ما يجعل مصنّعي الهواتف والحواسيب أمام حصص أضيق في 2027. وسيؤدي تضييق المعروض من الذاكرة إلى رفع تكاليف خوادم الذكاء الاصطناعي وبطاقات الرسوميات الاستهلاكية على حد سواء."
+      },
+      "en": {
+        "title": "Samsung reportedly sells out 2027 HBM capacity as prices set to surge",
+        "summary": "Industry reports say Samsung, SK hynix and Micron have sold out their 2027 DRAM and HBM output, with HBM prices projected to more than double next year.",
+        "details": "Reports surfacing on r/LocalLLaMA and cited by outlets including DigiTimes say Samsung, SK hynix and Micron have allocated all of their 2027 DRAM and HBM manufacturing capacity, driven by AI demand for high-bandwidth memory. The three manufacturers have not confirmed the reports.\n\nAnalysts expect prices to climb sharply as a result: KB Securities projects Samsung's HBM selling prices rising more than 100% in 2027, while TrendForce separately forecasts a 121% increase in blended HBM prices. Reported asking prices for Samsung's next-generation HBM sit in the mid-to-high $4 range per gigabit, versus roughly $1.50 per gigabit for current HBM3E chips.\n\nBecause HBM and conventional DRAM compete for the same wafer capacity, Samsung has said HBM growth could squeeze supply of standard DRAM, with smartphone and PC makers expected to face tighter 2027 allocations. Tighter memory supply would raise costs across AI servers and consumer GPUs alike."
+      }
+    }
+  ],
+  "upcoming": [],
+  "removeUpcoming": [],
+  "removeNews": []
+}
