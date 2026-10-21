@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": "2026-10-21T12:11:25+00:00",
+ "updatedAt": "2026-10-21T13:14:20+00:00",
  "coverage": {
   "from": "2026-07-21",
   "to": "2026-10-21"
@@ -1816,6 +1816,28 @@
      "addedAt": "2026-10-21T10:12:18+00:00"
     },
     {
+     "id": "nvidia-agent-toolkit-expansion-gtc-berlin",
+     "date": "2026-10-21",
+     "type": "product",
+     "importance": 2,
+     "sourceType": "official",
+     "sourceName": "NVIDIA Blog",
+     "url": "https://blogs.nvidia.com/blog/enterprise-platforms-agent-toolkit/",
+     "originalTitle": "NVIDIA Agent Toolkit Expands, Grounding Enterprise Agents in Company Data",
+     "company": "NVIDIA",
+     "ar": {
+      "title": "NVIDIA توسّع حزمة أدوات الوكلاء لربط وكلاء الشركات ببياناتها",
+      "summary": "أضافت NVIDIA أدوات جديدة إلى NVIDIA Agent Toolkit تشمل Agent Knowledge Foundation ونماذج Nemotron Retriever وKumo وبيئة تشغيل OpenShell الآمنة، لمساعدة الشركات على بناء وكلاء يستخدمون بياناتها الخاصة.",
+      "details": "أعلنت NVIDIA عن توسيع حزمة أدواتها مفتوحة المصدر NVIDIA Agent Toolkit، التي تتيح للشركات تخصيص الوكلاء الذكيين والتحكم بهم، وربطهم ببيانات الشركة لتوجيه إجاباتهم وأفعالهم، ومراقبة عملهم وضبط كيفية تشغيلهم.\n\nتضم الحزمة: منصة NVIDIA Agent Knowledge Foundation الجديدة المعتمدة على مكتبات CUDA-X، ونماذج NVIDIA المفتوحة مثل Nemotron Retriever وعائلة Kumo الجديدة، وبيئة تشغيل الوكلاء الآمنة OpenShell، ومخططات NemoClaw الآمنة للوكلاء، وأدوات مثل NeMo Relay وNeMo Compass.\n\n- تساعد Agent Knowledge Foundation الشركات على تحويل بياناتها إلى معرفة يستخدمها الوكلاء دون نقل البيانات أو إعادة بناء مهام العمل القائمة أو تغيير ضوابط الحوكمة.\n- الهدف هو بناء وكلاء يمكن الوثوق بهم من التطوير حتى النشر، عبر مكدس مفتوح يجمع النماذج وبيئة التشغيل والبيانات والأدوات."
+     },
+     "en": {
+      "title": "NVIDIA expands Agent Toolkit to ground enterprise agents in company data",
+      "summary": "NVIDIA added new pieces to its open-source Agent Toolkit, including Agent Knowledge Foundation, Nemotron Retriever and Kumo models, and the OpenShell secure runtime, to help enterprises build agents grounded in their own data.",
+      "details": "NVIDIA announced an expansion of its open-source NVIDIA Agent Toolkit, which lets enterprises customize and control AI agents, ground their answers and actions in company data, monitor what they do, and govern how they operate.\n\nThe toolkit now comprises the new NVIDIA Agent Knowledge Foundation (built on NVIDIA CUDA-X libraries), open models including Nemotron Retriever and the new Kumo family, the OpenShell secure agent runtime, NemoClaw secure agent blueprints, and tools such as NeMo Relay and NeMo Compass.\n\n- Agent Knowledge Foundation helps enterprises turn their data into intelligence agents can use, without moving the data, rebuilding existing workflows, or changing governance controls.\n- NVIDIA said the goal is agents that are trustworthy from development through deployment, built on an open stack combining models, runtime, data and tools."
+     },
+     "addedAt": "2026-10-21T13:14:20+00:00"
+    },
+    {
      "id": "nvidia-gtc-berlin-2026-europe-investment",
      "date": "2026-10-21",
      "type": "business",
@@ -1836,6 +1858,50 @@
       "details": "NVIDIA CEO Jensen Huang opened GTC Berlin 2026, a three-day conference with more than 100 sessions on agentic AI, robotics and accelerated computing, by naming European companies now working with NVIDIA on AI, including L'Oreal, Revolut, Spotify, Merck, Vodafone, Zara, Porsche, Nestle and HSBC.\n\nThe keynote capped a week-long NVIDIA tour of Paris, London, Stockholm and Dublin, during which the company said it is committing nearly $10 billion to Europe's AI ecosystem and now works with more than 12,000 partners in the region.\n\nHuang described AI as a \"five-layer cake\": energy powering the advanced computers that make up AI factories, which generate tokens and intelligence from models that are then built into applications across every industry."
      },
      "addedAt": "2026-10-21T10:12:18+00:00"
+    },
+    {
+     "id": "openai-models-google-cloud-model-garden",
+     "date": "2026-10-21",
+     "type": "business",
+     "importance": 2,
+     "sourceType": "official",
+     "sourceName": "OpenAI News",
+     "url": "https://openai.com/index/openai-models-google-cloud",
+     "originalTitle": "OpenAI models are coming to Google Cloud",
+     "company": "OpenAI",
+     "ar": {
+      "title": "نماذج OpenAI قادمة إلى Google Cloud عبر Model Garden",
+      "summary": "تتعاون OpenAI وGoogle Cloud لإتاحة نماذج OpenAI الرائدة وتدفقات عمل Codex ضمن Model Garden التابع لـ Gemini، من خلال Google Cloud Marketplace.",
+      "details": "أعلنت OpenAI عن شراكة مع Google Cloud لإتاحة نماذجها الرائدة وتدفقات عمل Codex للمطورين داخل Model Garden التابع لـ Gemini، عبر Google Cloud Marketplace.\n\nتتيح الخطوة لعملاء Google Cloud الوصول إلى نماذج OpenAI إلى جانب نماذج Google ضمن بيئة تطوير واحدة، وتأتي في إطار توسّع الشركتين المتنافستين في اتفاقيات توزيع متبادلة لنماذج الذكاء الاصطناعي عبر منصات السحابة الكبرى."
+     },
+     "en": {
+      "title": "OpenAI brings its models and Codex to Google Cloud's Model Garden",
+      "summary": "OpenAI and Google Cloud are bringing OpenAI's frontier models and Codex workflows to Gemini's Model Garden, available through Google Cloud Marketplace.",
+      "details": "OpenAI announced a partnership with Google Cloud to make its frontier models and Codex coding workflows available to developers inside Gemini's Model Garden, distributed through Google Cloud Marketplace.\n\nThe move lets Google Cloud customers access OpenAI's models alongside Google's own within the same development environment, part of a broader trend of rival AI labs striking cross-distribution deals across the major cloud platforms."
+     },
+     "addedAt": "2026-10-21T13:14:20+00:00"
+    },
+    {
+     "id": "nvidia-kumo-forecast-release",
+     "date": "2026-10-21",
+     "type": "model",
+     "importance": 1,
+     "sourceType": "official",
+     "sourceName": "Hugging Face Blog",
+     "url": "https://huggingface.co/blog/nvidia/kumo-forecast",
+     "originalTitle": "NVIDIA Kumo Forecast Combines Pretrained Time-Series Representations with Historical Pattern Retrieval and Interpretability",
+     "company": "NVIDIA",
+     "ar": {
+      "title": "NVIDIA تطرح Kumo Forecast لتوقع السلاسل الزمنية متعددة المتغيرات",
+      "summary": "نموذج Kumo Forecast الجديد من NVIDIA يجمع بين مُشفّر محوّل مُدرَّب مسبقاً ورأس تنبؤ قابل للتدريب، مع إمكانية استدعاء أنماط تاريخية مشابهة لتحسين الدقة.",
+      "details": "طرحت NVIDIA نموذج Kumo Forecast (المعروف سابقاً باسم NV-Tesseract Forecasting)، وهو نموذج لتوقع السلاسل الزمنية متعددة المتغيرات يجمع بين مُشفّر محوّل (Transformer) مُدرَّب مسبقاً بحجم نحو 340 مليون معامل، ورأس تنبؤ قابل للتدريب.\n\nيُصدر النموذج توقعات مباشرة للأفق الزمني المطلوب، ويمكنه تمديد التوقعات تلقائياً إلى ما بعد أفقه الأصلي. وتتيح وضعية \"التمثيل والاستدعاء الواعي بالمجال\" (DARR) استدعاء أنماط تاريخية مشابهة من مجموعة بيانات سياقية منفصلة ودمجها مع التوقع المباشر لتحسين النتائج.\n\n- واجهة برمجة تعتمد DataFrame مع آفاق تنبؤ قابلة للتهيئة وسياق استدعاء اختياري.\n- إطار تفسير مستقل عن النموذج يوفر تحليل التأخّر والمزايا لكل أفق زمني.\n- طوله مدعومة للتسلسل: 256 و512 و1024 و2048.\n- الكود مرخّص بموجب Apache 2.0 على مستودع NVIDIA/Kumo-TS، والأوزان متاحة على Hugging Face."
+     },
+     "en": {
+      "title": "NVIDIA releases Kumo Forecast, a multivariate time-series model",
+      "summary": "NVIDIA's new Kumo Forecast pairs a pretrained transformer encoder with a trainable forecasting head, and can retrieve similar historical patterns to sharpen predictions.",
+      "details": "NVIDIA released Kumo Forecast (formerly NV-Tesseract Forecasting), a multivariate time-series forecasting model pairing a pretrained transformer encoder (about 340M parameters) with a trainable forecasting head.\n\nThe model produces direct forecasts for a requested horizon and can extend predictions beyond its native horizon autoregressively. Its Domain-Aware Representation and Retrieval (DARR) mode retrieves similar patterns from a separate historical context dataset and blends them with the direct forecast to improve accuracy.\n\n- A DataFrame-first API with configurable forecast horizons and optional retrieval context.\n- A model-agnostic interpretability framework giving lag and feature attributions per horizon.\n- Supported input sequence lengths of 256, 512, 1024 and 2048.\n- Code is Apache 2.0 licensed in the NVIDIA/Kumo-TS repo, with weights on Hugging Face."
+     },
+     "addedAt": "2026-10-21T13:14:20+00:00"
     },
     {
      "id": "microsoft-sovereign-cloud-ignite-2026",
