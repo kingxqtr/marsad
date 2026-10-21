@@ -1,6 +1,45 @@
 {
- "updatedAt": "2026-10-21T18:13:13+00:00",
+ "updatedAt": "2026-10-21T18:58:11+00:00",
  "items": [
+  {
+   "id": "auto-f0e6e11565ba",
+   "tab": "star-citizen",
+   "date": "2026-10-21",
+   "publishedAt": "2026-10-21T18:58:06+00:00",
+   "type": "development",
+   "importance": 1,
+   "sourceType": "official",
+   "sourceName": "RSI Comm-Link",
+   "url": "https://robertsspaceindustries.com/comm-link/transmission/21390-Roadmap-Roundup-October-21-2026",
+   "originalTitle": "Roadmap Roundup - October 21, 2026",
+   "en": {
+    "title": "Roadmap Roundup - October 21, 2026",
+    "summary": "With the Roadmap just updated, here is a brief explanatory note to give you insight into the decision-making that led to any changes.",
+    "details": "With the Roadmap just updated, here is a brief explanatory note to give you insight into the decision-making that led to any changes."
+   },
+   "translated": false,
+   "fetchedAt": "2026-10-21T18:58:06+00:00"
+  },
+  {
+   "id": "auto-83abfc8ab2ee",
+   "tab": "ai",
+   "date": "2026-10-21",
+   "publishedAt": "2026-10-21T18:26:30+00:00",
+   "type": "product",
+   "importance": 1,
+   "sourceType": "official",
+   "sourceName": "Hugging Face Blog",
+   "url": "https://huggingface.co/blog/nvidia/kumo-relational",
+   "originalTitle": "NVIDIA Kumo Relational Outperforms Supervised Machine Learning on Relational Data, No Training Required",
+   "en": {
+    "title": "NVIDIA Kumo Relational Outperforms Supervised Machine Learning on Relational Data, No Training Required",
+    "summary": "NVIDIA Kumo Relational Outperforms Supervised Machine Learning on Relational Data, No Training Required",
+    "details": ""
+   },
+   "translated": false,
+   "fetchedAt": "2026-10-21T18:58:06+00:00",
+   "company": "Hugging Face"
+  },
   {
    "id": "auto-883ce3a4ca58",
    "tab": "ai",
@@ -112,8 +151,8 @@
    "originalTitle": "PHP2Shell: AI uncovers critical RCE in PHP",
    "en": {
     "title": "PHP2Shell: AI uncovers critical RCE in PHP",
-    "summary": "Community discussion on Hacker News (395 points, 149 comments).",
-    "details": "Community discussion on Hacker News (395 points, 149 comments)."
+    "summary": "Community discussion on Hacker News (406 points, 153 comments).",
+    "details": "Community discussion on Hacker News (406 points, 153 comments)."
    },
    "translated": false,
    "fetchedAt": "2026-10-21T16:01:54+00:00"
