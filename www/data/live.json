@@ -1,6 +1,25 @@
 {
- "updatedAt": "2026-10-20T23:45:24+00:00",
+ "updatedAt": "2026-10-21T00:06:31+00:00",
  "items": [
+  {
+   "id": "auto-0afaf4ac9531",
+   "tab": "star-citizen",
+   "date": "2026-10-20",
+   "publishedAt": "2026-10-20T00:06:26+00:00",
+   "type": "development",
+   "importance": 1,
+   "sourceType": "official",
+   "sourceName": "RSI Comm-Link",
+   "url": "https://robertsspaceindustries.com/comm-link/transmission/21388-This-Week-In-Star-Citizen",
+   "originalTitle": "This Week in Star Citizen - October 19, 2026",
+   "en": {
+    "title": "This Week in Star Citizen - October 19, 2026",
+    "summary": "Happy Monday, everyone! Let’s see what’s happening in and out of the ‘verse, This Week in Star Citizen.",
+    "details": "Happy Monday, everyone! Let’s see what’s happening in and out of the ‘verse, This Week in Star Citizen."
+   },
+   "translated": false,
+   "fetchedAt": "2026-10-21T00:06:26+00:00"
+  },
   {
    "id": "auto-49c0f9b01548",
    "tab": "ai",
@@ -33,8 +52,8 @@
    "originalTitle": "DeepSeek just open-sourced its inference engine",
    "en": {
     "title": "DeepInfer: High-performance inference framework for DeepSeek models",
-    "summary": "Community discussion on Hacker News (2094 points, 815 comments).",
-    "details": "Community discussion on Hacker News (2094 points, 815 comments)."
+    "summary": "Community discussion on Hacker News (2099 points, 818 comments).",
+    "details": "Community discussion on Hacker News (2099 points, 818 comments)."
    },
    "translated": false,
    "fetchedAt": "2026-10-20T11:15:29+00:00"
