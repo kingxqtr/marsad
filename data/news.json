@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": "2026-10-21T09:12:04+00:00",
+ "updatedAt": "2026-10-21T10:12:18+00:00",
  "coverage": {
   "from": "2026-07-21",
   "to": "2026-10-21"
@@ -1770,6 +1770,50 @@
       "details": "Google, with Temasek and Bain & Company, published the 11th annual e-Conomy SEA report, \"Building the Intelligent Economy.\" It found that 243 million people in Southeast Asia, about 58% of the working population, use generative AI daily, with adoption spreading roughly four times faster than mobile internet did.\n\nThe report projects the region's digital economy will reach $368 billion in gross merchandise value in 2026, up 17% from $315 billion in 2025, and will exceed $1 trillion by 2035. It also projects regional AI usage will grow 60-fold over the next five years.\n\n- AI-driven personalization is said to lift conversions by 10% and order volume by up to 75%.\n- Generative AI has overtaken social media as the second most-used tool for planning complex travel itineraries.\n- The report recommends expanding data center capacity roughly 3x over five years and adopting region-wide AI governance through the ASEAN Digital Economy Framework Agreement, expected in November 2026."
      },
      "addedAt": "2026-10-21T07:11:51+00:00"
+    },
+    {
+     "id": "nvidia-nemotron-3-5-open-models-europe",
+     "date": "2026-10-21",
+     "type": "model",
+     "importance": 2,
+     "sourceType": "official",
+     "sourceName": "NVIDIA Blog",
+     "url": "https://blogs.nvidia.com/blog/open-models-europe-industry/",
+     "originalTitle": "NVIDIA Open Models Advance Europe's Sovereign Intelligence Across Industries",
+     "company": "NVIDIA",
+     "ar": {
+      "title": "NVIDIA توسّع مجموعة نماذجها المفتوحة لدعم الذكاء الاصطناعي السيادي في أوروبا",
+      "summary": "أضافت NVIDIA نماذج مفتوحة جديدة للغة والروبوتات والأحياء والحوسبة الكمية، من أبرزها Nemotron 3.5 وCosmos 3.5 وBioNeMo، لتمكين المطورين الأوروبيين من بناء أنظمة ذكاء اصطناعي وتشغيلها على بنية تحتية يتحكمون بها.",
+      "details": "أعلنت NVIDIA عن نماذج مفتوحة جديدة تشمل اللغة والروبوتات والأحياء والحوسبة الكمية، في إطار دفعة أوسع لدعم الذكاء الاصطناعي \"السيادي\" في أوروبا، أي أنظمة يمكن للمطورين والمؤسسات المحلية تخصيصها ببياناتها الخاصة وتشغيلها على بنية تحتية يتحكمون بها.\n\n- تشمل الإصدارات الجديدة نموذجي Nemotron 3.5 Super VL وNemotron 3.5 Bolt اللغويين، ونماذج Nemotron Retriever للتضمين وإعادة الترتيب والبحث في الوثائق، ونماذج Kumo مفتوحة الأوزان للبيانات التجارية المنظمة، ونماذج العالم Cosmos 3.5، وAlpamayo 2 Edge للمركبات ذاتية القيادة، وBioNeMo للرعاية الصحية والعلوم، وIsing للحوسبة الكمية.\n\nقالت NVIDIA إن نماذج Nemotron بُنيت بالتعاون مع تحالف NVIDIA Nemotron، الذي يضم شركاء أوروبيين مثل Black Forest Labs وH-Company وMistral، وتهدف إلى مساعدة الشركات على بناء وكلاء ذكاء اصطناعي بتكلفة أقل."
+     },
+     "en": {
+      "title": "NVIDIA expands open AI model lineup for Europe's sovereign AI push",
+      "summary": "NVIDIA added open models for language, robotics, biology and quantum computing — including Nemotron 3.5, Cosmos 3.5 and BioNeMo — so European developers can build and run AI on infrastructure they control.",
+      "details": "NVIDIA announced new open models spanning language, robotics, biology and quantum computing, part of a broader push to support \"sovereign\" AI in Europe — systems local developers and enterprises can customize with their own data and run on infrastructure they control.\n\n- New releases include the Nemotron 3.5 Super VL and Nemotron 3.5 Bolt language models, Nemotron Retriever models for embedding, reranking and document search, the open-weight Kumo models for structured business data, Cosmos 3.5 world models, Alpamayo 2 Edge for autonomous vehicles, BioNeMo for healthcare and science, and Ising for quantum computing.\n\nNVIDIA said the Nemotron models were built with the NVIDIA Nemotron Coalition, including European partners Black Forest Labs, H-Company and Mistral, to help enterprises build AI agents at lower cost."
+     },
+     "addedAt": "2026-10-21T10:12:18+00:00"
+    },
+    {
+     "id": "nvidia-gtc-berlin-2026-europe-investment",
+     "date": "2026-10-21",
+     "type": "business",
+     "importance": 2,
+     "sourceType": "official",
+     "sourceName": "NVIDIA Blog",
+     "url": "https://blogs.nvidia.com/blog/gtc-berlin-2026-keynote/",
+     "originalTitle": "GTC Berlin 2026: Live Updates From NVIDIA CEO Jensen Huang's Keynote",
+     "company": "NVIDIA",
+     "ar": {
+      "title": "NVIDIA تخصص نحو 10 مليارات دولار لتوسيع الذكاء الاصطناعي في أوروبا",
+      "summary": "في مؤتمر GTC برلين، قال الرئيس التنفيذي لـNVIDIA جنسن هوانغ إن الشركة تستثمر نحو 10 مليارات دولار وتتعاون مع أكثر من 12 ألف شريك في أوروبا، بعد محطات في باريس ولندن وستوكهولم ودبلن.",
+      "details": "افتتح الرئيس التنفيذي لشركة NVIDIA جنسن هوانغ مؤتمر GTC برلين 2026، الذي يستمر ثلاثة أيام ويضم أكثر من 100 جلسة حول الذكاء الاصطناعي الوكيل والروبوتات والحوسبة المعجّلة، بذكر شركات أوروبية تتعاون مع NVIDIA في مجال الذكاء الاصطناعي، منها L'Oreal وRevolut وSpotify وMerck وVodafone وZara وPorsche وNestle وHSBC.\n\nجاءت الكلمة الافتتاحية في ختام جولة أسبوعية لـNVIDIA شملت باريس ولندن وستوكهولم ودبلن، أعلنت خلالها الشركة عن تخصيص نحو 10 مليارات دولار لمنظومة الذكاء الاصطناعي في أوروبا، وعن تعاونها حالياً مع أكثر من 12 ألف شريك في المنطقة.\n\nووصف هوانغ الذكاء الاصطناعي بأنه \"كعكة من خمس طبقات\": الطاقة التي تشغّل الحواسيب المتقدمة التي تشكّل \"مصانع الذكاء الاصطناعي\"، والتي تولّد الرموز (tokens) والذكاء من النماذج التي تُدمج بعد ذلك في كل تطبيق وصناعة."
+     },
+     "en": {
+      "title": "NVIDIA commits nearly $10B to Europe's AI buildout, Huang says",
+      "summary": "At GTC Berlin, NVIDIA CEO Jensen Huang said the company is investing nearly $10 billion and now works with more than 12,000 partners across Europe, after stops in Paris, London, Stockholm and Dublin.",
+      "details": "NVIDIA CEO Jensen Huang opened GTC Berlin 2026, a three-day conference with more than 100 sessions on agentic AI, robotics and accelerated computing, by naming European companies now working with NVIDIA on AI, including L'Oreal, Revolut, Spotify, Merck, Vodafone, Zara, Porsche, Nestle and HSBC.\n\nThe keynote capped a week-long NVIDIA tour of Paris, London, Stockholm and Dublin, during which the company said it is committing nearly $10 billion to Europe's AI ecosystem and now works with more than 12,000 partners in the region.\n\nHuang described AI as a \"five-layer cake\": energy powering the advanced computers that make up AI factories, which generate tokens and intelligence from models that are then built into applications across every industry."
+     },
+     "addedAt": "2026-10-21T10:12:18+00:00"
     },
     {
      "id": "microsoft-sovereign-cloud-ignite-2026",
