@@ -1,7 +1,28 @@
 {
   "topic": "once-human",
   "generatedAt": "2026-10-21",
-  "news": [],
+  "news": [
+    {
+      "id": "oh-isles-of-abyss-launches",
+      "date": "2026-10-21",
+      "type": "scenario",
+      "importance": 3,
+      "sourceType": "official",
+      "sourceName": "Once Human — Official Site",
+      "url": "https://www.oncehuman.game/news/devBlog/20261016/40781_1316818.html",
+      "originalTitle": "Dev Blog: Isles of Abyss",
+      "ar": {
+        "title": "انطلاق سيناريو Isles of Abyss البحري في Once Human",
+        "summary": "يطلق Once Human سيناريو البقاء الجديد الذي ينقل اللاعبين إلى أرخبيل بحري متناثر مع بناء السفن والغوص، في دورة من مرحلتين تمتد نحو 21 يومًا، مع انطلاقه في 21 أكتوبر وجوائز تسجيل دخول وزي سلاح مجاني.",
+        "details": "أطلقت Once Human سيناريو البقاء الجديد Isles of Abyss في 21 أكتوبر بتوقيت المحيط الهادئ بعد تحديث الصيانة، لينقل اللعب إلى أرخبيل بحري متناثر خلف شواطئ Nalcott.\n\nيمكن للاعبين بناء سفنهم وقيادتها، والغوص بحثًا عن الكنوز في الأنقاض تحت الماء، ومواجهة كائنات بحرية جديدة مثل أسماك القرش والحبار الضخم وتماسيح Bay القابلة للترويض، إلى جانب \"مناطق Haywire\" الخطرة مثل Mist of Deceit وBlack Tide.\n\nتضم محتويات القتال الجديدة سفن Voyager المتجولة، وبرج Calamity ووكر Calamity، وزعيم نهاية المرحلة The Sunken Lord الذي يُفتح عند بلوغ السيرفر نسبة تطهير 100%. ويضيف نمط مصاحب، Isles of Abyss: RaidZone، قتالًا بحريًا بين اللاعبين على سيرفر مشترك.\n\nوخلافًا للسيناريوهات السابقة، يبدأ اللاعبون بالمستوى الأقصى ويتقدمون عبر نظام Tech بدلاً من نظام Cradle، وينطلق السيناريو دون Vision Tag. وتشمل جوائز الإطلاق هدايا تسجيل الدخول وزي سلاح تذكاري مجاني وخصم مضاعفًا على أول عملية شراء، إلى جانب فعاليات هالوين المتزامنة."
+      },
+      "en": {
+        "title": "Isles of Abyss ocean scenario launches in Once Human",
+        "summary": "Once Human's new PvE scenario moves players to a scattered ocean archipelago with ship-building, diving and a roughly 21-day two-phase cycle, launched October 21 (PT) with sign-in rewards and a free weapon skin.",
+        "details": "Once Human's newest survival scenario, Isles of Abyss, launched on October 21 (PT) after a maintenance update, moving the action to a scattered ocean archipelago beyond Nalcott's shores.\n\nPlayers build and sail their own ships, dive for treasure in underwater ruins, and face new marine life such as sharks, giant squid and tameable Bay Crocodiles, alongside hazardous \"Haywire Zones\" like Mist of Deceit and Black Tide.\n\nNew combat content includes roaming Voyager fleets, the Calamity Tower and Calamity Nest, and the endgame boss The Sunken Lord, unlocked once a server reaches 100% purification. A companion mode, Isles of Abyss: RaidZone, adds PvP naval combat on a shared server.\n\nUnlike earlier scenarios, characters start at max level and progress through the Tech system instead of the Cradle, and the scenario launches without a Vision Tag. Launch rewards include sign-in gifts, a free weapon skin and a first-purchase double rebate, alongside concurrent Halloween events."
+      }
+    }
+  ],
   "upcoming": [
     {
       "id": "oh-upcoming-isles-of-abyss-permanent-server",
