@@ -1,46 +1,6 @@
 {
- "updatedAt": "2026-10-21T13:07:24+00:00",
+ "updatedAt": "2026-10-21T13:45:38+00:00",
  "items": [
-  {
-   "id": "auto-582b36e32e8e",
-   "tab": "ai",
-   "date": "2026-10-21",
-   "publishedAt": "2026-10-21T12:51:24+00:00",
-   "type": "product",
-   "importance": 1,
-   "sourceType": "official",
-   "sourceName": "Hugging Face Blog",
-   "url": "https://huggingface.co/blog/nvidia/kumo-forecast",
-   "originalTitle": "NVIDIA Kumo Forecast Combines Pretrained Time-Series Representations with Historical Pattern Retrieval and Interpretability",
-   "en": {
-    "title": "NVIDIA Kumo Forecast Combines Pretrained Time-Series Representations with Historical Pattern Retrieval and Interpretability",
-    "summary": "NVIDIA Kumo Forecast Combines Pretrained Time-Series Representations with Historical Pattern Retrieval and Interpretability",
-    "details": ""
-   },
-   "translated": false,
-   "fetchedAt": "2026-10-21T13:07:19+00:00",
-   "company": "Hugging Face"
-  },
-  {
-   "id": "auto-4846377e2d6b",
-   "tab": "ai",
-   "date": "2026-10-21",
-   "publishedAt": "2026-10-21T12:00:00+00:00",
-   "type": "coding",
-   "importance": 1,
-   "sourceType": "official",
-   "sourceName": "OpenAI News",
-   "url": "https://openai.com/index/openai-models-google-cloud",
-   "originalTitle": "OpenAI models are coming to Google Cloud",
-   "en": {
-    "title": "OpenAI models are coming to Google Cloud",
-    "summary": "OpenAI and Google Cloud are bringing frontier models and Codex workflows to Gemini’s Model Garden, available through Google Cloud Marketplace.",
-    "details": "OpenAI and Google Cloud are bringing frontier models and Codex workflows to Gemini’s Model Garden, available through Google Cloud Marketplace."
-   },
-   "translated": false,
-   "fetchedAt": "2026-10-21T13:07:19+00:00",
-   "company": "OpenAI"
-  },
   {
    "id": "auto-50e4f092ed8a",
    "tab": "ai",
@@ -159,26 +119,6 @@
    "translated": false,
    "fetchedAt": "2026-10-21T11:10:53+00:00",
    "company": "Hugging Face"
-  },
-  {
-   "id": "auto-6960e914569d",
-   "tab": "ai",
-   "date": "2026-10-21",
-   "publishedAt": "2026-10-21T10:10:01+00:00",
-   "type": "hardware",
-   "importance": 1,
-   "sourceType": "official",
-   "sourceName": "NVIDIA Blog",
-   "url": "https://blogs.nvidia.com/blog/enterprise-platforms-agent-toolkit/",
-   "originalTitle": "NVIDIA Agent Toolkit Expands, Grounding Enterprise Agents in Company Data",
-   "en": {
-    "title": "NVIDIA Agent Toolkit Expands, Grounding Enterprise Agents in Company Data",
-    "summary": "Agents are only as useful as what they know, and only as trustworthy as the boundaries they run within.",
-    "details": "Agents are only as useful as what they know, and only as trustworthy as the boundaries they run within.\n\nLeading enterprises are using the open source NVIDIA Agent Toolkit — now expanded with new tools — to customize and control agents, use company data to inform their answers and actions, monitor what they do and govern how they operate.\n\nNVIDIA Agent Toolkit comprises:\n\n- The new NVIDIA Agent Knowledge Foundation with NVIDIA CUDA-X libraries\n\n- NVIDIA open models including Nemotron Retriever and the new Kumo family\n\n- NVIDIA OpenShell secure agent runtime\n\n- NVIDIA NemoClaw secure agent blueprints\n\n- Tools and skills, like NeMo Relay and NeMo Compass\n\nRead All NVIDIA in Europe Announcements\n\nTo develop agents that accomplish real work and are trustworthy from development to deployment, builders need an open agent stack that brings together the models, harness, runtime, data and tools.\n\nNVIDIA Agent Knowledge Foundation helps enterprises turn data into company intelligence agents can use. Agents can find relevant information, understand what it means for the business and use it to make predictions and help people decide what to do next. Companies can use Agent Knowledge Foundation without moving data, rebuilding existing workflows or changing governance controls. …"
-   },
-   "translated": false,
-   "fetchedAt": "2026-10-21T10:37:25+00:00",
-   "company": "NVIDIA"
   },
   {
    "id": "auto-f3171f8bbbdf",
