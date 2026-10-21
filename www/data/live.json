@@ -1,4 +1,24 @@
 {
- "updatedAt": "2026-10-21T03:03:09+00:00",
- "items": []
+ "updatedAt": "2026-10-21T03:35:26+00:00",
+ "items": [
+  {
+   "id": "auto-f3171f8bbbdf",
+   "tab": "once-human",
+   "date": "2026-10-21",
+   "publishedAt": "2026-10-21T02:40:14+00:00",
+   "type": "scenario",
+   "importance": 1,
+   "sourceType": "official",
+   "sourceName": "Once Human — Steam News",
+   "url": "https://store.steampowered.com/news/app/2139460/view/1847286114027336",
+   "originalTitle": "Server Opening Schedule for Isles of Abyss and Isles of Abyss: RaidZone",
+   "en": {
+    "title": "Server Opening Schedule for Isles of Abyss and Isles of Abyss: RaidZone",
+    "summary": "Dear Metas, Once Human's brand-new survival scenario, Isles of Abyss, officially launches on October 21 (PT)! To help you prepare, here is the server opening schedule.",
+    "details": "Dear Metas,\n\nOnce Human's brand-new survival scenario, Isles of Abyss, officially launches on October 21 (PT)! To help you prepare, here is the server opening schedule.\nFor more details about the scenario, please check:\n\nhttps://www.oncehuman.game/news/devBlog/20261016/40781_1316818.html\n\n1. Isles of Abyss Server Opening Schedule\n\n1.1 Server Opening Schedule Announcement\n\nAfter the version update on October 21, 2026 (PT), the system will open Isles of Abyss servers that Metas can join right away. See the schedule below:\n\nRegion\n\nFirst Batch of Servers\n\nServer Name\n\nFirst Batch Opening Time\n\nNorth America, Europe\n\n4\n\nIsles_Abyss-X0001\n\nIsles_Abyss-X0002\n\nIsles_Abyss-X0003\n\nIsles_Abyss-X0004\n\nOpens immediately after version update\n\nSouth America, Japan, Korea, Southeast Asia, HK & MO & TW\n\n2\n\nIsles_Abyss-X0001\n\nIsles_Abyss-X0002\n\nNote:\n\nAdditional Server Plan: To ensure all Metas can experience Isles of Abyss, we will open new servers as needed based on the remaining capacity of existing servers. Feel free to choose a server and jump in!\n\nSign Up: We will ensure sufficient servers are available when the scenario officially launches on October 21 (PT). Meanwhile, Isles of Abyss sign-ups will not be available in advance—once servers are open, you can enter directly through the scenario sign-up interface.\n\nServer Worlds: Isles of Abyss has 12 worlds per server. …"
+   },
+   "translated": false,
+   "fetchedAt": "2026-10-21T03:35:21+00:00"
+  }
+ ]
 }
