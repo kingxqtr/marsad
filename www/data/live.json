@@ -1,6 +1,46 @@
 {
- "updatedAt": "2026-10-21T12:17:08+00:00",
+ "updatedAt": "2026-10-21T13:07:24+00:00",
  "items": [
+  {
+   "id": "auto-582b36e32e8e",
+   "tab": "ai",
+   "date": "2026-10-21",
+   "publishedAt": "2026-10-21T12:51:24+00:00",
+   "type": "product",
+   "importance": 1,
+   "sourceType": "official",
+   "sourceName": "Hugging Face Blog",
+   "url": "https://huggingface.co/blog/nvidia/kumo-forecast",
+   "originalTitle": "NVIDIA Kumo Forecast Combines Pretrained Time-Series Representations with Historical Pattern Retrieval and Interpretability",
+   "en": {
+    "title": "NVIDIA Kumo Forecast Combines Pretrained Time-Series Representations with Historical Pattern Retrieval and Interpretability",
+    "summary": "NVIDIA Kumo Forecast Combines Pretrained Time-Series Representations with Historical Pattern Retrieval and Interpretability",
+    "details": ""
+   },
+   "translated": false,
+   "fetchedAt": "2026-10-21T13:07:19+00:00",
+   "company": "Hugging Face"
+  },
+  {
+   "id": "auto-4846377e2d6b",
+   "tab": "ai",
+   "date": "2026-10-21",
+   "publishedAt": "2026-10-21T12:00:00+00:00",
+   "type": "coding",
+   "importance": 1,
+   "sourceType": "official",
+   "sourceName": "OpenAI News",
+   "url": "https://openai.com/index/openai-models-google-cloud",
+   "originalTitle": "OpenAI models are coming to Google Cloud",
+   "en": {
+    "title": "OpenAI models are coming to Google Cloud",
+    "summary": "OpenAI and Google Cloud are bringing frontier models and Codex workflows to Gemini’s Model Garden, available through Google Cloud Marketplace.",
+    "details": "OpenAI and Google Cloud are bringing frontier models and Codex workflows to Gemini’s Model Garden, available through Google Cloud Marketplace."
+   },
+   "translated": false,
+   "fetchedAt": "2026-10-21T13:07:19+00:00",
+   "company": "OpenAI"
+  },
   {
    "id": "auto-50e4f092ed8a",
    "tab": "ai",
