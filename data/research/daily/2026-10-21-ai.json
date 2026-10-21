@@ -1,310 +1,330 @@
 {
-  "topic": "ai",
-  "generatedAt": "2026-10-21",
-  "news": [
-    {
-      "id": "google-economy-sea-2026-report",
-      "date": "2026-10-21",
-      "type": "business",
-      "importance": 2,
-      "sourceType": "official",
-      "sourceName": "Google Blog",
-      "url": "https://blog.google/company-news/inside-google/around-the-globe/google-asia/e-conomy-sea-report-2026/",
-      "originalTitle": "Southeast Asia's digital economy to hit $368 billion",
-      "company": "Google",
-      "ar": {
-        "title": "تقرير Google: اقتصاد جنوب شرق آسيا الرقمي يبلغ 368 مليار دولار بدفع الذكاء الاصطناعي",
-        "summary": "تقرير e-Conomy SEA من Google وTemasek وBain يقول إن 243 مليون شخص في جنوب شرق آسيا يستخدمون الذكاء الاصطناعي التوليدي يومياً، وإن الاقتصاد الرقمي سيبلغ 368 مليار دولار في 2026.",
-        "details": "نشرت Google، بالتعاون مع Temasek وBain & Company، النسخة الحادية عشرة من تقرير e-Conomy SEA بعنوان \"بناء الاقتصاد الذكي\"، وقالت إن 243 مليون شخص في جنوب شرق آسيا، أي نحو 58% من القوى العاملة، يستخدمون الذكاء الاصطناعي التوليدي يومياً، بمعدل انتشار أسرع بأربع مرات من انتشار إنترنت الهاتف المحمول.\n\nيتوقع التقرير أن يبلغ الاقتصاد الرقمي الإقليمي 368 مليار دولار من حجم المعاملات الإجمالي في 2026، بنمو 17% عن 315 مليار دولار في 2025، وأن يتجاوز تريليون دولار بحلول 2035. كما يتوقع نمو استخدام الذكاء الاصطناعي في المنطقة 60 ضعفاً خلال خمس سنوات.\n\n- يقول التقرير إن التخصيص القائم على الذكاء الاصطناعي يرفع معدلات التحويل 10% وحجم الطلبات حتى 75%.\n- تجاوز الذكاء الاصطناعي التوليدي وسائل التواصل الاجتماعي كثاني أكثر أداة استخداماً لتخطيط الرحلات المعقدة.\n- يوصي التقرير بتوسيع سعة مراكز البيانات نحو ثلاثة أضعاف خلال خمس سنوات واعتماد حوكمة إقليمية موحدة عبر اتفاقية ASEAN الرقمية المتوقعة في نوفمبر 2026.",
-        "location": "",
-        "dateNote": ""
-      },
-      "en": {
-        "title": "Google: Southeast Asia's digital economy to hit $368B, driven by AI",
-        "summary": "Google's e-Conomy SEA report with Temasek and Bain finds 243 million Southeast Asians use generative AI daily, and projects the region's digital economy to reach $368 billion in 2026.",
-        "details": "Google, with Temasek and Bain & Company, published the 11th annual e-Conomy SEA report, \"Building the Intelligent Economy.\" It found that 243 million people in Southeast Asia, about 58% of the working population, use generative AI daily, with adoption spreading roughly four times faster than mobile internet did.\n\nThe report projects the region's digital economy will reach $368 billion in gross merchandise value in 2026, up 17% from $315 billion in 2025, and will exceed $1 trillion by 2035. It also projects regional AI usage will grow 60-fold over the next five years.\n\n- AI-driven personalization is said to lift conversions by 10% and order volume by up to 75%.\n- Generative AI has overtaken social media as the second most-used tool for planning complex travel itineraries.\n- The report recommends expanding data center capacity roughly 3x over five years and adopting region-wide AI governance through the ASEAN Digital Economy Framework Agreement, expected in November 2026.",
-        "location": "",
-        "dateNote": ""
-      }
-    },
-    {
-      "id": "nvidia-nemotron-3-5-open-models-europe",
-      "date": "2026-10-21",
-      "type": "model",
-      "importance": 2,
-      "sourceType": "official",
-      "sourceName": "NVIDIA Blog",
-      "url": "https://blogs.nvidia.com/blog/open-models-europe-industry/",
-      "originalTitle": "NVIDIA Open Models Advance Europe's Sovereign Intelligence Across Industries",
-      "company": "NVIDIA",
-      "ar": {
-        "title": "NVIDIA توسّع مجموعة نماذجها المفتوحة لدعم الذكاء الاصطناعي السيادي في أوروبا",
-        "summary": "أضافت NVIDIA نماذج مفتوحة جديدة للغة والروبوتات والأحياء والحوسبة الكمية، من أبرزها Nemotron 3.5 وCosmos 3.5 وBioNeMo، لتمكين المطورين الأوروبيين من بناء أنظمة ذكاء اصطناعي وتشغيلها على بنية تحتية يتحكمون بها.",
-        "details": "أعلنت NVIDIA عن نماذج مفتوحة جديدة تشمل اللغة والروبوتات والأحياء والحوسبة الكمية، في إطار دفعة أوسع لدعم الذكاء الاصطناعي \"السيادي\" في أوروبا، أي أنظمة يمكن للمطورين والمؤسسات المحلية تخصيصها ببياناتها الخاصة وتشغيلها على بنية تحتية يتحكمون بها.\n\n- تشمل الإصدارات الجديدة نموذجي Nemotron 3.5 Super VL وNemotron 3.5 Bolt اللغويين، ونماذج Nemotron Retriever للتضمين وإعادة الترتيب والبحث في الوثائق، ونماذج Kumo مفتوحة الأوزان للبيانات التجارية المنظمة، ونماذج العالم Cosmos 3.5، وAlpamayo 2 Edge للمركبات ذاتية القيادة، وBioNeMo للرعاية الصحية والعلوم، وIsing للحوسبة الكمية.\n\nقالت NVIDIA إن نماذج Nemotron بُنيت بالتعاون مع تحالف NVIDIA Nemotron، الذي يضم شركاء أوروبيين مثل Black Forest Labs وH-Company وMistral، وتهدف إلى مساعدة الشركات على بناء وكلاء ذكاء اصطناعي بتكلفة أقل.",
-        "location": "",
-        "dateNote": ""
-      },
-      "en": {
-        "title": "NVIDIA expands open AI model lineup for Europe's sovereign AI push",
-        "summary": "NVIDIA added open models for language, robotics, biology and quantum computing — including Nemotron 3.5, Cosmos 3.5 and BioNeMo — so European developers can build and run AI on infrastructure they control.",
-        "details": "NVIDIA announced new open models spanning language, robotics, biology and quantum computing, part of a broader push to support \"sovereign\" AI in Europe — systems local developers and enterprises can customize with their own data and run on infrastructure they control.\n\n- New releases include the Nemotron 3.5 Super VL and Nemotron 3.5 Bolt language models, Nemotron Retriever models for embedding, reranking and document search, the open-weight Kumo models for structured business data, Cosmos 3.5 world models, Alpamayo 2 Edge for autonomous vehicles, BioNeMo for healthcare and science, and Ising for quantum computing.\n\nNVIDIA said the Nemotron models were built with the NVIDIA Nemotron Coalition, including European partners Black Forest Labs, H-Company and Mistral, to help enterprises build AI agents at lower cost.",
-        "location": "",
-        "dateNote": ""
-      }
-    },
-    {
-      "id": "nvidia-gtc-berlin-2026-europe-investment",
-      "date": "2026-10-21",
-      "type": "business",
-      "importance": 2,
-      "sourceType": "official",
-      "sourceName": "NVIDIA Blog",
-      "url": "https://blogs.nvidia.com/blog/gtc-berlin-2026-keynote/",
-      "originalTitle": "GTC Berlin 2026: Live Updates From NVIDIA CEO Jensen Huang's Keynote",
-      "company": "NVIDIA",
-      "ar": {
-        "title": "NVIDIA تخصص نحو 10 مليارات دولار لتوسيع الذكاء الاصطناعي في أوروبا",
-        "summary": "في مؤتمر GTC برلين، قال الرئيس التنفيذي لـNVIDIA جنسن هوانغ إن الشركة تستثمر نحو 10 مليارات دولار وتتعاون مع أكثر من 12 ألف شريك في أوروبا، بعد محطات في باريس ولندن وستوكهولم ودبلن.",
-        "details": "افتتح الرئيس التنفيذي لشركة NVIDIA جنسن هوانغ مؤتمر GTC برلين 2026، الذي يستمر ثلاثة أيام ويضم أكثر من 100 جلسة حول الذكاء الاصطناعي الوكيل والروبوتات والحوسبة المعجّلة، بذكر شركات أوروبية تتعاون مع NVIDIA في مجال الذكاء الاصطناعي، منها L'Oreal وRevolut وSpotify وMerck وVodafone وZara وPorsche وNestle وHSBC.\n\nجاءت الكلمة الافتتاحية في ختام جولة أسبوعية لـNVIDIA شملت باريس ولندن وستوكهولم ودبلن، أعلنت خلالها الشركة عن تخصيص نحو 10 مليارات دولار لمنظومة الذكاء الاصطناعي في أوروبا، وعن تعاونها حالياً مع أكثر من 12 ألف شريك في المنطقة.\n\nووصف هوانغ الذكاء الاصطناعي بأنه \"كعكة من خمس طبقات\": الطاقة التي تشغّل الحواسيب المتقدمة التي تشكّل \"مصانع الذكاء الاصطناعي\"، والتي تولّد الرموز (tokens) والذكاء من النماذج التي تُدمج بعد ذلك في كل تطبيق وصناعة.",
-        "location": "",
-        "dateNote": ""
-      },
-      "en": {
-        "title": "NVIDIA commits nearly $10B to Europe's AI buildout, Huang says",
-        "summary": "At GTC Berlin, NVIDIA CEO Jensen Huang said the company is investing nearly $10 billion and now works with more than 12,000 partners across Europe, after stops in Paris, London, Stockholm and Dublin.",
-        "details": "NVIDIA CEO Jensen Huang opened GTC Berlin 2026, a three-day conference with more than 100 sessions on agentic AI, robotics and accelerated computing, by naming European companies now working with NVIDIA on AI, including L'Oreal, Revolut, Spotify, Merck, Vodafone, Zara, Porsche, Nestle and HSBC.\n\nThe keynote capped a week-long NVIDIA tour of Paris, London, Stockholm and Dublin, during which the company said it is committing nearly $10 billion to Europe's AI ecosystem and now works with more than 12,000 partners in the region.\n\nHuang described AI as a \"five-layer cake\": energy powering the advanced computers that make up AI factories, which generate tokens and intelligence from models that are then built into applications across every industry.",
-        "location": "",
-        "dateNote": ""
-      }
-    },
-    {
-      "id": "nvidia-google-cloud-vera-rubin-a5x",
-      "date": "2026-10-21",
-      "type": "hardware",
-      "importance": 2,
-      "sourceType": "official",
-      "sourceName": "NVIDIA Blog",
-      "url": "https://blogs.nvidia.com/blog/google-cloud-vera-rubin-infrastructure/",
-      "originalTitle": "Google Cloud and NVIDIA Announce General Availability of NVIDIA Vera Rubin Infrastructure",
-      "company": "NVIDIA",
-      "ar": {
-        "title": "Google Cloud وNVIDIA تعلنان عن بنية Vera Rubin الجديدة بسعة تصل إلى 960 ألف معالج رسومي",
-        "summary": "تعتمد Google Cloud فئة A5X الجديدة القائمة على أنظمة NVIDIA Vera Rubin NVL72 للوكلاء الذكية والتعلم المعزز، مع توفر عام الشهر المقبل وخطط للتوسع حتى 960 ألف معالج Rubin.",
-        "details": "أعلنت Google Cloud وNVIDIA عن فئة حوسبة جديدة باسم A5X تعمل على أنظمة NVIDIA Vera Rubin NVL72، وتجمع بين شبكات ConnectX-9 SuperNIC وشبكة Virgo الخاصة بـGoogle Cloud وتبريد سائل من الجيل الرابع، وتستهدف أعباء الاستدلال الوكيل والتعلم المعزز.\n\nقالت الشركتان إن التوفر العام سيكون الشهر المقبل مع توسع إلى أوروبا، وإن شركة Ineffable Intelligence البريطانية التي أسسها David Silver كانت أول عميل يصل إلى A5X. كما تخطط Google Cloud لتوسيع بنية Vera Rubin حتى 960 ألف معالج Rubin عبر مواقع متعددة.\n\n- اختبرت شركة WPP معمارية وكيل إبداعي على A5X باستخدام نماذج NVIDIA Nemotron ومنصة OpenShell، وشغّلت أعباءً كانت تحتاج عنقوداً متعدد العقد على جهاز واحد في تجاربها الأولية.\n- تخطط Google Cloud لحوسبة سرية على مستوى الرفوف في أجهزة A4X Max (GB300 NVL72)، بينما أصبحت أجهزة G4 السرية بمعالجات RTX PRO 6000 Blackwell متاحة للجميع الآن.",
-        "location": "",
-        "dateNote": ""
-      },
-      "en": {
-        "title": "Google Cloud, NVIDIA unveil Vera Rubin A5X instances, eye 960K GPUs",
-        "summary": "Google Cloud's new A5X instances run on NVIDIA Vera Rubin NVL72 systems for agentic inference and reinforcement learning, with general availability next month and plans to scale to 960,000 Rubin GPUs.",
-        "details": "Google Cloud and NVIDIA announced a new compute class, A5X, built on NVIDIA Vera Rubin NVL72 systems, combining ConnectX-9 SuperNICs, Google Cloud's Virgo networking and fourth-generation liquid cooling for agentic inference and reinforcement-learning workloads.\n\nThe companies said general availability is coming next month with expansion into Europe, and that London AI company Ineffable Intelligence, founded by David Silver, was the first customer to access A5X. Google Cloud plans to scale its Vera Rubin infrastructure to as many as 960,000 Rubin GPUs across multiple sites.\n\n- WPP tested a creative-agent architecture on A5X using NVIDIA Nemotron models and the OpenShell platform, running workloads that typically needed a multi-node cluster on a single instance in early tests.\n- Google Cloud plans rack-scale confidential computing on A4X Max instances (GB300 NVL72), while confidential G4 VMs with RTX PRO 6000 Blackwell GPUs are now generally available.",
-        "location": "",
-        "dateNote": ""
-      }
-    },
-    {
-      "id": "nvidia-kumo-forecast-release",
-      "date": "2026-10-21",
-      "type": "model",
-      "importance": 1,
-      "sourceType": "official",
-      "sourceName": "Hugging Face Blog",
-      "url": "https://huggingface.co/blog/nvidia/kumo-forecast",
-      "originalTitle": "NVIDIA Kumo Forecast Combines Pretrained Time-Series Representations with Historical Pattern Retrieval and Interpretability",
-      "company": "NVIDIA",
-      "ar": {
-        "title": "NVIDIA تطرح Kumo Forecast لتوقع السلاسل الزمنية متعددة المتغيرات",
-        "summary": "نموذج Kumo Forecast الجديد من NVIDIA يجمع بين مُشفّر محوّل مُدرَّب مسبقاً ورأس تنبؤ قابل للتدريب، مع إمكانية استدعاء أنماط تاريخية مشابهة لتحسين الدقة.",
-        "details": "طرحت NVIDIA نموذج Kumo Forecast (المعروف سابقاً باسم NV-Tesseract Forecasting)، وهو نموذج لتوقع السلاسل الزمنية متعددة المتغيرات يجمع بين مُشفّر محوّل (Transformer) مُدرَّب مسبقاً بحجم نحو 340 مليون معامل، ورأس تنبؤ قابل للتدريب.\n\nيُصدر النموذج توقعات مباشرة للأفق الزمني المطلوب، ويمكنه تمديد التوقعات تلقائياً إلى ما بعد أفقه الأصلي. وتتيح وضعية \"التمثيل والاستدعاء الواعي بالمجال\" (DARR) استدعاء أنماط تاريخية مشابهة من مجموعة بيانات سياقية منفصلة ودمجها مع التوقع المباشر لتحسين النتائج.\n\n- واجهة برمجة تعتمد DataFrame مع آفاق تنبؤ قابلة للتهيئة وسياق استدعاء اختياري.\n- إطار تفسير مستقل عن النموذج يوفر تحليل التأخّر والمزايا لكل أفق زمني.\n- طوله مدعومة للتسلسل: 256 و512 و1024 و2048.\n- الكود مرخّص بموجب Apache 2.0 على مستودع NVIDIA/Kumo-TS، والأوزان متاحة على Hugging Face.",
-        "location": "",
-        "dateNote": ""
-      },
-      "en": {
-        "title": "NVIDIA releases Kumo Forecast, a multivariate time-series model",
-        "summary": "NVIDIA's new Kumo Forecast pairs a pretrained transformer encoder with a trainable forecasting head, and can retrieve similar historical patterns to sharpen predictions.",
-        "details": "NVIDIA released Kumo Forecast (formerly NV-Tesseract Forecasting), a multivariate time-series forecasting model pairing a pretrained transformer encoder (about 340M parameters) with a trainable forecasting head.\n\nThe model produces direct forecasts for a requested horizon and can extend predictions beyond its native horizon autoregressively. Its Domain-Aware Representation and Retrieval (DARR) mode retrieves similar patterns from a separate historical context dataset and blends them with the direct forecast to improve accuracy.\n\n- A DataFrame-first API with configurable forecast horizons and optional retrieval context.\n- A model-agnostic interpretability framework giving lag and feature attributions per horizon.\n- Supported input sequence lengths of 256, 512, 1024 and 2048.\n- Code is Apache 2.0 licensed in the NVIDIA/Kumo-TS repo, with weights on Hugging Face.",
-        "location": "",
-        "dateNote": ""
-      }
-    },
-    {
-      "id": "nvidia-agent-toolkit-expansion-gtc-berlin",
-      "date": "2026-10-21",
-      "type": "product",
-      "importance": 2,
-      "sourceType": "official",
-      "sourceName": "NVIDIA Blog",
-      "url": "https://blogs.nvidia.com/blog/enterprise-platforms-agent-toolkit/",
-      "originalTitle": "NVIDIA Agent Toolkit Expands, Grounding Enterprise Agents in Company Data",
-      "company": "NVIDIA",
-      "ar": {
-        "title": "NVIDIA توسّع حزمة أدوات الوكلاء لربط وكلاء الشركات ببياناتها",
-        "summary": "أضافت NVIDIA أدوات جديدة إلى NVIDIA Agent Toolkit تشمل Agent Knowledge Foundation ونماذج Nemotron Retriever وKumo وبيئة تشغيل OpenShell الآمنة، لمساعدة الشركات على بناء وكلاء يستخدمون بياناتها الخاصة.",
-        "details": "أعلنت NVIDIA عن توسيع حزمة أدواتها مفتوحة المصدر NVIDIA Agent Toolkit، التي تتيح للشركات تخصيص الوكلاء الذكيين والتحكم بهم، وربطهم ببيانات الشركة لتوجيه إجاباتهم وأفعالهم، ومراقبة عملهم وضبط كيفية تشغيلهم.\n\nتضم الحزمة: منصة NVIDIA Agent Knowledge Foundation الجديدة المعتمدة على مكتبات CUDA-X، ونماذج NVIDIA المفتوحة مثل Nemotron Retriever وعائلة Kumo الجديدة، وبيئة تشغيل الوكلاء الآمنة OpenShell، ومخططات NemoClaw الآمنة للوكلاء، وأدوات مثل NeMo Relay وNeMo Compass.\n\n- تساعد Agent Knowledge Foundation الشركات على تحويل بياناتها إلى معرفة يستخدمها الوكلاء دون نقل البيانات أو إعادة بناء مهام العمل القائمة أو تغيير ضوابط الحوكمة.\n- الهدف هو بناء وكلاء يمكن الوثوق بهم من التطوير حتى النشر، عبر مكدس مفتوح يجمع النماذج وبيئة التشغيل والبيانات والأدوات.",
-        "location": "",
-        "dateNote": ""
-      },
-      "en": {
-        "title": "NVIDIA expands Agent Toolkit to ground enterprise agents in company data",
-        "summary": "NVIDIA added new pieces to its open-source Agent Toolkit, including Agent Knowledge Foundation, Nemotron Retriever and Kumo models, and the OpenShell secure runtime, to help enterprises build agents grounded in their own data.",
-        "details": "NVIDIA announced an expansion of its open-source NVIDIA Agent Toolkit, which lets enterprises customize and control AI agents, ground their answers and actions in company data, monitor what they do, and govern how they operate.\n\nThe toolkit now comprises the new NVIDIA Agent Knowledge Foundation (built on NVIDIA CUDA-X libraries), open models including Nemotron Retriever and the new Kumo family, the OpenShell secure agent runtime, NemoClaw secure agent blueprints, and tools such as NeMo Relay and NeMo Compass.\n\n- Agent Knowledge Foundation helps enterprises turn their data into intelligence agents can use, without moving the data, rebuilding existing workflows, or changing governance controls.\n- NVIDIA said the goal is agents that are trustworthy from development through deployment, built on an open stack combining models, runtime, data and tools.",
-        "location": "",
-        "dateNote": ""
-      }
-    },
-    {
-      "id": "openai-models-google-cloud-model-garden",
-      "date": "2026-10-21",
-      "type": "business",
-      "importance": 2,
-      "sourceType": "official",
-      "sourceName": "OpenAI News",
-      "url": "https://openai.com/index/openai-models-google-cloud",
-      "originalTitle": "OpenAI models are coming to Google Cloud",
-      "company": "OpenAI",
-      "ar": {
-        "title": "نماذج OpenAI قادمة إلى Google Cloud عبر Model Garden",
-        "summary": "تتعاون OpenAI وGoogle Cloud لإتاحة نماذج OpenAI الرائدة وتدفقات عمل Codex ضمن Model Garden التابع لـ Gemini، من خلال Google Cloud Marketplace.",
-        "details": "أعلنت OpenAI عن شراكة مع Google Cloud لإتاحة نماذجها الرائدة وتدفقات عمل Codex للمطورين داخل Model Garden التابع لـ Gemini، عبر Google Cloud Marketplace.\n\nتتيح الخطوة لعملاء Google Cloud الوصول إلى نماذج OpenAI إلى جانب نماذج Google ضمن بيئة تطوير واحدة، وتأتي في إطار توسّع الشركتين المتنافستين في اتفاقيات توزيع متبادلة لنماذج الذكاء الاصطناعي عبر منصات السحابة الكبرى.",
-        "location": "",
-        "dateNote": ""
-      },
-      "en": {
-        "title": "OpenAI brings its models and Codex to Google Cloud's Model Garden",
-        "summary": "OpenAI and Google Cloud are bringing OpenAI's frontier models and Codex workflows to Gemini's Model Garden, available through Google Cloud Marketplace.",
-        "details": "OpenAI announced a partnership with Google Cloud to make its frontier models and Codex coding workflows available to developers inside Gemini's Model Garden, distributed through Google Cloud Marketplace.\n\nThe move lets Google Cloud customers access OpenAI's models alongside Google's own within the same development environment, part of a broader trend of rival AI labs striking cross-distribution deals across the major cloud platforms.",
-        "location": "",
-        "dateNote": ""
-      }
-    },
-    {
-      "id": "nvidia-dgx-spark-europe-local-ai",
-      "date": "2026-10-21",
-      "type": "hardware",
-      "importance": 2,
-      "sourceType": "official",
-      "sourceName": "NVIDIA Blog",
-      "url": "https://blogs.nvidia.com/blog/local-ai-gtc-rtx-dgx-spark-station-sync/",
-      "originalTitle": "Bringing the Spark to Europe: Local Intelligence Powers Next Wave of Agents",
-      "company": "NVIDIA",
-      "ar": {
-        "title": "NVIDIA تتوسع بأجهزة RTX وDGX Spark في أوروبا وتطرح نموذج Recursive Flint للبرمجة المحلية",
-        "summary": "في مؤتمر GTC برلين، كشفت NVIDIA عن توفر إصدار DGX Spark بسعة 64 جيجابايت في 23 أكتوبر، ونموذج برمجة محلي جديد اسمه Recursive Flint، إلى جانب دعم فوري لنماذج مفتوحة عدة على أجهزتها الشخصية.",
-        "details": "قدّمت NVIDIA في مؤتمر GTC برلين تحديثات لمنظومة أجهزتها الشخصية للذكاء الاصطناعي المحلي: RTX Spark الذي أُطلق في 16 أكتوبر لتشغيل وكلاء شخصيين على ويندوز بذاكرة موحدة تصل إلى 128 جيجابايت، وDGX Spark الموجّه للمطورين على لينكس الذي سيتوفر إصداره بسعة 64 جيجابايت من شركاء الشركة اعتباراً من 23 أكتوبر، وDGX Station للمؤسسات.\n\nمن أبرز الإعلانات نموذج برمجة محلي جديد اسمه Recursive Flint من شركة Recursive Superintelligence، بحجم 40 مليار معامل (2.5 مليار نشط لكل رمز)، يعمل بسرعة تتجاوز 220 رمزاً في الثانية على DGX Spark بسعة 64 جيجابايت، وأوزانه متاحة على Hugging Face برخصة Apache 2.0.\n\n- دعم فوري (Day-0) لعدة نماذج مفتوحة جديدة على عتاد NVIDIA المحلي، منها Nemotron Bolt E4B المخصص للمساعدات الصوتية، ونماذج من عائلات GLM وDeepSeek وQwen وMiniMax ونموذج FLUX.3 Klein لتوليد الصور.\n- تضيف منصة NVIDIA Sync دعماً لعناقيد تصل إلى ثمانية أجهزة DGX Spark، وميزة Model Launcher التي تُطرح لاحقاً هذا الشهر، إلى جانب ربط DGX Station بأجهزة لينكس الأخرى.",
-        "location": "",
-        "dateNote": ""
-      },
-      "en": {
-        "title": "NVIDIA expands RTX/DGX Spark in Europe, unveils Recursive Flint coding model",
-        "summary": "At GTC Berlin, NVIDIA said its 64GB DGX Spark ships from partners October 23 alongside a new local coding model, Recursive Flint, plus day-0 support for several open models on its personal AI hardware.",
-        "details": "NVIDIA used GTC Berlin to update its local AI hardware lineup: RTX Spark, launched October 16 for personal agents on Windows PCs with up to 128GB of unified memory; DGX Spark for Linux developers, whose 64GB version ships from partners starting October 23; and DGX Station for enterprise teams.\n\nAmong the announcements is Recursive Flint, a new local coding model from Recursive Superintelligence with 40B total parameters (2.5B active per token), running at over 220 tokens per second on a 64GB DGX Spark, with open weights on Hugging Face under Apache 2.0.\n\n- Day-0 support for several new open models on NVIDIA's local hardware, including Nemotron Bolt E4B for voice assistants, models from the GLM, DeepSeek, Qwen and MiniMax families, and the FLUX.3 Klein image model.\n- NVIDIA Sync adds support for clusters of up to eight DGX Spark systems and a Model Launcher feature arriving later this month, plus the ability to connect DGX Station to other Linux systems.",
-        "location": "",
-        "dateNote": ""
-      }
-    },
-    {
-      "id": "openai-chatgpt-ads-expands-26-countries",
-      "date": "2026-10-21",
-      "type": "business",
-      "importance": 2,
-      "sourceType": "official",
-      "sourceName": "OpenAI News",
-      "url": "https://openai.com/index/chatgpt-ads-expands-26-new-countries",
-      "originalTitle": "ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform",
-      "company": "OpenAI",
-      "ar": {
-        "title": "OpenAI توسّع إعلانات ChatGPT إلى 26 دولة جديدة بعد استخدام أكثر من 100 ألف معلن للمنصة",
-        "summary": "قالت OpenAI إن أكثر من 100 ألف معلن استخدموا منصة إعلانات ChatGPT حتى الآن، مع توسيع الخدمة إلى 26 دولة جديدة لتمكين الشركات المحلية والعلامات العالمية من الوصول للمستخدمين أثناء تصفحهم ومقارنتهم واتخاذ قرارات الشراء داخل ChatGPT.",
-        "details": "أعلنت OpenAI توسيع إعلانات ChatGPT لتشمل 26 دولة جديدة، بعد أن استخدم أكثر من 100 ألف معلن المنصة منذ إطلاقها، بحسب الشركة.\n\nقالت OpenAI إن التوسع يتيح لمزيد من المعلنين، من الشركات المحلية الصغيرة إلى العلامات التجارية العالمية، الوصول إلى المستخدمين أثناء استكشافهم ومقارنتهم واتخاذهم قرارات الشراء داخل ChatGPT.",
-        "location": "",
-        "dateNote": ""
-      },
-      "en": {
-        "title": "OpenAI expands ChatGPT Ads to 26 new countries, says 100,000+ advertisers used it",
-        "summary": "OpenAI said more than 100,000 advertisers have used the ChatGPT Ads platform so far, as it expands the service to 26 new countries for local businesses and global brands to reach shoppers inside ChatGPT.",
-        "details": "OpenAI announced it is expanding ChatGPT Ads to 26 new countries, after more than 100,000 advertisers have used the platform since launch, the company said.\n\nOpenAI said the expansion lets more advertisers, from local businesses to global brands, reach people as they explore, compare and decide what to buy inside ChatGPT.",
-        "location": "",
-        "dateNote": ""
-      }
-    },
-    {
-      "id": "openai-agents-biological-data-research",
-      "date": "2026-10-21",
-      "type": "product",
-      "importance": 2,
-      "sourceType": "official",
-      "sourceName": "OpenAI News",
-      "url": "https://openai.com/index/scaling-ai-research-for-complex-biological-data",
-      "originalTitle": "Using thousands of AI agents to uncover new leads in biological data",
-      "company": "OpenAI",
-      "ar": {
-        "title": "OpenAI تستخدم آلاف الوكلاء الذكية لتحليل بيانات بيولوجية معقدة",
-        "summary": "تعاونت OpenAI مع PerturbAI وScripps Research لنشر آلاف الوكلاء الذكية في تحليل بيانات من ملايين الخلايا الدماغية، بهدف اكتشاف اتجاهات بحثية واعدة في علم الأحياء.",
-        "details": "قالت OpenAI إنها تعاونت مع شركة PerturbAI ومعهد Scripps Research لاستخدام آلاف الوكلاء الذكية الموزعة في تحليل بيانات بيولوجية معقدة مستخلصة من ملايين الخلايا الدماغية.\n\nهدف المشروع، بحسب الشركة، هو تسريع اكتشاف اتجاهات بحثية واعدة لم تكن لتظهر بالطرق التقليدية، عبر توزيع مهام التحليل على عدد كبير من الوكلاء يعملون في آن واحد على مجموعة البيانات.",
-        "location": "",
-        "dateNote": ""
-      },
-      "en": {
-        "title": "OpenAI uses thousands of AI agents to analyze complex biological data",
-        "summary": "OpenAI, PerturbAI and Scripps Research used thousands of distributed AI agents to analyze data from millions of brain cells, aiming to surface promising research leads in biology.",
-        "details": "OpenAI said it worked with PerturbAI and Scripps Research to deploy thousands of distributed AI agents to analyze complex biological data drawn from millions of brain cells.\n\nThe company said the project's goal was to speed up the discovery of promising research leads that traditional methods might miss, by splitting the analysis across a large number of agents working on the dataset at once.",
-        "location": "",
-        "dateNote": ""
-      }
-    }
-    ,
-    {
-      "id": "granite-speech-5-0-release",
-      "date": "2026-10-21",
-      "type": "model",
-      "importance": 1,
-      "sourceType": "official",
-      "sourceName": "Hugging Face Blog",
-      "url": "https://huggingface.co/blog/ibm-granite/granite-speech-5",
-      "originalTitle": "Granite Speech 5.0: Transcribe, Translate, and Attribute more Accurately and Faster",
-      "company": "IBM",
-      "tool": "Granite Speech 5.0",
-      "ar": {
-        "title": "آي بي إم تطلق Granite Speech 5.0 بنسخ صوتي أسرع وأدق",
-        "summary": "أطلقت IBM عائلة Granite Speech 5.0 من ثلاثة نماذج مفتوحة الوزن للنسخ الصوتي والترجمة وتمييز المتحدثين، بدقة أعلى وسرعة استدلال أسرع بنحو 1.6 مرة مقارنة بالنسخة السابقة.",
-        "details": "أطلقت IBM في 21 أكتوبر نسخة محدثة من عائلة نماذجها الصوتية باسم Granite Speech 5.0، وتضم ثلاثة نماذج مفتوحة الوزن برخصة Apache 2.0، تغطي النسخ الصوتي والترجمة وتمييز المتحدثين.\n\nيحسّن نموذج granite-speech-5.0-2b الجديد بحجم 2 مليار معامل دقة النسخ الصوتي للإنجليزية القصيرة، ويتعامل بشكل أفضل مع الضوضاء والميكروفونات البعيدة، وينسخ ست لغات، ويترجم بين الإنجليزية ولغات أخرى تشمل الإيطالية والصينية الماندرين.\n\nكما أصبح نموذج Turbo CTC المحدّث بحجم 470 مليون معامل يدعم سبع لغات بدلاً من الإنجليزية فقط، ويعمل بسرعة أكبر بنحو 1.6 مرة مقارنة بالنسخة السابقة مع الحفاظ على الدقة ذاتها. أما النموذج الثالث المخصص للاجتماعات فقد حسّن دقة تمييز المتحدثين وخفّض أخطاء النسخ الطويل بنحو الربع.",
-        "location": "",
-        "dateNote": ""
-      },
-      "en": {
-        "title": "IBM releases Granite Speech 5.0 with faster, more accurate transcription",
-        "summary": "IBM released Granite Speech 5.0, a family of three open-weight models for transcription, translation and speaker attribution, with better accuracy and up to 1.6x faster inference than the previous version.",
-        "details": "IBM released Granite Speech 5.0 on October 21, an updated family of three open-weight speech models under the Apache 2.0 license, covering transcription, translation and speaker attribution.\n\nThe new 2-billion-parameter granite-speech-5.0-2b model improves accuracy on short-form English speech and handles noisy or distant audio better, transcribes six languages, and translates between English and several others, including Italian and Mandarin.\n\nThe updated 470-million-parameter Turbo CTC model now supports seven languages instead of English only, and runs about 1.6 times faster than before at the same accuracy. A third model aimed at meetings improved speaker attribution and cut long-form transcription errors by about a quarter.",
-        "location": "",
-        "dateNote": ""
-      }
-    },
-    {
-      "id": "php2shell-ai-rce-wiz-openai",
-      "date": "2026-10-21",
-      "type": "coding",
-      "importance": 3,
-      "sourceType": "official",
-      "sourceName": "Wiz Research",
-      "url": "https://www.wiz.io/blog/php2shell-php-rce",
-      "originalTitle": "PHP2Shell: AI uncovers critical RCE vulnerabilities affecting 70% of the Internet",
-      "ar": {
-        "title": "PHP2Shell: ذكاء اصطناعي يكتشف ثغرات حرجة في PHP تهدد 70% من الإنترنت",
-        "summary": "استخدمت Wiz Research نماذج ذكاء اصطناعي من Google وOpenAI لاكتشاف ثغرتين حرجتين في لغة PHP تتيحان تنفيذ تعليمات عن بُعد دون مصادقة على WordPress وDrupal وJoomla، وقد صدرت تصحيحاتها رسمياً.",
-        "details": "أعلنت شركة Wiz Research عن اكتشاف عائلة ثغرات أمنية حرجة في لغة PHP أسمتها \"PHP2Shell\"، بدرجة خطورة تصل إلى 9.2 من 10 على مقياس CVSS، في مشروع استخدمت فيه أداتها Wiz Atlas إلى جانب نموذجي Gemini 4 Argon من Google وGPT-5.6 Sol من OpenAI لاكتشاف الثغرات وتطوير استغلالها والتحقق من التصحيحات.\n\nتحمل الثغرتان الرمزين CVE-2026-109618 وCVE-2026-109619، وتسمحان بتنفيذ تعليمات عن بُعد دون مصادقة أو بتسريب ذاكرة عمليات PHP، وقد أثبتت Wiz إمكانية استغلالهما على مواقع تستخدم WordPress وDrupal وJoomla، مع تحذيرها من أن أي تطبيق PHP على إصدار متأثر قد يكون معرضاً للخطر، بما يشمل خوادم PHP-FPM.\n\nتتأثر تقريباً كل إصدارات PHP الممتدة حتى الإصدار 5.4، وأبلغت Wiz فريق أمان PHP في 24 أغسطس 2026، الذي أقرّ بالثغرات في 21 سبتمبر وأصدر تصحيحات علنية في 21 أكتوبر ضمن الإصدارات 8.2.35 و8.3.36 و8.4.27 و8.5.12.\n\n- نشرت OpenAI منشوراً منسقاً عن الكشف يؤكد مساهمة نموذجها في البحث.\n- أثار وصف \"اكتشاف بالذكاء الاصطناعي\" نقاشاً بين المعلّقين حول حجم دور النماذج الفعلي ومدى قدم الثغرات الأساسية.",
-        "location": "",
-        "dateNote": ""
-      },
-      "en": {
-        "title": "AI-assisted research uncovers critical PHP flaws hitting 70% of the web",
-        "summary": "Wiz Research used Google's Gemini 4 and OpenAI's GPT-5.6 Sol alongside its own Wiz Atlas tool to find two critical PHP vulnerabilities enabling unauthenticated remote code execution on WordPress, Drupal and Joomla; patches are now public.",
-        "details": "Wiz Research disclosed a family of critical PHP vulnerabilities it named \"PHP2Shell,\" reaching a CVSS severity of 9.2, found during a project that used its own Wiz Atlas tool alongside Google's Gemini 4 Argon and OpenAI's GPT-5.6 Sol for vulnerability discovery, exploit development and patch validation.\n\nThe two flaws, tracked as CVE-2026-109618 and CVE-2026-109619, allow unauthenticated remote code execution or process-memory disclosure in the core PHP engine. Wiz demonstrated working exploits against WordPress, Drupal and Joomla, and warned that any PHP application on a vulnerable version could be exposed, including PHP-FPM deployments.\n\nNearly every PHP release going back to version 5.4 is affected. Wiz reported the issues to the PHP security team on August 24, 2026; PHP acknowledged them on September 21 and shipped public patches on October 21 in versions 8.2.35, 8.3.36, 8.4.27 and 8.5.12.\n\n- OpenAI published its own coordinated-disclosure post confirming its model's role in the research.\n- The \"AI discovered it\" framing drew debate among security researchers over how much the models actually contributed versus how old the underlying bugs were.",
-        "location": "",
-        "dateNote": ""
-      }
-    }
-  ],
-  "upcoming": [],
-  "removeUpcoming": [],
-  "removeNews": []
+ "topic": "ai",
+ "generatedAt": "2026-10-21",
+ "news": [
+  {
+   "id": "google-economy-sea-2026-report",
+   "date": "2026-10-21",
+   "type": "business",
+   "importance": 2,
+   "sourceType": "official",
+   "sourceName": "Google Blog",
+   "url": "https://blog.google/company-news/inside-google/around-the-globe/google-asia/e-conomy-sea-report-2026/",
+   "originalTitle": "Southeast Asia's digital economy to hit $368 billion",
+   "company": "Google",
+   "ar": {
+    "title": "تقرير Google: اقتصاد جنوب شرق آسيا الرقمي يبلغ 368 مليار دولار بدفع الذكاء الاصطناعي",
+    "summary": "تقرير e-Conomy SEA من Google وTemasek وBain يقول إن 243 مليون شخص في جنوب شرق آسيا يستخدمون الذكاء الاصطناعي التوليدي يومياً، وإن الاقتصاد الرقمي سيبلغ 368 مليار دولار في 2026.",
+    "details": "نشرت Google، بالتعاون مع Temasek وBain & Company، النسخة الحادية عشرة من تقرير e-Conomy SEA بعنوان \"بناء الاقتصاد الذكي\"، وقالت إن 243 مليون شخص في جنوب شرق آسيا، أي نحو 58% من القوى العاملة، يستخدمون الذكاء الاصطناعي التوليدي يومياً، بمعدل انتشار أسرع بأربع مرات من انتشار إنترنت الهاتف المحمول.\n\nيتوقع التقرير أن يبلغ الاقتصاد الرقمي الإقليمي 368 مليار دولار من حجم المعاملات الإجمالي في 2026، بنمو 17% عن 315 مليار دولار في 2025، وأن يتجاوز تريليون دولار بحلول 2035. كما يتوقع نمو استخدام الذكاء الاصطناعي في المنطقة 60 ضعفاً خلال خمس سنوات.\n\n- يقول التقرير إن التخصيص القائم على الذكاء الاصطناعي يرفع معدلات التحويل 10% وحجم الطلبات حتى 75%.\n- تجاوز الذكاء الاصطناعي التوليدي وسائل التواصل الاجتماعي كثاني أكثر أداة استخداماً لتخطيط الرحلات المعقدة.\n- يوصي التقرير بتوسيع سعة مراكز البيانات نحو ثلاثة أضعاف خلال خمس سنوات واعتماد حوكمة إقليمية موحدة عبر اتفاقية ASEAN الرقمية المتوقعة في نوفمبر 2026.",
+    "location": "",
+    "dateNote": ""
+   },
+   "en": {
+    "title": "Google: Southeast Asia's digital economy to hit $368B, driven by AI",
+    "summary": "Google's e-Conomy SEA report with Temasek and Bain finds 243 million Southeast Asians use generative AI daily, and projects the region's digital economy to reach $368 billion in 2026.",
+    "details": "Google, with Temasek and Bain & Company, published the 11th annual e-Conomy SEA report, \"Building the Intelligent Economy.\" It found that 243 million people in Southeast Asia, about 58% of the working population, use generative AI daily, with adoption spreading roughly four times faster than mobile internet did.\n\nThe report projects the region's digital economy will reach $368 billion in gross merchandise value in 2026, up 17% from $315 billion in 2025, and will exceed $1 trillion by 2035. It also projects regional AI usage will grow 60-fold over the next five years.\n\n- AI-driven personalization is said to lift conversions by 10% and order volume by up to 75%.\n- Generative AI has overtaken social media as the second most-used tool for planning complex travel itineraries.\n- The report recommends expanding data center capacity roughly 3x over five years and adopting region-wide AI governance through the ASEAN Digital Economy Framework Agreement, expected in November 2026.",
+    "location": "",
+    "dateNote": ""
+   }
+  },
+  {
+   "id": "nvidia-nemotron-3-5-open-models-europe",
+   "date": "2026-10-21",
+   "type": "model",
+   "importance": 2,
+   "sourceType": "official",
+   "sourceName": "NVIDIA Blog",
+   "url": "https://blogs.nvidia.com/blog/open-models-europe-industry/",
+   "originalTitle": "NVIDIA Open Models Advance Europe's Sovereign Intelligence Across Industries",
+   "company": "NVIDIA",
+   "ar": {
+    "title": "NVIDIA توسّع مجموعة نماذجها المفتوحة لدعم الذكاء الاصطناعي السيادي في أوروبا",
+    "summary": "أضافت NVIDIA نماذج مفتوحة جديدة للغة والروبوتات والأحياء والحوسبة الكمية، من أبرزها Nemotron 3.5 وCosmos 3.5 وBioNeMo، لتمكين المطورين الأوروبيين من بناء أنظمة ذكاء اصطناعي وتشغيلها على بنية تحتية يتحكمون بها.",
+    "details": "أعلنت NVIDIA عن نماذج مفتوحة جديدة تشمل اللغة والروبوتات والأحياء والحوسبة الكمية، في إطار دفعة أوسع لدعم الذكاء الاصطناعي \"السيادي\" في أوروبا، أي أنظمة يمكن للمطورين والمؤسسات المحلية تخصيصها ببياناتها الخاصة وتشغيلها على بنية تحتية يتحكمون بها.\n\n- تشمل الإصدارات الجديدة نموذجي Nemotron 3.5 Super VL وNemotron 3.5 Bolt اللغويين، ونماذج Nemotron Retriever للتضمين وإعادة الترتيب والبحث في الوثائق، ونماذج Kumo مفتوحة الأوزان للبيانات التجارية المنظمة، ونماذج العالم Cosmos 3.5، وAlpamayo 2 Edge للمركبات ذاتية القيادة، وBioNeMo للرعاية الصحية والعلوم، وIsing للحوسبة الكمية.\n\nقالت NVIDIA إن نماذج Nemotron بُنيت بالتعاون مع تحالف NVIDIA Nemotron، الذي يضم شركاء أوروبيين مثل Black Forest Labs وH-Company وMistral، وتهدف إلى مساعدة الشركات على بناء وكلاء ذكاء اصطناعي بتكلفة أقل.",
+    "location": "",
+    "dateNote": ""
+   },
+   "en": {
+    "title": "NVIDIA expands open AI model lineup for Europe's sovereign AI push",
+    "summary": "NVIDIA added open models for language, robotics, biology and quantum computing — including Nemotron 3.5, Cosmos 3.5 and BioNeMo — so European developers can build and run AI on infrastructure they control.",
+    "details": "NVIDIA announced new open models spanning language, robotics, biology and quantum computing, part of a broader push to support \"sovereign\" AI in Europe — systems local developers and enterprises can customize with their own data and run on infrastructure they control.\n\n- New releases include the Nemotron 3.5 Super VL and Nemotron 3.5 Bolt language models, Nemotron Retriever models for embedding, reranking and document search, the open-weight Kumo models for structured business data, Cosmos 3.5 world models, Alpamayo 2 Edge for autonomous vehicles, BioNeMo for healthcare and science, and Ising for quantum computing.\n\nNVIDIA said the Nemotron models were built with the NVIDIA Nemotron Coalition, including European partners Black Forest Labs, H-Company and Mistral, to help enterprises build AI agents at lower cost.",
+    "location": "",
+    "dateNote": ""
+   }
+  },
+  {
+   "id": "nvidia-gtc-berlin-2026-europe-investment",
+   "date": "2026-10-21",
+   "type": "business",
+   "importance": 2,
+   "sourceType": "official",
+   "sourceName": "NVIDIA Blog",
+   "url": "https://blogs.nvidia.com/blog/gtc-berlin-2026-keynote/",
+   "originalTitle": "GTC Berlin 2026: Live Updates From NVIDIA CEO Jensen Huang's Keynote",
+   "company": "NVIDIA",
+   "ar": {
+    "title": "NVIDIA تخصص نحو 10 مليارات دولار لتوسيع الذكاء الاصطناعي في أوروبا",
+    "summary": "في مؤتمر GTC برلين، قال الرئيس التنفيذي لـNVIDIA جنسن هوانغ إن الشركة تستثمر نحو 10 مليارات دولار وتتعاون مع أكثر من 12 ألف شريك في أوروبا، بعد محطات في باريس ولندن وستوكهولم ودبلن.",
+    "details": "افتتح الرئيس التنفيذي لشركة NVIDIA جنسن هوانغ مؤتمر GTC برلين 2026، الذي يستمر ثلاثة أيام ويضم أكثر من 100 جلسة حول الذكاء الاصطناعي الوكيل والروبوتات والحوسبة المعجّلة، بذكر شركات أوروبية تتعاون مع NVIDIA في مجال الذكاء الاصطناعي، منها L'Oreal وRevolut وSpotify وMerck وVodafone وZara وPorsche وNestle وHSBC.\n\nجاءت الكلمة الافتتاحية في ختام جولة أسبوعية لـNVIDIA شملت باريس ولندن وستوكهولم ودبلن، أعلنت خلالها الشركة عن تخصيص نحو 10 مليارات دولار لمنظومة الذكاء الاصطناعي في أوروبا، وعن تعاونها حالياً مع أكثر من 12 ألف شريك في المنطقة.\n\nووصف هوانغ الذكاء الاصطناعي بأنه \"كعكة من خمس طبقات\": الطاقة التي تشغّل الحواسيب المتقدمة التي تشكّل \"مصانع الذكاء الاصطناعي\"، والتي تولّد الرموز (tokens) والذكاء من النماذج التي تُدمج بعد ذلك في كل تطبيق وصناعة.",
+    "location": "",
+    "dateNote": ""
+   },
+   "en": {
+    "title": "NVIDIA commits nearly $10B to Europe's AI buildout, Huang says",
+    "summary": "At GTC Berlin, NVIDIA CEO Jensen Huang said the company is investing nearly $10 billion and now works with more than 12,000 partners across Europe, after stops in Paris, London, Stockholm and Dublin.",
+    "details": "NVIDIA CEO Jensen Huang opened GTC Berlin 2026, a three-day conference with more than 100 sessions on agentic AI, robotics and accelerated computing, by naming European companies now working with NVIDIA on AI, including L'Oreal, Revolut, Spotify, Merck, Vodafone, Zara, Porsche, Nestle and HSBC.\n\nThe keynote capped a week-long NVIDIA tour of Paris, London, Stockholm and Dublin, during which the company said it is committing nearly $10 billion to Europe's AI ecosystem and now works with more than 12,000 partners in the region.\n\nHuang described AI as a \"five-layer cake\": energy powering the advanced computers that make up AI factories, which generate tokens and intelligence from models that are then built into applications across every industry.",
+    "location": "",
+    "dateNote": ""
+   }
+  },
+  {
+   "id": "nvidia-google-cloud-vera-rubin-a5x",
+   "date": "2026-10-21",
+   "type": "hardware",
+   "importance": 2,
+   "sourceType": "official",
+   "sourceName": "NVIDIA Blog",
+   "url": "https://blogs.nvidia.com/blog/google-cloud-vera-rubin-infrastructure/",
+   "originalTitle": "Google Cloud and NVIDIA Announce General Availability of NVIDIA Vera Rubin Infrastructure",
+   "company": "NVIDIA",
+   "ar": {
+    "title": "Google Cloud وNVIDIA تعلنان عن بنية Vera Rubin الجديدة بسعة تصل إلى 960 ألف معالج رسومي",
+    "summary": "تعتمد Google Cloud فئة A5X الجديدة القائمة على أنظمة NVIDIA Vera Rubin NVL72 للوكلاء الذكية والتعلم المعزز، مع توفر عام الشهر المقبل وخطط للتوسع حتى 960 ألف معالج Rubin.",
+    "details": "أعلنت Google Cloud وNVIDIA عن فئة حوسبة جديدة باسم A5X تعمل على أنظمة NVIDIA Vera Rubin NVL72، وتجمع بين شبكات ConnectX-9 SuperNIC وشبكة Virgo الخاصة بـGoogle Cloud وتبريد سائل من الجيل الرابع، وتستهدف أعباء الاستدلال الوكيل والتعلم المعزز.\n\nقالت الشركتان إن التوفر العام سيكون الشهر المقبل مع توسع إلى أوروبا، وإن شركة Ineffable Intelligence البريطانية التي أسسها David Silver كانت أول عميل يصل إلى A5X. كما تخطط Google Cloud لتوسيع بنية Vera Rubin حتى 960 ألف معالج Rubin عبر مواقع متعددة.\n\n- اختبرت شركة WPP معمارية وكيل إبداعي على A5X باستخدام نماذج NVIDIA Nemotron ومنصة OpenShell، وشغّلت أعباءً كانت تحتاج عنقوداً متعدد العقد على جهاز واحد في تجاربها الأولية.\n- تخطط Google Cloud لحوسبة سرية على مستوى الرفوف في أجهزة A4X Max (GB300 NVL72)، بينما أصبحت أجهزة G4 السرية بمعالجات RTX PRO 6000 Blackwell متاحة للجميع الآن.",
+    "location": "",
+    "dateNote": ""
+   },
+   "en": {
+    "title": "Google Cloud, NVIDIA unveil Vera Rubin A5X instances, eye 960K GPUs",
+    "summary": "Google Cloud's new A5X instances run on NVIDIA Vera Rubin NVL72 systems for agentic inference and reinforcement learning, with general availability next month and plans to scale to 960,000 Rubin GPUs.",
+    "details": "Google Cloud and NVIDIA announced a new compute class, A5X, built on NVIDIA Vera Rubin NVL72 systems, combining ConnectX-9 SuperNICs, Google Cloud's Virgo networking and fourth-generation liquid cooling for agentic inference and reinforcement-learning workloads.\n\nThe companies said general availability is coming next month with expansion into Europe, and that London AI company Ineffable Intelligence, founded by David Silver, was the first customer to access A5X. Google Cloud plans to scale its Vera Rubin infrastructure to as many as 960,000 Rubin GPUs across multiple sites.\n\n- WPP tested a creative-agent architecture on A5X using NVIDIA Nemotron models and the OpenShell platform, running workloads that typically needed a multi-node cluster on a single instance in early tests.\n- Google Cloud plans rack-scale confidential computing on A4X Max instances (GB300 NVL72), while confidential G4 VMs with RTX PRO 6000 Blackwell GPUs are now generally available.",
+    "location": "",
+    "dateNote": ""
+   }
+  },
+  {
+   "id": "nvidia-kumo-forecast-release",
+   "date": "2026-10-21",
+   "type": "model",
+   "importance": 1,
+   "sourceType": "official",
+   "sourceName": "Hugging Face Blog",
+   "url": "https://huggingface.co/blog/nvidia/kumo-forecast",
+   "originalTitle": "NVIDIA Kumo Forecast Combines Pretrained Time-Series Representations with Historical Pattern Retrieval and Interpretability",
+   "company": "NVIDIA",
+   "ar": {
+    "title": "NVIDIA تطرح Kumo Forecast لتوقع السلاسل الزمنية متعددة المتغيرات",
+    "summary": "نموذج Kumo Forecast الجديد من NVIDIA يجمع بين مُشفّر محوّل مُدرَّب مسبقاً ورأس تنبؤ قابل للتدريب، مع إمكانية استدعاء أنماط تاريخية مشابهة لتحسين الدقة.",
+    "details": "طرحت NVIDIA نموذج Kumo Forecast (المعروف سابقاً باسم NV-Tesseract Forecasting)، وهو نموذج لتوقع السلاسل الزمنية متعددة المتغيرات يجمع بين مُشفّر محوّل (Transformer) مُدرَّب مسبقاً بحجم نحو 340 مليون معامل، ورأس تنبؤ قابل للتدريب.\n\nيُصدر النموذج توقعات مباشرة للأفق الزمني المطلوب، ويمكنه تمديد التوقعات تلقائياً إلى ما بعد أفقه الأصلي. وتتيح وضعية \"التمثيل والاستدعاء الواعي بالمجال\" (DARR) استدعاء أنماط تاريخية مشابهة من مجموعة بيانات سياقية منفصلة ودمجها مع التوقع المباشر لتحسين النتائج.\n\n- واجهة برمجة تعتمد DataFrame مع آفاق تنبؤ قابلة للتهيئة وسياق استدعاء اختياري.\n- إطار تفسير مستقل عن النموذج يوفر تحليل التأخّر والمزايا لكل أفق زمني.\n- طوله مدعومة للتسلسل: 256 و512 و1024 و2048.\n- الكود مرخّص بموجب Apache 2.0 على مستودع NVIDIA/Kumo-TS، والأوزان متاحة على Hugging Face.",
+    "location": "",
+    "dateNote": ""
+   },
+   "en": {
+    "title": "NVIDIA releases Kumo Forecast, a multivariate time-series model",
+    "summary": "NVIDIA's new Kumo Forecast pairs a pretrained transformer encoder with a trainable forecasting head, and can retrieve similar historical patterns to sharpen predictions.",
+    "details": "NVIDIA released Kumo Forecast (formerly NV-Tesseract Forecasting), a multivariate time-series forecasting model pairing a pretrained transformer encoder (about 340M parameters) with a trainable forecasting head.\n\nThe model produces direct forecasts for a requested horizon and can extend predictions beyond its native horizon autoregressively. Its Domain-Aware Representation and Retrieval (DARR) mode retrieves similar patterns from a separate historical context dataset and blends them with the direct forecast to improve accuracy.\n\n- A DataFrame-first API with configurable forecast horizons and optional retrieval context.\n- A model-agnostic interpretability framework giving lag and feature attributions per horizon.\n- Supported input sequence lengths of 256, 512, 1024 and 2048.\n- Code is Apache 2.0 licensed in the NVIDIA/Kumo-TS repo, with weights on Hugging Face.",
+    "location": "",
+    "dateNote": ""
+   }
+  },
+  {
+   "id": "nvidia-agent-toolkit-expansion-gtc-berlin",
+   "date": "2026-10-21",
+   "type": "product",
+   "importance": 2,
+   "sourceType": "official",
+   "sourceName": "NVIDIA Blog",
+   "url": "https://blogs.nvidia.com/blog/enterprise-platforms-agent-toolkit/",
+   "originalTitle": "NVIDIA Agent Toolkit Expands, Grounding Enterprise Agents in Company Data",
+   "company": "NVIDIA",
+   "ar": {
+    "title": "NVIDIA توسّع حزمة أدوات الوكلاء لربط وكلاء الشركات ببياناتها",
+    "summary": "أضافت NVIDIA أدوات جديدة إلى NVIDIA Agent Toolkit تشمل Agent Knowledge Foundation ونماذج Nemotron Retriever وKumo وبيئة تشغيل OpenShell الآمنة، لمساعدة الشركات على بناء وكلاء يستخدمون بياناتها الخاصة.",
+    "details": "أعلنت NVIDIA عن توسيع حزمة أدواتها مفتوحة المصدر NVIDIA Agent Toolkit، التي تتيح للشركات تخصيص الوكلاء الذكيين والتحكم بهم، وربطهم ببيانات الشركة لتوجيه إجاباتهم وأفعالهم، ومراقبة عملهم وضبط كيفية تشغيلهم.\n\nتضم الحزمة: منصة NVIDIA Agent Knowledge Foundation الجديدة المعتمدة على مكتبات CUDA-X، ونماذج NVIDIA المفتوحة مثل Nemotron Retriever وعائلة Kumo الجديدة، وبيئة تشغيل الوكلاء الآمنة OpenShell، ومخططات NemoClaw الآمنة للوكلاء، وأدوات مثل NeMo Relay وNeMo Compass.\n\n- تساعد Agent Knowledge Foundation الشركات على تحويل بياناتها إلى معرفة يستخدمها الوكلاء دون نقل البيانات أو إعادة بناء مهام العمل القائمة أو تغيير ضوابط الحوكمة.\n- الهدف هو بناء وكلاء يمكن الوثوق بهم من التطوير حتى النشر، عبر مكدس مفتوح يجمع النماذج وبيئة التشغيل والبيانات والأدوات.",
+    "location": "",
+    "dateNote": ""
+   },
+   "en": {
+    "title": "NVIDIA expands Agent Toolkit to ground enterprise agents in company data",
+    "summary": "NVIDIA added new pieces to its open-source Agent Toolkit, including Agent Knowledge Foundation, Nemotron Retriever and Kumo models, and the OpenShell secure runtime, to help enterprises build agents grounded in their own data.",
+    "details": "NVIDIA announced an expansion of its open-source NVIDIA Agent Toolkit, which lets enterprises customize and control AI agents, ground their answers and actions in company data, monitor what they do, and govern how they operate.\n\nThe toolkit now comprises the new NVIDIA Agent Knowledge Foundation (built on NVIDIA CUDA-X libraries), open models including Nemotron Retriever and the new Kumo family, the OpenShell secure agent runtime, NemoClaw secure agent blueprints, and tools such as NeMo Relay and NeMo Compass.\n\n- Agent Knowledge Foundation helps enterprises turn their data into intelligence agents can use, without moving the data, rebuilding existing workflows, or changing governance controls.\n- NVIDIA said the goal is agents that are trustworthy from development through deployment, built on an open stack combining models, runtime, data and tools.",
+    "location": "",
+    "dateNote": ""
+   }
+  },
+  {
+   "id": "openai-models-google-cloud-model-garden",
+   "date": "2026-10-21",
+   "type": "business",
+   "importance": 2,
+   "sourceType": "official",
+   "sourceName": "OpenAI News",
+   "url": "https://openai.com/index/openai-models-google-cloud",
+   "originalTitle": "OpenAI models are coming to Google Cloud",
+   "company": "OpenAI",
+   "ar": {
+    "title": "نماذج OpenAI قادمة إلى Google Cloud عبر Model Garden",
+    "summary": "تتعاون OpenAI وGoogle Cloud لإتاحة نماذج OpenAI الرائدة وتدفقات عمل Codex ضمن Model Garden التابع لـ Gemini، من خلال Google Cloud Marketplace.",
+    "details": "أعلنت OpenAI عن شراكة مع Google Cloud لإتاحة نماذجها الرائدة وتدفقات عمل Codex للمطورين داخل Model Garden التابع لـ Gemini، عبر Google Cloud Marketplace.\n\nتتيح الخطوة لعملاء Google Cloud الوصول إلى نماذج OpenAI إلى جانب نماذج Google ضمن بيئة تطوير واحدة، وتأتي في إطار توسّع الشركتين المتنافستين في اتفاقيات توزيع متبادلة لنماذج الذكاء الاصطناعي عبر منصات السحابة الكبرى.",
+    "location": "",
+    "dateNote": ""
+   },
+   "en": {
+    "title": "OpenAI brings its models and Codex to Google Cloud's Model Garden",
+    "summary": "OpenAI and Google Cloud are bringing OpenAI's frontier models and Codex workflows to Gemini's Model Garden, available through Google Cloud Marketplace.",
+    "details": "OpenAI announced a partnership with Google Cloud to make its frontier models and Codex coding workflows available to developers inside Gemini's Model Garden, distributed through Google Cloud Marketplace.\n\nThe move lets Google Cloud customers access OpenAI's models alongside Google's own within the same development environment, part of a broader trend of rival AI labs striking cross-distribution deals across the major cloud platforms.",
+    "location": "",
+    "dateNote": ""
+   }
+  },
+  {
+   "id": "nvidia-dgx-spark-europe-local-ai",
+   "date": "2026-10-21",
+   "type": "hardware",
+   "importance": 2,
+   "sourceType": "official",
+   "sourceName": "NVIDIA Blog",
+   "url": "https://blogs.nvidia.com/blog/local-ai-gtc-rtx-dgx-spark-station-sync/",
+   "originalTitle": "Bringing the Spark to Europe: Local Intelligence Powers Next Wave of Agents",
+   "company": "NVIDIA",
+   "ar": {
+    "title": "NVIDIA تتوسع بأجهزة RTX وDGX Spark في أوروبا وتطرح نموذج Recursive Flint للبرمجة المحلية",
+    "summary": "في مؤتمر GTC برلين، كشفت NVIDIA عن توفر إصدار DGX Spark بسعة 64 جيجابايت في 23 أكتوبر، ونموذج برمجة محلي جديد اسمه Recursive Flint، إلى جانب دعم فوري لنماذج مفتوحة عدة على أجهزتها الشخصية.",
+    "details": "قدّمت NVIDIA في مؤتمر GTC برلين تحديثات لمنظومة أجهزتها الشخصية للذكاء الاصطناعي المحلي: RTX Spark الذي أُطلق في 16 أكتوبر لتشغيل وكلاء شخصيين على ويندوز بذاكرة موحدة تصل إلى 128 جيجابايت، وDGX Spark الموجّه للمطورين على لينكس الذي سيتوفر إصداره بسعة 64 جيجابايت من شركاء الشركة اعتباراً من 23 أكتوبر، وDGX Station للمؤسسات.\n\nمن أبرز الإعلانات نموذج برمجة محلي جديد اسمه Recursive Flint من شركة Recursive Superintelligence، بحجم 40 مليار معامل (2.5 مليار نشط لكل رمز)، يعمل بسرعة تتجاوز 220 رمزاً في الثانية على DGX Spark بسعة 64 جيجابايت، وأوزانه متاحة على Hugging Face برخصة Apache 2.0.\n\n- دعم فوري (Day-0) لعدة نماذج مفتوحة جديدة على عتاد NVIDIA المحلي، منها Nemotron Bolt E4B المخصص للمساعدات الصوتية، ونماذج من عائلات GLM وDeepSeek وQwen وMiniMax ونموذج FLUX.3 Klein لتوليد الصور.\n- تضيف منصة NVIDIA Sync دعماً لعناقيد تصل إلى ثمانية أجهزة DGX Spark، وميزة Model Launcher التي تُطرح لاحقاً هذا الشهر، إلى جانب ربط DGX Station بأجهزة لينكس الأخرى.",
+    "location": "",
+    "dateNote": ""
+   },
+   "en": {
+    "title": "NVIDIA expands RTX/DGX Spark in Europe, unveils Recursive Flint coding model",
+    "summary": "At GTC Berlin, NVIDIA said its 64GB DGX Spark ships from partners October 23 alongside a new local coding model, Recursive Flint, plus day-0 support for several open models on its personal AI hardware.",
+    "details": "NVIDIA used GTC Berlin to update its local AI hardware lineup: RTX Spark, launched October 16 for personal agents on Windows PCs with up to 128GB of unified memory; DGX Spark for Linux developers, whose 64GB version ships from partners starting October 23; and DGX Station for enterprise teams.\n\nAmong the announcements is Recursive Flint, a new local coding model from Recursive Superintelligence with 40B total parameters (2.5B active per token), running at over 220 tokens per second on a 64GB DGX Spark, with open weights on Hugging Face under Apache 2.0.\n\n- Day-0 support for several new open models on NVIDIA's local hardware, including Nemotron Bolt E4B for voice assistants, models from the GLM, DeepSeek, Qwen and MiniMax families, and the FLUX.3 Klein image model.\n- NVIDIA Sync adds support for clusters of up to eight DGX Spark systems and a Model Launcher feature arriving later this month, plus the ability to connect DGX Station to other Linux systems.",
+    "location": "",
+    "dateNote": ""
+   }
+  },
+  {
+   "id": "openai-chatgpt-ads-expands-26-countries",
+   "date": "2026-10-21",
+   "type": "business",
+   "importance": 2,
+   "sourceType": "official",
+   "sourceName": "OpenAI News",
+   "url": "https://openai.com/index/chatgpt-ads-expands-26-new-countries",
+   "originalTitle": "ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform",
+   "company": "OpenAI",
+   "ar": {
+    "title": "OpenAI توسّع إعلانات ChatGPT إلى 26 دولة جديدة بعد استخدام أكثر من 100 ألف معلن للمنصة",
+    "summary": "قالت OpenAI إن أكثر من 100 ألف معلن استخدموا منصة إعلانات ChatGPT حتى الآن، مع توسيع الخدمة إلى 26 دولة جديدة لتمكين الشركات المحلية والعلامات العالمية من الوصول للمستخدمين أثناء تصفحهم ومقارنتهم واتخاذ قرارات الشراء داخل ChatGPT.",
+    "details": "أعلنت OpenAI توسيع إعلانات ChatGPT لتشمل 26 دولة جديدة، بعد أن استخدم أكثر من 100 ألف معلن المنصة منذ إطلاقها، بحسب الشركة.\n\nقالت OpenAI إن التوسع يتيح لمزيد من المعلنين، من الشركات المحلية الصغيرة إلى العلامات التجارية العالمية، الوصول إلى المستخدمين أثناء استكشافهم ومقارنتهم واتخاذهم قرارات الشراء داخل ChatGPT.",
+    "location": "",
+    "dateNote": ""
+   },
+   "en": {
+    "title": "OpenAI expands ChatGPT Ads to 26 new countries, says 100,000+ advertisers used it",
+    "summary": "OpenAI said more than 100,000 advertisers have used the ChatGPT Ads platform so far, as it expands the service to 26 new countries for local businesses and global brands to reach shoppers inside ChatGPT.",
+    "details": "OpenAI announced it is expanding ChatGPT Ads to 26 new countries, after more than 100,000 advertisers have used the platform since launch, the company said.\n\nOpenAI said the expansion lets more advertisers, from local businesses to global brands, reach people as they explore, compare and decide what to buy inside ChatGPT.",
+    "location": "",
+    "dateNote": ""
+   }
+  },
+  {
+   "id": "openai-agents-biological-data-research",
+   "date": "2026-10-21",
+   "type": "product",
+   "importance": 2,
+   "sourceType": "official",
+   "sourceName": "OpenAI News",
+   "url": "https://openai.com/index/scaling-ai-research-for-complex-biological-data",
+   "originalTitle": "Using thousands of AI agents to uncover new leads in biological data",
+   "company": "OpenAI",
+   "ar": {
+    "title": "OpenAI تستخدم آلاف الوكلاء الذكية لتحليل بيانات بيولوجية معقدة",
+    "summary": "تعاونت OpenAI مع PerturbAI وScripps Research لنشر آلاف الوكلاء الذكية في تحليل بيانات من ملايين الخلايا الدماغية، بهدف اكتشاف اتجاهات بحثية واعدة في علم الأحياء.",
+    "details": "قالت OpenAI إنها تعاونت مع شركة PerturbAI ومعهد Scripps Research لاستخدام آلاف الوكلاء الذكية الموزعة في تحليل بيانات بيولوجية معقدة مستخلصة من ملايين الخلايا الدماغية.\n\nهدف المشروع، بحسب الشركة، هو تسريع اكتشاف اتجاهات بحثية واعدة لم تكن لتظهر بالطرق التقليدية، عبر توزيع مهام التحليل على عدد كبير من الوكلاء يعملون في آن واحد على مجموعة البيانات.",
+    "location": "",
+    "dateNote": ""
+   },
+   "en": {
+    "title": "OpenAI uses thousands of AI agents to analyze complex biological data",
+    "summary": "OpenAI, PerturbAI and Scripps Research used thousands of distributed AI agents to analyze data from millions of brain cells, aiming to surface promising research leads in biology.",
+    "details": "OpenAI said it worked with PerturbAI and Scripps Research to deploy thousands of distributed AI agents to analyze complex biological data drawn from millions of brain cells.\n\nThe company said the project's goal was to speed up the discovery of promising research leads that traditional methods might miss, by splitting the analysis across a large number of agents working on the dataset at once.",
+    "location": "",
+    "dateNote": ""
+   }
+  },
+  {
+   "id": "granite-speech-5-0-release",
+   "date": "2026-10-21",
+   "type": "model",
+   "importance": 1,
+   "sourceType": "official",
+   "sourceName": "Hugging Face Blog",
+   "url": "https://huggingface.co/blog/ibm-granite/granite-speech-5",
+   "originalTitle": "Granite Speech 5.0: Transcribe, Translate, and Attribute more Accurately and Faster",
+   "company": "IBM",
+   "tool": "Granite Speech 5.0",
+   "ar": {
+    "title": "آي بي إم تطلق Granite Speech 5.0 بنسخ صوتي أسرع وأدق",
+    "summary": "أطلقت IBM عائلة Granite Speech 5.0 من ثلاثة نماذج مفتوحة الوزن للنسخ الصوتي والترجمة وتمييز المتحدثين، بدقة أعلى وسرعة استدلال أسرع بنحو 1.6 مرة مقارنة بالنسخة السابقة.",
+    "details": "أطلقت IBM في 21 أكتوبر نسخة محدثة من عائلة نماذجها الصوتية باسم Granite Speech 5.0، وتضم ثلاثة نماذج مفتوحة الوزن برخصة Apache 2.0، تغطي النسخ الصوتي والترجمة وتمييز المتحدثين.\n\nيحسّن نموذج granite-speech-5.0-2b الجديد بحجم 2 مليار معامل دقة النسخ الصوتي للإنجليزية القصيرة، ويتعامل بشكل أفضل مع الضوضاء والميكروفونات البعيدة، وينسخ ست لغات، ويترجم بين الإنجليزية ولغات أخرى تشمل الإيطالية والصينية الماندرين.\n\nكما أصبح نموذج Turbo CTC المحدّث بحجم 470 مليون معامل يدعم سبع لغات بدلاً من الإنجليزية فقط، ويعمل بسرعة أكبر بنحو 1.6 مرة مقارنة بالنسخة السابقة مع الحفاظ على الدقة ذاتها. أما النموذج الثالث المخصص للاجتماعات فقد حسّن دقة تمييز المتحدثين وخفّض أخطاء النسخ الطويل بنحو الربع.",
+    "location": "",
+    "dateNote": ""
+   },
+   "en": {
+    "title": "IBM releases Granite Speech 5.0 with faster, more accurate transcription",
+    "summary": "IBM released Granite Speech 5.0, a family of three open-weight models for transcription, translation and speaker attribution, with better accuracy and up to 1.6x faster inference than the previous version.",
+    "details": "IBM released Granite Speech 5.0 on October 21, an updated family of three open-weight speech models under the Apache 2.0 license, covering transcription, translation and speaker attribution.\n\nThe new 2-billion-parameter granite-speech-5.0-2b model improves accuracy on short-form English speech and handles noisy or distant audio better, transcribes six languages, and translates between English and several others, including Italian and Mandarin.\n\nThe updated 470-million-parameter Turbo CTC model now supports seven languages instead of English only, and runs about 1.6 times faster than before at the same accuracy. A third model aimed at meetings improved speaker attribution and cut long-form transcription errors by about a quarter.",
+    "location": "",
+    "dateNote": ""
+   }
+  },
+  {
+   "id": "php2shell-ai-rce-wiz-openai",
+   "date": "2026-10-21",
+   "type": "coding",
+   "importance": 3,
+   "sourceType": "official",
+   "sourceName": "Wiz Research",
+   "url": "https://www.wiz.io/blog/php2shell-php-rce",
+   "originalTitle": "PHP2Shell: AI uncovers critical RCE vulnerabilities affecting 70% of the Internet",
+   "ar": {
+    "title": "PHP2Shell: ذكاء اصطناعي يكتشف ثغرات حرجة في PHP تهدد 70% من الإنترنت",
+    "summary": "استخدمت Wiz Research نماذج ذكاء اصطناعي من Google وOpenAI لاكتشاف ثغرتين حرجتين في لغة PHP تتيحان تنفيذ تعليمات عن بُعد دون مصادقة على WordPress وDrupal وJoomla، وقد صدرت تصحيحاتها رسمياً.",
+    "details": "أعلنت شركة Wiz Research عن اكتشاف عائلة ثغرات أمنية حرجة في لغة PHP أسمتها \"PHP2Shell\"، بدرجة خطورة تصل إلى 9.2 من 10 على مقياس CVSS، في مشروع استخدمت فيه أداتها Wiz Atlas إلى جانب نموذجي Gemini 4 Argon من Google وGPT-5.6 Sol من OpenAI لاكتشاف الثغرات وتطوير استغلالها والتحقق من التصحيحات.\n\nتحمل الثغرتان الرمزين CVE-2026-109618 وCVE-2026-109619، وتسمحان بتنفيذ تعليمات عن بُعد دون مصادقة أو بتسريب ذاكرة عمليات PHP، وقد أثبتت Wiz إمكانية استغلالهما على مواقع تستخدم WordPress وDrupal وJoomla، مع تحذيرها من أن أي تطبيق PHP على إصدار متأثر قد يكون معرضاً للخطر، بما يشمل خوادم PHP-FPM.\n\nتتأثر تقريباً كل إصدارات PHP الممتدة حتى الإصدار 5.4، وأبلغت Wiz فريق أمان PHP في 24 أغسطس 2026، الذي أقرّ بالثغرات في 21 سبتمبر وأصدر تصحيحات علنية في 21 أكتوبر ضمن الإصدارات 8.2.35 و8.3.36 و8.4.27 و8.5.12.\n\n- نشرت OpenAI منشوراً منسقاً عن الكشف يؤكد مساهمة نموذجها في البحث.\n- أثار وصف \"اكتشاف بالذكاء الاصطناعي\" نقاشاً بين المعلّقين حول حجم دور النماذج الفعلي ومدى قدم الثغرات الأساسية.",
+    "location": "",
+    "dateNote": ""
+   },
+   "en": {
+    "title": "AI-assisted research uncovers critical PHP flaws hitting 70% of the web",
+    "summary": "Wiz Research used Google's Gemini 4 and OpenAI's GPT-5.6 Sol alongside its own Wiz Atlas tool to find two critical PHP vulnerabilities enabling unauthenticated remote code execution on WordPress, Drupal and Joomla; patches are now public.",
+    "details": "Wiz Research disclosed a family of critical PHP vulnerabilities it named \"PHP2Shell,\" reaching a CVSS severity of 9.2, found during a project that used its own Wiz Atlas tool alongside Google's Gemini 4 Argon and OpenAI's GPT-5.6 Sol for vulnerability discovery, exploit development and patch validation.\n\nThe two flaws, tracked as CVE-2026-109618 and CVE-2026-109619, allow unauthenticated remote code execution or process-memory disclosure in the core PHP engine. Wiz demonstrated working exploits against WordPress, Drupal and Joomla, and warned that any PHP application on a vulnerable version could be exposed, including PHP-FPM deployments.\n\nNearly every PHP release going back to version 5.4 is affected. Wiz reported the issues to the PHP security team on August 24, 2026; PHP acknowledged them on September 21 and shipped public patches on October 21 in versions 8.2.35, 8.3.36, 8.4.27 and 8.5.12.\n\n- OpenAI published its own coordinated-disclosure post confirming its model's role in the research.\n- The \"AI discovered it\" framing drew debate among security researchers over how much the models actually contributed versus how old the underlying bugs were.",
+    "location": "",
+    "dateNote": ""
+   }
+  },
+  {
+   "id": "openai-democratic-governance-cyber-defenders-pt2",
+   "date": "2026-10-21",
+   "type": "policy",
+   "importance": 2,
+   "sourceType": "official",
+   "sourceName": "OpenAI News",
+   "url": "https://openai.com/index/empowering-cyber-defenders",
+   "originalTitle": "Democratic governance of frontier AI, part II: Empowering cyber defenders",
+   "company": "OpenAI",
+   "en": {
+    "title": "OpenAI outlines plan to empower cyber defenders with frontier AI",
+    "summary": "OpenAI published the second post in its 'Democratic governance of frontier AI' series, arguing frontier AI should be used to strengthen cyber defenses and public institutions.",
+    "details": "OpenAI published the second installment of its \"Democratic governance of frontier AI\" series, this time focused on cybersecurity. The post argues that frontier AI models should be used to tip the balance toward defenders rather than attackers, building on OpenAI's earlier commitments to widen vetted access to its most capable models for security teams and critical-infrastructure operators.\n\nThe piece frames stronger, modernized cyber defenses as part of a broader push for resilient public institutions, tying OpenAI's safety and access work to democratic governance rather than purely commercial deployment."
+   },
+   "ar": {
+    "title": "OpenAI تطرح خطة لتمكين المدافعين السيبرانيين بالذكاء الاصطناعي المتطور",
+    "summary": "نشرت OpenAI الجزء الثاني من سلسلة \"الحوكمة الديمقراطية للذكاء الاصطناعي المتطور\"، وتدعو فيه لاستخدام الذكاء الاصطناعي لتعزيز الدفاعات السيبرانية والمؤسسات العامة.",
+    "details": "نشرت OpenAI الجزء الثاني من سلسلتها \"الحوكمة الديمقراطية للذكاء الاصطناعي المتطور\"، وهذه المرة بالتركيز على الأمن السيبراني. يرى المنشور أن نماذج الذكاء الاصطناعي المتطورة يجب أن تُستخدم لصالح المدافعين لا المهاجمين، استكمالاً لتعهدات OpenAI السابقة بتوسيع وصول فرق الأمن ومشغلي البنية التحتية الحيوية المعتمدين إلى أقوى نماذجها.\n\nويضع المنشور تحديث الدفاعات السيبرانية في سياق أوسع لبناء مؤسسات عامة أكثر مرونة، ليربط عمل OpenAI في السلامة والوصول بالحوكمة الديمقراطية بدلاً من النشر التجاري البحت."
+   }
+  }
+ ],
+ "upcoming": [],
+ "removeUpcoming": [],
+ "removeNews": []
 }

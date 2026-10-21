@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": "2026-10-21T19:10:38+00:00",
+ "updatedAt": "2026-10-21T20:11:02+00:00",
  "coverage": {
   "from": "2026-07-21",
   "to": "2026-10-21"
@@ -1922,6 +1922,28 @@
       "details": "NVIDIA CEO Jensen Huang opened GTC Berlin 2026, a three-day conference with more than 100 sessions on agentic AI, robotics and accelerated computing, by naming European companies now working with NVIDIA on AI, including L'Oreal, Revolut, Spotify, Merck, Vodafone, Zara, Porsche, Nestle and HSBC.\n\nThe keynote capped a week-long NVIDIA tour of Paris, London, Stockholm and Dublin, during which the company said it is committing nearly $10 billion to Europe's AI ecosystem and now works with more than 12,000 partners in the region.\n\nHuang described AI as a \"five-layer cake\": energy powering the advanced computers that make up AI factories, which generate tokens and intelligence from models that are then built into applications across every industry."
      },
      "addedAt": "2026-10-21T10:12:18+00:00"
+    },
+    {
+     "id": "openai-democratic-governance-cyber-defenders-pt2",
+     "date": "2026-10-21",
+     "type": "policy",
+     "importance": 2,
+     "sourceType": "official",
+     "sourceName": "OpenAI News",
+     "url": "https://openai.com/index/empowering-cyber-defenders",
+     "originalTitle": "Democratic governance of frontier AI, part II: Empowering cyber defenders",
+     "company": "OpenAI",
+     "ar": {
+      "title": "OpenAI تطرح خطة لتمكين المدافعين السيبرانيين بالذكاء الاصطناعي المتطور",
+      "summary": "نشرت OpenAI الجزء الثاني من سلسلة \"الحوكمة الديمقراطية للذكاء الاصطناعي المتطور\"، وتدعو فيه لاستخدام الذكاء الاصطناعي لتعزيز الدفاعات السيبرانية والمؤسسات العامة.",
+      "details": "نشرت OpenAI الجزء الثاني من سلسلتها \"الحوكمة الديمقراطية للذكاء الاصطناعي المتطور\"، وهذه المرة بالتركيز على الأمن السيبراني. يرى المنشور أن نماذج الذكاء الاصطناعي المتطورة يجب أن تُستخدم لصالح المدافعين لا المهاجمين، استكمالاً لتعهدات OpenAI السابقة بتوسيع وصول فرق الأمن ومشغلي البنية التحتية الحيوية المعتمدين إلى أقوى نماذجها.\n\nويضع المنشور تحديث الدفاعات السيبرانية في سياق أوسع لبناء مؤسسات عامة أكثر مرونة، ليربط عمل OpenAI في السلامة والوصول بالحوكمة الديمقراطية بدلاً من النشر التجاري البحت."
+     },
+     "en": {
+      "title": "OpenAI outlines plan to empower cyber defenders with frontier AI",
+      "summary": "OpenAI published the second post in its 'Democratic governance of frontier AI' series, arguing frontier AI should be used to strengthen cyber defenses and public institutions.",
+      "details": "OpenAI published the second installment of its \"Democratic governance of frontier AI\" series, this time focused on cybersecurity. The post argues that frontier AI models should be used to tip the balance toward defenders rather than attackers, building on OpenAI's earlier commitments to widen vetted access to its most capable models for security teams and critical-infrastructure operators.\n\nThe piece frames stronger, modernized cyber defenses as part of a broader push for resilient public institutions, tying OpenAI's safety and access work to democratic governance rather than purely commercial deployment."
+     },
+     "addedAt": "2026-10-21T20:11:02+00:00"
     },
     {
      "id": "openai-models-google-cloud-model-garden",
