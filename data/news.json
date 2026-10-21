@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": "2026-10-21T16:15:53+00:00",
+ "updatedAt": "2026-10-21T17:11:19+00:00",
  "coverage": {
   "from": "2026-07-21",
   "to": "2026-10-21"
@@ -861,6 +861,27 @@
   },
   "star-citizen": {
    "news": [
+    {
+     "id": "sc-day-of-the-vara-2956",
+     "date": "2026-10-21",
+     "type": "event",
+     "importance": 1,
+     "sourceType": "official",
+     "sourceName": "RSI Comm-Link",
+     "url": "https://robertsspaceindustries.com/comm-link/transmission/21337-Day-Of-The-Vara-2956",
+     "originalTitle": "Day of the Vara 2956 - Don't Wake the Dead",
+     "ar": {
+      "title": "ستار سيتيزن يحتفل بعطلة Day of the Vara السنوية داخل اللعبة",
+      "summary": "أعلنت Roberts Space Industries عن نسخة هذا العام من عطلة Day of the Vara داخل عالم اللعبة بعنوان \"Don't Wake the Dead\"، احتفالاً بذكرى الراحلين.",
+      "details": "تُعد Day of the Vara عطلة سنوية داخل عالم Star Citizen تشبه احتفالات الخريف المرعبة، ويحتفل بها اللاعبون منذ عدة سنوات في أواخر أكتوبر وأوائل نوفمبر.\n\nأعلنت Roberts Space Industries عن نسخة هذا العام بعنوان \"Don't Wake the Dead\"، مع شعار يدعو اللاعبين لتكريم الراحلين بالاحتفال والتجمع، مع تذكير بأن \"هناك أمانًا في الأعداد... كما يُقال\".\n\nلم يكشف الإعلان الرسمي عن تفاصيل الأنشطة أو العناصر داخل اللعبة لهذا العام بعد."
+     },
+     "en": {
+      "title": "Star Citizen marks its annual in-universe Day of the Vara holiday",
+      "summary": "Roberts Space Industries announced this year's in-universe Day of the Vara holiday, themed \"Don't Wake the Dead,\" honoring the lost with revelry and company.",
+      "details": "Day of the Vara is Star Citizen's annual in-universe holiday, similar in spirit to a spooky autumn celebration, observed by players for several years each in late October and early November.\n\nRoberts Space Industries announced this year's edition, themed \"Don't Wake the Dead,\" with a tagline urging players to honor the lost with reverence and revelry, adding that \"there's safety in numbers... supposedly.\"\n\nThe official announcement did not yet detail this year's specific in-game activities or items."
+     },
+     "addedAt": "2026-10-21T17:11:19+00:00"
+    },
     {
      "id": "sc-sq42-steam-wishlist-top250",
      "date": "2026-10-16",
