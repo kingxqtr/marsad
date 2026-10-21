@@ -1,6 +1,26 @@
 {
- "updatedAt": "2026-10-21T03:35:26+00:00",
+ "updatedAt": "2026-10-21T04:10:27+00:00",
  "items": [
+  {
+   "id": "auto-7d4643a4a86d",
+   "tab": "ai",
+   "date": "2026-10-21",
+   "publishedAt": "2026-10-21T04:00:00+00:00",
+   "type": "product",
+   "importance": 1,
+   "sourceType": "official",
+   "sourceName": "Google Blog — AI",
+   "url": "https://blog.google/company-news/inside-google/around-the-globe/google-asia/e-conomy-sea-report-2026/",
+   "originalTitle": "Southeast Asia’s digital economy to hit $368 billion",
+   "en": {
+    "title": "Southeast Asia’s digital economy to hit $368 billion",
+    "summary": "Widespread AI adoption is propelling Southeast Asia's digital economy to a projected $368 billion in 2026 and $1 trillion by 2035.",
+    "details": "Widespread AI adoption is propelling Southeast Asia's digital economy to a projected $368 billion in 2026 and $1 trillion by 2035."
+   },
+   "translated": false,
+   "fetchedAt": "2026-10-21T04:10:20+00:00",
+   "company": "Google"
+  },
   {
    "id": "auto-f3171f8bbbdf",
    "tab": "once-human",
