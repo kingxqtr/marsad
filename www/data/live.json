@@ -1,6 +1,145 @@
 {
- "updatedAt": "2026-10-21T10:37:30+00:00",
+ "updatedAt": "2026-10-21T11:11:01+00:00",
  "items": [
+  {
+   "id": "auto-50e4f092ed8a",
+   "tab": "ai",
+   "date": "2026-10-21",
+   "publishedAt": "2026-10-21T01:24:31+00:00",
+   "type": "media",
+   "importance": 1,
+   "sourceType": "community",
+   "sourceName": "r/LocalLLaMA",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xb9z8e/exclusive_bytedance_alibaba_tencent_place_over_35/",
+   "originalTitle": "EXCLUSIVE: ByteDance, Alibaba, Tencent place over $35 billion worth of Nvidia chip orders",
+   "en": {
+    "title": "EXCLUSIVE: ByteDance, Alibaba, Tencent place over $35 billion worth of Nvidia chip orders",
+    "summary": "Community post on r/LocalLLaMA. China just ordered 3mil RTX 5500 Pro for $11.4k a pop. Probably for llm inference and AI video gen. I suppose this card is now out of reach for local llm.",
+    "details": "Community post on r/LocalLLaMA.\n\nChina just ordered 3mil RTX 5500 Pro for $11.4k a pop. Probably for llm inference and AI video gen. I suppose this card is now out of reach for local llm."
+   },
+   "translated": false,
+   "fetchedAt": "2026-10-21T11:11:01+00:00"
+  },
+  {
+   "id": "auto-17aba45c860c",
+   "tab": "ai",
+   "date": "2026-10-21",
+   "publishedAt": "2026-10-21T10:30:02+00:00",
+   "type": "hardware",
+   "importance": 1,
+   "sourceType": "official",
+   "sourceName": "NVIDIA Blog",
+   "url": "https://blogs.nvidia.com/blog/confidential-computing-model-builders-infrastructure/",
+   "originalTitle": "NVIDIA Confidential Computing Expands, Enabling Frontier Model Builders to Securely Scale Across Global Infrastructure",
+   "en": {
+    "title": "NVIDIA Confidential Computing Expands, Enabling Frontier Model Builders to Securely Scale Across Global Infrastructure",
+    "summary": "NVIDIA builds tools to enable safe agents across the stack . The NVIDIA OpenShell Reference Architecture, announced today , is part of NVIDIA’s growing portfolio of technologies that enables organizations to safely deploy agents at scale.",
+    "details": "NVIDIA builds tools to enable safe agents across the stack . The NVIDIA OpenShell Reference Architecture, announced today , is part of NVIDIA’s growing portfolio of technologies that enables organizations to safely deploy agents at scale. NVIDIA Confidential Computing is the infrastructure layer that protects the models and data those agents depend on while running.\n\nToday, NVIDIA is expanding that layer with Confidential Bare Metal, a new deployment option with NVIDIA Confidential Computing that enables frontier model builders to run sensitive workloads on dedicated third-party infrastructure while retaining control of their models and data.\n\nNVIDIA is introducing new platform security controls that protect data in transit, measure platform integrity and enforce hardware-level access restrictions. These new controls let frontier model builders use bare-metal instances to own and operate their bespoke software stack, including host and platform infrastructure software, when operating on NVIDIA accelerated computing infrastructure across third-party cloud, neocloud and enterprise infrastructure.\n\nRead All NVIDIA in Europe Announcements\n\nNVIDIA Confidential Computing now offers a converged security architecture with three deployment options:\n\n- Confidential Bare Metal for bare-metal infrastructure\n\n- Confidential Containers for Kubernetes environments\n\n- Confidential Virtual Machines for virtualized environments …"
+   },
+   "translated": false,
+   "fetchedAt": "2026-10-21T11:10:54+00:00",
+   "company": "NVIDIA"
+  },
+  {
+   "id": "auto-b50eed2d7757",
+   "tab": "ai",
+   "date": "2026-10-21",
+   "publishedAt": "2026-10-21T10:50:37+00:00",
+   "type": "coding",
+   "importance": 1,
+   "sourceType": "official",
+   "sourceName": "NVIDIA Blog",
+   "url": "https://blogs.nvidia.com/blog/local-ai-gtc-rtx-dgx-spark-station-sync/",
+   "originalTitle": "Bringing the Spark to Europe: Local Intelligence Powers Next Wave of Agents",
+   "en": {
+    "title": "Bringing the Spark to Europe: Local Intelligence Powers Next Wave of Agents",
+    "summary": "At GTC Berlin, NVIDIA is showcasing its full lineup of local AI hardware.",
+    "details": "At GTC Berlin, NVIDIA is showcasing its full lineup of local AI hardware. RTX Spark , which launched last week , powers personal agents on Windows PCs; DGX Spark supports developers building and scaling applications on Linux; and DGX Station serves enterprise teams running frontier workloads on Linux, with a Windows version arriving in December.\n\nAnnouncements include:\n\n- Underdog Desktop Agent now available for RTX Spark\n\n- DGX Spark 64GB available on Friday, Oct. 23\n\n- NVIDIA Sync to support eight DGX Sparks and add Model Launcher this month\n\n- October DGX Spark software update adds Wi-Fi Assistant and updates DGX Spark Skills\n\n- DGX Station improves manageability with seven new integrations\n\n- DGX Station for Windows launches in December with support for many manufacturing apps and agent harnesses\n\n- Three new open source reference workflows for robotics on DGX Station\n\n- NVIDIA Cloud Functions is coming in early access to DGX Station\n\n- Recursive Flint, a new local coding model, is now available for NVIDIA local hardware\n\n- Day-0 support for new Nemotron, GLM, DeepSeek, Qwen, MiniMax and FLUX.3 AI models\n\n- New accelerations for llama.cpp and vLLM inference engines and a new collection of checkpoints optimized for local AI hardware.\n\nLearn more about these local AI announcements below, and check out the demos and sessions at GTC Berlin .\n\nRead All NVIDIA in Europe Announcements\n\nRTX Spark Brings Personal Agents to the Windows PC …"
+   },
+   "translated": false,
+   "fetchedAt": "2026-10-21T11:10:53+00:00",
+   "company": "NVIDIA"
+  },
+  {
+   "id": "auto-9c1c2393bb7e",
+   "tab": "ai",
+   "date": "2026-10-21",
+   "publishedAt": "2026-10-21T10:45:17+00:00",
+   "type": "hardware",
+   "importance": 1,
+   "sourceType": "official",
+   "sourceName": "NVIDIA Blog",
+   "url": "https://blogs.nvidia.com/blog/google-cloud-vera-rubin-infrastructure/",
+   "originalTitle": "Google Cloud and NVIDIA Announce General Availability of NVIDIA Vera Rubin Infrastructure",
+   "en": {
+    "title": "Google Cloud and NVIDIA Announce General Availability of NVIDIA Vera Rubin Infrastructure",
+    "summary": "General availability of the instances is coming next month, with planned expansion of availability to Europe — bringing an integrated platform for training, inference and large-scale reinforcement learning to cloud customers.",
+    "details": "General availability of the instances is coming next month, with planned expansion of availability to Europe — bringing an integrated platform for training, inference and large-scale reinforcement learning to cloud customers.\n\nA5X instances bring together NVIDIA Vera Rubin NVL72, NVIDIA ConnectX-9 SuperNICs, Google Cloud Virgo Network and Google Cloud’s fourth-generation advanced liquid-cooling technology for demanding agentic inference and reinforcement learning workloads at scale. Google Cloud plans to scale its Vera Rubin-based infrastructure to as many as 960,000 Rubin GPUs across multiple sites.\n\nIneffable Intelligence , a London-based technology company founded by AlphaGo creator David Silver, was the first customer to access A5X. Ineffable is using the platform to advance large-scale reinforcement learning and shape “superlearner” systems that learn continuously from experience.\n\nRead All NVIDIA in Europe Announcements\n\nLearning through interaction requires a continuous cycle of generating experience, evaluating outcomes and updating models, requiring infrastructure that can support the entire process at scale. A5X brings Vera Rubin into Google Cloud’s AI Hypercomputer as an integrated system, combining compute, networking and storage to support experience-driven learning at scale. …"
+   },
+   "translated": false,
+   "fetchedAt": "2026-10-21T11:10:53+00:00",
+   "company": "NVIDIA"
+  },
+  {
+   "id": "auto-61803a1c35b2",
+   "tab": "ai",
+   "date": "2026-10-21",
+   "publishedAt": "2026-10-21T10:30:41+00:00",
+   "type": "media",
+   "importance": 1,
+   "sourceType": "official",
+   "sourceName": "NVIDIA Blog",
+   "url": "https://blogs.nvidia.com/blog/cloud-partners-europe-sovereign-safety-open-agents/",
+   "originalTitle": "NVIDIA Cloud Partners Scale Across Europe — Sovereign, Open and Built for Safe AI Agents",
+   "en": {
+    "title": "NVIDIA Cloud Partners Scale Across Europe — Sovereign, Open and Built for Safe AI Agents",
+    "summary": "Demand from AI-natives is pulling the European AI cloud ecosystem forward faster than ever.",
+    "details": "Demand from AI-natives is pulling the European AI cloud ecosystem forward faster than ever. Developers need compute closer to their data, open models they can customize and serve at scale, and full-stack infrastructure that is secure by design.\n\nNVIDIA Cloud Partners across Europe, the Nordics, Africa, and Central Asia are expanding regional compute capacity for model training and inference, helping developers build agentic and physical AI applications, and establishing boundaries around what agents can access and do.\n\nTogether, they’re turning Europe’s energy, data, research and industrial expertise into productive intelligence — supporting new models, applications, organizations and jobs while giving people more control over where and how they develop and deploy AI.\n\nRead All NVIDIA in Europe Announcements\n\nSovereign: AI Clouds Building European AI Infrastructure\n\nEurope is home to world-class research, engineering talent, industrial expertise, data, the next generation of models and applications that requires large-scale computing close to where that knowledge resides. Regional AI clouds provide the infrastructure foundation on which model builders, enterprises and entire industries can grow. …"
+   },
+   "translated": false,
+   "fetchedAt": "2026-10-21T11:10:53+00:00",
+   "company": "NVIDIA"
+  },
+  {
+   "id": "auto-b772f129d877",
+   "tab": "ai",
+   "date": "2026-10-21",
+   "publishedAt": "2026-10-21T10:30:40+00:00",
+   "type": "hardware",
+   "importance": 1,
+   "sourceType": "official",
+   "sourceName": "NVIDIA Blog",
+   "url": "https://blogs.nvidia.com/blog/europe-industrial-leaders-engineering-manufacturing/",
+   "originalTitle": "Europe’s Industrial Leaders Reinvent Engineering and Manufacturing With NVIDIA",
+   "en": {
+    "title": "Europe’s Industrial Leaders Reinvent Engineering and Manufacturing With NVIDIA",
+    "summary": "To increase productivity, accelerate innovation and create new opportunities for economic growth, Europe’s industrial leaders are tapping NVIDIA CUDA-X and Omniverse libraries , as well as NVIDIA Cosmos and Nemotron open models, across the …",
+    "details": "To increase productivity, accelerate innovation and create new opportunities for economic growth, Europe’s industrial leaders are tapping NVIDIA CUDA-X and Omniverse libraries , as well as NVIDIA Cosmos and Nemotron open models, across the engineering and manufacturing lifecycle.\n\nBringing those capabilities together on the factory floor, the NVIDIA Factory Operations Blueprint (FOX) is now available in early access on GitHub , providing a path for developers to build and deploy always-on factory manager agents that coordinate work across machines, and specialist agents focused on use cases such as visual inspection, root cause analysis, report generation and fleet management.\n\nThese agents can connect to frontier models, including NVIDIA Cosmos and Nemotron, and foundational knowledge including computer-aided design, product lifecycle management, simulation software, and IT and operational technology systems.\n\nBuilding on the FOX blueprint enables the ecosystem to build industrial agents that monitor factory operations in real time, correlate visual findings and machine logs to investigate problems, and coordinate responses. With Cosmos in-context learning, these agents can adapt using examples and documentation, without fine-tuning. …"
+   },
+   "translated": false,
+   "fetchedAt": "2026-10-21T11:10:53+00:00",
+   "company": "NVIDIA"
+  },
+  {
+   "id": "auto-8f7aa7ca2432",
+   "tab": "ai",
+   "date": "2026-10-21",
+   "publishedAt": "2026-10-21T10:59:42+00:00",
+   "type": "media",
+   "importance": 1,
+   "sourceType": "official",
+   "sourceName": "Hugging Face Blog",
+   "url": "https://huggingface.co/blog/nvidia/simready-central-assets-robotics-ai-factories",
+   "originalTitle": "Announcing SimReady Central: An Open Library of Simulation-Ready 3D Assets for Robotics and AI Factories",
+   "en": {
+    "title": "Announcing SimReady Central: An Open Library of Simulation-Ready 3D Assets for Robotics and AI Factories",
+    "summary": "Announcing SimReady Central: An Open Library of Simulation-Ready 3D Assets for Robotics and AI Factories",
+    "details": ""
+   },
+   "translated": false,
+   "fetchedAt": "2026-10-21T11:10:53+00:00",
+   "company": "Hugging Face"
+  },
   {
    "id": "auto-6960e914569d",
    "tab": "ai",
