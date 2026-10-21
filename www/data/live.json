@@ -1,26 +1,6 @@
 {
- "updatedAt": "2026-10-21T20:00:25+00:00",
+ "updatedAt": "2026-10-21T20:34:42+00:00",
  "items": [
-  {
-   "id": "auto-e56dabbd0ba7",
-   "tab": "ai",
-   "date": "2026-10-21",
-   "publishedAt": "2026-10-21T00:00:00+00:00",
-   "type": "product",
-   "importance": 1,
-   "sourceType": "official",
-   "sourceName": "OpenAI News",
-   "url": "https://openai.com/index/empowering-cyber-defenders",
-   "originalTitle": "Democratic governance of frontier AI, part II: Empowering cyber defenders",
-   "en": {
-    "title": "Democratic governance of frontier AI, part II: Empowering cyber defenders",
-    "summary": "OpenAI outlines a blueprint for empowering cyber defenders with frontier AI, stronger safeguards, modernized cybersecurity, and more resilient public institutions.",
-    "details": "OpenAI outlines a blueprint for empowering cyber defenders with frontier AI, stronger safeguards, modernized cybersecurity, and more resilient public institutions."
-   },
-   "translated": false,
-   "fetchedAt": "2026-10-21T19:29:13+00:00",
-   "company": "OpenAI"
-  },
   {
    "id": "auto-f0e6e11565ba",
    "tab": "star-citizen",
@@ -171,8 +151,8 @@
    "originalTitle": "PHP2Shell: AI uncovers critical RCE in PHP",
    "en": {
     "title": "PHP2Shell: AI uncovers critical RCE in PHP",
-    "summary": "Community discussion on Hacker News (415 points, 160 comments).",
-    "details": "Community discussion on Hacker News (415 points, 160 comments)."
+    "summary": "Community discussion on Hacker News (417 points, 163 comments).",
+    "details": "Community discussion on Hacker News (417 points, 163 comments)."
    },
    "translated": false,
    "fetchedAt": "2026-10-21T16:01:54+00:00"
