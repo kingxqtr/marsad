@@ -153,6 +153,29 @@
         "details": "KittenML published Kitten-TTS 2 on Hugging Face, the latest version of its small text-to-speech model, with weights, a GitHub repo and a Discord server for the open-source tooling around it.\n\nThe model has about 1.7 billion parameters and uses ternary weights, where most linear layers store each weight as one of three values packed at roughly 1.6 bits each. KittenML says this lets the model run in real time on a CPU alone, without a GPU, through a companion llama.cpp-based inference engine.\n\nKitten-TTS 2 ships with 115 built-in voices across 16 languages and can clone a new voice from 5 to 30 seconds of reference audio without further fine-tuning. A beta feature lets users mark emotion, emphasis and vocal events in the text to steer delivery.\n\nThe model weights are released under a Stellon Labs Community License that allows free research, non-commercial and limited commercial use, while the companion Python package and speaker-embedding model are Apache 2.0 and MIT licensed."
       }
     }
+  ,
+    {
+      "id": "ibm-granite-timeseries-ensemble-r1",
+      "date": "2026-10-22",
+      "type": "model",
+      "importance": 1,
+      "sourceType": "official",
+      "sourceName": "Hugging Face Blog (IBM Research)",
+      "url": "https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1",
+      "originalTitle": "Ensemble forecasting with IBM Granite time-series models",
+      "company": "IBM Research",
+      "tool": "Granite Timeseries Ensemble r1",
+      "ar": {
+        "title": "IBM Research تطرح وصفة Granite Timeseries Ensemble r1 للتنبؤ بالسلاسل الزمنية",
+        "summary": "نشرت IBM Research وصفة تجميع تدمج أربعة نماذج Granite للسلاسل الزمنية في تنبؤ واحد دون إعادة تدريب، وحققت أفضل نتيجة MASE على معيار GIFT-Eval بين الأنظمة المقارنة.",
+        "details": "نشرت IBM Research على Hugging Face بتاريخ 22 أكتوبر وصفة تنبؤ جديدة باسم Granite Timeseries Ensemble r1، تجمع بين أربعة نماذج قائمة من عائلة Granite للسلاسل الزمنية هي PatchTST-FM-r1 وPatchTST-FM-r2 وFlowState-r1.1 وTTM-r3 لإنتاج تنبؤ واحد موحّد دون الحاجة لإعادة تدريب أي منها.\n\nيمكن تحميل الوصفة عبر مكتبة IBM المسمّاة granite-tsfm (الإصدار 0.3.11 فأحدث) باستخدام فئة QuantileEnsembleForecaster، وتوفّر طريقتين للتجميع: الأولى افتراضية تُسمّى Probabilistic Ensemble تجمع تنبؤات الأعضاء بالتساوي، والثانية باسم IQR Ensemble تمنح وزنًا أكبر للنماذج الأقل تشتتًا في تنبؤاتها. وتُخرج كل الطريقتين تنبؤًا نقطيًا إلى جانب نطاقات ربعية من 0.1 إلى 0.9.\n\nوفي معيار GIFT-Eval بنسخته المحدّثة في 20 أكتوبر، سجّل التجميع الاحتمالي أفضل قيمة لمقياس MASE (0.683) من بين ستة تنبؤات مُقارنة، بفارق ضئيل عن PatchTST-FM-r2 (0.685)، في حين تصدّر الأخير مقياس الدقة CRPS/MWQL. وتوضح IBM أن الوصفة تتعامل مع القنوات متعددة المتغيرات بشكل مستقل، وأن تحميل أربع نقاط تفتيش يرفع زمن الاستدلال واستهلاك الذاكرة."
+      },
+      "en": {
+        "title": "IBM Research releases Granite Timeseries Ensemble r1 forecasting recipe",
+        "summary": "IBM Research published a no-retraining ensemble recipe combining four Granite time-series models into one forecast, topping GIFT-Eval's MASE metric among compared systems.",
+        "details": "IBM Research released Granite Timeseries Ensemble r1, a new forecasting recipe published on Hugging Face on October 22. It combines four existing Granite time-series models — PatchTST-FM-r1, PatchTST-FM-r2, FlowState-r1.1 and TTM-r3 — into a single forecast without retraining any of them.\n\nUsers load the recipe through IBM's granite-tsfm library (version 0.3.11 or later) with a QuantileEnsembleForecaster class. It offers two aggregation modes: a default Probabilistic Ensemble that equally pools each member's quantile forecasts, and an IQR Ensemble that weights members by their forecast spread. Both produce a point forecast plus quantiles from 0.1 to 0.9.\n\nOn a GIFT-Eval benchmark snapshot from October 20, the Probabilistic Ensemble posted the lowest MASE score (0.683) among six compared forecasts, narrowly ahead of PatchTST-FM-r2 (0.685), though PatchTST-FM-r2 still led on the CRPS/MWQL accuracy metric. IBM notes the recipe forecasts multivariate channels independently and that loading four checkpoints raises inference time and memory use."
+      }
+    }
   ],
   "upcoming": [],
   "removeUpcoming": [],
