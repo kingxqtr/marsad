@@ -1,6 +1,26 @@
 {
- "updatedAt": "2026-10-22T15:06:53+00:00",
+ "updatedAt": "2026-10-22T15:39:53+00:00",
  "items": [
+  {
+   "id": "auto-9e0e8323353c",
+   "tab": "ai",
+   "date": "2026-10-22",
+   "publishedAt": "2026-10-22T15:00:02+00:00",
+   "type": "hardware",
+   "importance": 1,
+   "sourceType": "official",
+   "sourceName": "NVIDIA Blog",
+   "url": "https://blogs.nvidia.com/blog/minerva-platform-infrastructure/",
+   "originalTitle": "NVIDIA Unveils Minerva to Bring End-to-End Observability for AI Factories",
+   "en": {
+    "title": "NVIDIA Unveils Minerva to Bring End-to-End Observability for AI Factories",
+    "summary": "Launched today, NVIDIA Minerva is an AIOps platform built to help teams find problems earlier and keep AI factories productive.",
+    "details": "Launched today, NVIDIA Minerva is an AIOps platform built to help teams find problems earlier and keep AI factories productive. It brings together telemetry from infrastructure and AI workloads, then applies purpose-built AI models to turn that data into timely, actionable insight.\n\nAI factories are among the most complex operations in the world, with vast numbers of GPUs working across high-speed networks to train models and serve AI applications. At that scale, a single degraded component can slow an entire job. The warning signs may be easy to miss, such as a GPU running hotter than its peers or an NVMe drive losing performance under load.\n\nThe platform focuses on AI factory yield, a measure of the useful work infrastructure produces through GPU hours, goodput, cluster uptime and token production.\n\nRead All NVIDIA in Europe Announcements\n\nDelivering a Dynamic View of an AI Factory\n\nTraditional monitoring tools often divide the data center into separate views. Networking, compute, site reliability and machine learning teams each see a different part of the operation. Minerva connects those signals across NVIDIA GPUs, networking, storage, schedulers and workloads.\n\nWith these signals, Minerva builds a dynamic knowledge graph that logically maps the infrastructure — GPUs, SuperNICs, switches and cables — and the jobs running on it. This context helps operators trace a slow training job to the component affecting it, even across a factory with hundreds of thousands of GPUs. …"
+   },
+   "translated": false,
+   "fetchedAt": "2026-10-22T15:39:48+00:00",
+   "company": "NVIDIA"
+  },
   {
    "id": "auto-b13209dfdab7",
    "tab": "ai",
