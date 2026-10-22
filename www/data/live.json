@@ -1,26 +1,6 @@
 {
- "updatedAt": "2026-10-22T11:52:31+00:00",
+ "updatedAt": "2026-10-22T12:25:30+00:00",
  "items": [
-  {
-   "id": "auto-b600f6ebddd7",
-   "tab": "ai",
-   "date": "2026-10-22",
-   "publishedAt": "2026-10-22T07:51:31+00:00",
-   "type": "product",
-   "importance": 1,
-   "sourceType": "official",
-   "sourceName": "Hugging Face Blog",
-   "url": "https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1",
-   "originalTitle": "Ensemble forecasting with IBM Granite time-series models",
-   "en": {
-    "title": "Ensemble forecasting with IBM Granite time-series models",
-    "summary": "Ensemble forecasting with IBM Granite time-series models",
-    "details": ""
-   },
-   "translated": false,
-   "fetchedAt": "2026-10-22T08:23:43+00:00",
-   "company": "Hugging Face"
-  },
   {
    "id": "auto-464216cb4c85",
    "tab": "ai",
