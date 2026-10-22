@@ -176,6 +176,29 @@
         "details": "IBM Research released Granite Timeseries Ensemble r1, a new forecasting recipe published on Hugging Face on October 22. It combines four existing Granite time-series models — PatchTST-FM-r1, PatchTST-FM-r2, FlowState-r1.1 and TTM-r3 — into a single forecast without retraining any of them.\n\nUsers load the recipe through IBM's granite-tsfm library (version 0.3.11 or later) with a QuantileEnsembleForecaster class. It offers two aggregation modes: a default Probabilistic Ensemble that equally pools each member's quantile forecasts, and an IQR Ensemble that weights members by their forecast spread. Both produce a point forecast plus quantiles from 0.1 to 0.9.\n\nOn a GIFT-Eval benchmark snapshot from October 20, the Probabilistic Ensemble posted the lowest MASE score (0.683) among six compared forecasts, narrowly ahead of PatchTST-FM-r2 (0.685), though PatchTST-FM-r2 still led on the CRPS/MWQL accuracy metric. IBM notes the recipe forecasts multivariate channels independently and that loading four checkpoints raises inference time and memory use."
       }
     }
+  ,
+    {
+      "id": "nvidia-minerva-aiops-platform",
+      "date": "2026-10-22",
+      "type": "hardware",
+      "importance": 1,
+      "sourceType": "official",
+      "sourceName": "NVIDIA Blog",
+      "url": "https://blogs.nvidia.com/blog/minerva-platform-infrastructure/",
+      "originalTitle": "NVIDIA Unveils Minerva to Bring End-to-End Observability for AI Factories",
+      "company": "Nvidia",
+      "tool": "Minerva",
+      "ar": {
+        "title": "Nvidia تكشف عن منصة Minerva لمراقبة مصانع الذكاء الاصطناعي",
+        "summary": "أعلنت Nvidia عن Minerva، منصة عمليات ذكاء اصطناعي (AIOps) تجمع بيانات القياس من البنية التحتية وأعمال التدريب لرصد الأعطال في مصانع الذكاء الاصطناعي الضخمة وتشخيص أسبابها بسرعة.",
+        "details": "أعلنت Nvidia في 22 أكتوبر عن منصة Minerva، وهي منصة عمليات ذكاء اصطناعي (AIOps) مصمَّمة لمساعدة الفرق على رصد الأعطال في وقت مبكر والحفاظ على إنتاجية مصانع الذكاء الاصطناعي. تجمع المنصة بيانات القياس من البنية التحتية وأعمال التدريب، وتستخدم نماذج ذكاء اصطناعي مخصّصة لتحويلها إلى رؤى عملية في وقتها.\n\nتبني Minerva مخطط معرفة ديناميكيًا يربط معالجات الرسوميات وشرائح الشبكات والكابلات والمهام الجارية، ما يساعد المشغّلين على تتبّع سبب تعطّل مهمة تدريب بطيئة حتى في مصنع يضم مئات آلاف المعالجات. وتحلّل المنصة كميات كبيرة من البيانات لاكتشاف الحالات الشاذة والتنبؤ بالأعطال المحتملة، وتجمّع التنبيهات المرتبطة في حادثة واحدة مع تحديد سببها المرجّح، كما تضم مساعدًا يعمل باللغة الطبيعية.\n\nوتعتزم شركات مثل IREN وIBM وLambda استخدام المنصة، بينما ستوفرها Dell وLenovo وSupermicro ضمن عروضها."
+      },
+      "en": {
+        "title": "Nvidia unveils Minerva AIOps platform for AI factories",
+        "summary": "Nvidia launched Minerva, an AIOps platform that pools infrastructure and training telemetry to spot failures early and speed root-cause diagnosis across large AI factories.",
+        "details": "Nvidia announced Minerva on October 22, an AIOps platform built to help teams find problems earlier and keep AI factories productive. It brings together telemetry from infrastructure and AI workloads, then applies purpose-built AI models to turn that data into timely, actionable insight.\n\nMinerva builds a dynamic knowledge graph that maps GPUs, networking gear, cables and running jobs, helping operators trace a slow training job to the component affecting it, even across a factory with hundreds of thousands of GPUs. The platform analyzes large volumes of data to detect anomalies, predict failures, and group related alerts into single incidents with a likely root cause, and includes a natural-language AI assistant.\n\nPartners including IREN, IBM and Lambda plan to use the platform, while Dell, Lenovo and Supermicro will offer it."
+      }
+    }
   ],
   "upcoming": [],
   "removeUpcoming": [],

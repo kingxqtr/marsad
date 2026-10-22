@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": "2026-10-22T16:09:55+00:00",
+ "updatedAt": "2026-10-22T17:09:55+00:00",
  "coverage": {
   "from": "2026-07-22",
   "to": "2026-10-22"
@@ -1829,6 +1829,29 @@
       "details": "Nvidia announced an expansion of its Cosmos world-model platform at GTC Berlin, adding training tools, new simulation checkpoints and Cosmos Data Factory blueprints to help physical-AI systems understand and simulate the real world.\n\nCosmos Data Factory offers five cloud-native blueprints for autonomous-vehicle dataset generation, image attribute augmentation and rare-event video generation, available via GitHub, Microsoft Azure, Nebius and CoreWeave. The Cosmos Curator tool for curating video training data gained support for multimodal, multisensory inputs.\n\nNvidia also extended Cosmos framework training and optimization tools to cover additional open models including GR00T, Alpamayo, Qwen and Pi0.5, added new Cosmos 3 Nano simulation checkpoints for testing autonomous-vehicle and bimanual-robot policies, and updated Cosmos 3 NIM microservices that the company says roughly double inference speed without a quality loss."
      },
      "addedAt": "2026-10-22T08:12:32+00:00"
+    },
+    {
+     "id": "nvidia-minerva-aiops-platform",
+     "date": "2026-10-22",
+     "type": "hardware",
+     "importance": 1,
+     "sourceType": "official",
+     "sourceName": "NVIDIA Blog",
+     "url": "https://blogs.nvidia.com/blog/minerva-platform-infrastructure/",
+     "originalTitle": "NVIDIA Unveils Minerva to Bring End-to-End Observability for AI Factories",
+     "company": "Nvidia",
+     "tool": "Minerva",
+     "ar": {
+      "title": "Nvidia تكشف عن منصة Minerva لمراقبة مصانع الذكاء الاصطناعي",
+      "summary": "أعلنت Nvidia عن Minerva، منصة عمليات ذكاء اصطناعي (AIOps) تجمع بيانات القياس من البنية التحتية وأعمال التدريب لرصد الأعطال في مصانع الذكاء الاصطناعي الضخمة وتشخيص أسبابها بسرعة.",
+      "details": "أعلنت Nvidia في 22 أكتوبر عن منصة Minerva، وهي منصة عمليات ذكاء اصطناعي (AIOps) مصمَّمة لمساعدة الفرق على رصد الأعطال في وقت مبكر والحفاظ على إنتاجية مصانع الذكاء الاصطناعي. تجمع المنصة بيانات القياس من البنية التحتية وأعمال التدريب، وتستخدم نماذج ذكاء اصطناعي مخصّصة لتحويلها إلى رؤى عملية في وقتها.\n\nتبني Minerva مخطط معرفة ديناميكيًا يربط معالجات الرسوميات وشرائح الشبكات والكابلات والمهام الجارية، ما يساعد المشغّلين على تتبّع سبب تعطّل مهمة تدريب بطيئة حتى في مصنع يضم مئات آلاف المعالجات. وتحلّل المنصة كميات كبيرة من البيانات لاكتشاف الحالات الشاذة والتنبؤ بالأعطال المحتملة، وتجمّع التنبيهات المرتبطة في حادثة واحدة مع تحديد سببها المرجّح، كما تضم مساعدًا يعمل باللغة الطبيعية.\n\nوتعتزم شركات مثل IREN وIBM وLambda استخدام المنصة، بينما ستوفرها Dell وLenovo وSupermicro ضمن عروضها."
+     },
+     "en": {
+      "title": "Nvidia unveils Minerva AIOps platform for AI factories",
+      "summary": "Nvidia launched Minerva, an AIOps platform that pools infrastructure and training telemetry to spot failures early and speed root-cause diagnosis across large AI factories.",
+      "details": "Nvidia announced Minerva on October 22, an AIOps platform built to help teams find problems earlier and keep AI factories productive. It brings together telemetry from infrastructure and AI workloads, then applies purpose-built AI models to turn that data into timely, actionable insight.\n\nMinerva builds a dynamic knowledge graph that maps GPUs, networking gear, cables and running jobs, helping operators trace a slow training job to the component affecting it, even across a factory with hundreds of thousands of GPUs. The platform analyzes large volumes of data to detect anomalies, predict failures, and group related alerts into single incidents with a likely root cause, and includes a natural-language AI assistant.\n\nPartners including IREN, IBM and Lambda plan to use the platform, while Dell, Lenovo and Supermicro will offer it."
+     },
+     "addedAt": "2026-10-22T17:09:55+00:00"
     },
     {
      "id": "php2shell-ai-rce-wiz-openai",
