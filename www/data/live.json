@@ -1,6 +1,26 @@
 {
- "updatedAt": "2026-10-22T16:50:48+00:00",
+ "updatedAt": "2026-10-22T17:21:03+00:00",
  "items": [
+  {
+   "id": "auto-9300a4f90515",
+   "tab": "ai",
+   "date": "2026-10-22",
+   "publishedAt": "2026-10-22T16:28:24+00:00",
+   "type": "coding",
+   "importance": 1,
+   "sourceType": "official",
+   "sourceName": "GitHub Changelog",
+   "url": "https://github.blog/changelog/2026-10-22-industry-comparisons-in-the-copilot-impact-dashboard",
+   "originalTitle": "Industry comparisons in the Copilot impact dashboard",
+   "en": {
+    "title": "Industry comparisons in the Copilot impact dashboard",
+    "summary": "The Copilot impact dashboard now includes an “Industry comparison” section.",
+    "details": "The Copilot impact dashboard now includes an “Industry comparison” section. Enterprises, and organizations that aren’t owned by an enterprise, can compare their Copilot agentic adoption and leverage with aggregated benchmarks from participating peers. Participation is opt-in and disabled by default.\n\nWhat’s new\n\n- Agentic adoption and leverage benchmarks — See the percentage of your users who are agent-first or multi-agent, and how the pull request merge rate of agentic users compares with nonagentic users. Once enough businesses have opted in, each score is ranked against the peer median for the 28-day reporting period and against the top decile as the peer group grows.\n\n- Peer groups by company size and industry — Choose a company size (e.g., 1–999, 1,000–4,999, or 5,000+ employees) and one of ten industries, then switch between your industry and all industries. If your industry’s peer group is too small, the comparison widens to all industries for your company size, and the dashboard labels the peer group it used.\n\n- Copilot metrics industry comparison policy — Opt in from the dashboard or centrally from your enterprise or organization Copilot policies. Both places use the same policy, so turning it off in either place stops both contributing data and seeing comparisons.\n\nWhy this matters …"
+   },
+   "translated": false,
+   "fetchedAt": "2026-10-22T17:20:57+00:00",
+   "company": "GitHub"
+  },
   {
    "id": "auto-4a256118a724",
    "tab": "ai",
@@ -40,26 +60,6 @@
    "translated": false,
    "fetchedAt": "2026-10-22T16:13:13+00:00",
    "company": "Hugging Face"
-  },
-  {
-   "id": "auto-9e0e8323353c",
-   "tab": "ai",
-   "date": "2026-10-22",
-   "publishedAt": "2026-10-22T15:00:02+00:00",
-   "type": "hardware",
-   "importance": 1,
-   "sourceType": "official",
-   "sourceName": "NVIDIA Blog",
-   "url": "https://blogs.nvidia.com/blog/minerva-platform-infrastructure/",
-   "originalTitle": "NVIDIA Unveils Minerva to Bring End-to-End Observability for AI Factories",
-   "en": {
-    "title": "NVIDIA Unveils Minerva to Bring End-to-End Observability for AI Factories",
-    "summary": "Launched today, NVIDIA Minerva is an AIOps platform built to help teams find problems earlier and keep AI factories productive.",
-    "details": "Launched today, NVIDIA Minerva is an AIOps platform built to help teams find problems earlier and keep AI factories productive. It brings together telemetry from infrastructure and AI workloads, then applies purpose-built AI models to turn that data into timely, actionable insight.\n\nAI factories are among the most complex operations in the world, with vast numbers of GPUs working across high-speed networks to train models and serve AI applications. At that scale, a single degraded component can slow an entire job. The warning signs may be easy to miss, such as a GPU running hotter than its peers or an NVMe drive losing performance under load.\n\nThe platform focuses on AI factory yield, a measure of the useful work infrastructure produces through GPU hours, goodput, cluster uptime and token production.\n\nRead All NVIDIA in Europe Announcements\n\nDelivering a Dynamic View of an AI Factory\n\nTraditional monitoring tools often divide the data center into separate views. Networking, compute, site reliability and machine learning teams each see a different part of the operation. Minerva connects those signals across NVIDIA GPUs, networking, storage, schedulers and workloads.\n\nWith these signals, Minerva builds a dynamic knowledge graph that logically maps the infrastructure — GPUs, SuperNICs, switches and cables — and the jobs running on it. This context helps operators trace a slow training job to the component affecting it, even across a factory with hundreds of thousands of GPUs. …"
-   },
-   "translated": false,
-   "fetchedAt": "2026-10-22T15:39:48+00:00",
-   "company": "NVIDIA"
   },
   {
    "id": "auto-b13209dfdab7",
