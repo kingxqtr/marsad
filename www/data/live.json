@@ -1,26 +1,6 @@
 {
- "updatedAt": "2026-10-22T22:46:28+00:00",
+ "updatedAt": "2026-10-22T23:12:40+00:00",
  "items": [
-  {
-   "id": "auto-1b261e3caa9e",
-   "tab": "ai",
-   "date": "2026-10-22",
-   "publishedAt": "2026-10-22T22:24:34+00:00",
-   "type": "product",
-   "importance": 1,
-   "sourceType": "official",
-   "sourceName": "Hugging Face Blog",
-   "url": "https://huggingface.co/blog/microsoft/thinkingbox-training",
-   "originalTitle": "Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox",
-   "en": {
-    "title": "Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox",
-    "summary": "Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox",
-    "details": ""
-   },
-   "translated": false,
-   "fetchedAt": "2026-10-22T22:46:22+00:00",
-   "company": "Hugging Face"
-  },
   {
    "id": "auto-5930328bc287",
    "tab": "ai",
