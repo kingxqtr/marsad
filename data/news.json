@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": "2026-10-22T10:11:08+00:00",
+ "updatedAt": "2026-10-22T11:12:12+00:00",
  "coverage": {
   "from": "2026-07-22",
   "to": "2026-10-22"
@@ -28,6 +28,27 @@
       "details": "Once Human's development team published the 11th Meta Hotline on October 21, responding to the top requests ranked on the game's Feedback Platform hot charts.\n\nTwo requests were accepted and moved into active development: more flight vehicle types, which will arrive with new aerial combat gameplay in next year's \"Manibus 2.0\" scenario, and automatic clearing of map pins once a player reaches their destination.\n\n- Wilderness-usable furniture: accepted, planned for next year's development.\n- One-click Hotbar switch button: rejected; the team said the existing hotbar and backpack already cover most needs and the current control layout has no spare keybinds to add it without disrupting gameplay.\n- Higher garage placement limit: still under evaluation due to its effect on territory space and server performance.\n- Starchrom-cap notification when opening crates: accepted, expected after the November 4 (PT) update."
      },
      "addedAt": "2026-10-22T03:10:36+00:00"
+    },
+    {
+     "id": "oh-3-1-1-bugfixes-oct22",
+     "date": "2026-10-22",
+     "type": "update",
+     "importance": 1,
+     "sourceType": "official",
+     "sourceName": "Once Human — Steam News",
+     "url": "https://store.steampowered.com/news/app/2139460/view/1847286114032188",
+     "originalTitle": "3.1.1 Bug Fixes (October 22)",
+     "ar": {
+      "title": "Once Human: إصلاحات أخطاء إضافية في نسخة 3.1.1 بتاريخ 22 أكتوبر",
+      "summary": "أصدر فريق Once Human قائمة إصلاحات أخطاء جديدة لنسخة 3.1.1، تشمل مشاكل في جزيرة Isles of Abyss وتسلق السفن وبعض الهدايا والمظهر.",
+      "details": "نشر فريق Once Human في 22 أكتوبر قائمة إصلاحات أخطاء جديدة لنسخة 3.1.1.\n\n- إصلاح ظهور الأشجار المقطوعة من مسافة بعيدة في جزيرة المبتدئين بـIsles of Abyss.\n- إصلاح صعوبة تسلق السفينة في منظور الشخص الأول.\n- إصلاح مشكلة في مناطق تلوين بعض عناصر الأزياء النسائية.\n- إصلاح منح عنصرين خاطئين عند اختيار بعض الهدايا في صندوق اختيار Deviation بجزيرة Isles of Abyss؛ سيتم إرسال العناصر الصحيحة بالبريد داخل اللعبة خلال يومي عمل.\n- إصلاح تعطل التفاعل مع ثلاجة Geek، وخطأ في متانة مباني Eternaland القصوى في بعض الحالات.\n- إصلاح عدم تطابق تأثيرات مناطق Haywire الظاهرة على الخط الزمني بالواجهة مع التأثيرات الفعلية في خوادم Isles of Abyss المخصصة.\n- إصلاح تعليق اللعبة على الهاتف عند تبديل الاختيارات في حزمة Battle Pass الخاصة بـLost & Returned."
+     },
+     "en": {
+      "title": "Once Human 3.1.1 bug fixes (October 22)",
+      "summary": "Once Human's team published a new round of 3.1.1 bug fixes covering Isles of Abyss, ship climbing, Deviation gift box rewards and more.",
+      "details": "Once Human's team published a new set of 3.1.1 bug fixes on October 22.\n\n- Fixed felled trees still appearing from a distance on the Isles of Abyss beginner island.\n- Fixed difficulty climbing onto the ship in first-person camera.\n- Fixed dye-zone issues on several female fashion items.\n- Fixed the Isles of Abyss Deviation Selection Gift Box granting the wrong Deviation for two selections; affected players will receive the correct items by in-game mail within two business days.\n- Fixed the Geek fridge being uninteractable, and an incorrect maximum building durability on Eternaland in some cases.\n- Fixed a mismatch between the Haywire Zones effects shown on the UI timeline and the actual effects applied on Isles of Abyss custom servers.\n- Fixed the game becoming unresponsive on mobile when switching selections in the Lost & Returned Battle Pass pack."
+     },
+     "addedAt": "2026-10-22T11:12:12+00:00"
     },
     {
      "id": "oh-isles-of-abyss-launches",
