@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": "2026-10-22T17:09:55+00:00",
+ "updatedAt": "2026-10-22T18:12:38+00:00",
  "coverage": {
   "from": "2026-07-22",
   "to": "2026-10-22"
@@ -1763,6 +1763,50 @@
   "ai": {
    "news": [
     {
+     "id": "ai2-olmoearth-v1-3",
+     "date": "2026-10-22",
+     "type": "model",
+     "importance": 1,
+     "sourceType": "official",
+     "sourceName": "Hugging Face Blog",
+     "url": "https://huggingface.co/blog/allenai/olmoearth-v1-3",
+     "originalTitle": "OlmoEarth v1.3: State-of-the-art embeddings for the whole planet",
+     "company": "Ai2",
+     "ar": {
+      "title": "Ai2 تطرح OlmoEarth v1.3 بتضمينات للأقمار الصناعية لكل الكرة الأرضية",
+      "summary": "يضيف إصدار OlmoEarth v1.3 من Ai2 تضمينات سنوية جاهزة لكل الكرة الأرضية بدقة 10 أمتار، مع أداة متصفح لاستكشافها وتكلفة تدريب أقل بكثير من الإصدارات السابقة.",
+      "details": "طرح معهد Allen للذكاء الاصطناعي (Ai2) الإصدار v1.3 من نموذج التضمين المفتوح للأقمار الصناعية OlmoEarth، مضيفًا تضمينات سنوية جاهزة لكل الكرة الأرضية بدقة 10 أمتار بنسختين بـ64 و128 بُعدًا.\n\nويقرأ النموذج سنة كاملة من بيانات الرادار من القمر Sentinel-1 وصور Sentinel-2 وLandsat، ويُخرج متجهًا واحدًا لكل بكسل بدقة 10 أمتار. وفي 27 تقييمًا مقابل نموذجي التضمين المنافسين AlphaEarth Foundations وTessera v2، تصدرت نسخة 128 بُعدًا في 20 تقييمًا وتصدرت نسخة 64 بُعدًا في 18. كما طرحت Ai2 معيار PLANTEUR الجديد لتصنيف المحاصيل المدارية.\n\nواستخدم تدريب v1.3 نسبة 53% من حوسبة v1.2 و18% من حوسبة v1، ما خفّض تكلفة التدريب النهائي إلى نحو 2,720 دولارًا من وقت معالجات H100 المؤجرة، مقارنة بـ5,100 دولار لـv1.2 و15,060 دولارًا لـv1.\n\nكما أطلقت Ai2 أداة OlmoEarth Embeddings Explorer في المتصفح، لاستكشاف الخرائط وإيجاد أماكن مشابهة وتدريب مصنّفات صغيرة دون تسجيل دخول. وأوزان النموذج وبيانات التدريب والشيفرة متاحة مفتوحة بموجب رخصة OlmoEarth Artifact License، وتشمل استخداماتها رسم خرائط المحاصيل والغطاء الأرضي ورصد التغيّر، مثل تتبّع التعدين عن الذهب في الأمازون البيروفي."
+     },
+     "en": {
+      "title": "Ai2 releases OlmoEarth v1.3 with planet-wide satellite embeddings",
+      "summary": "Ai2's OlmoEarth v1.3 adds precomputed 10-meter satellite embeddings for the whole planet and a browser tool to explore them, at far lower training cost than earlier versions.",
+      "details": "The Allen Institute for AI (Ai2) released OlmoEarth v1.3, an update to its open satellite embedding model, adding precomputed annual embeddings for the entire planet at 10-meter resolution in 64- and 128-dimension versions.\n\nThe model reads a year of Sentinel-1 radar and Sentinel-2 and Landsat imagery and outputs one vector per 10-meter pixel. In 27 evaluations against rival embedding models AlphaEarth Foundations and Tessera v2, the 128-dimension version scored highest in 20 and the 64-dimension version in 18. Ai2 also introduced PLANTEUR, a new tropical crop-type benchmark.\n\nTraining v1.3 used 53% of the compute of v1.2 and 18% of v1, cutting the final training run's cost to about $2,720 in rented H100 GPU time, down from $5,100 for v1.2 and $15,060 for v1.\n\nAi2 also launched the OlmoEarth Embeddings Explorer, a browser tool for exploring maps, finding similar places and training small classifiers without signing in. Model weights, pretraining data and code are released under the OlmoEarth Artifact License, with uses including crop mapping, land-cover mapping and change detection such as tracking gold mining in the Peruvian Amazon."
+     },
+     "addedAt": "2026-10-22T18:12:38+00:00"
+    },
+    {
+     "id": "deepmind-forest-typology-map",
+     "date": "2026-10-22",
+     "type": "product",
+     "importance": 1,
+     "sourceType": "official",
+     "sourceName": "Google DeepMind Blog",
+     "url": "https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types/",
+     "originalTitle": "Beyond tree cover: mapping the world's forest types",
+     "company": "Google DeepMind",
+     "ar": {
+      "title": "DeepMind ترسم أنواع غابات العالم بدقة 10 أمتار",
+      "summary": "خريطة Forest Typology الجديدة من DeepMind تصنّف كل قطعة أرض بمساحة 10×10 أمتار إلى نوع غابة أو استخدام أرض، متجاوزةً خرائط الغطاء الحرجي البسيطة.",
+      "details": "طرحت Google DeepMind خريطة Forest Typology (ForTy) لعام 2020، وهي خريطة عالمية تصنّف كل قطعة أرض بمساحة 10×10 أمتار إلى واحد من ستة أنواع غابات أو استخدامات أرض، مثل الغابات الأولية أو الغابات المزروعة أو مزارع الأشجار، بدلًا من الإشارة فقط إلى وجود أشجار أم لا.\n\nوتعتمد الخريطة على نموذج تعلّم آلي مخصص يستند إلى تضمينات AlphaEarth Foundations التي تُلخّص سنوات من رصدات الأقمار الصناعية لكل بكسل. ودُرِّب النموذج على نحو 1.7 مليون موقع مُصنَّف من مسوحات متخصصة وبيانات وطنية، وتم التحقق منه مقابل أكثر من 9,000 موقع عشوائي، فحقق دقة 90% في تصنيف نوع الغابة و95% في التمييز بين الغابة وغيرها.\n\nوتتضمن الخريطة سلسلة زمنية تغطي 2017 إلى 2025 لتتبّع التغيرات السنوية، بما فيها تحوّل الغابات الطبيعية إلى مزارع أو أراضٍ زراعية. وطوّرت DeepMind هذا العمل بالتعاون مع معهد الموارد العالمية (WRI) والمعهد الدولي لتحليل النظم التطبيقية، وتقول إنه ذو صلة بلائحة الاتحاد الأوروبي لمنتجات خالية من التدهور الحرجي (EUDR) وسلاسل التوريد الخالية من إزالة الغابات.\n\nوالبيانات متاحة مجانًا على Google Earth Engine بموجب رخصة مفتوحة، مع إمكانية التنزيل أيضًا عبر Figshare."
+     },
+     "en": {
+      "title": "Google DeepMind maps the world's forest types at 10-meter scale",
+      "summary": "DeepMind's new Forest Typology map classifies every 10-by-10-meter patch of land into a forest or land-use type, going beyond simple tree-cover maps.",
+      "details": "Google DeepMind released Forest Typology (ForTy) 2020, a global map that classifies every 10-by-10-meter patch of land into one of six forest or land-use types, such as primary forest, planted forest, plantation or tree crops, rather than just marking whether trees are present.\n\nThe map uses a custom machine-learning model built on AlphaEarth Foundations embeddings, which compress years of satellite observations per pixel. It was trained on about 1.7 million labeled locations from expert surveys and national datasets, and validated against more than 9,000 random sites, reaching 90% accuracy on forest type and 95% on forest-versus-non-forest classification.\n\nAn accompanying time series covering 2017 to 2025 tracks yearly changes, including when natural forests become plantations or farms. DeepMind developed the work with the World Resources Institute and the International Institute for Applied Systems Analysis, and says it is relevant to the EU's deforestation-free products regulation and to deforestation-free supply chains.\n\nThe data is freely available on Google Earth Engine under an open license, with downloads also offered through Figshare."
+     },
+     "addedAt": "2026-10-22T18:12:38+00:00"
+    },
+    {
      "id": "ibm-granite-timeseries-ensemble-r1",
      "date": "2026-10-22",
      "type": "model",
@@ -1809,6 +1853,28 @@
      "addedAt": "2026-10-22T10:11:08+00:00"
     },
     {
+     "id": "github-copilot-impact-dashboard-industry-comparisons",
+     "date": "2026-10-22",
+     "type": "coding",
+     "importance": 1,
+     "sourceType": "official",
+     "sourceName": "GitHub Changelog",
+     "url": "https://github.blog/changelog/2026-10-22-industry-comparisons-in-the-copilot-impact-dashboard",
+     "originalTitle": "Industry comparisons in the Copilot impact dashboard",
+     "company": "GitHub",
+     "ar": {
+      "title": "GitHub يضيف مقارنات صناعية إلى لوحة تأثير Copilot",
+      "summary": "أضافت GitHub قسم مقارنة بالصناعة إلى لوحة تأثير Copilot، يتيح للمؤسسات قياس تبنّيها للذكاء الاصطناعي الوكيلي مقابل معايير مرجعية من الأقران.",
+      "details": "أضافت GitHub قسمًا اختياريًا بعنوان \"مقارنة الصناعة\" إلى لوحة تأثير Copilot، يتيح للمؤسسات قياس استخدامها لـ Copilot مقابل مؤسسات مماثلة.\n\nيمكن للمؤسسات رؤية نسبة المستخدمين الذين يعملون بأسلوب \"الوكيل أولًا\" أو متعدد الوكلاء، ومقارنة معدل دمج طلبات السحب لدى المستخدمين الوكيليين بغير الوكيليين. تُصنَّف النتائج مقابل الوسيط بين الأقران لفترة تقرير مدتها 28 يومًا، ومقابل أعلى عُشر كلما ازداد عدد المشاركين.\n\nتُشكَّل مجموعات الأقران بحسب حجم الشركة (مثل 1-999 أو 1,000-4,999 أو أكثر من 5,000 موظف) وبحسب واحدة من عشر صناعات؛ وإذا كانت مجموعة صناعة معينة صغيرة جدًا، تتوسع المقارنة لتشمل جميع الصناعات بنفس حجم الشركة، وتوضح اللوحة أي مجموعة استُخدمت.\n\nالمشاركة معطّلة افتراضيًا ويتحكم فيها سياسة واحدة، يمكن ضبطها من اللوحة نفسها أو مركزيًا من سياسات Copilot على مستوى المؤسسة؛ وإيقافها من أي من الموضعين يوقف المساهمة بالبيانات ورؤية المقارنات معًا."
+     },
+     "en": {
+      "title": "GitHub adds industry benchmarks to Copilot impact dashboard",
+      "summary": "GitHub's Copilot impact dashboard now lets organizations compare their agentic AI adoption against opt-in peer benchmarks by company size and industry.",
+      "details": "GitHub added an opt-in \"industry comparison\" section to its Copilot impact dashboard, letting organizations benchmark their Copilot usage against peers.\n\nEnterprises and organizations can see what share of their users are agent-first or multi-agent, and compare the pull request merge rate of agentic users against non-agentic ones. Scores are ranked against the peer median for a 28-day reporting period, and against the top decile as more peers opt in.\n\nPeer groups are formed by company size (such as 1-999, 1,000-4,999 or 5,000+ employees) and by one of ten industries; if an industry's peer group is too small, the comparison widens to all industries at the same company size, and the dashboard labels which peer group it used.\n\nParticipation is disabled by default and controlled by a single policy, set either from the dashboard itself or centrally through enterprise or organization Copilot policies; turning it off in either place stops both contributing data and viewing comparisons."
+     },
+     "addedAt": "2026-10-22T18:12:38+00:00"
+    },
+    {
      "id": "nvidia-cosmos-data-factory-world-models",
      "date": "2026-10-22",
      "type": "product",
@@ -1852,6 +1918,50 @@
       "details": "Nvidia announced Minerva on October 22, an AIOps platform built to help teams find problems earlier and keep AI factories productive. It brings together telemetry from infrastructure and AI workloads, then applies purpose-built AI models to turn that data into timely, actionable insight.\n\nMinerva builds a dynamic knowledge graph that maps GPUs, networking gear, cables and running jobs, helping operators trace a slow training job to the component affecting it, even across a factory with hundreds of thousands of GPUs. The platform analyzes large volumes of data to detect anomalies, predict failures, and group related alerts into single incidents with a likely root cause, and includes a natural-language AI assistant.\n\nPartners including IREN, IBM and Lambda plan to use the platform, while Dell, Lenovo and Supermicro will offer it."
      },
      "addedAt": "2026-10-22T17:09:55+00:00"
+    },
+    {
+     "id": "nvidia-earth2-stormscope-eu",
+     "date": "2026-10-22",
+     "type": "model",
+     "importance": 1,
+     "sourceType": "official",
+     "sourceName": "NVIDIA Blog",
+     "url": "https://blogs.nvidia.com/blog/europe-earth-2-open-models-weather-climate-prediction/",
+     "originalTitle": "Pioneers Across Europe Deploy NVIDIA Earth-2 Open Models to Power Real-World Weather and Climate Prediction",
+     "company": "NVIDIA",
+     "ar": {
+      "title": "NVIDIA تطرح StormScope EU نموذجًا إقليميًا للطقس في منصة Earth-2",
+      "summary": "أضافت NVIDIA نموذج StormScope EU إلى منصة Earth-2، وهو نموذج إقليمي أوروبي يتنبأ بحالة الغيوم من صور الأقمار الصناعية كل 10 دقائق.",
+      "details": "أضافت NVIDIA نموذج StormScope EU، نسخة إقليمية أوروبية من نموذج StormScope، إلى عائلة نماذج الطقس والمناخ المفتوحة Earth-2.\n\nويُدرَّب StormScope EU على بيانات الطقس والمناخ الأوروبية، ويستخدم رصدات الأقمار الصناعية من EUMETSAT للتنبؤ بتطور حالة الغيوم عبر 16 قناة من أقمار Meteosat كل 10 دقائق، وهو موجّه للتنبؤ الإقليمي قصير المدى.\n\nوفي مؤتمر GTC Berlin، عرضت NVIDIA تجربة تفاعلية مباشرة لخط معالجة StormScope EU بالتعاون مع Earthmover، حيث تُستخدم أداة Earth2Studio لتشغيل التوقعات ومنصة Earthmover لتقديم النتائج كبلاطات خرائط تُحدَّث كل 10 دقائق مع وصول بيانات أقمار صناعية جديدة.\n\nوتوفر Earth-2 للمطورين والباحثين عائلة من نماذج الذكاء الاصطناعي المفتوحة القابلة للتخصيص ببياناتهم الخاصة، لأغراض التنبؤ العالمي بالطقس والتوقعات الإقليمية والبحث البيئي، وتعمل على حوسبة NVIDIA."
+     },
+     "en": {
+      "title": "NVIDIA adds StormScope EU model to its Earth-2 weather platform",
+      "summary": "NVIDIA's Earth-2 platform gains StormScope EU, a regional AI model trained on European data that predicts cloud conditions from satellite imagery every 10 minutes.",
+      "details": "NVIDIA added StormScope EU, a European regional version of its StormScope model, to the Earth-2 family of open weather and climate AI models.\n\nStormScope EU is trained on European weather and climate data and uses EUMETSAT satellite observations to predict evolving cloud conditions across 16 Meteosat channels at 10-minute intervals, aimed at short-term regional forecasting.\n\nAt the GTC Berlin conference, NVIDIA showed a live StormScope EU pipeline in an interactive demo built with Earthmover, using Earth2Studio to run forecasts and Earthmover's platform to serve the results as map tiles that update every 10 minutes as new satellite data arrives.\n\nEarth-2 gives developers and researchers a family of open AI models they can customize with their own data for global weather prediction, regional forecasts and environmental research, running on NVIDIA computing."
+     },
+     "addedAt": "2026-10-22T18:12:38+00:00"
+    },
+    {
+     "id": "openai-uber-chatgpt-work-rollout",
+     "date": "2026-10-22",
+     "type": "business",
+     "importance": 1,
+     "sourceType": "official",
+     "sourceName": "OpenAI News",
+     "url": "https://openai.com/index/uber-chatgpt-work-rollout",
+     "originalTitle": "Uber brings ChatGPT Work to all employees with OpenAI",
+     "company": "OpenAI",
+     "ar": {
+      "title": "Uber توسّع استخدام ChatGPT Work ليشمل جميع موظفيها",
+      "summary": "أعلنت OpenAI أن Uber تطرح ChatGPT Work على أكثر من 30 ألف موظف حول العالم لأعمال البحث وتحليل البيانات وإنجاز المهام.",
+      "details": "أعلنت OpenAI أن شركة Uber تطرح ChatGPT Work على جميع موظفيها، ليشمل الطرح أكثر من 30 ألف موظف حول العالم.\n\nوبحسب OpenAI، تستخدم فرق Uber أداة ChatGPT Work للبحث في المواضيع وتحليل البيانات وإنشاء العروض التقديمية وإنجاز مهام عمل معقّدة متعددة الخطوات.\n\nويجعل هذا الطرح من Uber أحد عملاء OpenAI من الشركات الذين ينشرون ChatGPT Work على مستوى الشركة بأكملها، لا في قسم واحد أو كمشروع تجريبي محدود."
+     },
+     "en": {
+      "title": "Uber rolls out OpenAI's ChatGPT Work to all employees",
+      "summary": "OpenAI said Uber is deploying ChatGPT Work, its enterprise chat tool, to more than 30,000 employees worldwide for research, data analysis and workflows.",
+      "details": "OpenAI announced that Uber is bringing ChatGPT Work to all of its employees, with the rollout reaching more than 30,000 staff worldwide.\n\nAccording to OpenAI, Uber teams are using ChatGPT Work to research topics, analyze data, create presentations and complete complex, multi-step workflows.\n\nThe rollout makes Uber one of OpenAI's enterprise customers now deploying ChatGPT Work company-wide, rather than within a single department or a limited pilot."
+     },
+     "addedAt": "2026-10-22T18:12:38+00:00"
     },
     {
      "id": "php2shell-ai-rce-wiz-openai",
