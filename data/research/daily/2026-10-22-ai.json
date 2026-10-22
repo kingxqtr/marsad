@@ -86,6 +86,28 @@
         "summary": "Nvidia unveiled Confidential Bare Metal, a new Confidential Computing option letting AI labs run sensitive workloads on dedicated infrastructure while keeping control of their models and data.",
         "details": "Nvidia announced Confidential Bare Metal at GTC Berlin on October 21, a new deployment mode for its Confidential Computing platform that lets frontier model builders run sensitive workloads on dedicated third-party hardware while keeping control over their models and data. It joins the existing Confidential Containers and Confidential Virtual Machines options, and adds platform security controls that protect data in transit, verify platform integrity and enforce hardware-level access limits.\n\nThe new mode supports Nvidia's Grace Blackwell NVL72 rack-scale systems as well as x86-based HGX Rubin NVL8 and DGX Rubin NVL8 systems, with Nvidia's DSX OS serving as a reference architecture for cloud providers. Cohere plans to integrate it into Cohere Model Vault, and Google Cloud is extending it to A4X Max instances built on Nvidia GB300 NVL72 systems.\n\nInfrastructure providers including CoreWeave, Microsoft Azure, Google Cloud, Lambda and Nebius, along with systems partners Cisco, Dell, HPE, Lenovo and Supermicro, are lining up to support the new deployment option on Nvidia-certified hardware."
       }
+    },
+    {
+      "id": "wiz-php2shell-ai-discovered-rce",
+      "date": "2026-10-21",
+      "type": "coding",
+      "importance": 2,
+      "sourceType": "official",
+      "sourceName": "Wiz Research",
+      "url": "https://www.wiz.io/blog/php2shell-php-rce",
+      "originalTitle": "PHP2Shell: AI uncovers critical RCE in PHP",
+      "company": "Wiz",
+      "tool": "Gemini 4 Argon",
+      "ar": {
+        "title": "Wiz تستخدم الذكاء الاصطناعي لكشف ثغرة RCE خطيرة تؤثر على عقد من إصدارات PHP",
+        "summary": "كشفت Wiz Research، بمساعدة أدوات ذكاء اصطناعي مثل Gemini 4 Argon، عن ثغرات في ذاكرة PHP تتيح تنفيذ تعليمات عن بُعد وتسريب أسرار، تؤثر على معظم إصدارات العقد الماضي؛ وصدرت الرقعات في 21 أكتوبر.",
+        "details": "كشفت شركة Wiz Research عن رقمين تعريفيين CVE-2026-109618 وCVE-2026-109619 يغطيان أربع ثغرات في أمان الذاكرة ضمن محرك PHP الأساسي: تحرر من استخدام في أداة فك تسلسل تقدّم الرفع، وتسريب لذاكرة العمليات عن بُعد، وتحرر من استخدام في تتبع الأخطاء القاتلة، وخلط أنواع في OPcache. وتنشأ هذه الثغرات من طريقة تعامل PHP مع الأخطاء القاتلة، وخصوصًا نفاد الذاكرة، إذ يمكن أن تترك حالة فاسدة يُعاد استخدامها في طلب لاحق.\n\nوتقول Wiz إن الثغرات تتيح تنفيذ تعليمات برمجية عن بُعد دون مصادقة، وتسمح للمهاجمين بقراءة ذاكرة العمليات التي قد تحتوي على كلمات مرور ورموز ومفاتيح API، بدرجة خطورة CVSS تصل إلى 9.2. وأكد الفريق نجاح استغلالها فعليًا ضد Drupal وWordPress، وتؤثر الثغرات على معظم إصدارات PHP الصادرة خلال العقد الماضي، وصولًا إلى PHP 5.4.\n\nوتنسب Wiz إلى أدوات الذكاء الاصطناعي، ومنها وكيلها الخاص Wiz Atlas ونموذج Gemini 4 Argon من Google ونموذج GPT-5.6 Sol من OpenAI، دورًا في الاكتشاف وتطوير الاستغلال واختبار الرقعة. اكتشف Wiz أول ثغرة في 19 أغسطس، وأبلغ فريق أمان PHP في 24 أغسطس؛ وأقر فريق PHP بالبلاغات في 21 سبتمبر، وأصدر إصدارات مرقّعة في 21 أكتوبر."
+      },
+      "en": {
+        "title": "Wiz uses AI to find critical PHP RCE bug affecting a decade of releases",
+        "summary": "Wiz Research, aided by AI tools including Gemini 4 Argon, found PHP memory bugs that enable unauthenticated remote code execution and leak secrets, affecting nearly every version from the last decade; patches shipped October 21.",
+        "details": "Wiz Research disclosed two CVEs, CVE-2026-109618 and CVE-2026-109619, covering four memory-safety bugs in PHP's core engine: a use-after-free in the upload-progress unserializer, a remote process-memory disclosure, a fatal-error backtrace use-after-free, and an OPcache type confusion. The flaws stem from how PHP handles fatal errors, especially out-of-memory conditions, which can leave corrupted state that a later request reuses.\n\nWiz says the bugs enable unauthenticated remote code execution and let attackers read process memory that can contain passwords, tokens and API keys, with CVSS scores up to 9.2. The team confirmed working exploits against Drupal and WordPress, and the flaws affect nearly every PHP version released in the past decade, back to PHP 5.4.\n\nWiz credits AI tools, including its own Wiz Atlas agent, Google's Gemini 4 Argon and OpenAI's GPT-5.6 Sol, with contributing to discovery, exploit development and patch validation. Wiz found the first bug on August 19 and reported it to the PHP security team on August 24; PHP acknowledged the reports on September 21 and shipped patched releases on October 21."
+      }
     }
   ],
   "upcoming": [],
