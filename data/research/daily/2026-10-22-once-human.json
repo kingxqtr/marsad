@@ -1,7 +1,28 @@
 {
   "topic": "once-human",
   "generatedAt": "2026-10-22",
-  "news": [],
+  "news": [
+    {
+      "id": "oh-meta-hotline-vol-11",
+      "date": "2026-10-22",
+      "type": "community",
+      "importance": 1,
+      "sourceType": "official",
+      "sourceName": "Once Human — Steam News",
+      "url": "https://store.steampowered.com/news/app/2139460/view/1847286114030898",
+      "originalTitle": "Meta Hotline | Hot Feedback and Optimization Progress Vol. 11",
+      "ar": {
+        "title": "Once Human: Meta Hotline الحادي عشر يقر مركبات طيران جديدة وقتالًا جويًا",
+        "summary": "في النشرة الحادية عشرة لـMeta Hotline، أقر فريق Once Human مركبات طيران جديدة وقتالًا جويًا ضمن سيناريو Manibus 2.0 العام المقبل، وإخفاء دبابيس الخريطة تلقائيًا وأثاث البرية، بينما رُفض زر تبديل سريع لشريط الأدوات.",
+        "details": "نشر فريق تطوير Once Human النشرة الحادية عشرة من Meta Hotline في 21 أكتوبر، ردًا على أكثر مقترحات لوحة التغذية الراجعة تصويتًا.\n\nقَبِل الفريق مقترحين ووضعهما ضمن خطة التطوير الجارية: إضافة مزيد من أنواع مركبات الطيران، التي ستصل مع نمط قتال جوي جديد ضمن سيناريو \"Manibus 2.0\" العام المقبل، وإخفاء دبابيس الخريطة تلقائيًا بعد وصول اللاعب إلى وجهته.\n\n- أثاث قابل للاستخدام في البرية: مقبول، ومُخطط له ضمن تطوير العام المقبل.\n- زر تبديل سريع لشريط الأدوات (Hotbar): مرفوض؛ أوضح الفريق أن الشريط والحقيبة الحاليين يغطيان أغلب الحاجات، وأن تخطيط التحكم الحالي لا يحتوي مفاتيح احتياطية لإضافته دون إخلال بتجربة اللعب.\n- رفع سقف وضع المركبات في الكراج: لا يزال قيد التقييم بسبب تأثيره على مساحة الأقاليم وأداء الخوادم.\n- تنبيه عند الوصول لسقف Starchrom من فتح الصناديق: مقبول، ويُتوقع تفعيله بعد تحديث 4 نوفمبر (بتوقيت PT)."
+      },
+      "en": {
+        "title": "Once Human's 11th Meta Hotline: new flight vehicles and aerial combat planned",
+        "summary": "Once Human's 11th Meta Hotline adopts more flight vehicle types and aerial combat for next year's Manibus 2.0 scenario, automatic map-pin clearing and wilderness furniture, while a Hotbar switch button is rejected.",
+        "details": "Once Human's development team published the 11th Meta Hotline on October 21, responding to the top requests ranked on the game's Feedback Platform hot charts.\n\nTwo requests were accepted and moved into active development: more flight vehicle types, which will arrive with new aerial combat gameplay in next year's \"Manibus 2.0\" scenario, and automatic clearing of map pins once a player reaches their destination.\n\n- Wilderness-usable furniture: accepted, planned for next year's development.\n- One-click Hotbar switch button: rejected; the team said the existing hotbar and backpack already cover most needs and the current control layout has no spare keybinds to add it without disrupting gameplay.\n- Higher garage placement limit: still under evaluation due to its effect on territory space and server performance.\n- Starchrom-cap notification when opening crates: accepted, expected after the November 4 (PT) update."
+      }
+    }
+  ],
   "upcoming": [],
   "removeUpcoming": ["oh-upcoming-isles-of-abyss-launch"],
   "removeNews": []
