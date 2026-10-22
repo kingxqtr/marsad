@@ -130,6 +130,28 @@
         "summary": "Nvidia expanded its Cosmos world-model platform with Cosmos Data Factory, an updated Curator tool and new simulation checkpoints to help physical-AI developers build and evaluate models.",
         "details": "Nvidia announced an expansion of its Cosmos world-model platform at GTC Berlin, adding training tools, new simulation checkpoints and Cosmos Data Factory blueprints to help physical-AI systems understand and simulate the real world.\n\nCosmos Data Factory offers five cloud-native blueprints for autonomous-vehicle dataset generation, image attribute augmentation and rare-event video generation, available via GitHub, Microsoft Azure, Nebius and CoreWeave. The Cosmos Curator tool for curating video training data gained support for multimodal, multisensory inputs.\n\nNvidia also extended Cosmos framework training and optimization tools to cover additional open models including GR00T, Alpamayo, Qwen and Pi0.5, added new Cosmos 3 Nano simulation checkpoints for testing autonomous-vehicle and bimanual-robot policies, and updated Cosmos 3 NIM microservices that the company says roughly double inference speed without a quality loss."
       }
+    },
+    {
+      "id": "kittenml-kitten-tts-2-ternary",
+      "date": "2026-10-22",
+      "type": "media",
+      "importance": 1,
+      "sourceType": "official",
+      "sourceName": "Hugging Face (KittenML)",
+      "url": "https://huggingface.co/KittenML/kitten-tts-2",
+      "originalTitle": "KittenTTS 2 model card",
+      "company": "KittenML",
+      "tool": "Kitten-TTS 2",
+      "ar": {
+        "title": "KittenML تطرح Kitten-TTS 2، نموذج تحويل نص إلى كلام بأوزان ثلاثية القيم",
+        "summary": "نشرت KittenML نموذج Kitten-TTS 2 على Hugging Face، نموذج تحويل نص إلى كلام بنحو 1.7 مليار معامل يعمل على المعالج فقط، ويستنسخ الصوت من عيّنة قصيرة، ويدعم 16 لغة.",
+        "details": "نشرت شركة KittenML نموذج Kitten-TTS 2 على منصة Hugging Face، وهو الإصدار الأحدث من نموذجها الصغير لتحويل النص إلى كلام، مع أوزان النموذج ومستودع على GitHub وخادم Discord لأدواته المرتبطة.\n\nيضم النموذج نحو 1.7 مليار معامل ويعتمد أوزانًا ثلاثية القيم، حيث يُخزَّن معظم أوزان الطبقات الخطية كواحدة من ثلاث قيم فقط بمعدل نحو 1.6 بت لكل وزن. وتقول KittenML إن ذلك يتيح تشغيل النموذج بزمن حقيقي على المعالج وحده دون حاجة لمعالج رسومي، عبر محرك استدلال مبني على نسخة معدّلة من llama.cpp.\n\nيأتي Kitten-TTS 2 مزوّدًا بـ115 صوتًا جاهزًا في 16 لغة، ويمكنه استنساخ صوت جديد من عيّنة صوتية تتراوح بين 5 و30 ثانية دون أي ضبط إضافي. وتتيح ميزة تجريبية وضع علامات للعاطفة والتشديد وأحداث صوتية داخل النص للتحكم بطريقة الأداء.\n\nوصدرت أوزان النموذج بموجب رخصة Stellon Labs Community License التي تسمح بالاستخدام البحثي وغير التجاري وبعض الاستخدام التجاري المحدود مجانًا، بينما تخضع حزمة Python المرافقة ونموذج تضمين المتحدث لرخصتي Apache 2.0 وMIT على التوالي."
+      },
+      "en": {
+        "title": "KittenML releases Kitten-TTS 2, a 1.7B ternary-weight voice-cloning model",
+        "summary": "KittenML published Kitten-TTS 2 on Hugging Face, a 1.7B-parameter text-to-speech model that runs on CPU, clones voices from a short sample and supports 16 languages.",
+        "details": "KittenML published Kitten-TTS 2 on Hugging Face, the latest version of its small text-to-speech model, with weights, a GitHub repo and a Discord server for the open-source tooling around it.\n\nThe model has about 1.7 billion parameters and uses ternary weights, where most linear layers store each weight as one of three values packed at roughly 1.6 bits each. KittenML says this lets the model run in real time on a CPU alone, without a GPU, through a companion llama.cpp-based inference engine.\n\nKitten-TTS 2 ships with 115 built-in voices across 16 languages and can clone a new voice from 5 to 30 seconds of reference audio without further fine-tuning. A beta feature lets users mark emotion, emphasis and vocal events in the text to steer delivery.\n\nThe model weights are released under a Stellon Labs Community License that allows free research, non-commercial and limited commercial use, while the companion Python package and speaker-embedding model are Apache 2.0 and MIT licensed."
+      }
     }
   ],
   "upcoming": [],
