@@ -300,6 +300,27 @@
         "summary": "DeepMind's new Forest Typology map classifies every 10-by-10-meter patch of land into a forest or land-use type, going beyond simple tree-cover maps.",
         "details": "Google DeepMind released Forest Typology (ForTy) 2020, a global map that classifies every 10-by-10-meter patch of land into one of six forest or land-use types, such as primary forest, planted forest, plantation or tree crops, rather than just marking whether trees are present.\n\nThe map uses a custom machine-learning model built on AlphaEarth Foundations embeddings, which compress years of satellite observations per pixel. It was trained on about 1.7 million labeled locations from expert surveys and national datasets, and validated against more than 9,000 random sites, reaching 90% accuracy on forest type and 95% on forest-versus-non-forest classification.\n\nAn accompanying time series covering 2017 to 2025 tracks yearly changes, including when natural forests become plantations or farms. DeepMind developed the work with the World Resources Institute and the International Institute for Applied Systems Analysis, and says it is relevant to the EU's deforestation-free products regulation and to deforestation-free supply chains.\n\nThe data is freely available on Google Earth Engine under an open license, with downloads also offered through Figshare."
       }
+    },
+    {
+      "id": "openai-decisions-api-responsive-apps",
+      "date": "2026-10-22",
+      "type": "product",
+      "importance": 1,
+      "sourceType": "official",
+      "sourceName": "OpenAI News",
+      "url": "https://openai.com/index/decisions-api",
+      "originalTitle": "Build more responsive apps with the Decisions API",
+      "company": "OpenAI",
+      "ar": {
+        "title": "OpenAI تشرح كيفية بناء تطبيقات أسرع باستخدام Decisions API",
+        "summary": "نشرت OpenAI دليلاً حول استخدام Decisions API التي تُعيد إجابات مُصنَّفة مثل الاختيارات والنقاط بدلاً من نص حر، لاستجابات أسرع وأقل تكلفة في التطبيقات.",
+        "details": "نشرت OpenAI منشورًا جديدًا حول Decisions API، وهي نقطة وصول مخصّصة صُمّمت للتطبيقات التي تحتاج إجابة سريعة بدلاً من نص مُولَّد.\n\nوبدلاً من إرجاع نص حر، تُجيب الواجهة على أسئلة يحددها المطوّر بإخراجات مُصنَّفة: اختيارات من بين خيارات محددة مسبقًا، أو نقاط تقييم على مقياس رقمي، أو احتمالات تقدّر مدى صحة عبارة ما. وتعمل الواجهة على نموذج GPT-6 Luna من OpenAI، وتقبل إدخال النص والصور معًا.\n\nوتقول OpenAI إن هذا النهج مُخصّص لمهام مثل تصنيف المحتوى وتوجيه الطلبات واختيار الخطوة التالية لوكيل ذكاء اصطناعي، مما يقلّل زمن الاستجابة والتكلفة مقارنة بطلب إجابة مكتوبة من نموذج محادثة عام."
+      },
+      "en": {
+        "title": "OpenAI explains how to build faster apps with its Decisions API",
+        "summary": "OpenAI published a guide on using its Decisions API, which returns typed answers such as choices and scores instead of free-form text for faster, cheaper app responses.",
+        "details": "OpenAI published a new post on its Decisions API, a dedicated endpoint built for apps that need a fast answer rather than generated prose.\n\nInstead of returning free-form text, the API answers developer-defined questions with typed outputs: choices among predefined options, numeric scores against a scale, or predicates estimating whether a statement is true. It runs on OpenAI's GPT-6 Luna model and accepts both text and image input.\n\nOpenAI says the approach is meant for tasks like classifying content, routing requests and choosing an agent's next action, cutting both latency and cost compared with asking a general chat model to write out an answer."
+      }
     }
   ],
   "upcoming": [],
