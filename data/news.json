@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": "2026-10-22T07:12:02+00:00",
+ "updatedAt": "2026-10-22T08:12:32+00:00",
  "coverage": {
   "from": "2026-07-22",
   "to": "2026-10-22"
@@ -1741,6 +1741,28 @@
   },
   "ai": {
    "news": [
+    {
+     "id": "nvidia-cosmos-data-factory-world-models",
+     "date": "2026-10-22",
+     "type": "product",
+     "importance": 1,
+     "sourceType": "official",
+     "sourceName": "NVIDIA Blog",
+     "url": "https://blogs.nvidia.com/blog/cosmos-open-train-evaluate-deploy-world-models/",
+     "originalTitle": "NVIDIA Cosmos Opens New Tools to Train, Evaluate and Deploy World Models",
+     "company": "Nvidia",
+     "ar": {
+      "title": "Nvidia تضيف أدوات جديدة لمنصة Cosmos لبناء نماذج العالم",
+      "summary": "وسّعت Nvidia منصة Cosmos لنماذج العالم بإضافة Cosmos Data Factory وتحديث لأداة التجميع Curator ونقاط تفتيش محاكاة جديدة، لمساعدة مطوري الذكاء الاصطناعي الفعلي على بناء وتقييم نماذجهم.",
+      "details": "أعلنت Nvidia في مؤتمر GTC ببرلين عن توسيع منصة Cosmos لنماذج العالم (World Models)، التي تساعد أنظمة الذكاء الاصطناعي الفعلي على فهم العالم الحقيقي ومحاكاته، بإضافة أدوات تدريب ونقاط تفتيش محاكاة جديدة ومخططات Cosmos Data Factory.\n\nتوفر Cosmos Data Factory خمسة مخططات جاهزة للسحابة لتوليد بيانات سيارات القيادة الذاتية، وتنويع خصائص الصور، وتوليد مقاطع فيديو لأحداث نادرة، متاحة عبر GitHub وMicrosoft Azure وNebius وCoreWeave. كما أضافت أداة Cosmos Curator المخصصة لتنقية بيانات الفيديو دعمًا لمدخلات متعددة الوسائط والحساسات.\n\nووسّعت Nvidia أدوات التدريب والتحسين ضمن إطار Cosmos لتشمل نماذج مفتوحة إضافية مثل GR00T وAlpamayo وQwen وPi0.5، إلى جانب نقاط تفتيش محاكاة جديدة من فئة Cosmos 3 Nano لاختبار سياسات السيارات الذاتية والروبوتات ثنائية الذراع، وتحديث لخدمات Cosmos 3 NIM تدّعي الشركة أنه يضاعف سرعة الاستدلال دون خسارة في الدقة."
+     },
+     "en": {
+      "title": "Nvidia adds new tools to Cosmos world-model platform",
+      "summary": "Nvidia expanded its Cosmos world-model platform with Cosmos Data Factory, an updated Curator tool and new simulation checkpoints to help physical-AI developers build and evaluate models.",
+      "details": "Nvidia announced an expansion of its Cosmos world-model platform at GTC Berlin, adding training tools, new simulation checkpoints and Cosmos Data Factory blueprints to help physical-AI systems understand and simulate the real world.\n\nCosmos Data Factory offers five cloud-native blueprints for autonomous-vehicle dataset generation, image attribute augmentation and rare-event video generation, available via GitHub, Microsoft Azure, Nebius and CoreWeave. The Cosmos Curator tool for curating video training data gained support for multimodal, multisensory inputs.\n\nNvidia also extended Cosmos framework training and optimization tools to cover additional open models including GR00T, Alpamayo, Qwen and Pi0.5, added new Cosmos 3 Nano simulation checkpoints for testing autonomous-vehicle and bimanual-robot policies, and updated Cosmos 3 NIM microservices that the company says roughly double inference speed without a quality loss."
+     },
+     "addedAt": "2026-10-22T08:12:32+00:00"
+    },
     {
      "id": "php2shell-ai-rce-wiz-openai",
      "date": "2026-10-21",
