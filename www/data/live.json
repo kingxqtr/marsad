@@ -1,6 +1,26 @@
 {
- "updatedAt": "2026-10-22T14:29:33+00:00",
+ "updatedAt": "2026-10-22T15:06:53+00:00",
  "items": [
+  {
+   "id": "auto-b13209dfdab7",
+   "tab": "ai",
+   "date": "2026-10-22",
+   "publishedAt": "2026-10-22T14:30:24+00:00",
+   "type": "product",
+   "importance": 1,
+   "sourceType": "official",
+   "sourceName": "Google DeepMind Blog",
+   "url": "https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types/",
+   "originalTitle": "Beyond tree cover: mapping the world’s forest types",
+   "en": {
+    "title": "Beyond tree cover: mapping the world’s forest types",
+    "summary": "A global map categorizing every 10-meter patch of land on Earth into distinct forest types.",
+    "details": "A global map categorizing every 10-meter patch of land on Earth into distinct forest types."
+   },
+   "translated": false,
+   "fetchedAt": "2026-10-22T15:06:48+00:00",
+   "company": "Google"
+  },
   {
    "id": "auto-464216cb4c85",
    "tab": "ai",
