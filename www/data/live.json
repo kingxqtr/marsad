@@ -1,24 +1,4 @@
 {
- "updatedAt": "2026-10-22T02:50:45+00:00",
- "items": [
-  {
-   "id": "auto-9a0351e1278e",
-   "tab": "once-human",
-   "date": "2026-10-22",
-   "publishedAt": "2026-10-22T02:11:40+00:00",
-   "type": "update",
-   "importance": 1,
-   "sourceType": "official",
-   "sourceName": "Once Human — Steam News",
-   "url": "https://store.steampowered.com/news/app/2139460/view/1847286114030898",
-   "originalTitle": "Meta Hotline | Hot Feedback and Optimization Progress Vol. 11",
-   "en": {
-    "title": "Meta Hotline | Hot Feedback and Optimization Progress Vol. 11",
-    "summary": "Meta Hotline | Hot Feedback and Optimization Progress Vol. 11 Dear Metas, After the v2.3.7 update, we added the Feedback Hot Charts section to the Once Human Feedback Platform, listing recent popular requests from the community.",
-    "details": "Meta Hotline | Hot Feedback and Optimization Progress Vol. 11\n\nDear Metas,\n\nAfter the v2.3.7 update, we added the Feedback Hot Charts section to the Once Human Feedback Platform, listing recent popular requests from the community. After logging in to the Feedback Platform, you can like the feedback you support and dislike any feedback you disagree with. The Feedback Hot Charts will display the likes and dislikes of each piece of feedback in real time, and our development team will reference it when deciding on future development priorities. (Feedback Platform link: Once Human Feedback Platform )\n\nWith each version update, the Feedback Hot Charts will also be updated, after which we will announce our optimization plans and progress for issues that charted during the previous cycle. Your suggestions are important to us, and we hope the Feedback Hot Charts will help us communicate and share our development plans and progress more openly.\n\nToday is the release day of the 11th Meta Hotline! As of October 21, the Feedback Hot Charts standings are as follows:\n\nThank you all for taking part. Every piece of feedback, every like, and every dislike helps the dev team better understand which needs matter most from the player perspective. Below are the follow-up details for this cycle's top suggestions.\n\n\\ Add more flight vehicle types …"
-   },
-   "translated": false,
-   "fetchedAt": "2026-10-22T02:15:43+00:00"
-  }
- ]
+ "updatedAt": "2026-10-22T03:21:15+00:00",
+ "items": []
 }
