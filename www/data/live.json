@@ -1,6 +1,26 @@
 {
- "updatedAt": "2026-10-22T07:49:13+00:00",
+ "updatedAt": "2026-10-22T08:23:47+00:00",
  "items": [
+  {
+   "id": "auto-b600f6ebddd7",
+   "tab": "ai",
+   "date": "2026-10-22",
+   "publishedAt": "2026-10-22T07:51:31+00:00",
+   "type": "product",
+   "importance": 1,
+   "sourceType": "official",
+   "sourceName": "Hugging Face Blog",
+   "url": "https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1",
+   "originalTitle": "Ensemble forecasting with IBM Granite time-series models",
+   "en": {
+    "title": "Ensemble forecasting with IBM Granite time-series models",
+    "summary": "Ensemble forecasting with IBM Granite time-series models",
+    "details": ""
+   },
+   "translated": false,
+   "fetchedAt": "2026-10-22T08:23:43+00:00",
+   "company": "Hugging Face"
+  },
   {
    "id": "auto-464216cb4c85",
    "tab": "ai",
@@ -16,26 +36,6 @@
     "title": "Leading European Financial Services Organizations Embrace Open Models to Build Proprietary Intelligence",
     "summary": "At GTC Berlin, banks, payment companies and financial data providers are showing what production-scale intelligence looks like — built on NVIDIA accelerated computing, powered by open weight models and running on their own infrastructure.",
     "details": "At GTC Berlin, banks, payment companies and financial data providers are showing what production-scale intelligence looks like — built on NVIDIA accelerated computing, powered by open weight models and running on their own infrastructure.\n\nRevolut is rebuilding its technology stack on a single foundation model PRAGMA , powered by NVIDIA accelerated computing. Using the NVIDIA cuDF toolkit and Dynamo-Triton software on NVIDIA Blackwell Ultra GPUs , Revolut is scaling PRAGMA in production, servicing an initial 80 million customers and engineered to scale 3x.\n\n“Revolut processes billions of transactions — the opportunity was always there, but the question was whether foundation models could operate at that scale and across domains. PRAGMA answers that,” said Pavel Nesterov, head of AI at Revolut. “Built in collaboration with NVIDIA, it’s the clearest proof yet that the gap between a research breakthrough and a production banking system can be closed.”\n\nRead All NVIDIA in Europe Announcements\n\nTraining on Accelerated Infrastructure\n\nStarling Bank , the first bank to train an agentic model on U.K. sovereign cloud infrastructure, has developed “Starling Intelligence” — the intelligence layer that underpins its AI capability — on Civo’s U.K. cloud using the bank’s own transaction data. …"
-   },
-   "translated": false,
-   "fetchedAt": "2026-10-22T05:47:21+00:00",
-   "company": "NVIDIA"
-  },
-  {
-   "id": "auto-9ba2dfad5ba2",
-   "tab": "ai",
-   "date": "2026-10-22",
-   "publishedAt": "2026-10-22T05:00:27+00:00",
-   "type": "coding",
-   "importance": 1,
-   "sourceType": "official",
-   "sourceName": "NVIDIA Blog",
-   "url": "https://blogs.nvidia.com/blog/cosmos-open-train-evaluate-deploy-world-models/",
-   "originalTitle": "NVIDIA Cosmos Opens New Tools to Train, Evaluate and Deploy World Models",
-   "en": {
-    "title": "NVIDIA Cosmos Opens New Tools to Train, Evaluate and Deploy World Models",
-    "summary": "To help developers rapidly build world models , which help physical AI systems understand and simulate the real world, NVIDIA has expanded the Cosmos platform with new training tools, simulation checkpoints and Cosmos Data Factory …",
-    "details": "To help developers rapidly build world models , which help physical AI systems understand and simulate the real world, NVIDIA has expanded the Cosmos platform with new training tools, simulation checkpoints and Cosmos Data Factory blueprints.\n\nRanking top five on six different open models leaderboards, the NVIDIA Cosmos platform gives world model builders the frontier open models — as well as data, training and optimization tools and recipes — to scale training data, adapt models, test behavior and optimize for performance before deployment.\n\nBuild Better Training Data\n\nBuilding world models begins with multimodal, multisensory data.\n\nNVIDIA Cosmos Data Factory brings together the tools and skills for labeling, curating, augmenting and evaluating data at scale for training physical AI. Cosmos Curator, a GPU-accelerated solution for curating video training datasets, has now added support for multimodal multisensory inputs and processing blocks.\n\nRead All NVIDIA in Europe Announcements\n\nCosmos Data Factory now offers the following five cloud-native blueprints and is available through GitHub , Microsoft Azure , Nebius and CoreWeave :\n\n- Autonomous Vehicle Dataset Generation: Curates and labels driving data, then adds synthetic examples of hard-to-capture scenarios to expand training coverage.\n\n- Image Attribute Augmentation: Varies object appearance to improve image search.\n\n- Event Video Generation: Turns still images into synthetic videos of rare or unsafe events. …"
    },
    "translated": false,
    "fetchedAt": "2026-10-22T05:47:21+00:00",
