@@ -1,6 +1,106 @@
 {
- "updatedAt": "2026-10-22T05:10:34+00:00",
+ "updatedAt": "2026-10-22T05:47:26+00:00",
  "items": [
+  {
+   "id": "auto-464216cb4c85",
+   "tab": "ai",
+   "date": "2026-10-22",
+   "publishedAt": "2026-10-22T05:00:56+00:00",
+   "type": "hardware",
+   "importance": 1,
+   "sourceType": "official",
+   "sourceName": "NVIDIA Blog",
+   "url": "https://blogs.nvidia.com/blog/european-financial-services-organizations-open-models-proprietary-intelligence/",
+   "originalTitle": "Leading European Financial Services Organizations Embrace Open Models to Build Proprietary Intelligence",
+   "en": {
+    "title": "Leading European Financial Services Organizations Embrace Open Models to Build Proprietary Intelligence",
+    "summary": "At GTC Berlin, banks, payment companies and financial data providers are showing what production-scale intelligence looks like — built on NVIDIA accelerated computing, powered by open weight models and running on their own infrastructure.",
+    "details": "At GTC Berlin, banks, payment companies and financial data providers are showing what production-scale intelligence looks like — built on NVIDIA accelerated computing, powered by open weight models and running on their own infrastructure.\n\nRevolut is rebuilding its technology stack on a single foundation model PRAGMA , powered by NVIDIA accelerated computing. Using the NVIDIA cuDF toolkit and Dynamo-Triton software on NVIDIA Blackwell Ultra GPUs , Revolut is scaling PRAGMA in production, servicing an initial 80 million customers and engineered to scale 3x.\n\n“Revolut processes billions of transactions — the opportunity was always there, but the question was whether foundation models could operate at that scale and across domains. PRAGMA answers that,” said Pavel Nesterov, head of AI at Revolut. “Built in collaboration with NVIDIA, it’s the clearest proof yet that the gap between a research breakthrough and a production banking system can be closed.”\n\nRead All NVIDIA in Europe Announcements\n\nTraining on Accelerated Infrastructure\n\nStarling Bank , the first bank to train an agentic model on U.K. sovereign cloud infrastructure, has developed “Starling Intelligence” — the intelligence layer that underpins its AI capability — on Civo’s U.K. cloud using the bank’s own transaction data. …"
+   },
+   "translated": false,
+   "fetchedAt": "2026-10-22T05:47:21+00:00",
+   "company": "NVIDIA"
+  },
+  {
+   "id": "auto-9ba2dfad5ba2",
+   "tab": "ai",
+   "date": "2026-10-22",
+   "publishedAt": "2026-10-22T05:00:27+00:00",
+   "type": "coding",
+   "importance": 1,
+   "sourceType": "official",
+   "sourceName": "NVIDIA Blog",
+   "url": "https://blogs.nvidia.com/blog/cosmos-open-train-evaluate-deploy-world-models/",
+   "originalTitle": "NVIDIA Cosmos Opens New Tools to Train, Evaluate and Deploy World Models",
+   "en": {
+    "title": "NVIDIA Cosmos Opens New Tools to Train, Evaluate and Deploy World Models",
+    "summary": "To help developers rapidly build world models , which help physical AI systems understand and simulate the real world, NVIDIA has expanded the Cosmos platform with new training tools, simulation checkpoints and Cosmos Data Factory …",
+    "details": "To help developers rapidly build world models , which help physical AI systems understand and simulate the real world, NVIDIA has expanded the Cosmos platform with new training tools, simulation checkpoints and Cosmos Data Factory blueprints.\n\nRanking top five on six different open models leaderboards, the NVIDIA Cosmos platform gives world model builders the frontier open models — as well as data, training and optimization tools and recipes — to scale training data, adapt models, test behavior and optimize for performance before deployment.\n\nBuild Better Training Data\n\nBuilding world models begins with multimodal, multisensory data.\n\nNVIDIA Cosmos Data Factory brings together the tools and skills for labeling, curating, augmenting and evaluating data at scale for training physical AI. Cosmos Curator, a GPU-accelerated solution for curating video training datasets, has now added support for multimodal multisensory inputs and processing blocks.\n\nRead All NVIDIA in Europe Announcements\n\nCosmos Data Factory now offers the following five cloud-native blueprints and is available through GitHub , Microsoft Azure , Nebius and CoreWeave :\n\n- Autonomous Vehicle Dataset Generation: Curates and labels driving data, then adds synthetic examples of hard-to-capture scenarios to expand training coverage.\n\n- Image Attribute Augmentation: Varies object appearance to improve image search.\n\n- Event Video Generation: Turns still images into synthetic videos of rare or unsafe events. …"
+   },
+   "translated": false,
+   "fetchedAt": "2026-10-22T05:47:21+00:00",
+   "company": "NVIDIA"
+  },
+  {
+   "id": "auto-6c160f2e23fb",
+   "tab": "ai",
+   "date": "2026-10-22",
+   "publishedAt": "2026-10-22T05:00:25+00:00",
+   "type": "hardware",
+   "importance": 1,
+   "sourceType": "official",
+   "sourceName": "NVIDIA Blog",
+   "url": "https://blogs.nvidia.com/blog/dsx-power/",
+   "originalTitle": "How Companies Are Using NVIDIA DSX to Break the Power Bottleneck",
+   "en": {
+    "title": "How Companies Are Using NVIDIA DSX to Break the Power Bottleneck",
+    "summary": "Companies around the world are building on the NVIDIA DSX AI Factory Platform to plan, simulate and run the grid and the AI factory as one system, from the substation to the rack.",
+    "details": "Companies around the world are building on the NVIDIA DSX AI Factory Platform to plan, simulate and run the grid and the AI factory as one system, from the substation to the rack. Their adoption of the platform responds to an acute problem.\n\nPower is now the biggest bottleneck in infrastructure. More than $300 billion in equipment is backlogged, and over 200 gigawatts of projects are waiting in U.S. interconnection queues.\n\nOne root cause of the bottleneck is siloed systems. The grid, the facility and the compute inside have long been designed independently from one another, creating the conditions for delays, risk and stranded capacity.\n\nRead All NVIDIA in Europe Announcements\n\nTo help address this, NVIDIA DSX brings these systems together:\n\n- NVIDIA DSX Sim and SimReady assets from leading energy manufacturers let engineers simulate the grid, substation and AI factory together, validating generators, switchgear, power systems and cooling before breaking ground.\n\n- NVIDIA DSX Flex syncs AI factory demand with grid conditions and onsite generation, turning AI factories from static loads into flexible grid assets.\n\n- NVIDIA DSX MaxLPS and DSX Exchange squeeze more compute from every watt and securely share signals across compute, networking, energy, cooling and operations. …"
+   },
+   "translated": false,
+   "fetchedAt": "2026-10-22T05:47:21+00:00",
+   "company": "NVIDIA"
+  },
+  {
+   "id": "auto-b6b601299c91",
+   "tab": "ai",
+   "date": "2026-10-22",
+   "publishedAt": "2026-10-22T05:00:23+00:00",
+   "type": "hardware",
+   "importance": 1,
+   "sourceType": "official",
+   "sourceName": "NVIDIA Blog",
+   "url": "https://blogs.nvidia.com/blog/european-retail-open-models-robotics/",
+   "originalTitle": "NVIDIA Transforms European Retail, From Digital Discovery to Physical Operations",
+   "en": {
+    "title": "NVIDIA Transforms European Retail, From Digital Discovery to Physical Operations",
+    "summary": "European retailers are using open models and physical intelligence across use cases — from a commerce platform cutting inference costs by 90% to to a fulfillment center where collaboration of different robotic fleets is simulated inside a …",
+    "details": "European retailers are using open models and physical intelligence across use cases — from a commerce platform cutting inference costs by 90% to to a fulfillment center where collaboration of different robotic fleets is simulated inside a digital twin.\n\nFrontier Results With Open Models\n\nRetail leaders and technology companies across Europe are using NVIDIA-accelerated open and frontier models to advance agentic commerce, digital product discovery and retail R&D.\n\nShopify post-trains open models to reach frontier-level accuracy at a fraction of the cost. Its engineers use the NVIDIA Megatron Bridge library for faster fine-tuning and NVIDIA NeMo RL for reinforcement learning. Shopify has post-trained NVIDIA Nemotron 3.5 Lightning for the GraphQL subagent integrated into Sidekick, Shopify’s AI assistant for merchants. The subagent retrieves store data for several Sidekick features, including Sidekick Pulse, which researches a merchant’s store and recommends ways to improve it.\n\nRead All NVIDIA in Europe Announcements …"
+   },
+   "translated": false,
+   "fetchedAt": "2026-10-22T05:47:21+00:00",
+   "company": "NVIDIA"
+  },
+  {
+   "id": "auto-ccb862ff26e1",
+   "tab": "ai",
+   "date": "2026-10-22",
+   "publishedAt": "2026-10-22T05:00:19+00:00",
+   "type": "coding",
+   "importance": 1,
+   "sourceType": "official",
+   "sourceName": "NVIDIA Blog",
+   "url": "https://blogs.nvidia.com/blog/europe-earth-2-open-models-weather-climate-prediction/",
+   "originalTitle": "Pioneers Across Europe Deploy NVIDIA Earth-2 Open Models to Power Real-World Weather and Climate Prediction",
+   "en": {
+    "title": "Pioneers Across Europe Deploy NVIDIA Earth-2 Open Models to Power Real-World Weather and Climate Prediction",
+    "summary": "Weather forecasts shape more than daily plans; timely weather information is crucial for energy producers, insurers and transport operators to plan around changing conditions.",
+    "details": "Weather forecasts shape more than daily plans; timely weather information is crucial for energy producers, insurers and transport operators to plan around changing conditions. A global forecast can show a storm taking shape, but decisions about solar farms, shipping routes or insured property depend on what happens locally.\n\nNVIDIA Earth-2 gives developers and researchers a family of open AI models and tools they can customize with their own data. Running on NVIDIA computing, these technologies support global weather prediction, detailed regional forecasts and environmental research.\n\nRead All NVIDIA in Europe Announcements\n\nStormScope EU is the latest model to join Earth-2 — a regional version of the StormScope model for short-term forecasting, trained over Europe weather and climate data. It uses EUMETSAT satellite observations to predict evolving cloud conditions across 16 Meteosat channels at 10-minute intervals.\n\nAt GTC Berlin, NVIDIA is showcasing a live StormScope EU pipeline in an interactive weather demo built in partnership with Earthmover . The demo uses Earth2Studio to run forecasts and Earthmover’s data platform to manage and serve the real-time results, which are updated as soon as new satellite observations come in, every 10 minutes. Earthmover serves these results as map tiles, letting visitors explore predictions across Europe without downloading entire datasets. …"
+   },
+   "translated": false,
+   "fetchedAt": "2026-10-22T05:47:21+00:00",
+   "company": "NVIDIA"
+  },
   {
    "id": "auto-d723c5753306",
    "tab": "ai",
