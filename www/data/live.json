@@ -1,26 +1,6 @@
 {
- "updatedAt": "2026-10-22T20:09:59+00:00",
+ "updatedAt": "2026-10-22T20:38:10+00:00",
  "items": [
-  {
-   "id": "auto-dcda7f17304c",
-   "tab": "ai",
-   "date": "2026-10-22",
-   "publishedAt": "2026-10-22T19:00:00+00:00",
-   "type": "coding",
-   "importance": 1,
-   "sourceType": "official",
-   "sourceName": "OpenAI News",
-   "url": "https://openai.com/index/decisions-api",
-   "originalTitle": "Build more responsive apps with the Decisions API",
-   "en": {
-    "title": "Build more responsive apps with the Decisions API",
-    "summary": "Fast, focused, low-cost decisions for any application.",
-    "details": "Fast, focused, low-cost decisions for any application."
-   },
-   "translated": false,
-   "fetchedAt": "2026-10-22T20:09:54+00:00",
-   "company": "OpenAI"
-  },
   {
    "id": "auto-464216cb4c85",
    "tab": "ai",
