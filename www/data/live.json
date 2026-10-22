@@ -1,86 +1,6 @@
 {
- "updatedAt": "2026-10-22T17:55:11+00:00",
+ "updatedAt": "2026-10-22T18:20:29+00:00",
  "items": [
-  {
-   "id": "auto-9300a4f90515",
-   "tab": "ai",
-   "date": "2026-10-22",
-   "publishedAt": "2026-10-22T16:28:24+00:00",
-   "type": "coding",
-   "importance": 1,
-   "sourceType": "official",
-   "sourceName": "GitHub Changelog",
-   "url": "https://github.blog/changelog/2026-10-22-industry-comparisons-in-the-copilot-impact-dashboard",
-   "originalTitle": "Industry comparisons in the Copilot impact dashboard",
-   "en": {
-    "title": "Industry comparisons in the Copilot impact dashboard",
-    "summary": "The Copilot impact dashboard now includes an “Industry comparison” section.",
-    "details": "The Copilot impact dashboard now includes an “Industry comparison” section. Enterprises, and organizations that aren’t owned by an enterprise, can compare their Copilot agentic adoption and leverage with aggregated benchmarks from participating peers. Participation is opt-in and disabled by default.\n\nWhat’s new\n\n- Agentic adoption and leverage benchmarks — See the percentage of your users who are agent-first or multi-agent, and how the pull request merge rate of agentic users compares with nonagentic users. Once enough businesses have opted in, each score is ranked against the peer median for the 28-day reporting period and against the top decile as the peer group grows.\n\n- Peer groups by company size and industry — Choose a company size (e.g., 1–999, 1,000–4,999, or 5,000+ employees) and one of ten industries, then switch between your industry and all industries. If your industry’s peer group is too small, the comparison widens to all industries for your company size, and the dashboard labels the peer group it used.\n\n- Copilot metrics industry comparison policy — Opt in from the dashboard or centrally from your enterprise or organization Copilot policies. Both places use the same policy, so turning it off in either place stops both contributing data and seeing comparisons.\n\nWhy this matters …"
-   },
-   "translated": false,
-   "fetchedAt": "2026-10-22T17:20:57+00:00",
-   "company": "GitHub"
-  },
-  {
-   "id": "auto-4a256118a724",
-   "tab": "ai",
-   "date": "2026-10-22",
-   "publishedAt": "2026-10-22T00:00:00+00:00",
-   "type": "product",
-   "importance": 1,
-   "sourceType": "official",
-   "sourceName": "OpenAI News",
-   "url": "https://openai.com/index/uber-chatgpt-work-rollout",
-   "originalTitle": "Uber brings ChatGPT Work to all employees with OpenAI",
-   "en": {
-    "title": "Uber brings ChatGPT Work to all employees with OpenAI",
-    "summary": "Uber is rolling out ChatGPT Work to more than 30,000 employees, helping teams research, analyze data, create presentations, and complete complex workflows.",
-    "details": "Uber is rolling out ChatGPT Work to more than 30,000 employees, helping teams research, analyze data, create presentations, and complete complex workflows."
-   },
-   "translated": false,
-   "fetchedAt": "2026-10-22T16:50:43+00:00",
-   "company": "OpenAI"
-  },
-  {
-   "id": "auto-d357653ad528",
-   "tab": "ai",
-   "date": "2026-10-22",
-   "publishedAt": "2026-10-22T16:11:31+00:00",
-   "type": "product",
-   "importance": 1,
-   "sourceType": "official",
-   "sourceName": "Hugging Face Blog",
-   "url": "https://huggingface.co/blog/allenai/olmoearth-v1-3",
-   "originalTitle": "OlmoEarth v1.3: State-of-the-art embeddings for the whole planet",
-   "en": {
-    "title": "OlmoEarth v1.3: State-of-the-art embeddings for the whole planet",
-    "summary": "OlmoEarth v1.3: State-of-the-art embeddings for the whole planet",
-    "details": ""
-   },
-   "translated": false,
-   "fetchedAt": "2026-10-22T16:13:13+00:00",
-   "company": "Hugging Face"
-  },
-  {
-   "id": "auto-b13209dfdab7",
-   "tab": "ai",
-   "date": "2026-10-22",
-   "publishedAt": "2026-10-22T14:30:24+00:00",
-   "type": "product",
-   "importance": 1,
-   "sourceType": "official",
-   "sourceName": "Google DeepMind Blog",
-   "url": "https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types/",
-   "originalTitle": "Beyond tree cover: mapping the world’s forest types",
-   "en": {
-    "title": "Beyond tree cover: mapping the world’s forest types",
-    "summary": "A global map categorizing every 10-meter patch of land on Earth into distinct forest types.",
-    "details": "A global map categorizing every 10-meter patch of land on Earth into distinct forest types."
-   },
-   "translated": false,
-   "fetchedAt": "2026-10-22T15:06:48+00:00",
-   "company": "Google"
-  },
   {
    "id": "auto-464216cb4c85",
    "tab": "ai",
@@ -136,26 +56,6 @@
     "title": "NVIDIA Transforms European Retail, From Digital Discovery to Physical Operations",
     "summary": "European retailers are using open models and physical intelligence across use cases — from a commerce platform cutting inference costs by 90% to to a fulfillment center where collaboration of different robotic fleets is simulated inside a …",
     "details": "European retailers are using open models and physical intelligence across use cases — from a commerce platform cutting inference costs by 90% to to a fulfillment center where collaboration of different robotic fleets is simulated inside a digital twin.\n\nFrontier Results With Open Models\n\nRetail leaders and technology companies across Europe are using NVIDIA-accelerated open and frontier models to advance agentic commerce, digital product discovery and retail R&D.\n\nShopify post-trains open models to reach frontier-level accuracy at a fraction of the cost. Its engineers use the NVIDIA Megatron Bridge library for faster fine-tuning and NVIDIA NeMo RL for reinforcement learning. Shopify has post-trained NVIDIA Nemotron 3.5 Lightning for the GraphQL subagent integrated into Sidekick, Shopify’s AI assistant for merchants. The subagent retrieves store data for several Sidekick features, including Sidekick Pulse, which researches a merchant’s store and recommends ways to improve it.\n\nRead All NVIDIA in Europe Announcements …"
-   },
-   "translated": false,
-   "fetchedAt": "2026-10-22T05:47:21+00:00",
-   "company": "NVIDIA"
-  },
-  {
-   "id": "auto-ccb862ff26e1",
-   "tab": "ai",
-   "date": "2026-10-22",
-   "publishedAt": "2026-10-22T05:00:19+00:00",
-   "type": "coding",
-   "importance": 1,
-   "sourceType": "official",
-   "sourceName": "NVIDIA Blog",
-   "url": "https://blogs.nvidia.com/blog/europe-earth-2-open-models-weather-climate-prediction/",
-   "originalTitle": "Pioneers Across Europe Deploy NVIDIA Earth-2 Open Models to Power Real-World Weather and Climate Prediction",
-   "en": {
-    "title": "Pioneers Across Europe Deploy NVIDIA Earth-2 Open Models to Power Real-World Weather and Climate Prediction",
-    "summary": "Weather forecasts shape more than daily plans; timely weather information is crucial for energy producers, insurers and transport operators to plan around changing conditions.",
-    "details": "Weather forecasts shape more than daily plans; timely weather information is crucial for energy producers, insurers and transport operators to plan around changing conditions. A global forecast can show a storm taking shape, but decisions about solar farms, shipping routes or insured property depend on what happens locally.\n\nNVIDIA Earth-2 gives developers and researchers a family of open AI models and tools they can customize with their own data. Running on NVIDIA computing, these technologies support global weather prediction, detailed regional forecasts and environmental research.\n\nRead All NVIDIA in Europe Announcements\n\nStormScope EU is the latest model to join Earth-2 — a regional version of the StormScope model for short-term forecasting, trained over Europe weather and climate data. It uses EUMETSAT satellite observations to predict evolving cloud conditions across 16 Meteosat channels at 10-minute intervals.\n\nAt GTC Berlin, NVIDIA is showcasing a live StormScope EU pipeline in an interactive weather demo built in partnership with Earthmover . The demo uses Earth2Studio to run forecasts and Earthmover’s data platform to manage and serve the real-time results, which are updated as soon as new satellite observations come in, every 10 minutes. Earthmover serves these results as map tiles, letting visitors explore predictions across Europe without downloading entire datasets. …"
    },
    "translated": false,
    "fetchedAt": "2026-10-22T05:47:21+00:00",
