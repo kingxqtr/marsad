@@ -1,6 +1,26 @@
 {
- "updatedAt": "2026-10-22T20:38:10+00:00",
+ "updatedAt": "2026-10-22T21:10:26+00:00",
  "items": [
+  {
+   "id": "auto-5930328bc287",
+   "tab": "ai",
+   "date": "2026-10-22",
+   "publishedAt": "2026-10-22T20:44:28+00:00",
+   "type": "coding",
+   "importance": 1,
+   "sourceType": "official",
+   "sourceName": "GitHub Changelog",
+   "url": "https://github.blog/changelog/2026-10-22-global-default-for-copilot-features-generally-available",
+   "originalTitle": "Global default for Copilot features generally available",
+   "en": {
+    "title": "Global default for Copilot features generally available",
+    "summary": "In September, we announced a global default policy for generally available GitHub Copilot features and supported client capabilities on Copilot Business and Copilot Enterprise plans.",
+    "details": "In September, we announced a global default policy for generally available GitHub Copilot features and supported client capabilities on Copilot Business and Copilot Enterprise plans. Starting today, we’re gradually rolling out enforcement of the policy through October 26, so it may take effect at different times for different enterprises and organizations. Eligible features left unconfigured will be set according to the global policy. Administrators can still make explicit choices for individual features at any time.\n\nThe policy applies to eligible settings on “Features & clients” and “MCP servers in Copilot”. You can review your setting under AI Controls → Copilot → Default policy for new features . For eligibility and exceptions, see the documentation on default availability .\n\nWhat’s changing\n\nOnce the policy takes effect for your enterprise or organization:\n\n- Eligible generally available features and capabilities left Unconfigured will be set according to the selected global default of Enabled , Disabled , or Let organizations decide . This is a one-time change. Subsequent changes to the default policy won’t change feature policies that are already set.\n\n- Explicit choices are preserved. If you’ve enabled or disabled an individual feature, the rollout won’t change that setting. …"
+   },
+   "translated": false,
+   "fetchedAt": "2026-10-22T21:10:22+00:00",
+   "company": "GitHub"
+  },
   {
    "id": "auto-464216cb4c85",
    "tab": "ai",
