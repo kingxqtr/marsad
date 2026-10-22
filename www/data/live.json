@@ -1,4 +1,25 @@
 {
- "updatedAt": "2026-10-22T04:35:18+00:00",
- "items": []
+ "updatedAt": "2026-10-22T05:10:34+00:00",
+ "items": [
+  {
+   "id": "auto-d723c5753306",
+   "tab": "ai",
+   "date": "2026-10-22",
+   "publishedAt": "2026-10-22T05:00:02+00:00",
+   "type": "policy",
+   "importance": 1,
+   "sourceType": "official",
+   "sourceName": "NVIDIA Blog",
+   "url": "https://blogs.nvidia.com/blog/european-public-sector-open-models/",
+   "originalTitle": "NVIDIA Open Models Power a New Wave of European Public Sector Projects",
+   "en": {
+    "title": "NVIDIA Open Models Power a New Wave of European Public Sector Projects",
+    "summary": "Governments need modern solutions to serve the public while keeping sensitive information under their control.",
+    "details": "Governments need modern solutions to serve the public while keeping sensitive information under their control.\n\nOpen models provide a path forward, letting governments evaluate them, adapt them to local languages and public services, run them on infrastructure they control, apply their own safeguards and keep sensitive data within controlled environments. Some open models go further, with the datasets they were trained on published so governments can verify if training data was licensed, biased or compliant.\n\nNVIDIA partners and European governments are teaming to bring advanced models to boost the efficiency of public administration while retaining control of data and infrastructure.\n\nSeveral are also building editions of the NVIDIA Nemotron-Personas collection , the partner-grounded datasets behind NeMo User Sim , NVIDIA’s open source library for population-scale user simulation that dynamically evaluates and trains models and agents in local languages.\n\nRead All NVIDIA in Europe Announcements\n\nEuropean Commission: Scaling Governed AI Applications\n\nBerlin-based software company deepset is expanding its Haystack Enterprise Platform , the foundation of AI@EC, the European Commission’s shared platform for building and running AI applications on commission-managed infrastructure.\n\nThe update connects agent development, execution, optimization and governance for all customers, adding capabilities to compare operating costs, evaluate answer quality and trace problems. …"
+   },
+   "translated": false,
+   "fetchedAt": "2026-10-22T05:10:29+00:00",
+   "company": "NVIDIA"
+  }
+ ]
 }
