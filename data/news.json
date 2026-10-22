@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": "2026-10-22T20:12:10+00:00",
+ "updatedAt": "2026-10-22T21:13:00+00:00",
  "coverage": {
   "from": "2026-07-22",
   "to": "2026-10-22"
@@ -853,6 +853,27 @@
   },
   "star-citizen": {
    "news": [
+    {
+     "id": "sc-roadmap-roundup-oct21-brows-intersec",
+     "date": "2026-10-21",
+     "type": "development",
+     "importance": 1,
+     "sourceType": "official",
+     "sourceName": "RSI Comm-Link",
+     "url": "https://robertsspaceindustries.com/comm-link/transmission/21390-Roadmap-Roundup-October-21-2026",
+     "originalTitle": "Roadmap Roundup - October 21, 2026",
+     "ar": {
+      "title": "تحديث خارطة طريق Star Citizen يضيف أنماط حواجب وحزمة مهام Intersec في Nyx",
+      "summary": "يؤكد تحديث خارطة الطريق الصادر في 21 أكتوبر إطلاق أنماط تخصيص حواجب جديدة ضمن Alpha 4.10.2 فعليًا، إلى جانب حزمة مهام Intersec Defence الملتزم بها لتوسيع عقود Nyx ضد تهديد Vanduul.",
+      "details": "نشرت Cloud Imperium Games تحديث خارطة الطريق الدوري (Roadmap Roundup) في 21 أكتوبر، موضحة أسباب آخر التغييرات على خارطة طريق Star Citizen العامة. وسلّط التحديث الضوء على بندين رئيسيين.\n\nالأول تحديث لتخصيص الشخصيات يضيف ثلاثة أنماط حواجب جديدة ويعيد تصميم ستة أنماط حالية لتتماشى مع معايير الجودة البصرية الحالية؛ وقد صدر هذا التحديث فعليًا ضمن Alpha 4.10.2 وتحمل بطاقته حالة \"صدر\" (Released) على الخارطة.\n\nالثاني حزمة مهام جديدة لشركة Intersec Defence Solutions، تحمل حالة \"ملتزم به\" (Committed)، وستوسّع عقود الفصيلة في نظام Nyx بمهام جديدة ترتبط بتصاعد تهديد Vanduul، إلى جانب مخططات جديدة للسفن والعناصر يمكن للاعبين كسبها."
+     },
+     "en": {
+      "title": "Star Citizen roadmap adds eyebrow styles and Intersec Nyx mission pack",
+      "summary": "CIG's October 21 Roadmap Roundup confirms new eyebrow customization options already live in Alpha 4.10.2, plus a committed Intersec Defence mission pack expanding Nyx contracts against the Vanduul.",
+      "details": "Cloud Imperium Games published its biweekly Roadmap Roundup on October 21, explaining the reasoning behind recent changes to the public Star Citizen roadmap. The update highlighted two items.\n\nThe first is a character customization pass that adds three new eyebrow styles and reworks six existing ones to match current visual-quality standards. It has already shipped in Alpha 4.10.2 and is marked Released on the roadmap.\n\nThe second is an Intersec Defence Solutions mission pack, marked Committed, which will expand the faction's contracts in the Nyx system with new missions built around the growing Vanduul threat, plus new ship and item blueprints for players to earn."
+     },
+     "addedAt": "2026-10-21T23:59:59+00:00"
+    },
     {
      "id": "sc-day-of-the-vara-2956",
      "date": "2026-10-21",
@@ -1762,6 +1783,28 @@
   },
   "ai": {
    "news": [
+    {
+     "id": "anthropic-donates-agent-skills-aaif",
+     "date": "2026-10-22",
+     "type": "business",
+     "importance": 2,
+     "sourceType": "official",
+     "sourceName": "Anthropic Blog",
+     "url": "https://www.anthropic.com/news/donating-agent-skills-to-the-agentic-ai-foundation",
+     "originalTitle": "Donating Agent Skills to the Agentic AI Foundation",
+     "company": "Anthropic",
+     "ar": {
+      "title": "Anthropic تتنازل عن معيار Agent Skills لصالح Agentic AI Foundation",
+      "summary": "تنقل Anthropic معيارها المفتوح Agent Skills، مع الاسم والشعار ونطاق agentskills.io، إلى مؤسسة Agentic AI Foundation التابعة لـ Linux Foundation لضمان بقائه مفتوحًا ومحايدًا تجاه الشركات.",
+      "details": "أعلنت Anthropic في 22 أكتوبر تنازلها عن معيار Agent Skills المفتوح، الذي يتيح تزويد وكلاء الذكاء الاصطناعي بمعرفة متخصصة وسير عمل جاهز، لصالح مؤسسة Agentic AI Foundation (AAIF) العاملة تحت مظلة Linux Foundation. وتشمل عملية النقل اسم وشعار Agent Skills، ومنظمة GitHub الخاصة به، ونطاق agentskills.io.\n\nشاركت Anthropic في تأسيس AAIF إلى جانب Block وOpenAI، وسبق أن تنازلت للمؤسسة عن بروتوكول Model Context Protocol (MCP). وتقول الشركة إن إبقاء المعيار مفتوحًا ومحايدًا بات أكثر أهمية بعد أن تبنّته أكثر من 70 منصة وكيلة، من بينها ChatGPT وCursor وGitHub Copilot وVS Code، مع تجاوز عدد المهارات المنشورة مليون مهارة وعمليات التثبيت نحو 280 مليون.\n\n- يمكن للمطورين الاستمرار في استخدام المعيار أو المساهمة فيه دون الحاجة للانضمام إلى AAIF.\n- سيتولى صيانته مهندسون من Anthropic وGoogle وOpenAI وشركات أخرى بصفتهم الفردية، بقيادة David Soria Parra وMahesh Murag كمسؤولي صيانة رئيسيين.\n- تتضمن خارطة الطريق المقترحة إصدارات مرقّمة، وعملية رسمية لتقديم المقترحات، وإرشادات أمنية لكتابة المهارات وتثبيتها."
+     },
+     "en": {
+      "title": "Anthropic donates Agent Skills standard to the Agentic AI Foundation",
+      "summary": "Anthropic is transferring its open Agent Skills standard, name, logo and agentskills.io domain to the Linux Foundation's Agentic AI Foundation to keep it vendor-neutral.",
+      "details": "Anthropic announced on October 22 that it is donating Agent Skills, its open standard for giving AI agents specialized knowledge and ready-made workflows, to the Agentic AI Foundation (AAIF), which operates under the Linux Foundation. The transfer includes the Agent Skills name and logo, its GitHub organization, and the agentskills.io domain.\n\nAnthropic co-founded the AAIF with Block and OpenAI and had already donated the Model Context Protocol (MCP) to the foundation. The company says keeping the standard open and vendor-neutral matters more now that over 70 agent platforms, including ChatGPT, Cursor, GitHub Copilot and VS Code, have adopted it, with more than 1 million published skills and nearly 280 million installs.\n\n- Developers can keep using or contributing to the standard without joining the AAIF.\n- Engineers from Anthropic, Google, OpenAI and other companies will maintain it as individuals, led by Lead Maintainers David Soria Parra and Mahesh Murag.\n- A proposed roadmap adds versioned releases, a formal proposal process, and security guidance for writing and installing skills."
+     },
+     "addedAt": "2026-10-22T21:13:00+00:00"
+    },
     {
      "id": "ai2-olmoearth-v1-3",
      "date": "2026-10-22",

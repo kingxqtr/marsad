@@ -1,0 +1,29 @@
+{
+  "topic": "star-citizen",
+  "generatedAt": "2026-10-23",
+  "news": [
+    {
+      "id": "sc-roadmap-roundup-oct21-brows-intersec",
+      "date": "2026-10-21",
+      "type": "development",
+      "importance": 1,
+      "sourceType": "official",
+      "sourceName": "RSI Comm-Link",
+      "url": "https://robertsspaceindustries.com/comm-link/transmission/21390-Roadmap-Roundup-October-21-2026",
+      "originalTitle": "Roadmap Roundup - October 21, 2026",
+      "ar": {
+        "title": "تحديث خارطة طريق Star Citizen يضيف أنماط حواجب وحزمة مهام Intersec في Nyx",
+        "summary": "يؤكد تحديث خارطة الطريق الصادر في 21 أكتوبر إطلاق أنماط تخصيص حواجب جديدة ضمن Alpha 4.10.2 فعليًا، إلى جانب حزمة مهام Intersec Defence الملتزم بها لتوسيع عقود Nyx ضد تهديد Vanduul.",
+        "details": "نشرت Cloud Imperium Games تحديث خارطة الطريق الدوري (Roadmap Roundup) في 21 أكتوبر، موضحة أسباب آخر التغييرات على خارطة طريق Star Citizen العامة. وسلّط التحديث الضوء على بندين رئيسيين.\n\nالأول تحديث لتخصيص الشخصيات يضيف ثلاثة أنماط حواجب جديدة ويعيد تصميم ستة أنماط حالية لتتماشى مع معايير الجودة البصرية الحالية؛ وقد صدر هذا التحديث فعليًا ضمن Alpha 4.10.2 وتحمل بطاقته حالة \"صدر\" (Released) على الخارطة.\n\nالثاني حزمة مهام جديدة لشركة Intersec Defence Solutions، تحمل حالة \"ملتزم به\" (Committed)، وستوسّع عقود الفصيلة في نظام Nyx بمهام جديدة ترتبط بتصاعد تهديد Vanduul، إلى جانب مخططات جديدة للسفن والعناصر يمكن للاعبين كسبها."
+      },
+      "en": {
+        "title": "Star Citizen roadmap adds eyebrow styles and Intersec Nyx mission pack",
+        "summary": "CIG's October 21 Roadmap Roundup confirms new eyebrow customization options already live in Alpha 4.10.2, plus a committed Intersec Defence mission pack expanding Nyx contracts against the Vanduul.",
+        "details": "Cloud Imperium Games published its biweekly Roadmap Roundup on October 21, explaining the reasoning behind recent changes to the public Star Citizen roadmap. The update highlighted two items.\n\nThe first is a character customization pass that adds three new eyebrow styles and reworks six existing ones to match current visual-quality standards. It has already shipped in Alpha 4.10.2 and is marked Released on the roadmap.\n\nThe second is an Intersec Defence Solutions mission pack, marked Committed, which will expand the faction's contracts in the Nyx system with new missions built around the growing Vanduul threat, plus new ship and item blueprints for players to earn."
+      }
+    }
+  ],
+  "upcoming": [],
+  "removeUpcoming": [],
+  "removeNews": []
+}
