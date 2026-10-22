@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": "2026-10-22T22:09:07+00:00",
+ "updatedAt": "2026-10-22T23:11:16+00:00",
  "coverage": {
   "from": "2026-07-22",
   "to": "2026-10-22"
@@ -1806,6 +1806,28 @@
      "addedAt": "2026-10-22T21:13:00+00:00"
     },
     {
+     "id": "nvidia-openshell-agent-runtime",
+     "date": "2026-10-22",
+     "type": "product",
+     "importance": 2,
+     "sourceType": "official",
+     "sourceName": "GitHub — NVIDIA/OpenShell",
+     "url": "https://github.com/NVIDIA/OpenShell",
+     "originalTitle": "OpenShell – A safe, private runtime for fleets of autonomous AI agents",
+     "company": "NVIDIA",
+     "ar": {
+      "title": "إنفيديا تطرح OpenShell بيئة تشغيل آمنة لأساطيل وكلاء الذكاء الاصطناعي",
+      "summary": "تطرح NVIDIA مشروع OpenShell مفتوح المصدر، بيئة تشغيل تتيح لوكلاء الذكاء الاصطناعي تنفيذ مهام حقيقية دون منحهم وصولًا كاملًا لبيانات الجهاز أو أسراره أو شبكته.",
+      "details": "أطلقت NVIDIA مشروع OpenShell على GitHub، وهو بيئة تشغيل مفتوحة المصدر مصممة لتشغيل أساطيل من وكلاء الذكاء الاصطناعي المستقلين بأمان. يهدف المشروع إلى منح الوكلاء القدرة على قراءة الملفات واستدعاء واجهات برمجة التطبيقات واستخدام بيانات الاعتماد لتنفيذ مهام مفيدة، دون تخويلهم بالوصول الكامل لبيانات الجهاز المضيف أو أسراره أو شبكته.\n\nوفقًا لتعليقات مطورين على المشروع، يعتمد النظام على تقنيات مثل Seccomp وLandlock لتقييد استدعاءات نظام الملفات والشبكة مقابل سياسة خارجية محددة، كما يحقن بيانات الاعتماد عبر بروكسي وسيط بحيث لا يرى الوكيل القيم الفعلية للأسرار مباشرة. وذكر مستخدمون أن عروضًا توضيحية عديدة في مؤتمر GTC Europe لإنفيديا استخدمت هذا النظام.\n\nأثار المنشور نقاشًا واسعًا على Hacker News تجاوز 250 نقطة، مع تساؤلات حول مدى فعاليته في منع تسريب البيانات إذا احتفظ الوكيل بأي وصول للشبكة الخارجية، ومقارنات بأدوات مماثلة مثل صناديق Docker المعزولة وأداة sandbox-runtime من Anthropic."
+     },
+     "en": {
+      "title": "NVIDIA releases OpenShell, a sandboxed runtime for AI agent fleets",
+      "summary": "NVIDIA's open-source OpenShell lets AI agents read files, call APIs and use credentials to do real work without full access to a host's data, secrets or network.",
+      "details": "NVIDIA released OpenShell on GitHub, an open-source runtime built to run fleets of autonomous AI agents safely. The project aims to let agents do useful work, such as reading files, calling APIs and using credentials, without granting them unrestricted access to a host machine's data, secrets or network.\n\nAccording to developer comments on the project, it uses techniques such as Seccomp and Landlock to check filesystem and network calls against an external policy, and injects credentials through a man-in-the-middle proxy so an agent never sees the real secret values directly. Users said many demos at NVIDIA's GTC Europe event ran on this system.\n\nThe release sparked a large discussion on Hacker News, passing 250 points, with commenters questioning how well it can truly prevent data exfiltration if an agent keeps any outbound network access, and comparing it with similar tools such as Docker-based sandboxes and Anthropic's sandbox-runtime."
+     },
+     "addedAt": "2026-10-22T23:11:16+00:00"
+    },
+    {
      "id": "ai2-olmoearth-v1-3",
      "date": "2026-10-22",
      "type": "model",
@@ -1894,6 +1916,28 @@
       "details": "KittenML published Kitten-TTS 2 on Hugging Face, the latest version of its small text-to-speech model, with weights, a GitHub repo and a Discord server for the open-source tooling around it.\n\nThe model has about 1.7 billion parameters and uses ternary weights, where most linear layers store each weight as one of three values packed at roughly 1.6 bits each. KittenML says this lets the model run in real time on a CPU alone, without a GPU, through a companion llama.cpp-based inference engine.\n\nKitten-TTS 2 ships with 115 built-in voices across 16 languages and can clone a new voice from 5 to 30 seconds of reference audio without further fine-tuning. A beta feature lets users mark emotion, emphasis and vocal events in the text to steer delivery.\n\nThe model weights are released under a Stellon Labs Community License that allows free research, non-commercial and limited commercial use, while the companion Python package and speaker-embedding model are Apache 2.0 and MIT licensed."
      },
      "addedAt": "2026-10-22T10:11:08+00:00"
+    },
+    {
+     "id": "microsoft-thinkingbox-training-rl",
+     "date": "2026-10-22",
+     "type": "model",
+     "importance": 1,
+     "sourceType": "official",
+     "sourceName": "Microsoft / Hugging Face Blog",
+     "url": "https://huggingface.co/blog/microsoft/thinkingbox-training",
+     "originalTitle": "Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox",
+     "company": "Microsoft",
+     "ar": {
+      "title": "Microsoft تدرّب وكلاء الذكاء الاصطناعي بمكافآت معزّزة من فحص قواعد البيانات",
+      "summary": "تستخدم Microsoft فحوصًا تلقائية لحالة قاعدة البيانات بعد عمل الوكيل كمكافآت تعلم معزز في ThinkingBox-Training، رافعةً نسبة اجتياز المهام في جميع المحاولات العشرين من 7.5% إلى 21.1%.",
+      "details": "نشرت Microsoft بالتعاون مع Hugging Face تدوينة بحثية في 22 أكتوبر تشرح ThinkingBox-Training، امتداد لإطار ThinkingBox الذي يتحقق من اكتمال مهام الوكلاء فعليًا عبر فحص حالة قاعدة البيانات بعد التنفيذ، بدل الاعتماد على تصريح الوكيل نفسه بإنهاء المهمة.\n\nدرّب الفريق نموذج Qwen3.8-27B باستخدام خوارزمية GRPO لمدة 50 خطوة على 187 مهمة تدريبية خارج نطاق الاختبار المرجعي، حيث تُستمد مكافأة كل مهمة من نتيجة فحص قاعدة البيانات (نجاح أو فشل)، مع تصفية المهام حسب صعوبتها النسبية للاحتفاظ بالمهام التي يحلها النموذج الأساسي أحيانًا فقط.\n\nعلى معيار ThinkingBox-Bench (507 مهمة، 20 محاولة لكل منها)، ارتفعت نسبة المهام الناجحة في جميع المحاولات العشرين من 7.5% إلى 21.1%، وارتفع متوسط النجاح من 51.70% إلى 60.78%، بينما تراجعت نسبة حل المهمة مرة واحدة على الأقل بشكل طفيف من 89.35% إلى 87.97%. وقدّر الباحثون تكلفة إنجاز مهمة موثوقة بالنموذج المحسّن بنحو 8 دولارات، مقابل 24.36 دولارًا للنموذج الأساسي."
+     },
+     "en": {
+      "title": "Microsoft trains AI agents with RL rewards from database checks",
+      "summary": "Microsoft's ThinkingBox-Training uses automatic database-state checks after an agent's work as reinforcement learning rewards, raising tasks passed on all 20 attempts from 7.5% to 21.1%.",
+      "details": "Microsoft, with Hugging Face, published a research post on October 22 describing ThinkingBox-Training, an extension of its ThinkingBox framework, which verifies whether agents actually complete tasks by checking the resulting database state rather than trusting the agent's own claim of success.\n\nThe team fine-tuned Qwen3.8-27B with GRPO for 50 steps on 187 training tasks outside the benchmark set, with each task's reward coming from a binary pass/fail database check. Tasks were filtered by their relative difficulty to keep ones the base model only sometimes solved.\n\nOn the ThinkingBox-Bench benchmark (507 tasks, 20 attempts each), the share of tasks passed on all 20 attempts rose from 7.5% to 21.1%, and average pass@1 success rose from 51.70% to 60.78%, while pass@20 (solved at least once) slipped slightly from 89.35% to 87.97%. The researchers estimated the fine-tuned model's cost per dependable task at about $8.00, versus $24.36 for the base model."
+     },
+     "addedAt": "2026-10-22T23:11:16+00:00"
     },
     {
      "id": "github-copilot-impact-dashboard-industry-comparisons",
