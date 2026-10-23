@@ -65,6 +65,28 @@
         "details": "Microsoft, with Hugging Face, published a research post on October 22 describing ThinkingBox-Training, an extension of its ThinkingBox framework, which verifies whether agents actually complete tasks by checking the resulting database state rather than trusting the agent's own claim of success.\n\nThe team fine-tuned Qwen3.8-27B with GRPO for 50 steps on 187 training tasks outside the benchmark set, with each task's reward coming from a binary pass/fail database check. Tasks were filtered by their relative difficulty to keep ones the base model only sometimes solved.\n\nOn the ThinkingBox-Bench benchmark (507 tasks, 20 attempts each), the share of tasks passed on all 20 attempts rose from 7.5% to 21.1%, and average pass@1 success rose from 51.70% to 60.78%, while pass@20 (solved at least once) slipped slightly from 89.35% to 87.97%. The researchers estimated the fine-tuned model's cost per dependable task at about $8.00, versus $24.36 for the base model."
       }
     }
+    ,
+    {
+      "id": "github-copilot-visual-studio-september-update",
+      "date": "2026-10-22",
+      "type": "coding",
+      "importance": 1,
+      "sourceType": "official",
+      "sourceName": "GitHub Changelog",
+      "url": "https://github.blog/changelog/2026-10-22-github-copilot-in-visual-studio-september-update-2",
+      "originalTitle": "GitHub Copilot in Visual Studio — September update",
+      "company": "GitHub",
+      "ar": {
+        "title": "GitHub Copilot في Visual Studio يضيف استكشاف طلبات السحب وBYOM وإصلاح NuGet",
+        "summary": "يحصل GitHub Copilot في Visual Studio 2026 على تحديث سبتمبر الذي يضيف استكشاف طلبات السحب عبر وكيل Git، ودعم BYOM لاستخدام نماذج خارجية، وإصلاحًا تلقائيًا لثغرات حزم NuGet.",
+        "details": "نشرت GitHub في 22 أكتوبر تدوينة تلخّص تحديث سبتمبر 2026 لإضافات Copilot في Visual Studio 2026. يتيح وكيل Git الآن استكشاف طلبات السحب: بإرفاق طلب سحب كسياق من نافذة مستودع Git، يقدّم الوكيل ملخصًا مع روابط للتعليقات والملفات، وهو يتطلب ربط خادم MCP الخاص بمزوّد Git (مدعوم لـ GitHub وAzure DevOps).\n\nكما تضيف النسخة دعم \"أحضر نموذجك الخاص\" (BYOM) في مرحلة المعاينة، لاستخدام نماذج يفضلها الفريق عبر Copilot أو عبر نشرات خاصة، سواء كان المستخدم مسجّلاً في GitHub أم لا، وهو مفعّل تلقائيًا في إصدارات Community وProfessional وEnterprise. يمثّل هذا تغييرًا كاسرًا: يتطلب BYOM الآن وضع الوكيل الجديد (معاينة)، ولم تعد أوضاع Ask وAgent القديمة تدعمه، ويجب إعادة إضافة نماذج Ollama المُهيَّأة سابقًا بعد التحديث.\n\n- تضيف تحذيرات NuGet Audit إجراء إصلاح يفتح محادثة Copilot في وضع الوكيل، ويستخدم خادم MCP الخاص بـ NuGet لتحديث الحزم المتأثرة بثغرات.\n- يتطلب إصلاح NuGet تسجيل الدخول إلى Copilot وتفعيل خادم NuGet MCP من قائمة أدوات المحادثة.\n- التحديث متاح لجميع خطط GitHub Copilot."
+      },
+      "en": {
+        "title": "GitHub Copilot in Visual Studio adds PR exploration, BYOM, NuGet fixes",
+        "summary": "GitHub's September update for Copilot in Visual Studio 2026 adds pull request exploration via the Git agent, preview support for bringing your own model, and an automatic NuGet vulnerability fixer.",
+        "details": "GitHub published a changelog post on October 22 summarizing the September 2026 update to GitHub Copilot in Visual Studio 2026. The Git agent can now explore a pull request: attaching one as context from the Git Repository window gets a summary with links to its comments and files, which requires connecting the Git provider's MCP server (GitHub and Azure DevOps are supported).\n\nThe release also adds preview support for Bring Your Own Model (BYOM), letting teams use their preferred models through Copilot or their own deployments whether or not they're signed in to GitHub, on by default across the Community, Professional and Enterprise editions. This is a breaking change: BYOM now requires the new Agent (Preview) mode, since the older Ask and Agent modes no longer support it, and any previously configured Ollama models need to be re-added after updating.\n\n- NuGet Audit warnings now offer a fixer action that opens Copilot Chat in agent mode and uses the NuGet MCP server to update vulnerable packages.\n- The NuGet fix requires signing in to GitHub Copilot and enabling the NuGet MCP server from the Chat tools menu.\n- The update is available on all GitHub Copilot plans."
+      }
+    }
   ],
   "upcoming": [],
   "removeUpcoming": [],

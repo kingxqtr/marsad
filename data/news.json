@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": "2026-10-23T00:09:20+00:00",
+ "updatedAt": "2026-10-23T01:09:20+00:00",
  "coverage": {
   "from": "2026-07-23",
   "to": "2026-10-23"
@@ -1830,6 +1830,28 @@
       "details": "IBM Research released Granite Timeseries Ensemble r1, a new forecasting recipe published on Hugging Face on October 22. It combines four existing Granite time-series models — PatchTST-FM-r1, PatchTST-FM-r2, FlowState-r1.1 and TTM-r3 — into a single forecast without retraining any of them.\n\nUsers load the recipe through IBM's granite-tsfm library (version 0.3.11 or later) with a QuantileEnsembleForecaster class. It offers two aggregation modes: a default Probabilistic Ensemble that equally pools each member's quantile forecasts, and an IQR Ensemble that weights members by their forecast spread. Both produce a point forecast plus quantiles from 0.1 to 0.9.\n\nOn a GIFT-Eval benchmark snapshot from October 20, the Probabilistic Ensemble posted the lowest MASE score (0.683) among six compared forecasts, narrowly ahead of PatchTST-FM-r2 (0.685), though PatchTST-FM-r2 still led on the CRPS/MWQL accuracy metric. IBM notes the recipe forecasts multivariate channels independently and that loading four checkpoints raises inference time and memory use."
      },
      "addedAt": "2026-10-22T12:10:59+00:00"
+    },
+    {
+     "id": "github-copilot-visual-studio-september-update",
+     "date": "2026-10-22",
+     "type": "coding",
+     "importance": 1,
+     "sourceType": "official",
+     "sourceName": "GitHub Changelog",
+     "url": "https://github.blog/changelog/2026-10-22-github-copilot-in-visual-studio-september-update-2",
+     "originalTitle": "GitHub Copilot in Visual Studio — September update",
+     "company": "GitHub",
+     "ar": {
+      "title": "GitHub Copilot في Visual Studio يضيف استكشاف طلبات السحب وBYOM وإصلاح NuGet",
+      "summary": "يحصل GitHub Copilot في Visual Studio 2026 على تحديث سبتمبر الذي يضيف استكشاف طلبات السحب عبر وكيل Git، ودعم BYOM لاستخدام نماذج خارجية، وإصلاحًا تلقائيًا لثغرات حزم NuGet.",
+      "details": "نشرت GitHub في 22 أكتوبر تدوينة تلخّص تحديث سبتمبر 2026 لإضافات Copilot في Visual Studio 2026. يتيح وكيل Git الآن استكشاف طلبات السحب: بإرفاق طلب سحب كسياق من نافذة مستودع Git، يقدّم الوكيل ملخصًا مع روابط للتعليقات والملفات، وهو يتطلب ربط خادم MCP الخاص بمزوّد Git (مدعوم لـ GitHub وAzure DevOps).\n\nكما تضيف النسخة دعم \"أحضر نموذجك الخاص\" (BYOM) في مرحلة المعاينة، لاستخدام نماذج يفضلها الفريق عبر Copilot أو عبر نشرات خاصة، سواء كان المستخدم مسجّلاً في GitHub أم لا، وهو مفعّل تلقائيًا في إصدارات Community وProfessional وEnterprise. يمثّل هذا تغييرًا كاسرًا: يتطلب BYOM الآن وضع الوكيل الجديد (معاينة)، ولم تعد أوضاع Ask وAgent القديمة تدعمه، ويجب إعادة إضافة نماذج Ollama المُهيَّأة سابقًا بعد التحديث.\n\n- تضيف تحذيرات NuGet Audit إجراء إصلاح يفتح محادثة Copilot في وضع الوكيل، ويستخدم خادم MCP الخاص بـ NuGet لتحديث الحزم المتأثرة بثغرات.\n- يتطلب إصلاح NuGet تسجيل الدخول إلى Copilot وتفعيل خادم NuGet MCP من قائمة أدوات المحادثة.\n- التحديث متاح لجميع خطط GitHub Copilot."
+     },
+     "en": {
+      "title": "GitHub Copilot in Visual Studio adds PR exploration, BYOM, NuGet fixes",
+      "summary": "GitHub's September update for Copilot in Visual Studio 2026 adds pull request exploration via the Git agent, preview support for bringing your own model, and an automatic NuGet vulnerability fixer.",
+      "details": "GitHub published a changelog post on October 22 summarizing the September 2026 update to GitHub Copilot in Visual Studio 2026. The Git agent can now explore a pull request: attaching one as context from the Git Repository window gets a summary with links to its comments and files, which requires connecting the Git provider's MCP server (GitHub and Azure DevOps are supported).\n\nThe release also adds preview support for Bring Your Own Model (BYOM), letting teams use their preferred models through Copilot or their own deployments whether or not they're signed in to GitHub, on by default across the Community, Professional and Enterprise editions. This is a breaking change: BYOM now requires the new Agent (Preview) mode, since the older Ask and Agent modes no longer support it, and any previously configured Ollama models need to be re-added after updating.\n\n- NuGet Audit warnings now offer a fixer action that opens Copilot Chat in agent mode and uses the NuGet MCP server to update vulnerable packages.\n- The NuGet fix requires signing in to GitHub Copilot and enabling the NuGet MCP server from the Chat tools menu.\n- The update is available on all GitHub Copilot plans."
+     },
+     "addedAt": "2026-10-22T23:59:59+00:00"
     },
     {
      "id": "kittenml-kitten-tts-2-ternary",
