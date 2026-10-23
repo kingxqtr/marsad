@@ -1,0 +1,56 @@
+{
+  "topic": "ai",
+  "generatedAt": "2026-10-24",
+  "news": [
+    {
+      "id": "fii10-postponed-2027",
+      "date": "2026-10-19",
+      "type": "business",
+      "importance": 2,
+      "sourceType": "official",
+      "sourceName": "FII Institute",
+      "url": "https://fii-institute.org/",
+      "originalTitle": "FII Institute statement on postponing FII10",
+      "company": "FII Institute",
+      "ar": {
+        "title": "معهد FII يؤجل مؤتمر FII10 في الرياض إلى عام 2027",
+        "summary": "أجّل معهد مبادرة مستقبل الاستثمار نسخته العاشرة FII10، المقررة أصلاً من 26 إلى 29 أكتوبر 2026 في الرياض، إلى عام 2027 مع الإعلان عن مواعيد جديدة قريباً.",
+        "details": "أعلن معهد مبادرة مستقبل الاستثمار (FII) تأجيل مؤتمره الرئيسي FII10، النسخة العاشرة من الحدث، من مواعيده الأصلية بين 26 و29 أكتوبر 2026 في الرياض إلى عام 2027، على أن يُعلن عن المواعيد الجديدة قريباً.\n\nوقالت الرئيسة التنفيذية للمعهد الأميرة مها بنت مشاري آل سعود إن التأجيل يضمن أن تخرج النسخة العاشرة بالحجم والجودة والأثر المتوقعين من مجتمع الحدث، مؤكدة أن جميع التسجيلات والشراكات القائمة ستبقى سارية.\n\nويُعرف المؤتمر، الذي يُلقَّب بـ«دافوس الصحراء»، باستقطابه رؤساء دول ومستثمرين وقادة أعمال إلى الرياض كل عام، ويُعد الذكاء الاصطناعي والروبوتات من أبرز محاوره."
+      },
+      "en": {
+        "title": "FII Institute postpones FII10 conference in Riyadh to 2027",
+        "summary": "The FII Institute delayed its 10th-anniversary Future Investment Initiative, originally set for October 26-29, 2026 in Riyadh, to 2027, with new dates coming soon.",
+        "details": "The FII Institute has postponed FII10, the tenth edition of its flagship Future Investment Initiative conference, from its original October 26-29, 2026 dates in Riyadh to sometime in 2027. New dates will be announced soon.\n\nFII Institute CEO Princess Maha bint Mishari Al Saud said the delay ensures the milestone 10th edition delivers the scale, quality and impact its community expects, and that all existing registrations and partnerships will remain valid.\n\nThe conference, nicknamed 'Davos in the Desert', draws heads of state, investors and business leaders to Riyadh each year, with AI and robotics among its core discussion tracks."
+      }
+    }
+  ],
+  "upcoming": [
+    {
+      "id": "fii10-riyadh-2026",
+      "date": "2027-10-01",
+      "endDate": null,
+      "dateConfidence": "expected",
+      "type": "event",
+      "sourceType": "official",
+      "sourceName": "FII Institute",
+      "url": "https://fii-institute.org/",
+      "company": "FII Institute",
+      "ar": {
+        "title": "مبادرة مستقبل الاستثمار FII10 تؤجَّل إلى عام 2027",
+        "summary": "أجّل معهد FII نسخته العاشرة من مبادرة مستقبل الاستثمار، التي كانت مقررة في 26-29 أكتوبر 2026 بالرياض، إلى عام 2027 دون تحديد مواعيد جديدة حتى الآن.",
+        "details": "كانت النسخة العاشرة من مبادرة مستقبل الاستثمار (FII10) مقررة في الرياض من 26 إلى 29 أكتوبر 2026، لكن معهد FII أعلن في 19 أكتوبر 2026 تأجيلها إلى عام 2027 دون تحديد مواعيد جديدة بعد.\n\nيبقى الذكاء الاصطناعي والروبوتات من أبرز محاور هذا المؤتمر الذي يجمع رؤساء دول ومستثمرين وقادة تقنية، وستُحدَّث هذه البطاقة فور الإعلان عن المواعيد الجديدة.",
+        "location": "الرياض، السعودية (المكان لم يُؤكَّد بعد)",
+        "dateNote": "تاريخ مؤقت فقط: كان المؤتمر مقرراً في 26-29 أكتوبر 2026 ثم أُجِّل في 19 أكتوبر 2026 إلى عام 2027 دون مواعيد محددة حتى الآن؛ سيُصحَّح عند الإعلان الرسمي."
+      },
+      "en": {
+        "title": "FII10 postponed from October 2026 to sometime in 2027",
+        "summary": "The FII Institute postponed its 10th Future Investment Initiative, originally set for October 26-29, 2026 in Riyadh, to 2027; no new dates have been announced yet.",
+        "details": "FII10, the tenth edition of the Future Investment Initiative, was set to run October 26-29, 2026 in Riyadh, but on October 19, 2026 the FII Institute announced it was postponing the event to 2027 without yet setting new dates.\n\nAI and robotics remain among the conference's core tracks, which bring together heads of state, investors and technology leaders. This entry will be corrected once official 2027 dates are announced.",
+        "location": "Riyadh, Saudi Arabia (venue not yet confirmed)",
+        "dateNote": "Placeholder date only: the event was originally scheduled for October 26-29, 2026, then postponed on October 19, 2026 to 2027 with no dates set yet; this will be corrected once announced officially."
+      }
+    }
+  ],
+  "removeUpcoming": [],
+  "removeNews": []
+}
