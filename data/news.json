@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": "2026-10-23T12:12:35+00:00",
+ "updatedAt": "2026-10-23T13:17:15+00:00",
  "coverage": {
   "from": "2026-07-23",
   "to": "2026-10-23"
@@ -1784,6 +1784,28 @@
       "details": "NVIDIA published a blog post on October 23 describing Kazakhstan's shift from planning AI infrastructure to actually deploying it across compute, models and applications. Leading the buildout is Firebird, which secured a U.S. export license for about 45,000 NVIDIA Grace Blackwell GPUs and is building its first phase with Kazakhtelecom at the Data Center Valley facility, targeting commercial operation in the third quarter of 2027.\n\nA proposed second phase would raise the project's total power capacity in Kazakhstan to roughly 500 megawatts, and Firebird also plans a local lab to support AI startups and research. The post notes that Kazakhtelecom, the country's largest telecom operator, has already deployed 400 NVIDIA H200 and 480 B300 GPUs across Astana and Almaty.\n\n- Kazakhtelecom plans to add more than 1,000 further GPUs at Data Center Valley next year.\n- It also plans to deploy more than 1,000 NVIDIA Vera Rubin GPUs in the Ekibastuz region."
      },
      "addedAt": "2026-10-23T05:10:03+00:00"
+    },
+    {
+     "id": "huggingface-trainium-model-support-space",
+     "date": "2026-10-23",
+     "type": "product",
+     "importance": 1,
+     "sourceType": "official",
+     "sourceName": "Hugging Face Blog",
+     "url": "https://huggingface.co/blog/torch-neuronx-model-support",
+     "originalTitle": "Does Your Model Run on AWS Trainium? Look It Up",
+     "company": "Hugging Face",
+     "ar": {
+      "title": "Hugging Face تطلق أداة لمعرفة توافق النماذج مع رقائق AWS Trainium",
+      "summary": "نشرت Hugging Face أداة (Space) تفحص عبر مكتبة torch-neuronx ما إذا كانت نماذج Hub تعمل على رقائق AWS Trainium، وتختبر النماذج الشائعة على معالجات Trainium2.",
+      "details": "نشر المهندس David Corvoysier من Hugging Face تدوينة في 23 أكتوبر يعرّف فيها أداة جديدة (Space) تتحقق مما إذا كان نموذج معيّن من Hub يعمل على رقائق AWS Trainium عبر مكتبة torch-neuronx.\n\nتختبر الأداة النماذج الشائعة من Transformers في مهام توليد النصوص وتحويل الصور والنصوص، على معالجات Trainium2 بما يصل إلى 16 نواة، وتوفر سكريبت يتيح للمستخدمين إجراء الفحص نفسه بأنفسهم. نجاح الاختبار يعني فقط أن النموذج يعمل دون تعديل، ولا يقيس سرعة المعالجة أو الأداء مع توليد نصوص أطول.\n\n- تُنشر النتائج كمجموعة بيانات عامة باسم aws-neuron/torch-neuronx-model-support، بملف لكل توليفة من إصدارات مُجمّع Neuron والمكتبة."
+     },
+     "en": {
+      "title": "Hugging Face launches a Space to check model support on AWS Trainium",
+      "summary": "Hugging Face published a Space that checks, via the torch-neuronx library, whether Hub models run on AWS Trainium chips, testing popular Transformers models on Trainium2 hardware.",
+      "details": "Hugging Face engineer David Corvoysier published a blog post on October 23 introducing a new Space that checks whether a given model on the Hub runs on AWS Trainium chips through the torch-neuronx package.\n\nThe tool tests popular Transformers models for text-generation and image-text-to-text tasks on Trainium2 instances with up to 16 cores, and provides a script so users can run the same check themselves. A passing result only confirms the model runs without modification; it says nothing about throughput or performance on longer generations.\n\n- Results are published as a public dataset, aws-neuron/torch-neuronx-model-support, with one file per combination of Neuron compiler and library versions."
+     },
+     "addedAt": "2026-10-23T13:17:15+00:00"
     },
     {
      "id": "anthropic-donates-agent-skills-aaif",

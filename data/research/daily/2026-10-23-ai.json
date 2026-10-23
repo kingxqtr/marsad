@@ -128,6 +128,27 @@
         "summary": "OpenAI partnered with Poland's NASK institute, giving its CERT Polska team trusted access to the restricted GPT-5.5 Cyber model for vulnerability research, malware analysis and forensics.",
         "details": "OpenAI announced a partnership with NASK, Poland's state research institute, to advance AI safety and security, according to a post on OpenAI's newsroom.\n\nUnder OpenAI's Government Trusted Access for Cyber program, NASK's CERT Polska team gained access to GPT-5.5 Cyber, a restricted security-focused model with fewer safeguards than public versions, limited to a closed circle of trusted entities to prevent misuse.\n\nNASK officials said Poland is currently the only country in its region with this access, and that the team is already using it to scan systems run by Polish public administration bodies and companies, as well as to test its own security tools."
       }
+    },
+    {
+      "id": "huggingface-trainium-model-support-space",
+      "date": "2026-10-23",
+      "type": "product",
+      "importance": 1,
+      "sourceType": "official",
+      "sourceName": "Hugging Face Blog",
+      "url": "https://huggingface.co/blog/torch-neuronx-model-support",
+      "originalTitle": "Does Your Model Run on AWS Trainium? Look It Up",
+      "company": "Hugging Face",
+      "ar": {
+        "title": "Hugging Face تطلق أداة لمعرفة توافق النماذج مع رقائق AWS Trainium",
+        "summary": "نشرت Hugging Face أداة (Space) تفحص عبر مكتبة torch-neuronx ما إذا كانت نماذج Hub تعمل على رقائق AWS Trainium، وتختبر النماذج الشائعة على معالجات Trainium2.",
+        "details": "نشر المهندس David Corvoysier من Hugging Face تدوينة في 23 أكتوبر يعرّف فيها أداة جديدة (Space) تتحقق مما إذا كان نموذج معيّن من Hub يعمل على رقائق AWS Trainium عبر مكتبة torch-neuronx.\n\nتختبر الأداة النماذج الشائعة من Transformers في مهام توليد النصوص وتحويل الصور والنصوص، على معالجات Trainium2 بما يصل إلى 16 نواة، وتوفر سكريبت يتيح للمستخدمين إجراء الفحص نفسه بأنفسهم. نجاح الاختبار يعني فقط أن النموذج يعمل دون تعديل، ولا يقيس سرعة المعالجة أو الأداء مع توليد نصوص أطول.\n\n- تُنشر النتائج كمجموعة بيانات عامة باسم aws-neuron/torch-neuronx-model-support، بملف لكل توليفة من إصدارات مُجمّع Neuron والمكتبة."
+      },
+      "en": {
+        "title": "Hugging Face launches a Space to check model support on AWS Trainium",
+        "summary": "Hugging Face published a Space that checks, via the torch-neuronx library, whether Hub models run on AWS Trainium chips, testing popular Transformers models on Trainium2 hardware.",
+        "details": "Hugging Face engineer David Corvoysier published a blog post on October 23 introducing a new Space that checks whether a given model on the Hub runs on AWS Trainium chips through the torch-neuronx package.\n\nThe tool tests popular Transformers models for text-generation and image-text-to-text tasks on Trainium2 instances with up to 16 cores, and provides a script so users can run the same check themselves. A passing result only confirms the model runs without modification; it says nothing about throughput or performance on longer generations.\n\n- Results are published as a public dataset, aws-neuron/torch-neuronx-model-support, with one file per combination of Neuron compiler and library versions."
+      }
     }
   ],
   "upcoming": [],
