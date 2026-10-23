@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": "2026-10-23T20:09:19+00:00",
+ "updatedAt": "2026-10-23T21:14:32+00:00",
  "coverage": {
   "from": "2026-07-23",
   "to": "2026-10-23"
@@ -8,6 +8,27 @@
  "tabs": {
   "once-human": {
    "news": [
+    {
+     "id": "oh-raidzone-illegal-teaming-crackdown",
+     "date": "2026-10-23",
+     "type": "announcement",
+     "importance": 1,
+     "sourceType": "official",
+     "sourceName": "Once Human — Official Website",
+     "url": "https://www.oncehuman.game/news/update/20261023/40780_1317585.html",
+     "originalTitle": "Announcement on Cracking Down on Illegal Teaming in RaidZone Mode",
+     "ar": {
+      "title": "Once Human تشن حملة ضد التحالفات غير القانونية في وضع RaidZone",
+      "summary": "يعلن Once Human عن حظر اللاعبين الذين يشكّلون تحالفات أكبر من المسموح خارج نظام Team في وضع RaidZone، مع حظر من 3 ساعات إلى 30 يومًا وخيار بلاغ جديد داخل اللعبة.",
+      "details": "نشر فريق تطوير Once Human في 23 أكتوبر إعلانًا يستهدف التحالفات غير القانونية في وضع RaidZone، معارك المواجهة بين اللاعبين داخل Hive. ويعني التحالف غير القانوني تجاوز نظام Team داخل اللعبة لتشكيل مجموعات أكبر من المسموح، والتنسيق عبر قنوات صوت أو دردشة خارجية، ثم مواجهة لاعبين آخرين بشكل غير عادل كمجموعة متكاتفة.\n\nوقال الفريق إنه يراقب نشاط RaidZone فعليًا، ويراجع بيانات السيرفرات الحية بأثر رجعي كل يوم. وأصبح بإمكان اللاعبين الآن الإبلاغ عن المخالفين مباشرة عبر خيار بلاغ جديد باسم \"Illegal Teaming\" داخل اللعبة، على أن تُنشر نتائج المراجعة ضمن إعلانات Fair Operations الدورية.\n\nويواجه المخالفون المؤكدون عقوبة من المستوى الأول: رسالة تحذير داخل اللعبة مع حظر للشخصية يتراوح بين 3 ساعات و7 أيام، بحسب تكرار المخالفة وجسامتها. أما الحسابات ذات المخالفات المتكررة أو الجسيمة فقد تتلقى إضافةً عقوبة من المستوى الثاني، وهي حظر للحساب يصل إلى 30 يومًا. وتبقى جميع العقوبات مسجّلة في سجل الحساب، وتُحسب المخالفات المتراكمة حتى عبر تغيّر المواسم."
+     },
+     "en": {
+      "title": "Once Human cracks down on illegal teaming in RaidZone mode",
+      "summary": "Once Human will ban players who form oversized groups outside the Team function in RaidZone, with bans of 3 hours to 30 days and a new in-game report option.",
+      "details": "Once Human's developers posted an October 23 announcement targeting illegal teaming in RaidZone, the mode's player-versus-player Hive battles. Illegal teaming means bypassing the game's own Team function to form oversized groups, coordinating through outside voice or chat channels, and fighting other players as an unfair pack.\n\nThe team said it already monitors RaidZone activity and reviews live server data retroactively each day. Players can now also flag suspects directly through a new in-game \"Illegal Teaming\" report option, and review results will be published in regular Fair Operations announcements.\n\nConfirmed violators face a first-tier penalty: an in-game mail warning plus a character ban of 3 hours to 7 days, scaled to how often and how badly they've offended. Accounts with repeated or severe violations can additionally receive a second-tier account ban of up to 30 days. All penalties stay on an account's record, and violations carry over between seasons."
+     },
+     "addedAt": "2026-10-23T21:14:32+00:00"
+    },
     {
      "id": "oh-3-1-1-bugfixes-oct23",
      "date": "2026-10-23",
@@ -2943,6 +2964,28 @@
       "details": "GitHub deprecated six Copilot models across most Copilot experiences -Copilot Chat, inline edits, ask and agent modes, and code completions- starting October 19, 2026, following an earlier deprecation notice from September 18.\n\n- Gemini 3.7 Flash -> replacement: Gemini 3.8 Flash\n- GPT-5.5 and GPT-5.4 -> replacement: GPT-6.1 Sol\n- GPT-5.4 mini and GPT-5 mini -> replacement: GPT-6 Luna\n- Grok 4.5 -> replacement: Grok 4.7\n\nGitHub says no action is needed to remove the deprecated models from existing workflows, but enterprise admins may need to enable the newer models through Copilot's model policy settings before they appear in the model selector in VS Code and on github.com."
      },
      "addedAt": "2026-10-19T23:12:11+00:00"
+    },
+    {
+     "id": "fii10-postponed-2027",
+     "date": "2026-10-19",
+     "type": "business",
+     "importance": 2,
+     "sourceType": "official",
+     "sourceName": "FII Institute",
+     "url": "https://fii-institute.org/",
+     "originalTitle": "FII Institute statement on postponing FII10",
+     "company": "FII Institute",
+     "ar": {
+      "title": "معهد FII يؤجل مؤتمر FII10 في الرياض إلى عام 2027",
+      "summary": "أجّل معهد مبادرة مستقبل الاستثمار نسخته العاشرة FII10، المقررة أصلاً من 26 إلى 29 أكتوبر 2026 في الرياض، إلى عام 2027 مع الإعلان عن مواعيد جديدة قريباً.",
+      "details": "أعلن معهد مبادرة مستقبل الاستثمار (FII) تأجيل مؤتمره الرئيسي FII10، النسخة العاشرة من الحدث، من مواعيده الأصلية بين 26 و29 أكتوبر 2026 في الرياض إلى عام 2027، على أن يُعلن عن المواعيد الجديدة قريباً.\n\nوقالت الرئيسة التنفيذية للمعهد الأميرة مها بنت مشاري آل سعود إن التأجيل يضمن أن تخرج النسخة العاشرة بالحجم والجودة والأثر المتوقعين من مجتمع الحدث، مؤكدة أن جميع التسجيلات والشراكات القائمة ستبقى سارية.\n\nويُعرف المؤتمر، الذي يُلقَّب بـ«دافوس الصحراء»، باستقطابه رؤساء دول ومستثمرين وقادة أعمال إلى الرياض كل عام، ويُعد الذكاء الاصطناعي والروبوتات من أبرز محاوره."
+     },
+     "en": {
+      "title": "FII Institute postpones FII10 conference in Riyadh to 2027",
+      "summary": "The FII Institute delayed its 10th-anniversary Future Investment Initiative, originally set for October 26-29, 2026 in Riyadh, to 2027, with new dates coming soon.",
+      "details": "The FII Institute has postponed FII10, the tenth edition of its flagship Future Investment Initiative conference, from its original October 26-29, 2026 dates in Riyadh to sometime in 2027. New dates will be announced soon.\n\nFII Institute CEO Princess Maha bint Mishari Al Saud said the delay ensures the milestone 10th edition delivers the scale, quality and impact its community expects, and that all existing registrations and partnerships will remain valid.\n\nThe conference, nicknamed 'Davos in the Desert', draws heads of state, investors and business leaders to Riyadh each year, with AI and robotics among its core discussion tracks."
+     },
+     "addedAt": "2026-10-19T23:59:59+00:00"
     },
     {
      "id": "nvidia-ebu-media-agentic-security-berlin",
@@ -7742,32 +7785,6 @@
      "addedAt": "2026-09-27T13:25:38+00:00"
     },
     {
-     "id": "fii10-riyadh-2026",
-     "date": "2026-10-26",
-     "type": "event",
-     "importance": 1,
-     "sourceType": "official",
-     "sourceName": "FII Institute",
-     "url": "https://fii-institute.org/",
-     "originalTitle": "",
-     "company": "FII Institute",
-     "endDate": "2026-10-29",
-     "dateConfidence": "confirmed",
-     "ar": {
-      "title": "مبادرة مستقبل الاستثمار FII10 تعود إلى الرياض من 26 إلى 29 أكتوبر",
-      "summary": "تُعقد النسخة العاشرة من مبادرة مستقبل الاستثمار من 26 إلى 29 أكتوبر في مركز الملك عبدالعزيز الدولي للمؤتمرات بالرياض، وتُعد التقنية أحد محاورها الأربعة.",
-      "details": "تُقام النسخة العاشرة من مبادرة مستقبل الاستثمار (FII10) على مدى أربعة أيام من 26 إلى 29 أكتوبر 2026 في مركز الملك عبدالعزيز الدولي للمؤتمرات بالرياض، تحت رعاية خادم الحرمين الشريفين الملك سلمان بن عبدالعزيز.\n\nويحمل المؤتمر هذا العام شعار «قوة الإرث»، وتدور نقاشاته حول أربعة محاور: رأس المال الذي يبني، والتقنية التي ترتقي، والمجتمعات التي تزدهر، والقيادة التي تُلهم. ويجمع رؤساء دول ومستثمرين وصناع سياسات ومبتكرين وقادة أعمال. ويُعد الذكاء الاصطناعي والروبوتات من مجالات التركيز الأساسية لمعهد مبادرة مستقبل الاستثمار، ما يجعل الحدث محطة تترقبها المنطقة لإعلانات الاستثمار والتقنية.",
-      "location": "الرياض، السعودية — مركز الملك عبدالعزيز الدولي للمؤتمرات"
-     },
-     "en": {
-      "title": "FII10: the Future Investment Initiative returns to Riyadh on October 26–29",
-      "summary": "The 10th Future Investment Initiative runs October 26–29 at the King Abdulaziz International Conference Center in Riyadh, with technology among its four pillars.",
-      "details": "The tenth edition of the Future Investment Initiative, FII10, takes place over four days from October 26 to 29, 2026, at the King Abdulaziz International Conference Center in Riyadh, under the patronage of King Salman bin Abdulaziz.\n\nThis year's theme is 'The Power of Legacy', with discussions built around four pillars: capital that builds, technology that elevates, societies that thrive and leadership that inspires. It brings together heads of state, investors, policymakers, innovators and business leaders. AI and robotics is one of the FII Institute's core focus areas, which makes the week a closely watched venue for investment and technology announcements in the region.",
-      "location": "Riyadh, Saudi Arabia — King Abdulaziz International Conference Center"
-     },
-     "addedAt": "2026-09-27T13:25:38+00:00"
-    },
-    {
      "id": "github-universe-2026",
      "date": "2026-10-28",
      "type": "event",
@@ -8081,6 +8098,33 @@
       "summary": "Web Summit Qatar's next edition runs January 31–February 3, 2027, in Doha. The 2026 edition was where Qatar's prime minister added $2 billion to QIA's Fund of Funds programme.",
       "details": "Web Summit Qatar returns to Doha from January 31 to February 3, 2027, bringing together start-ups, investors and technology companies from the region and beyond.\n\nThe event has become a platform for Qatar's technology and AI announcements. At the 2026 edition, on February 1, Prime Minister and Minister of Foreign Affairs Sheikh Mohammed bin Abdulrahman bin Jassim Al Thani announced an extra $2 billion for QIA's Fund of Funds programme, taking its total commitment to $3 billion, as five new funds joined, with specialisms including AI.\n\nSince then QIA has stepped up investments in AI infrastructure companies, and in September Qatar launched Doha Investment, a QIA-owned platform whose plans to build new national champions include the national AI platform Qai.",
       "location": "Doha, Qatar"
+     },
+     "addedAt": "2026-09-27T13:25:38+00:00"
+    },
+    {
+     "id": "fii10-riyadh-2026",
+     "date": "2027-10-01",
+     "type": "event",
+     "importance": 1,
+     "sourceType": "official",
+     "sourceName": "FII Institute",
+     "url": "https://fii-institute.org/",
+     "originalTitle": "",
+     "company": "FII Institute",
+     "dateConfidence": "expected",
+     "ar": {
+      "title": "مبادرة مستقبل الاستثمار FII10 تؤجَّل إلى عام 2027",
+      "summary": "أجّل معهد FII نسخته العاشرة من مبادرة مستقبل الاستثمار، التي كانت مقررة في 26-29 أكتوبر 2026 بالرياض، إلى عام 2027 دون تحديد مواعيد جديدة حتى الآن.",
+      "details": "كانت النسخة العاشرة من مبادرة مستقبل الاستثمار (FII10) مقررة في الرياض من 26 إلى 29 أكتوبر 2026، لكن معهد FII أعلن في 19 أكتوبر 2026 تأجيلها إلى عام 2027 دون تحديد مواعيد جديدة بعد.\n\nيبقى الذكاء الاصطناعي والروبوتات من أبرز محاور هذا المؤتمر الذي يجمع رؤساء دول ومستثمرين وقادة تقنية، وستُحدَّث هذه البطاقة فور الإعلان عن المواعيد الجديدة.",
+      "location": "الرياض، السعودية (المكان لم يُؤكَّد بعد)",
+      "dateNote": "تاريخ مؤقت فقط: كان المؤتمر مقرراً في 26-29 أكتوبر 2026 ثم أُجِّل في 19 أكتوبر 2026 إلى عام 2027 دون مواعيد محددة حتى الآن؛ سيُصحَّح عند الإعلان الرسمي."
+     },
+     "en": {
+      "title": "FII10 postponed from October 2026 to sometime in 2027",
+      "summary": "The FII Institute postponed its 10th Future Investment Initiative, originally set for October 26-29, 2026 in Riyadh, to 2027; no new dates have been announced yet.",
+      "details": "FII10, the tenth edition of the Future Investment Initiative, was set to run October 26-29, 2026 in Riyadh, but on October 19, 2026 the FII Institute announced it was postponing the event to 2027 without yet setting new dates.\n\nAI and robotics remain among the conference's core tracks, which bring together heads of state, investors and technology leaders. This entry will be corrected once official 2027 dates are announced.",
+      "location": "Riyadh, Saudi Arabia (venue not yet confirmed)",
+      "dateNote": "Placeholder date only: the event was originally scheduled for October 26-29, 2026, then postponed on October 19, 2026 to 2027 with no dates set yet; this will be corrected once announced officially."
      },
      "addedAt": "2026-09-27T13:25:38+00:00"
     }
