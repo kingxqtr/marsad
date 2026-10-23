@@ -1,0 +1,29 @@
+{
+  "topic": "once-human",
+  "generatedAt": "2026-10-24",
+  "news": [
+    {
+      "id": "oh-raidzone-illegal-teaming-crackdown",
+      "date": "2026-10-23",
+      "type": "announcement",
+      "importance": 1,
+      "sourceType": "official",
+      "sourceName": "Once Human — Official Website",
+      "url": "https://www.oncehuman.game/news/update/20261023/40780_1317585.html",
+      "originalTitle": "Announcement on Cracking Down on Illegal Teaming in RaidZone Mode",
+      "ar": {
+        "title": "Once Human تشن حملة ضد التحالفات غير القانونية في وضع RaidZone",
+        "summary": "يعلن Once Human عن حظر اللاعبين الذين يشكّلون تحالفات أكبر من المسموح خارج نظام Team في وضع RaidZone، مع حظر من 3 ساعات إلى 30 يومًا وخيار بلاغ جديد داخل اللعبة.",
+        "details": "نشر فريق تطوير Once Human في 23 أكتوبر إعلانًا يستهدف التحالفات غير القانونية في وضع RaidZone، معارك المواجهة بين اللاعبين داخل Hive. ويعني التحالف غير القانوني تجاوز نظام Team داخل اللعبة لتشكيل مجموعات أكبر من المسموح، والتنسيق عبر قنوات صوت أو دردشة خارجية، ثم مواجهة لاعبين آخرين بشكل غير عادل كمجموعة متكاتفة.\n\nوقال الفريق إنه يراقب نشاط RaidZone فعليًا، ويراجع بيانات السيرفرات الحية بأثر رجعي كل يوم. وأصبح بإمكان اللاعبين الآن الإبلاغ عن المخالفين مباشرة عبر خيار بلاغ جديد باسم \"Illegal Teaming\" داخل اللعبة، على أن تُنشر نتائج المراجعة ضمن إعلانات Fair Operations الدورية.\n\nويواجه المخالفون المؤكدون عقوبة من المستوى الأول: رسالة تحذير داخل اللعبة مع حظر للشخصية يتراوح بين 3 ساعات و7 أيام، بحسب تكرار المخالفة وجسامتها. أما الحسابات ذات المخالفات المتكررة أو الجسيمة فقد تتلقى إضافةً عقوبة من المستوى الثاني، وهي حظر للحساب يصل إلى 30 يومًا. وتبقى جميع العقوبات مسجّلة في سجل الحساب، وتُحسب المخالفات المتراكمة حتى عبر تغيّر المواسم."
+      },
+      "en": {
+        "title": "Once Human cracks down on illegal teaming in RaidZone mode",
+        "summary": "Once Human will ban players who form oversized groups outside the Team function in RaidZone, with bans of 3 hours to 30 days and a new in-game report option.",
+        "details": "Once Human's developers posted an October 23 announcement targeting illegal teaming in RaidZone, the mode's player-versus-player Hive battles. Illegal teaming means bypassing the game's own Team function to form oversized groups, coordinating through outside voice or chat channels, and fighting other players as an unfair pack.\n\nThe team said it already monitors RaidZone activity and reviews live server data retroactively each day. Players can now also flag suspects directly through a new in-game \"Illegal Teaming\" report option, and review results will be published in regular Fair Operations announcements.\n\nConfirmed violators face a first-tier penalty: an in-game mail warning plus a character ban of 3 hours to 7 days, scaled to how often and how badly they've offended. Accounts with repeated or severe violations can additionally receive a second-tier account ban of up to 30 days. All penalties stay on an account's record, and violations carry over between seasons."
+      }
+    }
+  ],
+  "upcoming": [],
+  "removeUpcoming": [],
+  "removeNews": []
+}
