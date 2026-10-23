@@ -191,6 +191,27 @@
         "summary": "Ai2, with University of Pennsylvania collaborators, built LitPivot, a tool that groups relevant papers around a research idea and offers literature-backed critiques and revisions; it will be presented at UIST 2026.",
         "details": "The Allen Institute for AI (Ai2), working with collaborators at the University of Pennsylvania, announced a new research tool called LitPivot in a Hugging Face Blog post on October 23. The tool will be presented at UIST 2026.\n\nLitPivot helps researchers revise early-stage research ideas by grouping papers from Ai2's Asta Paper Finder around the specific part of the idea being edited — the problem, the contribution, or the evaluation plan — then offering literature-backed critiques and revision suggestions that the user can accept, edit or reject."
       }
+    },
+    {
+      "id": "meta-forum-admin-ai-tools",
+      "date": "2026-10-23",
+      "type": "product",
+      "importance": 1,
+      "sourceType": "official",
+      "sourceName": "Meta Newsroom",
+      "url": "https://about.fb.com/news/2026/10/new-tools-for-the-admins-who-build-communities-on-forum/",
+      "originalTitle": "New Tools for the Admins Who Build Communities on Forum",
+      "company": "Meta",
+      "ar": {
+        "title": "ميتا تضيف أدوات ذكاء اصطناعي للإدارة في تطبيق Forum",
+        "summary": "توسّع ميتا مساعد Admin AI في تطبيق Forum لمجموعات فيسبوك، ليصبح قادرًا على صياغة المنشورات والتحقق من توافقها مع قواعد المجموعة.",
+        "details": "وسّعت ميتا ميزات Admin AI، المساعد المدمج في تطبيق Forum المخصص لإدارة مجموعات فيسبوك. كانت الأداة تساعد المسؤولين سابقًا على فرز طلبات الأعضاء والمنشورات المعلّقة، وأصبحت الآن قادرة على صياغة منشورات يراجعها المسؤولون وينشرونها.\n\nأضافت ميتا أيضًا ميزة تتحقق من المنشورات المعلّقة مقارنةً بقواعد المجموعة، وتضع على كل منشور علامة تشير إلى احتمال توافقه مع القواعد أو مخالفته لها، مما يسهّل على المسؤولين اتخاذ القرار بسرعة.\n\nتطبيق Forum متاح حاليًا للتحميل في الولايات المتحدة على أنظمة iOS وAndroid."
+      },
+      "en": {
+        "title": "Meta adds AI moderation tools to its Forum groups app",
+        "summary": "Meta's Admin AI now drafts posts for group admins and flags whether pending posts match group rules, inside the Forum app for Facebook Groups.",
+        "details": "Meta expanded Admin AI, the assistant built into its Forum app for managing Facebook Groups. The tool already helped admins triage member requests and pending posts; it can now draft posts for admins to review and publish.\n\nMeta also added a feature that checks pending posts against a group's own rules and tags each one as likely compliant or likely against the rules, so admins can decide faster whether to approve them.\n\nForum is currently available to download in the United States on iOS and Android."
+      }
     }
   ],
   "upcoming": [],
