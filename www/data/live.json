@@ -1,25 +1,4 @@
 {
- "updatedAt": "2026-10-23T04:48:49+00:00",
- "items": [
-  {
-   "id": "auto-a9446fab1c2e",
-   "tab": "ai",
-   "date": "2026-10-23",
-   "publishedAt": "2026-10-23T02:00:13+00:00",
-   "type": "hardware",
-   "importance": 1,
-   "sourceType": "official",
-   "sourceName": "NVIDIA Blog",
-   "url": "https://blogs.nvidia.com/blog/kazakhstan-ai-compute-ecosystem/",
-   "originalTitle": "Kazakhstan Expands Compute for Its AI Future",
-   "en": {
-    "title": "Kazakhstan Expands Compute for Its AI Future",
-    "summary": "Kazakhstan’s AI ecosystem is moving from infrastructure plans to deployment. The shift is visible across the full AI stack — from infrastructure to models to applications.",
-    "details": "Kazakhstan’s AI ecosystem is moving from infrastructure plans to deployment.\n\nThe shift is visible across the full AI stack — from infrastructure to models to applications.\n\nTogether, the ecosystem announcements below point to the nation’s increasing supply of accelerated computing — along with its growing demand for what comes next.\n\nRead All NVIDIA in Europe Announcements\n\nThe Infrastructure Layer Is Scaling\n\nBuilding on its first AI factory in Armenia, Firebird is expanding into Kazakhstan, where it has secured a U.S. export license for 45,000 NVIDIA Grace Blackwell GPUs. The first phase is under construction with Kazakhtelecom at Data Center Valley, targeting commercial launch in the third quarter of 2027.\n\nA planned second phase would bring Firebird’s total potential AI infrastructure capacity in Kazakhstan to approximately 500 megawatts. Firebird also plans to establish Firebird Labs Kazakhstan to support local AI startups, research and talent development through funding, access to compute and research partnerships.\n\nKazakhtelecom , the nation’s largest telecommunications company, has already deployed 400 NVIDIA H200 and 480 NVIDIA B300 GPUs in Astana and Almaty.\n\nNext year, the company plans to deploy more than 1,000 GPUs in the Data Center Valley, along with more than 1,000 NVIDIA Vera Rubin GPUs in the Ekibastuz region, serving diverse workloads with infrastructure that enterprises, developers and institutions can use at scale. …"
-   },
-   "translated": false,
-   "fetchedAt": "2026-10-23T02:34:37+00:00",
-   "company": "NVIDIA"
-  }
- ]
+ "updatedAt": "2026-10-23T05:16:12+00:00",
+ "items": []
 }
