@@ -1,9 +1,9 @@
 {
  "version": 1,
- "updatedAt": "2026-10-22T23:11:16+00:00",
+ "updatedAt": "2026-10-23T00:09:20+00:00",
  "coverage": {
-  "from": "2026-07-22",
-  "to": "2026-10-22"
+  "from": "2026-07-23",
+  "to": "2026-10-23"
  },
  "tabs": {
   "once-human": {
@@ -700,27 +700,6 @@
       "details": "The sixth \"Meta Hotline\" report responded to the most-liked suggestions on the Once Human Feedback Platform as of July 22.\n\nResponses:\n- High Risk Event cooldowns: already viewable via the eye icon on the map, with a warning before teleporting\n- More rewards in Collection Loot Crates: accepted and moved up the priority list; rewards and timing to be announced\n- Rename cards shareable across an account: accepted and prioritised\n- A filter for weapon calibration blueprints: accepted; filtering and sorting are in development\n- Auto-harvest for livestock byproducts: accepted, through a new Deviation planned for next year\n- Bulk transfer and cleanup for depots: accepted, but with no schedule yet because of performance and data-safety concerns\n\nThe Feedback Hot Charts, added with version 2.3.7, let players like or dislike requests, and the team publishes a progress report after each version update."
      },
      "addedAt": "2026-07-23T23:59:59+00:00"
-    },
-    {
-     "id": "oh-version-3-0-2-update",
-     "date": "2026-07-22",
-     "type": "update",
-     "importance": 2,
-     "sourceType": "official",
-     "sourceName": "Once Human — Official Website",
-     "url": "https://www.oncehuman.game/news/update/20260722/40780_1308595.html",
-     "originalTitle": "Version 3.0.2 Update Announcement (July 22)",
-     "ar": {
-      "title": "تحديث 3.0.2 يضيف قفل العناصر ومشاركة المظهر ومناطق التلوث في RaidZone",
-      "summary": "جلب تحديث 22 يوليو ميزة قفل العناصر، وتبديل نقاط الالتصاق في البناء، ومشاركة إعدادات المظهر على مستوى الحساب، وطور Mental Pollution في RaidZone، وإضعاف SN700.",
-      "details": "وصل الإصدار 3.0.2 بعد صيانة في 22 يوليو الساعة 4:00 عصرًا بتوقيت المحيط الهادئ (2:00 فجر 23 يوليو بتوقيت الخليج)، بحجم نحو 7.7 غيغابايت لمشغّل PC ونحو 400 ميغابايت على Android وiOS.\n\nأبرز التغييرات:\n- قفل العناصر: الأنواع المقفلة لا يمكن رميها خطأً أو بيعها أو عرضها للتداول أو تفكيكها جماعيًا\n- البناء: تبديل نقاط الالتصاق للجدران والأسقف والسلالم والأعمدة (Shift مع عجلة الفأرة على PC)\n- مشاركة إعدادات المظهر بين جميع شخصيات الحساب (حتى 12 لكل جنس)\n- مناطق Mental Pollution في RaidZone: استبدال Sanity بمؤشر Mentality، وإضافة خاصية مقاومة ذهنية للعتاد وأربع قطع حماية جديدة\n- موازنة Deviations في RaidZone منها ZapCam وMini Wonder وPyro Dino\n- إضعاف SN700 – Finale: خفض الحد الأقصى لتراكمات Reverb من 5 إلى 4 مع رفع قيمة كل تراكم من 4% إلى 5%\n- ست سمكات نادرة جديدة وتبسيط لعبة الصيد\n\nكما حصلت الخوادم المخصصة على صفحة رئيسية جديدة وزنزانات قابلة للتعديل، وعادت خمسة صناديق Lightforge سابقة ضمن حدث Summer Wave."
-     },
-     "en": {
-      "title": "Version 3.0.2 adds Item Lock, shared appearance presets and RaidZone pollution",
-      "summary": "The July 22 (PT) patch brought an Item Lock, snap-point switching for building, account-wide appearance presets, a RaidZone 'Mental Pollution' mode and an SN700 nerf.",
-      "details": "Version 3.0.2 arrived after maintenance on July 22 at 4:00 PM PT (2:00 AM on July 23, Gulf time). The download was about 7.7 GB on the PC launcher and roughly 400 MB on Android and iOS.\n\nKey changes:\n- Item Lock: locked item types can't be discarded by accident, sold, listed or bulk-dismantled\n- Building: snap-point switching for walls, roofs, stairs and pillars (Shift + mouse wheel on PC)\n- Appearance presets shared across all characters on an account (up to 12 per gender)\n- RaidZone \"Mental Pollution\" zones: Sanity is replaced by Mentality, gear gains a Mental Resistance stat, and four protective gear pieces were added\n- RaidZone Deviation balance for ZapCam, Mini Wonder and Pyro Dino\n- SN700 – Finale nerf: maximum Reverb stacks cut from 5 to 4, with each stack now worth 5% instead of 4%\n- Six new variant fish and a simpler fishing mini-game\n\nCustom Servers got a redesigned homepage and editable custom dungeons, and five past Lightforge crates returned in a \"Summer Wave\" rerun."
-     },
-     "addedAt": "2026-07-22T23:59:59+00:00"
     }
    ],
    "upcoming": [
@@ -1630,48 +1609,6 @@
       "details": "CIG released Alpha 4.10 to Wave 1 of the Public Test Universe on 23 July (build 4.10.0-PTU.12311913), running on US servers with long-term persistence enabled. Testing focused on stability and the new instanced version of Siege of Orison.\n\nThe first build fixed 13 client crashes and two main-thread deadlocks, improved performance in Levski and widened the medic gun's healing range from 1.5 to 2.5 metres, but listed known issues such as a severe frame-rate drop near the Solanki platform.\n\nOn 31 July testing opened to all waves, adding hydrogen fuel balance, the Arlington lever-action rifle, Recco Battaglia's missions, Wikelo updates and an early version of Orison Relief Support. CIG then issued near-daily builds and ran focused stress tests in mid-August ahead of the 26 August launch."
      },
      "addedAt": "2026-07-23T23:59:59+00:00"
-    },
-    {
-     "id": "sc-spectrum-redesign-phase-1",
-     "date": "2026-07-22",
-     "type": "community",
-     "importance": 1,
-     "sourceType": "official",
-     "sourceName": "RSI Spectrum – Announcements",
-     "url": "https://robertsspaceindustries.com/spectrum/community/SC/forum/1/thread/spectrum-redesign-phase-1-now-live",
-     "originalTitle": "Spectrum Redesign: Phase 1 Now Live",
-     "ar": {
-      "title": "بدء إعادة تصميم منتدى Spectrum بواجهة جديدة ولوحة للرسائل المباشرة",
-      "summary": "انطلقت في 22 يوليو المرحلة الأولى من إعادة تصميم منصة Spectrum المجتمعية التابعة لـ RSI، بواجهة أوضح وشريط جانبي جديد ولوحة مخصصة للرسائل المباشرة وتجربة محدثة على الهاتف.",
-      "details": "أطلقت CIG في 22 يوليو المرحلة الأولى من إعادة تصميم Spectrum، المنصة الرسمية للمنتديات والدردشة الخاصة بـ Star Citizen وSquadron 42.\n\n- تخطيط محدث وشريط جانبي جديد للمجتمعات والإشارات المرجعية والتنقل\n- نقل الرسائل المباشرة إلى لوحة مخصصة في شريط التنقل العلوي\n- تجربة محدثة على الهاتف بشريط تنقل خاص وتصفح أسهل لصفحات المجتمعات وغرف الدردشة\n\nوتبعتها المرحلة الثانية في 8 سبتمبر بتصميم أكثر انسيابية لقائمة المواضيع. وتقول الشركة إن المواضيع والرسائل هي الخطوة التالية، مع إعادة بناء دعم Markdown من الصفر وخيارات تنسيق أغنى، ودعت اللاعبين إلى اقتراح التحسينات الأهم بالنسبة إليهم."
-     },
-     "en": {
-      "title": "Spectrum forum redesign begins with new layout and direct-message panel",
-      "summary": "The first phase of a redesign of RSI's Spectrum community platform went live on 22 July, with a cleaner layout, a new sidebar, a dedicated direct-message panel and a refreshed mobile view.",
-      "details": "CIG rolled out the first phase of its Spectrum redesign on 22 July. Spectrum is the official forum and chat platform for Star Citizen and Squadron 42.\n\n- Updated layout and a redesigned sidebar for communities, bookmarks and navigation\n- Direct messages moved to a dedicated panel in the top navigation bar\n- A refreshed mobile experience with its own navigation bar and easier-to-browse community pages and lobbies\n\nPhase 2 followed on 8 September with a more linear thread list. CIG says threads and messages come next, including Markdown support rebuilt from scratch and richer formatting, and it asked players to suggest the quality-of-life changes they want most."
-     },
-     "addedAt": "2026-07-22T23:59:59+00:00"
-    },
-    {
-     "id": "sc-ship-matrix-live-specs",
-     "date": "2026-07-22",
-     "type": "development",
-     "importance": 1,
-     "sourceType": "official",
-     "sourceName": "RSI Spectrum – Announcements",
-     "url": "https://robertsspaceindustries.com/spectrum/community/SC/forum/1/thread/ship-matrix-specs-now-straight-from-the-game",
-     "originalTitle": "Ship Matrix Specs, Now Straight from the Game",
-     "ar": {
-      "title": "Ship Matrix على موقع RSI يستمد مواصفات السفن مباشرة من اللعبة",
-      "summary": "باتت قاعدة بيانات Ship Matrix الرسمية على موقع RSI تعكس إحصاءات كل سفينة من الإصدار الحالي للعبة، منهيةً التأخر الناتج عن نسخ المواصفات يدويًا.",
-      "details": "أعلنت CIG في 22 يوليو أن Ship Matrix، قاعدة البيانات الرسمية لمواصفات السفن على موقع RSI، أصبحت تستمد بياناتها مباشرة من اللعبة.\n\nوحتى ذلك الحين كانت الأرقام تُنقل يدويًا، فتتقادم باستمرار مع إعادة موازنة السفن من تحديث إلى آخر. أما الآن فتعكس القاعدة الإصدار المنشور حاليًا على الخوادم الرسمية، بحيث يظهر أي تغيير في إحصاءات السفينة داخل اللعبة على الموقع تلقائيًا.\n\nوكان مختبرو Evocati قد اطلعوا على النظام مبكرًا في يونيو قبل إتاحته للجميع. وبالنسبة للاعبين الذين يقارنون بين السفن، يُفترض أن تتطابق الأرقام الرسمية الآن مع ما يجدونه فعليًا داخل اللعبة."
-     },
-     "en": {
-      "title": "RSI Ship Matrix now pulls ship specifications straight from the game",
-      "summary": "The official Ship Matrix on the RSI website now reflects each ship's statistics from the current live build, ending the lag caused by manually copied specs.",
-      "details": "CIG announced on 22 July that the RSI Ship Matrix, the website's official database of ship specifications, now takes its data directly from the game.\n\nUntil then the figures were transcribed by hand and regularly drifted out of date as ships were rebalanced from patch to patch. The matrix now reflects the currently published live build, so a change to a ship's stats in game should appear on the site automatically.\n\nEvocati testers had an early look at the system in June before it went live for everyone. For players comparing ships, the official figures should now match what they actually fly in the game."
-     },
-     "addedAt": "2026-07-22T23:59:59+00:00"
     }
    ],
    "upcoming": [
@@ -7571,32 +7508,6 @@
       "details": "Canva World Tour is back for 2026, running worldwide from September 14 through November 30.\n\n- Format: Canva teams in different countries host local community meetups and live training sessions; an event finder is available at canva.com/events.\n- AI Essentials: a new free certification that anyone can complete at their own pace, covering how to get the most out of Canva AI.\n- Design School: short, mobile-first lessons that teach one skill at a time, some lasting about 90 seconds.\n\nAll of the learning content can also be followed online through Canva Design School at any time during the campaign, so people can take part even without a local event nearby.",
       "location": "Worldwide (local events and online)",
       "dateNote": "Campaign started September 14 and ends November 30, 2026."
-     },
-     "addedAt": "2026-09-27T13:25:38+00:00"
-    },
-    {
-     "id": "nvidia-gtc-berlin-2026",
-     "date": "2026-10-20",
-     "type": "event",
-     "importance": 1,
-     "sourceType": "official",
-     "sourceName": "NVIDIA — GTC Berlin",
-     "url": "https://www.nvidia.com/en-eu/gtc/",
-     "originalTitle": "",
-     "company": "NVIDIA",
-     "endDate": "2026-10-22",
-     "dateConfidence": "confirmed",
-     "ar": {
-      "title": "مؤتمر NVIDIA GTC Berlin 2026 وكلمة رئيسية لجنسن هوانغ في 21 أكتوبر",
-      "summary": "يُعقد مؤتمر GTC الأوروبي من NVIDIA في برلين بين 20 و22 أكتوبر، ويلقي الرئيس التنفيذي جنسن هوانغ كلمته الرئيسية في 21 أكتوبر من الساعة 12 ظهراً حتى 2 بعد الظهر بتوقيت الدوحة.",
-      "details": "تستضيف NVIDIA مؤتمر GTC Berlin من 20 إلى 22 أكتوبر 2026، على أن يُقام المؤتمر الرئيسي في STATION-Berlin والكلمة الرئيسية في قاعة Tempodrom. ويلقي المؤسس والرئيس التنفيذي جنسن هوانغ كلمته يوم الأربعاء 21 أكتوبر من 11 صباحاً حتى 1 ظهراً بتوقيت وسط أوروبا الصيفي، أي من 12 ظهراً حتى 2 بعد الظهر بتوقيت الدوحة والرياض، ومن 1 حتى 3 بعد الظهر بتوقيت الإمارات.\n\nوعادة ما تكون كلمات GTC منصة NVIDIA لكشف رقائق وأنظمة وبرمجيات وشراكات جديدة. ويُعد هذا المؤتمر محطتها الأوروبية الرئيسية هذا العام، بعد GTC Taipei خلال معرض Computex في يونيو، وقبل GTC Washington, D.C. من 30 نوفمبر إلى 3 ديسمبر. وتتوزع الجلسات وورش العمل على الأيام الثلاثة.",
-      "location": "برلين، ألمانيا — STATION-Berlin (الكلمة الرئيسية في Tempodrom)"
-     },
-     "en": {
-      "title": "NVIDIA GTC Berlin 2026, with a Jensen Huang keynote on October 21",
-      "summary": "NVIDIA's European GTC runs October 20–22 in Berlin. CEO Jensen Huang gives the keynote on October 21 at the Tempodrom, 11 a.m.–1 p.m. CEST (noon–2 p.m. Doha time).",
-      "details": "NVIDIA holds GTC Berlin from October 20 to 22, 2026, with the main conference at STATION-Berlin and the keynote at the Tempodrom. Founder and CEO Jensen Huang is scheduled to speak on Wednesday, October 21, from 11 a.m. to 1 p.m. Central European Summer Time — noon to 2 p.m. in Doha and Riyadh, and 1 to 3 p.m. in the UAE.\n\nGTC keynotes are where NVIDIA usually unveils new chips, systems, software and partnerships. Berlin is the company's main European GTC of 2026, following GTC Taipei at Computex in June and ahead of GTC Washington, D.C. from November 30 to December 3. Sessions and workshops run across all three days.",
-      "location": "Berlin, Germany — STATION-Berlin (keynote at the Tempodrom)"
      },
      "addedAt": "2026-09-27T13:25:38+00:00"
     },
