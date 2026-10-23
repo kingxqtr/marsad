@@ -1,4 +1,24 @@
 {
- "updatedAt": "2026-10-23T11:38:55+00:00",
- "items": []
+ "updatedAt": "2026-10-23T12:07:00+00:00",
+ "items": [
+  {
+   "id": "auto-483b35422717",
+   "tab": "ai",
+   "date": "2026-10-23",
+   "publishedAt": "2026-10-23T07:47:43+00:00",
+   "type": "coding",
+   "importance": 1,
+   "sourceType": "community",
+   "sourceName": "r/LocalLLaMA",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xd7ptj/models_disappearing_from_huggingface/",
+   "originalTitle": "Models disappearing from Huggingface",
+   "en": {
+    "title": "Models disappearing from Huggingface",
+    "summary": "Community post on r/LocalLLaMA. I've been noticing a lot of my downloads stopping suddenly and being unable to resume. When I checked the models it seemed like they were gone.",
+    "details": "Community post on r/LocalLLaMA.\n\nI've been noticing a lot of my downloads stopping suddenly and being unable to resume. When I checked the models it seemed like they were gone. Here's the ones I can see are missing:\n\n- dealignai/MiMo-V2.6-Pro-RL-UNCENSORED\n\n- audnai/penclaw-GLM-5.3-abliterated-for-offensive-cyber\n\n- huihui-ai/Huihui-Kimi-K2.7-Code-abliterated-GGUF\n\nand somehow not a single Alliterated Deepseek-R1.\n\nDoes anyone know what's going on and where else the vanished models might be found?"
+   },
+   "translated": false,
+   "fetchedAt": "2026-10-23T12:07:00+00:00"
+  }
+ ]
 }
