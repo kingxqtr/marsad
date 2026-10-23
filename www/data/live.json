@@ -1,4 +1,25 @@
 {
- "updatedAt": "2026-10-23T05:50:07+00:00",
- "items": []
+ "updatedAt": "2026-10-23T06:17:15+00:00",
+ "items": [
+  {
+   "id": "auto-587ea9996825",
+   "tab": "ai",
+   "date": "2026-10-23",
+   "publishedAt": "2026-10-23T00:00:00+00:00",
+   "type": "product",
+   "importance": 1,
+   "sourceType": "official",
+   "sourceName": "OpenAI News",
+   "url": "https://openai.com/index/openai-nask-ai-safety-security-partnership",
+   "originalTitle": "OpenAI and Poland’s NASK partner to advance AI safety and security",
+   "en": {
+    "title": "OpenAI and Poland’s NASK partner to advance AI safety and security",
+    "summary": "OpenAI and Poland’s NASK are partnering on AI safety, security, and technical research to strengthen safeguards and support a more resilient digital ecosystem.",
+    "details": "OpenAI and Poland’s NASK are partnering on AI safety, security, and technical research to strengthen safeguards and support a more resilient digital ecosystem."
+   },
+   "translated": false,
+   "fetchedAt": "2026-10-23T06:17:10+00:00",
+   "company": "OpenAI"
+  }
+ ]
 }
