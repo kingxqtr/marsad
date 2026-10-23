@@ -1,25 +1,4 @@
 {
- "updatedAt": "2026-10-23T00:49:13+00:00",
- "items": [
-  {
-   "id": "auto-2dc0c236ee1f",
-   "tab": "ai",
-   "date": "2026-10-23",
-   "publishedAt": "2026-10-23T00:17:51+00:00",
-   "type": "coding",
-   "importance": 1,
-   "sourceType": "official",
-   "sourceName": "GitHub Changelog",
-   "url": "https://github.blog/changelog/2026-10-22-github-copilot-in-visual-studio-september-update-2",
-   "originalTitle": "GitHub Copilot in Visual Studio — September update",
-   "en": {
-    "title": "GitHub Copilot in Visual Studio — September update",
-    "summary": "September 2026 brought deeper visibility into your work: explore pull requests without leaving chat, bring the AI model your team trusts, and fix vulnerable packages the moment Visual Studio flags them.",
-    "details": "September 2026 brought deeper visibility into your work: explore pull requests without leaving chat, bring the AI model your team trusts, and fix vulnerable packages the moment Visual Studio flags them.\n\nHighlights\n\nHere’s what’s new with GitHub Copilot in Visual Studio 2026. Check the Insiders channel for the latest:\n\n- Explore pull requests with the Git agent : The Git agent can now explore a pull request for you. Open GitHub Copilot Chat, select the Git agent, and attach a pull request as context from the Git Repository window to get a summary with navigable links to the underlying comments and files. This functionality requires connecting your Git provider’s MCP servers; GitHub and Azure DevOps are both supported.\n\n- Updates to Bring Your Own Model (BYOM) : BYOM is available in preview and lets you use the models your team prefers, through GitHub Copilot or your own model deployments, whether or not you’re signed in to GitHub. This feature is on by default across the Community, Professional, and Enterprise editions. Breaking change: BYOM now requires the new Agent (Preview), built on the GitHub Copilot SDK-powered harness. The previous Ask and Agent modes no longer support BYOM, and you’ll need to re-add previously configured Ollama models after updating. Supported providers include Microsoft Foundry, OpenAI, Anthropic, and Ollama. …"
-   },
-   "translated": false,
-   "fetchedAt": "2026-10-23T00:49:06+00:00",
-   "company": "GitHub"
-  }
- ]
+ "updatedAt": "2026-10-23T01:26:03+00:00",
+ "items": []
 }
