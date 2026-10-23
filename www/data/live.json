@@ -1,6 +1,44 @@
 {
- "updatedAt": "2026-10-23T19:56:28+00:00",
+ "updatedAt": "2026-10-23T20:20:02+00:00",
  "items": [
+  {
+   "id": "auto-1daf77e31ae8",
+   "tab": "ai",
+   "date": "2026-10-23",
+   "publishedAt": "2026-10-23T15:26:47+00:00",
+   "type": "coding",
+   "importance": 1,
+   "sourceType": "community",
+   "sourceName": "r/LocalLLaMA",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xdh57e/vibecoding_your_own_inference_engine_is_easy_they/",
+   "originalTitle": "Vibecoding your own inference engine is easy they said",
+   "en": {
+    "title": "Vibecoding your own inference engine is easy they said",
+    "summary": "Community post on r/LocalLLaMA. guys, you better just clone llama.cpp I swear. this thing is running gguf q4 paged into webgl2 embedded compute buffers via glsl right inside html, and tokenizer/vocab is just part of the endless debug hell.",
+    "details": "Community post on r/LocalLLaMA.\n\nguys, you better just clone llama.cpp I swear.\nthis thing is running gguf q4 paged into webgl2 embedded compute buffers via glsl right inside html, and tokenizer/vocab is just part of the endless debug hell."
+   },
+   "translated": false,
+   "fetchedAt": "2026-10-23T20:20:02+00:00"
+  },
+  {
+   "id": "auto-992047518f73",
+   "tab": "ai",
+   "date": "2026-10-23",
+   "publishedAt": "2026-10-23T01:12:49+00:00",
+   "type": "product",
+   "importance": 1,
+   "sourceType": "community",
+   "sourceName": "r/LocalLLaMA",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xd0fgs/minimaxm31flash/",
+   "originalTitle": "MiniMax-M3.1-Flash",
+   "en": {
+    "title": "MiniMax-M3.1-Flash",
+    "summary": "Community post on r/LocalLLaMA. https://huggingface.co/MiniMaxAI/MiniMax-M3.1-Flash",
+    "details": "Community post on r/LocalLLaMA.\n\nhttps://huggingface.co/MiniMaxAI/MiniMax-M3.1-Flash"
+   },
+   "translated": false,
+   "fetchedAt": "2026-10-23T20:20:02+00:00"
+  },
   {
    "id": "auto-483b35422717",
    "tab": "ai",
