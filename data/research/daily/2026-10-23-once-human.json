@@ -1,0 +1,29 @@
+{
+  "topic": "once-human",
+  "generatedAt": "2026-10-23",
+  "news": [
+    {
+      "id": "oh-3-1-1-bugfixes-oct23",
+      "date": "2026-10-23",
+      "type": "update",
+      "importance": 1,
+      "sourceType": "official",
+      "sourceName": "Once Human — Steam News",
+      "url": "https://store.steampowered.com/news/app/2139460/view/1847286114035943",
+      "originalTitle": "3.1.1 Bug Fixes (October 23)",
+      "ar": {
+        "title": "Once Human: مجموعة إصلاحات أخطاء جديدة لتحديث 3.1.1 في 23 أكتوبر",
+        "summary": "أصدر فريق Once Human دفعة إصلاحات أخطاء جديدة لتحديث 3.1.1، شملت مشاكل الخوادم المخصصة والصوت والحركة على متن السفن، مع إصلاحات أخرى متوقعة قريبًا.",
+        "details": "نشر فريق Once Human في 23 أكتوبر دفعة جديدة من إصلاحات الأخطاء لتحديث 3.1.1 عبر نشرة Steam.\n\nمن الإصلاحات المكتملة: ظهور تحذير تكرار اسم الشخصية في الخوادم المخصصة بشكل صحيح بعد أن كان يختفي ويمنع الدخول، وانقطاع صوت الأغاني عند تشغيلها على مشغل الووكمان، وتأخر أو تراجع موضع الشخصيات أثناء الحركة على متن سفينة متحركة، وغياب خاصية الميمتكس في بعض الخوادم المخصصة، وتعذر قطع الأشجار في بعض مناطق جزر الهاوية على الأجهزة المحمولة، وتعذر إتمام مهمة \"التوجه إلى منطقة جديدة\" في الخوادم المخصصة، وعرض خاطئ لشريط صحة الوحش Mr.Wishmonmon.\n\n- إصلاحات أخرى متوقعة قبل الساعة 08:30 بتوقيت المحيط الهادئ قد يختلف وقت اكتمالها الفعلي: تعديلات Precision Load وتعزيز المدفع التي لم تكن تعمل في بعض المستويات، وعرض غير دقيق لموارد المياه في غرب جزر الهاوية، وغياب مؤثرات صوتية لحركة الوقوف وتأثيرات بصرية للعين في مجموعة Underworld Echo."
+      },
+      "en": {
+        "title": "Once Human ships another round of 3.1.1 bug fixes on October 23",
+        "summary": "Once Human's team posted a fresh batch of 3.1.1 bug fixes covering custom-server issues, audio and ship-movement glitches, with more fixes expected shortly after.",
+        "details": "Once Human's team published another round of 3.1.1 bug fixes via Steam news on October 23.\n\nCompleted fixes include: the duplicate character name warning in custom servers now appears correctly instead of silently blocking entry; the walkman now plays sound when songs are selected; characters no longer lag or roll back position while moving on a ship in motion; missing memetics in some custom servers were restored; mobile players can now chop trees in certain areas of the Isles of Abyss; the \"Head to a New Area\" task in custom servers can now be completed; and the Mr.Wishmonmon boss's health bar now displays correctly.\n\n- Additional fixes expected by 08:30 PT, though actual timing may vary: Precision Load and Turret Enhancement mods not working at certain levels, inaccurate water-resource visuals in western Isles of Abyss, and missing standing-animation sound effects and eye VFX on the Underworld Echo cosmetic set."
+      }
+    }
+  ],
+  "upcoming": [],
+  "removeUpcoming": [],
+  "removeNews": []
+}
