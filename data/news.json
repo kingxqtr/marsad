@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": "2026-10-23T21:14:32+00:00",
+ "updatedAt": "2026-10-23T22:10:54+00:00",
  "coverage": {
   "from": "2026-07-23",
   "to": "2026-10-23"
@@ -1827,6 +1827,28 @@
       "details": "NVIDIA published a blog post on October 23 describing Kazakhstan's shift from planning AI infrastructure to actually deploying it across compute, models and applications. Leading the buildout is Firebird, which secured a U.S. export license for about 45,000 NVIDIA Grace Blackwell GPUs and is building its first phase with Kazakhtelecom at the Data Center Valley facility, targeting commercial operation in the third quarter of 2027.\n\nA proposed second phase would raise the project's total power capacity in Kazakhstan to roughly 500 megawatts, and Firebird also plans a local lab to support AI startups and research. The post notes that Kazakhtelecom, the country's largest telecom operator, has already deployed 400 NVIDIA H200 and 480 B300 GPUs across Astana and Almaty.\n\n- Kazakhtelecom plans to add more than 1,000 further GPUs at Data Center Valley next year.\n- It also plans to deploy more than 1,000 NVIDIA Vera Rubin GPUs in the Ekibastuz region."
      },
      "addedAt": "2026-10-23T05:10:03+00:00"
+    },
+    {
+     "id": "github-copilot-teams-app-launch",
+     "date": "2026-10-23",
+     "type": "coding",
+     "importance": 1,
+     "sourceType": "official",
+     "sourceName": "GitHub Changelog",
+     "url": "https://github.blog/changelog/2026-10-23-turn-notifications-into-code-with-github-copilot-in-teams",
+     "originalTitle": "Turn notifications into code with GitHub Copilot in Teams",
+     "company": "GitHub",
+     "ar": {
+      "title": "GitHub يطلق تطبيقاً موحداً يجمع إشعاراته و Copilot في Teams",
+      "summary": "أطلقت GitHub تطبيقاً جديداً في Microsoft Teams يجمع إشعارات المستودعات مع Copilot، فيمكن استدعاء ‪@GitHub‬ لإصلاح الأخطاء أو إنشاء طلبات سحب من داخل المحادثة.",
+      "details": "أطلقت GitHub تطبيقاً موحداً جديداً في Microsoft Teams يحل محل تطبيق إشعارات GitHub السابق، ويجمع بين إشعارات المستودعات ومساعد البرمجة Copilot في مكان واحد.\n\nيمكن للفريق تلقي إشعارات المشكلات وطلبات السحب داخل القنوات أو الدردشات الجماعية أو الخاصة، ثم الرد باستدعاء ‪@GitHub‬ لتحليل المشكلة أو إصلاح الخلل أو تشغيل الاختبارات أو فتح طلب سحب جديد، مستفيداً من سياق المحادثة والمشكلة أو طلب السحب المرتبط بها.\n\n- تلقي الإشعار: يصل إشعار مشكلة GitHub داخل محادثة Teams.\n- اتخاذ الإجراء: استدعاء ‪@GitHub‬ لتحليل المشكلة وإصلاحها وإنشاء طلب سحب.\n- المراجعة والدمج: يراجع الفريق التغييرات المقترحة ويختبرها ويدمجها.\n\nويتعين على مستخدمي تطبيق إشعارات GitHub القديم، الذي سيُعاد تسميته «GitHub (deprecated)» ويُسحب في 16 نوفمبر، تثبيت التطبيق الموحد الجديد للاستمرار في استخدام Copilot داخل Teams وربط حسابهم واختيار مستودع."
+     },
+     "en": {
+      "title": "GitHub launches unified Copilot and notifications app for Teams",
+      "summary": "GitHub's new Microsoft Teams app merges repo notifications with Copilot, letting users @mention GitHub to investigate, fix bugs, run tests or open pull requests.",
+      "details": "GitHub launched a new, unified app for Microsoft Teams that replaces the previous GitHub notifications app, combining repository notifications with the Copilot coding assistant in one place.\n\nTeams can receive issue and pull request notifications in channels, group chats or private chats, then reply by mentioning @GitHub to investigate an issue, fix a bug, run tests or open a new pull request, using the conversation plus the linked issue or PR as context.\n\n- Get notified: a GitHub issue notification arrives in a Teams conversation.\n- Take action: @mention GitHub to investigate, fix the bug and open a pull request.\n- Review and merge: the team reviews, tests and merges the proposed changes.\n\nUsers of the legacy app, which will be renamed \"GitHub (deprecated)\" and retired on November 16, must install the new consolidated app to keep using Copilot in Teams, then connect their GitHub account and pick a repository."
+     },
+     "addedAt": "2026-10-23T22:10:54+00:00"
     },
     {
      "id": "huggingface-trainium-model-support-space",

@@ -22,6 +22,27 @@
         "summary": "The FII Institute delayed its 10th-anniversary Future Investment Initiative, originally set for October 26-29, 2026 in Riyadh, to 2027, with new dates coming soon.",
         "details": "The FII Institute has postponed FII10, the tenth edition of its flagship Future Investment Initiative conference, from its original October 26-29, 2026 dates in Riyadh to sometime in 2027. New dates will be announced soon.\n\nFII Institute CEO Princess Maha bint Mishari Al Saud said the delay ensures the milestone 10th edition delivers the scale, quality and impact its community expects, and that all existing registrations and partnerships will remain valid.\n\nThe conference, nicknamed 'Davos in the Desert', draws heads of state, investors and business leaders to Riyadh each year, with AI and robotics among its core discussion tracks."
       }
+    },
+    {
+      "id": "github-copilot-teams-app-launch",
+      "date": "2026-10-23",
+      "type": "coding",
+      "importance": 1,
+      "sourceType": "official",
+      "sourceName": "GitHub Changelog",
+      "url": "https://github.blog/changelog/2026-10-23-turn-notifications-into-code-with-github-copilot-in-teams",
+      "originalTitle": "Turn notifications into code with GitHub Copilot in Teams",
+      "company": "GitHub",
+      "ar": {
+        "title": "GitHub يطلق تطبيقاً موحداً يجمع إشعاراته و Copilot في Teams",
+        "summary": "أطلقت GitHub تطبيقاً جديداً في Microsoft Teams يجمع إشعارات المستودعات مع Copilot، فيمكن استدعاء ‪@GitHub‬ لإصلاح الأخطاء أو إنشاء طلبات سحب من داخل المحادثة.",
+        "details": "أطلقت GitHub تطبيقاً موحداً جديداً في Microsoft Teams يحل محل تطبيق إشعارات GitHub السابق، ويجمع بين إشعارات المستودعات ومساعد البرمجة Copilot في مكان واحد.\n\nيمكن للفريق تلقي إشعارات المشكلات وطلبات السحب داخل القنوات أو الدردشات الجماعية أو الخاصة، ثم الرد باستدعاء ‪@GitHub‬ لتحليل المشكلة أو إصلاح الخلل أو تشغيل الاختبارات أو فتح طلب سحب جديد، مستفيداً من سياق المحادثة والمشكلة أو طلب السحب المرتبط بها.\n\n- تلقي الإشعار: يصل إشعار مشكلة GitHub داخل محادثة Teams.\n- اتخاذ الإجراء: استدعاء ‪@GitHub‬ لتحليل المشكلة وإصلاحها وإنشاء طلب سحب.\n- المراجعة والدمج: يراجع الفريق التغييرات المقترحة ويختبرها ويدمجها.\n\nويتعين على مستخدمي تطبيق إشعارات GitHub القديم، الذي سيُعاد تسميته «GitHub (deprecated)» ويُسحب في 16 نوفمبر، تثبيت التطبيق الموحد الجديد للاستمرار في استخدام Copilot داخل Teams وربط حسابهم واختيار مستودع."
+      },
+      "en": {
+        "title": "GitHub launches unified Copilot and notifications app for Teams",
+        "summary": "GitHub's new Microsoft Teams app merges repo notifications with Copilot, letting users @mention GitHub to investigate, fix bugs, run tests or open pull requests.",
+        "details": "GitHub launched a new, unified app for Microsoft Teams that replaces the previous GitHub notifications app, combining repository notifications with the Copilot coding assistant in one place.\n\nTeams can receive issue and pull request notifications in channels, group chats or private chats, then reply by mentioning @GitHub to investigate an issue, fix a bug, run tests or open a new pull request, using the conversation plus the linked issue or PR as context.\n\n- Get notified: a GitHub issue notification arrives in a Teams conversation.\n- Take action: @mention GitHub to investigate, fix the bug and open a pull request.\n- Review and merge: the team reviews, tests and merges the proposed changes.\n\nUsers of the legacy app, which will be renamed \"GitHub (deprecated)\" and retired on November 16, must install the new consolidated app to keep using Copilot in Teams, then connect their GitHub account and pick a repository."
+      }
     }
   ],
   "upcoming": [
