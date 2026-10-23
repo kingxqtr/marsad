@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": "2026-10-23T05:10:03+00:00",
+ "updatedAt": "2026-10-23T06:18:08+00:00",
  "coverage": {
   "from": "2026-07-23",
   "to": "2026-10-23"
@@ -1720,6 +1720,28 @@
   },
   "ai": {
    "news": [
+    {
+     "id": "openai-nask-poland-gpt-5-5-cyber",
+     "date": "2026-10-23",
+     "type": "policy",
+     "importance": 2,
+     "sourceType": "official",
+     "sourceName": "OpenAI Newsroom",
+     "url": "https://openai.com/index/openai-nask-ai-safety-security-partnership",
+     "originalTitle": "OpenAI and Poland’s NASK partner to advance AI safety and security",
+     "company": "OpenAI",
+     "ar": {
+      "title": "OpenAI تمنح معهد NASK البولندي وصولاً موثوقًا لنموذج GPT-5.5 Cyber",
+      "summary": "تتعاون OpenAI مع معهد NASK البولندي لمنح فريق CERT Polska وصولاً موثوقًا إلى نموذج GPT-5.5 Cyber المقيّد، لاستخدامه في اكتشاف الثغرات وتحليل البرمجيات الخبيثة والتحقيق الجنائي الرقمي.",
+      "details": "أعلنت OpenAI شراكة مع معهد NASK البحثي الحكومي في بولندا لتعزيز أمن وسلامة الذكاء الاصطناعي، وفق منشور في مركز أخبار الشركة.\n\nبموجب برنامج OpenAI للوصول الحكومي الموثوق في مجال الأمن السيبراني (Government Trusted Access for Cyber)، حصل فريق CERT Polska التابع لـNASK على وصول إلى نموذج GPT-5.5 Cyber، وهو نسخة أمنية مقيّدة تحمل قيودًا أقل من النسخ العامة، وتقتصر على مجموعة ضيقة من الجهات الموثوقة لمنع سوء الاستخدام.\n\nوقال مسؤولو NASK إن بولندا أصبحت حتى الآن الدولة الوحيدة في منطقتها التي تحصل على هذه التقنية، مؤكدين أن الفريق يستخدمها فعليًا في فحص أنظمة الإدارة العامة والشركات البولندية، إلى جانب اختبار أدواته الأمنية الخاصة."
+     },
+     "en": {
+      "title": "OpenAI gives Poland's NASK trusted access to GPT-5.5 Cyber model",
+      "summary": "OpenAI partnered with Poland's NASK institute, giving its CERT Polska team trusted access to the restricted GPT-5.5 Cyber model for vulnerability research, malware analysis and forensics.",
+      "details": "OpenAI announced a partnership with NASK, Poland's state research institute, to advance AI safety and security, according to a post on OpenAI's newsroom.\n\nUnder OpenAI's Government Trusted Access for Cyber program, NASK's CERT Polska team gained access to GPT-5.5 Cyber, a restricted security-focused model with fewer safeguards than public versions, limited to a closed circle of trusted entities to prevent misuse.\n\nNASK officials said Poland is currently the only country in its region with this access, and that the team is already using it to scan systems run by Polish public administration bodies and companies, as well as to test its own security tools."
+     },
+     "addedAt": "2026-10-23T06:18:08+00:00"
+    },
     {
      "id": "nvidia-firebird-kazakhstan-ai-factory",
      "date": "2026-10-23",
