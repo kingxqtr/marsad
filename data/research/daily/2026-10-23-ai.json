@@ -67,6 +67,27 @@
     }
     ,
     {
+      "id": "nvidia-firebird-kazakhstan-ai-factory",
+      "date": "2026-10-23",
+      "type": "hardware",
+      "importance": 1,
+      "sourceType": "official",
+      "sourceName": "NVIDIA Blog",
+      "url": "https://blogs.nvidia.com/blog/kazakhstan-ai-compute-ecosystem/",
+      "originalTitle": "Kazakhstan Expands Compute for Its AI Future",
+      "company": "NVIDIA",
+      "ar": {
+        "title": "NVIDIA: كازاخستان توسّع بنيتها التحتية لحوسبة الذكاء الاصطناعي",
+        "summary": "تستعرض NVIDIA في منشور رسمي توسّع كازاخستان في حوسبة الذكاء الاصطناعي، بقيادة مشروع Firebird لإنشاء مصنع ذكاء اصطناعي بمعالجات Grace Blackwell بالتعاون مع Kazakhtelecom.",
+        "details": "نشرت NVIDIA في 23 أكتوبر منشورًا رسميًا يرصد تحوّل كازاخستان من التخطيط للبنية التحتية إلى نشرها فعليًا عبر طبقات الحوسبة والنماذج والتطبيقات. يتصدر هذا التوسع مشروع Firebird، الذي حصل على ترخيص تصدير أمريكي لنحو 45,000 معالج NVIDIA Grace Blackwell، وتبني مرحلته الأولى بالتعاون مع Kazakhtelecom في منشأة Data Center Valley، مع استهداف تشغيل تجاري في الربع الثالث من 2027.\n\nتخطط مرحلة ثانية مقترحة لرفع السعة الكهربائية الإجمالية للمشروع في كازاخستان إلى نحو 500 ميغاواط، كما تعتزم Firebird تأسيس مختبر محلي لدعم الشركات الناشئة والبحث في الذكاء الاصطناعي. ووفق المنشور، سبق أن نشرت Kazakhtelecom، أكبر شركة اتصالات في البلاد، 400 معالج NVIDIA H200 و480 معالج B300 في مدينتي أستانا وألماتي.\n\n- تخطط Kazakhtelecom لنشر أكثر من 1,000 معالج إضافي في Data Center Valley العام المقبل.\n- كما تعتزم نشر أكثر من 1,000 معالج من فئة NVIDIA Vera Rubin في منطقة إكيباستوز."
+      },
+      "en": {
+        "title": "NVIDIA details Kazakhstan's AI compute buildout led by Firebird",
+        "summary": "NVIDIA's blog describes Kazakhstan's push from AI infrastructure planning to deployment, led by Firebird's Grace Blackwell AI factory project with Kazakhtelecom.",
+        "details": "NVIDIA published a blog post on October 23 describing Kazakhstan's shift from planning AI infrastructure to actually deploying it across compute, models and applications. Leading the buildout is Firebird, which secured a U.S. export license for about 45,000 NVIDIA Grace Blackwell GPUs and is building its first phase with Kazakhtelecom at the Data Center Valley facility, targeting commercial operation in the third quarter of 2027.\n\nA proposed second phase would raise the project's total power capacity in Kazakhstan to roughly 500 megawatts, and Firebird also plans a local lab to support AI startups and research. The post notes that Kazakhtelecom, the country's largest telecom operator, has already deployed 400 NVIDIA H200 and 480 B300 GPUs across Astana and Almaty.\n\n- Kazakhtelecom plans to add more than 1,000 further GPUs at Data Center Valley next year.\n- It also plans to deploy more than 1,000 NVIDIA Vera Rubin GPUs in the Ekibastuz region."
+      }
+    },
+    {
       "id": "github-copilot-visual-studio-september-update",
       "date": "2026-10-22",
       "type": "coding",
