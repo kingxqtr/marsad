@@ -1,6 +1,25 @@
 {
- "updatedAt": "2026-10-24T17:02:57+00:00",
+ "updatedAt": "2026-10-24T17:30:03+00:00",
  "items": [
+  {
+   "id": "auto-da6d0f3c6c42",
+   "tab": "star-citizen",
+   "date": "2026-10-24",
+   "publishedAt": "2026-10-24T12:07:51+00:00",
+   "type": "community",
+   "importance": 1,
+   "sourceType": "community",
+   "sourceName": "r/starcitizen",
+   "url": "https://www.reddit.com/r/starcitizen/comments/1xe6z68/valve_denies_steam_keys_for_1m_squadron_42/",
+   "originalTitle": "Valve Denies Steam Keys for 1M+ Squadron 42 Backers Due to Store Policy",
+   "en": {
+    "title": "Valve Denies Steam Keys for 1M+ Squadron 42 Backers Due to Store Policy",
+    "summary": "Community post on r/starcitizen. CIG was trying to circumvent Valve's store policy, quoted here: Default Release (or standard release) This is the most common type of key on Steam, which is usually tied to a Steam store or retail Steam Key …",
+    "details": "Community post on r/starcitizen.\n\nCIG was trying to circumvent Valve's store policy, quoted here:\n\nDefault Release (or standard release)\nThis is the most common type of key on Steam, which is usually tied to a Steam store or retail Steam Key package. These keys are appropriate for retail boxes or sales on other digital stores. Customers can activate this type of Steam Key at any time, but the product will unlock only after it has been released on Steam. Games and applications launching on Steam may receive up to 5,000 Default Release Steam Keys to support retail activities and distribution on other stores. After that, all Steam Key requests are reviewed on a case-by-case basis. There is no guarantee that you will be provided additional keys.\n\nWe would need over 1 million keys. Valve's policy is to issue 5000 keys per game. Anything more than that needs negotiation and payments to Valve.\n\nValve's policy is here:\nhttps://partner.steamgames.com/doc/features/keys?language=english%22\n\nA Star Citizen creator who played Squadron 42 also asked CIG in-person and got confirmation that CIG asked Valve, and Valve said no:\n\nhttps://www.youtube.com/watch?v=NbCRlAhBXTY&t=10m20s\n\nIt's like this because there's no benefit for Valve to host Squadron 42 for free. By forcing sales to happen inside the Steam platform they get 30% of the money.\n\nIf anything, blame CIG for thinking they could circumvent paying Valve's 30% cut. …"
+   },
+   "translated": false,
+   "fetchedAt": "2026-10-24T17:30:01+00:00"
+  },
   {
    "id": "auto-e46dd2a87722",
    "tab": "ai",
