@@ -1,9 +1,9 @@
 {
  "version": 1,
- "updatedAt": "2026-10-23T23:09:03+00:00",
+ "updatedAt": "2026-10-24T00:09:01+00:00",
  "coverage": {
-  "from": "2026-07-23",
-  "to": "2026-10-23"
+  "from": "2026-07-24",
+  "to": "2026-10-24"
  },
  "tabs": {
   "once-human": {
@@ -721,27 +721,6 @@
       "details": "Version 3.0.3 went live after maintenance on August 5 at 4:00 PM PT (2:00 AM on August 6, Gulf time). The PC launcher download was about 15.6 GB and mobile about 1.2 GB.\n\nHighlights:\n- Block Adventure (August 5–23): defeat \"block-ified\" animals on Wish Island to unlock a fight with the Block Wanderer boss, with a chance at blocky Morphed Deviations\n- Online trading: buy orders paid in batteries, shorter bind times on purchased materials, and more items that can be listed\n- Permanent servers: a new Monthly Challenge and a new route to Mod rewards through Scenario Honor\n- The personal loading-screen feature returned\n- First-person polish: smoother transitions, better reload feel, and less smoke and glare when aiming\n- Crankbait now gives a 15%–35% chance at special fish such as Electric Eels\n\nThe notes urged PC and mobile players to link their accounts before the console launch on August 25 so their progress would carry over, and confirmed the current Battle Pass would end with the August 24 update."
      },
      "addedAt": "2026-08-05T23:59:59+00:00"
-    },
-    {
-     "id": "oh-meta-hotline-vol-6",
-     "date": "2026-07-23",
-     "type": "announcement",
-     "importance": 1,
-     "sourceType": "official",
-     "sourceName": "Once Human — Official Website",
-     "url": "https://www.oncehuman.game/news/update/20260722/40780_1308666.html",
-     "originalTitle": "Meta Hotline | Hot Feedback and Optimization Progress Vol. 6",
-     "ar": {
-      "title": "Meta Hotline 6: مطورو Once Human يقبلون خمسة من أبرز طلبات اللاعبين",
-      "summary": "ردّ المطورون على أكثر الاقتراحات تصويتًا: مكافآت أغنى لصناديق Collection، وبطاقات تغيير اسم مشتركة، وفلتر للمعايرة، وDeviation يجمع منتجات الماشية تلقائيًا.",
-      "details": "استعرض التقرير السادس من سلسلة Meta Hotline ردود الفريق على أكثر الاقتراحات حصولًا على الإعجاب في منصة ملاحظات Once Human حتى 22 يوليو.\n\nالردود:\n- عرض أوقات انتظار High Risk Events: متاح بالفعل عبر أيقونة العين على الخريطة مع تنبيه قبل الانتقال\n- مكافآت أكثر في صناديق Collection: مقبول ورُفعت أولويته، والتفاصيل والموعد لاحقًا\n- مشاركة بطاقات تغيير الاسم على مستوى الحساب: مقبول ورُفعت أولويته\n- فلتر لمخططات معايرة الأسلحة: مقبول، والفرز والتصفية قيد التطوير\n- جمع منتجات الماشية تلقائيًا: مقبول عبر Deviation جديد مخطط للعام المقبل\n- النقل والتنظيف الجماعي للمخازن: مقبول، لكن دون موعد بسبب اعتبارات الأداء وسلامة البيانات\n\nوتتيح لوحة Hot Charts، التي أُضيفت مع الإصدار 2.3.7، للاعبين الإعجاب بالطلبات أو رفضها، وينشر الفريق تقريرًا بالتقدّم بعد كل تحديث."
-     },
-     "en": {
-      "title": "Meta Hotline Vol. 6: Once Human devs accept five top player requests",
-      "summary": "The developers answered the most-voted feedback: richer Collection crate rewards, account-wide rename cards, a calibration filter and a Deviation to auto-collect livestock goods.",
-      "details": "The sixth \"Meta Hotline\" report responded to the most-liked suggestions on the Once Human Feedback Platform as of July 22.\n\nResponses:\n- High Risk Event cooldowns: already viewable via the eye icon on the map, with a warning before teleporting\n- More rewards in Collection Loot Crates: accepted and moved up the priority list; rewards and timing to be announced\n- Rename cards shareable across an account: accepted and prioritised\n- A filter for weapon calibration blueprints: accepted; filtering and sorting are in development\n- Auto-harvest for livestock byproducts: accepted, through a new Deviation planned for next year\n- Bulk transfer and cleanup for depots: accepted, but with no schedule yet because of performance and data-safety concerns\n\nThe Feedback Hot Charts, added with version 2.3.7, let players like or dislike requests, and the team publishes a progress report after each version update."
-     },
-     "addedAt": "2026-07-23T23:59:59+00:00"
     }
    ],
    "upcoming": [
@@ -1630,27 +1609,6 @@
       "details": "Ship Showdown 2956 opened on 28 July and ran until 2 September. In Phase 1 (until 14 August), players backed a favourite flyable or drivable vehicle by posting original creations on the Community Hub or X, while flight time, hauling, mining, salvage and combat also counted toward a place in the Top 16.\n\n- Phase 2 (18 August to 2 September): daily bracket battles across eight divisions, from Freighter to Big Hitters\n- The top ten Community Hub entries and top five on X each win a Kruger L-22 Alpha Wolf with lifetime insurance\n- Final Four prizes and the champion's bomber jacket are handed out at IAE 2956\n- Last year's Final Four, led by winner RSI Polaris, were offered at a discount until 3 August\n\nThe Aegis Idris was eligible to compete all the way this year, although it would be excluded from any free fly for performance reasons."
      },
      "addedAt": "2026-07-28T23:59:59+00:00"
-    },
-    {
-     "id": "sc-alpha-4-10-ptu-wave-1",
-     "date": "2026-07-23",
-     "type": "patch",
-     "importance": 2,
-     "sourceType": "official",
-     "sourceName": "RSI Spectrum – Patch Notes",
-     "url": "https://robertsspaceindustries.com/spectrum/community/SC/forum/190048/thread/star-citizen-alpha-4-10-ptu-patch-notes",
-     "originalTitle": "[Wave 1] Star Citizen Alpha 4.10 PTU Patch Notes 12311913",
-     "ar": {
-      "title": "Alpha 4.10 يدخل الاختبار على PTU مع نسخة منفصلة من Siege of Orison",
-      "summary": "أُتيحت أول نسخة اختبار عامة من Alpha 4.10 للموجة الأولى في 23 يوليو مع التركيز على Siege of Orison بتقنية instancing، ثم فُتحت لجميع الداعمين في 31 يوليو.",
-      "details": "أطلقت CIG تحديث Alpha 4.10 للموجة الأولى على خوادم الاختبار العامة في 23 يوليو (الإصدار 4.10.0-PTU.12311913)، على خوادم أمريكية مع تفعيل الحفظ طويل الأمد، وتركّز الاختبار على الاستقرار وعلى النسخة المنفصلة الجديدة من Siege of Orison.\n\nوأصلحت النسخة الأولى 13 عطلًا في العميل وحالتي توقف في المسار الرئيسي، وحسّنت الأداء في Levski، ووسّعت مدى العلاج في مسدس المسعف من 1.5 إلى 2.5 متر، لكنها أدرجت مشكلات معروفة منها انخفاض حاد في معدل الإطارات قرب منصة Solanki.\n\nوفي 31 يوليو فُتح الاختبار لجميع الموجات، مع إضافة موازنة وقود الهيدروجين وبندقية Arlington ومهام Recco Battaglia وتحديثات Wikelo ونسخة أولية من Orison Relief Support، ثم أصدرت الشركة نسخًا شبه يومية وأجرت اختبارات ضغط مركزة منتصف أغسطس تمهيدًا لإطلاق 26 أغسطس."
-     },
-     "en": {
-      "title": "Alpha 4.10 enters PTU testing with instanced Siege of Orison",
-      "summary": "The first public test build of Alpha 4.10 opened to Wave 1 on 23 July, focused on the instanced Siege of Orison; all backers could join from 31 July.",
-      "details": "CIG released Alpha 4.10 to Wave 1 of the Public Test Universe on 23 July (build 4.10.0-PTU.12311913), running on US servers with long-term persistence enabled. Testing focused on stability and the new instanced version of Siege of Orison.\n\nThe first build fixed 13 client crashes and two main-thread deadlocks, improved performance in Levski and widened the medic gun's healing range from 1.5 to 2.5 metres, but listed known issues such as a severe frame-rate drop near the Solanki platform.\n\nOn 31 July testing opened to all waves, adding hydrogen fuel balance, the Arlington lever-action rifle, Recco Battaglia's missions, Wikelo updates and an early version of Orison Relief Support. CIG then issued near-daily builds and ran focused stress tests in mid-August ahead of the 26 August launch."
-     },
-     "addedAt": "2026-07-23T23:59:59+00:00"
     }
    ],
    "upcoming": [
@@ -7650,75 +7608,6 @@
       "details": "Midjourney has released Version 8.2 and made it the default model on the platform, after V8.1 became the default in June.\n\n- Aesthetics: Midjourney says images should look more creative, bold and sophisticated.\n- Reliability: the company expects far fewer low-quality results.\n- Personalization: V8.2 reads each user's taste more accurately, especially for profiles with many ratings, and new V8.2 personalization profiles draw on a larger, improved pool of images to rate.\n\nMidjourney encouraged users to build fresh V8.2 profiles and compare them with their existing ones.\n\nA month later, on August 27, Midjourney opened community testing of an editing model for V8 that edits images from text instructions, uses up to four reference images and supports inpainting and outpainting, on both midjourney.com and alpha.midjourney.com."
      },
      "addedAt": "2026-07-24T23:59:59+00:00"
-    },
-    {
-     "id": "bfl-flux-3-multimodal-model",
-     "date": "2026-07-23",
-     "type": "media",
-     "importance": 3,
-     "sourceType": "official",
-     "sourceName": "Black Forest Labs Blog",
-     "url": "https://bfl.ai/blog/flux-3",
-     "originalTitle": "FLUX 3 - Real World Models: Towards Multimodal Flow Models as the Backbone of Visual Intelligence",
-     "company": "Black Forest Labs",
-     "tool": "FLUX 3",
-     "ar": {
-      "title": "Black Forest Labs تكشف FLUX 3: نموذج واحد للصور والفيديو والصوت",
-      "summary": "أعلنت Black Forest Labs عن FLUX 3، وهو نموذج متعدد الوسائط دُرّب على الصور والفيديو والصوت معاً، يولّد مقاطع حتى 20 ثانية مع صوت وحوار، وفُتحت واجهة الفيديو للمطورين في 4 أغسطس.",
-      "details": "أعلنت Black Forest Labs، مطورة نماذج الصور FLUX، عن FLUX 3، وهو نموذج واحد دُرّب على الصور والفيديو والصوت معاً بدلاً من الجمع بين أنظمة منفصلة.\n\n- الفيديو: حتى 20 ثانية في كل عملية توليد مع صوت أصلي يشمل الحوار والمؤثرات والأجواء، ومزامنة حركة الشفاه بأكثر من 12 لغة.\n- الأوضاع: من نص إلى فيديو، ومن صورة إلى فيديو مع إطارات رئيسية، ومواصلة مقطع قائم، وتعدد اللقطات، إضافة إلى وضع مسودة للمعاينة السريعة.\n- الإتاحة: بدأ الوصول المبكر للفيديو في 23 يوليو، ثم أصبح متاحاً عبر BFL API وشركاء مختارين في 4 أغسطس، على أن تلحقه قدرات الصور، مع إعلان نسخة أساسية مفتوحة الأوزان باسم FLUX 3 Dev لم تصدر بعد.\n\nوأضافت تحديثات لاحقة أداة لرفع دقة الفيديو حتى 3 أضعاف في 20 أغسطس، ودعم دقتي 2K و4K بسعر يتراوح بين 0.40 و0.95 دولار للثانية في 10 سبتمبر. كما تستخدم الشركة النموذج نفسه في الروبوتات مع شريكها mimic في منشآت Audi."
-     },
-     "en": {
-      "title": "Black Forest Labs unveils FLUX 3, one model for images, video and audio",
-      "summary": "Black Forest Labs announced FLUX 3, a multimodal model trained jointly on images, video and audio that generates clips of up to 20 seconds with sound and dialogue. Its video API opened on August 4.",
-      "details": "Black Forest Labs, maker of the FLUX image models, has announced FLUX 3, a single model trained jointly on images, video and audio rather than separate systems stitched together.\n\n- Video: up to 20 seconds per generation with native audio, including dialogue, sound effects and ambience, plus lip-sync in more than a dozen languages.\n- Modes: text-to-video, image-to-video with keyframes, video continuation and multi-shot generation, plus a draft mode for quick previews.\n- Access: video opened in early access on July 23 and became available through the BFL API and selected partners on August 4; image generation is due to follow, and an open-weight FLUX 3 Dev backbone has been announced but not released.\n\nLater updates added a video upscaler of up to 3x (August 20) and native 2K and 4K output priced at $0.40 to $0.95 per second (September 10). BFL is also applying the same backbone to robotics with partner mimic, whose robots have been tested at Audi."
-     },
-     "addedAt": "2026-07-23T23:59:59+00:00"
-    },
-    {
-     "id": "amd-advancing-ai-2026-helios",
-     "date": "2026-07-23",
-     "type": "hardware",
-     "importance": 2,
-     "sourceType": "official",
-     "sourceName": "AMD Newsroom",
-     "url": "https://newsroom.amd.com/news/aai-2026-full-stack-compute-agentic-ai/",
-     "originalTitle": "AAI 2026: AMD Delivers Full-Stack Compute for the Agentic AI Era",
-     "company": "AMD",
-     "tool": "AMD Helios / Instinct MI455X",
-     "ar": {
-      "title": "AMD تطلق رفوف Helios بمعالجات MI455X وتكشف خريطة رقائقها حتى 2030",
-      "summary": "في مؤتمر Advancing AI 2026 أدخلت AMD أنظمة Helios المزودة بـ 72 معالج MI455X لكل رف مرحلة الإنتاج، وذكرت بين عملائها OpenAI وAnthropic وMeta وHUMAIN، وحددت 2027 موعداً لسلسلة MI500.",
-      "details": "استخدمت AMD مؤتمرها Advancing AI 2026 في سان فرانسيسكو في 23 يوليو لإطلاق الجيل الجديد من عتاد مراكز بيانات الذكاء الاصطناعي.\n\nأبرز الإعلانات:\n- أنظمة Helios على مستوى الرف، وقد دخلت الإنتاج، وتجمع 72 معالجاً رسومياً Instinct MI455X مع 18 معالج EPYC «Venice» من الجيل السادس، وتقول AMD إنها تقدم رموزاً أكثر بنسبة تصل إلى 30% لكل دولار مقارنة بأبرز منافس.\n- من العملاء OpenAI وAnthropic وMeta وMicrosoft وOracle وHUMAIN السعودية؛ وتخطط Anthropic لنشر ما يصل إلى 2 غيغاواط من معالجات MI455X، فيما تتوقع OpenAI تشغيل Helios بدءاً من الربع الرابع من 2026.\n- منصة ROCm.ai الجديدة التي تستعين بوكلاء البرمجة لمساعدة المطورين على برمجة معالجات AMD.\n\nكما عرضت الشركة خريطة طريق تشمل معالجات Instinct MI500 في 2027 وMI600 في 2028 وأجيالاً جديدة من المعالجات المركزية حتى 2030. وقالت الرئيسة التنفيذية ليزا سو إن الذكاء الاصطناعي يدفع السوق المتاحة للشركة نحو تريليوني دولار تقريباً بحلول 2030."
-     },
-     "en": {
-      "title": "AMD launches Helios AI racks with MI455X GPUs and maps out its chips to 2030",
-      "summary": "At Advancing AI 2026, AMD put its Helios rack — 72 Instinct MI455X GPUs each — into production, named OpenAI, Anthropic, Meta and HUMAIN among customers, and set MI500 GPUs for 2027.",
-      "details": "AMD used its Advancing AI 2026 event in San Francisco on July 23 to launch its next generation of AI data-centre hardware.\n\nHighlights:\n- Helios rack-scale systems, now in production, combine 72 Instinct MI455X GPUs with 18 sixth-generation EPYC 'Venice' CPUs; AMD claims up to 30% more tokens per dollar than the leading rival system.\n- Customers include OpenAI, Anthropic, Meta, Microsoft, Oracle and Saudi Arabia's HUMAIN. Anthropic plans to deploy up to 2 gigawatts of MI455X GPUs, and OpenAI expects to bring Helios online from the fourth quarter of 2026.\n- A new ROCm.ai platform uses AI coding agents to help developers program AMD GPUs.\n\nAMD also laid out a roadmap: Instinct MI500 GPUs in 2027, MI600 in 2028 and new CPU generations through 2030. CEO Lisa Su said AI is pushing AMD's addressable market towards about $2 trillion by 2030."
-     },
-     "addedAt": "2026-07-23T23:59:59+00:00"
-    },
-    {
-     "id": "runway-media-router-launch",
-     "date": "2026-07-23",
-     "type": "product",
-     "importance": 2,
-     "sourceType": "official",
-     "sourceName": "Runway News",
-     "url": "https://runway.com/news/company-news/introducing-runway-media-router",
-     "originalTitle": "Introducing Runway Media Router",
-     "company": "Runway",
-     "tool": "Runway Media Router",
-     "ar": {
-      "title": "Runway تطلق Media Router لاختيار أنسب نموذج ذكاء اصطناعي لكل طلب",
-      "summary": "أضافت Runway أداة Media Router إلى منصتها للمطورين، وهي تختار تلقائياً بين نماذج الفيديو والصور والصوت، من Runway ومن جهات أخرى، وفق إعدادات التكلفة والجودة والسرعة.",
-      "details": "قدّمت Runway أداة Media Router ضمن منصتها للمطورين Runway Dev. فبدلاً من ربط التطبيق بنموذج واحد، يحدد المطور متطلبات الطلب وتختار الأداة نموذج الفيديو أو الصورة أو الصوت الأنسب.\n\n- تشمل النماذج عند الإطلاق Gen-4.5 وAleph 2.0 وAct-Two من Runway، إضافة إلى خيارات من جهات أخرى مثل Seedance من ByteDance وGPT Image 2 من OpenAI ونماذج ElevenLabs.\n- تُضبط الأولويات بين التكلفة، مثل وضع سقف لسعر الثانية من الفيديو أو للصورة الواحدة، والجودة وزمن الاستجابة.\n- يمكن للفرق السماح بمزودين ونماذج محددة أو حظرها، وفرض قيود صارمة، وإجراء تجارب تحقق قبل التشغيل الفعلي، وحفظ إعدادات قابلة لإعادة الاستخدام لكل سير عمل.\n\nالأداة متاحة الآن لنماذج الفيديو والصور والصوت عبر dev.runway.com، ولم تعلن Runway تسعيراً منفصلاً لها. وهي تستهدف مطوري التطبيقات الذين يتعاملون مع عدة نماذج توليدية ويريدون قواعد اختيار يتحكمون بها بدلاً من الاختيار اليدوي."
-     },
-     "en": {
-      "title": "Runway launches Media Router to pick the best AI model for each request",
-      "summary": "Runway added Media Router to its developer platform. It automatically chooses among video, image and audio models, from Runway and third parties, based on the cost, quality and speed settings a team sets.",
-      "details": "Runway has introduced Media Router in Runway Dev, its developer platform. Instead of hard-coding one model, developers describe what a request needs and the router picks the most suitable video, image or audio model.\n\n- Models covered at launch include Runway's Gen-4.5, Aleph 2.0 and Act-Two, plus third-party options such as ByteDance's Seedance, OpenAI's GPT Image 2 and ElevenLabs.\n- Priorities are set across cost (for example a price cap per second of video or per image), quality and latency.\n- Teams can allow or block specific providers and models, apply hard constraints, run dry-run checks before going live and save reusable configurations for each workflow.\n\nThe feature is live for video, image and audio models at dev.runway.com; Runway did not publish separate pricing for it. It is aimed at app builders who work with several generative models and want rules they control instead of picking models by hand."
-     },
-     "addedAt": "2026-07-23T23:59:59+00:00"
     }
    ],
    "upcoming": [
@@ -7748,61 +7637,6 @@
       "details": "Canva World Tour is back for 2026, running worldwide from September 14 through November 30.\n\n- Format: Canva teams in different countries host local community meetups and live training sessions; an event finder is available at canva.com/events.\n- AI Essentials: a new free certification that anyone can complete at their own pace, covering how to get the most out of Canva AI.\n- Design School: short, mobile-first lessons that teach one skill at a time, some lasting about 90 seconds.\n\nAll of the learning content can also be followed online through Canva Design School at any time during the campaign, so people can take part even without a local event nearby.",
       "location": "Worldwide (local events and online)",
       "dateNote": "Campaign started September 14 and ends November 30, 2026."
-     },
-     "addedAt": "2026-09-27T13:25:38+00:00"
-    },
-    {
-     "id": "agntcon-mcpcon-north-america-2026",
-     "date": "2026-10-22",
-     "type": "event",
-     "importance": 1,
-     "sourceType": "official",
-     "sourceName": "Agentic AI Foundation",
-     "url": "https://aaif.io/press/agentic-ai-foundation-announces-global-2026-events-program-anchored-by-agntcon-mcpcon-north-america-and-europe/",
-     "originalTitle": "",
-     "company": "Agentic AI Foundation",
-     "tool": "Model Context Protocol",
-     "endDate": "2026-10-23",
-     "dateConfidence": "confirmed",
-     "ar": {
-      "title": "مؤتمر AGNTCon + MCPCon لأمريكا الشمالية في سان خوسيه",
-      "summary": "يُعقد المؤتمر الرئيسي لمؤسسة Agentic AI Foundation حول وكلاء الذكاء الاصطناعي وبروتوكول Model Context Protocol يومي 22 و23 أكتوبر في سان خوسيه بكاليفورنيا، بعد نسخته الأوروبية في أمستردام خلال سبتمبر.",
-      "details": "يُعد AGNTCon + MCPCon لأمريكا الشمالية أحد حدثين رئيسيين تنظمهما مؤسسة Agentic AI Foundation التابعة لـLinux Foundation، والتي تحتضن بروتوكول Model Context Protocol (MCP). ويُعقد المؤتمر يومي 22 و23 أكتوبر 2026 في سان خوسيه بولاية كاليفورنيا.\n\nويجمع المؤتمر الشركات والمطورين الذين يبنون البنية التحتية لوكلاء ذكاء اصطناعي قابلين للتشغيل المشترك وجاهزين للاستخدام الفعلي، ويأتي بعد صدور مواصفة MCP بنسخة 2026-07-28 في يوليو.\n\nويشمل جدول المؤسسة أيضاً قمة MCP Dev Summit في تورونتو يومي 5 و6 أكتوبر، وأخرى في نيروبي يومي 19 و20 نوفمبر، فيما أقيمت النسخة الأوروبية من AGNTCon + MCPCon في أمستردام يومي 17 و18 سبتمبر.",
-      "location": "سان خوسيه، كاليفورنيا، الولايات المتحدة"
-     },
-     "en": {
-      "title": "AGNTCon + MCPCon North America comes to San Jose",
-      "summary": "The Agentic AI Foundation's flagship conference on AI agents and the Model Context Protocol takes place on 22-23 October in San Jose, California, following the European edition in Amsterdam in September.",
-      "details": "AGNTCon + MCPCon North America is one of two flagship events run by the Agentic AI Foundation, the Linux Foundation body that hosts the Model Context Protocol (MCP). It is scheduled for 22-23 October 2026 in San Jose, California.\n\nThe conference brings together companies and developers building the infrastructure for interoperable, production-ready AI agents. It follows the release of the 2026-07-28 MCP specification in July.\n\nThe foundation's calendar also includes an MCP Dev Summit in Toronto on 5-6 October and another in Nairobi on 19-20 November. The European edition of AGNTCon + MCPCon took place in Amsterdam on 17-18 September.",
-      "location": "San Jose, California, USA"
-     },
-     "addedAt": "2026-09-27T13:25:38+00:00"
-    },
-    {
-     "id": "meta-adventurer-glasses-on-sale",
-     "date": "2026-10-23",
-     "type": "release",
-     "importance": 1,
-     "sourceType": "official",
-     "sourceName": "Meta Newsroom",
-     "url": "https://about.fb.com/news/2026/09/introducing-ray-ban-meta-audio-glasses-new-styles-plus-muse/",
-     "originalTitle": "",
-     "company": "Meta",
-     "tool": "Meta Glasses",
-     "dateConfidence": "confirmed",
-     "ar": {
-      "title": "طرح نظارات Meta Adventurer الذكية للبيع بسعر 249 دولارًا",
-      "summary": "تطرح Meta أرخص نظاراتها الذكية للبيع في 23 أكتوبر في جميع الدول التي تُباع فيها نظارات Meta Glasses، والتي باتت تشمل الإمارات العربية المتحدة.",
-      "details": "تُطرح نظارات Meta Adventurer الجديدة، التي أعلنتها Meta في مؤتمر Connect يوم 23 سبتمبر، للبيع في 23 أكتوبر، بعد فتح الطلب المسبق عبر Meta.com في يوم الإعلان.\n\n- السعر: يبدأ من 249 دولارًا، وتصفه Meta بأنه أقل أسعارها حتى الآن\n- التصميم: إطار أسود وعدسات رمادية مع علبة شحن\n- التوفر: جميع الدول التي تُباع فيها نظارات Meta Glasses\n\nوقد بدأت Meta بيع نظارات Meta Glasses في الإمارات العربية المتحدة يوم 23 سبتمبر إلى جانب سنغافورة وكوريا الجنوبية والمكسيك، ما يعني أن الطراز الجديد يُتوقع أن يتوفر هناك أيضًا. ولم يتضمن الإعلان أسعارًا محلية خارج الولايات المتحدة.",
-      "location": "جميع الدول التي تُباع فيها Meta Glasses (ومنها الإمارات)",
-      "dateNote": "فُتح باب الطلب المسبق في 23 سبتمبر"
-     },
-     "en": {
-      "title": "Meta Adventurer AI glasses go on sale at $249",
-      "summary": "Meta's most affordable AI glasses go on sale on October 23 in every country where Meta Glasses are sold, a list that now includes the United Arab Emirates.",
-      "details": "Meta's new Meta Adventurer glasses, announced at Connect on September 23, go on sale on October 23. Pre-orders opened on Meta.com on the day of the announcement.\n\n- Price: from $249, which Meta calls its most accessible price yet\n- Design: black frame with grey lenses and a plug-in case\n- Availability: all countries where Meta Glasses are sold\n\nMeta began selling Meta Glasses in the United Arab Emirates on September 23, alongside Singapore, South Korea and Mexico, so the new model is expected to be offered there as well. The announcement did not list local prices outside the US.",
-      "location": "All countries where Meta Glasses are sold (including the UAE)",
-      "dateNote": "Pre-orders opened on September 23"
      },
      "addedAt": "2026-09-27T13:25:38+00:00"
     },
