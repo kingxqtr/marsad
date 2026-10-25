@@ -1,0 +1,31 @@
+{
+  "topic": "ai",
+  "generatedAt": "2026-10-26",
+  "news": [
+    {
+      "id": "nanbeige4-3-33b-teacher-model",
+      "date": "2026-10-25",
+      "type": "model",
+      "importance": 1,
+      "sourceType": "official",
+      "sourceName": "Hugging Face",
+      "url": "https://huggingface.co/Nanbeige/Nanbeige4.3-33B",
+      "originalTitle": "Nanbeige/Nanbeige4.3-33B",
+      "company": "Nanbeige",
+      "tool": "Nanbeige4.3-33B",
+      "ar": {
+        "title": "نانبيج تطلق Nanbeige4.3-33B كنموذج \"معلّم\" لتقطير القدرات الوكيلية",
+        "summary": "طرحت Nanbeige4.3-33B على Hugging Face بترخيص مفتوح، وتزعم تفوقه في مهام الوكلاء بين النماذج المفتوحة بحجم 30 مليار معامل تقريبًا، مع نافذة سياق 512K.",
+        "details": "أصدر فريق Nanbeige التابع لشركة Kanzhun (الشركة الأم لتطبيق BOSS Zhipin) نموذج Nanbeige4.3-33B على منصة Hugging Face بترخيص Apache 2.0 المفتوح. يضم النموذج 33 مليار معامل، ويدعم اللغتين الإنجليزية والصينية، ويتيح نافذة سياق تصل إلى 512 ألف رمز.\n\nيُقدَّم النموذج بصفته \"المعلّم\" في عائلة Nanbeige4.3، بهدف تقطير قدراته الوكيلية في نماذج أصغر، من بينها نسخة مخطط لها بحجم 3 مليارات معامل.\n\nوتُظهر جداول القياس التي نشرتها الشركة نفسها تفوقًا في اختبارات مثل Terminal-Bench 2.1 وAIME 2026، في حين يتراجع النموذج عن منافسين مفتوحين مثل Qwen3.8-27B وGemma4-31B في اختبارات أخرى كـ SWE-Bench Pro وGPQA Diamond."
+      },
+      "en": {
+        "title": "Nanbeige releases Nanbeige4.3-33B as teacher model for agent distillation",
+        "summary": "Nanbeige Team published the 33B Nanbeige4.3-33B model on Hugging Face under Apache-2.0, claiming leading agentic benchmarks among ~30B open models and a 512K context window.",
+        "details": "Nanbeige Team, the AI lab under Kanzhun (the parent company of job app BOSS Zhipin), released Nanbeige4.3-33B on Hugging Face under an Apache-2.0 license. The 33-billion-parameter model supports English and Chinese and offers a 512K-token context window.\n\nThe model is positioned as the \"teacher\" in the Nanbeige4.3 family, meant to distill its agentic skills into smaller models, including a planned 3-billion-parameter version.\n\nNanbeige's own benchmark tables show it leading on tests like Terminal-Bench 2.1 and AIME 2026, while trailing open rivals such as Qwen3.8-27B and Gemma4-31B on others, including SWE-Bench Pro and GPQA Diamond."
+      }
+    }
+  ],
+  "upcoming": [],
+  "removeUpcoming": [],
+  "removeNews": []
+}
