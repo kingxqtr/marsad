@@ -1,7 +1,29 @@
 {
   "topic": "ai",
   "generatedAt": "2026-10-25",
-  "news": [],
+  "news": [
+    {
+      "id": "cerebras-trillion-parameter-deploy",
+      "date": "2026-10-22",
+      "type": "hardware",
+      "importance": 1,
+      "sourceType": "official",
+      "sourceName": "Cerebras Blog",
+      "url": "https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras",
+      "originalTitle": "How we deploy Trillion-parameter frontier models on Cerebras",
+      "company": "Cerebras",
+      "ar": {
+        "title": "Cerebras تشرح كيفية تشغيل نماذج بتريليونات المعاملات على رقاقاتها",
+        "summary": "نشرت Cerebras تدوينة تقنية تفصّل كيف توزّع نموذجًا مفتوحًا مثل Kimi K3 (نحو 3 تريليونات معامل) على عشرات الرقاقات الكاملة (wafer) لتحقيق سرعة تتجاوز 1000-2000 رمز في الثانية.",
+        "details": "نشرت Cerebras في 22 أكتوبر تدوينة تقنية تشرح كيف تُشغّل نماذج ضخمة مفتوحة المصدر مثل Kimi K3، الذي يضم نحو 3 تريليونات معامل في 93 طبقة (69 طبقة انتباه خطي و24 طبقة كثيفة).\n\nتعتمد الطريقة على تخصيص رقاقة WSE-3T كاملة (بذاكرة 44 جيجابايت) لكل طبقة كثيفة، بينما تتقاسم كل رقاقة طبقتين من طبقات الانتباه الخطي التي لا تحتاج ذاكرة مؤقتة (KV cache). يحتاج نموذج Kimi K3 إلى 59 رقاقة مرتبة في خط أنابيب (pipeline)، حيث تبقى أوزان النموذج ثابتة في مكانها وتنتقل فقط نتائج التفعيل بين الرقاقات عبر شبكة RDMA بزمن استجابة نحو 2 ميكروثانية لكل خطوة.\n\n- السرعة المحققة: أكثر من 1000-2000 رمز في الثانية\n- يقارن المنشور أداء Kimi K3 بنموذج GPT-5.6 Sol على مقياسي Terminal-Bench 2.1 وBrowseComp"
+      },
+      "en": {
+        "title": "Cerebras explains how it deploys trillion-parameter frontier models",
+        "summary": "Cerebras published a technical post detailing how it spreads an open model like Kimi K3 (~3 trillion parameters) across dozens of wafer-scale chips to reach over 1,000-2,000 tokens per second.",
+        "details": "Cerebras published a technical blog post on October 22 explaining how it serves large open-weight models such as Kimi K3, which has about 3 trillion parameters across 93 layers (69 linear-attention layers and 24 dense layers).\n\nThe approach dedicates a full WSE-3T wafer (44 GB of on-chip memory) to each dense layer, while two linear-attention layers, which need no KV cache, share a wafer. Kimi K3 needs 59 wafers arranged in a pipeline, where model weights stay fixed in place and only activations move between wafers over RDMA at roughly 2 microseconds per hop.\n\n- Achieved throughput: over 1,000-2,000 tokens per second\n- The post benchmarks Kimi K3 against GPT-5.6 Sol on Terminal-Bench 2.1 and BrowseComp"
+      }
+    }
+  ],
   "upcoming": [],
   "removeUpcoming": [],
   "removeNews": []
