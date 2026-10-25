@@ -1,9 +1,9 @@
 {
  "version": 1,
- "updatedAt": "2026-10-24T23:10:04+00:00",
+ "updatedAt": "2026-10-25T00:08:40+00:00",
  "coverage": {
-  "from": "2026-07-24",
-  "to": "2026-10-24"
+  "from": "2026-07-25",
+  "to": "2026-10-25"
  },
  "tabs": {
   "once-human": {
@@ -7539,75 +7539,6 @@
       "details": "Moonshot AI launched Kimi K3 on July 16 in its Kimi apps and API, then published the full weights on Hugging Face on July 27, meeting the deadline it had set.\n\nModel facts:\n- 2.8 trillion parameters in a sparse mixture-of-experts design, with 104B active per token.\n- Native text, image and video input, a context of about 1 million tokens, and weights shipped in the compact MXFP4 format.\n\nMoonshot says it performs at frontier level in coding, knowledge work and reasoning, while admitting it still trails the strongest closed models from Anthropic and OpenAI. API pricing is $3 per million uncached input tokens and $15 per million output tokens.\n\nThe Kimi K3 licence is permissive with two conditions: model-as-a-service firms with over $20 million in annual revenue need a separate agreement, and very large products must display 'Kimi K3'. A joint UK AISI and US CAISI review found K3 more cyber-capable than GLM-5.2, the previous open-model leader, but behind top US models."
      },
      "addedAt": "2026-07-27T23:59:59+00:00"
-    },
-    {
-     "id": "anthropic-claude-opus-5",
-     "date": "2026-07-24",
-     "type": "model",
-     "importance": 3,
-     "sourceType": "official",
-     "sourceName": "Anthropic News",
-     "url": "https://www.anthropic.com/news/claude-opus-5",
-     "originalTitle": "Introducing Claude Opus 5",
-     "company": "Anthropic",
-     "tool": "Claude",
-     "ar": {
-      "title": "Anthropic تطلق Claude Opus 5 بأداء يقترب من Fable 5 بنصف السعر",
-      "summary": "يقدّم Claude Opus 5 أداءً قريبًا من القمة للوكلاء طويلي التشغيل والبرمجة والعمل المهني بسعر 5 دولارات للإدخال و25 دولارًا للإخراج لكل مليون رمز، ويصبح النموذج الافتراضي في Claude Max.",
-      "details": "أطلقت Anthropic في 24 يوليو نموذج Claude Opus 5، ووصفته بأنه قفزة نوعية لفئة Opus. وتقول الشركة إنه يقترب من ذكاء نموذجها الأعلى Claude Fable 5 بنصف السعر، وإنه أفضل بكثير في التحقق من عمله وتكرار المحاولة حتى ينجح في المهمة.\n\n- تقول Anthropic إنه حقق أفضل النتائج في اختبارات البرمجة والعمل المعرفي مثل Frontier-Bench v0.1 وGDPval-AA، مع بقائه خلف Mythos 5 في مهام الأمن السيبراني\n- في Frontier-Bench v0.1 تجاوز أداؤه ضعف أداء Opus 4.8 بتكلفة أقل لكل مهمة\n- السعر: 5 دولارات لكل مليون رمز إدخال و25 دولارًا لكل مليون رمز إخراج، كما في Opus 4.8، مع وضع سريع أسرع بنحو 2.5 مرة بضعف السعر\n- نافذة سياق بمليون رمز وحتى 128 ألف رمز إخراج\n\nوأصبح Opus 5 النموذج الافتراضي في Claude Max والأقوى في Claude Pro، وهو متاح في تطبيقات Claude وClaude Code وCowork وClaude API، وعلى AWS وGoogle Cloud وMicrosoft Foundry."
-     },
-     "en": {
-      "title": "Anthropic launches Claude Opus 5, close to Fable 5 at half the price",
-      "summary": "Claude Opus 5 brings near-frontier performance for long-running agents, coding and professional work at $5/$25 per million tokens, and becomes the default model on Claude Max.",
-      "details": "Anthropic released Claude Opus 5 on July 24, describing it as a step change for its Opus tier. The company says it comes close to the intelligence of its top model, Claude Fable 5, at half the price, and is much better at checking its work and iterating until a task succeeds.\n\n- Anthropic reports state-of-the-art results on coding and knowledge-work tests such as Frontier-Bench v0.1 and GDPval-AA, though it trails Mythos 5 on cybersecurity tasks\n- On Frontier-Bench v0.1 it more than doubles the performance of Opus 4.8, at a lower cost per task\n- Price: $5 per million input tokens and $25 per million output tokens, the same as Opus 4.8; a fast mode runs about 2.5 times faster at double the price\n- Context of 1 million tokens and up to 128,000 output tokens\n\nOpus 5 is the new default on Claude Max and the strongest model on Claude Pro, and is available in the Claude apps, Claude Code, Cowork, the Claude API and on AWS, Google Cloud and Microsoft Foundry."
-     },
-     "addedAt": "2026-07-24T23:59:59+00:00"
-    },
-    {
-     "id": "meta-ai-muse-spark-1-1",
-     "date": "2026-07-24",
-     "type": "product",
-     "importance": 2,
-     "sourceType": "official",
-     "sourceName": "Meta Newsroom",
-     "url": "https://about.fb.com/news/2026/07/meta-ai-muse-spark-doesnt-just-think-it-acts/",
-     "originalTitle": "Meta AI Doesn't Just Think, It Acts",
-     "company": "Meta",
-     "tool": "Meta AI",
-     "ar": {
-      "title": "Meta AI يحصل على Muse Spark 1.1 للتخطيط وإنجاز المهام عبر تطبيقات المستخدم",
-      "summary": "بات مساعد Meta المطوّر، المدعوم بنموذج Muse Spark 1.1، قادرًا على تخطيط المهام متعددة الخطوات وإعداد موجزات يومية والبحث وإنشاء الشرائح، بدءًا من تطبيق Meta AI وموقع meta.ai.",
-      "details": "أعلنت Meta في 24 يوليو أن Meta AI ينتقل من الإجابة عن الأسئلة إلى إنجاز المهام، بدعم من نموذج جديد هو Muse Spark 1.1. وتقول Meta إن النموذج صُمم للتخطيط والعمل مع تطبيقات المستخدم ومتابعة المهمة حتى نهايتها.\n\n- يخطط لمهام متعددة الخطوات وينفذها، مثل جدول تدريب يُرسل أسبوعيًا أو تنظيم عشاء عيد ميلاد مع اقتراح مطاعم وتنسيق التقويم\n- يعد موجزات يومية تجمع مواعيد التقويم والمستجدات المهمة\n- يبحث في الويب ومنصات Meta، ويمكنه تحويل النتائج إلى عروض شرائح\n- يتيح توجيه النتائج في الوقت الفعلي وحفظ المواد المنشأة في مكان واحد، مع خيار Incognito للمحادثات الخاصة\n\nوبدأت الميزات في أسواق مختارة عبر تطبيق Meta AI وموقع meta.ai، مع خطط للتوسع إلى دول وتطبيقات أخرى، منها WhatsApp، خلال الأسابيع التالية. وتقدم Meta هذا التحديث كخطوة نحو ما تسميه «الذكاء الفائق الشخصي»."
-     },
-     "en": {
-      "title": "Meta AI gets Muse Spark 1.1 to plan and finish tasks with users' apps",
-      "summary": "Meta's upgraded assistant, powered by the new Muse Spark 1.1 model, can plan multi-step tasks, prepare daily briefings, research topics and build slides, starting in the Meta AI app and meta.ai.",
-      "details": "Meta announced on July 24 that Meta AI is moving from answering questions to getting things done, powered by a new model, Muse Spark 1.1. Meta says the model is designed to plan, work with users' apps and follow a task through to the end.\n\n- Plans and carries out multi-step tasks, such as a training schedule delivered week by week or a birthday dinner with restaurant suggestions and calendar coordination\n- Prepares daily briefings that pull in calendar items and relevant updates\n- Researches topics across the web and Meta's platforms, and can turn the findings into slides\n- Lets users steer results in real time and keeps created material in one place; an Incognito chat option is available for private conversations\n\nThe features started in select markets in the Meta AI app and on meta.ai, with more countries and apps, including WhatsApp, planned in the following weeks. Meta presents the update as a step toward what it calls personal superintelligence."
-     },
-     "addedAt": "2026-07-24T23:59:59+00:00"
-    },
-    {
-     "id": "midjourney-v8-2-default-model",
-     "date": "2026-07-24",
-     "type": "media",
-     "importance": 2,
-     "sourceType": "official",
-     "sourceName": "Midjourney Updates",
-     "url": "https://updates.midjourney.com/version-8-2/",
-     "originalTitle": "Version 8.2",
-     "company": "Midjourney",
-     "tool": "Midjourney V8.2",
-     "ar": {
-      "title": "Midjourney تجعل V8.2 نموذجها الافتراضي مع تركيز على الجماليات والتخصيص",
-      "summary": "أطلقت Midjourney الإصدار V8.2 وجعلته النموذج الافتراضي، مع جماليات أكثر جرأة وتراجع في الصور منخفضة الجودة وتخصيص يعكس ذوق كل مستخدم بدقة أكبر.",
-      "details": "أطلقت Midjourney الإصدار 8.2 وجعلته النموذج الافتراضي على منصتها، بعد أن أصبح V8.1 هو الافتراضي في يونيو.\n\n- الجماليات: تقول الشركة إن الصور باتت أكثر إبداعاً وجرأة ورقياً.\n- الموثوقية: تتوقع Midjourney انخفاضاً كبيراً في النتائج منخفضة الجودة.\n- التخصيص: يفهم V8.2 ذوق المستخدم بدقة أكبر، خصوصاً في الملفات التي تضم عدداً كبيراً من التقييمات، كما تعتمد ملفات التخصيص الجديدة على مجموعة صور أكبر وأفضل للتقييم.\n\nودعت الشركة المستخدمين إلى إنشاء ملفات تخصيص جديدة لـV8.2 ومقارنتها بملفاتهم الحالية.\n\nوبعد شهر، في 27 أغسطس، بدأت Midjourney اختباراً مجتمعياً لنموذج تحرير لـV8 يعدّل الصور بتعليمات نصية، ويستخدم حتى أربع صور مرجعية، ويدعم التعديل داخل أجزاء من الصورة وتوسيع حدودها، على موقعي midjourney.com وalpha.midjourney.com."
-     },
-     "en": {
-      "title": "Midjourney makes V8.2 its default model, focusing on style and personalization",
-      "summary": "Midjourney released V8.2 and made it the default model. The update targets bolder aesthetics, fewer low-quality images and personalization that better reflects each user's taste.",
-      "details": "Midjourney has released Version 8.2 and made it the default model on the platform, after V8.1 became the default in June.\n\n- Aesthetics: Midjourney says images should look more creative, bold and sophisticated.\n- Reliability: the company expects far fewer low-quality results.\n- Personalization: V8.2 reads each user's taste more accurately, especially for profiles with many ratings, and new V8.2 personalization profiles draw on a larger, improved pool of images to rate.\n\nMidjourney encouraged users to build fresh V8.2 profiles and compare them with their existing ones.\n\nA month later, on August 27, Midjourney opened community testing of an editing model for V8 that edits images from text instructions, uses up to four reference images and supports inpainting and outpainting, on both midjourney.com and alpha.midjourney.com."
-     },
-     "addedAt": "2026-07-24T23:59:59+00:00"
     }
    ],
    "upcoming": [
