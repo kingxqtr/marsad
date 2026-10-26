@@ -66,6 +66,28 @@
         "summary": "With the 27.2 software updates, Siri AI gains beta support for more languages, with traditional Chinese, Norwegian, Turkish and Vietnamese planned by year-end.",
         "details": "Apple said Siri AI, which it describes as more capable, conversational and personal, is now available in beta in more languages with the 27.2 software updates for iOS, iPadOS, macOS, watchOS and visionOS released today.\n\nThe new languages are French, Japanese, Korean, Portuguese and Spanish, alongside English in the beta availability list. Apple says traditional Chinese, Norwegian, Turkish and Vietnamese are coming by the end of the year.\n\nSiri AI draws on personal context from messages, email and photos, performs more app actions such as drafting emails and editing photos, answers questions about on-screen content, and uses general world knowledge - which Apple says it does without compromising user privacy.\n\nThe feature requires an Apple Intelligence-enabled device with Siri turned on and the device language set to a supported language. It remains unavailable in the EU on iOS, iPadOS and watchOS, with Apple saying it is working with the EU on a path forward; it is also unavailable to users under 13, and some server-side features including Siri AI carry daily usage limits, with Apple planning paid expanded access in the future."
       }
+    },
+    {
+      "id": "openai-gpt-6-1-terra-launch",
+      "date": "2026-10-26",
+      "type": "model",
+      "importance": 2,
+      "sourceType": "official",
+      "sourceName": "OpenAI News",
+      "url": "https://openai.com/index/introducing-gpt-6-1-terra",
+      "originalTitle": "Introducing GPT-6.1 Terra",
+      "company": "OpenAI",
+      "tool": "GPT-6.1 Terra",
+      "ar": {
+        "title": "OpenAI تطرح GPT-6.1 Terra وتصل مباشرة إلى GitHub Copilot",
+        "summary": "أطلقت OpenAI نموذج GPT-6.1 Terra الأقل تكلفة المخصص للمهام البرمجية اليومية والعمل عبر الطرفية، وأصبح متوفرًا فورًا في GitHub Copilot.",
+        "details": "طرحت OpenAI نموذج GPT-6.1 Terra في 26 أكتوبر، وهو موجّه للمهام البرمجية اليومية والعمل عبر الطرفية (terminal) بدلاً من الأحمال الثقيلة التي يتولاها نموذجها GPT-6.1 Sol.\n\nوأكدت GitHub في نفس اليوم أن GPT-6.1 Terra متاح الآن بشكل عام في GitHub Copilot، ووصفته بأنه أحدث نموذج من OpenAI، مشيرة إلى أن تكلفة تشغيله أقل من GPT-6.1 Sol. وفي اختبارات GitHub المبكرة، حلّ النموذج عددًا أكبر بوضوح من مهام الطرفية ولغة C# مقارنة بالنموذج السابق GPT-5.6 Terra.\n\nيُطرح النموذج تدريجيًا لمستخدمي خطط Copilot Pro وPro+ وMax وBusiness وEnterprise عبر VS Code وVisual Studio وCopilot CLI وJetBrains وXcode وEclipse وGitHub Mobile وموقع github.com، مع فوترة حسب الاستخدام بالسعر المعلن من المزوّد."
+      },
+      "en": {
+        "title": "OpenAI launches GPT-6.1 Terra, now available in GitHub Copilot",
+        "summary": "OpenAI released GPT-6.1 Terra, a cheaper model built for everyday agentic coding and terminal work, and it is already live in GitHub Copilot.",
+        "details": "OpenAI introduced GPT-6.1 Terra on October 26, aiming it at everyday agentic coding and terminal tasks rather than the heaviest workloads handled by its GPT-6.1 Sol model.\n\nGitHub confirmed the same day that GPT-6.1 Terra is now generally available in GitHub Copilot, calling it OpenAI's newest model and noting it costs less to run than GPT-6.1 Sol. In GitHub's early testing, it solved noticeably more terminal and C# coding tasks than the previous GPT-5.6 Terra.\n\nThe model is rolling out gradually to Copilot Pro, Pro+, Max, Business and Enterprise users across VS Code, Visual Studio, the Copilot CLI, JetBrains IDEs, Xcode, Eclipse, GitHub Mobile and github.com, billed at provider list pricing under usage-based billing."
+      }
     }
   ],
   "upcoming": [],
