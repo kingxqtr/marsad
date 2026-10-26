@@ -1,4 +1,24 @@
 {
- "updatedAt": "2026-10-26T10:10:01+00:00",
- "items": []
+ "updatedAt": "2026-10-26T10:47:31+00:00",
+ "items": [
+  {
+   "id": "auto-900d70531bab",
+   "tab": "once-human",
+   "date": "2026-10-26",
+   "publishedAt": "2026-10-26T10:31:24+00:00",
+   "type": "update",
+   "importance": 1,
+   "sourceType": "official",
+   "sourceName": "Once Human — Steam News",
+   "url": "https://store.steampowered.com/news/app/2139460/view/1847286114044430",
+   "originalTitle": "3.1.1 Bug Fixes (October 26)",
+   "en": {
+    "title": "3.1.1 Bug Fixes (October 26)",
+    "summary": "October 26 The following issues have been fixed: 1. Fixed an issue where some players did not properly receive the initial main story task after entering the \"Isles of Abyss\" scenario. 2.",
+    "details": "October 26\n\nThe following issues have been fixed:\n\n1. Fixed an issue where some players did not properly receive the initial main story task after entering the \"Isles of Abyss\" scenario.\n\n2. Fixed an issue where the Frontline Dispatch - Premium Pack granted the \"Formula: Red Velvet Armchair\" instead of the intended \"Formula: Camping Chair\". After recovering the incorrect formula, we will resend the \"Formula: Camping Chair\" via mail within 3 business days. Please check your mail.\n\n3. Fixed an issue where the underwater mechanism door in the laboratory corresponding to the \"Ruins Archive - Monthly Environmental Report\" could not be opened properly.\n\n4. Fixed an issue where, in some cases, ships would abnormally lift off and become stuck. After the fix, ships in an abnormal state will be automatically reset to their normal position.\n\nTech Enhancement:\n\nWe have recently received feedback from some Metas that certain Tech enhancement effects appear not to be working correctly. After investigation, the activation rules for these effects are as follows:\n\nAfter a Meta unlocks a Tech enhancement effect in a scenario, that effect will automatically apply to facilities, tools, and related items that are newly built, crafted, or obtained afterward. However, it will not automatically apply the new enhancement effect to facilities already built, or items already crafted or obtained, before the Tech was unlocked. …"
+   },
+   "translated": false,
+   "fetchedAt": "2026-10-26T10:47:26+00:00"
+  }
+ ]
 }
