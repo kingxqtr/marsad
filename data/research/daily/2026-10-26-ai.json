@@ -44,6 +44,28 @@
         "summary": "OpenAI released Signals data covering 165 work activities across nearly 100 countries, showing how people use ChatGPT at work and how that usage shifts over time.",
         "details": "OpenAI published a new post titled \"ChatGPT's expanding world of work,\" presenting data from its Signals research initiative.\n\nThe dataset tracks 165 distinct work activities across nearly 100 countries, aiming to show how people actually use ChatGPT on the job rather than relying on job titles alone.\n\nOpenAI says the data also captures how usage patterns change over time, as workers adopt the tool for a widening range of tasks across different economies.\n\nThe post adds to OpenAI's ongoing series of economic research publications examining ChatGPT's effect on work worldwide."
       }
+    },
+    {
+      "id": "apple-siri-ai-more-languages-27-2",
+      "date": "2026-10-26",
+      "type": "product",
+      "importance": 2,
+      "sourceType": "official",
+      "sourceName": "Apple Newsroom",
+      "url": "https://www.apple.com/newsroom/2026/10/siri-ai-is-available-in-more-languages-starting-today/",
+      "originalTitle": "Siri AI is available in more languages starting today",
+      "company": "Apple",
+      "tool": "Siri AI",
+      "ar": {
+        "title": "آبل توسّع Siri AI لتشمل الفرنسية واليابانية والكورية والبرتغالية والإسبانية",
+        "summary": "مع تحديثات البرمجيات 27.2، أصبح Siri AI متاحًا بنسخة تجريبية بلغات جديدة، على أن تضاف الصينية التقليدية والنرويجية والتركية والفيتنامية بنهاية العام.",
+        "details": "أعلنت آبل أن Siri AI، الذي تصفه بأنه أكثر قدرة وحوارية وشخصية، أصبح متاحًا بنسخة تجريبية بلغات إضافية مع تحديثات 27.2 لأنظمة iOS وiPadOS وmacOS وwatchOS وvisionOS الصادرة اليوم.\n\nتشمل اللغات الجديدة الفرنسية واليابانية والكورية والبرتغالية والإسبانية، إضافة إلى الإنجليزية ضمن قائمة التوفر التجريبي. وتقول آبل إنها ستضيف قبل نهاية العام الصينية التقليدية والنرويجية والتركية والفيتنامية.\n\nيعتمد Siri AI على السياق الشخصي من الرسائل والبريد الإلكتروني والصور، وينفّذ مزيدًا من إجراءات التطبيقات مثل صياغة الرسائل وتعديل الصور، ويجيب عن أسئلة حول محتوى الشاشة، مع استخدام معرفة عامة بالعالم - وتؤكد آبل أنه يفعل ذلك دون المساس بخصوصية المستخدم.\n\nتتطلب الميزة جهازًا يدعم Apple Intelligence مع تفعيل Siri وضبط لغة الجهاز على إحدى اللغات المدعومة. ولا تزال الميزة غير متاحة في الاتحاد الأوروبي على iOS وiPadOS وwatchOS، إذ تقول آبل إنها تعمل مع الاتحاد على إيجاد مسار لإتاحتها، كما أنها غير متاحة لمن هم دون 13 عامًا، وتخضع بعض ميزات الخوادم بما فيها Siri AI لحدود استخدام يومية، مع خطط لعرض وصول موسّع مقابل رسوم مستقبلًا."
+      },
+      "en": {
+        "title": "Apple expands Siri AI to French, Japanese, Korean, Portuguese and Spanish",
+        "summary": "With the 27.2 software updates, Siri AI gains beta support for more languages, with traditional Chinese, Norwegian, Turkish and Vietnamese planned by year-end.",
+        "details": "Apple said Siri AI, which it describes as more capable, conversational and personal, is now available in beta in more languages with the 27.2 software updates for iOS, iPadOS, macOS, watchOS and visionOS released today.\n\nThe new languages are French, Japanese, Korean, Portuguese and Spanish, alongside English in the beta availability list. Apple says traditional Chinese, Norwegian, Turkish and Vietnamese are coming by the end of the year.\n\nSiri AI draws on personal context from messages, email and photos, performs more app actions such as drafting emails and editing photos, answers questions about on-screen content, and uses general world knowledge - which Apple says it does without compromising user privacy.\n\nThe feature requires an Apple Intelligence-enabled device with Siri turned on and the device language set to a supported language. It remains unavailable in the EU on iOS, iPadOS and watchOS, with Apple saying it is working with the EU on a path forward; it is also unavailable to users under 13, and some server-side features including Siri AI carry daily usage limits, with Apple planning paid expanded access in the future."
+      }
     }
   ],
   "upcoming": [],
