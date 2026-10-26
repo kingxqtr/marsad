@@ -1,6 +1,45 @@
 {
- "updatedAt": "2026-10-26T18:28:14+00:00",
+ "updatedAt": "2026-10-26T19:17:17+00:00",
  "items": [
+  {
+   "id": "auto-91d3711c7436",
+   "tab": "ai",
+   "date": "2026-10-26",
+   "publishedAt": "2026-10-26T00:00:00+00:00",
+   "type": "model",
+   "importance": 1,
+   "sourceType": "official",
+   "sourceName": "OpenAI News",
+   "url": "https://openai.com/index/introducing-gpt-6-1-terra",
+   "originalTitle": "Introducing GPT-6.1 Terra",
+   "en": {
+    "title": "Introducing GPT-6.1 Terra",
+    "summary": "Bringing fast and capable computer use to everyone",
+    "details": "Bringing fast and capable computer use to everyone"
+   },
+   "translated": false,
+   "fetchedAt": "2026-10-26T19:17:11+00:00",
+   "company": "OpenAI"
+  },
+  {
+   "id": "auto-80fa959b6220",
+   "tab": "star-citizen",
+   "date": "2026-10-26",
+   "publishedAt": "2026-10-26T19:17:11+00:00",
+   "type": "development",
+   "importance": 1,
+   "sourceType": "official",
+   "sourceName": "RSI Comm-Link",
+   "url": "https://robertsspaceindustries.com/comm-link/transmission/21421-This-Week-In-Star-Citizen",
+   "originalTitle": "This Week in Star Citizen - October 26, 2026",
+   "en": {
+    "title": "This Week in Star Citizen - October 26, 2026",
+    "summary": "Stay up to date with everything going on in the ‘verse.",
+    "details": "Stay up to date with everything going on in the ‘verse."
+   },
+   "translated": false,
+   "fetchedAt": "2026-10-26T19:17:11+00:00"
+  },
   {
    "id": "auto-535e8828c66c",
    "tab": "ai",
