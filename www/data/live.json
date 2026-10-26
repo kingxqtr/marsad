@@ -1,4 +1,25 @@
 {
- "updatedAt": "2026-10-26T15:22:55+00:00",
- "items": []
+ "updatedAt": "2026-10-26T16:20:17+00:00",
+ "items": [
+  {
+   "id": "auto-535e8828c66c",
+   "tab": "ai",
+   "date": "2026-10-26",
+   "publishedAt": "2026-10-26T16:00:00+00:00",
+   "type": "product",
+   "importance": 1,
+   "sourceType": "official",
+   "sourceName": "Google Blog — AI",
+   "url": "https://blog.google/products-and-platforms/products/education/ai-quests-polar-peaks/",
+   "originalTitle": "Our newest AI Quest: Mapping the human brain",
+   "en": {
+    "title": "Our newest AI Quest: Mapping the human brain",
+    "summary": "Learn AI literacy via Google’s latest AI Quests lesson on neuroscience, “Polar Peaks.”",
+    "details": "Learn AI literacy via Google’s latest AI Quests lesson on neuroscience, “Polar Peaks.”"
+   },
+   "translated": false,
+   "fetchedAt": "2026-10-26T16:20:11+00:00",
+   "company": "Google"
+  }
+ ]
 }
