@@ -22,6 +22,27 @@
         "summary": "Anthropic filed a Form S-1 registration statement with the SEC on October 26, planning to list its Class A shares on the Nasdaq under the ticker ANT.",
         "details": "Anthropic, the maker of the Claude AI models, filed a registration statement on Form S-1 with the U.S. Securities and Exchange Commission on October 26, 2026, taking the first formal step toward a public listing.\n\nThe company plans to list its Class A common stock on the Nasdaq Global Select Market under the ticker symbol ANT. The filing does not yet set the number of shares to be offered or an expected price range.\n\nGoldman Sachs and Morgan Stanley are named as the underwriters handling requests for the preliminary prospectus. Anthropic noted that the registration statement has been filed but is not yet effective, so no shares can be sold until the SEC completes its review."
       }
+    },
+    {
+      "id": "openai-academic-verification-kakeya-eth-qcd",
+      "date": "2026-10-26",
+      "type": "model",
+      "importance": 2,
+      "sourceType": "official",
+      "sourceName": "OpenAI",
+      "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities",
+      "originalTitle": "Working with academic communities to build scientific understanding",
+      "company": "OpenAI",
+      "ar": {
+        "title": "OpenAI تدعو الأكاديميين للتحقق من نتائج نماذجها في ثلاث مسائل بحثية",
+        "summary": "نشرت OpenAI نتائج توصّلت إليها نماذجها في تخمين Kakeya وفرضية الزمن الأسي ومسألة في الكروموديناميكا الكمية، وشرحت كيف يمكن للباحثين من خارجها التحقق منها والبناء عليها.",
+        "details": "نشرت OpenAI تدوينة في 26 أكتوبر توضح فيها كيفية تعاونها مع المجتمعات الأكاديمية لمراجعة نتائج توصّلت إليها نماذجها في ثلاث مسائل بحثية مفتوحة: تخمين Kakeya في نظرية القياس الهندسي، وفرضية الزمن الأسي (Exponential Time Hypothesis) في نظرية التعقيد الحاسوبي، ومسألة في الكروموديناميكا الكمية، وهي النظرية التي تصف القوة النووية الشديدة.\n\nوأوضحت الشركة أن الهدف هو تمكين رياضيين وفيزيائيين من خارجها من التحقق بشكل مستقل من هذه النتائج المولّدة بالذكاء الاصطناعي والبناء عليها في أبحاث لاحقة، بدلاً من التعامل مع مخرجات النموذج كحقائق نهائية. وقدّمت OpenAI هذه التدوينة كجزء من مسعى أوسع لفتح نتائجها البحثية أمام التقييم العلمي من خارج الشركة."
+      },
+      "en": {
+        "title": "OpenAI invites academics to verify AI results on three research problems",
+        "summary": "OpenAI published model-generated results on the Kakeya conjecture, the Exponential Time Hypothesis and a quantum chromodynamics problem, and explained how outside researchers can check and build on them.",
+        "details": "OpenAI published a blog post on October 26 describing how it is working with academic communities to check results its AI models produced on three open research problems: the Kakeya conjecture in geometric measure theory, the Exponential Time Hypothesis in computational complexity theory, and a problem in quantum chromodynamics, the theory of the strong nuclear force.\n\nThe company said the goal is to let outside mathematicians and physicists verify these AI-generated results independently and build further research on top of them, rather than treat the model's output as settled fact. OpenAI framed the post as part of a broader effort to open its research results to outside scientific scrutiny."
+      }
     }
   ],
   "upcoming": [],

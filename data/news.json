@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": "2026-10-26T21:16:37+00:00",
+ "updatedAt": "2026-10-26T22:12:58+00:00",
  "coverage": {
   "from": "2026-07-26",
   "to": "2026-10-26"
@@ -1808,6 +1808,28 @@
       "details": "OpenAI introduced GPT-6.1 Terra on October 26, aiming it at everyday agentic coding and terminal tasks rather than the heaviest workloads handled by its GPT-6.1 Sol model.\n\nGitHub confirmed the same day that GPT-6.1 Terra is now generally available in GitHub Copilot, calling it OpenAI's newest model and noting it costs less to run than GPT-6.1 Sol. In GitHub's early testing, it solved noticeably more terminal and C# coding tasks than the previous GPT-5.6 Terra.\n\nThe model is rolling out gradually to Copilot Pro, Pro+, Max, Business and Enterprise users across VS Code, Visual Studio, the Copilot CLI, JetBrains IDEs, Xcode, Eclipse, GitHub Mobile and github.com, billed at provider list pricing under usage-based billing."
      },
      "addedAt": "2026-10-26T20:11:42+00:00"
+    },
+    {
+     "id": "openai-academic-verification-kakeya-eth-qcd",
+     "date": "2026-10-26",
+     "type": "model",
+     "importance": 2,
+     "sourceType": "official",
+     "sourceName": "OpenAI",
+     "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities",
+     "originalTitle": "Working with academic communities to build scientific understanding",
+     "company": "OpenAI",
+     "ar": {
+      "title": "OpenAI تدعو الأكاديميين للتحقق من نتائج نماذجها في ثلاث مسائل بحثية",
+      "summary": "نشرت OpenAI نتائج توصّلت إليها نماذجها في تخمين Kakeya وفرضية الزمن الأسي ومسألة في الكروموديناميكا الكمية، وشرحت كيف يمكن للباحثين من خارجها التحقق منها والبناء عليها.",
+      "details": "نشرت OpenAI تدوينة في 26 أكتوبر توضح فيها كيفية تعاونها مع المجتمعات الأكاديمية لمراجعة نتائج توصّلت إليها نماذجها في ثلاث مسائل بحثية مفتوحة: تخمين Kakeya في نظرية القياس الهندسي، وفرضية الزمن الأسي (Exponential Time Hypothesis) في نظرية التعقيد الحاسوبي، ومسألة في الكروموديناميكا الكمية، وهي النظرية التي تصف القوة النووية الشديدة.\n\nوأوضحت الشركة أن الهدف هو تمكين رياضيين وفيزيائيين من خارجها من التحقق بشكل مستقل من هذه النتائج المولّدة بالذكاء الاصطناعي والبناء عليها في أبحاث لاحقة، بدلاً من التعامل مع مخرجات النموذج كحقائق نهائية. وقدّمت OpenAI هذه التدوينة كجزء من مسعى أوسع لفتح نتائجها البحثية أمام التقييم العلمي من خارج الشركة."
+     },
+     "en": {
+      "title": "OpenAI invites academics to verify AI results on three research problems",
+      "summary": "OpenAI published model-generated results on the Kakeya conjecture, the Exponential Time Hypothesis and a quantum chromodynamics problem, and explained how outside researchers can check and build on them.",
+      "details": "OpenAI published a blog post on October 26 describing how it is working with academic communities to check results its AI models produced on three open research problems: the Kakeya conjecture in geometric measure theory, the Exponential Time Hypothesis in computational complexity theory, and a problem in quantum chromodynamics, the theory of the strong nuclear force.\n\nThe company said the goal is to let outside mathematicians and physicists verify these AI-generated results independently and build further research on top of them, rather than treat the model's output as settled fact. OpenAI framed the post as part of a broader effort to open its research results to outside scientific scrutiny."
+     },
+     "addedAt": "2026-10-26T22:12:58+00:00"
     },
     {
      "id": "openai-chatgpt-world-of-work-signals-data",
