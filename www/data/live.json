@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-26T19:56:11+00:00",
+ "updatedAt": "2026-10-26T20:22:33+00:00",
  "items": [
   {
    "id": "auto-a9170c764f6a",
@@ -20,26 +20,6 @@
    "translated": false,
    "fetchedAt": "2026-10-26T19:56:06+00:00",
    "company": "GitHub"
-  },
-  {
-   "id": "auto-91d3711c7436",
-   "tab": "ai",
-   "date": "2026-10-26",
-   "publishedAt": "2026-10-26T00:00:00+00:00",
-   "type": "model",
-   "importance": 1,
-   "sourceType": "official",
-   "sourceName": "OpenAI News",
-   "url": "https://openai.com/index/introducing-gpt-6-1-terra",
-   "originalTitle": "Introducing GPT-6.1 Terra",
-   "en": {
-    "title": "Introducing GPT-6.1 Terra",
-    "summary": "Bringing fast and capable computer use to everyone",
-    "details": "Bringing fast and capable computer use to everyone"
-   },
-   "translated": false,
-   "fetchedAt": "2026-10-26T19:17:11+00:00",
-   "company": "OpenAI"
   },
   {
    "id": "auto-80fa959b6220",
