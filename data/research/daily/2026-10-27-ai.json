@@ -1,0 +1,30 @@
+{
+  "topic": "ai",
+  "generatedAt": "2026-10-27",
+  "news": [
+    {
+      "id": "anthropic-files-s1-ipo",
+      "date": "2026-10-26",
+      "type": "business",
+      "importance": 3,
+      "sourceType": "official",
+      "sourceName": "Anthropic",
+      "url": "https://www.anthropic.com/news/s1-sec",
+      "originalTitle": "Anthropic files S-1 with the SEC for proposed initial public offering",
+      "company": "Anthropic",
+      "ar": {
+        "title": "Anthropic تتقدم بطلب S-1 لدى هيئة الأوراق المالية الأميركية للطرح العام الأولي",
+        "summary": "تقدّمت Anthropic، الشركة المطوّرة لنماذج Claude، بطلب تسجيل بنموذج S-1 لدى هيئة الأوراق المالية والبورصات الأميركية (SEC) في 26 أكتوبر، بهدف طرح أسهمها من الفئة A للتداول في بورصة ناسداك تحت الرمز ANT.",
+        "details": "تقدّمت شركة Anthropic، الجهة المطوّرة لنماذج Claude للذكاء الاصطناعي، بطلب تسجيل بنموذج S-1 لدى هيئة الأوراق المالية والبورصات الأميركية (SEC) في 26 أكتوبر 2026، في أول خطوة رسمية نحو طرح أسهمها للتداول العام.\n\nتعتزم الشركة طرح أسهمها العادية من الفئة A للتداول في بورصة ناسداك العالمية المختارة (Nasdaq Global Select Market) تحت الرمز ANT. ولم يحدد الطلب بعد عدد الأسهم المعروضة أو النطاق السعري المتوقع لها.\n\nوسُمّيت مؤسستا Goldman Sachs وMorgan Stanley كجهتين مكلّفتين بتلقي طلبات نسخة النشرة التمهيدية (prospectus). وأوضحت Anthropic أن بيان التسجيل قُدّم لكنه لم يصبح ساريًا بعد، أي لا يمكن بيع أي أسهم إلى حين إتمام مراجعة الهيئة له."
+      },
+      "en": {
+        "title": "Anthropic files S-1 with the SEC for a proposed IPO",
+        "summary": "Anthropic filed a Form S-1 registration statement with the SEC on October 26, planning to list its Class A shares on the Nasdaq under the ticker ANT.",
+        "details": "Anthropic, the maker of the Claude AI models, filed a registration statement on Form S-1 with the U.S. Securities and Exchange Commission on October 26, 2026, taking the first formal step toward a public listing.\n\nThe company plans to list its Class A common stock on the Nasdaq Global Select Market under the ticker symbol ANT. The filing does not yet set the number of shares to be offered or an expected price range.\n\nGoldman Sachs and Morgan Stanley are named as the underwriters handling requests for the preliminary prospectus. Anthropic noted that the registration statement has been filed but is not yet effective, so no shares can be sold until the SEC completes its review."
+      }
+    }
+  ],
+  "upcoming": [],
+  "removeUpcoming": [],
+  "removeNews": []
+}
