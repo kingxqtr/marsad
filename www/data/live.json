@@ -1,6 +1,26 @@
 {
- "updatedAt": "2026-10-26T21:36:40+00:00",
+ "updatedAt": "2026-10-26T22:09:30+00:00",
  "items": [
+  {
+   "id": "auto-bf03207dadfa",
+   "tab": "ai",
+   "date": "2026-10-26",
+   "publishedAt": "2026-10-26T00:00:00+00:00",
+   "type": "product",
+   "importance": 1,
+   "sourceType": "official",
+   "sourceName": "OpenAI News",
+   "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities",
+   "originalTitle": "Working with academic communities to build scientific understanding",
+   "en": {
+    "title": "Working with academic communities to build scientific understanding",
+    "summary": "OpenAI shares model results on the Kakeya conjecture, Exponential Time Hypothesis, and quantum chromodynamics—and how researchers can verify and build on them.",
+    "details": "OpenAI shares model results on the Kakeya conjecture, Exponential Time Hypothesis, and quantum chromodynamics—and how researchers can verify and build on them."
+   },
+   "translated": false,
+   "fetchedAt": "2026-10-26T22:09:25+00:00",
+   "company": "OpenAI"
+  },
   {
    "id": "auto-a9170c764f6a",
    "tab": "ai",
