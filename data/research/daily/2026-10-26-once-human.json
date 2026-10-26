@@ -1,0 +1,29 @@
+{
+  "topic": "once-human",
+  "generatedAt": "2026-10-26",
+  "news": [
+    {
+      "id": "oh-3-1-1-bugfixes-oct26",
+      "date": "2026-10-26",
+      "type": "update",
+      "importance": 1,
+      "sourceType": "official",
+      "sourceName": "Once Human — Steam News",
+      "url": "https://store.steampowered.com/news/app/2139460/view/1847286114044430",
+      "originalTitle": "3.1.1 Bug Fixes (October 26)",
+      "ar": {
+        "title": "تصحيحات أخطاء جديدة للإصدار 3.1.1 في Once Human",
+        "summary": "أصدرت Once Human مجموعة تصحيحات جديدة للإصدار 3.1.1 تعالج مشاكل في مهمة القصة ومكافآت باقة Frontline Dispatch وآلية باب تحت الماء وارتفاع السفن بشكل غير طبيعي.",
+        "details": "أصدر فريق Once Human تصحيحات أخطاء إضافية للإصدار 3.1.1 بتاريخ 26 أكتوبر. عالجت التصحيحات مشكلة عدم استلام بعض اللاعبين لمهمة القصة الرئيسية الأولى بعد دخول سيناريو \"Isles of Abyss\"، ومشكلة منح باقة Frontline Dispatch المميزة لصيغة \"كرسي بذراعين أحمر\" بدلاً من \"كرسي تخييم\" المقصودة، على أن يتم تعويض اللاعبين المتأثرين عبر البريد داخل اللعبة خلال ثلاثة أيام عمل.\n\nكما أصلح التحديث خللاً في آلية الباب تحت الماء المرتبطة بمهمة \"أرشيف الآثار - التقرير البيئي الشهري\"، وحالات كانت فيها السفن ترتفع وتعلق بشكل غير طبيعي، حيث ستُعاد السفن المتأثرة تلقائياً إلى وضعها الطبيعي.\n\n- أوضح الفريق أيضاً أن تأثيرات تحسين التقنية (Tech) التي يفتحها أحد الـ Metas تُطبَّق تلقائياً فقط على المنشآت والأدوات الجديدة التي تُبنى أو تُصنع بعد فتح التحسين، دون تطبيقها رجعياً على ما كان موجوداً مسبقاً."
+      },
+      "en": {
+        "title": "Once Human ships more 3.1.1 bug fixes (October 26)",
+        "summary": "A new round of 3.1.1 fixes addresses a missing main-story task, a wrong Frontline Dispatch reward item, an underwater door glitch and ships abnormally lifting off.",
+        "details": "Once Human released another set of 3.1.1 bug fixes on October 26. The patch fixes an issue where some players did not properly receive the initial main story task after entering the \"Isles of Abyss\" scenario, and corrects the Frontline Dispatch Premium Pack, which had been granting a \"Red Velvet Armchair\" formula instead of the intended \"Camping Chair\" formula; affected players will receive the correct formula by in-game mail within three business days.\n\nThe update also fixes an underwater mechanism door tied to the \"Ruins Archive - Monthly Environmental Report\" task that could not be opened properly, and cases where ships would abnormally lift off and get stuck, which are now automatically reset to their normal position.\n\n- The team also clarified that Tech enhancement effects unlocked by a Meta apply automatically only to facilities, tools and items built, crafted or obtained after the Tech is unlocked, not retroactively to ones already in place."
+      }
+    }
+  ],
+  "upcoming": [],
+  "removeUpcoming": [],
+  "removeNews": []
+}
