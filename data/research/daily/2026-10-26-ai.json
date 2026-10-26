@@ -23,6 +23,27 @@
         "summary": "Nanbeige Team published the 33B Nanbeige4.3-33B model on Hugging Face under Apache-2.0, claiming leading agentic benchmarks among ~30B open models and a 512K context window.",
         "details": "Nanbeige Team, the AI lab under Kanzhun (the parent company of job app BOSS Zhipin), released Nanbeige4.3-33B on Hugging Face under an Apache-2.0 license. The 33-billion-parameter model supports English and Chinese and offers a 512K-token context window.\n\nThe model is positioned as the \"teacher\" in the Nanbeige4.3 family, meant to distill its agentic skills into smaller models, including a planned 3-billion-parameter version.\n\nNanbeige's own benchmark tables show it leading on tests like Terminal-Bench 2.1 and AIME 2026, while trailing open rivals such as Qwen3.8-27B and Gemma4-31B on others, including SWE-Bench Pro and GPQA Diamond."
       }
+    },
+    {
+      "id": "openai-chatgpt-world-of-work-signals-data",
+      "date": "2026-10-26",
+      "type": "business",
+      "importance": 1,
+      "sourceType": "official",
+      "sourceName": "OpenAI News",
+      "url": "https://openai.com/index/chatgpt-expanding-world-of-work",
+      "originalTitle": "ChatGPT’s expanding world of work",
+      "company": "OpenAI",
+      "ar": {
+        "title": "OpenAI تنشر بيانات Signals حول استخدام ChatGPT في العمل حول العالم",
+        "summary": "نشرت OpenAI بيانات Signals التي تغطي 165 نشاطًا وظيفيًا في نحو 100 دولة، لتوضيح كيف يستخدم الأشخاص ChatGPT في العمل وكيف يتغيّر هذا الاستخدام بمرور الوقت.",
+        "details": "نشرت OpenAI تدوينة جديدة بعنوان \"ChatGPT's expanding world of work\"، تعرض فيها بيانات من مبادرتها البحثية Signals.\n\nتغطي البيانات 165 نشاطًا وظيفيًا مختلفًا في نحو 100 دولة، بهدف إظهار كيفية استخدام الأشخاص الفعلي لـ ChatGPT في أعمالهم، بدلاً من الاعتماد على العناوين الوظيفية فقط.\n\nوتقول OpenAI إن البيانات ترصد أيضًا كيفية تغيّر أنماط الاستخدام بمرور الوقت، مع تبنّي مزيد من العمال للأداة في طائفة متزايدة من المهام ضمن اقتصادات مختلفة.\n\nوتأتي هذه التدوينة ضمن سلسلة أبحاث اقتصادية تنشرها OpenAI بشكل مستمر لدراسة تأثير ChatGPT على سوق العمل حول العالم."
+      },
+      "en": {
+        "title": "OpenAI publishes new Signals data on how ChatGPT is used for work worldwide",
+        "summary": "OpenAI released Signals data covering 165 work activities across nearly 100 countries, showing how people use ChatGPT at work and how that usage shifts over time.",
+        "details": "OpenAI published a new post titled \"ChatGPT's expanding world of work,\" presenting data from its Signals research initiative.\n\nThe dataset tracks 165 distinct work activities across nearly 100 countries, aiming to show how people actually use ChatGPT on the job rather than relying on job titles alone.\n\nOpenAI says the data also captures how usage patterns change over time, as workers adopt the tool for a widening range of tasks across different economies.\n\nThe post adds to OpenAI's ongoing series of economic research publications examining ChatGPT's effect on work worldwide."
+      }
     }
   ],
   "upcoming": [],
