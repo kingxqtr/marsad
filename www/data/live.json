@@ -1,6 +1,26 @@
 {
- "updatedAt": "2026-10-26T19:17:17+00:00",
+ "updatedAt": "2026-10-26T19:56:11+00:00",
  "items": [
+  {
+   "id": "auto-a9170c764f6a",
+   "tab": "ai",
+   "date": "2026-10-26",
+   "publishedAt": "2026-10-26T19:15:53+00:00",
+   "type": "coding",
+   "importance": 1,
+   "sourceType": "official",
+   "sourceName": "GitHub Changelog",
+   "url": "https://github.blog/changelog/2026-10-26-gpt-6-1-terra-in-github-copilot",
+   "originalTitle": "GPT-6.1 Terra in GitHub Copilot",
+   "en": {
+    "title": "GPT-6.1 Terra in GitHub Copilot",
+    "summary": "GPT-6.1 Terra, OpenAI’s newest model, is now generally available in GitHub Copilot. It is designed for everyday agentic coding and terminal work at a lower cost than GPT-6.1 Sol.",
+    "details": "GPT-6.1 Terra, OpenAI’s newest model, is now generally available in GitHub Copilot. It is designed for everyday agentic coding and terminal work at a lower cost than GPT-6.1 Sol. In early testing, GPT-6.1 Terra solved noticeably more terminal and C# coding tasks than GPT-5.6 Terra. It works in focused, consolidated steps on well-scoped tasks.\n\nThis model is billed at provider list pricing under usage-based billing. See Models and pricing for GitHub Copilot for details.\n\nAvailability in GitHub Copilot\n\nGPT-6.1 Terra is available to Copilot Pro, Pro+, Max, Business, and Enterprise users. You can select the model in the model picker in:\n\n- Visual Studio Code\n\n- Visual Studio\n\n- Copilot CLI\n\n- GitHub Copilot cloud agent\n\n- GitHub Copilot app\n\n- github.com\n\n- GitHub Mobile on iOS and Android\n\n- JetBrains IDEs\n\n- Xcode\n\n- Eclipse\n\nRollout will be gradual. Check back soon if you don’t see it yet.\n\nEnabling access\n\nCopilot Enterprise and Copilot Business plan administrators can manage access to GPT-6.1 Terra through the model policy in Copilot settings. Under default model enablement, new models are automatically enabled unless an administrator has turned off the global default or explicitly disables this model.\n\nLearn more\n\nTo explore all models available in GitHub Copilot, see our documentation on models and get started with Copilot.\n\nShare your feedback\n\nJoin the GitHub Community to share your feedback.\n\nThe post GPT-6.1 Terra in GitHub Copilot appeared first on The GitHub Blog ."
+   },
+   "translated": false,
+   "fetchedAt": "2026-10-26T19:56:06+00:00",
+   "company": "GitHub"
+  },
   {
    "id": "auto-91d3711c7436",
    "tab": "ai",
