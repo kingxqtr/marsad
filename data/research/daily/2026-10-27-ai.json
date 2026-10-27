@@ -43,6 +43,69 @@
         "summary": "OpenAI published model-generated results on the Kakeya conjecture, the Exponential Time Hypothesis and a quantum chromodynamics problem, and explained how outside researchers can check and build on them.",
         "details": "OpenAI published a blog post on October 26 describing how it is working with academic communities to check results its AI models produced on three open research problems: the Kakeya conjecture in geometric measure theory, the Exponential Time Hypothesis in computational complexity theory, and a problem in quantum chromodynamics, the theory of the strong nuclear force.\n\nThe company said the goal is to let outside mathematicians and physicists verify these AI-generated results independently and build further research on top of them, rather than treat the model's output as settled fact. OpenAI framed the post as part of a broader effort to open its research results to outside scientific scrutiny."
       }
+    },
+    {
+      "id": "apple-macbook-pro-14-m6",
+      "date": "2026-10-27",
+      "type": "hardware",
+      "importance": 2,
+      "sourceType": "official",
+      "sourceName": "Apple Newsroom",
+      "url": "https://www.apple.com/newsroom/2026/10/apple-introduces-the-new-14-inch-macbook-pro-with-m6/",
+      "originalTitle": "Apple introduces the new 14-inch MacBook Pro with M6",
+      "company": "Apple",
+      "ar": {
+        "title": "Apple تطرح MacBook Pro جديدًا بشاشة 14 بوصة وشريحة M6",
+        "summary": "أعلنت Apple عن MacBook Pro جديد بشاشة 14 بوصة مزوّد بشريحة M6، وتقول إنها تسرّع مهام الذكاء الاصطناعي حتى 25% مقارنة بـM5. يبدأ الحجز المسبق في 28 أكتوبر.",
+        "details": "أعلنت Apple في 27 أكتوبر عن جيل جديد من MacBook Pro بشاشة 14 بوصة يعمل بشريحة M6، التي تضم معالج رسوميات بـ12 نواة مزوّدة بمسرّعات عصبية في كل نواة، إلى جانب محرك عصبي مزدوج بـ16 نواة.\n\nتقول Apple إن معالج الرسوميات أسرع بنسبة تصل إلى 30% مقارنة بـM5، وإن مهام الذكاء الاصطناعي تعمل بسرعة أكبر بنسبة تصل إلى 25%، بينما يصل المحرك العصبي إلى 1.9 مرة أسرع. يأتي الجهاز بذاكرة موحّدة سعتها 16 جيجابايت قابلة للترقية إلى 32 جيجابايت، ويعمل بنظام macOS 27 الذي يضيف ميزات Siri AI وApple Intelligence.\n\nيبدأ سعر الجهاز من 1,999 دولارًا في الولايات المتحدة، ويفتح باب الحجز المسبق في 28 أكتوبر في 35 دولة ومنطقة، على أن يصل إلى المتاجر في 6 نوفمبر."
+      },
+      "en": {
+        "title": "Apple refreshes 14-inch MacBook Pro with M6 chip",
+        "summary": "Apple announced a new 14-inch MacBook Pro powered by the M6 chip, saying it speeds AI workloads up to 25% faster than M5. Pre-orders open October 28.",
+        "details": "Apple announced a new 14-inch MacBook Pro on October 27, built around the M6 chip, which pairs a 12-core GPU with a Neural Accelerator in every core and a dual 16-core Neural Engine.\n\nApple says the GPU is up to 30% faster than M5 and AI workloads run up to 25% faster, while the Neural Engine is up to 1.9x faster. The laptop ships with 16GB of unified memory, configurable up to 32GB, and runs macOS 27, which adds Siri AI and Apple Intelligence features.\n\nPricing starts at $1,999 in the U.S. Pre-orders open October 28 in 35 countries and regions, with units arriving in stores starting November 6."
+      }
+    },
+    {
+      "id": "apple-imac-m6",
+      "date": "2026-10-27",
+      "type": "hardware",
+      "importance": 2,
+      "sourceType": "official",
+      "sourceName": "Apple Newsroom",
+      "url": "https://www.apple.com/newsroom/2026/10/apple-unveils-new-imac-with-m6/",
+      "originalTitle": "Apple unveils new iMac with M6",
+      "company": "Apple",
+      "ar": {
+        "title": "Apple تحدّث iMac بشريحة M6",
+        "summary": "أعلنت Apple عن نسخة محدّثة من iMac بشاشة 24 بوصة تعمل بشريحة M6، وتقول إنها توفّر أداء ذكاء اصطناعي محلي أسرع حتى 5 مرات مقارنة بـM4. يصل الجهاز إلى المتاجر في 6 نوفمبر.",
+        "details": "أعلنت Apple في 27 أكتوبر عن نسخة جديدة من جهاز iMac بشاشة 24 بوصة تعمل بشريحة M6، التي تضم معالج رسوميات بحتى 12 نواة مزوّدة بمسرّعات عصبية، ومحركًا عصبيًا مزدوجًا بـ16 نواة لتشغيل مهام الذكاء الاصطناعي.\n\nتقول Apple إن أداء الذكاء الاصطناعي المحلي أسرع حتى 5 مرات مقارنة بشريحة M4، وحتى 18 مرة أسرع من أكثر أجهزة iMac انتشارًا بمعالجات Intel. يعمل الجهاز بنظام macOS 27 مع ميزة Siri AI، ويأتي بسبعة ألوان.\n\nتبدأ أسعار الجهاز في الولايات المتحدة من 1,499 دولارًا للنسخة بـ10 أنوية، ويفتح الحجز المسبق في 28 أكتوبر في 35 دولة ومنطقة، على أن يبدأ التوصيل والتوفر في المتاجر يوم 6 نوفمبر."
+      },
+      "en": {
+        "title": "Apple updates iMac with M6 chip",
+        "summary": "Apple announced a refreshed 24-inch iMac powered by the M6 chip, saying it delivers up to 5x faster on-device AI than M4. It arrives in stores November 6.",
+        "details": "Apple announced a new 24-inch iMac on October 27, powered by the M6 chip, which includes a GPU with up to 12 cores featuring Neural Accelerators plus a dual 16-core Neural Engine for AI tasks.\n\nApple says on-device AI performance is up to 5x faster than M4, and up to 18x faster than the most popular Intel-based iMac. The machine runs macOS 27 with the Siri AI feature and comes in seven colors.\n\nU.S. pricing starts at $1,499 for the 10-core model. Pre-orders open October 28 in 35 countries and regions, with delivery and in-store availability starting November 6."
+      }
+    },
+    {
+      "id": "apple-creator-studio-ai-features-oct2026",
+      "date": "2026-10-27",
+      "type": "media",
+      "importance": 2,
+      "sourceType": "official",
+      "sourceName": "Apple Newsroom",
+      "url": "https://www.apple.com/newsroom/2026/10/apple-creator-studio-adds-powerful-new-ai-features-and-even-more-creative-tools/",
+      "originalTitle": "Apple Creator Studio adds powerful new AI features and even more creative tools",
+      "company": "Apple",
+      "ar": {
+        "title": "Apple تضيف مساعدات ذكاء اصطناعي ودعم MCP إلى تطبيقات Creator Studio",
+        "summary": "أضافت Apple مساعدات ذكاء اصطناعي تجريبية إلى Logic Pro وKeynote وPages وNumbers، مع دعم بروتوكول Model Context Protocol الذي يتيح لأدوات ذكاء اصطناعي خارجية قراءة المستندات وتحريرها.",
+        "details": "أعلنت Apple في 27 أكتوبر عن مجموعة تحديثات للذكاء الاصطناعي عبر تطبيقات Creator Studio الإبداعية. يحصل Logic Pro على مساعد ذكي تجريبي يساعد في بدء الأغاني وضبط مسارات الصوت، بينما تحصل Keynote وPages وNumbers على مساعدات تجريبية تفهم سياق المستند، وتقتصر هذه الميزات على اللغة الإنجليزية الأميركية حاليًا.\n\nكما أضافت Apple دعم بروتوكول Model Context Protocol (MCP) في Keynote وPages وNumbers، ما يتيح لوكلاء وأدوات ذكاء اصطناعي خارجية قراءة محتوى المستندات وتحريرها وتنفيذ إجراءات تلقائية فيها.\n\nمن الإضافات الأخرى: ميزة Generate Fill في Pixelmator Pro لتعديل مناطق محددة من الصورة عبر وصف نصي، وتوليد صور داخل Final Cut Pro وMotion من وصف نصي، وتحليل صوتي داخل Logic Pro يصنّف الأصوات تلقائيًا في المتصفح."
+      },
+      "en": {
+        "title": "Apple adds AI assistants and MCP support to Creator Studio apps",
+        "summary": "Apple added beta AI assistants to Logic Pro, Keynote, Pages and Numbers, plus Model Context Protocol support letting outside AI agents read and edit documents.",
+        "details": "Apple announced a set of AI updates across its Creator Studio apps on October 27. Logic Pro gets a beta intelligent assistant that helps start songs and set up vocal tracks, while Keynote, Pages and Numbers get beta assistants that understand document context; these features are U.S. English only for now.\n\nApple also added Model Context Protocol (MCP) support in Keynote, Pages and Numbers, letting external AI agents and tools read document content, make edits and run automated actions.\n\nOther additions include Generate Fill in Pixelmator Pro, which edits selected image areas from a text description, text-to-image generation in Final Cut Pro and Motion, and on-device audio analysis in Logic Pro that automatically tags sounds in the Browser."
+      }
     }
   ],
   "upcoming": [],
