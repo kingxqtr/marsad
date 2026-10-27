@@ -1,4 +1,63 @@
 {
- "updatedAt": "2026-10-27T09:45:08+00:00",
- "items": []
+ "updatedAt": "2026-10-27T15:33:48+00:00",
+ "items": [
+  {
+   "id": "auto-430d39815a70",
+   "tab": "ai",
+   "date": "2026-10-27",
+   "publishedAt": "2026-10-27T11:08:14+00:00",
+   "type": "product",
+   "importance": 1,
+   "sourceType": "community",
+   "sourceName": "Hacker News",
+   "url": "https://news.ycombinator.com/item?id=50257325",
+   "originalTitle": "AI promised less work. I've never worked more",
+   "en": {
+    "title": "AI promised less work. I've never worked more",
+    "summary": "Community discussion on Hacker News (422 points, 378 comments).",
+    "details": "Community discussion on Hacker News (422 points, 378 comments)."
+   },
+   "translated": false,
+   "fetchedAt": "2026-10-27T15:33:42+00:00"
+  },
+  {
+   "id": "auto-2c71924a1459",
+   "tab": "ai",
+   "date": "2026-10-27",
+   "publishedAt": "2026-10-27T06:25:37+00:00",
+   "type": "product",
+   "importance": 1,
+   "sourceType": "community",
+   "sourceName": "Hacker News",
+   "url": "https://news.ycombinator.com/item?id=50255298",
+   "originalTitle": "The Mythical Man-Month in the Age of AI",
+   "en": {
+    "title": "The Mythical Man-Month in the Age of AI",
+    "summary": "Community discussion on Hacker News (327 points, 204 comments).",
+    "details": "Community discussion on Hacker News (327 points, 204 comments)."
+   },
+   "translated": false,
+   "fetchedAt": "2026-10-27T15:33:42+00:00"
+  },
+  {
+   "id": "auto-b6a8d51ae321",
+   "tab": "ai",
+   "date": "2026-10-27",
+   "publishedAt": "2026-10-27T15:00:20+00:00",
+   "type": "hardware",
+   "importance": 1,
+   "sourceType": "official",
+   "sourceName": "NVIDIA Blog",
+   "url": "https://blogs.nvidia.com/blog/open-source-ai-tools-cbrain-dementia/",
+   "originalTitle": "How AI Is Changing the Pace of Discovery for Millions Living With Dementia",
+   "en": {
+    "title": "How AI Is Changing the Pace of Discovery for Millions Living With Dementia",
+    "summary": "There are 57 million people worldwide living with dementia today.",
+    "details": "There are 57 million people worldwide living with dementia today. For the researchers working to help them, the obstacle isn’t a lack of effort — it’s too much data, too few experts to synthesize it and a pace of discovery that can’t keep up with the disease.\n\nThe Consortium for Biomedical Research and AI in Neurodegeneration (C-BRAIN), working with NVIDIA, is using AI to change that.\n\nAlzheimer’s disease is one of today’s leading global health challenges, with over 10 million new dementia cases diagnosed each year. Despite a 7x increase in National Institutes of Health funding in the last 15 years — reaching $3.9 billion annually — no treatment has been found to stop, prevent or reverse the disease yet.\n\nThe bottlenecks are not enough high impact scientific findings, too much data living in institutional silos and too slow a pace of synthesis to keep up with the research that is published.\n\nC-BRAIN, led by Dr. Randall Bateman and a consortium of 18 member institutions across academic, philanthropic, pharma and research organizations, launched in November 2025 to help scientists make better, faster discoveries by accelerating the research that makes new treatments possible. …"
+   },
+   "translated": false,
+   "fetchedAt": "2026-10-27T15:33:41+00:00",
+   "company": "NVIDIA"
+  }
+ ]
 }
