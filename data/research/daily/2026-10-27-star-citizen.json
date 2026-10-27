@@ -1,0 +1,29 @@
+{
+  "topic": "star-citizen",
+  "generatedAt": "2026-10-27",
+  "news": [
+    {
+      "id": "sc-10-from-community-tech-focus",
+      "date": "2026-10-27",
+      "type": "development",
+      "importance": 1,
+      "sourceType": "official",
+      "sourceName": "RSI Comm-Link",
+      "url": "https://robertsspaceindustries.com/comm-link/transmission/21423-10-From-The-Community",
+      "originalTitle": "10 From the Community - Technology in Focus",
+      "ar": {
+        "title": "حلقة جديدة من 10 From the Community تركّز على التقنية في Star Citizen",
+        "summary": "نشرت Cloud Imperium Games حلقة جديدة من سلسلة 10 From the Community تجيب فيها على عشرة أسئلة من اللاعبين حول سلوك الشخصيات غير القابلة للعب والميزات الاجتماعية والواجهات والمركبات البرية واستقرار اللعبة.",
+        "details": "نشر فريق Cloud Imperium Games في 27 أكتوبر حلقة جديدة من سلسلة الأسئلة والأجوبة \"10 From the Community\"، تحت عنوان \"Technology in Focus\"، يستعرض فيها إنجازات تقنية وتحسينات في الميزات الخاصة بـStar Citizen.\n\nتجيب الحلقة على عشرة أسئلة من المجتمع تتعلق بسلوك الشخصيات غير القابلة للعب (NPC)، والميزات الاجتماعية، وواجهات المستخدم، والمركبات البرية، وإصلاح الأخطاء، إلى جانب العمل المستمر لجعل اللعبة أكثر استقرارًا واتصالًا وغمرًا.\n\nتأتي هذه الحلقة كجزء من تواصل الاستوديو المنتظم مع مجتمع اللاعبين لشرح التفاصيل التقنية التي تقف خلف الأنظمة المختلفة في الكون المفتوح للعبة."
+      },
+      "en": {
+        "title": "New 10 From the Community episode puts Star Citizen tech in focus",
+        "summary": "Cloud Imperium Games published a new '10 From the Community' Q&A answering ten player questions about NPC behavior, social features, UI, ground vehicles and ongoing stability work.",
+        "details": "Cloud Imperium Games published a new episode of its '10 From the Community' Q&A series on October 27, titled 'Technology in Focus,' covering technical accomplishments and feature improvements behind Star Citizen's systems.\n\nThe episode answers ten community questions covering NPC behavior, social features, user interfaces, ground vehicles, and bug fixes, alongside the studio's ongoing work to make the game more stable, connected and immersive.\n\nThe episode is part of the studio's regular outreach to the player community, explaining the technical details behind various systems in the game's persistent universe."
+      }
+    }
+  ],
+  "upcoming": [],
+  "removeUpcoming": [],
+  "removeNews": []
+}

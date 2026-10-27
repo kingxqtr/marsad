@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": "2026-10-27T15:13:27+00:00",
+ "updatedAt": "2026-10-27T16:16:58+00:00",
  "coverage": {
   "from": "2026-07-27",
   "to": "2026-10-27"
@@ -896,6 +896,27 @@
   "star-citizen": {
    "news": [
     {
+     "id": "sc-10-from-community-tech-focus",
+     "date": "2026-10-27",
+     "type": "development",
+     "importance": 1,
+     "sourceType": "official",
+     "sourceName": "RSI Comm-Link",
+     "url": "https://robertsspaceindustries.com/comm-link/transmission/21423-10-From-The-Community",
+     "originalTitle": "10 From the Community - Technology in Focus",
+     "ar": {
+      "title": "حلقة جديدة من 10 From the Community تركّز على التقنية في Star Citizen",
+      "summary": "نشرت Cloud Imperium Games حلقة جديدة من سلسلة 10 From the Community تجيب فيها على عشرة أسئلة من اللاعبين حول سلوك الشخصيات غير القابلة للعب والميزات الاجتماعية والواجهات والمركبات البرية واستقرار اللعبة.",
+      "details": "نشر فريق Cloud Imperium Games في 27 أكتوبر حلقة جديدة من سلسلة الأسئلة والأجوبة \"10 From the Community\"، تحت عنوان \"Technology in Focus\"، يستعرض فيها إنجازات تقنية وتحسينات في الميزات الخاصة بـStar Citizen.\n\nتجيب الحلقة على عشرة أسئلة من المجتمع تتعلق بسلوك الشخصيات غير القابلة للعب (NPC)، والميزات الاجتماعية، وواجهات المستخدم، والمركبات البرية، وإصلاح الأخطاء، إلى جانب العمل المستمر لجعل اللعبة أكثر استقرارًا واتصالًا وغمرًا.\n\nتأتي هذه الحلقة كجزء من تواصل الاستوديو المنتظم مع مجتمع اللاعبين لشرح التفاصيل التقنية التي تقف خلف الأنظمة المختلفة في الكون المفتوح للعبة."
+     },
+     "en": {
+      "title": "New 10 From the Community episode puts Star Citizen tech in focus",
+      "summary": "Cloud Imperium Games published a new '10 From the Community' Q&A answering ten player questions about NPC behavior, social features, UI, ground vehicles and ongoing stability work.",
+      "details": "Cloud Imperium Games published a new episode of its '10 From the Community' Q&A series on October 27, titled 'Technology in Focus,' covering technical accomplishments and feature improvements behind Star Citizen's systems.\n\nThe episode answers ten community questions covering NPC behavior, social features, user interfaces, ground vehicles, and bug fixes, alongside the studio's ongoing work to make the game more stable, connected and immersive.\n\nThe episode is part of the studio's regular outreach to the player community, explaining the technical details behind various systems in the game's persistent universe."
+     },
+     "addedAt": "2026-10-27T16:16:58+00:00"
+    },
+    {
      "id": "sc-roadmap-roundup-oct21-brows-intersec",
      "date": "2026-10-21",
      "type": "development",
@@ -1762,6 +1783,28 @@
   },
   "ai": {
    "news": [
+    {
+     "id": "deepmind-genie-4-world-model",
+     "date": "2026-10-27",
+     "type": "model",
+     "importance": 3,
+     "sourceType": "official",
+     "sourceName": "Google DeepMind Blog",
+     "url": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
+     "originalTitle": "Genie 4: A new generation of world simulation",
+     "company": "Google DeepMind",
+     "ar": {
+      "title": "DeepMind تكشف عن Genie 4، نموذج عالم تفاعلي بصوت أصلي",
+      "summary": "أطلقت Google DeepMind نموذج Genie 4، نموذج عالم متعدد الوسائط يولّد بيئات تفاعلية بصريًا وصوتيًا في الوقت الحقيقي، ويبدأ كمعاينة بحثية لمختبرين موثوقين.",
+      "details": "كشفت Google DeepMind في 27 أكتوبر عن Genie 4، الجيل الجديد من نماذج العالم (world models) لديها، والذي تصفه بأنه متعدد الوسائط أصلاً، فيولّد المشاهد البصرية والموسيقى والأصوات المحيطة والحوار التفاعلي في آن واحد.\n\nيتيح النموذج للمستخدمين التوجيه في الوقت الحقيقي بتغيير حالة الطقس أو زوايا الكاميرا أو إضافة أشخاص وعناصر عبر أوصاف نصية، مع محاكاة الديناميكا الهوائية والتصادمات وحركة الشخصيات بشكل أكثر طبيعية. كما يولّد Genie 4 صوتًا محيطيًا وحوارًا تفاعليًا في الوقت الحقيقي، وتقول DeepMind إنه أول نموذج عالم بالوقت الحقيقي يولّد الصوت بشكل أصلي.\n\nيستند Genie 4 إلى نماذج Gemini؛ حيث يتولى Gemini Omni ضبط المظهر والسلوك، بينما تتعامل نماذج Gemini الأخرى، مثل Gemini 3.8 Flash، مع مهام التخطيط والمحاكاة المعقدة كوكيل موجّه يقسّم الأهداف إلى خطوات ويتابع التقدم فيها. كما عرضت DeepMind تجربة مع Gemini Robotics حيث يلعب الروبوت الآلي Apollo من Apptronik الداما داخل المحاكاة.\n\nيُطرح Genie 4 حاليًا كمعاينة بحثية لمختبرين موثوقين، على أن يصل إلى مشتركي Google AI Ultra عبر Project Genie ولشركاء الوصول المبكر لواجهة Gemini API وGoogle AI Studio، مع فتح قائمة انتظار. يتضمن النموذج ضوابط أمان، وتحمل جميع الفيديوهات والأصوات المولّدة علامة مائية SynthID، وتقول DeepMind إن من محدوديات النموذج انحراف العناصر البصرية وثبات الأجسام في الجلسات الطويلة."
+     },
+     "en": {
+      "title": "DeepMind unveils Genie 4, a real-time world model with native audio",
+      "summary": "Google DeepMind launched Genie 4, a natively multimodal world model that generates interactive visuals, ambient sound and dialogue in real time, entering research preview for trusted testers.",
+      "details": "Google DeepMind unveiled Genie 4 on October 27, the newest generation of its world models, which it describes as natively multimodal: it generates visuals, music, ambient sound and interactive dialogue together rather than as separate add-ons.\n\nThe model lets users steer scenes in real time by changing weather, camera angles, or adding people and objects through natural-language prompts, while simulating aerodynamics, collisions and more natural character movement. Genie 4 also generates ambient sound and real-time interactive character dialogue, which DeepMind says makes it the first real-time world model to produce audio natively.\n\nGenie 4 builds on Gemini models: Gemini Omni anchors appearance and behavior, while other Gemini models, including Gemini 3.8 Flash, handle planning and complex event simulation as a guiding agent that breaks goals into steps and tracks progress. DeepMind also showed a demo with Gemini Robotics in which Apptronik's Apollo humanoid plays checkers inside the simulation.\n\nGenie 4 is currently a research preview for trusted testers, with plans to reach Google AI Ultra subscribers through Project Genie and early-access partners of the Gemini API and Google AI Studio; a waitlist is open. The model includes safety guardrails, and all generated video and audio carry SynthID watermarks. DeepMind lists visual drift and object-permanence issues over long sessions among current limitations."
+     },
+     "addedAt": "2026-10-27T16:16:58+00:00"
+    },
     {
      "id": "apple-creator-studio-ai-features-oct2026",
      "date": "2026-10-27",
