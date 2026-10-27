@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": "2026-10-27T16:16:58+00:00",
+ "updatedAt": "2026-10-27T17:12:25+00:00",
  "coverage": {
   "from": "2026-07-27",
   "to": "2026-10-27"
@@ -1870,6 +1870,71 @@
       "details": "Apple announced a new 24-inch iMac on October 27, powered by the M6 chip, which includes a GPU with up to 12 cores featuring Neural Accelerators plus a dual 16-core Neural Engine for AI tasks.\n\nApple says on-device AI performance is up to 5x faster than M4, and up to 18x faster than the most popular Intel-based iMac. The machine runs macOS 27 with the Siri AI feature and comes in seven colors.\n\nU.S. pricing starts at $1,499 for the 10-core model. Pre-orders open October 28 in 35 countries and regions, with delivery and in-store availability starting November 6."
      },
      "addedAt": "2026-10-27T13:29:40+00:00"
+    },
+    {
+     "id": "openai-oracle-chatgpt-apps",
+     "date": "2026-10-27",
+     "type": "business",
+     "importance": 2,
+     "sourceType": "official",
+     "sourceName": "OpenAI News",
+     "url": "https://openai.com/index/oracle-apps-in-chatgpt",
+     "originalTitle": "OpenAI expands partnership with Oracle to bring its apps to ChatGPT",
+     "company": "OpenAI",
+     "ar": {
+      "title": "OpenAI توسّع شراكتها مع Oracle لدمج تطبيقاتها في ChatGPT",
+      "summary": "أعلنت OpenAI توسيع شراكتها مع Oracle لإدماج تطبيقات أعمال Oracle ووكلاء الذكاء الاصطناعي مباشرة داخل ChatGPT، إلى جانب دعم عروض جديدة من Oracle مبنية على نماذج OpenAI.",
+      "details": "أعلنت OpenAI في 27 أكتوبر توسيع شراكتها مع Oracle، بحيث يتم دمج تطبيقات أعمال Oracle ووكلاء الذكاء الاصطناعي التابعة لها مباشرة داخل واجهة ChatGPT.\n\nكما تشمل الشراكة الموسّعة دعم عروض ذكاء اصطناعي جديدة تطلقها Oracle مبنية على نماذج OpenAI. وتربط الشركتين علاقة سابقة في الحوسبة السحابية، حيث تشغّل OpenAI بعض أعباء عملها على بنية Oracle Cloud Infrastructure."
+     },
+     "en": {
+      "title": "OpenAI expands Oracle partnership to bring its apps into ChatGPT",
+      "summary": "OpenAI and Oracle are expanding their partnership, bringing Oracle's business apps and AI agents into ChatGPT while Oracle builds new offerings on OpenAI's models.",
+      "details": "OpenAI announced on October 27 that it is expanding its partnership with Oracle, bringing Oracle's business applications and AI agents directly into the ChatGPT interface.\n\nThe expanded deal will also power new AI offerings from Oracle built on OpenAI's models. The two companies already have a cloud computing relationship, with OpenAI running some of its workloads on Oracle Cloud Infrastructure."
+     },
+     "addedAt": "2026-10-27T17:12:25+00:00"
+    },
+    {
+     "id": "allenai-novelty-judge-bench",
+     "date": "2026-10-27",
+     "type": "model",
+     "importance": 1,
+     "sourceType": "official",
+     "sourceName": "Hugging Face Blog",
+     "url": "https://huggingface.co/blog/allenai/novelty-bench",
+     "originalTitle": "Can we trust LLMs to judge whether a research idea is novel?",
+     "company": "Ai2",
+     "ar": {
+      "title": "دراسة من Ai2: أحكام الذكاء الاصطناعي على ابتكارية الأفكار البحثية غير موثوقة",
+      "summary": "وجد معيار تقييم جديد من Ai2 أن دقة نماذج اللغة الكبيرة في الحكم على ابتكارية الأفكار البحثية تتقلب بشدة حسب صياغة الطلب، بين 41% و94% لنفس النموذج.",
+      "details": "نشر معهد Allen للذكاء الاصطناعي (Ai2) في 27 أكتوبر دراسة ومعيار تقييم (benchmark) لفحص مدى موثوقية نماذج اللغة الكبيرة عند استخدامها كـ\"حكّام ابتكارية\" يقيّمون ما إذا كانت فكرة بحثية جديدة فعلاً، وهو دور متزايد في مسارات البحث العلمي المعتمدة على الذكاء الاصطناعي.\n\nبنى الفريق المعيار من مراجعات مؤتمر ICLR 2026، معتمدًا على تعليقات صريحة من المراجعين حول أصالة الأفكار بدل استخدام قرار القبول كمؤشر بديل، ليحصل على 154 فكرة بشرية عالية الابتكار و145 فكرة أقل ابتكارًا، إضافة إلى مجموعة ثانية تقارن أفكارًا بشرية بأفكار من مولّد بسيط قائم على نموذج لغوي.\n\nأظهرت النتائج أن صياغة الطلب وحدها غيّرت دقة GPT-5.4 في مقارنات الأفكار المولّدة بالذكاء الاصطناعي من 93.5% إلى 40.9%، ولا توجد صياغة واحدة تناسب جميع النماذج. كما لم يساعد المزيد من زمن الاستدلال والبحث في أرشيف arXiv بشكل موثوق؛ فقد سجّل حكم وكيل بإمكانيات بحث إضافية 0.78 في مقياس macro-F1، وهو أقل من إعداد بسيط لـClaude Opus 4.6 الذي سجّل 0.89، بينما تراجعت أدوات تقييم مخصصة مثل Idea Novelty Checker وأداة تقييم AI Scientist من Sakana وكانت أكثر تكلفة بكثير."
+     },
+     "en": {
+      "title": "Ai2 study finds AI 'novelty judges' unreliable at scoring ideas",
+      "summary": "A new Ai2 benchmark finds LLMs judging whether a research idea is novel are highly sensitive to prompt wording, with accuracy swinging between 41% and 94% for the same model.",
+      "details": "The Allen Institute for AI (Ai2) published a study and benchmark on October 27 testing how reliably large language models judge whether a research idea is novel, a growing role as 'novelty judges' in AI-assisted research pipelines.\n\nThe team built the benchmark from ICLR 2026 peer reviews, mining explicit reviewer comments about originality rather than using acceptance decisions as a proxy, producing 154 high-novelty and 145 lower-novelty human-written ideas, plus a second set pairing human ideas against ideas from a simple LLM generator.\n\nResults showed prompt wording alone swung GPT-5.4's accuracy on AI-generated comparisons from 93.5% to 40.9%, and no single prompt worked best across models. Extra reasoning time and arXiv search did not reliably help either: an agentic judge scored 0.78 macro-F1, below a plain Claude Opus 4.6 setup at 0.89, while purpose-built evaluators Idea Novelty Checker and Sakana's AI Scientist evaluator underperformed and cost far more."
+     },
+     "addedAt": "2026-10-27T17:12:25+00:00"
+    },
+    {
+     "id": "wikipedia-ai-content-cleanup",
+     "date": "2026-10-27",
+     "type": "policy",
+     "importance": 1,
+     "sourceType": "community",
+     "sourceName": "Hacker News",
+     "url": "https://news.ycombinator.com/item?id=50257326",
+     "originalTitle": "Wikipedia's Cleanup of AI-Generated Content",
+     "ar": {
+      "title": "محرّرو Wikipedia يكثّفون إزالة النصوص المولّدة بالذكاء الاصطناعي",
+      "summary": "أبرز نقاش على Hacker News مساعي Wikipedia لرصد وإزالة النصوص المولّدة بالذكاء الاصطناعي والمراجع المزيّفة، باستخدام أدوات كشف مثل Pangram.",
+      "details": "لفت نقاش واسع على Hacker News في 27 أكتوبر الانتباه إلى مساعي Wikipedia المستمرة لرصد وإزالة النصوص المولّدة بالذكاء الاصطناعي من مقالاتها، في وقت يعتبر فيه المحرّرون أن خلو الموسوعة من \"فوضى الذكاء الاصطناعي\" (AI slop) جزء من هوية المشروع.\n\nمن أبرز المخاوف المطروحة وجود مراجع مزيّفة أو مضلّلة ضمن تعديلات مكتوبة بالذكاء الاصطناعي، وهي أصعب رصدًا من النصوص المولّدة الواضحة. ويستخدم المحرّرون أدوات كشف من بينها Pangram لرصد النصوص المشتبه بها، مع إشارة بعض المعلّقين إلى أن كشف الكتابة الآلية بشكل موثوق يبقى أمرًا صعبًا."
+     },
+     "en": {
+      "title": "Wikipedia editors step up removal of AI-generated text",
+      "summary": "A Hacker News discussion highlights Wikipedia's effort to find and remove AI-generated text and fake citations, using detection tools like Pangram.",
+      "details": "A widely discussed Hacker News thread on October 27 drew attention to Wikipedia's ongoing effort to identify and remove AI-generated text from its articles, with editors treating freedom from 'AI slop' as part of the project's identity.\n\nA key concern raised is fake or misleading citations inserted through AI-written edits, which are harder to catch than obviously generated prose. Editors reportedly use detection tools, including Pangram, to flag suspect text, though commenters noted that reliably detecting AI writing remains difficult."
+     },
+     "addedAt": "2026-10-27T17:12:25+00:00"
     },
     {
      "id": "anthropic-files-s1-ipo",
