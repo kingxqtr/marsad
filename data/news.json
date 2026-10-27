@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": "2026-10-27T17:12:25+00:00",
+ "updatedAt": "2026-10-27T18:10:40+00:00",
  "coverage": {
   "from": "2026-07-27",
   "to": "2026-10-27"
@@ -1914,6 +1914,28 @@
       "details": "The Allen Institute for AI (Ai2) published a study and benchmark on October 27 testing how reliably large language models judge whether a research idea is novel, a growing role as 'novelty judges' in AI-assisted research pipelines.\n\nThe team built the benchmark from ICLR 2026 peer reviews, mining explicit reviewer comments about originality rather than using acceptance decisions as a proxy, producing 154 high-novelty and 145 lower-novelty human-written ideas, plus a second set pairing human ideas against ideas from a simple LLM generator.\n\nResults showed prompt wording alone swung GPT-5.4's accuracy on AI-generated comparisons from 93.5% to 40.9%, and no single prompt worked best across models. Extra reasoning time and arXiv search did not reliably help either: an agentic judge scored 0.78 macro-F1, below a plain Claude Opus 4.6 setup at 0.89, while purpose-built evaluators Idea Novelty Checker and Sakana's AI Scientist evaluator underperformed and cost far more."
      },
      "addedAt": "2026-10-27T17:12:25+00:00"
+    },
+    {
+     "id": "liquidai-lfm3-family",
+     "date": "2026-10-27",
+     "type": "model",
+     "importance": 1,
+     "sourceType": "official",
+     "sourceName": "Hugging Face Blog",
+     "url": "https://huggingface.co/blog/LiquidAI/lfm3",
+     "originalTitle": "Build specialized multimodal models with LFM3",
+     "company": "Liquid AI",
+     "ar": {
+      "title": "Liquid AI تطلق عائلة LFM3 بستة نماذج متعددة الوسائط",
+      "summary": "أطلقت Liquid AI عائلة LFM3 المكوّنة من ستة نماذج بحجم نحو 2 مليار معامل للنص والصورة والصوت والقرار، وتقول إنها تتفوق على جيل LFM2.5 بكفاءة أكبر.",
+      "details": "أطلقت Liquid AI في 27 أكتوبر عائلة LFM3 المكوّنة من ستة نماذج بحجم نحو 2 مليار معامل تشترك في نواة واحدة هي LFM3-1.7B-Base: نموذج نصي فقط، وLFM3-VL-2B للصورة والفيديو، وLFM3-Audio-2B للصوت، وLFM3-Omni-2B الذي يجمع كل الوسائط معًا، ونموذجا قرار هما d1-2B وd1-omni-2B يعيدان إجابات معايرة بدرجة ثقة.\n\nيتمتع النموذج النصي بنافذة سياق تبلغ 256 ألف رمز وقاموس بـ128 ألف رمز، وتم تدريبه مسبقًا على 22 تريليون رمز؛ وتقول Liquid AI إنه يشغل نحو غيغابايت واحد بدقة 4 بت. ومن التغييرات المعمارية عن LFM2: مزيج هجين من الالتفافات القصيرة المبوّبة والانتباه بنافذة منزلقة وانتباه عام، وانتباه مبوّب لكل رأس، ومُرمّزات صورة وصوت جديدة من تطوير الشركة.\n\nتقول اختبارات Liquid AI الخاصة إن LFM3-1.7B يتفوق على LFM2.5-2.6B الأكبر بعدد معاملات أقل بنسبة 35% ويعمل أسرع بنحو 25% عند سياق 8 آلاف رمز، بينما تحقق LFM3-VL-2B وLFM3-Audio-2B نتائج أعلى من سابقتيهما من جيل LFM2.5 في معايير الرؤية وجودة الصوت على التوالي. وتقول الشركة إن كل النماذج قابلة للضبط الدقيق على معالج رسومي واحد، وتصفها بأنها مفتوحة الأوزان."
+     },
+     "en": {
+      "title": "Liquid AI launches LFM3 family of six efficient multimodal edge models",
+      "summary": "Liquid AI released LFM3, six ~2B-parameter text, vision, audio, omni and decision models sharing one backbone, claiming big efficiency gains over LFM2.5.",
+      "details": "Liquid AI released LFM3 on October 27, a family of six roughly 2-billion-parameter models built on one shared backbone, LFM3-1.7B-Base: a text-only model, LFM3-VL-2B for vision and video, LFM3-Audio-2B for speech, LFM3-Omni-2B for all modalities together, and two decision models, d1-2B and d1-omni-2B, that return calibrated answers.\n\nThe text model has a 256K-token context window, a 128K vocabulary, and was pretrained on 22 trillion tokens; Liquid AI says it fits in about 1GB at 4-bit precision. Architecture changes from LFM2 include a hybrid mix of gated short convolutions, sliding-window and global attention, head-wise gated attention, and new in-house vision and audio encoders.\n\nLiquid AI's own benchmarks claim LFM3-1.7B beats the larger LFM2.5-2.6B with 35% fewer parameters and runs about 25% faster at 8K-token context, while LFM3-VL-2B and LFM3-Audio-2B post higher scores than their LFM2.5 predecessors on vision and speech-quality benchmarks respectively. The company says every model can be fine-tuned on a single GPU and describes the weights as open."
+     },
+     "addedAt": "2026-10-27T18:10:40+00:00"
     },
     {
      "id": "wikipedia-ai-content-cleanup",
