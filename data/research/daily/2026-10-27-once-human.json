@@ -1,0 +1,29 @@
+{
+  "topic": "once-human",
+  "generatedAt": "2026-10-27",
+  "news": [
+    {
+      "id": "oh-3-1-1-bugfixes-oct27",
+      "date": "2026-10-27",
+      "type": "update",
+      "importance": 1,
+      "sourceType": "official",
+      "sourceName": "Once Human — Steam News",
+      "url": "https://store.steampowered.com/news/app/2139460/view/1847286114048261",
+      "originalTitle": "3.1.1 Bug Fixes (October 27)",
+      "ar": {
+        "title": "Once Human تصحح آلة البيع وواجهة المحمول والتعطل في مذكرة 27 أكتوبر",
+        "summary": "أصدرت Once Human مجموعة تصحيحات جديدة للإصدار 3.1.1 تعالج أعطالاً في آلة البيع، وتصميم المناطق، والشباك المتقدمة، وتعطلاً في اللعبة، إضافة إلى مشاكل في التجدد والجمع الآلي.",
+      "details": "أصدر فريق Once Human في 27 أكتوبر مجموعة إضافية من تصحيحات الأخطاء للإصدار 3.1.1، من المتوقع اكتمالها بحلول الساعة 05:00 بتوقيت المحيط الهادئ.\n\nتعالج التصحيحات مشكلة سحب عناصر غير محددة بالخطأ عند التعامل مع أرفف آلة البيع، وعطلاً في التفاعل مع تخطيطات تصميم المناطق على الأجهزة المحمولة، وصعوبة في تثبيت الشباك المتقدمة (Advanced Trawl) في مكانها الصحيح.\n\n- تصحيح عطل كان يتسبب في تعطل اللعبة في حالات معينة.\n- تصحيح أوقات تجدد غير طبيعية لبعض أعداء Alpha Elite.\n- تصحيح عطل كان يمنع بئر الحفر من الجمع فوراً بعد دخول منطقة نفط خام.\n- تصحيح عطل في منطقة Haywire الثالثة كان يمنع مرافق الجمع الآلي من إنتاج الماء الملوث وخام Stardust بشكل طبيعي بسبب تغيّر حالة فعالية Black Tide."
+      },
+      "en": {
+        "title": "Once Human patches vending, mobile UI and crash bugs (Oct 27 note)",
+        "summary": "A new round of 3.1.1 fixes addresses a vending-machine withdrawal glitch, a mobile territory-design interaction bug, Advanced Trawl snapping issues and a game-crash bug.",
+        "details": "Once Human's team shipped another batch of 3.1.1 bug fixes on October 27, expected to be fully live by 05:00 PT.\n\nThe fixes address an issue where non-selected items could be mistakenly withdrawn from vending machine shelves, a bug preventing territory design layouts from being interacted with on mobile devices, and difficulty snapping the Advanced Trawl into place.\n\n- Fixed an issue causing game crashes in certain situations.\n- Fixed abnormal respawn times for some Alpha Elite enemies.\n- Fixed the Drilling Well failing to gather immediately after entering a crude oil area.\n- Fixed automatic gathering facilities in the third Haywire Zone failing to produce Polluted Water and Stardust Ore normally due to Black Tide status changes."
+      }
+    }
+  ],
+  "upcoming": [],
+  "removeUpcoming": [],
+  "removeNews": []
+}
