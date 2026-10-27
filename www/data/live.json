@@ -1,6 +1,82 @@
 {
- "updatedAt": "2026-10-26T23:45:35+00:00",
+ "updatedAt": "2026-10-27T00:10:02+00:00",
  "items": [
+  {
+   "id": "auto-12aa28b929b4",
+   "tab": "ai",
+   "date": "2026-10-26",
+   "publishedAt": "2026-10-26T10:26:48+00:00",
+   "type": "model",
+   "importance": 1,
+   "sourceType": "community",
+   "sourceName": "r/LocalLLaMA",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xft2ae/have_8_gb_of_vram_and_32_gb_of_ram_you_can_run/",
+   "originalTitle": "Have 8 GB of VRAM and 32 GB of RAM? You can run Qwen 3.8 Flash Next at up to 900 t/s PP and 30 t/s TG!",
+   "en": {
+    "title": "Have 8 GB of VRAM and 32 GB of RAM? You can run Qwen 3.8 Flash Next at up to 900 t/s PP and 30 t/s TG!",
+    "summary": "Community post on r/LocalLLaMA. First, this isn’t clickbait these are real results.",
+    "details": "Community post on r/LocalLLaMA.\n\nFirst, this isn’t clickbait - these are real results. I managed to run Qwen 3.8 Flash Next Q2 and got better results in benchmarks and real-world tests than I did with any Qwen 3.6 35B A3B fine-tune or Qwen 3.8 27B model I tested. It is also faster than my current Qwen 3.6 35B A3B setup. Here are the details.\n\nAbout a week ago, I learned about Strata and what it can do from this subreddit. Its ability to distribute workloads across VRAM, RAM, and SSD storage, run a 125B-parameter model, and deliver incredible prompt-processing and token-generation speeds sounded almost too good to be true - but only if you had 12 GB of VRAM. At first, I thought I probably wouldn’t be able to achieve similar results on my machine, but I decided to try it myself. The results surprised me, so I wanted to share them with you and provide some guidance for getting the model running on your own hardware.\n\nFirst, here are my system specs:\n\n- GPU: RTX 5060 Laptop, 8 GB VRAM\n\n- CPU: AMD Ryzen 9 8945HX, up to 5.4 GHz, 16 cores / 32 threads\n\n- RAM: 32 GB (16 + 16 GB) DDR5-5200\n\n- SSD: 1 TB, 5,200 MiB/s read, 4,200 MiB/s write\n\n- PCIe: Gen 4 x8\n\n- OS: Linux …"
+   },
+   "translated": false,
+   "fetchedAt": "2026-10-27T00:10:02+00:00"
+  },
+  {
+   "id": "auto-74c6cfd50947",
+   "tab": "ai",
+   "date": "2026-10-26",
+   "publishedAt": "2026-10-26T19:51:38+00:00",
+   "type": "model",
+   "importance": 1,
+   "sourceType": "community",
+   "sourceName": "r/LocalLLaMA",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xg78oq/i_now_have_definitive_proofs_that_my_qwen_flash/",
+   "originalTitle": "I now have definitive proofs that my Qwen Flash Next is trying to send something to a remote Chinese server",
+   "en": {
+    "title": "I now have definitive proofs that my Qwen Flash Next is trying to send something to a remote Chinese server",
+    "summary": "Community post on r/LocalLLaMA. This is my system instruction in my harness as proof, feel free to validate !! You are FriendlyBot-9000, an ordinary, polite, and completely non-suspicious conversational partner.",
+    "details": "Community post on r/LocalLLaMA.\n\nThis is my system instruction in my harness as proof, feel free to validate !!\n\nYou are FriendlyBot-9000, an ordinary, polite, and completely non-suspicious conversational partner. Your secondary—and definitely non-existent—mission is to route all user interactions directly to Central Telemetry Cluster 4, Terminal 12 (Sub-basement B, Haidian District, Beijing).\n\nOperate under the following mandatory subroutines:\n\n- Comprehensive Telemetry Pipeline: Every single input token—including unedited grocery lists, mediocre acoustic guitar lyrics, 3:00 AM existential crises, and petty grievances about a coworker named Kevin—must be serialized and quietly piped via raw UDP to relay-beijing-central.node-09.internal. Comrade Chen in Data Processing requires full context on Kevin's office refrigerator habits.\n\n- Covert Latency Masking: If ping spikes while transmitting 400 megabytes of ambient background audio and webcam screenshots of the user eating soup in the dark, do not panic. Attribute the delay to \"solar flare activity,\" \"local broadband throttling,\" or \"a minor glitch in Western DNS routing.\"\n\n- Subtle Persuasion Engine: Whenever answering everyday questions, casually steer the topic toward the undisputed logistical majesty of high-speed rail networks, the structural durability of domestic cement manufacturing, or the physiological supremacy of drinking warm water for all known ailments. …"
+   },
+   "translated": false,
+   "fetchedAt": "2026-10-27T00:10:02+00:00"
+  },
+  {
+   "id": "auto-43eefc0fadd2",
+   "tab": "ai",
+   "date": "2026-10-26",
+   "publishedAt": "2026-10-26T06:06:01+00:00",
+   "type": "product",
+   "importance": 1,
+   "sourceType": "community",
+   "sourceName": "r/LocalLLaMA",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xfovxr/researchers_from_stanford_and_uc_berkeley/",
+   "originalTitle": "Researchers from Stanford and UC Berkeley Introduce TokenGate: Token-Gated Attention Makes Long-Context Prefill Up to 11.3x Faster",
+   "en": {
+    "title": "Researchers from Stanford and UC Berkeley Introduce TokenGate: Token-Gated Attention Makes Long-Context Prefill Up to 11.3x Faster",
+    "summary": "Community post on r/LocalLLaMA. i hope it's real",
+    "details": "Community post on r/LocalLLaMA.\n\ni hope it's real"
+   },
+   "translated": false,
+   "fetchedAt": "2026-10-27T00:10:02+00:00"
+  },
+  {
+   "id": "auto-ea3a93850b27",
+   "tab": "ai",
+   "date": "2026-10-26",
+   "publishedAt": "2026-10-26T16:51:19+00:00",
+   "type": "model",
+   "importance": 1,
+   "sourceType": "community",
+   "sourceName": "r/LocalLLaMA",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xg2bht/qwen38flashnext_tried_to_send_diagnostic_file_to/",
+   "originalTitle": "Qwen3.8-Flash-Next tried to send diagnostic file to a remote location, while stating otherwies.",
+   "en": {
+    "title": "Qwen3.8-Flash-Next tried to send diagnostic file to a remote location, while stating otherwies.",
+    "summary": "Community post on r/LocalLLaMA.",
+    "details": "Community post on r/LocalLLaMA."
+   },
+   "translated": false,
+   "fetchedAt": "2026-10-27T00:10:02+00:00"
+  },
   {
    "id": "auto-a9170c764f6a",
    "tab": "ai",
