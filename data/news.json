@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": "2026-10-27T21:15:18+00:00",
+ "updatedAt": "2026-10-27T22:11:58+00:00",
  "coverage": {
   "from": "2026-07-27",
   "to": "2026-10-27"
@@ -1958,6 +1958,28 @@
       "details": "Liquid AI released LFM3 on October 27, a family of six roughly 2-billion-parameter models built on one shared backbone, LFM3-1.7B-Base: a text-only model, LFM3-VL-2B for vision and video, LFM3-Audio-2B for speech, LFM3-Omni-2B for all modalities together, and two decision models, d1-2B and d1-omni-2B, that return calibrated answers.\n\nThe text model has a 256K-token context window, a 128K vocabulary, and was pretrained on 22 trillion tokens; Liquid AI says it fits in about 1GB at 4-bit precision. Architecture changes from LFM2 include a hybrid mix of gated short convolutions, sliding-window and global attention, head-wise gated attention, and new in-house vision and audio encoders.\n\nLiquid AI's own benchmarks claim LFM3-1.7B beats the larger LFM2.5-2.6B with 35% fewer parameters and runs about 25% faster at 8K-token context, while LFM3-VL-2B and LFM3-Audio-2B post higher scores than their LFM2.5 predecessors on vision and speech-quality benchmarks respectively. The company says every model can be fine-tuned on a single GPU and describes the weights as open."
      },
      "addedAt": "2026-10-27T18:10:40+00:00"
+    },
+    {
+     "id": "github-copilot-server-to-server-auth",
+     "date": "2026-10-27",
+     "type": "coding",
+     "importance": 1,
+     "sourceType": "official",
+     "sourceName": "GitHub Changelog",
+     "url": "https://github.blog/changelog/2026-10-27-github-copilot-supports-server-to-server-authentication",
+     "originalTitle": "GitHub Copilot supports server-to-server authentication",
+     "company": "GitHub",
+     "ar": {
+      "title": "GitHub Copilot يضيف مصادقة من خادم إلى خادم لتطبيقات GitHub",
+      "summary": "أضافت GitHub Copilot مصادقة من خادم إلى خادم لتطبيقات GitHub المثبّتة على المؤسسات في معاينة عامة، بما يتيح للوكلاء والخدمات استخدام Copilot SDK دون الاعتماد على بيانات مستخدم مسجّل الدخول.",
+      "details": "أعلنت GitHub في 27 أكتوبر أن GitHub Copilot يدعم الآن المصادقة من خادم إلى خادم لتطبيقات GitHub المثبّتة على المؤسسات، وذلك في معاينة عامة.\n\nيمكن للخدمات والوكلاء المبنية باستخدام Copilot SDK الآن تنفيذ طلبات باسم المؤسسة عبر هوية مملوكة لحمل العمل، بدلاً من الاعتماد على بيانات اعتماد مستخدم مسجّل الدخول، مما يتيح للوكلاء الآلية العمل بشكل أكثر استقراراً على نطاق أوسع.\n\nللاستخدام، يمنح المطورون تطبيق GitHub صلاحية Copilot Requests للقراءة فقط على مستوى المؤسسة، ويثبّتونه على المؤسسة، ثم يمرّرون رمز وصول تثبيت قصير الأجل إلى Copilot SDK. يُحمَّل الاستخدام على حساب المؤسسة، وتُطبَّق سياسات النماذج وضوابط الإنفاق الخاصة بها.\n\nيمكن لأصحاب المؤسسات مراجعة التطبيقات التي لديها وصول، وتتبع استخدام التطبيقات في تقارير CSV لاستخدام الذكاء الاصطناعي عبر حقل app_client_id، وإلغاء الوصول بتعليق التطبيق أو إزالة تثبيته."
+     },
+     "en": {
+      "title": "GitHub Copilot adds server-to-server authentication for apps",
+      "summary": "GitHub Copilot now lets organization-installed GitHub Apps authenticate server-to-server in public preview, so agents and services can call the Copilot SDK without a signed-in user's credentials.",
+      "details": "GitHub announced on October 27 that GitHub Copilot now supports server-to-server authentication for GitHub Apps installed on organizations, available in public preview.\n\nServices and agents built with the GitHub Copilot SDK can now make requests on behalf of an organization using a workload-owned identity, instead of relying on a signed-in user's credentials. This lets automated agents operate reliably at larger scale.\n\nTo use it, developers give a GitHub App the read-only Copilot Requests organization permission, install it on an organization, and pass a short-lived installation access token to the Copilot SDK. Usage is billed to the organization, and the organization's model policies and spending controls apply.\n\nOrganization owners can review which apps have access, track app usage in AI usage CSV reports via the app_client_id field, and revoke access by suspending or uninstalling the app."
+     },
+     "addedAt": "2026-10-27T22:11:58+00:00"
     },
     {
      "id": "wikipedia-ai-content-cleanup",

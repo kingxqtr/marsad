@@ -23,6 +23,28 @@
         "details": "Anthropic announced on October 27 a push to speed up drug development with Claude, saying its life-sciences team has spent months in deep research partnerships with six drug developers, mostly at the preclinical stage.\n\n- Generate Biomedicines: Claude Code redesigned a CAR T-cell therapy component, producing a version about 70% shorter that boosted receptor output roughly tenfold.\n- Divergence Labs: Claude generated about 35,000 antibody designs in a month for a food-allergy treatment, with several beating the current standard medication.\n- BigHat Biosciences: Claude optimized two antibody leads, improving binding more than tenfold.\n- Enveda: Claude caught all errors human reviewers found in manufacturing documents plus seven more, cutting review time 89%.\n- Bristol Myers Squibb: uses Claude to assess clinical-trial plans; executive Michael Pourdehnad said one prompt produced a robust initial analysis.\n\nAnthropic also acquired Mithril Medicine, a one-person startup researching treatments for two rare muscular dystrophies, and launched Claude Science, a research workbench."
       }
     }
+    ,
+    {
+      "id": "github-copilot-server-to-server-auth",
+      "date": "2026-10-27",
+      "type": "coding",
+      "importance": 1,
+      "sourceType": "official",
+      "sourceName": "GitHub Changelog",
+      "url": "https://github.blog/changelog/2026-10-27-github-copilot-supports-server-to-server-authentication",
+      "originalTitle": "GitHub Copilot supports server-to-server authentication",
+      "company": "GitHub",
+      "ar": {
+        "title": "GitHub Copilot يضيف مصادقة من خادم إلى خادم لتطبيقات GitHub",
+        "summary": "أضافت GitHub Copilot مصادقة من خادم إلى خادم لتطبيقات GitHub المثبّتة على المؤسسات في معاينة عامة، بما يتيح للوكلاء والخدمات استخدام Copilot SDK دون الاعتماد على بيانات مستخدم مسجّل الدخول.",
+        "details": "أعلنت GitHub في 27 أكتوبر أن GitHub Copilot يدعم الآن المصادقة من خادم إلى خادم لتطبيقات GitHub المثبّتة على المؤسسات، وذلك في معاينة عامة.\n\nيمكن للخدمات والوكلاء المبنية باستخدام Copilot SDK الآن تنفيذ طلبات باسم المؤسسة عبر هوية مملوكة لحمل العمل، بدلاً من الاعتماد على بيانات اعتماد مستخدم مسجّل الدخول، مما يتيح للوكلاء الآلية العمل بشكل أكثر استقراراً على نطاق أوسع.\n\nللاستخدام، يمنح المطورون تطبيق GitHub صلاحية Copilot Requests للقراءة فقط على مستوى المؤسسة، ويثبّتونه على المؤسسة، ثم يمرّرون رمز وصول تثبيت قصير الأجل إلى Copilot SDK. يُحمَّل الاستخدام على حساب المؤسسة، وتُطبَّق سياسات النماذج وضوابط الإنفاق الخاصة بها.\n\nيمكن لأصحاب المؤسسات مراجعة التطبيقات التي لديها وصول، وتتبع استخدام التطبيقات في تقارير CSV لاستخدام الذكاء الاصطناعي عبر حقل app_client_id، وإلغاء الوصول بتعليق التطبيق أو إزالة تثبيته."
+      },
+      "en": {
+        "title": "GitHub Copilot adds server-to-server authentication for apps",
+        "summary": "GitHub Copilot now lets organization-installed GitHub Apps authenticate server-to-server in public preview, so agents and services can call the Copilot SDK without a signed-in user's credentials.",
+        "details": "GitHub announced on October 27 that GitHub Copilot now supports server-to-server authentication for GitHub Apps installed on organizations, available in public preview.\n\nServices and agents built with the GitHub Copilot SDK can now make requests on behalf of an organization using a workload-owned identity, instead of relying on a signed-in user's credentials. This lets automated agents operate reliably at larger scale.\n\nTo use it, developers give a GitHub App the read-only Copilot Requests organization permission, install it on an organization, and pass a short-lived installation access token to the Copilot SDK. Usage is billed to the organization, and the organization's model policies and spending controls apply.\n\nOrganization owners can review which apps have access, track app usage in AI usage CSV reports via the app_client_id field, and revoke access by suspending or uninstalling the app."
+      }
+    }
   ],
   "upcoming": [],
   "removeUpcoming": [],
