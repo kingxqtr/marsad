@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": "2026-10-27T20:09:33+00:00",
+ "updatedAt": "2026-10-27T21:15:18+00:00",
  "coverage": {
   "from": "2026-07-27",
   "to": "2026-10-27"
@@ -1804,6 +1804,28 @@
       "details": "Google DeepMind unveiled Genie 4 on October 27, the newest generation of its world models, which it describes as natively multimodal: it generates visuals, music, ambient sound and interactive dialogue together rather than as separate add-ons.\n\nThe model lets users steer scenes in real time by changing weather, camera angles, or adding people and objects through natural-language prompts, while simulating aerodynamics, collisions and more natural character movement. Genie 4 also generates ambient sound and real-time interactive character dialogue, which DeepMind says makes it the first real-time world model to produce audio natively.\n\nGenie 4 builds on Gemini models: Gemini Omni anchors appearance and behavior, while other Gemini models, including Gemini 3.8 Flash, handle planning and complex event simulation as a guiding agent that breaks goals into steps and tracks progress. DeepMind also showed a demo with Gemini Robotics in which Apptronik's Apollo humanoid plays checkers inside the simulation.\n\nGenie 4 is currently a research preview for trusted testers, with plans to reach Google AI Ultra subscribers through Project Genie and early-access partners of the Gemini API and Google AI Studio; a waitlist is open. The model includes safety guardrails, and all generated video and audio carry SynthID watermarks. DeepMind lists visual drift and object-permanence issues over long sessions among current limitations."
      },
      "addedAt": "2026-10-27T16:16:58+00:00"
+    },
+    {
+     "id": "anthropic-drug-development-partnerships",
+     "date": "2026-10-27",
+     "type": "business",
+     "importance": 3,
+     "sourceType": "official",
+     "sourceName": "Anthropic",
+     "url": "https://www.anthropic.com/research/early-progress-drug-development",
+     "originalTitle": "Early progress on accelerating drug development with Claude",
+     "company": "Anthropic",
+     "ar": {
+      "title": "Anthropic تطلق مبادرة كبرى لتسريع تطوير الأدوية بالشراكة مع ست جهات بحثية",
+      "summary": "تقول Anthropic إن فريقها العلمي أمضى أشهراً في شراكات بحثية عميقة مع ست جهات لتطوير الأدوية، مستخدماً Claude في تصميم الأجسام المضادة وتحسين المرشحات الدوائية والأعمال التنظيمية وتخطيط التجارب السريرية.",
+      "details": "أعلنت Anthropic في 27 أكتوبر عن مبادرة لتسريع تطوير الأدوية باستخدام Claude، قائلة إن فريقها أمضى أشهراً في شراكات بحثية عميقة مع ست جهات لتطوير الأدوية، معظمها في مراحل ما قبل السريرية.\n\n- Generate Biomedicines: أعادت Claude Code تصميم مكوّن في علاج CAR T، بنسخة أقصر بنحو 70% رفعت إنتاج المستقبلات المناعية نحو عشرة أضعاف.\n- Divergence Labs: ولّد Claude نحو 35 ألف تصميم أجسام مضادة خلال شهر لعلاج حساسية الطعام، وتفوقت تصاميم منها على العلاج المعتمد.\n- BigHat Biosciences: حسّن Claude مرشحين من الأجسام المضادة، فتحسّن الارتباط أكثر من عشر مرات.\n- Enveda: رصد Claude في وثائق التصنيع كل الأخطاء التي وجدها المراجعون البشريون إضافة إلى سبعة أخطاء أخرى، وخفّض وقت المراجعة 89%.\n- Bristol Myers Squibb: يستخدم Claude لتقييم خطط التجارب السريرية؛ وقال المسؤول مايكل بوردهناد إن طلباً واحداً أنتج تحليلاً أولياً متيناً.\n\nكما استحوذت Anthropic على Mithril Medicine، شركة ناشئة تبحث علاجات لمرضين نادرين من الحثل العضلي، وأطلقت منصة Claude Science البحثية."
+     },
+     "en": {
+      "title": "Anthropic launches major drug-development push with six research partners",
+      "summary": "Anthropic says its scientists spent months embedded with six drug developers, using Claude for antibody design, lead optimization, regulatory paperwork and trial planning, with early results beating standard benchmarks.",
+      "details": "Anthropic announced on October 27 a push to speed up drug development with Claude, saying its life-sciences team has spent months in deep research partnerships with six drug developers, mostly at the preclinical stage.\n\n- Generate Biomedicines: Claude Code redesigned a CAR T-cell therapy component, producing a version about 70% shorter that boosted receptor output roughly tenfold.\n- Divergence Labs: Claude generated about 35,000 antibody designs in a month for a food-allergy treatment, with several beating the current standard medication.\n- BigHat Biosciences: Claude optimized two antibody leads, improving binding more than tenfold.\n- Enveda: Claude caught all errors human reviewers found in manufacturing documents plus seven more, cutting review time 89%.\n- Bristol Myers Squibb: uses Claude to assess clinical-trial plans; executive Michael Pourdehnad said one prompt produced a robust initial analysis.\n\nAnthropic also acquired Mithril Medicine, a one-person startup researching treatments for two rare muscular dystrophies, and launched Claude Science, a research workbench."
+     },
+     "addedAt": "2026-10-27T21:15:18+00:00"
     },
     {
      "id": "apple-creator-studio-ai-features-oct2026",

@@ -1,0 +1,30 @@
+{
+  "topic": "ai",
+  "generatedAt": "2026-10-28",
+  "news": [
+    {
+      "id": "anthropic-drug-development-partnerships",
+      "date": "2026-10-27",
+      "type": "business",
+      "importance": 3,
+      "sourceType": "official",
+      "sourceName": "Anthropic",
+      "url": "https://www.anthropic.com/research/early-progress-drug-development",
+      "originalTitle": "Early progress on accelerating drug development with Claude",
+      "company": "Anthropic",
+      "ar": {
+        "title": "Anthropic تطلق مبادرة كبرى لتسريع تطوير الأدوية بالشراكة مع ست جهات بحثية",
+        "summary": "تقول Anthropic إن فريقها العلمي أمضى أشهراً في شراكات بحثية عميقة مع ست جهات لتطوير الأدوية، مستخدماً Claude في تصميم الأجسام المضادة وتحسين المرشحات الدوائية والأعمال التنظيمية وتخطيط التجارب السريرية.",
+        "details": "أعلنت Anthropic في 27 أكتوبر عن مبادرة لتسريع تطوير الأدوية باستخدام Claude، قائلة إن فريقها أمضى أشهراً في شراكات بحثية عميقة مع ست جهات لتطوير الأدوية، معظمها في مراحل ما قبل السريرية.\n\n- Generate Biomedicines: أعادت Claude Code تصميم مكوّن في علاج CAR T، بنسخة أقصر بنحو 70% رفعت إنتاج المستقبلات المناعية نحو عشرة أضعاف.\n- Divergence Labs: ولّد Claude نحو 35 ألف تصميم أجسام مضادة خلال شهر لعلاج حساسية الطعام، وتفوقت تصاميم منها على العلاج المعتمد.\n- BigHat Biosciences: حسّن Claude مرشحين من الأجسام المضادة، فتحسّن الارتباط أكثر من عشر مرات.\n- Enveda: رصد Claude في وثائق التصنيع كل الأخطاء التي وجدها المراجعون البشريون إضافة إلى سبعة أخطاء أخرى، وخفّض وقت المراجعة 89%.\n- Bristol Myers Squibb: يستخدم Claude لتقييم خطط التجارب السريرية؛ وقال المسؤول مايكل بوردهناد إن طلباً واحداً أنتج تحليلاً أولياً متيناً.\n\nكما استحوذت Anthropic على Mithril Medicine، شركة ناشئة تبحث علاجات لمرضين نادرين من الحثل العضلي، وأطلقت منصة Claude Science البحثية."
+      },
+      "en": {
+        "title": "Anthropic launches major drug-development push with six research partners",
+        "summary": "Anthropic says its scientists spent months embedded with six drug developers, using Claude for antibody design, lead optimization, regulatory paperwork and trial planning, with early results beating standard benchmarks.",
+        "details": "Anthropic announced on October 27 a push to speed up drug development with Claude, saying its life-sciences team has spent months in deep research partnerships with six drug developers, mostly at the preclinical stage.\n\n- Generate Biomedicines: Claude Code redesigned a CAR T-cell therapy component, producing a version about 70% shorter that boosted receptor output roughly tenfold.\n- Divergence Labs: Claude generated about 35,000 antibody designs in a month for a food-allergy treatment, with several beating the current standard medication.\n- BigHat Biosciences: Claude optimized two antibody leads, improving binding more than tenfold.\n- Enveda: Claude caught all errors human reviewers found in manufacturing documents plus seven more, cutting review time 89%.\n- Bristol Myers Squibb: uses Claude to assess clinical-trial plans; executive Michael Pourdehnad said one prompt produced a robust initial analysis.\n\nAnthropic also acquired Mithril Medicine, a one-person startup researching treatments for two rare muscular dystrophies, and launched Claude Science, a research workbench."
+      }
+    }
+  ],
+  "upcoming": [],
+  "removeUpcoming": [],
+  "removeNews": []
+}
