@@ -1,9 +1,9 @@
 {
  "version": 1,
- "updatedAt": "2026-10-27T23:09:27+00:00",
+ "updatedAt": "2026-10-28T00:10:50+00:00",
  "coverage": {
-  "from": "2026-07-27",
-  "to": "2026-10-27"
+  "from": "2026-07-28",
+  "to": "2026-10-28"
  },
  "tabs": {
   "once-human": {
@@ -7932,52 +7932,6 @@
       "details": "The maintainers of the Model Context Protocol (MCP), the open standard many AI assistants and coding agents use to connect to tools and data, published the 2026-07-28 version of the specification on 28 July.\n\n- Stateless core: the session handshake and session ID are gone, so MCP servers can sit behind ordinary load balancers and scale out without shared storage.\n- Multi round-trip requests: a server can ask for missing input, and the client simply retries the call with the answer.\n- New HTTP headers expose the method and tool name, so gateways and firewalls can route and meter traffic.\n- Cacheable list results, tighter authorisation, and features such as Tasks recast as formal extensions.\n\nThe official SDKs for TypeScript, Python, Go and C# support the release, with Rust in beta. The project says its main SDKs see about 500 million downloads a month, and older features such as the legacy HTTP+SSE transport get at least 12 months before removal."
      },
      "addedAt": "2026-07-28T23:59:59+00:00"
-    },
-    {
-     "id": "eu-ai-omnibus-enters-into-force",
-     "date": "2026-07-27",
-     "type": "policy",
-     "importance": 3,
-     "sourceType": "official",
-     "sourceName": "European Commission — Shaping Europe's digital future",
-     "url": "https://digital-strategy.ec.europa.eu/en/news/ai-omnibus-enters-force",
-     "originalTitle": "AI Omnibus enters into force",
-     "company": "European Commission",
-     "tool": "EU AI Act",
-     "ar": {
-      "title": "تعديلات «Omnibus» الأوروبية تدخل حيز التنفيذ وتؤجل قواعد الذكاء الاصطناعي عالي المخاطر",
-      "summary": "دخلت تعديلات قانون الذكاء الاصطناعي الأوروبي حيز التنفيذ، مؤجلةً قواعد الأنظمة عالية المخاطر إلى 2 ديسمبر 2027 و2 أغسطس 2028، ومضيفةً حظراً على تطبيقات «التعرية» بالذكاء الاصطناعي.",
-      "details": "دخلت «الحزمة الرقمية الشاملة للذكاء الاصطناعي» (اللائحة الأوروبية 2026/1744) حيز التنفيذ في 27 يوليو 2026 بعد نشرها في الجريدة الرسمية في 24 يوليو، وهي تعدّل قانون الذكاء الاصطناعي الأوروبي.\n\nأبرز التغييرات:\n- تطبيق التزامات الأنظمة عالية المخاطر في مجالات كالقياسات الحيوية والتعليم والتوظيف والهجرة اعتباراً من 2 ديسمبر 2027.\n- تطبيق القواعد على الذكاء الاصطناعي المدمج في منتجات منظّمة، كالمصاعد والألعاب، اعتباراً من 2 أغسطس 2028.\n- حظر الأنظمة التي تولّد صوراً جنسية دون موافقة أو مواد استغلال للأطفال، مثل تطبيقات «التعرية»، ويسري في ديسمبر 2026.\n- توسيع التسهيلات لتشمل الشركات متوسطة الحجم الصغيرة، وبيئة تجريبية تنظيمية على مستوى الاتحاد.\n\nفي المقابل، مضى موعد 2 أغسطس 2026 كما هو: بدأ مكتب الذكاء الاصطناعي والسلطات الوطنية تطبيق القانون، وسرت قواعد الشفافية؛ فعلى روبوتات المحادثة إعلام المستخدم بأنها ذكاء اصطناعي، ويجب وسم المحتوى المزيف العميق ووضع علامات آلية على المحتوى المولّد. ووقّعت أكثر من 180 جهة مدونة السلوك الطوعية لوسم المحتوى."
-     },
-     "en": {
-      "title": "EU AI Omnibus takes effect, pushing high-risk AI rules to late 2027 and 2028",
-      "summary": "Amendments to the EU AI Act are now in force: rules for high-risk AI systems are delayed to 2 December 2027 and 2 August 2028, and AI 'nudification' apps join the list of banned practices.",
-      "details": "The EU's Digital Omnibus on AI (Regulation (EU) 2026/1744) entered into force on 27 July 2026, after publication in the Official Journal on 24 July. It amends the AI Act, the EU's main AI law.\n\nMain changes:\n- Obligations for high-risk AI in areas such as biometrics, education, employment and migration now apply from 2 December 2027.\n- Rules for AI built into regulated products, such as lifts or toys, apply from 2 August 2028.\n- A new ban on AI that generates non-consensual sexual images or child abuse material, such as 'nudification' apps, taking effect in December 2026.\n- Simpler rules extended to small mid-cap companies, plus an EU-level regulatory sandbox.\n\nMeanwhile, the 2 August 2026 milestone went ahead: the AI Office and national authorities began enforcing the Act, and transparency duties kicked in — chatbots must disclose they are AI, deepfakes must be labelled and AI-generated content must carry machine-readable marks. More than 180 organisations have signed the Commission's voluntary labelling code."
-     },
-     "addedAt": "2026-07-27T23:59:59+00:00"
-    },
-    {
-     "id": "moonshot-kimi-k3-open-weights",
-     "date": "2026-07-27",
-     "type": "model",
-     "importance": 3,
-     "sourceType": "official",
-     "sourceName": "Moonshot AI — Hugging Face",
-     "url": "https://huggingface.co/moonshotai/Kimi-K3",
-     "originalTitle": "moonshotai/Kimi-K3",
-     "company": "Moonshot AI",
-     "tool": "Kimi K3",
-     "ar": {
-      "title": "Moonshot تنشر أوزان Kimi K3: نموذج مفتوح بحجم 2.8 تريليون معامل",
-      "summary": "نشرت Moonshot AI الأوزان الكاملة لنموذج Kimi K3 متعدد الوسائط بحجم 2.8 تريليون معامل وسياق بنحو مليون رمز، بعد 11 يوماً من إطلاقه، وتصفه بأنه أول نموذج مفتوح من فئة 3 تريليونات.",
-      "details": "أطلقت Moonshot AI نموذج Kimi K3 في 16 يوليو عبر تطبيقات Kimi وواجهة البرمجة، ثم نشرت أوزانه الكاملة على Hugging Face في 27 يوليو، ملتزمة بالموعد الذي حددته.\n\nأبرز المواصفات:\n- 2.8 تريليون معامل بتصميم «مزيج الخبراء»، يُفعَّل منها 104 مليارات لكل رمز.\n- مدخلات أصلية من النصوص والصور والفيديو، وسياق بنحو مليون رمز، وأوزان بصيغة MXFP4 المضغوطة.\n\nوتقول الشركة إن أداءه في مستوى النماذج الرائدة في البرمجة والعمل المعرفي والاستدلال، مع إقرارها بأنه ما زال خلف أقوى النماذج المغلقة من Anthropic وOpenAI. وتبلغ أسعار واجهة البرمجة 3 دولارات لكل مليون رمز إدخال غير مخزّن و15 دولاراً لكل مليون رمز إخراج.\n\nورخصة Kimi K3 متساهلة بشرطين: اتفاق منفصل لشركات «النماذج كخدمة» التي تتجاوز إيراداتها 20 مليون دولار سنوياً، وإظهار اسم Kimi K3 في المنتجات الضخمة. ووجد تقييم مشترك لمعهد AISI البريطاني ومركز CAISI الأمريكي أنه تفوق على GLM-5.2 في القدرات السيبرانية، لكنه بقي خلف النماذج الأمريكية الرائدة."
-     },
-     "en": {
-      "title": "Moonshot releases Kimi K3 weights, a 2.8-trillion-parameter open model",
-      "summary": "Moonshot AI published the full weights of Kimi K3, a 2.8T-parameter multimodal model with a context of about 1M tokens, 11 days after launch. It calls K3 the first open '3T-class' model.",
-      "details": "Moonshot AI launched Kimi K3 on July 16 in its Kimi apps and API, then published the full weights on Hugging Face on July 27, meeting the deadline it had set.\n\nModel facts:\n- 2.8 trillion parameters in a sparse mixture-of-experts design, with 104B active per token.\n- Native text, image and video input, a context of about 1 million tokens, and weights shipped in the compact MXFP4 format.\n\nMoonshot says it performs at frontier level in coding, knowledge work and reasoning, while admitting it still trails the strongest closed models from Anthropic and OpenAI. API pricing is $3 per million uncached input tokens and $15 per million output tokens.\n\nThe Kimi K3 licence is permissive with two conditions: model-as-a-service firms with over $20 million in annual revenue need a separate agreement, and very large products must display 'Kimi K3'. A joint UK AISI and US CAISI review found K3 more cyber-capable than GLM-5.2, the previous open-model leader, but behind top US models."
-     },
-     "addedAt": "2026-07-27T23:59:59+00:00"
     }
    ],
    "upcoming": [
