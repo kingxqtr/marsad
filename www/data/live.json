@@ -1,82 +1,25 @@
 {
- "updatedAt": "2026-10-27T23:48:15+00:00",
+ "updatedAt": "2026-10-28T02:36:43+00:00",
  "items": [
   {
-   "id": "auto-078f469987f4",
+   "id": "auto-c7551f008bd3",
    "tab": "ai",
-   "date": "2026-10-27",
-   "publishedAt": "2026-10-27T16:40:15+00:00",
-   "type": "product",
-   "importance": 1,
-   "sourceType": "community",
-   "sourceName": "Hacker News",
-   "url": "https://news.ycombinator.com/item?id=50261819",
-   "originalTitle": "Police are using AI to pull over drivers for 'suspicious' behavior",
-   "en": {
-    "title": "Police are using AI to pull over drivers for 'suspicious' behavior",
-    "summary": "Community discussion on Hacker News (329 points, 257 comments).",
-    "details": "Community discussion on Hacker News (329 points, 257 comments)."
-   },
-   "translated": false,
-   "fetchedAt": "2026-10-27T20:13:18+00:00"
-  },
-  {
-   "id": "auto-430d39815a70",
-   "tab": "ai",
-   "date": "2026-10-27",
-   "publishedAt": "2026-10-27T11:08:14+00:00",
-   "type": "product",
-   "importance": 1,
-   "sourceType": "community",
-   "sourceName": "Hacker News",
-   "url": "https://news.ycombinator.com/item?id=50257325",
-   "originalTitle": "AI promised less work. I've never worked more",
-   "en": {
-    "title": "AI promised less work. I've never worked more",
-    "summary": "Community discussion on Hacker News (612 points, 607 comments).",
-    "details": "Community discussion on Hacker News (612 points, 607 comments)."
-   },
-   "translated": false,
-   "fetchedAt": "2026-10-27T15:33:42+00:00"
-  },
-  {
-   "id": "auto-2c71924a1459",
-   "tab": "ai",
-   "date": "2026-10-27",
-   "publishedAt": "2026-10-27T06:25:37+00:00",
-   "type": "product",
-   "importance": 1,
-   "sourceType": "community",
-   "sourceName": "Hacker News",
-   "url": "https://news.ycombinator.com/item?id=50255298",
-   "originalTitle": "The Mythical Man-Month in the Age of AI",
-   "en": {
-    "title": "The Mythical Man-Month in the Age of AI",
-    "summary": "Community discussion on Hacker News (425 points, 301 comments).",
-    "details": "Community discussion on Hacker News (425 points, 301 comments)."
-   },
-   "translated": false,
-   "fetchedAt": "2026-10-27T15:33:42+00:00"
-  },
-  {
-   "id": "auto-b6a8d51ae321",
-   "tab": "ai",
-   "date": "2026-10-27",
-   "publishedAt": "2026-10-27T15:00:20+00:00",
-   "type": "hardware",
+   "date": "2026-10-28",
+   "publishedAt": "2026-10-28T00:00:03+00:00",
+   "type": "media",
    "importance": 1,
    "sourceType": "official",
-   "sourceName": "NVIDIA Blog",
-   "url": "https://blogs.nvidia.com/blog/open-source-ai-tools-cbrain-dementia/",
-   "originalTitle": "How AI Is Changing the Pace of Discovery for Millions Living With Dementia",
+   "sourceName": "Meta Newsroom",
+   "url": "https://about.fb.com/news/2026/10/muse-is-now-available-in-singapore-the-worlds-first-personal-ai-agent-built-for-everyone/",
+   "originalTitle": "Muse Is Now Available in Singapore: The World’s First Personal AI Agent Built for Everyone",
    "en": {
-    "title": "How AI Is Changing the Pace of Discovery for Millions Living With Dementia",
-    "summary": "There are 57 million people worldwide living with dementia today.",
-    "details": "There are 57 million people worldwide living with dementia today. For the researchers working to help them, the obstacle isn’t a lack of effort — it’s too much data, too few experts to synthesize it and a pace of discovery that can’t keep up with the disease.\n\nThe Consortium for Biomedical Research and AI in Neurodegeneration (C-BRAIN), working with NVIDIA, is using AI to change that.\n\nAlzheimer’s disease is one of today’s leading global health challenges, with over 10 million new dementia cases diagnosed each year. Despite a 7x increase in National Institutes of Health funding in the last 15 years — reaching $3.9 billion annually — no treatment has been found to stop, prevent or reverse the disease yet.\n\nThe bottlenecks are not enough high impact scientific findings, too much data living in institutional silos and too slow a pace of synthesis to keep up with the research that is published.\n\nC-BRAIN, led by Dr. Randall Bateman and a consortium of 18 member institutions across academic, philanthropic, pharma and research organizations, launched in November 2025 to help scientists make better, faster discoveries by accelerating the research that makes new treatments possible. …"
+    "title": "Muse Is Now Available in Singapore: The World’s First Personal AI Agent Built for Everyone",
+    "summary": "Following our global announcement of Muse , we are excited to share that Muse is now available in Singapore.",
+    "details": "Following our global announcement of Muse , we are excited to share that Muse is now available in Singapore.\n\nhttps://about.fb.com/wp-content/uploads/2026/09/Introducing-Muse_Sizzle-Video.mp4\n\nWhat Muse Can Do in Singapore\n\nConnectors are a big reason Muse can do so much. People in Singapore can connect their Muse to apps they already use, including Gmail, Google Calendar and Instagram, so it can help them manage email, coordinate schedules and draw on saved content to get everyday tasks done.\n\nEarly local connector partners in Singapore include Shopee, Grab, Singapore Airlines, Agoda, ShopBack, Klook, Trip.com and Lazada spanning shopping, groceries, dining and travel. Connector features will roll out progressively, with some experiences becoming available after launch.\n\nYou can ask Muse to research products and compare prices before buying on Shopee or Lazada, or plan grocery shopping and dining through GrabMart and Grab Dine Out. You can also explore travel, ticketing and reservation options through Singapore Airlines, Agoda, Klook and Trip.com, or earn cashback on travel and shopping plus claim in-store dining deals through ShopBack. …"
    },
    "translated": false,
-   "fetchedAt": "2026-10-27T15:33:41+00:00",
-   "company": "NVIDIA"
+   "fetchedAt": "2026-10-28T02:36:38+00:00",
+   "company": "Meta"
   }
  ]
 }
