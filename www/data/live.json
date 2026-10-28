@@ -1,25 +1,4 @@
 {
- "updatedAt": "2026-10-28T02:36:43+00:00",
- "items": [
-  {
-   "id": "auto-c7551f008bd3",
-   "tab": "ai",
-   "date": "2026-10-28",
-   "publishedAt": "2026-10-28T00:00:03+00:00",
-   "type": "media",
-   "importance": 1,
-   "sourceType": "official",
-   "sourceName": "Meta Newsroom",
-   "url": "https://about.fb.com/news/2026/10/muse-is-now-available-in-singapore-the-worlds-first-personal-ai-agent-built-for-everyone/",
-   "originalTitle": "Muse Is Now Available in Singapore: The World’s First Personal AI Agent Built for Everyone",
-   "en": {
-    "title": "Muse Is Now Available in Singapore: The World’s First Personal AI Agent Built for Everyone",
-    "summary": "Following our global announcement of Muse , we are excited to share that Muse is now available in Singapore.",
-    "details": "Following our global announcement of Muse , we are excited to share that Muse is now available in Singapore.\n\nhttps://about.fb.com/wp-content/uploads/2026/09/Introducing-Muse_Sizzle-Video.mp4\n\nWhat Muse Can Do in Singapore\n\nConnectors are a big reason Muse can do so much. People in Singapore can connect their Muse to apps they already use, including Gmail, Google Calendar and Instagram, so it can help them manage email, coordinate schedules and draw on saved content to get everyday tasks done.\n\nEarly local connector partners in Singapore include Shopee, Grab, Singapore Airlines, Agoda, ShopBack, Klook, Trip.com and Lazada spanning shopping, groceries, dining and travel. Connector features will roll out progressively, with some experiences becoming available after launch.\n\nYou can ask Muse to research products and compare prices before buying on Shopee or Lazada, or plan grocery shopping and dining through GrabMart and Grab Dine Out. You can also explore travel, ticketing and reservation options through Singapore Airlines, Agoda, Klook and Trip.com, or earn cashback on travel and shopping plus claim in-store dining deals through ShopBack. …"
-   },
-   "translated": false,
-   "fetchedAt": "2026-10-28T02:36:38+00:00",
-   "company": "Meta"
-  }
- ]
+ "updatedAt": "2026-10-28T08:57:17+00:00",
+ "items": []
 }
