@@ -45,6 +45,28 @@
         "details": "GitHub announced on October 27 that GitHub Copilot now supports server-to-server authentication for GitHub Apps installed on organizations, available in public preview.\n\nServices and agents built with the GitHub Copilot SDK can now make requests on behalf of an organization using a workload-owned identity, instead of relying on a signed-in user's credentials. This lets automated agents operate reliably at larger scale.\n\nTo use it, developers give a GitHub App the read-only Copilot Requests organization permission, install it on an organization, and pass a short-lived installation access token to the Copilot SDK. Usage is billed to the organization, and the organization's model policies and spending controls apply.\n\nOrganization owners can review which apps have access, track app usage in AI usage CSV reports via the app_client_id field, and revoke access by suspending or uninstalling the app."
       }
     }
+    ,
+    {
+      "id": "meta-muse-singapore-launch",
+      "date": "2026-10-27",
+      "type": "product",
+      "importance": 1,
+      "sourceType": "official",
+      "sourceName": "Meta Newsroom",
+      "url": "https://about.fb.com/news/2026/10/muse-is-now-available-in-singapore-the-worlds-first-personal-ai-agent-built-for-everyone/",
+      "originalTitle": "Muse Is Now Available in Singapore: The World's First Personal AI Agent Built for Everyone",
+      "company": "Meta",
+      "ar": {
+        "title": "Meta تطلق مساعدها الشخصي Muse في سنغافورة بشراكات محلية",
+        "summary": "أعلنت Meta إتاحة وكيلها الشخصي Muse في سنغافورة على iOS وAndroid وموقع muse.ai، بشراكات محلية مع Shopee وGrab وSingapore Airlines وغيرها.",
+        "details": "أعلنت Meta في 27 أكتوبر إتاحة Muse، وكيلها الشخصي للذكاء الاصطناعي، في سنغافورة، بعد الإعلان العالمي عنه في سبتمبر. يعمل التطبيق على iOS وAndroid وموقع muse.ai، مع دعم نظارات الذكاء الاصطناعي قريباً، وهو مجاني لمعظم الاستخدامات مع خطط اشتراك للاستخدام الأثقل.\n\nيمكن للمستخدمين ربط Muse بتطبيقات مثل Gmail وGoogle Calendar وInstagram لإدارة البريد والمواعيد. من بين شركاء الربط المحليين: Shopee وGrab وSingapore Airlines وAgoda وShopBack وKlook وTrip.com وLazada، لمهام مثل مقارنة الأسعار قبل الشراء أو التخطيط للتسوق والسفر.\n\nتعمل Muse على جهاز سحابي مخصص يُدعى Muse Secure VM يحفظ بيانات الخدمات المرتبطة وبيانات الاعتماد بعيداً عن رؤية الوكيل، ويجب أن يوافق المستخدم على أي إجراء حساس كإرسال بريد أو إجراء عملية شراء."
+      },
+      "en": {
+        "title": "Meta launches personal AI agent Muse in Singapore with local partners",
+        "summary": "Meta made its personal AI agent Muse available in Singapore on iOS, Android and muse.ai, with local connector partners including Shopee, Grab and Singapore Airlines.",
+        "details": "Meta announced on October 27 that Muse, its personal AI agent, is now available in Singapore, following its global debut in September. The app works on iOS, Android and muse.ai, with AI-glasses support coming soon; it is free for most needs, with subscription plans for heavier use.\n\nUsers can connect Muse to apps like Gmail, Google Calendar and Instagram to manage email and schedules. Local connector partners include Shopee, Grab, Singapore Airlines, Agoda, ShopBack, Klook, Trip.com and Lazada, enabling tasks such as comparing prices before buying or planning groceries and travel.\n\nMuse runs on a dedicated cloud computer called Muse Secure VM that keeps connected-service data and credentials out of the agent's view, and users must approve any sensitive action such as sending an email or making a purchase."
+      }
+    }
   ],
   "upcoming": [],
   "removeUpcoming": [],
