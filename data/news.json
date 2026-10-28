@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": "2026-10-28T15:12:58+00:00",
+ "updatedAt": "2026-10-28T16:17:07+00:00",
  "coverage": {
   "from": "2026-07-28",
   "to": "2026-10-28"
@@ -1805,6 +1805,94 @@
       "details": "NVIDIA released Nemotron 3.5 Transcribe on October 28, an open-weight speech model built for recorded audio rather than live streaming. It combines transcription, speaker diarization, translation and audio question answering in a single checkpoint, and users can steer its output with natural-language instructions.\n\nThe model can transcribe up to an hour of audio and label up to eight speakers with word-level timestamps, translates 31 languages to or from English, attributes speakers in 13 languages, and covers 40 languages for transcription. It has about 30 billion total parameters (roughly 4 billion active per token) using a hybrid Mamba-Transformer mixture-of-experts architecture, and runs on a single GPU, from DGX Spark and Jetson AGX Thor to data-center Blackwell chips.\n\n- It topped the Hugging Face Open ASR leaderboard for English among open-weight models, at 5.33% average word error rate.\n- It tied for first on the Artificial Analysis benchmark against a model with 24 billion active parameters, despite using only about 4 billion.\n- The release ships with Granary v2, a reusable data-curation pipeline built with NVIDIA NeMo Curator; its public manifest covers 463,062 hours of speech across 48 languages from 16 source corpora, up from 25 languages in the first version."
      },
      "addedAt": "2026-10-28T15:12:58+00:00"
+    },
+    {
+     "id": "github-copilot-projects-intelligence-automations",
+     "date": "2026-10-28",
+     "type": "coding",
+     "importance": 2,
+     "sourceType": "official",
+     "sourceName": "GitHub Changelog",
+     "url": "https://github.blog/changelog/2026-10-28-github-copilot-app-universe-releases",
+     "originalTitle": "GitHub Copilot app, Universe releases",
+     "company": "GitHub",
+     "ar": {
+      "title": "GitHub تطرح Copilot Projects وذاكرة للوكلاء وأتمتة جماعية",
+      "summary": "طرحت GitHub في مؤتمر Universe ثلاث ميزات: Copilot Projects لتنظيم العمل عبر مستودعات متعددة، وطبقة سياق باسم GitHub intelligence تمنح الوكلاء ذاكرة بين الجلسات، وأتمتة Copilot المشتركة التي يبنيها الفريق معاً.",
+      "details": "طرحت GitHub في معاينة عامة ميزة Copilot Projects في تطبيق Copilot، التي تجمع في مكان واحد العمل الذي يتجاوز مستودعاً واحداً أو جلسة واحدة، مثل ميزة تمتد عبر عدة مستودعات أو خطة إطلاق تعتمد على مواصفات وتصاميم. يصف المستخدم الهدف ويضيف السياق اللازم (مستودعات، تصاميم، محادثات Slack)، ويشغّل Copilot عدة وكلاء في الخلفية ويعرض النتائج كطلبات سحب للمراجعة.\n\nكما أعلنت GitHub عن GitHub intelligence، طبقة سياق وتعلّم مصدرها بيانات GitHub، تمنح الوكلاء ذاكرة تمتد بين الجلسات وتحافظ على تحديثها، وتوسّع نطاق بحث الوكيل عن الكود إلى ما وراء النسخة المحلية.\n\nوأخيراً، أصبحت أتمتة Copilot المشتركة متاحة، إذ يمكن لفريق كامل رؤية وتعديل سير عمل آلي واحد (مثل إعادة إنتاج علة عند فتح مشكلة)، وتُحمَّل تكلفته على المؤسسة أو المستخدم المالك للمستودع لا على من أنشأه."
+     },
+     "en": {
+      "title": "GitHub adds Copilot Projects, agent memory and shared Automations",
+      "summary": "At Universe 2026, GitHub introduced Copilot Projects for multi-repository work, a context layer called GitHub intelligence giving agents memory across sessions, and shared Automations a whole team can build together.",
+      "details": "GitHub released Copilot Projects in public preview inside the GitHub Copilot app, giving a single home to work that spans more than one repository or session, such as a feature touching several repos or a launch plan built from specs and designs. Developers describe a goal and add context (repositories, design mocks, Slack threads), and Copilot runs multiple agents in the background, returning results such as pull requests for review.\n\nGitHub also announced GitHub intelligence, a context and learning layer sourced from GitHub's own data graph, which gives agents memory that carries between sessions, keeps that context current, and lets agents search code beyond a single local checkout.\n\nFinally, shared Copilot Automations are now rolling out: a whole team can see and edit one automated workflow (for example, reproducing a bug as soon as an issue is opened), with usage billed to the organization or repository owner rather than to whichever person created it."
+     },
+     "addedAt": "2026-10-28T16:17:07+00:00"
+    },
+    {
+     "id": "github-enterprise-includes-copilot",
+     "date": "2026-10-28",
+     "type": "business",
+     "importance": 2,
+     "sourceType": "official",
+     "sourceName": "GitHub Changelog",
+     "url": "https://github.blog/changelog/2026-10-28-github-enterprise-now-includes-access-to-github-copilot",
+     "originalTitle": "GitHub Enterprise now includes access to GitHub Copilot",
+     "company": "GitHub",
+     "ar": {
+      "title": "GitHub Enterprise يضمّ الآن إتاحة Copilot لكل مستخدم مرخّص",
+      "summary": "يمكن لعملاء GitHub Enterprise الذين يتعاملون مع فريق حسابات GitHub أو مايكروسوفت الحصول الآن على Copilot ضمن الترخيص لكل مستخدم مرخّص، مع تحميل استخدام الذكاء الاصطناعي على ميزانية المؤسسة بدلاً من مقاعد مدفوعة منفصلة.",
+      "details": "أعلنت GitHub أن عملاء GitHub Enterprise الذين يتعاملون مع فريق حسابات في GitHub أو مايكروسوفت يمكنهم الآن الحصول على Copilot مضمّناً مع GitHub Enterprise لكل مستخدم مرخّص، بدلاً من إدارة مقاعد Copilot المدفوعة واستخدام الذكاء الاصطناعي بشكل منفصل.\n\nيتوفر الإعداد الذاتي على مراحل، ولا يتأثر الاشتراك الذاتي الحالي، وتبقى باقتا Copilot Business وCopilot Enterprise متاحتين. أما المستخدمون في المؤسسة من دون ترخيص GitHub Enterprise فيحصلون على وصول مماثل عبر Copilot Standalone بسعر 10 دولارات للمستخدم شهرياً.\n\nيُحسب استخدام الذكاء الاصطناعي من أول طلب على ميزانية المؤسسة دون سقف استخدام شهري مضمّن لكل مقعد، لكن اكتمال التطبيق الآلي للأكواد يبقى يعمل حتى عند نفاد الميزانية، بخلاف المحادثة ومراجعة الكود والتشغيل السحابي التي تحتاج ميزانية متاحة."
+     },
+     "en": {
+      "title": "GitHub Enterprise now includes Copilot access for every user",
+      "summary": "Enterprises working with a GitHub or Microsoft account team can now get Copilot included with every GitHub Enterprise license, with AI usage billed against the enterprise's budget instead of separate paid Copilot seats.",
+      "details": "GitHub announced that enterprises working with a GitHub or Microsoft account team can now get Copilot bundled into GitHub Enterprise for every licensed user, instead of managing paid Copilot seats and AI usage separately.\n\nSelf-serve availability is rolling out in stages, current self-serve subscriptions are unaffected, and Copilot Business and Copilot Enterprise remain available as standalone plans. Enterprise users without a GitHub Enterprise license get equivalent access through Copilot Standalone at $10 per user per month.\n\nAI usage is metered from the first request against the enterprise's budget, with no included monthly allowance per seat, though code completion and next-edit suggestions keep working even if the budget runs out; Copilot Chat, code review and cloud runs need available budget."
+     },
+     "addedAt": "2026-10-28T16:17:07+00:00"
+    },
+    {
+     "id": "github-copilot-fusion-ga",
+     "date": "2026-10-28",
+     "type": "coding",
+     "importance": 2,
+     "sourceType": "official",
+     "sourceName": "GitHub Changelog",
+     "url": "https://github.blog/changelog/2026-10-28-route-and-orchestrate-models-with-github-copilot-fusion",
+     "originalTitle": "Route and orchestrate models with GitHub Copilot Fusion",
+     "company": "GitHub",
+     "ar": {
+      "title": "GitHub Copilot Fusion يصبح متاحاً للجميع لتوجيه النماذج تلقائياً",
+      "summary": "أعلنت GitHub في مؤتمر Universe 2026 أن Copilot Fusion، الذي يختار وينسّق النماذج المناسبة لكل مهمة ترميز تلقائياً، أصبح متاحاً عموماً، مع معاينة تجريبية لتوجيه بعض الطلبات إلى نماذج محلية على الجهاز.",
+      "details": "أعلنت GitHub أن Copilot Fusion، الذي يختار وينسّق أي نماذج ذكاء اصطناعي تتعامل مع كل خطوة من مهمة الترميز بدلاً من أن يحدد المطور نموذجاً واحداً بنفسه، أصبح متاحاً عموماً. يختار المستخدم مستوى الجهد (عادي أو مرتفع) فقط، ويتولى Fusion تحديد النماذج وطريقة عملها معاً.\n\nتقول GitHub إن تهيئة Fusion Max حققت نتيجة قريبة من Claude Opus 5.5 Max على مؤشر Artificial Analysis لوكلاء الترميز، باستخدام نحو نصف التكلفة وعدد الرموز والوقت لكل مهمة تقريباً.\n\nفي معاينة تجريبية مرتبطة، يمكن لـCopilot Fusion الآن توجيه بعض الطلبات إلى نماذج محلية تعمل على جهاز المستخدم نفسه عبر Copilot CLI وتطبيق GitHub Copilot وVS Code، بدلاً من السحابة، لمهام مدعومة."
+     },
+     "en": {
+      "title": "GitHub Copilot Fusion reaches general availability",
+      "summary": "GitHub announced that Copilot Fusion, which automatically picks and orchestrates models for each coding task, is now generally available, with a preview that can also route requests to on-device local models.",
+      "details": "GitHub announced that Copilot Fusion, a system that automatically selects and orchestrates which AI models handle each step of a coding task rather than requiring the developer to pick one model, is now generally available. Developers just choose an effort level (Standard or High), and Fusion decides which models to use and how.\n\nGitHub says its Fusion Max configuration scored close to Claude Opus 5.5 Max on the Artificial Analysis Coding Agent Index, while using roughly half the cost, tokens and time per task.\n\nIn a related experimental preview, Copilot Fusion can also route some requests to on-device local models in the Copilot CLI, GitHub Copilot app and VS Code, letting developers use their own hardware instead of the cloud for supported tasks."
+     },
+     "addedAt": "2026-10-28T16:17:07+00:00"
+    },
+    {
+     "id": "github-copilot-security-extension-image-gen",
+     "date": "2026-10-28",
+     "type": "coding",
+     "importance": 1,
+     "sourceType": "official",
+     "sourceName": "GitHub Changelog",
+     "url": "https://github.blog/changelog/2026-10-28-security-extension-for-the-github-copilot-app",
+     "originalTitle": "Security extension for the GitHub Copilot app",
+     "company": "GitHub",
+     "ar": {
+      "title": "GitHub Copilot يضيف امتداد أمان وتوليد صور داخل المحادثة",
+      "summary": "أضافت GitHub Copilot امتداد أمان يعرض تنبيهات فحص الكود ويساعد على إصلاحها داخل التطبيق نفسه، إلى جانب توليد وتحرير الصور بلغة طبيعية باستخدام GPT Image 2.5 Flare.",
+      "details": "طرحت GitHub في معاينة عامة امتداد أمان جديداً لتطبيق GitHub Copilot، يعرض تنبيهات فحص الكود الخاصة بالمستودع مرتبة حسب الخطورة، ويتيح فتح أي تنبيه ومطالبة Copilot بشرحه أو إصلاحه داخل نسخة العمل المحلية دون أي ارتكاب أو دفع تلقائي للتغييرات. يمكن أيضاً تشغيل مراجعة أمنية على تغييرات حالية ورؤية طلبات السحب المرتبطة بأي تنبيه.\n\nفي تحديث منفصل، يمكن الآن توليد وتحرير الصور داخل محادثة Copilot بلغة طبيعية؛ يستدعي النموذج المختار أداة توليد صور مخصصة تعمل بنموذج GPT Image 2.5 Flare، ويعرض النتيجة داخل المحادثة ويحفظها في المشروع. يمكن لأصحاب المؤسسات تعطيل توليد الصور عبر سياسات النماذج، وهي ميزة في معاينة عامة لباقات Copilot Pro وPro+ وBusiness وEnterprise."
+     },
+     "en": {
+      "title": "GitHub Copilot adds a security extension and image generation",
+      "summary": "GitHub Copilot can now show and help fix a repository's code scanning alerts inside the Copilot app itself, and can generate or edit images using natural language with GPT Image 2.5 Flare.",
+      "details": "GitHub released a new security extension for the GitHub Copilot app in public preview, showing a repository's open code scanning alerts ordered by severity. Users can open an alert and ask Copilot to explain or fix it in their local working copy, with no automatic commit or push, run a security review on pending changes, and see pull requests already linked to an alert.\n\nSeparately, Copilot can now generate and edit images using natural language directly in chat. The selected model calls a dedicated image-generation tool powered by GPT Image 2.5 Flare, previews the result inline and saves it to the project. Organization owners can disable image generation through Copilot model policies; it is in public preview for Copilot Pro, Pro+, Business and Enterprise plans."
+     },
+     "addedAt": "2026-10-28T16:17:07+00:00"
     },
     {
      "id": "deepmind-genie-4-world-model",
