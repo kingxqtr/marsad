@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": "2026-10-28T20:16:31+00:00",
+ "updatedAt": "2026-10-28T21:18:00+00:00",
  "coverage": {
   "from": "2026-07-28",
   "to": "2026-10-28"
@@ -8,6 +8,27 @@
  "tabs": {
   "once-human": {
    "news": [
+    {
+     "id": "oh-3-1-1-bugfixes-oct28",
+     "date": "2026-10-28",
+     "type": "update",
+     "importance": 1,
+     "sourceType": "official",
+     "sourceName": "Once Human — Official Site",
+     "url": "https://www.oncehuman.game/news/update/20261028/40780_1317971.html",
+     "originalTitle": "3.1.1 Bug Fixes (October 28)",
+     "ar": {
+      "title": "Once Human يصلح مشكلة المرحلة الثانية في Isles of Abyss ومشاكل تحميل أخرى",
+      "summary": "أصلحت Once Human في 28 أكتوبر عدم دخول بعض الخوادم للمرحلة الثانية في Isles of Abyss وبطء التحميل عند نقاط البداية الشاذة، مع إصلاحات إضافية لتعديل Blast Intensifier وصحة وحوش Calamity Hatchling قيد التنفيذ.",
+      "details": "أصدرت Once Human في 28 أكتوبر دفعة جديدة من إصلاحات تحديث 3.1.1، أنهت بها مشكلتين: فشل بعض الخوادم في الدخول إلى المرحلة الثانية من سيناريو Isles of Abyss بعد اكتمال تقدم المرحلة الأولى ونفاد العدّاد، وبطء تحميل شديد كان يحدث في بعض الحالات عند ظهور نقطة بداية شاذة.\n\nكما أعلنت الشركة عن إصلاحين متوقع إنجازهما بحلول الساعة 6 صباحاً بتوقيت المحيط الهادئ (قد يختلف وقت الإنجاز الفعلي): حصول بعض اللاعبين خطأً على تعديل Blast Intensifier في منطقة Voyager، وانخفاض غير طبيعي في صحة وحوش Calamity Hatchling في منطقة Sea Calamity بجزر Isles of Abyss مما كان يؤدي لموتها بسرعة كبيرة؛ وستُطبَّق الصحة الطبيعية على الوحوش الجديدة فقط."
+     },
+     "en": {
+      "title": "Once Human fixes Isles of Abyss Phase II stall and loading bugs",
+      "summary": "Once Human's October 28 patch fixed servers failing to enter Isles of Abyss Phase II and slow loading at abnormal spawn points, with fixes for a mod exploit and overly weak Calamity Hatchlings still rolling out.",
+      "details": "Once Human shipped another round of 3.1.1 bug fixes on October 28, closing out two issues: some servers failing to enter Phase II of the Isles of Abyss scenario after Phase I's Scenario Progress reached 100% and its countdown finished, and severe loading slowdowns that occurred in some cases when a player's starting position was abnormal.\n\nThe studio also listed two fixes expected by 6:00 AM PT, with actual completion time possibly varying: players incorrectly obtaining the Blast Intensifier Mod in the Voyager area, and Calamity Hatchlings in the Isles of Abyss's Sea Calamity Zone having abnormally low HP and dying too quickly — normal HP will apply only to newly spawned hatchlings going forward."
+     },
+     "addedAt": "2026-10-28T21:18:00+00:00"
+    },
     {
      "id": "oh-3-1-1-bugfixes-oct27",
      "date": "2026-10-27",
@@ -1873,6 +1894,28 @@
      "addedAt": "2026-10-28T19:13:08+00:00"
     },
     {
+     "id": "anthropic-ai-for-science-expands-institutions",
+     "date": "2026-10-28",
+     "type": "business",
+     "importance": 2,
+     "sourceType": "official",
+     "sourceName": "Anthropic",
+     "url": "https://www.anthropic.com/news/ai-for-science-expands-foundations-research-institutions",
+     "originalTitle": "AI for Science expands to foundations and research institutions",
+     "company": "Anthropic",
+     "ar": {
+      "title": "Anthropic توسّع برنامج AI for Science ليشمل 20 مؤسسة ومؤسسة بحثية",
+      "summary": "وسّعت Anthropic برنامج أرصدة Claude المجانية للبحث العلمي الذي انطلق في مايو 2025، معلنةً شراكات مع 20 جهة بحثية وممولة حول العالم في الفيزياء والأحياء والرياضيات وعلوم المناخ.",
+      "details": "أعلنت Anthropic في 28 أكتوبر توسيع برنامجها AI for Science، الذي يقدّم أرصدة Claude المجانية لمشاريع بحثية عالية الأثر منذ انطلاقه في مايو 2025، وقالت إنها دعمت مئات المشاريع في الأحياء والطب والفيزياء والكيمياء وعلوم المناخ والرياضيات.\n\nأبرزت الشركة شراكات مع 20 جهة: ممولون وجمعيات علمية توزّع الأرصدة على باحثين (مثل Alfred P. Sloan Foundation و Simons Foundation و Schmidt Sciences و المؤسسة الوطنية الأمريكية للعلوم)، ومؤسسات تستخدم الأرصدة داخلياً (مثل معهد Wellcome Sanger و Francis Crick Institute و EMBL)، ومشاريع بحثية تتلقى الأرصدة مباشرة (مثل FlyWire في جامعة برينستون و قاعدة بيانات gnomAD في معهد Broad).\n\nكما ذكرت تعاوناً سابقاً مع HHMI Janelia لتطوير معيار مشترك (Model Hardware Standard) لتشغيل أجهزة المختبرات بأمان بواسطة وكلاء الذكاء الاصطناعي، وتعاوناً مع Allen Institute لتحليل مجموعات بياناته الضخمة. قالت Anthropic إن معظم هذه الشراكات في مراحلها الأولى، وتخطط للإعلان عن نتائجها والتوسع لمزيد من الشركاء حول العالم."
+     },
+     "en": {
+      "title": "Anthropic expands AI for Science program to 20 foundations and institutions",
+      "summary": "Anthropic widened its free Claude-credit program for high-impact research, launched in May 2025, announcing partnerships with 20 science funders, institutions and research projects worldwide spanning physics, biology, math and climate science.",
+      "details": "Anthropic announced on October 28 an expansion of its AI for Science program, which has offered free Claude credits to high-impact research projects since launching in May 2025. The company says it has supported hundreds of projects across biology, medicine, physics, chemistry, climate science and mathematics.\n\nIt highlighted 20 partners in three groups: science funders and societies that distribute credits to researchers (including the Alfred P. Sloan Foundation, Simons Foundation, Schmidt Sciences and the US National Science Foundation); institutions using credits internally (including the Wellcome Sanger Institute, Francis Crick Institute and EMBL); and research projects receiving credits directly (including Princeton's FlyWire connectomics project and the Broad Institute's gnomAD genetic-variation database).\n\nAnthropic also cited earlier collaborations: with HHMI Janelia Research Campus on the Model Hardware Standard, a shared specification for AI agents to safely operate lab instruments, and with the Allen Institute on using AI agents to analyze its large open datasets. Anthropic said most collaborations are in early stages, and it plans to share their impact and expand to more partners worldwide."
+     },
+     "addedAt": "2026-10-28T21:18:00+00:00"
+    },
+    {
      "id": "microsoft-copilot-harness-foundry",
      "date": "2026-10-28",
      "type": "product",
@@ -1959,6 +2002,28 @@
       "details": "Apple announced a new Mac Studio with M5 Max and M5 Ultra chips on August 25, with the M5 Ultra scaling up to 512GB of unified memory. The base 96GB configuration starts at $5,499, and Apple said at the time that the larger memory option would arrive \"in late October\" without giving a price.\n\nUsers on r/LocalLLaMA reported on October 28 that the configuration is now actually orderable through Apple's store, starting at $22,299 for the full 512GB build — a figure of interest to people running large open-weight models locally, since the large unified-memory pool can host big models on a single machine.\n\n- Apple had not published a separate official price for this configuration on its public pages as of this writing.\n- This report comes from community users, not an official Apple price announcement."
      },
      "addedAt": "2026-10-28T20:16:31+00:00"
+    },
+    {
+     "id": "openai-servicenow-expand-partnership-oct2026",
+     "date": "2026-10-28",
+     "type": "business",
+     "importance": 2,
+     "sourceType": "official",
+     "sourceName": "OpenAI News",
+     "url": "https://openai.com/index/openai-servicenow-partnership-expansion",
+     "originalTitle": "OpenAI and ServiceNow expand partnership across enterprise workflows",
+     "company": "OpenAI",
+     "ar": {
+      "title": "OpenAI و ServiceNow توسّعان شراكتهما لدمج النماذج عبر سير العمل المؤسسي",
+      "summary": "وسّعت OpenAI وServiceNow شراكتهما المعلنة في يناير، مع إطلاق إضافة ChatGPT لتنفيذ مهام ServiceNow من داخل ChatGPT، وخطط لدمج Codex ومنح موظفي الشركتين وصولاً داخلياً للأدوات.",
+      "details": "أعلنت OpenAI وServiceNow في 28 أكتوبر توسيع شراكتهما المعلنة في 20 يناير 2026، والتي جعلت نماذج OpenAI خياراً مفضلاً للذكاء الاصطناعي على منصة ServiceNow للمؤسسات.\n\nأطلقت ServiceNow إضافة (plugin) متاحة الآن في متجر OpenAI، تتيح للموظفين تنفيذ مهام سير عمل ServiceNow مباشرة من داخل ChatGPT مع الحفاظ على صلاحيات الحوكمة الخاصة بـServiceNow. كما تخطط الشركتان لدمج أعمق مع Codex ضمن ما تسميه ServiceNow \"مصنع سير العمل بالذكاء الاصطناعي\"، إلى جانب ميزات صوتية وأمنية موسّعة.\n\nتشمل الخطة أيضاً منح موظفي OpenAI وServiceNow وصولاً داخلياً إلى ChatGPT Work وCodex. لم تُكشف شروط مالية للاتفاقية، التي تغطي استخدامات تمتد من التواصل بلغة طبيعية مع الموظفين إلى تلخيص الحوادث وتوليد المحتوى وتسريع بناء سير العمل."
+     },
+     "en": {
+      "title": "OpenAI and ServiceNow expand partnership across enterprise workflows",
+      "summary": "OpenAI and ServiceNow expanded their January 2026 partnership, launching a ChatGPT plugin to run ServiceNow workflows from inside ChatGPT, plus plans for deeper Codex integration and internal access for both companies' staff.",
+      "details": "OpenAI and ServiceNow announced on October 28 an expansion of the multi-year partnership they first announced on January 20, 2026, which made OpenAI a preferred intelligence option on ServiceNow's enterprise platform.\n\nServiceNow launched a plugin, now available in the OpenAI marketplace, that lets employees run ServiceNow workflow tasks directly from inside ChatGPT while keeping ServiceNow's own governance and permissions. The companies also plan deeper integration with Codex inside what ServiceNow calls its AI Workflow Factory, along with expanded voice and security features.\n\nThe expansion also gives OpenAI and ServiceNow employees internal access to ChatGPT Work and Codex. Financial terms were not disclosed. Planned use cases span natural-language assistance for employees, incident and case summarization, content generation, and tools that speed up building new workflows."
+     },
+     "addedAt": "2026-10-28T21:18:00+00:00"
     },
     {
      "id": "github-copilot-fusion-ga",

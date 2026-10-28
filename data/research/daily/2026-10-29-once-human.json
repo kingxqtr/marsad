@@ -1,0 +1,29 @@
+{
+  "topic": "once-human",
+  "generatedAt": "2026-10-29",
+  "news": [
+    {
+      "id": "oh-3-1-1-bugfixes-oct28",
+      "date": "2026-10-28",
+      "type": "update",
+      "importance": 1,
+      "sourceType": "official",
+      "sourceName": "Once Human — Official Site",
+      "url": "https://www.oncehuman.game/news/update/20261028/40780_1317971.html",
+      "originalTitle": "3.1.1 Bug Fixes (October 28)",
+      "ar": {
+        "title": "Once Human يصلح مشكلة المرحلة الثانية في Isles of Abyss ومشاكل تحميل أخرى",
+        "summary": "أصلحت Once Human في 28 أكتوبر عدم دخول بعض الخوادم للمرحلة الثانية في Isles of Abyss وبطء التحميل عند نقاط البداية الشاذة، مع إصلاحات إضافية لتعديل Blast Intensifier وصحة وحوش Calamity Hatchling قيد التنفيذ.",
+        "details": "أصدرت Once Human في 28 أكتوبر دفعة جديدة من إصلاحات تحديث 3.1.1، أنهت بها مشكلتين: فشل بعض الخوادم في الدخول إلى المرحلة الثانية من سيناريو Isles of Abyss بعد اكتمال تقدم المرحلة الأولى ونفاد العدّاد، وبطء تحميل شديد كان يحدث في بعض الحالات عند ظهور نقطة بداية شاذة.\n\nكما أعلنت الشركة عن إصلاحين متوقع إنجازهما بحلول الساعة 6 صباحاً بتوقيت المحيط الهادئ (قد يختلف وقت الإنجاز الفعلي): حصول بعض اللاعبين خطأً على تعديل Blast Intensifier في منطقة Voyager، وانخفاض غير طبيعي في صحة وحوش Calamity Hatchling في منطقة Sea Calamity بجزر Isles of Abyss مما كان يؤدي لموتها بسرعة كبيرة؛ وستُطبَّق الصحة الطبيعية على الوحوش الجديدة فقط."
+      },
+      "en": {
+        "title": "Once Human fixes Isles of Abyss Phase II stall and loading bugs",
+        "summary": "Once Human's October 28 patch fixed servers failing to enter Isles of Abyss Phase II and slow loading at abnormal spawn points, with fixes for a mod exploit and overly weak Calamity Hatchlings still rolling out.",
+        "details": "Once Human shipped another round of 3.1.1 bug fixes on October 28, closing out two issues: some servers failing to enter Phase II of the Isles of Abyss scenario after Phase I's Scenario Progress reached 100% and its countdown finished, and severe loading slowdowns that occurred in some cases when a player's starting position was abnormal.\n\nThe studio also listed two fixes expected by 6:00 AM PT, with actual completion time possibly varying: players incorrectly obtaining the Blast Intensifier Mod in the Voyager area, and Calamity Hatchlings in the Isles of Abyss's Sea Calamity Zone having abnormally low HP and dying too quickly — normal HP will apply only to newly spawned hatchlings going forward."
+      }
+    }
+  ],
+  "upcoming": [],
+  "removeUpcoming": [],
+  "removeNews": []
+}

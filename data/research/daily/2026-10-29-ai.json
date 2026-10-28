@@ -1,0 +1,51 @@
+{
+  "topic": "ai",
+  "generatedAt": "2026-10-29",
+  "news": [
+    {
+      "id": "openai-servicenow-expand-partnership-oct2026",
+      "date": "2026-10-28",
+      "type": "business",
+      "importance": 2,
+      "sourceType": "official",
+      "sourceName": "OpenAI News",
+      "url": "https://openai.com/index/openai-servicenow-partnership-expansion",
+      "originalTitle": "OpenAI and ServiceNow expand partnership across enterprise workflows",
+      "company": "OpenAI",
+      "ar": {
+        "title": "OpenAI و ServiceNow توسّعان شراكتهما لدمج النماذج عبر سير العمل المؤسسي",
+        "summary": "وسّعت OpenAI وServiceNow شراكتهما المعلنة في يناير، مع إطلاق إضافة ChatGPT لتنفيذ مهام ServiceNow من داخل ChatGPT، وخطط لدمج Codex ومنح موظفي الشركتين وصولاً داخلياً للأدوات.",
+        "details": "أعلنت OpenAI وServiceNow في 28 أكتوبر توسيع شراكتهما المعلنة في 20 يناير 2026، والتي جعلت نماذج OpenAI خياراً مفضلاً للذكاء الاصطناعي على منصة ServiceNow للمؤسسات.\n\nأطلقت ServiceNow إضافة (plugin) متاحة الآن في متجر OpenAI، تتيح للموظفين تنفيذ مهام سير عمل ServiceNow مباشرة من داخل ChatGPT مع الحفاظ على صلاحيات الحوكمة الخاصة بـServiceNow. كما تخطط الشركتان لدمج أعمق مع Codex ضمن ما تسميه ServiceNow \"مصنع سير العمل بالذكاء الاصطناعي\"، إلى جانب ميزات صوتية وأمنية موسّعة.\n\nتشمل الخطة أيضاً منح موظفي OpenAI وServiceNow وصولاً داخلياً إلى ChatGPT Work وCodex. لم تُكشف شروط مالية للاتفاقية، التي تغطي استخدامات تمتد من التواصل بلغة طبيعية مع الموظفين إلى تلخيص الحوادث وتوليد المحتوى وتسريع بناء سير العمل."
+      },
+      "en": {
+        "title": "OpenAI and ServiceNow expand partnership across enterprise workflows",
+        "summary": "OpenAI and ServiceNow expanded their January 2026 partnership, launching a ChatGPT plugin to run ServiceNow workflows from inside ChatGPT, plus plans for deeper Codex integration and internal access for both companies' staff.",
+        "details": "OpenAI and ServiceNow announced on October 28 an expansion of the multi-year partnership they first announced on January 20, 2026, which made OpenAI a preferred intelligence option on ServiceNow's enterprise platform.\n\nServiceNow launched a plugin, now available in the OpenAI marketplace, that lets employees run ServiceNow workflow tasks directly from inside ChatGPT while keeping ServiceNow's own governance and permissions. The companies also plan deeper integration with Codex inside what ServiceNow calls its AI Workflow Factory, along with expanded voice and security features.\n\nThe expansion also gives OpenAI and ServiceNow employees internal access to ChatGPT Work and Codex. Financial terms were not disclosed. Planned use cases span natural-language assistance for employees, incident and case summarization, content generation, and tools that speed up building new workflows."
+      }
+    },
+    {
+      "id": "anthropic-ai-for-science-expands-institutions",
+      "date": "2026-10-28",
+      "type": "business",
+      "importance": 2,
+      "sourceType": "official",
+      "sourceName": "Anthropic",
+      "url": "https://www.anthropic.com/news/ai-for-science-expands-foundations-research-institutions",
+      "originalTitle": "AI for Science expands to foundations and research institutions",
+      "company": "Anthropic",
+      "ar": {
+        "title": "Anthropic توسّع برنامج AI for Science ليشمل 20 مؤسسة ومؤسسة بحثية",
+        "summary": "وسّعت Anthropic برنامج أرصدة Claude المجانية للبحث العلمي الذي انطلق في مايو 2025، معلنةً شراكات مع 20 جهة بحثية وممولة حول العالم في الفيزياء والأحياء والرياضيات وعلوم المناخ.",
+        "details": "أعلنت Anthropic في 28 أكتوبر توسيع برنامجها AI for Science، الذي يقدّم أرصدة Claude المجانية لمشاريع بحثية عالية الأثر منذ انطلاقه في مايو 2025، وقالت إنها دعمت مئات المشاريع في الأحياء والطب والفيزياء والكيمياء وعلوم المناخ والرياضيات.\n\nأبرزت الشركة شراكات مع 20 جهة: ممولون وجمعيات علمية توزّع الأرصدة على باحثين (مثل Alfred P. Sloan Foundation و Simons Foundation و Schmidt Sciences و المؤسسة الوطنية الأمريكية للعلوم)، ومؤسسات تستخدم الأرصدة داخلياً (مثل معهد Wellcome Sanger و Francis Crick Institute و EMBL)، ومشاريع بحثية تتلقى الأرصدة مباشرة (مثل FlyWire في جامعة برينستون و قاعدة بيانات gnomAD في معهد Broad).\n\nكما ذكرت تعاوناً سابقاً مع HHMI Janelia لتطوير معيار مشترك (Model Hardware Standard) لتشغيل أجهزة المختبرات بأمان بواسطة وكلاء الذكاء الاصطناعي، وتعاوناً مع Allen Institute لتحليل مجموعات بياناته الضخمة. قالت Anthropic إن معظم هذه الشراكات في مراحلها الأولى، وتخطط للإعلان عن نتائجها والتوسع لمزيد من الشركاء حول العالم."
+      },
+      "en": {
+        "title": "Anthropic expands AI for Science program to 20 foundations and institutions",
+        "summary": "Anthropic widened its free Claude-credit program for high-impact research, launched in May 2025, announcing partnerships with 20 science funders, institutions and research projects worldwide spanning physics, biology, math and climate science.",
+        "details": "Anthropic announced on October 28 an expansion of its AI for Science program, which has offered free Claude credits to high-impact research projects since launching in May 2025. The company says it has supported hundreds of projects across biology, medicine, physics, chemistry, climate science and mathematics.\n\nIt highlighted 20 partners in three groups: science funders and societies that distribute credits to researchers (including the Alfred P. Sloan Foundation, Simons Foundation, Schmidt Sciences and the US National Science Foundation); institutions using credits internally (including the Wellcome Sanger Institute, Francis Crick Institute and EMBL); and research projects receiving credits directly (including Princeton's FlyWire connectomics project and the Broad Institute's gnomAD genetic-variation database).\n\nAnthropic also cited earlier collaborations: with HHMI Janelia Research Campus on the Model Hardware Standard, a shared specification for AI agents to safely operate lab instruments, and with the Allen Institute on using AI agents to analyze its large open datasets. Anthropic said most collaborations are in early stages, and it plans to share their impact and expand to more partners worldwide."
+      }
+    }
+  ],
+  "upcoming": [],
+  "removeUpcoming": [],
+  "removeNews": []
+}
