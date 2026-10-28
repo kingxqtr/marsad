@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": "2026-10-28T17:12:24+00:00",
+ "updatedAt": "2026-10-28T18:11:02+00:00",
  "coverage": {
   "from": "2026-07-28",
   "to": "2026-10-28"
@@ -1916,6 +1916,28 @@
       "details": "GitHub announced that Copilot Fusion, a system that automatically selects and orchestrates which AI models handle each step of a coding task rather than requiring the developer to pick one model, is now generally available. Developers just choose an effort level (Standard or High), and Fusion decides which models to use and how.\n\nGitHub says its Fusion Max configuration scored close to Claude Opus 5.5 Max on the Artificial Analysis Coding Agent Index, while using roughly half the cost, tokens and time per task.\n\nIn a related experimental preview, Copilot Fusion can also route some requests to on-device local models in the Copilot CLI, GitHub Copilot app and VS Code, letting developers use their own hardware instead of the cloud for supported tasks."
      },
      "addedAt": "2026-10-28T16:17:07+00:00"
+    },
+    {
+     "id": "nvidia-rtx-spark-laptops-lfm3",
+     "date": "2026-10-28",
+     "type": "hardware",
+     "importance": 1,
+     "sourceType": "official",
+     "sourceName": "NVIDIA Blog",
+     "url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-laptops-updates-models-agents-games/",
+     "originalTitle": "Thin, Light and Built for Everything: NVIDIA RTX Spark Windows Laptops Gain New Models, Agent Tools and Games",
+     "company": "NVIDIA",
+     "ar": {
+      "title": "NVIDIA تطرح حواسيب RTX Spark المحمولة مع دعم فوري لنماذج LFM3",
+      "summary": "أصبحت حواسيب RTX Spark المحمولة متاحة من ASUS وDell وHP وLenovo ومايكروسوفت وMSI بسعر يبدأ من 2599 دولاراً، مع دعم فوري لعائلة نماذج LFM3 المفتوحة وضبط جديد لتقاسم المعالج الرسومي بين التطبيقات والوكلاء.",
+      "details": "أعلنت NVIDIA في 28 أكتوبر أن حواسيبها المحمولة RTX Spark، التي تجمع معالج رسوميات Blackwell ومعالج Grace في شريحة واحدة بذاكرة موحدة تصل إلى 128 غيغابايت وأداء يصل إلى بيتافلوب واحد بدقة FP4، أصبحت متاحة من ASUS وDell وHP ومايكروسوفت وLenovo وMSI بسعر يبدأ من 2599 دولاراً، مع توفر نسخ 128 غيغابايت في المتاجر.\n\nتضيف الحواسيب دعماً فورياً لعائلة نماذج LFM3 المفتوحة من Liquid AI عبر llama.cpp وvLLM، وتحصل قريباً على نسخ مُكمّمة من نموذج الصوت Nemotron 3.5 Transcribe الذي طرحته NVIDIA في نفس اليوم. كما أضافت NVIDIA ضبطاً جديداً في تطبيق NVIDIA App لتخصيص موارد المعالج الرسومي بين التطبيقات الأمامية والوكلاء العاملين في الخلفية.\n\nعلى صعيد الألعاب، أُطلقت لعبة Phantom Blade Zero في نفس اليوم بدعم تتبع الأشعة وDLSS 4.5، وأضاف تحديث RTX Remix 1.6 تتبعاً للمسار بتقنية DLSS لنسخة Minecraft Java Edition 1.21.1."
+     },
+     "en": {
+      "title": "NVIDIA RTX Spark laptops ship with day-zero support for LFM3 models",
+      "summary": "RTX Spark laptops from ASUS, Dell, HP, Lenovo, Microsoft and MSI are now available starting at $2,599, with day-zero support for Liquid AI's open LFM3 model family and new GPU-sharing controls for background agents.",
+      "details": "NVIDIA announced on October 28 that its RTX Spark laptops, which combine a Blackwell RTX GPU and a Grace CPU in one chip with up to 128GB of unified memory and up to 1 petaflop of FP4 performance, are now available from ASUS, Dell, HP, Lenovo, Microsoft and MSI starting at $2,599, with 128GB configurations on shelves.\n\nThe laptops add day-zero support for Liquid AI's open LFM3 model family via llama.cpp and vLLM, and will soon get quantized versions of NVIDIA's Nemotron 3.5 Transcribe speech model, released the same day. NVIDIA also added a new NVIDIA App control letting users split GPU resources between foreground apps and background agents.\n\nOn the gaming side, S-GAME's Phantom Blade Zero launched the same day with ray tracing and DLSS 4.5, and the RTX Remix 1.6 update added DLSS-based path tracing for Minecraft Java Edition 1.21.1."
+     },
+     "addedAt": "2026-10-28T18:11:02+00:00"
     },
     {
      "id": "meta-university-research-partnerships-oct2026",

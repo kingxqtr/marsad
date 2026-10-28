@@ -234,6 +234,27 @@
         "summary": "Meta is giving $2 million and model access to Caltech, Ohio State, LSU, Indiana University and UTHealth Houston for research spanning medicine, physics and more.",
         "details": "Meta announced on October 28 a $2 million research-funding partnership with five US universities — Caltech, Ohio State University College of Medicine, Louisiana State University, Indiana University and UTHealth Houston — giving researchers access to its AI models for work in medicine, physics, chemistry, biology, computer science and mathematics.\n\n- At LSU, Dr. Michael Dunham is building a computer-vision system to detect dislodged tracheostomy tubes in infants who cannot cry out for help.\n- At Indiana University, Dr. David Crandall is researching multimodal AI, including social robots, to better communicate with people with dementia.\n- At Ohio State, a team led by Drs. Yuan Xue, Yuchi Han and Xia Ning is building models that predict heart-failure risk from routine CT scans and medical records."
       }
+    },
+    {
+      "id": "nvidia-rtx-spark-laptops-lfm3",
+      "date": "2026-10-28",
+      "type": "hardware",
+      "importance": 1,
+      "sourceType": "official",
+      "sourceName": "NVIDIA Blog",
+      "url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-laptops-updates-models-agents-games/",
+      "originalTitle": "Thin, Light and Built for Everything: NVIDIA RTX Spark Windows Laptops Gain New Models, Agent Tools and Games",
+      "company": "NVIDIA",
+      "ar": {
+        "title": "NVIDIA تطرح حواسيب RTX Spark المحمولة مع دعم فوري لنماذج LFM3",
+        "summary": "أصبحت حواسيب RTX Spark المحمولة متاحة من ASUS وDell وHP وLenovo ومايكروسوفت وMSI بسعر يبدأ من 2599 دولاراً، مع دعم فوري لعائلة نماذج LFM3 المفتوحة وضبط جديد لتقاسم المعالج الرسومي بين التطبيقات والوكلاء.",
+        "details": "أعلنت NVIDIA في 28 أكتوبر أن حواسيبها المحمولة RTX Spark، التي تجمع معالج رسوميات Blackwell ومعالج Grace في شريحة واحدة بذاكرة موحدة تصل إلى 128 غيغابايت وأداء يصل إلى بيتافلوب واحد بدقة FP4، أصبحت متاحة من ASUS وDell وHP ومايكروسوفت وLenovo وMSI بسعر يبدأ من 2599 دولاراً، مع توفر نسخ 128 غيغابايت في المتاجر.\n\nتضيف الحواسيب دعماً فورياً لعائلة نماذج LFM3 المفتوحة من Liquid AI عبر llama.cpp وvLLM، وتحصل قريباً على نسخ مُكمّمة من نموذج الصوت Nemotron 3.5 Transcribe الذي طرحته NVIDIA في نفس اليوم. كما أضافت NVIDIA ضبطاً جديداً في تطبيق NVIDIA App لتخصيص موارد المعالج الرسومي بين التطبيقات الأمامية والوكلاء العاملين في الخلفية.\n\nعلى صعيد الألعاب، أُطلقت لعبة Phantom Blade Zero في نفس اليوم بدعم تتبع الأشعة وDLSS 4.5، وأضاف تحديث RTX Remix 1.6 تتبعاً للمسار بتقنية DLSS لنسخة Minecraft Java Edition 1.21.1."
+      },
+      "en": {
+        "title": "NVIDIA RTX Spark laptops ship with day-zero support for LFM3 models",
+        "summary": "RTX Spark laptops from ASUS, Dell, HP, Lenovo, Microsoft and MSI are now available starting at $2,599, with day-zero support for Liquid AI's open LFM3 model family and new GPU-sharing controls for background agents.",
+        "details": "NVIDIA announced on October 28 that its RTX Spark laptops, which combine a Blackwell RTX GPU and a Grace CPU in one chip with up to 128GB of unified memory and up to 1 petaflop of FP4 performance, are now available from ASUS, Dell, HP, Lenovo, Microsoft and MSI starting at $2,599, with 128GB configurations on shelves.\n\nThe laptops add day-zero support for Liquid AI's open LFM3 model family via llama.cpp and vLLM, and will soon get quantized versions of NVIDIA's Nemotron 3.5 Transcribe speech model, released the same day. NVIDIA also added a new NVIDIA App control letting users split GPU resources between foreground apps and background agents.\n\nOn the gaming side, S-GAME's Phantom Blade Zero launched the same day with ray tracing and DLSS 4.5, and the RTX Remix 1.6 update added DLSS-based path tracing for Minecraft Java Edition 1.21.1."
+      }
     }
   ],
   "upcoming": [],
