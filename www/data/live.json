@@ -1,4 +1,25 @@
 {
- "updatedAt": "2026-10-28T08:57:17+00:00",
- "items": []
+ "updatedAt": "2026-10-28T15:45:18+00:00",
+ "items": [
+  {
+   "id": "auto-6fe86b37a674",
+   "tab": "ai",
+   "date": "2026-10-28",
+   "publishedAt": "2026-10-28T15:00:46+00:00",
+   "type": "model",
+   "importance": 1,
+   "sourceType": "official",
+   "sourceName": "NVIDIA Blog",
+   "url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-laptops-updates-models-agents-games/",
+   "originalTitle": "Thin, Light and Built for Everything: NVIDIA RTX Spark Windows Laptops Gain New Models, Agent Tools and Games",
+   "en": {
+    "title": "Thin, Light and Built for Everything: NVIDIA RTX Spark Windows Laptops Gain New Models, Agent Tools and Games",
+    "summary": "NVIDIA RTX Spark powers thin and light laptops built for everything that developers, creators and gamers do. RTX Spark laptops are now available from ASUS, Dell, HP, Lenovo, Microsoft and MSI.",
+    "details": "NVIDIA RTX Spark powers thin and light laptops built for everything that developers, creators and gamers do.\n\nRTX Spark laptops are now available from ASUS, Dell, HP, Lenovo, Microsoft and MSI. These powerful systems combine an NVIDIA Blackwell RTX GPU and an NVIDIA Grace CPU in a single superchip with up to 128GB of unified memory and up to 1 petaflop of FP4 AI performance. That puts the NVIDIA CUDA platform, RTX graphics and the capabilities of a personal AI supercomputer inside premium Windows laptops built to go anywhere.\n\nNew and expected RTX Spark updates, coming soon, include:\n\n- NVIDIA Nemotron 3.5 Transcribe, an open weight speech model for transcription, speaker attribution and translation is available on RTX Spark.\n\n- The LFM3 family of open models with day-zero support.\n\n- Resource management controls in NVIDIA App to allocate GPU resources between foreground apps and background agents.\n\n- Phantom Blade Zero , S-GAME’s highly-anticipated action role-playing game, launches with ray tracing and NVIDIA DLSS 4.5.\n\n- Experience Minecraft with path tracing and DLSS with RTX Remix1.6, available now for RTX Spark.\n\nTurn Recorded Audio Into Useful Information With NVIDIA Nemotron 3.5 Transcribe …"
+   },
+   "translated": false,
+   "fetchedAt": "2026-10-28T15:45:13+00:00",
+   "company": "NVIDIA"
+  }
+ ]
 }
