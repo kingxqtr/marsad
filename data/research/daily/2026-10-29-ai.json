@@ -43,6 +43,69 @@
         "summary": "Anthropic widened its free Claude-credit program for high-impact research, launched in May 2025, announcing partnerships with 20 science funders, institutions and research projects worldwide spanning physics, biology, math and climate science.",
         "details": "Anthropic announced on October 28 an expansion of its AI for Science program, which has offered free Claude credits to high-impact research projects since launching in May 2025. The company says it has supported hundreds of projects across biology, medicine, physics, chemistry, climate science and mathematics.\n\nIt highlighted 20 partners in three groups: science funders and societies that distribute credits to researchers (including the Alfred P. Sloan Foundation, Simons Foundation, Schmidt Sciences and the US National Science Foundation); institutions using credits internally (including the Wellcome Sanger Institute, Francis Crick Institute and EMBL); and research projects receiving credits directly (including Princeton's FlyWire connectomics project and the Broad Institute's gnomAD genetic-variation database).\n\nAnthropic also cited earlier collaborations: with HHMI Janelia Research Campus on the Model Hardware Standard, a shared specification for AI agents to safely operate lab instruments, and with the Allen Institute on using AI agents to analyze its large open datasets. Anthropic said most collaborations are in early stages, and it plans to share their impact and expand to more partners worldwide."
       }
+    },
+    {
+      "id": "github-copilot-image-generation-oct2026",
+      "date": "2026-10-28",
+      "type": "coding",
+      "importance": 2,
+      "sourceType": "official",
+      "sourceName": "GitHub Changelog",
+      "url": "https://github.blog/changelog/2026-10-28-generate-and-edit-images-directly-in-copilot",
+      "originalTitle": "Generate and edit images directly in Copilot",
+      "company": "GitHub",
+      "ar": {
+        "title": "GitHub Copilot يضيف توليد وتحرير الصور بالذكاء الاصطناعي",
+        "summary": "أصبح بإمكان GitHub Copilot توليد وتحرير الصور من أوصاف نصية باستخدام GPT Image 2.5 Flare، مع معاينة فورية وحفظ النتيجة مباشرة في المشروع.",
+        "details": "أضافت GitHub في 28 أكتوبر ميزة توليد وتحرير الصور إلى محادثة Copilot. عند وصف صورة بلغة طبيعية، يستدعي النموذج المختار أداة توليد صور مخصّصة تعمل بـGPT Image 2.5 Flare، تعرض النتيجة مباشرة داخل المحادثة وتحفظها في مساحة العمل.\n\nتعمل الميزة من أي جلسة محادثة Copilot في VS Code أو تطبيق GitHub Copilot أو Copilot CLI، دون الحاجة للتبديل إلى أداة صور منفصلة. يمكن لمسؤولي المؤسسات تعطيلها عبر سياسات نماذج Copilot، ويمكن للمستخدمين تفعيل علامة مائية اختيارية بعنوان \"Made with AI\"، وهي معطّلة بشكل افتراضي.\n\nالميزة متاحة الآن في معاينة عامة لخطط Copilot Pro وPro+ وBusiness وEnterprise، وتُحتسب تكلفتها بشكل منفصل عن نموذج المحادثة بحسب عدد رموز الصور ضمن حصة الذكاء الاصطناعي للخطة."
+      },
+      "en": {
+        "title": "GitHub Copilot can now generate and edit images with GPT Image 2.5 Flare",
+        "summary": "GitHub Copilot can generate and edit images from natural-language prompts, powered by GPT Image 2.5 Flare, with results previewed inline and saved to the project.",
+        "details": "GitHub added image generation and editing to Copilot chat on October 28. Describing an image in natural language triggers the selected reasoning model to call a dedicated image tool powered by GPT Image 2.5 Flare, which previews the result inline and saves it to the workspace.\n\nThe feature works from any Copilot chat session in VS Code, the GitHub Copilot app or Copilot CLI, removing the need to switch to a separate image tool mid-task. Organization and enterprise owners can disable it via Copilot model policies, and users can opt into a visible \"Made with AI\" watermark, which is off by default.\n\nImage generation is in public preview for Copilot Pro, Pro+, Business and Enterprise plans, billed separately from the chat model based on image tokens that count toward a plan's AI credits."
+      }
+    },
+    {
+      "id": "github-copilot-shared-automations-oct2026",
+      "date": "2026-10-28",
+      "type": "coding",
+      "importance": 2,
+      "sourceType": "official",
+      "sourceName": "GitHub Changelog",
+      "url": "https://github.blog/changelog/2026-10-28-build-shared-workflows-for-your-team-with-copilot-automations",
+      "originalTitle": "Build shared workflows for your team with Copilot Automations",
+      "company": "GitHub",
+      "ar": {
+        "title": "GitHub يطرح أتمتة Copilot المشتركة للفرق",
+        "summary": "بدأت GitHub بطرح Copilot Automations المشتركة، التي تتيح للفرق بناء سير عمل بالذكاء الاصطناعي وصيانته معًا، مع احتساب التكلفة على مالك المستودع ونسب الإجراءات إلى Copilot.",
+        "details": "بدأت GitHub في 28 أكتوبر طرح Copilot Automations المشتركة، التي تتيح للفرق دمج الأوامر والمحفّزات والأدوات في سير عمل يُنفَّذ تلقائيًا في السحابة باستخدام الأدوات المسموح بها فقط، مثل إعادة إنتاج خلل برمجي عند فتح مشكلة جديدة، أو التحقيق في عطل في الإنتاج فور رصده من أداة المراقبة.\n\nسابقًا كانت أتمتة Copilot شخصية: يراها ويحررها منشئها فقط، وتعمل بهويته وحصته من الذكاء الاصطناعي. أما الأتمتة المشتركة فتكون مرئية لكل من يملك صلاحية القراءة على المستودع، وقابلة للتحرير من يملك صلاحية الكتابة، وتُحتسب تكلفتها على مالك المستودع أو المؤسسة بدلاً من منشئها، وتُنسب الإجراءات على GitHub إلى Copilot بدلاً من فرد معيّن."
+      },
+      "en": {
+        "title": "GitHub launches shared Copilot Automations for teams",
+        "summary": "GitHub is rolling out shared Copilot Automations, letting teams build and maintain AI workflows together with shared visibility, billing to the repository owner and actions attributed to Copilot.",
+        "details": "GitHub began rolling out shared Copilot Automations on October 28, letting teams combine prompts, triggers and tools into workflows that run autonomously in the cloud using only the tools they allow, such as reproducing a bug when an issue opens or investigating a production incident as soon as monitoring detects it.\n\nPreviously, Copilot Automations were personal: only their creator could see or edit them, and they ran on that person's identity and AI credits. Shared automations are visible to everyone with read access to the repository, editable by anyone with write access, billed to the repository or organization owner rather than the creator, and their actions on GitHub are attributed to Copilot rather than to an individual."
+      }
+    },
+    {
+      "id": "github-intelligence-memory-oct2026",
+      "date": "2026-10-28",
+      "type": "coding",
+      "importance": 2,
+      "sourceType": "official",
+      "sourceName": "GitHub Changelog",
+      "url": "https://github.blog/changelog/2026-10-28-github-intelligence-puts-your-code-context-and-history-to-work",
+      "originalTitle": "GitHub intelligence puts your code, context, and history to work",
+      "company": "GitHub",
+      "ar": {
+        "title": "GitHub intelligence يمنح وكلاء Copilot ذاكرة لأعمالهم السابقة",
+        "summary": "كشفت GitHub عن GitHub intelligence، طبقة سياق ومعرفة تتيح لوكلاء Copilot تذكّر الجلسات السابقة، وتحديث هذا السياق باستمرار، والبحث في الشيفرة خارج حدود المستودع المحلي.",
+        "details": "أعلنت GitHub في 28 أكتوبر عن GitHub intelligence، طبقة سياق ومعرفة مبنية من بيانات GitHub بهدف مساعدة وكلاء Copilot على فهم ليس فقط الشيفرة البرمجية، بل أيضًا طريقة عمل الفريق، بما يشمل التفضيلات واتفاقيات المستودع والتعليمات المخصّصة.\n\nتتكوّن الميزة من ثلاث قدرات: الذاكرة (Memory) التي تنقل المعرفة بين الجلسات بحيث يبني الوكيل على عمل سابق بدل البدء من الصفر كل مرة؛ وآلية تسمّيها GitHub \"Dreaming\" للحفاظ على هذا السياق المحفوظ محدَّثًا؛ والبحث في الشيفرة الذي يمتد إلى مستودعات ذات صلة خارج نسخة المطوّر المحلية. تختلف طرق التوفر والإعدادات بحسب كل قدرة."
+      },
+      "en": {
+        "title": "GitHub intelligence gives Copilot agents memory of past work",
+        "summary": "GitHub introduced \"GitHub intelligence,\" a context layer that lets Copilot agents remember prior sessions, keep that context current and search code beyond the local checkout.",
+        "details": "GitHub announced GitHub intelligence on October 28, a context and learning layer built from the graph of GitHub data that aims to help Copilot agents understand not just a codebase but how a team works, including preferences, repository conventions and custom instructions.\n\nThree capabilities make up the feature: memory, which carries knowledge between sessions so agents build on earlier work instead of starting fresh each time; a mechanism GitHub calls \"dreaming,\" which keeps that stored context up to date; and code search that can reach beyond a developer's own checkout into related repositories. Availability and settings vary by capability."
+      }
     }
   ],
   "upcoming": [],
