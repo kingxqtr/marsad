@@ -255,6 +255,47 @@
         "summary": "RTX Spark laptops from ASUS, Dell, HP, Lenovo, Microsoft and MSI are now available starting at $2,599, with day-zero support for Liquid AI's open LFM3 model family and new GPU-sharing controls for background agents.",
         "details": "NVIDIA announced on October 28 that its RTX Spark laptops, which combine a Blackwell RTX GPU and a Grace CPU in one chip with up to 128GB of unified memory and up to 1 petaflop of FP4 performance, are now available from ASUS, Dell, HP, Lenovo, Microsoft and MSI starting at $2,599, with 128GB configurations on shelves.\n\nThe laptops add day-zero support for Liquid AI's open LFM3 model family via llama.cpp and vLLM, and will soon get quantized versions of NVIDIA's Nemotron 3.5 Transcribe speech model, released the same day. NVIDIA also added a new NVIDIA App control letting users split GPU resources between foreground apps and background agents.\n\nOn the gaming side, S-GAME's Phantom Blade Zero launched the same day with ray tracing and DLSS 4.5, and the RTX Remix 1.6 update added DLSS-based path tracing for Minecraft Java Edition 1.21.1."
       }
+    },
+    {
+      "id": "artificial-analysis-intelligence-index-v5",
+      "date": "2026-10-27",
+      "type": "model",
+      "importance": 2,
+      "sourceType": "official",
+      "sourceName": "Artificial Analysis",
+      "url": "https://artificialanalysis.ai/articles/artificial-analysis-intelligence-index-v5",
+      "originalTitle": "Announcing Artificial Analysis Intelligence Index v5",
+      "ar": {
+        "title": "فهرس Artificial Analysis Intelligence Index v5 يوسّع الفارق مع النماذج المفتوحة",
+        "summary": "حدّثت Artificial Analysis مجموعة اختباراتها لتعتمد أكثر على اختبارات خاصة؛ يتصدر Claude Opus 5.5 الترتيب العام بينما يتأخر أفضل نموذج مفتوح الوزن بـ12 نقطة، مقارنة بـ3 نقاط في النسخة السابقة.",
+        "details": "نشرت Artificial Analysis في 27 أكتوبر النسخة v5 من فهرس Intelligence Index، بعد إعادة توزيع أوزان حزمة اختباراتها بحيث يعتمد نحو 60% منها الآن على اختبارات خاصة أو أسئلة محجوبة. أضافت النسخة الجديدة اختبارَي FrontierCode 2.0 وTerminal-Bench-Science، واستبدلت HLE-Diamond وجزءاً خاصاً من CritPt v2، وأسقطت GDPval-AA v2.1 وSciCode وAA-LCR v1.1؛ وتتوزع الأوزان بالتساوي بنسبة 25% بين مهام العمل المعرفي والترميز والعلوم والمهام العامة.\n\nتصدّر Claude Opus 5.5 (max) الترتيب العام بـ58 نقطة، يليه GPT-6 Astra (57) وGPT-6.1 Sol (55)، واحتلت Anthropic وOpenAI المراكز الخمسة الأولى. وبين النماذج المفتوحة الوزن، تصدّر Kimi K3.1 Pro بـ46 نقطة رغم أن Moonshot لم تطرح أوزانه بعد؛ وبين النماذج التي أُطلقت أوزانها فعلاً، تصدّر DeepSeek V4.1 Flash وGLM-5.3 بـ32 نقطة، وكلاهما خلف Claude Haiku 5.5 الأصغر (36).\n\nوقالت Artificial Analysis إن الفارق بين أفضل نموذج مفتوح الوزن وأفضل نموذج مغلق توسّع إلى 12 نقطة في v5، مقارنة بـ3 نقاط في النسخة السابقة، مشيرة إلى أن أكبر الفوارق ظهرت في اختبارَي HLE-Diamond وTerminal-Bench-Science."
+      },
+      "en": {
+        "title": "Artificial Analysis Intelligence Index v5 widens the open-weight gap",
+        "summary": "Artificial Analysis's updated benchmark suite now relies more on private tests; Claude Opus 5.5 leads overall while the top open-weight model trails by 12 points, up from 3 in the prior version.",
+        "details": "Artificial Analysis published Intelligence Index v5 on October 27, reweighting its benchmark suite so about 60% of it now draws on private or held-out test sets. The update adds FrontierCode 2.0 and Terminal-Bench-Science, swaps in HLE-Diamond and a private CritPt v2 subset, and drops GDPval-AA v2.1, SciCode and AA-LCR v1.1; knowledge work, coding, science and general tasks are each weighted 25%.\n\nClaude Opus 5.5 (max) tops the overall ranking at 58 points, ahead of GPT-6 Astra (57) and GPT-6.1 Sol (55); Anthropic and OpenAI hold the top five places. Among open-weight models, Kimi K3.1 Pro leads at 46, though Moonshot has not yet released its weights; among models with released weights, DeepSeek V4.1 Flash and GLM-5.3 lead at 32, both behind Anthropic's smaller Claude Haiku 5.5 (36).\n\nArtificial Analysis said the gap between the top open-weight and closed models widened to 12 points in v5, from 3 points in the prior version, calling out HLE-Diamond and Terminal-Bench-Science as the widest gaps."
+      }
+    },
+    {
+      "id": "github-copilot-vscode-universe-session-continuity",
+      "date": "2026-10-28",
+      "type": "coding",
+      "importance": 2,
+      "sourceType": "official",
+      "sourceName": "GitHub Changelog",
+      "url": "https://github.blog/changelog/2026-10-28-github-copilot-in-vs-code-universe-releases",
+      "originalTitle": "GitHub Copilot in VS Code, Universe releases",
+      "company": "GitHub",
+      "ar": {
+        "title": "GitHub يضيف استمرارية الجلسات و\"مضيف وكلاء\" لـ Copilot في VS Code",
+        "summary": "تحديث Universe لـ GitHub Copilot في VS Code يتيح نقل جلسات الوكيل السحابية بين VS Code وتطبيق Copilot وGitHub Mobile وgithub.com، ويضيف \"مضيف وكلاء\" يبقي الجلسات تعمل بعد إغلاق المشروع.",
+        "details": "أعلنت GitHub في 28 أكتوبر، ضمن تحديثات مؤتمر Universe 2026، أن جلسة الوكيل السحابية التي تبدأ من نافذة Agents في VS Code يمكن متابعتها لاحقاً في VS Code نفسه أو تطبيق GitHub Copilot أو GitHub Mobile أو github.com أو Copilot CLI؛ كما يمكن متابعة الجلسات التي تبدأ من محادثة خاصة في Slack أو Microsoft Teams في هذه الأدوات نفسها، لأن العمل يجري على بنية GitHub لا على حاسوب المطوّر.\n\nأضافت GitHub مكوّناً جديداً باسم Agent Host يعزل جلسات Copilot عن نوافذ VS Code المنفردة، فيستمر الوكيل في العمل بعد إغلاق مجلد المشروع أو النافذة، ويمكن تشغيله على جهاز آخر عبر Remote SSH أو dev tunnels والتحكم به من GitHub Mobile.\n\n- أصبح هيكل Copilot المشترك، المبني على Microsoft Copilot SDK، هو الافتراضي للجلسات الجديدة.\n- معاينة جديدة تتيح تشغيل عدة نماذج أو هياكل بالتوازي ومقارنة نتائجها.\n- وضع تجريبي لـ\"استخدام الحاسوب\" يتيح لـCopilot قراءة تطبيقات سطح المكتب والتفاعل معها بموافقة لكل تطبيق.\n- معاينات جديدة لسوق تخصيص وموصلات تسهّل إيجاد المهارات وخوادم MCP والإضافات، والربط بخدمات مثل Slack وNotion دون تثبيت خادم MCP."
+      },
+      "en": {
+        "title": "VS Code Copilot sessions gain continuity across devices and an Agent Host",
+        "summary": "GitHub's Universe update for VS Code lets cloud agent sessions move between VS Code, the Copilot app, GitHub Mobile and github.com, and adds an Agent Host that keeps sessions running after a project is closed.",
+        "details": "GitHub announced on October 28, as part of its Universe 2026 updates, that a cloud agent session started from VS Code's Agents window can now be picked up later in VS Code itself, the GitHub Copilot app, GitHub Mobile, github.com or Copilot CLI; sessions started from a Slack or Microsoft Teams DM can also be continued in these same clients, since the work runs on GitHub's infrastructure rather than the developer's laptop.\n\nA new Agent Host component isolates Copilot sessions from individual VS Code windows, so an agent keeps working after its project folder or window is closed; it can also run on a separate machine over Remote SSH or dev tunnels and be controlled from GitHub Mobile.\n\n- A shared Copilot harness, built on the Microsoft Copilot SDK, is now the default for new sessions.\n- A new preview lets developers run several models or harnesses in parallel and compare results.\n- An experimental \"computer use\" mode lets Copilot read and interact with desktop apps with per-app approval.\n- New marketplace and connector previews make it easier to find skills, MCP servers and plugins, and to link services like Slack or Notion without installing an MCP server."
+      }
     }
   ],
   "upcoming": [],
