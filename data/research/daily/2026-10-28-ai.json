@@ -170,6 +170,70 @@
         "summary": "GitHub Copilot can now show and help fix a repository's code scanning alerts inside the Copilot app itself, and can generate or edit images using natural language with GPT Image 2.5 Flare.",
         "details": "GitHub released a new security extension for the GitHub Copilot app in public preview, showing a repository's open code scanning alerts ordered by severity. Users can open an alert and ask Copilot to explain or fix it in their local working copy, with no automatic commit or push, run a security review on pending changes, and see pull requests already linked to an alert.\n\nSeparately, Copilot can now generate and edit images using natural language directly in chat. The selected model calls a dedicated image-generation tool powered by GPT Image 2.5 Flare, previews the result inline and saves it to the project. Organization owners can disable image generation through Copilot model policies; it is in public preview for Copilot Pro, Pro+, Business and Enterprise plans."
       }
+    },
+    {
+      "id": "gemini-4-carbon-release",
+      "date": "2026-10-28",
+      "type": "model",
+      "importance": 3,
+      "sourceType": "official",
+      "sourceName": "Google Blog",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/",
+      "originalTitle": "Gemini 4 Carbon: Our next frontier model",
+      "company": "Google",
+      "tool": "Gemini 4 Carbon",
+      "ar": {
+        "title": "غوغل تكشف عن Gemini 4 Carbon، نموذج متقدم يركّز على الأمن السيبراني",
+        "summary": "أطلقت غوغل Gemini 4 Carbon، ووصفته بأنه أقوى نموذج لديها في الأمن السيبراني والمهام الوكيلة طويلة الأمد، مع وصول مبكر محدود لمجموعة من خبراء الأمن قبل توسيعه لاحقاً.",
+        "details": "كشفت Google DeepMind في 28 أكتوبر عن Gemini 4 Carbon، ووصفته بأنه أقوى نموذج أطلقته الشركة حتى الآن في الأمن السيبراني والمهام الوكيلة (agentic) طويلة الأمد، ويأتي بعد أسبوعين فقط من إطلاق Gemini 4 Argon.\n\nتصدّر النموذج مؤشر Artificial Analysis Intelligence Index v5.0 بنتيجة 59 نقطة. وفي اختبارات أمن سيبراني داخلية أُجريت دون قيود حماية، اكتشف 88.2% من الثغرات في اختبار SEC-bench Pro وأصلح 71% من المشكلات في CWE-bench.\n\nكما انخفض معدل نجاح هجمات حقن التعليمات (prompt injection) إلى صفر بالمئة في اختبار Gray Swan، مقارنة بـ0.7% لنموذج Argon.\n\nقالت غوغل إن Carbon يستطيع العمل على مهام برمجية معقدة لعدة أيام متواصلة دون أن يفقد السياق، وبدأت طرحه تدريجياً لمجموعة محدودة من خبراء الأمن السيبراني عبر برنامج Fairwind قبل توسيع الوصول. يبدأ التسعير التمهيدي عند 2 دولار لكل مليون رمز إدخال و10 دولارات لكل مليون رمز إخراج، ليرتفع لاحقاً إلى 4 و20 دولاراً."
+      },
+      "en": {
+        "title": "Google unveils Gemini 4 Carbon, a cybersecurity-focused frontier model",
+        "summary": "Google released Gemini 4 Carbon, calling it its strongest model yet for cybersecurity and long-horizon agentic tasks, with early access limited to select partners.",
+        "details": "Google DeepMind introduced Gemini 4 Carbon on October 28, describing it as the company's strongest model yet for cybersecurity and long-horizon agentic work, arriving just two weeks after Gemini 4 Argon.\n\nThe model topped the Artificial Analysis Intelligence Index v5.0 with a score of 59. On internal cybersecurity benchmarks run without guardrails, it found 88.2% of vulnerabilities in SEC-bench Pro and patched 71% of issues in CWE-bench.\n\nPrompt-injection attacks succeeded 0% of the time on the Gray Swan benchmark, down from 0.7% for Argon.\n\nGoogle said Carbon can work on complex engineering tasks for days without losing context, and it is rolling the model out gradually to a small group of cyber defenders through its Fairwind Program before wider release. Introductory pricing starts at $2 per million input tokens and $10 per million output tokens, rising to $4 and $20 afterward."
+      }
+    },
+    {
+      "id": "microsoft-copilot-harness-foundry",
+      "date": "2026-10-28",
+      "type": "product",
+      "importance": 2,
+      "sourceType": "official",
+      "sourceName": "Official Microsoft Blog",
+      "url": "https://blogs.microsoft.com/blog/2026/10/28/introducing-the-microsoft-copilot-harness-unlocking-the-potential-of-truly-multi-model-agentic-work/",
+      "originalTitle": "Introducing the Microsoft Copilot harness: Unlocking the potential of truly multi-model agentic work",
+      "company": "Microsoft",
+      "ar": {
+        "title": "مايكروسوفت تفتح 'هيكل Copilot' متعدد النماذج عبر Foundry",
+        "summary": "تطرح مايكروسوفت طبقة تنسيق الوكلاء التي تشغّل GitHub Copilot وCopilot Studio للمطورين عبر Microsoft Foundry، بدعم أكثر من 20 نموذجاً متطوراً.",
+        "details": "أعلنت مايكروسوفت في 28 أكتوبر أنها تطرح 'هيكل Copilot' (Copilot harness)، طبقة التنسيق التي طوّرها فريق هندسة GitHub وتُشغّل حالياً Copilot Code وCopilot Studio وتطبيق GitHub Copilot وواجهة الأوامر وVS Code، للمطورين والشركات عبر Microsoft Foundry.\n\nيوفّر هذا الهيكل للوكلاء التعليمات والسياق والأدوات والضوابط اللازمة لإنجاز مهام طويلة ومعقدة، مع إمكانية الوصول إلى أكثر من 20 نموذجاً متطوراً ودعم استخدام مفاتيح API خاصة بالمستخدم. كما يدعم معايير مفتوحة مثل MCP ومهارات الوكلاء والإضافات، ويوجّه المهام تلقائياً إلى النموذج الأنسب.\n\nقالت مايكروسوفت إنها أعادت كتابة الطبقة التشغيلية للهيكل بلغة Rust لخفض زمن الاستجابة وتسريع ظهور أول رمز من الإجابة. يمكن للمطورين تنزيل حزمة التطوير من GitHub لتشغيلها ذاتياً، أو استخدامها كخدمة مدارة عبر Foundry، ولم تحدد مايكروسوفت تسعيراً أو تاريخاً للإطلاق العام."
+      },
+      "en": {
+        "title": "Microsoft opens its multi-model Copilot harness through Foundry",
+        "summary": "Microsoft is offering the agent orchestration layer that powers GitHub Copilot and Copilot Studio to developers through Microsoft Foundry, supporting over 20 frontier models.",
+        "details": "Microsoft announced on October 28 that it is making the \"Copilot harness\" — the orchestration layer built by GitHub's engineering team that already powers Copilot Code, Copilot Studio, the GitHub Copilot app, the CLI and VS Code — available to developers and enterprises through Microsoft Foundry.\n\nThe harness gives agents the instructions, context, tools and controls needed to complete long, complex tasks, with access to more than 20 frontier models plus support for bringing your own API key. It also supports open standards such as MCP, agent skills and plugins, and intelligently routes tasks to the right model.\n\nMicrosoft said it ported the harness's runtime to Rust to cut overhead and speed up time-to-first-token. Developers can download the SDK from GitHub to self-host, or run it as a managed service through Foundry; Microsoft did not give pricing or a general availability date."
+      }
+    },
+    {
+      "id": "meta-university-research-partnerships-oct2026",
+      "date": "2026-10-28",
+      "type": "business",
+      "importance": 1,
+      "sourceType": "official",
+      "sourceName": "Meta Newsroom",
+      "url": "https://about.fb.com/news/2026/10/meta-partners-with-five-us-universities-to-accelerate-medical-and-scientific-breakthroughs/",
+      "originalTitle": "Meta Partners With Five US Universities to Accelerate Medical and Scientific Breakthroughs",
+      "company": "Meta",
+      "ar": {
+        "title": "ميتا تمنح 2 مليون دولار لخمس جامعات أمريكية لأبحاث الذكاء الاصطناعي",
+        "summary": "تقدّم ميتا 2 مليون دولار وإمكانية الوصول لنماذجها إلى Caltech وOhio State وLSU وIndiana University وUTHealth Houston لأبحاث في الطب والفيزياء وغيرها.",
+        "details": "أعلنت ميتا في 28 أكتوبر عن شراكة بتمويل قيمته 2 مليون دولار مع خمس جامعات أمريكية - Caltech، وكلية الطب في Ohio State University، وLouisiana State University، وIndiana University، وUTHealth Houston - تمنح الباحثين فيها إمكانية الوصول إلى نماذج ميتا للعمل في الطب والفيزياء والكيمياء والأحياء وعلوم الحاسوب والرياضيات.\n\n- في LSU، يطوّر الدكتور Michael Dunham نظام رؤية حاسوبية لاكتشاف انزلاق أنابيب فتحة القصبة الهوائية عند الرضّع الذين لا يستطيعون الصراخ طلباً للمساعدة.\n- في Indiana University، يبحث الدكتور David Crandall في الذكاء الاصطناعي متعدد الوسائط، بما يشمل الروبوتات الاجتماعية، لتحسين التواصل مع مرضى الخرف.\n- في Ohio State، يعمل فريق بقيادة الدكاترة Yuan Xue وYuchi Han وXia Ning على نماذج تتنبأ بخطر فشل القلب اعتماداً على صور الأشعة المقطعية والسجلات الطبية الروتينية."
+      },
+      "en": {
+        "title": "Meta grants $2M to five US universities for AI research",
+        "summary": "Meta is giving $2 million and model access to Caltech, Ohio State, LSU, Indiana University and UTHealth Houston for research spanning medicine, physics and more.",
+        "details": "Meta announced on October 28 a $2 million research-funding partnership with five US universities — Caltech, Ohio State University College of Medicine, Louisiana State University, Indiana University and UTHealth Houston — giving researchers access to its AI models for work in medicine, physics, chemistry, biology, computer science and mathematics.\n\n- At LSU, Dr. Michael Dunham is building a computer-vision system to detect dislodged tracheostomy tubes in infants who cannot cry out for help.\n- At Indiana University, Dr. David Crandall is researching multimodal AI, including social robots, to better communicate with people with dementia.\n- At Ohio State, a team led by Drs. Yuan Xue, Yuchi Han and Xia Ning is building models that predict heart-failure risk from routine CT scans and medical records."
+      }
     }
   ],
   "upcoming": [],
