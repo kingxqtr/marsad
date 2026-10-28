@@ -1,7 +1,28 @@
 {
   "topic": "star-citizen",
   "generatedAt": "2026-10-28",
-  "news": [],
+  "news": [
+    {
+      "id": "squadron-42-usk-18-rating-germany",
+      "date": "2026-10-28",
+      "type": "community",
+      "importance": 1,
+      "sourceType": "community",
+      "sourceName": "r/starcitizen",
+      "url": "https://www.reddit.com/r/starcitizen/comments/1xhr3ea/squadron_42_has_been_rated_usk_18_in_germany_for/",
+      "originalTitle": "Squadron 42 has been rated USK 18 in Germany for \"Drastic Violence, Drugs, and Sexual Innuendo\"",
+      "ar": {
+        "title": "تقرير: Squadron 42 يحصل على تصنيف USK 18 في ألمانيا",
+        "summary": "ذكر منشور على منتدى r/starcitizen أن هيئة التصنيف الألمانية USK صنّفت Squadron 42 للبالغين فوق 18 عاماً، لاحتوائه على \"عنف شديد ومخدرات وإشارات جنسية ضمنية\" وفق المنشور.",
+        "details": "أفاد منشور نُشر في 28 أكتوبر على منتدى r/starcitizen بأن هيئة التصنيف الألمانية USK (Unterhaltungssoftware Selbstkontrolle) منحت لعبة Squadron 42، الحملة الفردية المنفصلة عن Star Citizen، تصنيف \"مناسب من عمر 18 عاماً فقط\" (USK 18)، وذلك بسبب ما وصفه المنشور بأنه \"عنف شديد ومخدرات وإشارات جنسية ضمنية\".\n\nلم تؤكد Cloud Imperium Games أو هيئة USK رسمياً هذا التصنيف علناً حتى وقت كتابة هذا الخبر، والمعلومة مصدرها تقرير من المجتمع وحده.\n\nأعلنت الشركة مؤخراً أن اللعبة أصبحت \"مكتملة الميزات\" ودخلت طور التلميع، مع فتح باب التمنيات على Steam وموقعها الرسمي قبل إطلاق مرتقب في الربع الثاني من 2027."
+      },
+      "en": {
+        "title": "Report: Squadron 42 rated USK 18 in Germany",
+        "summary": "A post on r/starcitizen says Germany's USK ratings board classified Squadron 42 for ages 18 and up, citing \"drastic violence, drugs, and sexual innuendo\" per the post.",
+        "details": "A post on r/starcitizen on October 28 said Germany's USK (Unterhaltungssoftware Selbstkontrolle) ratings board gave Squadron 42, the standalone single-player campaign spun off from Star Citizen, an \"ages 18 and up\" (USK 18) rating, citing what the post described as \"drastic violence, drugs, and sexual innuendo.\"\n\nNeither Cloud Imperium Games nor USK has publicly confirmed this rating as of this writing; the information comes solely from a community report.\n\nThe studio recently said the game had reached \"feature complete\" status and entered its polish phase, with wishlisting now open on Steam and its official site ahead of a planned Q2 2027 release."
+      }
+    }
+  ],
   "upcoming": [],
   "removeUpcoming": [],
   "removeNews": []

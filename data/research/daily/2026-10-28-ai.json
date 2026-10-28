@@ -296,6 +296,48 @@
         "summary": "GitHub's Universe update for VS Code lets cloud agent sessions move between VS Code, the Copilot app, GitHub Mobile and github.com, and adds an Agent Host that keeps sessions running after a project is closed.",
         "details": "GitHub announced on October 28, as part of its Universe 2026 updates, that a cloud agent session started from VS Code's Agents window can now be picked up later in VS Code itself, the GitHub Copilot app, GitHub Mobile, github.com or Copilot CLI; sessions started from a Slack or Microsoft Teams DM can also be continued in these same clients, since the work runs on GitHub's infrastructure rather than the developer's laptop.\n\nA new Agent Host component isolates Copilot sessions from individual VS Code windows, so an agent keeps working after its project folder or window is closed; it can also run on a separate machine over Remote SSH or dev tunnels and be controlled from GitHub Mobile.\n\n- A shared Copilot harness, built on the Microsoft Copilot SDK, is now the default for new sessions.\n- A new preview lets developers run several models or harnesses in parallel and compare results.\n- An experimental \"computer use\" mode lets Copilot read and interact with desktop apps with per-app approval.\n- New marketplace and connector previews make it easier to find skills, MCP servers and plugins, and to link services like Slack or Notion without installing an MCP server."
       }
+    },
+    {
+      "id": "qwenputer-risc-v-cpu-qwen-weights",
+      "date": "2026-10-22",
+      "type": "model",
+      "importance": 1,
+      "sourceType": "community",
+      "sourceName": "Hugging Face",
+      "url": "https://huggingface.co/divagr1925/Qwen3.5-4B-Qwenputer",
+      "originalTitle": "Qwenputer: a computer, compiled into the weights of a language model",
+      "tool": "Qwenputer",
+      "ar": {
+        "title": "مطوّر مستقل يبني وحدة معالجة RISC-V داخل أوزان نموذج Qwen",
+        "summary": "نشر مطوّر مستقل مشروع Qwenputer، نسخة من Qwen3.5-4B تحتوي أوزانها على وحدة معالجة RISC-V (RV32IM) كاملة تعمل ضمن تمريرات النموذج الأمامية دون أي تدريب إضافي أو أدوات خارجية.",
+        "details": "نشر مطوّر مستقل يُعرف باسم divagr مشروعاً تجريبياً باسم Qwenputer على مدونته الشخصية وموقع Hugging Face، يحوّل نموذج Qwen3.5-4B القياسي إلى \"حاسوب\" دون أي تدريب إضافي.\n\nيضمّن المشروع وحدة معالجة RISC-V من فئة RV32IM مُجمّعة مباشرة داخل أوزان النموذج، تستخدم طبقات Gated DeltaNet في النموذج كذاكرة عشوائية الوصول دقيقة وقابلة للعنونة، بحيث تعمل الوحدة أثناء التمريرات الأمامية للنموذج نفسه.\n\nيستطيع Qwenputer تنفيذ عمليات حسابية وتشغيل كود بلغة C وبايثون المصغّرة (MicroPython) داخلياً دون الاستعانة بأي أداة خارجية، وقد نشر المطوّر شرحاً تقنياً للمشروع إلى جانب نقطة تفتيش النموذج على Hugging Face وعرضاً تجريبياً مباشراً.\n\n- يقول المطوّر إن الفكرة قد تحمل تبعات على استدعاء الأدوات واستخدام الحاسوب من قبل نماذج اللغة.\n- المشروع تجريبي بالكامل ولم يصدر عن جهة رسمية، بل عن باحث مستقل انتشر خبره عبر منتدى r/LocalLLaMA."
+      },
+      "en": {
+        "title": "Independent developer builds a RISC-V CPU inside Qwen's model weights",
+        "summary": "A developer released Qwenputer, a version of Qwen3.5-4B whose weights contain a full RISC-V (RV32IM) CPU that runs inside the model's forward passes, with no extra training or external tools.",
+        "details": "An independent developer known as divagr published an experimental project called Qwenputer on their personal blog and Hugging Face, turning a stock Qwen3.5-4B model into a \"computer\" with no additional training.\n\nThe project compiles a 32-bit RISC-V (RV32IM) CPU directly into the model's weights, using its Gated DeltaNet layers as exact, addressable RAM, so the CPU runs inside the model's own forward passes.\n\nQwenputer can execute arithmetic and run C and MicroPython code internally without calling any external tool. The developer published a technical write-up alongside the model checkpoint on Hugging Face and a live demo.\n\n- The developer says the approach could have implications for tool-calling and computer-use in language models.\n- The project is fully experimental and comes from an independent researcher, surfaced via a post on r/LocalLLaMA, not an official company release."
+      }
+    },
+    {
+      "id": "apple-mac-studio-m5-ultra-512gb-order",
+      "date": "2026-10-28",
+      "type": "hardware",
+      "importance": 2,
+      "sourceType": "community",
+      "sourceName": "r/LocalLLaMA",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xhu3b0/mac_studio_m5_ultra_512gb_starts_at_2229900_usd/",
+      "originalTitle": "Mac Studio M5 Ultra 512gb Starts at $22,299.00 USD",
+      "company": "Apple",
+      "ar": {
+        "title": "خيار Mac Studio بشريحة M5 Ultra وذاكرة 512 غيغابايت يبدأ الآن بسعر 22,299 دولاراً",
+        "summary": "أفاد مستخدمون على r/LocalLLaMA بأن تهيئة Mac Studio بشريحة M5 Ultra وذاكرة موحدة 512 غيغابايت أصبحت متاحة للطلب من آبل بسعر يبدأ من 22,299 دولاراً، بعد أن قالت آبل في أغسطس إن هذا الخيار سيصل \"في أواخر أكتوبر\".",
+        "details": "أعلنت آبل في 25 أغسطس عن جهاز Mac Studio جديد بشريحتي M5 Max وM5 Ultra، يصل فيه M5 Ultra إلى ذاكرة موحدة تبلغ 512 غيغابايت، على أن يبدأ سعر التهيئة الأساسية (96 غيغابايت) من 5,499 دولاراً، وأن يصل خيار الذاكرة الأكبر \"في أواخر أكتوبر\" دون سعر محدد وقتها.\n\nأفاد مستخدمون على منتدى r/LocalLLaMA في 28 أكتوبر بأن هذا الخيار أصبح الآن قابلاً للطلب فعلياً عبر متجر آبل، بسعر يبدأ من 22,299 دولاراً للتهيئة الكاملة بذاكرة 512 غيغابايت، وهو رقم يهمّ مستخدمي النماذج المحلية الكبيرة بسبب سعة الذاكرة الموحدة الكبيرة التي يمكن أن تستضيف نماذج ضخمة محلياً.\n\n- لم تنشر آبل بعد سعراً رسمياً منفصلاً لهذه التهيئة على صفحاتها العامة حتى وقت كتابة هذا الخبر.\n- الخبر مصدره تقرير من مستخدمين في المجتمع، لا بيان رسمي من آبل بالسعر الدقيق."
+      },
+      "en": {
+        "title": "512GB M5 Ultra Mac Studio configuration now orderable at $22,299",
+        "summary": "Users on r/LocalLLaMA report that the 512GB-memory M5 Ultra Mac Studio configuration is now orderable from Apple starting at $22,299, after Apple said in August the option would arrive \"in late October.\"",
+        "details": "Apple announced a new Mac Studio with M5 Max and M5 Ultra chips on August 25, with the M5 Ultra scaling up to 512GB of unified memory. The base 96GB configuration starts at $5,499, and Apple said at the time that the larger memory option would arrive \"in late October\" without giving a price.\n\nUsers on r/LocalLLaMA reported on October 28 that the configuration is now actually orderable through Apple's store, starting at $22,299 for the full 512GB build — a figure of interest to people running large open-weight models locally, since the large unified-memory pool can host big models on a single machine.\n\n- Apple had not published a separate official price for this configuration on its public pages as of this writing.\n- This report comes from community users, not an official Apple price announcement."
+      }
     }
   ],
   "upcoming": [],

@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": "2026-10-28T19:13:08+00:00",
+ "updatedAt": "2026-10-28T20:16:31+00:00",
  "coverage": {
   "from": "2026-07-28",
   "to": "2026-10-28"
@@ -895,6 +895,27 @@
   },
   "star-citizen": {
    "news": [
+    {
+     "id": "squadron-42-usk-18-rating-germany",
+     "date": "2026-10-28",
+     "type": "community",
+     "importance": 1,
+     "sourceType": "community",
+     "sourceName": "r/starcitizen",
+     "url": "https://www.reddit.com/r/starcitizen/comments/1xhr3ea/squadron_42_has_been_rated_usk_18_in_germany_for/",
+     "originalTitle": "Squadron 42 has been rated USK 18 in Germany for \"Drastic Violence, Drugs, and Sexual Innuendo\"",
+     "ar": {
+      "title": "تقرير: Squadron 42 يحصل على تصنيف USK 18 في ألمانيا",
+      "summary": "ذكر منشور على منتدى r/starcitizen أن هيئة التصنيف الألمانية USK صنّفت Squadron 42 للبالغين فوق 18 عاماً، لاحتوائه على \"عنف شديد ومخدرات وإشارات جنسية ضمنية\" وفق المنشور.",
+      "details": "أفاد منشور نُشر في 28 أكتوبر على منتدى r/starcitizen بأن هيئة التصنيف الألمانية USK (Unterhaltungssoftware Selbstkontrolle) منحت لعبة Squadron 42، الحملة الفردية المنفصلة عن Star Citizen، تصنيف \"مناسب من عمر 18 عاماً فقط\" (USK 18)، وذلك بسبب ما وصفه المنشور بأنه \"عنف شديد ومخدرات وإشارات جنسية ضمنية\".\n\nلم تؤكد Cloud Imperium Games أو هيئة USK رسمياً هذا التصنيف علناً حتى وقت كتابة هذا الخبر، والمعلومة مصدرها تقرير من المجتمع وحده.\n\nأعلنت الشركة مؤخراً أن اللعبة أصبحت \"مكتملة الميزات\" ودخلت طور التلميع، مع فتح باب التمنيات على Steam وموقعها الرسمي قبل إطلاق مرتقب في الربع الثاني من 2027."
+     },
+     "en": {
+      "title": "Report: Squadron 42 rated USK 18 in Germany",
+      "summary": "A post on r/starcitizen says Germany's USK ratings board classified Squadron 42 for ages 18 and up, citing \"drastic violence, drugs, and sexual innuendo\" per the post.",
+      "details": "A post on r/starcitizen on October 28 said Germany's USK (Unterhaltungssoftware Selbstkontrolle) ratings board gave Squadron 42, the standalone single-player campaign spun off from Star Citizen, an \"ages 18 and up\" (USK 18) rating, citing what the post described as \"drastic violence, drugs, and sexual innuendo.\"\n\nNeither Cloud Imperium Games nor USK has publicly confirmed this rating as of this writing; the information comes solely from a community report.\n\nThe studio recently said the game had reached \"feature complete\" status and entered its polish phase, with wishlisting now open on Steam and its official site ahead of a planned Q2 2027 release."
+     },
+     "addedAt": "2026-10-28T20:16:31+00:00"
+    },
     {
      "id": "sc-10-from-community-tech-focus",
      "date": "2026-10-27",
@@ -1918,6 +1939,28 @@
      "addedAt": "2026-10-28T16:17:07+00:00"
     },
     {
+     "id": "apple-mac-studio-m5-ultra-512gb-order",
+     "date": "2026-10-28",
+     "type": "hardware",
+     "importance": 2,
+     "sourceType": "community",
+     "sourceName": "r/LocalLLaMA",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xhu3b0/mac_studio_m5_ultra_512gb_starts_at_2229900_usd/",
+     "originalTitle": "Mac Studio M5 Ultra 512gb Starts at $22,299.00 USD",
+     "company": "Apple",
+     "ar": {
+      "title": "خيار Mac Studio بشريحة M5 Ultra وذاكرة 512 غيغابايت يبدأ الآن بسعر 22,299 دولاراً",
+      "summary": "أفاد مستخدمون على r/LocalLLaMA بأن تهيئة Mac Studio بشريحة M5 Ultra وذاكرة موحدة 512 غيغابايت أصبحت متاحة للطلب من آبل بسعر يبدأ من 22,299 دولاراً، بعد أن قالت آبل في أغسطس إن هذا الخيار سيصل \"في أواخر أكتوبر\".",
+      "details": "أعلنت آبل في 25 أغسطس عن جهاز Mac Studio جديد بشريحتي M5 Max وM5 Ultra، يصل فيه M5 Ultra إلى ذاكرة موحدة تبلغ 512 غيغابايت، على أن يبدأ سعر التهيئة الأساسية (96 غيغابايت) من 5,499 دولاراً، وأن يصل خيار الذاكرة الأكبر \"في أواخر أكتوبر\" دون سعر محدد وقتها.\n\nأفاد مستخدمون على منتدى r/LocalLLaMA في 28 أكتوبر بأن هذا الخيار أصبح الآن قابلاً للطلب فعلياً عبر متجر آبل، بسعر يبدأ من 22,299 دولاراً للتهيئة الكاملة بذاكرة 512 غيغابايت، وهو رقم يهمّ مستخدمي النماذج المحلية الكبيرة بسبب سعة الذاكرة الموحدة الكبيرة التي يمكن أن تستضيف نماذج ضخمة محلياً.\n\n- لم تنشر آبل بعد سعراً رسمياً منفصلاً لهذه التهيئة على صفحاتها العامة حتى وقت كتابة هذا الخبر.\n- الخبر مصدره تقرير من مستخدمين في المجتمع، لا بيان رسمي من آبل بالسعر الدقيق."
+     },
+     "en": {
+      "title": "512GB M5 Ultra Mac Studio configuration now orderable at $22,299",
+      "summary": "Users on r/LocalLLaMA report that the 512GB-memory M5 Ultra Mac Studio configuration is now orderable from Apple starting at $22,299, after Apple said in August the option would arrive \"in late October.\"",
+      "details": "Apple announced a new Mac Studio with M5 Max and M5 Ultra chips on August 25, with the M5 Ultra scaling up to 512GB of unified memory. The base 96GB configuration starts at $5,499, and Apple said at the time that the larger memory option would arrive \"in late October\" without giving a price.\n\nUsers on r/LocalLLaMA reported on October 28 that the configuration is now actually orderable through Apple's store, starting at $22,299 for the full 512GB build — a figure of interest to people running large open-weight models locally, since the large unified-memory pool can host big models on a single machine.\n\n- Apple had not published a separate official price for this configuration on its public pages as of this writing.\n- This report comes from community users, not an official Apple price announcement."
+     },
+     "addedAt": "2026-10-28T20:16:31+00:00"
+    },
+    {
      "id": "github-copilot-fusion-ga",
      "date": "2026-10-28",
      "type": "coding",
@@ -2777,6 +2820,28 @@
       "details": "Nvidia announced an expansion of its Cosmos world-model platform at GTC Berlin, adding training tools, new simulation checkpoints and Cosmos Data Factory blueprints to help physical-AI systems understand and simulate the real world.\n\nCosmos Data Factory offers five cloud-native blueprints for autonomous-vehicle dataset generation, image attribute augmentation and rare-event video generation, available via GitHub, Microsoft Azure, Nebius and CoreWeave. The Cosmos Curator tool for curating video training data gained support for multimodal, multisensory inputs.\n\nNvidia also extended Cosmos framework training and optimization tools to cover additional open models including GR00T, Alpamayo, Qwen and Pi0.5, added new Cosmos 3 Nano simulation checkpoints for testing autonomous-vehicle and bimanual-robot policies, and updated Cosmos 3 NIM microservices that the company says roughly double inference speed without a quality loss."
      },
      "addedAt": "2026-10-22T08:12:32+00:00"
+    },
+    {
+     "id": "qwenputer-risc-v-cpu-qwen-weights",
+     "date": "2026-10-22",
+     "type": "model",
+     "importance": 1,
+     "sourceType": "community",
+     "sourceName": "Hugging Face",
+     "url": "https://huggingface.co/divagr1925/Qwen3.5-4B-Qwenputer",
+     "originalTitle": "Qwenputer: a computer, compiled into the weights of a language model",
+     "tool": "Qwenputer",
+     "ar": {
+      "title": "مطوّر مستقل يبني وحدة معالجة RISC-V داخل أوزان نموذج Qwen",
+      "summary": "نشر مطوّر مستقل مشروع Qwenputer، نسخة من Qwen3.5-4B تحتوي أوزانها على وحدة معالجة RISC-V (RV32IM) كاملة تعمل ضمن تمريرات النموذج الأمامية دون أي تدريب إضافي أو أدوات خارجية.",
+      "details": "نشر مطوّر مستقل يُعرف باسم divagr مشروعاً تجريبياً باسم Qwenputer على مدونته الشخصية وموقع Hugging Face، يحوّل نموذج Qwen3.5-4B القياسي إلى \"حاسوب\" دون أي تدريب إضافي.\n\nيضمّن المشروع وحدة معالجة RISC-V من فئة RV32IM مُجمّعة مباشرة داخل أوزان النموذج، تستخدم طبقات Gated DeltaNet في النموذج كذاكرة عشوائية الوصول دقيقة وقابلة للعنونة، بحيث تعمل الوحدة أثناء التمريرات الأمامية للنموذج نفسه.\n\nيستطيع Qwenputer تنفيذ عمليات حسابية وتشغيل كود بلغة C وبايثون المصغّرة (MicroPython) داخلياً دون الاستعانة بأي أداة خارجية، وقد نشر المطوّر شرحاً تقنياً للمشروع إلى جانب نقطة تفتيش النموذج على Hugging Face وعرضاً تجريبياً مباشراً.\n\n- يقول المطوّر إن الفكرة قد تحمل تبعات على استدعاء الأدوات واستخدام الحاسوب من قبل نماذج اللغة.\n- المشروع تجريبي بالكامل ولم يصدر عن جهة رسمية، بل عن باحث مستقل انتشر خبره عبر منتدى r/LocalLLaMA."
+     },
+     "en": {
+      "title": "Independent developer builds a RISC-V CPU inside Qwen's model weights",
+      "summary": "A developer released Qwenputer, a version of Qwen3.5-4B whose weights contain a full RISC-V (RV32IM) CPU that runs inside the model's forward passes, with no extra training or external tools.",
+      "details": "An independent developer known as divagr published an experimental project called Qwenputer on their personal blog and Hugging Face, turning a stock Qwen3.5-4B model into a \"computer\" with no additional training.\n\nThe project compiles a 32-bit RISC-V (RV32IM) CPU directly into the model's weights, using its Gated DeltaNet layers as exact, addressable RAM, so the CPU runs inside the model's own forward passes.\n\nQwenputer can execute arithmetic and run C and MicroPython code internally without calling any external tool. The developer published a technical write-up alongside the model checkpoint on Hugging Face and a live demo.\n\n- The developer says the approach could have implications for tool-calling and computer-use in language models.\n- The project is fully experimental and comes from an independent researcher, surfaced via a post on r/LocalLLaMA, not an official company release."
+     },
+     "addedAt": "2026-10-22T23:59:59+00:00"
     },
     {
      "id": "nvidia-minerva-aiops-platform",
