@@ -21,6 +21,26 @@
         "summary": "Once Human's October 28 patch fixed servers failing to enter Isles of Abyss Phase II and slow loading at abnormal spawn points, with fixes for a mod exploit and overly weak Calamity Hatchlings still rolling out.",
         "details": "Once Human shipped another round of 3.1.1 bug fixes on October 28, closing out two issues: some servers failing to enter Phase II of the Isles of Abyss scenario after Phase I's Scenario Progress reached 100% and its countdown finished, and severe loading slowdowns that occurred in some cases when a player's starting position was abnormal.\n\nThe studio also listed two fixes expected by 6:00 AM PT, with actual completion time possibly varying: players incorrectly obtaining the Blast Intensifier Mod in the Voyager area, and Calamity Hatchlings in the Isles of Abyss's Sea Calamity Zone having abnormally low HP and dying too quickly — normal HP will apply only to newly spawned hatchlings going forward."
       }
+    },
+    {
+      "id": "oh-3-1-1-bugfixes-oct29",
+      "date": "2026-10-29",
+      "type": "update",
+      "importance": 1,
+      "sourceType": "official",
+      "sourceName": "Once Human — Steam News",
+      "url": "https://store.steampowered.com/news/app/2139460/view/713416661425717866",
+      "originalTitle": "3.1.1 Bug Fixes (October 29)",
+      "ar": {
+        "title": "Once Human يعدّل إسقاط غنائم سفن Voyager ويصلح أخطاء في Isles of Abyss",
+        "summary": "أصلح تحديث 29 أكتوبر في Once Human آلية إسقاط الغنائم عند غرق سفن Voyager، ومشاكل في مكافآت Ghost Ship، وخللاً في التلي-بورت نحو منصة المياه، ومشكلة في تبرعات خوادم PlayStation المخصّصة.",
+        "details": "أصدرت Once Human في 29 أكتوبر دفعة جديدة من إصلاحات تحديث 3.1.1، يُتوقع اكتمالها بحلول الساعة 7 صباحاً بتوقيت المحيط الهادئ.\n\nيتمثل التغيير الأساسي في تعديل قواعد إسقاط الغنائم بعد غرق سفن Voyager في وضع اللعب بجزر Isles of Abyss. سابقاً كان يمكن لاعبين آخرين نهب حطام السفينة، أو تعمّد إغراقها مبكراً لمنع اللاعب من الحصول على مكافآته. أما الآن، فغرق السفينة يُسقط دائماً صناديق غنائم Voyager التي يمكن لأي لاعب جمعها، حتى لو فوّت جمع الغنيمة من داخل المقصورة أولاً؛ وتبقى قاعدة اختفاء الصناديق بعد دقيقتين كما هي.\n\nكما شملت الدفعة إصلاحات أخرى: إمكانية استلام المكافآت التي كانت تختفي بعد تفعيل ضمان التعديل (mod guarantee) في Ghost Ship؛ إصلاح بقاء اللاعبين عالقين في شاشة التحميل طويلاً عند التلي-بورت نحو منصة المياه وظهورهم في موقع غير طبيعي بعد إعادة تسجيل الدخول؛ توضيح أن الاستخراج التلقائي للموارد الخاصة بجزر Isles of Abyss يعمل فقط داخل حدود الجزيرة التابعة لمنطقة الكارثة المقابلة؛ وإصلاح عجز لاعبي خوادم PlayStation المخصّصة عن تقديم تبرعات (tip) لمضيف الخادم."
+      },
+      "en": {
+        "title": "Once Human reworks Voyager ship loot drops, fixes more bugs",
+        "summary": "An October 29 patch changed loot drops when a Voyager ship sinks and fixed bugs with Ghost Ship rewards, a teleport-and-die glitch, and PlayStation server tipping.",
+        "details": "Once Human issued a new round of 3.1.1 bug fixes on October 29, expected to complete by 7:00 AM PT.\n\nThe main change reworks loot after a Voyager ship is sunk in the Isles of Abyss game mode. Previously, wreckage crates could be looted by other players, or ships could be sunk early to deny a player their reward. Now, sinking a ship always drops Voyager Loot Crates that anyone can pick up, even if a player missed looting the cabin first; crates still disappear after 2 minutes.\n\nOther fixes: rewards that disappeared after a Ghost Ship's mod guarantee triggered can now be claimed; players teleporting back to the water platform no longer get stuck on the loading screen and spawn in a bad location after re-logging; Isles of Abyss resource-extractor descriptions now clarify that automatic production only works within the matching calamity zone's island; and PlayStation Custom Server hosts can be tipped again."
+      }
     }
   ],
   "upcoming": [],
