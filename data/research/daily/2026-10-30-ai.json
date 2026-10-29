@@ -1,0 +1,30 @@
+{
+  "topic": "ai",
+  "generatedAt": "2026-10-30",
+  "news": [
+    {
+      "id": "meta-cnib-ai-glasses-accessibility-canada",
+      "date": "2026-10-29",
+      "type": "product",
+      "importance": 1,
+      "sourceType": "official",
+      "sourceName": "Meta Newsroom",
+      "url": "https://about.fb.com/news/2026/10/the-future-is-for-everyone-meta-and-cnib-partner-to-support-canadians-who-are-blind-deafblind-or-have-low-vision/",
+      "originalTitle": "The Future Is for Everyone: Meta and CNIB Partner to Support Canadians Who Are Blind, Deafblind or Have Low Vision",
+      "company": "Meta",
+      "ar": {
+        "title": "ميتا تتعاون مع مؤسسة CNIB لدعم المكفوفين في كندا بنظارات الذكاء الاصطناعي",
+        "summary": "أعلنت ميتا شراكة مع مؤسسة CNIB الكندية لإتاحة نظاراتها الذكية للكنديين المكفوفين أو ضعاف البصر وجمع ملاحظاتهم لتطوير المنتج.",
+        "details": "أعلنت شركة ميتا شراكة مع مؤسسة CNIB الكندية غير الربحية، التي تأسست عام 1918 وتدعم الأشخاص المكفوفين أو ضعاف البصر، بهدف إتاحة نظارات الذكاء الاصطناعي لمزيد من الكنديين من هذه الفئة.\n\nبموجب الشراكة، ستموّل ميتا المؤسسة لجمع تجارب المستخدمين من مختلف المناطق الكندية حول كيفية دعم النظارات الذكية لاستقلاليتهم، ودعم \"سفراء مجتمعيين\" يقودون جلسات تدريب وعروض توضيحية وجهاً لوجه، ونقل ملاحظات المجتمع إلى فرق إمكانية الوصول والمنتجات في ميتا، إلى جانب توفير أدلة ومواد تدريبية سهلة الاستخدام.\n\nكما تتبرع ميتا بأجهزة النظارات عبر برنامج \"Come to Work\" التابع لمؤسسة CNIB، والذي يساعد المشاركين على تقييم كيفية دعم التقنيات القابلة للارتداء للبحث عن عمل والنجاح الوظيفي.\n\n- تشمل الاستخدامات المذكورة قراءة النصوص والتعرف على الأشياء ووصف المحيط.\n- كما تدعم النظارات تشغيل الموسيقى والترجمة الفورية والمكالمات دون استخدام اليدين."
+      },
+      "en": {
+        "title": "Meta partners with CNIB to bring AI glasses to blind Canadians",
+        "summary": "Meta is funding Canadian nonprofit CNIB to gather feedback from blind, Deafblind and low-vision Canadians on its AI glasses and donate hardware through a jobs program.",
+        "details": "Meta announced a partnership with CNIB, a Canadian non-profit founded in 1918 that supports people who are blind, Deafblind or have low vision, aimed at bringing its AI glasses to more Canadians in that community.\n\nUnder the deal, Meta is funding CNIB to gather experiences from across Canada on how AI glasses can support users' independence, back \"community champions\" who lead in-person peer training and demonstrations, feed community insights back to Meta's accessibility and product teams, and produce accessible guides and training materials.\n\nMeta is also donating AI glasses hardware through CNIB's Come to Work program, which helps participants assess how wearable technology can support job searching and workplace success.\n\n- Cited use cases include reading text, identifying objects and describing surroundings.\n- The glasses also support music playback, live translation and hands-free calls."
+      }
+    }
+  ],
+  "upcoming": [],
+  "removeUpcoming": [],
+  "removeNews": []
+}
