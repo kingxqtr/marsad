@@ -106,6 +106,28 @@
         "summary": "GitHub introduced \"GitHub intelligence,\" a context layer that lets Copilot agents remember prior sessions, keep that context current and search code beyond the local checkout.",
         "details": "GitHub announced GitHub intelligence on October 28, a context and learning layer built from the graph of GitHub data that aims to help Copilot agents understand not just a codebase but how a team works, including preferences, repository conventions and custom instructions.\n\nThree capabilities make up the feature: memory, which carries knowledge between sessions so agents build on earlier work instead of starting fresh each time; a mechanism GitHub calls \"dreaming,\" which keeps that stored context up to date; and code search that can reach beyond a developer's own checkout into related repositories. Availability and settings vary by capability."
       }
+    },
+    {
+      "id": "claude-code-background-agent-token-cost",
+      "date": "2026-10-29",
+      "type": "coding",
+      "importance": 1,
+      "sourceType": "community",
+      "sourceName": "Hacker News",
+      "url": "https://news.ycombinator.com/item?id=50284255",
+      "originalTitle": "Claude Code regularly sends each background agent's transcript to its model",
+      "company": "Anthropic",
+      "tool": "Claude Code",
+      "ar": {
+        "title": "نقاش على Hacker News يسلّط الضوء على تكلفة ملخصات الوكلاء الخلفية في Claude Code",
+        "summary": "أفاد نقاش على Hacker News أن استدعاءات تحديث شريط الحالة الدورية في Claude Code للوكلاء الخلفيين استهلكت 16.4% من رموز أحد الفرق خلال أسبوع؛ واعتبرت Anthropic ذلك حالة استثنائية مع تأكيد إصلاح جزئي.",
+        "details": "تناول نقاش على منتدى Hacker News حصل على 266 نقطة تدوينة ذكرت أن Claude Code يشغّل استدعاءً داخلياً اسمه \"agent_summary\" كل نحو 30 ثانية لتوليد نص قصير لشريط الحالة الخاص بالوكلاء العاملين في الخلفية. وقال كاتبو التدوينة إن بيانات تتبّع OpenTelemetry أظهرت أن هذه الاستدعاءات مثّلت 16.4% من استخدام فريقهم للرموز خلال أسبوع، ونشروا سكريبتاً لتعطيل هذا المؤقّت.\n\nوعلّق مستخدم قال إنه مهندس في فريق Claude Code بأن هذه الاستدعاءات تعمل فقط مع الوكلاء الخلفية النشطة فعلياً لا الخاملة، وأن بيانات القياس من جميع المستخدمين تُظهر أن \"agent_summary\" يمثّل نحو 2% من التكلفة بأسعار واجهة البرمجة المعلنة وأقل من 4% من الطلبات في SDK، ونحو 6% من التكلفة في الطرفية. ووصف نسبة 16.4% بأنها معقولة فقط لحمل عمل مكثّف بالوكلاء الخلفية.\n\nوأضاف أن إصلاحاً لملخصات لم تستفد من التخزين المؤقت للطلبات صدر في الإصدار 2.1.311، وأن نسخة أرخص بنموذج أصغر قيد التطوير. وانتقد معلّقون آخرون توثيق الشركة الذي ينص على أن شريط الحالة \"لا يستهلك رموز واجهة البرمجة\"، وطالبوا بخيار لتعطيل الملخصات بالكامل."
+      },
+      "en": {
+        "title": "Claude Code's background-agent status pings draw scrutiny over token cost",
+        "summary": "A Hacker News discussion said Claude Code's periodic status-line updates for background agents consumed 16.4% of one team's tokens in a week; Anthropic called that a heavy-workload outlier and said a cache fix shipped.",
+        "details": "A Hacker News thread with 266 points examined a blog post reporting that Claude Code runs an internal \"agent_summary\" call roughly every 30 seconds to generate short status-line text for background agents. The post's authors said OpenTelemetry traces showed this accounted for 16.4% of their team's token spend over a week, and they shared a script to suppress the timer.\n\nA commenter identifying as a Claude Code engineer at Anthropic said the calls run only for actively working background agents, not idle ones, and that across telemetry from all users, agent_summary made up about 2% of cost at API list prices and under 4% of requests in the SDK, and about 6% of cost in the terminal. They called 16.4% plausible only for a heavy background-agent workload.\n\nThe engineer said a fix for summaries missing the prompt cache already shipped in version 2.1.311, and a cheaper mode using a smaller model is in progress. Other commenters pushed back on documentation stating status lines \"do not consume API tokens,\" and asked for a setting to disable the summaries."
+      }
     }
   ],
   "upcoming": [],
