@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": "2026-10-29T13:24:33+00:00",
+ "updatedAt": "2026-10-29T14:28:34+00:00",
  "coverage": {
   "from": "2026-07-29",
   "to": "2026-10-29"
@@ -1826,6 +1826,28 @@
   "ai": {
    "news": [
     {
+     "id": "mistral-large-4-open-weights-huggingface",
+     "date": "2026-10-29",
+     "type": "model",
+     "importance": 2,
+     "sourceType": "official",
+     "sourceName": "Hugging Face Blog",
+     "url": "https://huggingface.co/blog/mistral-large4",
+     "originalTitle": "Welcome Le Chonk: Mistral Large 4 on Hugging Face",
+     "company": "Mistral AI",
+     "ar": {
+      "title": "Mistral تنشر أوزان Mistral Large 4 المفتوحة على Hugging Face كما وعدت",
+      "summary": "نشرت Mistral AI أوزان Mistral Large 4 المفتوحة على Hugging Face بصيغتي FP8 وNVFP4 بموجب ترخيصها الخاص Mistral Ecosystem Open-Weight License، وفاءً بموعد نهاية أكتوبر الذي حدّدته عند الإطلاق.",
+      "details": "نشرت Mistral AI في 29 أكتوبر أوزان نموذج Mistral Large 4 مفتوحة المصدر على Hugging Face، بعد أيام من إطلاق هذا النموذج متعدد الوسائط بتريليون معامل في معاينة عامة يوم 6 أكتوبر مع وعد بفتح أوزانه بنهاية الشهر.\n\nيستضيف Hub نسختين رسميتين بصيغتي FP8 وNVFP4، إلى جانب نسخ GGUF من المجتمع أنتجتها Unsloth وفريق llama.cpp. ويصدر النموذج بموجب ترخيص Mistral الخاص \"Mistral Ecosystem Open-Weight License\"، الذي تصفه الشركة بأنه مشتق من ترخيص MIT مع قيود على تقديمه كخدمة نموذج مُستضاف للغير.\n\nويدعم الإصدار منذ اليوم الأول مكتبات Transformers وvLLM وllama.cpp، ويتوفر النموذج أيضاً عبر Inference Endpoints وInference Providers من Hugging Face، وDell Enterprise Hub، مع إمكانية الضبط الدقيق (fine-tuning) باستخدام TRL."
+     },
+     "en": {
+      "title": "Mistral Large 4 weights released on Hugging Face as promised",
+      "summary": "Mistral AI published open weights for Mistral Large 4 on Hugging Face, in FP8 and NVFP4 checkpoints under its Mistral Ecosystem Open-Weight License, fulfilling the end-of-October release date it set at launch.",
+      "details": "Mistral AI released open weights for Mistral Large 4 on Hugging Face on October 29, days after launching the trillion-parameter multimodal model in preview on October 6 with a promise to open its weights by the end of the month.\n\nThe Hub hosts two official checkpoints, FP8 and NVFP4, alongside community GGUF quantizations from Unsloth and the llama.cpp team. The model is released under Mistral's own 'Mistral Ecosystem Open-Weight License,' described as an MIT derivative that restricts offering it as a hosted model-as-a-service.\n\nDay-0 support covers Transformers, vLLM and llama.cpp, with the model also available through Hugging Face Inference Endpoints and Providers, Dell's Enterprise Hub, and fine-tuning via TRL."
+     },
+     "addedAt": "2026-10-29T14:28:34+00:00"
+    },
+    {
      "id": "claude-code-background-agent-token-cost",
      "date": "2026-10-29",
      "type": "coding",
@@ -1869,6 +1891,28 @@
       "details": "Hugging Face published two open-source Swift packages on October 29 for building on-device AI features on Apple platforms, both requiring Swift 6.2 and macOS 26 or iOS 26 or later.\n\nAnySpeechRecognizer mirrors Apple's own SpeechAnalyzer API, so apps using Apple's Speech framework can often switch with just an import change. Beyond Apple's built-in engine, it adds local Core ML speech-to-text models: NVIDIA's Parakeet family and Alibaba's Qwen3-ASR, which covers additional languages. It also adds speaker diarization using NVIDIA's Streaming Sortformer. Models are hosted on the Hugging Face Hub and downloaded only when an app needs them.\n\nAnyDecisionModel answers yes/no, multiple-choice and rating-scale questions, returning typed results with probabilities computed from the model's own token probabilities rather than from generated text. It supports MLX, Core AI, llama.cpp, Jev and Ollama as backends; MLX requires Apple silicon."
      },
      "addedAt": "2026-10-29T12:12:16+00:00"
+    },
+    {
+     "id": "huggingface-granite-switch-4-1-1-oct2026",
+     "date": "2026-10-29",
+     "type": "model",
+     "importance": 1,
+     "sourceType": "official",
+     "sourceName": "Hugging Face Blog",
+     "url": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1",
+     "originalTitle": "Granite Switch 4.1.1 — Update models like you update software",
+     "company": "IBM Granite",
+     "ar": {
+      "title": "IBM تطرح Granite Switch 4.1.1 بتحديثات لمحوّلي الكلام واتخاذ القرار",
+      "summary": "أصدرت IBM تحديثاً طفيفاً لـGranite Switch 4.1 يضيف محوّل تحويل كلام إلى نص متعدد اللغات محسّناً ومحوّل اتخاذ قرار أفضل أداءً، دون إعادة تدريب النموذج الأساسي.",
+      "details": "أصدرت IBM Granite في 29 أكتوبر تحديث Granite Switch 4.1.1، نسخة تطويرية مبنية على Granite Switch 4.1 الذي جمع قدرات المحادثة والكلام واتخاذ القرار في محوّلات (adapters) فوق نقطة نهاية نموذج واحدة.\n\nيضيف التحديث محوّل تحويل كلام إلى نص جديداً باسم granite-speech-5.0-470m-turboctc يدعم 10 لغات ويضيف علامات الترقيم والتكبير مباشرة في ناتجه، كما يحسّن أداء محوّل اتخاذ القرار على معيار IBM الداخلي Jev Decision Index.\n\nوقالت IBM إن الإصدار متوافق تماماً مع 4.1 ولا يتطلب أي ترحيل، لأن النموذج الأساسي لم يُغيَّر وجرى تدريب المحوّلين الجديدين فقط، بما يتيح للمطورين تركيب المحوّلات التي يحتاجونها. وتخطط الشركة لإصدار دروس تعليمية وحزمة تطوير (SDK) للمحوّلات تتيح لمطورين خارجيين تنسيخ محوّلاتهم الخاصة واختبارها ونشرها."
+     },
+     "en": {
+      "title": "IBM ships Granite Switch 4.1.1 with updated speech and decision adapters",
+      "summary": "IBM released Granite Switch 4.1.1, a backward-compatible patch adding an upgraded multilingual speech-recognition adapter and a better-performing decision adapter, without retraining the base model.",
+      "details": "IBM Granite published Granite Switch 4.1.1 on October 29, a patch release built on Granite Switch 4.1, which had bundled chat, speech and decision capabilities into adapters on a single model endpoint.\n\nThe update ships a new multilingual speech-recognition adapter, granite-speech-5.0-470m-turboctc, covering 10 languages and adding punctuation and capitalization to its output. It also improves the Decision adapter's accuracy on IBM's internal Jev Decision Index benchmark.\n\nIBM said the release is fully backward compatible with 4.1 and needs no migration: the base model is untouched, and only the two adapters were retrained, so developers can mix and match them. The company plans tutorials and an adapter SDK to let outside developers version and ship their own adapters."
+     },
+     "addedAt": "2026-10-29T14:28:34+00:00"
     },
     {
      "id": "gemini-4-carbon-release",
