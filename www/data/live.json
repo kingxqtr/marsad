@@ -1,4 +1,63 @@
 {
- "updatedAt": "2026-10-29T12:54:50+00:00",
- "items": []
+ "updatedAt": "2026-10-29T18:45:43+00:00",
+ "items": [
+  {
+   "id": "auto-db71aa5edbe1",
+   "tab": "once-human",
+   "date": "2026-10-29",
+   "publishedAt": "2026-10-29T02:05:28+00:00",
+   "type": "community",
+   "importance": 1,
+   "sourceType": "community",
+   "sourceName": "r/OnceHumanOfficial",
+   "url": "https://www.reddit.com/r/OnceHumanOfficial/comments/1xi7kgf/my_beach_front_waffle_house_for_isles_of_the_abyss/",
+   "originalTitle": "My beach front Waffle House for Isles of the Abyss",
+   "en": {
+    "title": "My beach front Waffle House for Isles of the Abyss",
+    "summary": "Community post on r/OnceHumanOfficial. Server: NA Isles-Abyss-X0015 W1",
+    "details": "Community post on r/OnceHumanOfficial.\n\nServer: NA Isles-Abyss-X0015 W1"
+   },
+   "translated": false,
+   "fetchedAt": "2026-10-29T18:45:39+00:00"
+  },
+  {
+   "id": "auto-4eb84c804174",
+   "tab": "ai",
+   "date": "2026-10-29",
+   "publishedAt": "2026-10-29T12:41:56+00:00",
+   "type": "model",
+   "importance": 1,
+   "sourceType": "community",
+   "sourceName": "Hacker News",
+   "url": "https://news.ycombinator.com/item?id=50288019",
+   "originalTitle": "Gemini 4 Carbon is the new #1 on the Artificial Analysis Intelligence Index v5",
+   "en": {
+    "title": "Gemini 4 Carbon is the new #1 on the Artificial Analysis Intelligence Index v5",
+    "summary": "Community discussion on Hacker News (311 points, 232 comments).",
+    "details": "Community discussion on Hacker News (311 points, 232 comments)."
+   },
+   "translated": false,
+   "fetchedAt": "2026-10-29T18:45:38+00:00"
+  },
+  {
+   "id": "auto-752c2be083a7",
+   "tab": "ai",
+   "date": "2026-10-29",
+   "publishedAt": "2026-10-29T17:00:36+00:00",
+   "type": "hardware",
+   "importance": 1,
+   "sourceType": "official",
+   "sourceName": "Meta Newsroom",
+   "url": "https://about.fb.com/news/2026/10/the-future-is-for-everyone-meta-and-cnib-partner-to-support-canadians-who-are-blind-deafblind-or-have-low-vision/",
+   "originalTitle": "The Future Is for Everyone: Meta and CNIB Partner to Support Canadians Who Are Blind, Deafblind or Have Low Vision",
+   "en": {
+    "title": "The Future Is for Everyone: Meta and CNIB Partner to Support Canadians Who Are Blind, Deafblind or Have Low Vision",
+    "summary": "https://about.fb.com/wp-content/uploads/2026/10/cnib_x_meta___ms4_-_rev_3_picture_lockcc_eng-2160p.mp4 We believe the future is for everyone.",
+    "details": "https://about.fb.com/wp-content/uploads/2026/10/cnib_x_meta___ms4_-_rev_3_picture_lockcc_eng-2160p.mp4\n\nWe believe the future is for everyone. That’s why Meta is partnering with CNIB – a non-profit founded in 1918 that empowers Canadians impacted by blindness to live their dreams – to help bring the benefit of AI glasses to more Canadians who are blind, Deafblind or have low vision. The goal of the partnership is to help people who are blind, Deafblind or have low vision explore the possibilities of AI wearable technology, and draw on the knowledge, expertise and lived experience of the community to shape a more accessible future.\n\nFunding from Meta will support CNIB in four areas:\n\n- Listening to the community: Engaging people across Canada to understand their experiences, and how AI glasses can support greater independence in everyday life.\n\n- Supporting community champions: Supporting Canadians who are blind, Deafblind or have low vision to lead in-person peer training and demonstrations, and gather candid product feedback in their communities.\n\n- Informing product development: Sharing community insights with Meta’s accessibility and product teams to help improve future technology.\n\n- Making learning accessible: Providing accessible guides, training materials and resources that people can use wherever they are. …"
+   },
+   "translated": false,
+   "fetchedAt": "2026-10-29T18:45:38+00:00",
+   "company": "Meta"
+  }
+ ]
 }
