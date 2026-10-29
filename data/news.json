@@ -1,9 +1,9 @@
 {
  "version": 1,
- "updatedAt": "2026-10-28T23:11:17+00:00",
+ "updatedAt": "2026-10-29T00:09:34+00:00",
  "coverage": {
-  "from": "2026-07-28",
-  "to": "2026-10-28"
+  "from": "2026-07-29",
+  "to": "2026-10-29"
  },
  "tabs": {
   "once-human": {
@@ -1693,27 +1693,6 @@
       "details": "Foundation Festival, CIG's annual event for welcoming new pilots, ran from 29 July to 12 August. Its free fly let anyone play Star Citizen with five ships until 10 August, alongside a refreshed Welcome Hub and an upgraded Guide System.\n\n- Guides earn a beanie bundle, a hat and new Foundation Festival armour for one to three verified sessions of at least 30 minutes each\n- Guides and recruits can collect up to 13 themed ship paints, one per tutorial category\n- Referral bonus: an Argo ATLS for the referrer and a \"Ready for Anything\" career kit for the new player\n- Twitch Drops: four hours of watching unlocks an ATLS livery, and subscribing to a participating streamer earns a Banu Lockbox replica\n\nThe festival is designed to ease newcomers into a notoriously complex game with help from experienced players."
      },
      "addedAt": "2026-07-29T23:59:59+00:00"
-    },
-    {
-     "id": "sc-ship-showdown-2956-begins",
-     "date": "2026-07-28",
-     "type": "event",
-     "importance": 1,
-     "sourceType": "official",
-     "sourceName": "RSI Spectrum – Announcements",
-     "url": "https://robertsspaceindustries.com/spectrum/community/SC/forum/1/thread/ship-showdown-2956-phase-1-vesselmania-begins",
-     "originalTitle": "Ship Showdown 2956 - Phase 1: Vesselmania Begins!",
-     "ar": {
-      "title": "انطلاق Ship Showdown 2956 وحملات اللاعبين لدعم سفنهم المفضلة",
-      "summary": "انطلق في 28 يوليو التصويت السنوي الذي تنظمه CIG لاختيار المركبة المفضلة لدى المجتمع، إذ حددت أعمال المعجبين والنشاط داخل اللعبة قائمة الستة عشر قبل مواجهات يومية مباشرة بدءًا من 18 أغسطس.",
-      "details": "انطلقت مسابقة Ship Showdown 2956 في 28 يوليو واستمرت حتى 2 سبتمبر. وفي المرحلة الأولى (حتى 14 أغسطس) دعم اللاعبون مركباتهم المفضلة عبر نشر أعمال إبداعية أصلية على Community Hub أو منصة X، كما احتُسب وقت الطيران والنقل والتعدين والإنقاذ والقتال ضمن التأهل إلى قائمة الستة عشر.\n\n- المرحلة الثانية (18 أغسطس – 2 سبتمبر): مواجهات يومية بنظام خروج المغلوب ضمن ثماني فئات، من سفن الشحن إلى السفن الحربية\n- أفضل عشرة أعمال على Community Hub وأفضل خمسة على X تفوز كل منها بمقاتلة Kruger L-22 Alpha Wolf مع تأمين مدى الحياة\n- جوائز المربع الذهبي وسترة البطل تُوزع خلال معرض IAE 2956\n- خصومات على سفن المربع الذهبي للعام الماضي، وفي مقدمتها البطلة RSI Polaris، حتى 3 أغسطس\n\nوأصبحت Aegis Idris مؤهلة للمنافسة حتى النهاية هذا العام، لكنها تُستبعد من أي تجربة طيران مجانية لأسباب تتعلق بالأداء."
-     },
-     "en": {
-      "title": "Ship Showdown 2956 begins as players campaign for favourite ships",
-      "summary": "CIG's annual vote to crown the community's favourite vehicle opened on 28 July, with fan creations and in-game activity deciding the Top 16 before daily head-to-head battles from 18 August.",
-      "details": "Ship Showdown 2956 opened on 28 July and ran until 2 September. In Phase 1 (until 14 August), players backed a favourite flyable or drivable vehicle by posting original creations on the Community Hub or X, while flight time, hauling, mining, salvage and combat also counted toward a place in the Top 16.\n\n- Phase 2 (18 August to 2 September): daily bracket battles across eight divisions, from Freighter to Big Hitters\n- The top ten Community Hub entries and top five on X each win a Kruger L-22 Alpha Wolf with lifetime insurance\n- Final Four prizes and the champion's bomber jacket are handed out at IAE 2956\n- Last year's Final Four, led by winner RSI Polaris, were offered at a discount until 3 August\n\nThe Aegis Idris was eligible to compete all the way this year, although it would be excluded from any free fly for performance reasons."
-     },
-     "addedAt": "2026-07-28T23:59:59+00:00"
     }
    ],
    "upcoming": [
@@ -8370,29 +8349,6 @@
       "details": "MiniMax, the company behind the Hailuo video app, has released MiniMax H3, a single model that takes text, images, video and audio as context and produces video with sound.\n\n- Output: clips of up to 15 seconds at 2K by default, with a lower 768p option.\n- Audio: native stereo sound, with audio and video modelled together during training.\n- References and editing: H3 supports reference-based generation and editing for image-to-image, image-to-video, audio-to-audio and combined audio-video tasks.\n- Price: MiniMax claims its 2K per-second price is under a third of mainstream models, and its 768p price under half of what rivals charge for 720p.\n\nA demo is available on the Hailuo AI website, and MiniMax said it would publish the model weights shortly after launch. Within days the model was also offered on other creative platforms, including Luma."
      },
      "addedAt": "2026-07-31T23:59:59+00:00"
-    },
-    {
-     "id": "mcp-spec-2026-07-28-stateless",
-     "date": "2026-07-28",
-     "type": "product",
-     "importance": 2,
-     "sourceType": "official",
-     "sourceName": "Model Context Protocol Blog",
-     "url": "https://blog.modelcontextprotocol.io/posts/2026-07-28/",
-     "originalTitle": "The 2026-07-28 Specification",
-     "company": "Agentic AI Foundation",
-     "tool": "Model Context Protocol",
-     "ar": {
-      "title": "مواصفة MCP الجديدة تجعل بروتوكول الوكلاء عديم الحالة وأسهل في التوسع",
-      "summary": "صدرت نسخة 2026-07-28 من Model Context Protocol، المعيار الذي يربط المساعدات الذكية بالأدوات والبيانات، متخلية عن الجلسات لصالح تصميم عديم الحالة، مع تشديد التفويض واعتماد إطار رسمي للإضافات.",
-      "details": "نشر القائمون على Model Context Protocol (MCP)، المعيار المفتوح الذي تعتمد عليه مساعدات ذكاء اصطناعي ووكلاء برمجة كثيرون للاتصال بالأدوات والبيانات، النسخة 2026-07-28 من المواصفة في 28 يوليو.\n\n- نواة عديمة الحالة: أُلغيت مصافحة بدء الجلسة ومعرّفها، فيمكن تشغيل خوادم MCP خلف موزعات أحمال عادية وتوسيعها دون تخزين مشترك.\n- طلبات متعددة الجولات: يستطيع الخادم طلب معلومات ناقصة، فيعيد العميل إرسال الطلب مع الإجابة.\n- ترويسات HTTP جديدة تكشف اسم العملية والأداة، ما يسهّل على البوابات وجدران الحماية توجيه الحركة وقياسها.\n- تخزين نتائج القوائم مؤقتاً، وتشديد التفويض، وتحويل ميزات مثل Tasks إلى إضافات رسمية.\n\nوتدعم حزم التطوير الرسمية للغات TypeScript وPython وGo وC# هذه النسخة، مع دعم تجريبي لـRust. ويقول المشروع إن حزمه الرئيسية تُنزّل نحو 500 مليون مرة شهرياً، وإن الميزات القديمة مثل نقل HTTP+SSE ستبقى 12 شهراً على الأقل قبل إزالتها."
-     },
-     "en": {
-      "title": "New MCP specification makes the agent protocol stateless and easier to scale",
-      "summary": "The 2026-07-28 release of the Model Context Protocol, the standard that connects AI assistants to tools and data, drops sessions for a stateless design, hardens authorisation and formalises extensions.",
-      "details": "The maintainers of the Model Context Protocol (MCP), the open standard many AI assistants and coding agents use to connect to tools and data, published the 2026-07-28 version of the specification on 28 July.\n\n- Stateless core: the session handshake and session ID are gone, so MCP servers can sit behind ordinary load balancers and scale out without shared storage.\n- Multi round-trip requests: a server can ask for missing input, and the client simply retries the call with the answer.\n- New HTTP headers expose the method and tool name, so gateways and firewalls can route and meter traffic.\n- Cacheable list results, tighter authorisation, and features such as Tasks recast as formal extensions.\n\nThe official SDKs for TypeScript, Python, Go and C# support the release, with Rust in beta. The project says its main SDKs see about 500 million downloads a month, and older features such as the legacy HTTP+SSE transport get at least 12 months before removal."
-     },
-     "addedAt": "2026-07-28T23:59:59+00:00"
     }
    ],
    "upcoming": [
