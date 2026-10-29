@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": "2026-10-29T11:13:03+00:00",
+ "updatedAt": "2026-10-29T12:12:16+00:00",
  "coverage": {
   "from": "2026-07-29",
   "to": "2026-10-29"
@@ -1847,6 +1847,28 @@
       "details": "A Hacker News thread with 266 points examined a blog post reporting that Claude Code runs an internal \"agent_summary\" call roughly every 30 seconds to generate short status-line text for background agents. The post's authors said OpenTelemetry traces showed this accounted for 16.4% of their team's token spend over a week, and they shared a script to suppress the timer.\n\nA commenter identifying as a Claude Code engineer at Anthropic said the calls run only for actively working background agents, not idle ones, and that across telemetry from all users, agent_summary made up about 2% of cost at API list prices and under 4% of requests in the SDK, and about 6% of cost in the terminal. They called 16.4% plausible only for a heavy background-agent workload.\n\nThe engineer said a fix for summaries missing the prompt cache already shipped in version 2.1.311, and a cheaper mode using a smaller model is in progress. Other commenters pushed back on documentation stating status lines \"do not consume API tokens,\" and asked for a setting to disable the summaries."
      },
      "addedAt": "2026-10-29T07:14:41+00:00"
+    },
+    {
+     "id": "huggingface-anyspeechrecognizer-anydecisionmodel-oct2026",
+     "date": "2026-10-29",
+     "type": "model",
+     "importance": 1,
+     "sourceType": "official",
+     "sourceName": "Hugging Face Blog",
+     "url": "https://huggingface.co/blog/anydecisionmodel",
+     "originalTitle": "Introducing AnySpeechRecognizer and AnyDecisionModel: Open Models for Speech and Decisions on Apple Platforms",
+     "company": "Hugging Face",
+     "ar": {
+      "title": "Hugging Face تطلق AnySpeechRecognizer وAnyDecisionModel لتطبيقات Apple",
+      "summary": "أصدرت Hugging Face حزمتي Swift مفتوحتين لتطبيقات Apple: AnySpeechRecognizer التي تضيف نماذج NVIDIA وQwen3-ASR للتحويل الصوتي، وAnyDecisionModel للإجابات الاحتمالية بنعم/لا واختيار من متعدد وتقييم.",
+      "details": "أصدرت Hugging Face في 29 أكتوبر حزمتي Swift مفتوحتي المصدر لبناء ميزات ذكاء اصطناعي تعمل محلياً على أجهزة Apple، وتتطلب كلتاهما Swift 6.2 وmacOS 26 أو iOS 26 على الأقل.\n\nتحاكي AnySpeechRecognizer واجهة SpeechAnalyzer الخاصة بـApple، بحيث يمكن للتطبيقات المستخدمة لإطار Speech الرسمي التبديل غالباً بتغيير سطر الاستيراد فقط. وإلى جانب محرك Apple الافتراضي، تضيف الحزمة نماذج تحويل كلام إلى نص تعمل محلياً عبر Core ML، هي عائلة Parakeet من NVIDIA ونموذج Qwen3-ASR من Alibaba الذي يغطي لغات إضافية، كما تضيف تمييز المتحدثين باستخدام Streaming Sortformer من NVIDIA. تُستضاف النماذج على Hugging Face Hub ولا تُنزَّل إلا عند طلب التطبيق لها.\n\nأما AnyDecisionModel فتجيب على أسئلة بنعم/لا واختيار من متعدد وتقييم بمقياس، وتُعيد نتائج مُصنَّفة مع نسب احتمالية مُستخرجة من احتمالات رموز النموذج نفسها بدلاً من النص المولَّد. وتدعم الحزمة محركات MLX وCore AI وllama.cpp وJev وOllama، على أن يتطلب محرك MLX معالج Apple الخاص بالشركة (Apple silicon)."
+     },
+     "en": {
+      "title": "Hugging Face releases AnySpeechRecognizer, AnyDecisionModel for Apple",
+      "summary": "Hugging Face released AnySpeechRecognizer and AnyDecisionModel, open Swift packages for Apple devices adding NVIDIA and Qwen3-ASR speech models and probability-based yes/no, multiple-choice and rating answers.",
+      "details": "Hugging Face published two open-source Swift packages on October 29 for building on-device AI features on Apple platforms, both requiring Swift 6.2 and macOS 26 or iOS 26 or later.\n\nAnySpeechRecognizer mirrors Apple's own SpeechAnalyzer API, so apps using Apple's Speech framework can often switch with just an import change. Beyond Apple's built-in engine, it adds local Core ML speech-to-text models: NVIDIA's Parakeet family and Alibaba's Qwen3-ASR, which covers additional languages. It also adds speaker diarization using NVIDIA's Streaming Sortformer. Models are hosted on the Hugging Face Hub and downloaded only when an app needs them.\n\nAnyDecisionModel answers yes/no, multiple-choice and rating-scale questions, returning typed results with probabilities computed from the model's own token probabilities rather than from generated text. It supports MLX, Core AI, llama.cpp, Jev and Ollama as backends; MLX requires Apple silicon."
+     },
+     "addedAt": "2026-10-29T12:12:16+00:00"
     },
     {
      "id": "gemini-4-carbon-release",
