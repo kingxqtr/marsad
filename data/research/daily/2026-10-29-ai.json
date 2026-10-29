@@ -214,6 +214,28 @@
         "details": "Project ProtoStar was announced on October 29, an initiative to make publicly funded research, including datasets, models and code, easier to find and reuse, particularly for AI-driven research.\n\nIts founding partners are five US universities: Carnegie Mellon, Purdue, Georgia Tech, Arizona State and George Washington, alongside the university coalition Open Forum for AI (OFAI), the Astera Institute, Hugging Face as infrastructure partner, and the Open Research Community Accelerator (ORCA) as community partner. Organizations join through a memorandum of understanding.\n\nThe initiative runs on a series of open challenges, each hosted by a participating institution using its own openly released resources, meant to surface barriers to reuse and practices that work. The first, the Climate Risk Intelligence Challenge hosted by Carnegie Mellon University, opens November 2 and runs through November 13, 2026, using historical weather data from 210 US cities to forecast conditions from 2019 to 2026 based on records through 2018."
       }
     }
+    ,
+    {
+      "id": "openai-updated-model-spec-oct2026",
+      "date": "2026-10-29",
+      "type": "policy",
+      "importance": 2,
+      "sourceType": "official",
+      "sourceName": "OpenAI News",
+      "url": "https://openai.com/index/updated-model-spec",
+      "originalTitle": "An updated Model Spec for more capable and beneficial AI",
+      "company": "OpenAI",
+      "ar": {
+        "title": "OpenAI تحدّث وثيقة Model Spec حول خمس قيم أساسية لسلوك نماذجها",
+        "summary": "نشرت OpenAI نسخة محدّثة من وثيقة Model Spec التي تحدد سلوك نماذجها، مبنية على خمس قيم أساسية تهدف لتوجيه النماذج الأقوى نحو حكم سليم واحترام إرادة الإنسان والالتزام الحقيقي بنيّته.",
+        "details": "نشرت OpenAI في 29 أكتوبر نسخة محدّثة من وثيقتها العامة Model Spec، التي تحدد السلوك المقصود لنماذجها في ChatGPT وواجهة البرمجة.\n\nتُنظَّم النسخة الجديدة حول خمس قيم أساسية، تقول الشركة إنها مصمّمة لتوجيه النماذج الأكثر قدرة نحو حكم سليم واحترام إرادة الإنسان (human agency) والالتزام الحقيقي بنيّة المستخدم، بدلاً من تنفيذ التعليمات حرفياً فقط.\n\nشكّلت وثيقة Model Spec في نسخها السابقة أساساً لجزء من عمل OpenAI على السلامة والمحاذاة، وكانت الشركة قد نشرت تحديثات سابقة منها للملكية العامة ليستفيد منها مطورون وباحثون آخرون."
+      },
+      "en": {
+        "title": "OpenAI updates its Model Spec around five core values",
+        "summary": "OpenAI published a revised Model Spec, the document defining how it wants its models to behave, built around five core values meant to steer models toward sound judgment, respect for human agency, and faithfulness to human intent.",
+        "details": "OpenAI published an updated version of its public Model Spec on October 29, the document that defines the intended behavior of its models across ChatGPT and the API.\n\nThe new version is organized around five core values that the company says are meant to guide more capable models toward sound judgment, respect for human agency, and genuine faithfulness to a user's intent, rather than just following instructions literally.\n\nPast versions of the Model Spec have served as a basis for parts of OpenAI's safety and alignment work, and the company has previously released revisions into the public domain for other developers and researchers to build on."
+      }
+    }
   ],
   "upcoming": [],
   "removeUpcoming": [],

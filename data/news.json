@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": "2026-10-29T17:12:13+00:00",
+ "updatedAt": "2026-10-29T18:15:18+00:00",
  "coverage": {
   "from": "2026-07-29",
   "to": "2026-10-29"
@@ -1846,6 +1846,28 @@
       "details": "Mistral AI released open weights for Mistral Large 4 on Hugging Face on October 29, days after launching the trillion-parameter multimodal model in preview on October 6 with a promise to open its weights by the end of the month.\n\nThe Hub hosts two official checkpoints, FP8 and NVFP4, alongside community GGUF quantizations from Unsloth and the llama.cpp team. The model is released under Mistral's own 'Mistral Ecosystem Open-Weight License,' described as an MIT derivative that restricts offering it as a hosted model-as-a-service.\n\nDay-0 support covers Transformers, vLLM and llama.cpp, with the model also available through Hugging Face Inference Endpoints and Providers, Dell's Enterprise Hub, and fine-tuning via TRL."
      },
      "addedAt": "2026-10-29T14:28:34+00:00"
+    },
+    {
+     "id": "openai-updated-model-spec-oct2026",
+     "date": "2026-10-29",
+     "type": "policy",
+     "importance": 2,
+     "sourceType": "official",
+     "sourceName": "OpenAI News",
+     "url": "https://openai.com/index/updated-model-spec",
+     "originalTitle": "An updated Model Spec for more capable and beneficial AI",
+     "company": "OpenAI",
+     "ar": {
+      "title": "OpenAI تحدّث وثيقة Model Spec حول خمس قيم أساسية لسلوك نماذجها",
+      "summary": "نشرت OpenAI نسخة محدّثة من وثيقة Model Spec التي تحدد سلوك نماذجها، مبنية على خمس قيم أساسية تهدف لتوجيه النماذج الأقوى نحو حكم سليم واحترام إرادة الإنسان والالتزام الحقيقي بنيّته.",
+      "details": "نشرت OpenAI في 29 أكتوبر نسخة محدّثة من وثيقتها العامة Model Spec، التي تحدد السلوك المقصود لنماذجها في ChatGPT وواجهة البرمجة.\n\nتُنظَّم النسخة الجديدة حول خمس قيم أساسية، تقول الشركة إنها مصمّمة لتوجيه النماذج الأكثر قدرة نحو حكم سليم واحترام إرادة الإنسان (human agency) والالتزام الحقيقي بنيّة المستخدم، بدلاً من تنفيذ التعليمات حرفياً فقط.\n\nشكّلت وثيقة Model Spec في نسخها السابقة أساساً لجزء من عمل OpenAI على السلامة والمحاذاة، وكانت الشركة قد نشرت تحديثات سابقة منها للملكية العامة ليستفيد منها مطورون وباحثون آخرون."
+     },
+     "en": {
+      "title": "OpenAI updates its Model Spec around five core values",
+      "summary": "OpenAI published a revised Model Spec, the document defining how it wants its models to behave, built around five core values meant to steer models toward sound judgment, respect for human agency, and faithfulness to human intent.",
+      "details": "OpenAI published an updated version of its public Model Spec on October 29, the document that defines the intended behavior of its models across ChatGPT and the API.\n\nThe new version is organized around five core values that the company says are meant to guide more capable models toward sound judgment, respect for human agency, and genuine faithfulness to a user's intent, rather than just following instructions literally.\n\nPast versions of the Model Spec have served as a basis for parts of OpenAI's safety and alignment work, and the company has previously released revisions into the public domain for other developers and researchers to build on."
+     },
+     "addedAt": "2026-10-29T18:15:18+00:00"
     },
     {
      "id": "claude-code-background-agent-token-cost",
