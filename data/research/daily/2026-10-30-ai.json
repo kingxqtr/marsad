@@ -23,6 +23,28 @@
         "details": "Meta announced a partnership with CNIB, a Canadian non-profit founded in 1918 that supports people who are blind, Deafblind or have low vision, aimed at bringing its AI glasses to more Canadians in that community.\n\nUnder the deal, Meta is funding CNIB to gather experiences from across Canada on how AI glasses can support users' independence, back \"community champions\" who lead in-person peer training and demonstrations, feed community insights back to Meta's accessibility and product teams, and produce accessible guides and training materials.\n\nMeta is also donating AI glasses hardware through CNIB's Come to Work program, which helps participants assess how wearable technology can support job searching and workplace success.\n\n- Cited use cases include reading text, identifying objects and describing surroundings.\n- The glasses also support music playback, live translation and hands-free calls."
       }
     }
+    ,
+    {
+      "id": "nvidia-seti-agentic-ai-allen-array",
+      "date": "2026-10-30",
+      "type": "hardware",
+      "importance": 1,
+      "sourceType": "official",
+      "sourceName": "NVIDIA Blog",
+      "url": "https://blogs.nvidia.com/blog/ai-joins-the-search-for-extraterrestrial-signals/",
+      "originalTitle": "Things That Go Beep in the Night: Agentic AI Joins the Search for Extraterrestrial Signals",
+      "company": "NVIDIA",
+      "ar": {
+        "title": "وكلاء ذكاء اصطناعي من NVIDIA ينضمون للبحث عن حياة خارج الأرض",
+        "summary": "بدأت مؤسستا Breakthrough Listen وSETI استخدام وكلاء ذكاء اصطناعي مع منصة NVIDIA Holoscan لتوجيه مصفوفة Allen Telescope Array وتحليل بيانات الإشارات عبر طلبات بلغة طبيعية.",
+        "details": "أعلنت NVIDIA أن مؤسستي Breakthrough Listen ومعهد SETI بدأتا استخدام وكلاء الذكاء الاصطناعي ضمن العمل اليومي للبحث عن إشارات من حضارات خارج الأرض.\n\nفي مصفوفة Allen Telescope Array بشمال كاليفورنيا، يمكن للوكلاء الآن توجيه التلسكوبات وتنقيح البيانات الواردة وتصحيحها، وتشغيل نماذج ذكاء اصطناعي على تيار الإشارات، كل ذلك من خلال طلب واحد بلغة طبيعية. وتتولى منصة NVIDIA Holoscan معالجة الكميات الضخمة من بيانات الاستشعار التي تولدها المصفوفة، لتوفير بيانات مباشرة يعمل الوكلاء عليها.\n\nوتقول NVIDIA إن هذا النهج يجعل عملية البحث عن إشارات محتملة من حضارات بعيدة أسرع وأكثر قابلية للتكيف مقارنة بطرق العمل اليدوية السابقة."
+      },
+      "en": {
+        "title": "NVIDIA agentic AI tools join the search for extraterrestrial signals",
+        "summary": "Breakthrough Listen and the SETI Institute now use agentic AI with NVIDIA's Holoscan platform to steer the Allen Telescope Array and analyze signal data from plain-language requests.",
+        "details": "Breakthrough Listen and the SETI Institute have begun using agentic AI in their daily search for signals from extraterrestrial civilizations, NVIDIA said in a blog post.\n\nAt the Allen Telescope Array in Northern California, AI agents can now steer the instrument, clean and correct incoming data, and run AI models on the signal stream, all from a single natural-language request. NVIDIA's Holoscan platform processes the large volumes of sensor data the array produces, giving the agents live data to act on.\n\nNVIDIA says the approach makes the search for possible signals from distant civilizations faster and more adaptable than earlier manual workflows."
+      }
+    }
   ],
   "upcoming": [],
   "removeUpcoming": [],

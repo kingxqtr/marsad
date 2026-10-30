@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": "2026-10-30T15:16:48+00:00",
+ "updatedAt": "2026-10-30T16:13:21+00:00",
  "coverage": {
   "from": "2026-07-30",
   "to": "2026-10-30"
@@ -1825,6 +1825,28 @@
   },
   "ai": {
    "news": [
+    {
+     "id": "nvidia-seti-agentic-ai-allen-array",
+     "date": "2026-10-30",
+     "type": "hardware",
+     "importance": 1,
+     "sourceType": "official",
+     "sourceName": "NVIDIA Blog",
+     "url": "https://blogs.nvidia.com/blog/ai-joins-the-search-for-extraterrestrial-signals/",
+     "originalTitle": "Things That Go Beep in the Night: Agentic AI Joins the Search for Extraterrestrial Signals",
+     "company": "NVIDIA",
+     "ar": {
+      "title": "وكلاء ذكاء اصطناعي من NVIDIA ينضمون للبحث عن حياة خارج الأرض",
+      "summary": "بدأت مؤسستا Breakthrough Listen وSETI استخدام وكلاء ذكاء اصطناعي مع منصة NVIDIA Holoscan لتوجيه مصفوفة Allen Telescope Array وتحليل بيانات الإشارات عبر طلبات بلغة طبيعية.",
+      "details": "أعلنت NVIDIA أن مؤسستي Breakthrough Listen ومعهد SETI بدأتا استخدام وكلاء الذكاء الاصطناعي ضمن العمل اليومي للبحث عن إشارات من حضارات خارج الأرض.\n\nفي مصفوفة Allen Telescope Array بشمال كاليفورنيا، يمكن للوكلاء الآن توجيه التلسكوبات وتنقيح البيانات الواردة وتصحيحها، وتشغيل نماذج ذكاء اصطناعي على تيار الإشارات، كل ذلك من خلال طلب واحد بلغة طبيعية. وتتولى منصة NVIDIA Holoscan معالجة الكميات الضخمة من بيانات الاستشعار التي تولدها المصفوفة، لتوفير بيانات مباشرة يعمل الوكلاء عليها.\n\nوتقول NVIDIA إن هذا النهج يجعل عملية البحث عن إشارات محتملة من حضارات بعيدة أسرع وأكثر قابلية للتكيف مقارنة بطرق العمل اليدوية السابقة."
+     },
+     "en": {
+      "title": "NVIDIA agentic AI tools join the search for extraterrestrial signals",
+      "summary": "Breakthrough Listen and the SETI Institute now use agentic AI with NVIDIA's Holoscan platform to steer the Allen Telescope Array and analyze signal data from plain-language requests.",
+      "details": "Breakthrough Listen and the SETI Institute have begun using agentic AI in their daily search for signals from extraterrestrial civilizations, NVIDIA said in a blog post.\n\nAt the Allen Telescope Array in Northern California, AI agents can now steer the instrument, clean and correct incoming data, and run AI models on the signal stream, all from a single natural-language request. NVIDIA's Holoscan platform processes the large volumes of sensor data the array produces, giving the agents live data to act on.\n\nNVIDIA says the approach makes the search for possible signals from distant civilizations faster and more adaptable than earlier manual workflows."
+     },
+     "addedAt": "2026-10-30T16:13:21+00:00"
+    },
     {
      "id": "mistral-large-4-open-weights-huggingface",
      "date": "2026-10-29",
