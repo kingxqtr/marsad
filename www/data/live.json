@@ -1,25 +1,43 @@
 {
- "updatedAt": "2026-10-30T15:28:51+00:00",
+ "updatedAt": "2026-10-30T20:01:56+00:00",
  "items": [
   {
-   "id": "auto-e9043df2156c",
-   "tab": "ai",
+   "id": "auto-689c4beee157",
+   "tab": "star-citizen",
    "date": "2026-10-30",
-   "publishedAt": "2026-10-30T15:00:10+00:00",
-   "type": "hardware",
+   "publishedAt": "2026-10-30T18:01:51+00:00",
+   "type": "development",
    "importance": 1,
    "sourceType": "official",
-   "sourceName": "NVIDIA Blog",
-   "url": "https://blogs.nvidia.com/blog/ai-joins-the-search-for-extraterrestrial-signals/",
-   "originalTitle": "Things That Go Beep in the Night: Agentic AI Joins the Search for Extraterrestrial Signals",
+   "sourceName": "RSI Comm-Link",
+   "url": "https://robertsspaceindustries.com/comm-link/transmission/21427-Jump-Point-Now-Available",
+   "originalTitle": "Jump Point Now Available! - ISSUE: 14 05 – Constellation of the Heart",
    "en": {
-    "title": "Things That Go Beep in the Night: Agentic AI Joins the Search for Extraterrestrial Signals",
-    "summary": "While science fiction lore tells us that humans will meet extraterrestrial life in the form of little green men, the detail that should raise hairs this Halloween is this: the search for extraterrestrial intelligence took a major leap …",
-    "details": "While science fiction lore tells us that humans will meet extraterrestrial life in the form of little green men, the detail that should raise hairs this Halloween is this: the search for extraterrestrial intelligence took a major leap forward with AI, and it increasingly focuses on AI agents built by humans listening for AI agents built by aliens.\n\nSome scientists have suggested that extraterrestrial civilizations, if they exist, could be billions of years older than humanity. Such civilizations might have developed technologies far beyond humanity’s, including forms of AI.\n\nBreakthrough Listen and the SETI Institute are bringing agentic AI into the daily search for extraterrestrial intelligence. At the Allen Telescope Array in Northern California, agents can now steer the instrument, enhance and correct incoming data, and apply AI models to the incoming stream — all from a single natural language request. The NVIDIA Holoscan platform processes the massive streams of sensor data, giving agents live data to act on.\n\nThe result is a faster, more adaptable search for potential signals from extraterrestrial life and technologies. …"
+    "title": "Jump Point Now Available! - ISSUE: 14 05 – Constellation of the Heart",
+    "summary": "Attention, Subscribers: The October 2026 issue of Jump Point is now available in the Subscriber section of your account.",
+    "details": "Attention, Subscribers: The October 2026 issue of Jump Point is now available in the Subscriber section of your account."
    },
    "translated": false,
-   "fetchedAt": "2026-10-30T15:28:46+00:00",
-   "company": "NVIDIA"
+   "fetchedAt": "2026-10-30T20:01:51+00:00"
+  },
+  {
+   "id": "auto-66656ce6a6fe",
+   "tab": "ai",
+   "date": "2026-10-30",
+   "publishedAt": "2026-10-30T15:52:18+00:00",
+   "type": "product",
+   "importance": 1,
+   "sourceType": "community",
+   "sourceName": "Hacker News",
+   "url": "https://news.ycombinator.com/item?id=50305693",
+   "originalTitle": "AI isn't replacing SREs, it's deskilling them",
+   "en": {
+    "title": "AI isn't replacing SREs, it's deskilling them",
+    "summary": "Community discussion on Hacker News (362 points, 283 comments).",
+    "details": "Community discussion on Hacker News (362 points, 283 comments)."
+   },
+   "translated": false,
+   "fetchedAt": "2026-10-30T20:01:51+00:00"
   }
  ]
 }
