@@ -1,9 +1,9 @@
 {
  "version": 1,
- "updatedAt": "2026-10-29T23:11:07+00:00",
+ "updatedAt": "2026-10-30T00:12:26+00:00",
  "coverage": {
-  "from": "2026-07-29",
-  "to": "2026-10-29"
+  "from": "2026-07-30",
+  "to": "2026-10-30"
  },
  "tabs": {
   "once-human": {
@@ -1693,27 +1693,6 @@
       "details": "Star Citizen Live returned on 5 August with a special two-hour developer commentary session, streamed at 16:00 UTC on Twitch. Max, Elliot, Loek and Olli played the upcoming Siege of Orison while talking through its design.\n\nSiege of Orison is a permanent PvE operation for the Persistent Universe in which squads fight the Nine Tails gang across Orison's platforms. For Alpha 4.10 it was rebuilt around the new instancing technology, which gives each party its own closed copy of the mission area.\n\nAt the time the patch was in PTU testing, with all test waves opened at the end of July. It reached the live servers three weeks later, on 26 August."
      },
      "addedAt": "2026-08-05T23:59:59+00:00"
-    },
-    {
-     "id": "sc-foundation-festival-2026",
-     "date": "2026-07-29",
-     "type": "event",
-     "importance": 3,
-     "sourceType": "official",
-     "sourceName": "RSI Spectrum – Announcements",
-     "url": "https://robertsspaceindustries.com/spectrum/community/SC/forum/1/thread/foundation-festival-2026-has-begun",
-     "originalTitle": "Foundation Festival 2026 Has Begun!",
-     "ar": {
-      "title": "Foundation Festival 2026 يفتح تجربة لعب مجانية ومكافآت للمرشدين",
-      "summary": "أتيح لعب Star Citizen مجانًا من 29 يوليو حتى 10 أغسطس بخمس سفن، فيما حصل المرشدون والمُحيلون ومشاهدو Twitch على مكافآت المهرجان حتى 12 أغسطس.",
-      "details": "أقيم Foundation Festival، الحدث السنوي الذي تنظمه CIG لاستقبال الطيارين الجدد، من 29 يوليو حتى 12 أغسطس، وتضمن تجربة لعب مجانية (Free Fly) لأي شخص بخمس سفن حتى 10 أغسطس، إلى جانب تحديث مركز الترحيب (Welcome Hub) وتطوير نظام الإرشاد (Guide System).\n\n- يحصل المرشدون على قبعة صوفية وقبعة ودروع جديدة خاصة بالمهرجان مقابل جلسة إلى ثلاث جلسات موثقة لا تقل كل منها عن 30 دقيقة\n- يمكن للمرشدين والمتدربين جمع ما يصل إلى 13 طلاءً للسفن، واحد لكل فئة تعليمية\n- مكافأة الإحالة: بدلة Argo ATLS للمُحيل وحزمة معدات \"Ready for Anything\" للاعب الجديد\n- مكافآت Twitch: مشاهدة أربع ساعات تمنح طلاءً لبدلة ATLS، والاشتراك مع صانع محتوى مشارك يمنح مجسم Banu Lockbox\n\nويهدف المهرجان إلى تسهيل دخول الوافدين الجدد إلى لعبة معروفة بتعقيدها بمساعدة اللاعبين المخضرمين."
-     },
-     "en": {
-      "title": "Foundation Festival 2026 opens a free fly and rewards for player guides",
-      "summary": "From 29 July, anyone could play Star Citizen free until 10 August with five ships, while guides, referrers and Twitch viewers earned festival rewards until 12 August.",
-      "details": "Foundation Festival, CIG's annual event for welcoming new pilots, ran from 29 July to 12 August. Its free fly let anyone play Star Citizen with five ships until 10 August, alongside a refreshed Welcome Hub and an upgraded Guide System.\n\n- Guides earn a beanie bundle, a hat and new Foundation Festival armour for one to three verified sessions of at least 30 minutes each\n- Guides and recruits can collect up to 13 themed ship paints, one per tutorial category\n- Referral bonus: an Argo ATLS for the referrer and a \"Ready for Anything\" career kit for the new player\n- Twitch Drops: four hours of watching unlocks an ATLS livery, and subscribing to a participating streamer earns a Banu Lockbox replica\n\nThe festival is designed to ease newcomers into a notoriously complex game with help from experienced players."
-     },
-     "addedAt": "2026-07-29T23:59:59+00:00"
     }
    ],
    "upcoming": [
@@ -8554,33 +8533,6 @@
       "details": "Canva World Tour is back for 2026, running worldwide from September 14 through November 30.\n\n- Format: Canva teams in different countries host local community meetups and live training sessions; an event finder is available at canva.com/events.\n- AI Essentials: a new free certification that anyone can complete at their own pace, covering how to get the most out of Canva AI.\n- Design School: short, mobile-first lessons that teach one skill at a time, some lasting about 90 seconds.\n\nAll of the learning content can also be followed online through Canva Design School at any time during the campaign, so people can take part even without a local event nearby.",
       "location": "Worldwide (local events and online)",
       "dateNote": "Campaign started September 14 and ends November 30, 2026."
-     },
-     "addedAt": "2026-09-27T13:25:38+00:00"
-    },
-    {
-     "id": "github-universe-2026",
-     "date": "2026-10-28",
-     "type": "event",
-     "importance": 1,
-     "sourceType": "official",
-     "sourceName": "GitHub Universe",
-     "url": "https://githubuniverse.com/",
-     "originalTitle": "",
-     "company": "GitHub",
-     "tool": "GitHub Copilot",
-     "endDate": "2026-10-29",
-     "dateConfidence": "confirmed",
-     "ar": {
-      "title": "مؤتمر GitHub Universe 2026 يعود إلى سان فرانسيسكو",
-      "summary": "يُعقد مؤتمر GitHub السنوي للمطورين يومي 28 و29 أكتوبر في مركز Fort Mason بسان فرانسيسكو، مع حضور افتراضي مجاني للكلمات الرئيسية، وعادة ما تكشف فيه GitHub عن أبرز تحديثات Copilot.",
-      "details": "يُعقد GitHub Universe 2026 يومي 28 و29 أكتوبر في مركز Fort Mason بسان فرانسيسكو، مع يوم تعليمي إضافي في مقر GitHub في 30 أكتوبر.\n\n- تبلغ تذكرة الحضور الشخصي 1,399 دولاراً، وتذكرة المجموعات 1,119 دولاراً عند شراء أربع تذاكر أو أكثر.\n- الحضور الافتراضي مجاني ويشمل البث المباشر للكلمات الرئيسية والجلسات عند الطلب.\n- تشمل الإضافات ورش عمل بسعر 99 دولاراً وقسيمة شهادة GitHub بسعر 30 دولاراً.\n\nويتمحور البرنامج حول إطلاق المنتجات وورش تطوير المهارات والتواصل، تحت شعار التطوير في عصر الوكلاء. وعادة ما تختار GitHub هذا المؤتمر لإعلان أهم أخبار Copilot في العام.",
-      "location": "مركز Fort Mason، سان فرانسيسكو، الولايات المتحدة (وعبر الإنترنت)"
-     },
-     "en": {
-      "title": "GitHub Universe 2026 returns to San Francisco",
-      "summary": "GitHub's annual developer conference runs on 28-29 October at Fort Mason Center in San Francisco, with free virtual access to the keynotes. It is where GitHub usually unveils its biggest Copilot updates.",
-      "details": "GitHub Universe 2026 takes place on 28-29 October at the Fort Mason Center in San Francisco, with an extra Day of Learning at GitHub's headquarters on 30 October.\n\n- In-person passes cost $1,399, and group passes $1,119 each for four or more.\n- Virtual attendance is free and includes live keynote streams and on-demand sessions.\n- Add-ons include $99 workshops and a $30 GitHub certification voucher.\n\nThe programme is built around product launches, skills workshops and networking, with the agentic era as its theme. Universe is traditionally where GitHub makes its biggest Copilot announcements of the year.",
-      "location": "Fort Mason Center, San Francisco, USA (and online)"
      },
      "addedAt": "2026-09-27T13:25:38+00:00"
     },
