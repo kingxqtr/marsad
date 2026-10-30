@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": "2026-10-30T17:11:49+00:00",
+ "updatedAt": "2026-10-30T18:09:46+00:00",
  "coverage": {
   "from": "2026-07-30",
   "to": "2026-10-30"
@@ -1846,6 +1846,28 @@
       "details": "OpenAI published an official post titled \"Community safety report and new protections for teens,\" saying it is expanding violence-prevention safeguards in ChatGPT, intervening earlier when it detects concerning conversations, and making a new commitment to clearer public safety reporting, alongside additional protections for users under 18.\n\nThe announcement follows months of scrutiny over OpenAI's safety practices. The company was criticized in Canada after ChatGPT failed to alert authorities about a user's violent chats ahead of a deadly shooting earlier in 2026, which pushed OpenAI to revise how flagged conversations get escalated to the relevant authorities.\n\n- OpenAI has previously said conversations indicating an imminent risk of serious harm can be escalated to human reviewers and, in some cases, referred to law enforcement, as it did in a Florida case in August 2026."
      },
      "addedAt": "2026-10-30T17:11:49+00:00"
+    },
+    {
+     "id": "nvidia-huggingface-monsterhouse-voice-agent",
+     "date": "2026-10-30",
+     "type": "product",
+     "importance": 1,
+     "sourceType": "official",
+     "sourceName": "Hugging Face Blog",
+     "url": "https://huggingface.co/blog/nvidia/nemotron-halloween",
+     "originalTitle": "nemotron-halloween",
+     "company": "NVIDIA",
+     "ar": {
+      "title": "NVIDIA تعرض \"MonsterHouse\" تجربة هالوين تفاعلية ببنية Nemotron Voice Agent",
+      "summary": "نشرت NVIDIA على Hugging Face تفصيلاً لمشروع هالوين تفاعلي يحوّل باب كراج إلى شخصية متكلمة باستخدام مكدّس Nemotron Voice Agent بالكامل.",
+      "details": "نشرت NVIDIA على مدونة Hugging Face شرحاً لمشروع \"MonsterHouse\"، وهو تركيب هالوين تفاعلي صممه أحد موظفيها، يحوّل باب كراج خشبي إلى شخصية متجهمة شبيهة بسفينة قراصنة غارقة، توزع الحلوى وتتذمر حتى يستخدم الزوار كلمات مهذبة مثل \"من فضلك\".\n\nيعمل المشروع بالكامل على منصة Nemotron Voice Agent من NVIDIA، ويجمع بين عدة نماذج: Nemotron Speech للتعرف على الكلام، ونموذج Nemotron 3.5 Bolt مع محول LoRA لصياغة الردود وبناء الشخصية، وNemotron TTS لتوليد صوت الشخصية من عينات صوتية قصيرة، وAudio2Face-3D لتحريك الفم ضمن محرك Unreal Engine 5، إضافة إلى Nemotron Nano Omni مع نماذج رؤية حاسوبية لتتبّع الزوار وعدّهم.\n\nيعمل النظام بالكامل على محطة عمل واحدة مزودة ببطاقتي NVIDIA RTX PRO من فئة Blackwell، وسجّلت الشركة زمن استجابة متوسطه نحو 1.7 ثانية من انتهاء الكلام حتى سماع الرد، ينخفض إلى نحو 0.72 ثانية للردود المخزّنة مسبقاً. لم تُصدر NVIDIA كود المشروع، لكنها نشرت دليلاً تفصيلياً لبناء شخصية مشابهة باستخدام منصتها."
+     },
+     "en": {
+      "title": "NVIDIA shows off Halloween voice-agent demo \"MonsterHouse\" on Hugging Face",
+      "summary": "NVIDIA detailed MonsterHouse, an interactive Halloween installation that turns a garage door into a talking character, built on its full Nemotron Voice Agent model stack.",
+      "details": "NVIDIA published a Hugging Face blog post describing MonsterHouse, an interactive Halloween installation built by one of its employees that turns a wooden garage door into a grumpy, sunken-pirate-ship-like character. It hands out candy and complains until visitors use polite manners such as saying \"please.\"\n\nThe project runs entirely on NVIDIA's Nemotron Voice Agent platform, combining several models: Nemotron Speech ASR for speech recognition, a Nemotron 3.5 Bolt model with a LoRA adapter for dialogue and personality, Nemotron TTS to clone the character's voice from short audio samples, Audio2Face-3D for mouth animation in Unreal Engine 5, and Nemotron Nano Omni with vision models to track and count visitors.\n\nThe whole system runs on a single workstation with two NVIDIA RTX PRO Blackwell GPUs. NVIDIA reported a median response time of about 1.70 seconds from end of speech to audio, dropping to about 0.72 seconds for cached responses. The MonsterHouse code itself was not released, but NVIDIA published a step-by-step guide for building a similar character with the platform."
+     },
+     "addedAt": "2026-10-30T18:09:46+00:00"
     },
     {
      "id": "nvidia-seti-agentic-ai-allen-array",
