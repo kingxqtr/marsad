@@ -1,43 +1,4 @@
 {
- "updatedAt": "2026-10-29T22:59:38+00:00",
- "items": [
-  {
-   "id": "auto-db71aa5edbe1",
-   "tab": "once-human",
-   "date": "2026-10-29",
-   "publishedAt": "2026-10-29T02:05:28+00:00",
-   "type": "community",
-   "importance": 1,
-   "sourceType": "community",
-   "sourceName": "r/OnceHumanOfficial",
-   "url": "https://www.reddit.com/r/OnceHumanOfficial/comments/1xi7kgf/my_beach_front_waffle_house_for_isles_of_the_abyss/",
-   "originalTitle": "My beach front Waffle House for Isles of the Abyss",
-   "en": {
-    "title": "My beach front Waffle House for Isles of the Abyss",
-    "summary": "Community post on r/OnceHumanOfficial. Server: NA Isles-Abyss-X0015 W1",
-    "details": "Community post on r/OnceHumanOfficial.\n\nServer: NA Isles-Abyss-X0015 W1"
-   },
-   "translated": false,
-   "fetchedAt": "2026-10-29T18:45:39+00:00"
-  },
-  {
-   "id": "auto-4eb84c804174",
-   "tab": "ai",
-   "date": "2026-10-29",
-   "publishedAt": "2026-10-29T12:41:56+00:00",
-   "type": "model",
-   "importance": 1,
-   "sourceType": "community",
-   "sourceName": "Hacker News",
-   "url": "https://news.ycombinator.com/item?id=50288019",
-   "originalTitle": "Gemini 4 Carbon is the new #1 on the Artificial Analysis Intelligence Index v5",
-   "en": {
-    "title": "Gemini 4 Carbon is the new #1 on the Artificial Analysis Intelligence Index v5",
-    "summary": "Community discussion on Hacker News (324 points, 240 comments).",
-    "details": "Community discussion on Hacker News (324 points, 240 comments)."
-   },
-   "translated": false,
-   "fetchedAt": "2026-10-29T18:45:38+00:00"
-  }
- ]
+ "updatedAt": "2026-10-30T02:29:22+00:00",
+ "items": []
 }
