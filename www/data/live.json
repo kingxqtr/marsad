@@ -1,6 +1,25 @@
 {
- "updatedAt": "2026-10-30T20:01:56+00:00",
+ "updatedAt": "2026-10-30T23:40:05+00:00",
  "items": [
+  {
+   "id": "auto-73a140ef8d62",
+   "tab": "ai",
+   "date": "2026-10-30",
+   "publishedAt": "2026-10-30T17:24:45+00:00",
+   "type": "product",
+   "importance": 1,
+   "sourceType": "community",
+   "sourceName": "Hacker News",
+   "url": "https://news.ycombinator.com/item?id=50307183",
+   "originalTitle": "Proton's CEO Cancels AI 'Re-Interviews'",
+   "en": {
+    "title": "Proton's CEO Cancels AI 'Re-Interviews'",
+    "summary": "Community discussion on Hacker News (252 points, 209 comments).",
+    "details": "Community discussion on Hacker News (252 points, 209 comments)."
+   },
+   "translated": false,
+   "fetchedAt": "2026-10-30T23:40:01+00:00"
+  },
   {
    "id": "auto-689c4beee157",
    "tab": "star-citizen",
@@ -33,8 +52,8 @@
    "originalTitle": "AI isn't replacing SREs, it's deskilling them",
    "en": {
     "title": "AI isn't replacing SREs, it's deskilling them",
-    "summary": "Community discussion on Hacker News (362 points, 283 comments).",
-    "details": "Community discussion on Hacker News (362 points, 283 comments)."
+    "summary": "Community discussion on Hacker News (470 points, 352 comments).",
+    "details": "Community discussion on Hacker News (470 points, 352 comments)."
    },
    "translated": false,
    "fetchedAt": "2026-10-30T20:01:51+00:00"
