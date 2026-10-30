@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": "2026-10-30T18:09:46+00:00",
+ "updatedAt": "2026-10-30T19:10:30+00:00",
  "coverage": {
   "from": "2026-07-30",
   "to": "2026-10-30"
@@ -1890,6 +1890,28 @@
       "details": "Breakthrough Listen and the SETI Institute have begun using agentic AI in their daily search for signals from extraterrestrial civilizations, NVIDIA said in a blog post.\n\nAt the Allen Telescope Array in Northern California, AI agents can now steer the instrument, clean and correct incoming data, and run AI models on the signal stream, all from a single natural-language request. NVIDIA's Holoscan platform processes the large volumes of sensor data the array produces, giving the agents live data to act on.\n\nNVIDIA says the approach makes the search for possible signals from distant civilizations faster and more adaptable than earlier manual workflows."
      },
      "addedAt": "2026-10-30T16:13:21+00:00"
+    },
+    {
+     "id": "openai-robots-txt-training-preferences",
+     "date": "2026-10-30",
+     "type": "policy",
+     "importance": 1,
+     "sourceType": "official",
+     "sourceName": "OpenAI News",
+     "url": "https://openai.com/index/helping-websites-express-ai-training-preferences",
+     "originalTitle": "Making it easier for websites to express AI training preferences",
+     "company": "OpenAI",
+     "ar": {
+      "title": "OpenAI تلتزم باحترام إشارة موحّدة في robots.txt لتفضيلات تدريب الذكاء الاصطناعي",
+      "summary": "أعلنت OpenAI أنها ستحترم إشارة مشتركة توضع في ملف robots.txt لمواقع الإنترنت لتبسيط التعبير عن تفضيلات أصحاب المواقع بشأن استخدام محتواهم في تدريب نماذج الذكاء الاصطناعي.",
+      "details": "أعلنت OpenAI أنها ستلتزم باحترام إشارة موحّدة توضع في ملف robots.txt الخاص بالمواقع، لتسهيل تعبير أصحاب المواقع عن تفضيلاتهم بشأن استخدام محتواهم في تدريب نماذج الذكاء الاصطناعي.\n\nتأتي هذه الخطوة في سياق جهود أوسع لتوحيد طريقة إبلاغ مزودي الذكاء الاصطناعي بتفضيلات المواقع، بعد أن كانت القواعد المتعلقة بزواحف التدريب (مثل GPTBot) مبعثرة بين عدة توجيهات مختلفة.\n\n- الإشارة موجّهة للمزودين المشاركين في الاتفاق، وتتعلق بتفضيلات التدريب تحديداً، وليس بالضرورة بزيارات أخرى مثل الزحف لأغراض البحث داخل ChatGPT."
+     },
+     "en": {
+      "title": "OpenAI commits to honoring shared robots.txt signal for AI training preferences",
+      "summary": "OpenAI said it will honor a shared robots.txt signal that lets website operators express, in one place, whether their content may be used to train AI models.",
+      "details": "OpenAI announced it will honor a shared signal placed in websites' robots.txt files so site operators can state their preferences about having their content used for AI model training.\n\nThe move is part of a broader push to standardize how website preferences are communicated to AI companies, after rules for training crawlers such as GPTBot had been scattered across separate, provider-specific directives.\n\n- The signal applies to providers who choose to participate and is specific to training preferences, not necessarily other visits such as crawling for ChatGPT's search features."
+     },
+     "addedAt": "2026-10-30T19:10:30+00:00"
     },
     {
      "id": "mistral-large-4-open-weights-huggingface",

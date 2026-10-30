@@ -85,6 +85,27 @@
         "summary": "OpenAI published a community safety report and announced new teen protections, saying it is widening ChatGPT's violence-prevention safeguards, intervening earlier in risky chats, and committing to clearer public safety reporting.",
         "details": "OpenAI published an official post titled \"Community safety report and new protections for teens,\" saying it is expanding violence-prevention safeguards in ChatGPT, intervening earlier when it detects concerning conversations, and making a new commitment to clearer public safety reporting, alongside additional protections for users under 18.\n\nThe announcement follows months of scrutiny over OpenAI's safety practices. The company was criticized in Canada after ChatGPT failed to alert authorities about a user's violent chats ahead of a deadly shooting earlier in 2026, which pushed OpenAI to revise how flagged conversations get escalated to the relevant authorities.\n\n- OpenAI has previously said conversations indicating an imminent risk of serious harm can be escalated to human reviewers and, in some cases, referred to law enforcement, as it did in a Florida case in August 2026."
       }
+    },
+    {
+      "id": "openai-robots-txt-training-preferences",
+      "date": "2026-10-30",
+      "type": "policy",
+      "importance": 1,
+      "sourceType": "official",
+      "sourceName": "OpenAI News",
+      "url": "https://openai.com/index/helping-websites-express-ai-training-preferences",
+      "originalTitle": "Making it easier for websites to express AI training preferences",
+      "company": "OpenAI",
+      "ar": {
+        "title": "OpenAI تلتزم باحترام إشارة موحّدة في robots.txt لتفضيلات تدريب الذكاء الاصطناعي",
+        "summary": "أعلنت OpenAI أنها ستحترم إشارة مشتركة توضع في ملف robots.txt لمواقع الإنترنت لتبسيط التعبير عن تفضيلات أصحاب المواقع بشأن استخدام محتواهم في تدريب نماذج الذكاء الاصطناعي.",
+        "details": "أعلنت OpenAI أنها ستلتزم باحترام إشارة موحّدة توضع في ملف robots.txt الخاص بالمواقع، لتسهيل تعبير أصحاب المواقع عن تفضيلاتهم بشأن استخدام محتواهم في تدريب نماذج الذكاء الاصطناعي.\n\nتأتي هذه الخطوة في سياق جهود أوسع لتوحيد طريقة إبلاغ مزودي الذكاء الاصطناعي بتفضيلات المواقع، بعد أن كانت القواعد المتعلقة بزواحف التدريب (مثل GPTBot) مبعثرة بين عدة توجيهات مختلفة.\n\n- الإشارة موجّهة للمزودين المشاركين في الاتفاق، وتتعلق بتفضيلات التدريب تحديداً، وليس بالضرورة بزيارات أخرى مثل الزحف لأغراض البحث داخل ChatGPT."
+      },
+      "en": {
+        "title": "OpenAI commits to honoring shared robots.txt signal for AI training preferences",
+        "summary": "OpenAI said it will honor a shared robots.txt signal that lets website operators express, in one place, whether their content may be used to train AI models.",
+        "details": "OpenAI announced it will honor a shared signal placed in websites' robots.txt files so site operators can state their preferences about having their content used for AI model training.\n\nThe move is part of a broader push to standardize how website preferences are communicated to AI companies, after rules for training crawlers such as GPTBot had been scattered across separate, provider-specific directives.\n\n- The signal applies to providers who choose to participate and is specific to training preferences, not necessarily other visits such as crawling for ChatGPT's search features."
+      }
     }
   ],
   "upcoming": [],
