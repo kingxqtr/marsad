@@ -22,8 +22,7 @@
         "summary": "Meta is funding Canadian nonprofit CNIB to gather feedback from blind, Deafblind and low-vision Canadians on its AI glasses and donate hardware through a jobs program.",
         "details": "Meta announced a partnership with CNIB, a Canadian non-profit founded in 1918 that supports people who are blind, Deafblind or have low vision, aimed at bringing its AI glasses to more Canadians in that community.\n\nUnder the deal, Meta is funding CNIB to gather experiences from across Canada on how AI glasses can support users' independence, back \"community champions\" who lead in-person peer training and demonstrations, feed community insights back to Meta's accessibility and product teams, and produce accessible guides and training materials.\n\nMeta is also donating AI glasses hardware through CNIB's Come to Work program, which helps participants assess how wearable technology can support job searching and workplace success.\n\n- Cited use cases include reading text, identifying objects and describing surroundings.\n- The glasses also support music playback, live translation and hands-free calls."
       }
-    }
-    ,
+    },
     {
       "id": "nvidia-seti-agentic-ai-allen-array",
       "date": "2026-10-30",
@@ -43,6 +42,27 @@
         "title": "NVIDIA agentic AI tools join the search for extraterrestrial signals",
         "summary": "Breakthrough Listen and the SETI Institute now use agentic AI with NVIDIA's Holoscan platform to steer the Allen Telescope Array and analyze signal data from plain-language requests.",
         "details": "Breakthrough Listen and the SETI Institute have begun using agentic AI in their daily search for signals from extraterrestrial civilizations, NVIDIA said in a blog post.\n\nAt the Allen Telescope Array in Northern California, AI agents can now steer the instrument, clean and correct incoming data, and run AI models on the signal stream, all from a single natural-language request. NVIDIA's Holoscan platform processes the large volumes of sensor data the array produces, giving the agents live data to act on.\n\nNVIDIA says the approach makes the search for possible signals from distant civilizations faster and more adaptable than earlier manual workflows."
+      }
+    },
+    {
+      "id": "openai-community-safety-report-teens",
+      "date": "2026-10-30",
+      "type": "policy",
+      "importance": 2,
+      "sourceType": "official",
+      "sourceName": "OpenAI News",
+      "url": "https://openai.com/index/community-safety-report-and-new-protections-for-teens",
+      "originalTitle": "Community safety report and new protections for teens",
+      "company": "OpenAI",
+      "ar": {
+        "title": "OpenAI تنشر تقرير سلامة المجتمع وتضيف حماية جديدة للمراهقين",
+        "summary": "نشرت OpenAI تقريراً عن سلامة المجتمع وأعلنت عن حماية جديدة للمراهقين، موسّعةً ضمانات منع العنف في ChatGPT وتدخّلها المبكر في المحادثات الخطرة، مع التزام أوضح بالإبلاغ عن قضايا السلامة العامة.",
+        "details": "نشرت OpenAI منشوراً رسمياً بعنوان \"تقرير سلامة المجتمع وحماية جديدة للمراهقين\"، قالت فيه إنها توسّع ضمانات منع العنف داخل ChatGPT، وتتدخّل في مرحلة أبكر عند رصد محادثات مثيرة للقلق، إلى جانب التزام جديد بتحسين آلية الإبلاغ عن قضايا السلامة العامة، بالتوازي مع حماية إضافية للمستخدمين دون 18 عاماً.\n\nيأتي هذا الإعلان بعد أشهر من التدقيق على سياسات OpenAI للسلامة، إذ تعرّضت الشركة لانتقادات في كندا بعد أن فشل ChatGPT في تنبيه السلطات بشأن محادثات عنيفة لمستخدم قبل إطلاق نار مروع وقع مطلع عام 2026، ما دفعها إلى مراجعة آلية تصعيد المحادثات المرصودة إلى الجهات المعنية.\n\n- قالت الشركة سابقاً إن المحادثات التي تشير إلى خطر وشيك بإلحاق ضرر جسيم يمكن تصعيدها إلى مراجعين بشريين، وفي حالات معيّنة إلى جهات تنفيذ القانون، كما حدث في إحالة حالة من فلوريدا في أغسطس 2026."
+      },
+      "en": {
+        "title": "OpenAI publishes community safety report, adds new teen protections",
+        "summary": "OpenAI published a community safety report and announced new teen protections, saying it is widening ChatGPT's violence-prevention safeguards, intervening earlier in risky chats, and committing to clearer public safety reporting.",
+        "details": "OpenAI published an official post titled \"Community safety report and new protections for teens,\" saying it is expanding violence-prevention safeguards in ChatGPT, intervening earlier when it detects concerning conversations, and making a new commitment to clearer public safety reporting, alongside additional protections for users under 18.\n\nThe announcement follows months of scrutiny over OpenAI's safety practices. The company was criticized in Canada after ChatGPT failed to alert authorities about a user's violent chats ahead of a deadly shooting earlier in 2026, which pushed OpenAI to revise how flagged conversations get escalated to the relevant authorities.\n\n- OpenAI has previously said conversations indicating an imminent risk of serious harm can be escalated to human reviewers and, in some cases, referred to law enforcement, as it did in a Florida case in August 2026."
       }
     }
   ],
