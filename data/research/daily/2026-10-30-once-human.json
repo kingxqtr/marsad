@@ -1,7 +1,28 @@
 {
   "topic": "once-human",
   "generatedAt": "2026-10-30",
-  "news": [],
+  "news": [
+    {
+      "id": "oh-3-1-1-bugfixes-oct30",
+      "date": "2026-10-30",
+      "type": "update",
+      "importance": 1,
+      "sourceType": "official",
+      "sourceName": "Once Human — Steam News",
+      "url": "https://store.steampowered.com/news/app/2139460/view/1847920302237926",
+      "originalTitle": "3.1.1 Bug Fixes (October 30)",
+      "ar": {
+        "title": "Once Human يصلح خللاً في زر القفز على الهاتف وأخطاء في القوارب والسوق",
+        "summary": "أصدرت Once Human في 30 أكتوبر إصلاحات لخلل في زر القفز على الهاتف بعد ترك تمساح Bay، ومشكلة تفاعل مع ورش إصلاح القوارب، ونقص في وصفة فانوس من Wish Bazaar.",
+        "details": "أصدرت Once Human دفعة جديدة من إصلاحات تحديث 3.1.1 في 30 أكتوبر، يُتوقع اكتمالها بحلول الساعة 4 صباحاً بتوقيت المحيط الهادئ.\n\nتشمل الإصلاحات: استعادة زر القفز على نسخة الهاتف المحمول الذي كان يختفي بعد النزول عن تمساح Bay فوق سطح الماء؛ حل مشكلة كان يتعذر فيها على اللاعبين التفاعل بشكل طبيعي مع منشآت الإصلاح الذاتي للقوارب بعد تضررها؛ وإصلاح عدم استلام وصفة فانوس اليقطين المبتسم (Smiling Pumpkin Lantern) عند شرائه من Wish Bazaar، على أن تُرسل الوصفة لمن اشترى الأثاث بالفعل عبر البريد داخل اللعبة خلال 3 أيام عمل.\n\nكما زادت الكمية القابلة للحصول عليها من طاقم Precision Gear في البرية."
+      },
+      "en": {
+        "title": "Once Human fixes mobile jump bug, boat repair and Wish Bazaar item issues",
+        "summary": "An October 30 patch restored a mobile jump button bug after dismounting a Bay Crocodile, fixed a boat auto-repair interaction issue, and corrected a missing Wish Bazaar furniture formula.",
+        "details": "Once Human issued another round of 3.1.1 bug fixes on October 30, expected to complete by 4:00 AM PT.\n\nFixes include: the Jump button on mobile no longer disappears after dismounting a Bay Crocodile on the water surface; players can now interact normally with a boat's auto-repair facilities once they were damaged; and players who bought the Smiling Pumpkin Lantern furniture from the Wish Bazaar but didn't receive its formula will get it by in-game mail within 3 business days.\n\nThe obtainable amount of the Precision Gear Set in the wilderness was also increased."
+      }
+    }
+  ],
   "upcoming": [],
   "removeUpcoming": [],
   "removeNews": []
