@@ -1,7 +1,29 @@
 {
   "topic": "ai",
   "generatedAt": "2026-10-31",
-  "news": [],
+  "news": [
+    {
+      "id": "openai-fair-use-court-briefs",
+      "date": "2026-10-30",
+      "type": "policy",
+      "importance": 1,
+      "sourceType": "official",
+      "sourceName": "OpenAI News",
+      "url": "https://openai.com/index/fair-use-benefits-everyone",
+      "originalTitle": "Fair use benefits everyone",
+      "company": "OpenAI",
+      "ar": {
+        "title": "OpenAI تنشر مقتطفات قضائية تدعم \"الاستخدام العادل\" في تدريب الذكاء الاصطناعي",
+        "summary": "نشرت OpenAI مقتطفات من مذكرات قضائية لمبدعين وأكاديميين وخبراء قانونيين تؤكد أن الاستخدام العادل في تدريب نماذج الذكاء الاصطناعي يخدم المصلحة العامة والابتكار.",
+        "details": "نشرت شركة OpenAI تدوينة تجمع مقتطفات من مذكرات قضائية ومذكرات داعمة قدمها مبدعون وأكاديميون ومناصرو إمكانية الوصول وخبراء قانونيون، يدعمون فيها اعتبار تدريب أنظمة الذكاء الاصطناعي على مواد محمية بحقوق النشر ضمن مبدأ \"الاستخدام العادل\".\n\nيأتي هذا المنشور في وقت تواجه فيه OpenAI عدة دعاوى قضائية بتهمة انتهاك حقوق النشر من كتّاب وناشرين ومؤسسات إخبارية بسبب استخدام نصوص محمية لتدريب نماذجها، وتجادل الشركة بأن تفسيرًا واسعًا لمبدأ الاستخدام العادل في هذا السياق يخدم المصلحة العامة ويتيح استمرار الابتكار.\n\n- تسلّط التدوينة الضوء على آراء من خارج فريق OpenAI القانوني، بما فيها أكاديميون ومناصرو إمكانية الوصول\n- تُصوَّر القضية على أنها تخدم المجتمع ككل وليس شركات الذكاء الاصطناعي فقط"
+      },
+      "en": {
+        "title": "OpenAI publishes court brief excerpts defending fair use in AI training",
+        "summary": "OpenAI shared excerpts from court filings by creators, academics and legal experts arguing fair use for AI training benefits society and innovation, amid its copyright lawsuits.",
+        "details": "OpenAI published a blog post compiling excerpts from court and amicus briefs filed by creators, academics, accessibility advocates and legal scholars who support treating AI training on copyrighted material as fair use.\n\nThe post comes as OpenAI faces multiple copyright lawsuits from authors, publishers and news organizations over using copyrighted text to train its models. The company argues that a broad fair-use reading for AI training serves the public interest and keeps innovation moving.\n\n- Highlights voices outside OpenAI's own legal team, including academics and accessibility advocates\n- Frames the fair-use debate as benefiting society broadly, not just AI companies"
+      }
+    }
+  ],
   "upcoming": [],
   "removeUpcoming": [],
   "removeNews": []

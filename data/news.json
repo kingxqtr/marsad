@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": "2026-10-30T21:12:57+00:00",
+ "updatedAt": "2026-10-30T22:10:32+00:00",
  "coverage": {
   "from": "2026-07-30",
   "to": "2026-10-30"
@@ -1868,6 +1868,28 @@
       "details": "NVIDIA published a Hugging Face blog post describing MonsterHouse, an interactive Halloween installation built by one of its employees that turns a wooden garage door into a grumpy, sunken-pirate-ship-like character. It hands out candy and complains until visitors use polite manners such as saying \"please.\"\n\nThe project runs entirely on NVIDIA's Nemotron Voice Agent platform, combining several models: Nemotron Speech ASR for speech recognition, a Nemotron 3.5 Bolt model with a LoRA adapter for dialogue and personality, Nemotron TTS to clone the character's voice from short audio samples, Audio2Face-3D for mouth animation in Unreal Engine 5, and Nemotron Nano Omni with vision models to track and count visitors.\n\nThe whole system runs on a single workstation with two NVIDIA RTX PRO Blackwell GPUs. NVIDIA reported a median response time of about 1.70 seconds from end of speech to audio, dropping to about 0.72 seconds for cached responses. The MonsterHouse code itself was not released, but NVIDIA published a step-by-step guide for building a similar character with the platform."
      },
      "addedAt": "2026-10-30T18:09:46+00:00"
+    },
+    {
+     "id": "openai-fair-use-court-briefs",
+     "date": "2026-10-30",
+     "type": "policy",
+     "importance": 1,
+     "sourceType": "official",
+     "sourceName": "OpenAI News",
+     "url": "https://openai.com/index/fair-use-benefits-everyone",
+     "originalTitle": "Fair use benefits everyone",
+     "company": "OpenAI",
+     "ar": {
+      "title": "OpenAI تنشر مقتطفات قضائية تدعم \"الاستخدام العادل\" في تدريب الذكاء الاصطناعي",
+      "summary": "نشرت OpenAI مقتطفات من مذكرات قضائية لمبدعين وأكاديميين وخبراء قانونيين تؤكد أن الاستخدام العادل في تدريب نماذج الذكاء الاصطناعي يخدم المصلحة العامة والابتكار.",
+      "details": "نشرت شركة OpenAI تدوينة تجمع مقتطفات من مذكرات قضائية ومذكرات داعمة قدمها مبدعون وأكاديميون ومناصرو إمكانية الوصول وخبراء قانونيون، يدعمون فيها اعتبار تدريب أنظمة الذكاء الاصطناعي على مواد محمية بحقوق النشر ضمن مبدأ \"الاستخدام العادل\".\n\nيأتي هذا المنشور في وقت تواجه فيه OpenAI عدة دعاوى قضائية بتهمة انتهاك حقوق النشر من كتّاب وناشرين ومؤسسات إخبارية بسبب استخدام نصوص محمية لتدريب نماذجها، وتجادل الشركة بأن تفسيرًا واسعًا لمبدأ الاستخدام العادل في هذا السياق يخدم المصلحة العامة ويتيح استمرار الابتكار.\n\n- تسلّط التدوينة الضوء على آراء من خارج فريق OpenAI القانوني، بما فيها أكاديميون ومناصرو إمكانية الوصول\n- تُصوَّر القضية على أنها تخدم المجتمع ككل وليس شركات الذكاء الاصطناعي فقط"
+     },
+     "en": {
+      "title": "OpenAI publishes court brief excerpts defending fair use in AI training",
+      "summary": "OpenAI shared excerpts from court filings by creators, academics and legal experts arguing fair use for AI training benefits society and innovation, amid its copyright lawsuits.",
+      "details": "OpenAI published a blog post compiling excerpts from court and amicus briefs filed by creators, academics, accessibility advocates and legal scholars who support treating AI training on copyrighted material as fair use.\n\nThe post comes as OpenAI faces multiple copyright lawsuits from authors, publishers and news organizations over using copyrighted text to train its models. The company argues that a broad fair-use reading for AI training serves the public interest and keeps innovation moving.\n\n- Highlights voices outside OpenAI's own legal team, including academics and accessibility advocates\n- Frames the fair-use debate as benefiting society broadly, not just AI companies"
+     },
+     "addedAt": "2026-10-30T22:10:32+00:00"
     },
     {
      "id": "nvidia-seti-agentic-ai-allen-array",
