@@ -1,4 +1,24 @@
 {
- "updatedAt": "2026-11-01T19:09:55+00:00",
- "items": []
+ "updatedAt": "2026-11-01T22:47:30+00:00",
+ "items": [
+  {
+   "id": "auto-9d919490eb2c",
+   "tab": "ai",
+   "date": "2026-11-01",
+   "publishedAt": "2026-11-01T06:06:19+00:00",
+   "type": "product",
+   "importance": 1,
+   "sourceType": "community",
+   "sourceName": "Hacker News",
+   "url": "https://news.ycombinator.com/item?id=50323088",
+   "originalTitle": "The AI cost of JavaScript frameworks",
+   "en": {
+    "title": "The AI cost of JavaScript frameworks",
+    "summary": "Community discussion on Hacker News (270 points, 209 comments).",
+    "details": "Community discussion on Hacker News (270 points, 209 comments)."
+   },
+   "translated": false,
+   "fetchedAt": "2026-11-01T22:47:25+00:00"
+  }
+ ]
 }
