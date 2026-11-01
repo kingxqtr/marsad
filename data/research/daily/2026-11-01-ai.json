@@ -1,7 +1,28 @@
 {
   "topic": "ai",
   "generatedAt": "2026-11-01",
-  "news": [],
+  "news": [
+    {
+      "id": "heretic-2-0-model-modification-tool",
+      "date": "2026-11-01",
+      "type": "coding",
+      "importance": 1,
+      "sourceType": "community",
+      "sourceName": "r/LocalLLaMA",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xl2tcm/heretic_20_released_model_modification_for/",
+      "originalTitle": "Heretic 2.0 released: Model modification for everyone",
+      "ar": {
+        "title": "إطلاق Heretic 2.0 لتعديل النماذج مفتوحة المصدر",
+        "summary": "أصدر مطور مستقل النسخة 2.0 من أداة Heretic مفتوحة المصدر، التي تحولت من أداة متخصصة في إزالة قيود الرقابة إلى أداة عامة لتعديل سلوك نماذج اللغة.",
+        "details": "أعلن مطور مستقل عبر منتدى r/LocalLLaMA إصدار النسخة 2.0 من Heretic، وهي أداة مفتوحة المصدر تجاوز استخدامها 8,500 نموذج على Hugging Face وأكثر من 88 مليون عملية تنزيل.\n\nفي البداية كانت الأداة مخصصة لإزالة قيود الرقابة من نماذج اللغة، لكن النسخة الجديدة توسع نطاقها لتصبح أداة عامة لتعديل سلوك النماذج، بما يشمل تقليل الأسلوب المصطنع في الردود والتحكم في الانحياز العاطفي للنموذج، إلى جانب وظيفتها الأساسية.\n\nأهم تغيير تقني في هذا الإصدار هو استبدال طريقة \"الاستئصال الاتجاهي\" السابقة بطريقة جديدة طورها المطور من الصفر أسماها \"الاستئصال التعسفي متعدد الرتب\" (ARA)، ووصفها بأنها أكثر فعالية من الطريقة القديمة التي لا تزال متاحة كخيار اختياري."
+      },
+      "en": {
+        "title": "Heretic 2.0 open-source model modification tool released",
+        "summary": "An independent developer released version 2.0 of Heretic, an open-source tool that has grown from a censorship-removal utility into a general-purpose language model behavior editor.",
+        "details": "An independent developer announced the release of Heretic 2.0 on r/LocalLLaMA. The open-source project has been applied to more than 8,500 models on Hugging Face, with over 88 million total downloads.\n\nOriginally built to remove refusal behavior from language models, the new version broadens its scope into a general-purpose model modification tool, also able to reduce repetitive \"AI-sounding\" phrasing and adjust a model's emotional tone, alongside its original censorship-removal function.\n\nThe main technical change in this release replaces the previous \"directional abliteration\" method with a new technique the developer built from scratch, called Arbitrary-Rank Ablation (ARA), described as a significant improvement over the older method, which remains available as an optional setting."
+      }
+    }
+  ],
   "upcoming": [],
   "removeUpcoming": [],
   "removeNews": []
