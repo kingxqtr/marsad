@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": "2026-11-01T22:09:32+00:00",
+ "updatedAt": "2026-11-01T23:11:13+00:00",
  "coverage": {
   "from": "2026-08-01",
   "to": "2026-11-01"
@@ -1846,6 +1846,28 @@
   },
   "ai": {
    "news": [
+    {
+     "id": "qwen38-27b-gvs5h-livecodebench-claim",
+     "date": "2026-11-01",
+     "type": "model",
+     "importance": 1,
+     "sourceType": "community",
+     "sourceName": "r/LocalLLaMA",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xkxt7a/memdoor_a_team_of_5_qwen3827b_models_beats_fable/",
+     "originalTitle": "Memdoor: A team of 5 Qwen3.8-27B models beats Fable 5 on LiveCodeBench Hard",
+     "tool": "Qwen3.8-27B",
+     "ar": {
+      "title": "فريق من نماذج Qwen3.8-27B مفتوحة المصدر يطابق أداء Fable 5 في اختبار برمجي",
+      "summary": "يعلن نظام متعدد الوكلاء يشغّل نسخاً من Qwen3.8-27B تحقيق دقة 92.4% في اختبار LiveCodeBench الصعب مقابل 90.4% لـ Fable 5، مع إشارة الباحثين إلى أن الفارق ضمن هامش الخطأ.",
+      "details": "أشار منشور في مجتمع r/LocalLLaMA إلى مشروع GVS5H، وهو نظام متعدد الوكلاء لا يحتاج إلى تدريب إضافي، حيث تتعاون عدة نسخ من نموذج Qwen3.8-27B مفتوح المصدر بأدوار مدير وعمال ومنفذ نهائي عبر ملفات مشتركة، ثم يتحقق مُدقق مستقل من الشيفرة المرشحة باستخدام اختبارات عامة.\n\nوبهذه الطريقة ارتفعت دقة Qwen3.8-27B (pass@1) على مجموعة من 100 مسألة صعبة من LiveCodeBench من 66.8% في الاستدعاء الواحد إلى 92.4%، متجاوزة بذلك نتيجة Fable 5 من Anthropic البالغة 90.4% في الاستدعاء الواحد. كما حقق إصدار أكبر هو Qwen3.8-Flash-Next نتيجة 93.0% بالطريقة نفسها.\n\nلكن تقرير المشروع نفسه أكثر تحفظاً من عنوان المنشور: الفارق نحو نقطتين فقط، وفترة الثقة الإحصائية لا تستبعد تقدّم Fable 5 فعلياً، وجزء من التحسن يعود إلى تصحيح استدعاءات فردية استهلكت حد الرموز المسموح به بدل تحسّن حقيقي في البرمجة. كما اكتشف الباحثون وصححوا خللاً في أداة تصحيح LiveCodeBench، مشيرين إلى أن النتائج ذاتية التقرير ولم تُختبر بشكل مستقل حتى الآن."
+     },
+     "en": {
+      "title": "Open-weight Qwen3.8-27B team claims to match Claude Fable 5 on coding test",
+      "summary": "A multi-agent harness running Qwen3.8-27B instances reports 92.4% pass@1 on LiveCodeBench Hard versus Fable 5's 90.4%, though the authors say the gap is within their margin of error.",
+      "details": "A post on r/LocalLLaMA pointed to the GVS5H project, a training-free multi-agent harness where several instances of the open-weight Qwen3.8-27B model coordinate as manager, workers and finalizer through shared files, after which a separate verifier checks candidate code against public tests.\n\nRun this way, Qwen3.8-27B's pass@1 on a 100-problem LiveCodeBench Hard set rose from 66.8% on a single call to 92.4%, edging past Claude Fable 5's single-call score of 90.4%. A larger Qwen3.8-Flash-Next variant reached 93.0% with the same harness.\n\nThe project's own writeup is more cautious than the post's title: the gap is only about 2 points, with a confidence interval that cannot rule out Fable 5 still being ahead, and part of the gain comes from fixing single calls that ran out of tokens rather than a clear coding improvement. The authors also found and corrected a grading bug in LiveCodeBench's test harness, and note the results are self-reported with no independent replication yet."
+     },
+     "addedAt": "2026-11-01T23:11:13+00:00"
+    },
     {
      "id": "heretic-2-0-model-modification-tool",
      "date": "2026-11-01",
