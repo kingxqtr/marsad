@@ -1,9 +1,9 @@
 {
  "version": 1,
- "updatedAt": "2026-10-31T23:08:31+00:00",
+ "updatedAt": "2026-11-01T00:09:20+00:00",
  "coverage": {
-  "from": "2026-07-31",
-  "to": "2026-10-31"
+  "from": "2026-08-01",
+  "to": "2026-11-01"
  },
  "tabs": {
   "once-human": {
@@ -8567,74 +8567,6 @@
       "details": "Alibaba's Qwen team introduced Qwen3.8-Max on August 3, calling it the most capable Qwen model yet, built for coding, office work, research and long multi-step tasks.\n\nKey facts:\n- About 2.4 trillion parameters in a mixture-of-experts design, with roughly 95B active per token.\n- The hosted version on Alibaba Cloud offers a 1-million-token context and text, image and video input, from $1.65 per million input tokens depending on region.\n- Open weights, named Qwen3.8-2.4T-A95B, went live on August 12; that version is text-only and runs in thinking mode, with a native 262K context extendable to about 1M.\n- A smaller multimodal Qwen3.8-27B followed under Apache 2.0.\n\nThe large model uses a custom licence: products with over 100 million monthly users or $20 million in monthly revenue must display the model name, and model-as-a-service or AI work-assistant businesses earning over $50 million a year need a separate licence. An upgraded snapshot, Qwen3.8-Max-0902, arrived on September 2."
      },
      "addedAt": "2026-08-03T23:59:59+00:00"
-    },
-    {
-     "id": "gema-v-suno-munich-ruling",
-     "date": "2026-07-31",
-     "type": "policy",
-     "importance": 3,
-     "sourceType": "official",
-     "sourceName": "GEMA",
-     "url": "https://www.gema.de/en/w/gema-prevails-over-suno",
-     "originalTitle": "Court rules in favour of music creators: GEMA prevails over SUNO, raising the bar for international copyright law",
-     "company": "Suno",
-     "ar": {
-      "title": "محكمة ميونخ تحكم لصالح GEMA ضد Suno في أول قضية أوروبية لموسيقى الذكاء الاصطناعي",
-      "summary": "حكمت المحكمة الإقليمية في ميونخ لصالح جمعية حقوق الموسيقى الألمانية GEMA ضد Suno، معتبرة أن تدريب النموذج على أغانٍ محمية وإعادة إنتاجها دون ترخيص ينتهك حقوق المؤلف، والحكم قابل للاستئناف.",
-      "details": "أصدرت المحكمة الإقليمية في ميونخ في 31 يوليو 2026 حكماً جاء في معظمه لصالح GEMA، جمعية حقوق الموسيقى في ألمانيا، في دعواها ضد Suno، وهو أول حكم أوروبي يتناول أداة لتوليد الموسيقى بالذكاء الاصطناعي.\n\n- تمحورت القضية حول ست أغانٍ شهيرة هي Forever Young وAtemlos وMambo No. 5 وRasputin وBig in Japan وDaddy Cool.\n- بحسب GEMA، رأت المحكمة أن تدريب أنظمة Suno على أعمال GEMA دون ترخيص، وتخزين نسخ من الأعمال المحمية، وتوليد مخرجات مشابهة للأصل، كلها تنتهك حقوق المؤلف.\n- وتقول GEMA إن المحكمة أكدت أن مزودي الذكاء الاصطناعي ملزمون بالحصول على ترخيص منها حتى وفق قانون حقوق المؤلف الأمريكي، في أول مرة تبت فيها محكمة أوروبية في تدريب جرى داخل الولايات المتحدة.\n\nالحكم غير نهائي ويمكن لـSuno استئنافه، ويأتي بعد فوز GEMA على OpenAI أمام المحكمة نفسها في نوفمبر 2025، وهو حكم لا يزال قيد الاستئناف. وتطالب GEMA شركات الذكاء الاصطناعي بترخيص أعمالها ودفع مقابل عادل للمبدعين."
-     },
-     "en": {
-      "title": "Munich court rules for GEMA against Suno in first European AI-music case",
-      "summary": "The Munich Regional Court sided with German music rights society GEMA against Suno, finding that training on and reproducing protected songs without a licence infringed copyright. The ruling can be appealed.",
-      "details": "The Munich Regional Court ruled largely in favour of GEMA, Germany's music rights society, in its case against Suno on July 31, 2026. It is the first European judgment on a generative AI music tool.\n\n- The case centred on six well-known works: Forever Young, Atemlos, Mambo No. 5, Rasputin, Big in Japan and Daddy Cool.\n- According to GEMA, the court found that training Suno's systems on GEMA repertoire without a licence, storing copies of protected works and generating outputs similar to the originals all infringed copyright.\n- GEMA says the court also held that, even under U.S. copyright law, AI providers need a licence from GEMA, the first time a European court has ruled on AI training carried out in the United States.\n\nThe judgment is not final and Suno can appeal. It follows GEMA's November 2025 win against OpenAI in the same court, which is under appeal. GEMA is calling on AI companies to license its repertoire and pay creators fairly."
-     },
-     "addedAt": "2026-07-31T23:59:59+00:00"
-    },
-    {
-     "id": "bytedance-seedance-2-5-launch",
-     "date": "2026-07-31",
-     "type": "media",
-     "importance": 2,
-     "sourceType": "official",
-     "sourceName": "ByteDance Seed Blog",
-     "url": "https://seed.bytedance.com/en/blog/one-take-creation-flexible-referencing-introducing-seedance-2-5",
-     "originalTitle": "One-take Creation, Flexible Referencing: Introducing Seedance 2.5",
-     "company": "ByteDance",
-     "tool": "Seedance 2.5",
-     "ar": {
-      "title": "ByteDance تطلق Seedance 2.5 لتوليد فيديو مع صوت حتى 30 ثانية في لقطة واحدة",
-      "summary": "أطلق فريق ByteDance Seed نموذج Seedance 2.5 لتوليد الصوت والفيديو معاً حتى 30 ثانية في اللقطة، مع دعم عشرات المراجع من الصور والفيديو والصوت، وتعديل دقيق على مستوى التوقيت.",
-      "details": "أطلق فريق ByteDance Seed نموذج Seedance 2.5 لتوليد الصوت والفيديو معاً، ويستهدف السرد الأطول في لقطة واحدة.\n\n- المدة: حتى 30 ثانية في كل عملية توليد، مع إمكانية التمديد على عدة جولات للوصول إلى مقاطع تمتد لدقائق.\n- المراجع: حتى 30 صورة و10 مقاطع فيديو و10 مقاطع صوتية في الطلب الواحد.\n- التعديل: يمكن استهداف توقيتات محددة داخل المقطع، مع دعم استبدال الخلفية الخضراء وتعديل زاوية الكاميرا والتعديل المعتمد على المراجع.\n- الصوت: يُولَّد الصوت والصورة معاً، مع التحكم في الموسيقى الخلفية.\n\nوعند الإطلاق طُرح النموذج في تطبيقي Jimeng AI وDoubao في الصين، مع إعلان وصول واجهة API عبر BytePlus ModelArk قريباً. وسرعان ما وصل إلى أدوات إبداعية عالمية، إذ أضافته Luma في 6 أغسطس، ووسّعت Runway دعمه إلى دقة 1080p في 15 أغسطس."
-     },
-     "en": {
-      "title": "ByteDance launches Seedance 2.5 with 30-second video and audio in one take",
-      "summary": "ByteDance's Seed team released Seedance 2.5, a joint audio-video model that generates up to 30 seconds per shot, accepts dozens of image, video and audio references, and adds timestamp-level editing.",
-      "details": "ByteDance Seed has released Seedance 2.5, a joint audio-video model aimed at longer, single-take storytelling.\n\n- Length: up to 30 seconds per generation, and clips can be extended over several rounds into multi-minute pieces.\n- References: up to 30 images, 10 video clips and 10 audio clips in a single request.\n- Editing: changes can target precise timestamps, and the model supports green-screen background replacement, camera-angle edits and reference-based edits.\n- Sound: audio and picture are generated together, with control over background music.\n\nAt launch the model rolled out in ByteDance's Jimeng AI and Doubao apps in China, with API access on BytePlus ModelArk announced as coming soon. It quickly reached international creative tools too: Luma added it on August 6, and Runway extended it to 1080p on August 15."
-     },
-     "addedAt": "2026-07-31T23:59:59+00:00"
-    },
-    {
-     "id": "minimax-h3-hailuo-video-model",
-     "date": "2026-07-31",
-     "type": "media",
-     "importance": 2,
-     "sourceType": "official",
-     "sourceName": "MiniMax News",
-     "url": "https://www.minimax.io/blog/minimax-h3",
-     "originalTitle": "MiniMax H3: An Open Model Breaking the Boundaries Between Tasks and Modalities",
-     "company": "MiniMax",
-     "tool": "MiniMax H3 (Hailuo)",
-     "ar": {
-      "title": "MiniMax تطلق H3 لتوليد فيديو بدقة 2K مع صوت ستيريو أصلي",
-      "summary": "كشفت MiniMax عن نموذج H3 متعدد الوسائط لمنصة Hailuo، يولّد فيديو بدقة 2K حتى 15 ثانية مع صوت ستيريو أصلي من مدخلات نصية وصور وفيديو وصوت، وتعتزم نشر أوزانه مفتوحة.",
-      "details": "أطلقت MiniMax، الشركة المطورة لتطبيق Hailuo للفيديو، نموذج MiniMax H3 الذي يتعامل مع النص والصور والفيديو والصوت كسياق واحد وينتج فيديو مصحوباً بالصوت.\n\n- المخرجات: مقاطع حتى 15 ثانية بدقة 2K افتراضياً، مع خيار أقل بدقة 768p.\n- الصوت: صوت ستيريو أصلي، إذ دُرّب النموذج على الصوت والصورة معاً.\n- المراجع والتعديل: يدعم المراجع والتعديل من صورة إلى صورة ومن صورة إلى فيديو ومن صوت إلى صوت، وكذلك الصوت والفيديو معاً.\n- السعر: تقول MiniMax إن سعر الثانية بدقة 2K أقل من ثلث سعر النماذج الرائجة، وإن سعر 768p أقل من نصف سعر 720p لدى المنافسين.\n\nويتوفر عرض تجريبي على موقع Hailuo AI، وأعلنت الشركة أنها ستنشر أوزان النموذج بعد الإطلاق بفترة قصيرة. وخلال أيام أصبح متاحاً أيضاً على منصات إبداعية أخرى مثل Luma."
-     },
-     "en": {
-      "title": "MiniMax releases H3, a 2K video model with native stereo sound",
-      "summary": "MiniMax unveiled H3, an omni-modal model for its Hailuo platform that generates 2K video of up to 15 seconds with native stereo audio from text, image, video and audio inputs, and plans to open its weights.",
-      "details": "MiniMax, the company behind the Hailuo video app, has released MiniMax H3, a single model that takes text, images, video and audio as context and produces video with sound.\n\n- Output: clips of up to 15 seconds at 2K by default, with a lower 768p option.\n- Audio: native stereo sound, with audio and video modelled together during training.\n- References and editing: H3 supports reference-based generation and editing for image-to-image, image-to-video, audio-to-audio and combined audio-video tasks.\n- Price: MiniMax claims its 2K per-second price is under a third of mainstream models, and its 768p price under half of what rivals charge for 720p.\n\nA demo is available on the Hailuo AI website, and MiniMax said it would publish the model weights shortly after launch. Within days the model was also offered on other creative platforms, including Luma."
-     },
-     "addedAt": "2026-07-31T23:59:59+00:00"
     }
    ],
    "upcoming": [
