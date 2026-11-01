@@ -1,0 +1,29 @@
+{
+  "topic": "once-human",
+  "generatedAt": "2026-11-02",
+  "news": [
+    {
+      "id": "oh-fair-play-oct16-22",
+      "date": "2026-10-30",
+      "type": "announcement",
+      "importance": 1,
+      "sourceType": "official",
+      "sourceName": "Once Human official site",
+      "url": "https://www.oncehuman.game/news/update/20261030/40780_1318155.html",
+      "originalTitle": "Fair Play Announcement (October 16, 2026 – October 22, 2026)",
+      "ar": {
+        "title": "Once Human يحظر 261 لاعباً ويعلن تشديد مكافحة الصش والمراقبة في الدردشة",
+        "summary": "يكشف تقرير Fair Play ليومي 16-22 أكتوبر عن حظر 261 لاعباً لأسباب الش أو الإضرار بالآخرين، إضافة إلى حظر استخدام ملحقات خارجية للتصويب على الأجهزة اللوحية وخطط لحظر الحسابات البديلة.",
+        "details": "أصدرت Once Human في 30 أكتوبر تقرير Fair Play الأسبوعي الذي يعطي الفترة من 16 إلى 22 أكتوبر، وكشف عن حظر 261 لاعباً إجمالاً: عوقب 249 منهم بسبب الش، عادةً بحظر يمتد نحو عشر سنوات لاستخدام برامج نضغيرة شرعية أو كسر الحماية، مع عقوبات أخف (7 أيام أو 3 أيام) لحالات استقلال الأخطاء والتحرش. وعوقب 30 لاعباً للإضرار بلاعبين آخرين، ومنح الفريق 208 تعويضات لـ172 لاعباً تأثروا بالش .\n\nمن السياسات الجديدة: الحظر الفوري لأي سلوك تخريبي مؤكد مثل سد الطرق بالمركبات، وحظر استخدام ملحقات خارجية مع الأجهزة اللوحية للمساعدة في التصويب والإطلاق، بعقوبات تصل إلى 30 يوماً. وأعلن الفريق أنه سيحقق بشكل رجعي في النشاط السابق باستخدام توقيعات الش الجديدة، وسيحظر الحسابات البديلة المرتبطة، وسيسترد Territory Terminals من اللاعبين المحظورين.\n\nكما تتم مراقبة مخالفات حجم الفريق في وضع RaidZone، بينما تلقى عشرات اللاعبين عقوبات حظر في الدردشة لمخالفات لفظية. وأقر الفريق بأن نظام المراقبة المعتمد على الذكاء الاصطناعي قد يسبب أحياناً حظراً خاطئاً، متعهداً بالرد على الاستئنافات خلال 24 ساعة."
+      },
+      "en": {
+        "title": "Once Human bans 261 players, details cheat and chat-moderation crackdown",
+        "summary": "A Fair Play report covering October 16-22 details 261 bans for cheating or griefing, new bans for external aiming peripherals on tablets, and plans to retroactively ban linked alt accounts.",
+        "details": "Once Human published its weekly Fair Play Announcement on October 30, covering October 16-22. It reports 261 total bans: 249 players penalized for cheating, mostly with multi-year bans for unauthorized software or crack tools, and lighter 7-day or 3-day penalties for bug abuse and harassment. Another 30 players were penalized for harming other players, and the team issued 208 compensation grants to 172 players affected by cheaters.\n\nNew enforcement policies include immediate bans for verified disruptive behavior such as blocking roads with vehicles, and new bans of up to 30 days for using external peripherals with tablets to assist aiming and firing. The developer said it will retroactively investigate past activity using newly identified cheat signatures, ban linked alt accounts, and reclaim Territory Terminals from banned players.\n\nTeam-size violations in RaidZone mode are also being enforced, while dozens of players received chat bans for language violations. The team acknowledged its AI-assisted moderation can sometimes produce wrongful bans and promised to respond to appeals within 24 hours."
+      }
+    }
+  ],
+  "upcoming": [],
+  "removeUpcoming": [],
+  "removeNews": []
+}
