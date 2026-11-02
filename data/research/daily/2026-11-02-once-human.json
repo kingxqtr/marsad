@@ -21,6 +21,26 @@
         "summary": "A Fair Play report covering October 16-22 details 261 bans for cheating or griefing, new bans for external aiming peripherals on tablets, and plans to retroactively ban linked alt accounts.",
         "details": "Once Human published its weekly Fair Play Announcement on October 30, covering October 16-22. It reports 261 total bans: 249 players penalized for cheating, mostly with multi-year bans for unauthorized software or crack tools, and lighter 7-day or 3-day penalties for bug abuse and harassment. Another 30 players were penalized for harming other players, and the team issued 208 compensation grants to 172 players affected by cheaters.\n\nNew enforcement policies include immediate bans for verified disruptive behavior such as blocking roads with vehicles, and new bans of up to 30 days for using external peripherals with tablets to assist aiming and firing. The developer said it will retroactively investigate past activity using newly identified cheat signatures, ban linked alt accounts, and reclaim Territory Terminals from banned players.\n\nTeam-size violations in RaidZone mode are also being enforced, while dozens of players received chat bans for language violations. The team acknowledged its AI-assisted moderation can sometimes produce wrongful bans and promised to respond to appeals within 24 hours."
       }
+    },
+    {
+      "id": "oh-3-1-1-bugfixes-nov2",
+      "date": "2026-11-02",
+      "type": "update",
+      "importance": 1,
+      "sourceType": "official",
+      "sourceName": "Once Human — Steam News",
+      "url": "https://store.steampowered.com/news/app/2139460/view/1847920302247523",
+      "originalTitle": "3.1.1 Bug Fixes (November 2)",
+      "ar": {
+        "title": "Once Human يحسّن توجيه القوارب الثقيلة ويصلح خللاً في صيد Bubble Fish",
+        "summary": "أصدرت Once Human في 2 نوفمبر إصلاحات تحسّن قدرة القوارب الثقيلة على الانحراف، وتصلح عدم إمكانية إصابة Bubble Fish في بعض الحالات.",
+        "details": "أصدرت Once Human في 2 نوفمبر دفعة جديدة من إصلاحات تحديث 3.1.1، يُتوقع اكتمالها بحلول الساعة 5 صباحاً بتوقيت المحيط الهادئ.\n\nالتغيير الأول يحسّن تجربة التوجيه عندما يكون وزن القارب مرتفعاً جداً: فعندما يتجاوز وزن القارب 10,000 كيلوغرام، سيحتفظ الآن بقدر من قدرة الانحراف، مما يقلل من حالات تعذّر توجيه القارب بسبب الحمل الزائد.\n\nكما أصلحت الدفعة مشكلة كان يتعذر فيها إصابة سمكة Bubble Fish في بعض الحالات."
+      },
+      "en": {
+        "title": "Once Human improves overweight boat steering, fixes Bubble Fish hit bug",
+        "summary": "A November 2 patch lets overweight boats retain some steering ability and fixes an issue where Bubble Fish could not be hit in some situations.",
+        "details": "Once Human issued another round of 3.1.1 bug fixes on November 2, expected to complete by 5:00 AM PT.\n\nThe first change optimizes steering when a boat's weight is too high: when a boat is overweight (weight at or above 10,000kg), it now retains some steering ability, reducing situations where the boat cannot turn due to being overweight.\n\nThe patch also fixed an issue where Bubble Fish could not be hit in some situations."
+      }
     }
   ],
   "upcoming": [],

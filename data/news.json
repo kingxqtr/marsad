@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": "2026-11-02T10:10:28+00:00",
+ "updatedAt": "2026-11-02T11:22:00+00:00",
  "coverage": {
   "from": "2026-08-02",
   "to": "2026-11-02"
@@ -8,6 +8,27 @@
  "tabs": {
   "once-human": {
    "news": [
+    {
+     "id": "oh-3-1-1-bugfixes-nov2",
+     "date": "2026-11-02",
+     "type": "update",
+     "importance": 1,
+     "sourceType": "official",
+     "sourceName": "Once Human — Steam News",
+     "url": "https://store.steampowered.com/news/app/2139460/view/1847920302247523",
+     "originalTitle": "3.1.1 Bug Fixes (November 2)",
+     "ar": {
+      "title": "Once Human يحسّن توجيه القوارب الثقيلة ويصلح خللاً في صيد Bubble Fish",
+      "summary": "أصدرت Once Human في 2 نوفمبر إصلاحات تحسّن قدرة القوارب الثقيلة على الانحراف، وتصلح عدم إمكانية إصابة Bubble Fish في بعض الحالات.",
+      "details": "أصدرت Once Human في 2 نوفمبر دفعة جديدة من إصلاحات تحديث 3.1.1، يُتوقع اكتمالها بحلول الساعة 5 صباحاً بتوقيت المحيط الهادئ.\n\nالتغيير الأول يحسّن تجربة التوجيه عندما يكون وزن القارب مرتفعاً جداً: فعندما يتجاوز وزن القارب 10,000 كيلوغرام، سيحتفظ الآن بقدر من قدرة الانحراف، مما يقلل من حالات تعذّر توجيه القارب بسبب الحمل الزائد.\n\nكما أصلحت الدفعة مشكلة كان يتعذر فيها إصابة سمكة Bubble Fish في بعض الحالات."
+     },
+     "en": {
+      "title": "Once Human improves overweight boat steering, fixes Bubble Fish hit bug",
+      "summary": "A November 2 patch lets overweight boats retain some steering ability and fixes an issue where Bubble Fish could not be hit in some situations.",
+      "details": "Once Human issued another round of 3.1.1 bug fixes on November 2, expected to complete by 5:00 AM PT.\n\nThe first change optimizes steering when a boat's weight is too high: when a boat is overweight (weight at or above 10,000kg), it now retains some steering ability, reducing situations where the boat cannot turn due to being overweight.\n\nThe patch also fixed an issue where Bubble Fish could not be hit in some situations."
+     },
+     "addedAt": "2026-11-02T11:22:00+00:00"
+    },
     {
      "id": "oh-fair-play-oct16-22",
      "date": "2026-10-30",
