@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": "2026-11-02T21:22:11+00:00",
+ "updatedAt": "2026-11-02T22:11:48+00:00",
  "coverage": {
   "from": "2026-08-02",
   "to": "2026-11-02"
@@ -2061,6 +2061,28 @@
       "details": "An independent developer announced the release of Heretic 2.0 on r/LocalLLaMA. The open-source project has been applied to more than 8,500 models on Hugging Face, with over 88 million total downloads.\n\nOriginally built to remove refusal behavior from language models, the new version broadens its scope into a general-purpose model modification tool, also able to reduce repetitive \"AI-sounding\" phrasing and adjust a model's emotional tone, alongside its original censorship-removal function.\n\nThe main technical change in this release replaces the previous \"directional abliteration\" method with a new technique the developer built from scratch, called Arbitrary-Rank Ablation (ARA), described as a significant improvement over the older method, which remains available as an optional setting."
      },
      "addedAt": "2026-11-01T16:10:04+00:00"
+    },
+    {
+     "id": "google-fitbit-edge-launch",
+     "date": "2026-10-30",
+     "type": "hardware",
+     "importance": 2,
+     "sourceType": "official",
+     "sourceName": "Google Blog — Devices",
+     "url": "https://blog.google/products-and-platforms/devices/fitbit/google-fitbit-edge-on-shelves-now/",
+     "originalTitle": "Google Fitbit Edge: On shelves now",
+     "company": "Google",
+     "ar": {
+      "title": "جهاز Fitbit Edge من Google يطرح للبيع بمدرّب صحي يعمل بـGemini",
+      "summary": "طرحت Google جهاز تتبع اللياقة الجديد Fitbit Edge بسعر 179.99 دولاراً، بشاشة أكبر ونظام GPS مدمج وبطارية قابلة للاستبدال، مع مدرّب صحي اختياري يعمل بـGemini عبر اشتراك.",
+      "details": "أعلنت Google في 30 أكتوبر أن جهاز تتبع اللياقة الجديد Fitbit Edge متوفر الآن في المتاجر، بعد الكشف عنه رسمياً في وقت سابق من الشهر بسعر 179.99 دولاراً (و219.99 دولاراً لنسخة خاصة باسم لاعب كرة السلة ستيفن كاري). يحمل الجهاز أكبر وأوضح شاشة بين أجهزة Fitbit حتى الآن مع تصميم جديد وأزراراً جانبية فعلية، ويتوافق مع الهواتف العاملة بنظام Android 11 أو أحدث، أو iOS 16.4 أو أحدث، ويتطلب حساب Google وتطبيق Google Health.\n\nتصف Google الجهاز بأنه أول جهاز قابل للإصلاح في عائلة Fitbit، بتصميم داخلي معياري وبطارية قابلة للاستبدال، إلى جانب نظام GPS مدمج ودعم أكثر من 50 نوعاً من التمارين. تتطلب بعض الميزات، مثل مدرّب Google Health المعزّز بنموذج Gemini، اشتراك Google Health Premium المنفصل، على أن تتضمن عملية الشراء ثلاثة أشهر مجانية منه.\n\nيأتي الجهاز كخليفة لسلسلة Fitbit Charge، في موقع بين سوار Fitbit Air الخالي من الشاشة وساعة Pixel Watch الأكثر اكتمالاً بالميزات."
+     },
+     "en": {
+      "title": "Google's Fitbit Edge fitness tracker goes on sale with Gemini coach",
+      "summary": "Google's new $179.99 Fitbit Edge tracker is now on shelves with a bigger display, built-in GPS, a replaceable battery and an optional Gemini-powered Health Coach subscription.",
+      "details": "Google said on October 30 that its new Fitbit Edge tracker is now on shelves, following its official unveiling earlier in the month at $179.99 (or $219.99 for a Stephen Curry edition). The device carries the largest and brightest display of any Fitbit tracker yet, with a new design and physical side buttons, and works with phones running Android 11 or newer, or iOS 16.4 or newer; it requires a Google account and the Google Health app.\n\nGoogle calls it Fitbit's first repairable tracker, with a modular internal design and a replaceable battery, plus built-in GPS and support for more than 50 exercise types. Some features, including a Gemini-powered Google Health Coach, require a separate Google Health Premium subscription, with three months included at purchase.\n\nThe device replaces Fitbit's Charge line, positioned between the screenless Fitbit Air band and the more full-featured Pixel Watch."
+     },
+     "addedAt": "2026-10-30T23:59:59+00:00"
     },
     {
      "id": "openai-community-safety-report-teens",
@@ -5930,6 +5952,28 @@
       "title": "Report: OpenAI's annualized revenue run-rate is $20B below earlier estimates",
       "summary": "CNBC, citing the Financial Times, said OpenAI's revenue run-rate is about $20B below the roughly $70B figure some had cited, partly due to accounting differences.",
       "details": "CNBC reported on October 8, citing Financial Times reporting, that OpenAI's annualized revenue run-rate sits roughly $20 billion below the nearly $70 billion figure some investors and press had been citing. The story was widely discussed on Hacker News.\n\nPart of the gap reportedly comes from differing accounting practices: Anthropic's reported revenue includes resales through cloud partners like AWS and Google Cloud, while OpenAI's figures do not. Earlier reports in August 2026 had put OpenAI's annualized revenue closer to $40 billion.\n\nThe comparison comes as Anthropic is said to have reached a $65 billion run-rate by the end of July and is reportedly seeking a $2 trillion valuation, while OpenAI's valuation has been cited at $852 billion."
+     },
+     "addedAt": "2026-10-08T23:59:59+00:00"
+    },
+    {
+     "id": "google-amie-lancet-primary-care-study",
+     "date": "2026-10-08",
+     "type": "product",
+     "importance": 2,
+     "sourceType": "official",
+     "sourceName": "Google Blog — Health AI",
+     "url": "https://blog.google/innovation-and-ai/technology/health/amie-clinical-study-lancet/",
+     "originalTitle": "Study in The Lancet suggests AI could improve patient-physician relationships",
+     "company": "Google",
+     "ar": {
+      "title": "دراسة في The Lancet: مساعد Google الطبي AMIE يسهم في زيارات الرعاية الأولية",
+      "summary": "في دراسة جدوى بمستشفى Beth Israel Deaconess، تحدّث 98 مريضاً مع روبوت AMIE من Google قبل زيارات الرعاية الأولية؛ طابقت تشخيصاته تشخيص الأطباء النهائي في 90% من الحالات، وساعدت الأطباء على التحضير في 75% منها.",
+      "details": "نشرت Google في 8 أكتوبر نتائج دراسة جدوى أولية لمساعدها الطبي التجريبي AMIE، أُجريت في عيادة الرعاية الأولية بمستشفى Beth Israel Deaconess الأمريكي ونُشرت في مجلة The Lancet. تحدّث 98 مريضاً بالغاً مع الروبوت المحادثي قبل موعد زيارتهم، بينما راقب أطباء مشرفون المحادثات مباشرة، ولم تحتَج أي محادثة إلى تدخل بحسب معايير سلامة محددة مسبقاً.\n\nطابقت التشخيصات التفريقية التي قدّمها AMIE تشخيص الأطباء النهائي في 90% من الحالات، وقال الأطباء إن ملخصات الروبوت ساعدتهم على التحضير للزيارة في 75% من الحالات، وأثّرت في نهجهم العلاجي في أكثر من نصفها.\n\nتصف Google الدراسة بأنها بحث جدوى في موقع واحد دون مقارنة ضابطة، وتقول إن تجارب إكلينيكية أوسع ضرورية قبل تقييم أدوات الذكاء الاصطناعي الموجهة للمرضى على نطاق واسع."
+     },
+     "en": {
+      "title": "Lancet study finds Google's AMIE chatbot aids primary-care visits",
+      "summary": "A Lancet feasibility study at Beth Israel Deaconess had 98 patients chat with Google's AMIE before primary-care visits; its diagnoses matched doctors' 90% of the time and helped clinicians prepare in 75% of cases.",
+      "details": "Google published results on October 8 from an early feasibility study of its experimental AMIE medical chatbot, conducted at Beth Israel Deaconess Medical Center's primary-care clinic and published in The Lancet. Ninety-eight adult patients chatted with AMIE ahead of their scheduled visit while supervising physicians monitored the conversations in real time, and none required intervention under predefined safety criteria.\n\nAMIE's differential diagnoses matched the doctors' final diagnosis in 90% of cases, and physicians said the chatbot's pre-visit summaries helped them prepare in 75% of cases and shaped their approach to care in more than half.\n\nGoogle describes the work as a single-center feasibility study without a controlled comparison, and says larger clinical trials are needed before patient-facing AI tools like this can be assessed at scale."
      },
      "addedAt": "2026-10-08T23:59:59+00:00"
     },
