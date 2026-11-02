@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": "2026-11-02T14:49:10+00:00",
+ "updatedAt": "2026-11-02T16:01:52+00:00",
  "coverage": {
   "from": "2026-08-02",
   "to": "2026-11-02"
@@ -1840,6 +1840,28 @@
   },
   "ai": {
    "news": [
+    {
+     "id": "openai-grid-protectors-program",
+     "date": "2026-11-02",
+     "type": "business",
+     "importance": 1,
+     "sourceType": "official",
+     "sourceName": "OpenAI News",
+     "url": "https://openai.com/index/grid-protectors-program",
+     "originalTitle": "Introducing the Grid Protectors Program",
+     "company": "OpenAI",
+     "ar": {
+      "title": "OpenAI تطلق برنامج Grid Protectors للتعاون مع شركات الكهرباء",
+      "summary": "أعلنت OpenAI عن برنامج Grid Protectors، مبادرة جديدة للتعاون مع شركات المرافق الكهربائية لضمان دعم مجمعات الحوسبة المستقبلية لاستقرار الشبكة الكهربائية وحماية تكاليف الكهرباء للمستهلكين.",
+      "details": "أعلنت OpenAI في 2 نوفمبر عن برنامج Grid Protectors، وهي مبادرة جديدة موجهة لشركات المرافق الكهربائية، في وقت تتوسع الشركة في بناء مجمعات حوسبة ضخمة لتشغيل أنظمتها في الذكاء الاصطناعي.\n\nويهدف البرنامج إلى مساعدة الشبكة الكهربائية على استيعاب الطلب الإضافي الناتج عن هذه المجمعات دون التأثير على استقرارها بالنسبة لبقية المستخدمين، كما يسعى إلى حماية المستهلكين من ارتفاع تكاليف الكهرباء المرتبط بهذا النمو في الطلب."
+     },
+     "en": {
+      "title": "OpenAI launches Grid Protectors Program for utilities",
+      "summary": "OpenAI introduced the Grid Protectors Program, a new effort to work with utility companies so future AI compute campuses support electrical grid reliability and help keep consumer electricity costs in check.",
+      "details": "OpenAI announced the Grid Protectors Program on November 2, a new initiative aimed at utility companies as the company builds out large compute campuses for its AI systems.\n\nThe program is framed as a way to help the electrical grid handle the added demand from those campuses without compromising reliability for other customers, and to help protect consumers from rising electricity costs tied to that demand growth."
+     },
+     "addedAt": "2026-11-02T16:01:52+00:00"
+    },
     {
      "id": "qwen38-27b-gvs5h-livecodebench-claim",
      "date": "2026-11-01",
