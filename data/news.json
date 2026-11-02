@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": "2026-11-02T20:10:09+00:00",
+ "updatedAt": "2026-11-02T21:22:11+00:00",
  "coverage": {
   "from": "2026-08-02",
   "to": "2026-11-02"
@@ -1001,6 +1001,27 @@
   "star-citizen": {
    "news": [
     {
+     "id": "sc-alpha-4-10-3-ptu-vanduul-incursion",
+     "date": "2026-11-02",
+     "type": "patch",
+     "importance": 2,
+     "sourceType": "official",
+     "sourceName": "RSI Comm-Link / Spectrum Patch Notes",
+     "url": "https://robertsspaceindustries.com/comm-link/transmission/21431-This-Week-In-Star-Citizen",
+     "originalTitle": "This Week in Star Citizen - November 2, 2026",
+     "ar": {
+      "title": "Alpha 4.10.3 يفتح اختبار PTU لجميع الموجات بمهام جديدة ضد الفاندول",
+      "summary": "فتحت Cloud Imperium اختبار تحديث Alpha 4.10.3 لجميع موجات PTU، مضيفة مهام Vanduul Incursion في نظام Nyx وبندقية طاقة جديدة تُدعى Skarnov.",
+      "details": "أعلنت Cloud Imperium Games فتح اختبار تحديث Star Citizen Alpha 4.10.3 لجميع موجات PTU، وذلك في تحديث \"This Week in Star Citizen\" الصادر في 2 نوفمبر. وكان البناء يُطرح تدريجياً على مجموعات الاختبار منذ أواخر أكتوبر، وتقول الشركة إن تحسينات أخيرة قيد العمل قبل إصداره على خوادم اللعب الفعلي (LIVE).\n\nيضيف التحديث سلسلة مهام جديدة من InterSec Defense Solutions مرتبطة بحبكة \"Vanduul Incursion\" عبر نظام Nyx، مما يوفر للاعبين عقود قتال جديدة ضد فصيل الفاندول. وفُتحت مواضيع التغذية الراجعة الخاصة بمهام الغزو والسلاح الجديد على منتدى Spectrum.\n\nويتمثل السلاح الجديد في بندقية Skarnov، وهي بندقية طاقة أوتوماتيكية تُباع في عدة متاجر داخل اللعبة من بينها Cubby Blast في Area18 ومتجر Skutters في Grim HEX، ولا يحتاج اللاعبون لإنهاء مهام الغزو لتجربتها. ولم تُعلن CIG بعد عن موعد إصدار 4.10.3 على خوادم LIVE."
+     },
+     "en": {
+      "title": "Star Citizen Alpha 4.10.3 PTU opens to all test waves with new Vanduul missions",
+      "summary": "Cloud Imperium opened Alpha 4.10.3 testing to all PTU waves, adding Vanduul Incursion missions in the Nyx system and a new energy rifle, the Skarnov.",
+      "details": "Cloud Imperium Games opened public testing of Star Citizen Alpha 4.10.3 to all PTU waves, the studio said in its November 2 \"This Week in Star Citizen\" update. The build had been rolling out to test groups since late October, and CIG says final improvements are underway before a live release.\n\nThe patch adds a new string of InterSec Defense Solutions missions tied to a Vanduul Incursion storyline across the Nyx system, giving players fresh combat contracts against the Vanduul faction. Feedback threads for both the Incursion missions and a new weapon are open on Spectrum.\n\nThat new weapon is the Skarnov, a fully automatic energy rifle sold at several in-game shops including Cubby Blast in Area18 and Skutters in Grim HEX; players do not need to finish the Incursion missions to try it. CIG has not yet announced a live release date for 4.10.3."
+     },
+     "addedAt": "2026-11-02T21:22:11+00:00"
+    },
+    {
      "id": "squadron-42-usk-18-rating-germany",
      "date": "2026-10-28",
      "type": "community",
@@ -1760,6 +1781,32 @@
    ],
    "upcoming": [
     {
+     "id": "sc-bar-citizen-world-tour-barcelona",
+     "date": "2026-11-14",
+     "type": "event",
+     "importance": 1,
+     "sourceType": "official",
+     "sourceName": "RSI Comm-Link (This Week in Star Citizen)",
+     "url": "https://robertsspaceindustries.com/comm-link/transmission/21431-This-Week-In-Star-Citizen",
+     "originalTitle": "",
+     "dateConfidence": "confirmed",
+     "ar": {
+      "title": "ختام جولة Bar Citizen World Tour 2026 في برشلونة يوم 14 نوفمبر",
+      "summary": "أكدت CIG أن آخر محطة من جولة لقاءات Bar Citizen World Tour لعام 2026 ستكون في برشلونة بإسبانيا يوم السبت 14 نوفمبر.",
+      "details": "أكدت Cloud Imperium Games في تحديث \"This Week in Star Citizen\" الصادر في 2 نوفمبر أن جولة Bar Citizen World Tour 2026 ستُختتم بلقاء في مدينة برشلونة بإسبانيا، يوم السبت 14 نوفمبر.\n\nفعاليات Bar Citizen هي لقاءات غير رسمية ينظمها المجتمع لداعمي Star Citizen، تُقام عادةً في حانة أو مقهى محلي، وينضم إليها أحياناً فريق المجتمع في CIG مع اللاعبين المحليين وسحوبات جوائز ونقاشات عن اللعبة. وتأتي محطة برشلونة بعد محطات سابقة هذا العام في مدن مثل كولونيا ومانشستر.",
+      "location": "برشلونة، إسبانيا",
+      "dateNote": "التاريخ مؤكد رسمياً في تحديث This Week in Star Citizen الصادر في 2 نوفمبر 2026 بصفته آخر محطة في الجولة."
+     },
+     "en": {
+      "title": "Bar Citizen World Tour 2026 wraps up in Barcelona on November 14",
+      "summary": "CIG's community meetup series makes its final 2026 stop in Barcelona, Spain on November 14, closing out the Bar Citizen World Tour.",
+      "details": "Cloud Imperium Games confirmed in its November 2 \"This Week in Star Citizen\" update that the Bar Citizen World Tour 2026 will conclude with a meetup in Barcelona, Spain on Saturday, November 14.\n\nBar Citizen events are informal, community-organized gatherings for Star Citizen backers, usually held at a local bar or pub, where CIG community staff sometimes join local players for raffles and game discussion. The Barcelona stop follows earlier 2026 tour dates in cities such as Cologne and Manchester.",
+      "location": "Barcelona, Spain",
+      "dateNote": "Date confirmed officially in the November 2, 2026 This Week in Star Citizen update as the tour's final stop."
+     },
+     "addedAt": "2026-11-02T21:22:11+00:00"
+    },
+    {
      "id": "sc-alpha-4-11-q4-2026",
      "date": "2026-11-18",
      "type": "patch",
@@ -1840,6 +1887,72 @@
   },
   "ai": {
    "news": [
+    {
+     "id": "marvell-lumentum-115b-acquisition",
+     "date": "2026-11-02",
+     "type": "business",
+     "importance": 3,
+     "sourceType": "official",
+     "sourceName": "Marvell Technology / Lumentum Holdings (SEC filing)",
+     "url": "https://www.sec.gov/Archives/edgar/data/0001633978/000119312526442758/d163169dex991.htm",
+     "originalTitle": "Marvell and Lumentum Announce Definitive Merger Agreement",
+     "company": "Marvell",
+     "ar": {
+      "title": "Marvell تستحوذ على Lumentum بصفقة أسهم بقيمة 115 مليار دولار",
+      "summary": "أعلنت Marvell اتفاقاً نهائياً للاستحواذ على Lumentum المصنّعة لمكونات الاتصال الضوئي، في صفقة أسهم بقيمة مؤسسية تبلغ 115 مليار دولار، رهاناً على تحوّل مراكز بيانات الذكاء الاصطناعي من النحاس إلى الضوء.",
+      "details": "أعلنت شركتا Marvell Technology وLumentum Holdings في 2 نوفمبر توقيع اتفاقية اندماج نهائية تتم بالكامل عبر تبادل الأسهم، حيث يحصل كل مساهم في Lumentum على 4.5 سهم من Marvell عن كل سهم يملكه. تبلغ القيمة المؤسسية الضمنية للصفقة نحو 115 مليار دولار، بعلاوة تقارب 24% على سعر إغلاق سهم Lumentum قبل تسريب أخبار المفاوضات.\n\nتُبنى الصفقة على فرضية أن مراكز بيانات الذكاء الاصطناعي تجاوزت الحدود التي يمكن أن توفرها كابلات النحاس من حيث عرض النطاق الترددي، وتتجه بشكل متزايد إلى التقنيات الضوئية. تسعى الشركتان إلى الجمع بين تقنيات Marvell في التوصيل الكهربائي والضوئي والدوائر المتكاملة المخصصة، وتقنيات Lumentum في أشعة الليزر والمرسلات المستقبلة الضوئية ومفاتيح التحويل الضوئي، مستهدفتين سوقاً مشتركة تقدّران حجمها بـ550 مليار دولار.\n\nبحسب شروط الصفقة، سيملك مساهمو Marvell الحاليون نحو 67% من الكيان المدمج، في حين يملك مساهمو Lumentum نحو 33%. تتوقع الشركتان تحقيق وفورات تكاليف سنوية تتجاوز مليار دولار، وتقولان إن الصفقة ستكون مُضيفة لربحية سهم Marvell غير المعدَّل خلال السنة الأولى بعد الإغلاق، على أن يخضع إتمامها لموافقة المساهمين والجهات التنظيمية، مع استهداف إغلاقها في النصف الأول من عام 2028."
+     },
+     "en": {
+      "title": "Marvell to acquire Lumentum in $115 billion all-stock AI optics deal",
+      "summary": "Marvell will buy optical component maker Lumentum in an all-stock deal valued at $115 billion, betting that AI data centers need more optical connectivity than copper can deliver.",
+      "details": "Marvell Technology and Lumentum Holdings announced on November 2 a definitive all-stock merger agreement under which Lumentum shareholders will receive 4.5 Marvell shares for each share they hold. The deal carries an implied enterprise value of about $115 billion, roughly a 24% premium to Lumentum's unaffected closing price before talks were reported.\n\nThe companies frame the combination around AI infrastructure demand: as data centers push past the bandwidth limits of copper, they are pairing Marvell's electrical and optical interconnect and custom silicon with Lumentum's lasers, optical transceivers and optical circuit switches, targeting a combined addressable market the firms size at $550 billion.\n\nUnder the deal's terms, current Marvell shareholders would hold about 67% of the combined company and Lumentum shareholders about 33%. The companies expect more than $1 billion in annual run-rate cost synergies and say the deal should be accretive to Marvell's non-GAAP earnings in its first year after closing, pending shareholder and regulatory approval, with closing targeted for the first half of 2028."
+     },
+     "addedAt": "2026-11-02T21:22:11+00:00"
+    },
+    {
+     "id": "mit-csail-gpt6-astra-weight-space-programming",
+     "date": "2026-11-02",
+     "type": "model",
+     "importance": 2,
+     "sourceType": "community",
+     "sourceName": "MIT CSAIL researchers (blog post)",
+     "url": "https://rikiyat.github.io/blog/weight-space-programming/",
+     "originalTitle": "Sparks of Weight-Space Programming: LLMs can natively read & write neural network weights",
+     "tool": "GPT-6 Astra",
+     "ar": {
+      "title": "باحثون من MIT: نموذج GPT-6 Astra يعدّل أوزان شبكة Qwen مباشرة دون تدريب",
+      "summary": "أظهر باحثون في معهد MIT أن نموذج GPT-6 Astra تمكّن من قراءة أوزان نموذج Qwen صغير وتعديلها مباشرة، فرفع دقته في الرياضيات ستة أضعاف دون أي تدريب إضافي.",
+      "details": "نشر فريق من مختبر MIT CSAIL، يضم ريكيا تاكيهي وجايدن تيوه وأليكس زانغ وعمر خطاب، تدوينة بحثية في 2 نوفمبر تصف ما أسموه \"البرمجة في فضاء الأوزان\"، وهي قدرة نموذج لغوي متقدّم على قراءة أوزان شبكة عصبية أخرى وتعديلها مباشرة دون اللجوء إلى التدريب التقليدي بالانحدار التدريجي.\n\nفي التجربة الأبرز، طُلب من GPT-6 Astra تحسين قدرة نموذج Qwen3.5 الصغير (0.8 مليار معامل) في الرياضيات. تتبّع النموذج عطلاً معروفاً يجعل الإجابات تدخل في حلقات تكرار، وحدّد اتجاهاً محدداً داخل طبقتين من الشبكة، وعدّل نحو 131 ألف وزن فقط، أي 0.016% من إجمالي الأوزان، باستخدام عدد قليل من عمليات التمرير الأمامي. ارتفعت دقة النموذج في اختبار MATH-500 من 7.9% إلى 48.1%، مع تحسّن ملحوظ في اختبارات أخرى.\n\nفي تجارب أخرى، حدّد Astra لعبة أتاري التي دُرّبت عليها شبكة صغيرة بمجرد قراءة أوزانها، وكتب من الصفر شبكات لعب تفوقت على نماذج دُرّبت بالتعلّم التعزيزي لمئات ملايين الخطوات. لكن الطريقة لم تنجح مع نموذج Gemma 3 بحجم 270 مليون معامل، لأنه لا يعاني من نفس عطل التكرار، مما يشير إلى أن التقنية تزيل عقبات محددة أكثر من كونها تضيف قدرات جديدة.\n\nيصف الباحثون النتائج بأنها \"بدايات\" أولية لا منهجية عامة، ويقولون إنهم يبنون معياراً لدراسة الظاهرة أكثر. العمل تدوينة بحثية غير محكّمة، ولا يحمل دعماً رسمياً من OpenAI أو Alibaba."
+     },
+     "en": {
+      "title": "MIT researchers show GPT-6 Astra editing Qwen's weights directly",
+      "summary": "MIT CSAIL researchers found OpenAI's GPT-6 Astra can read and edit another model's weights directly, lifting a small Qwen model's math score sixfold with no training.",
+      "details": "MIT CSAIL researchers Rikiya Takehi, Jayden Teoh, Alex Zhang and Omar Khattab published a blog post on November 2 on \"weight-space programming\": a frontier model reading and editing another network's weights directly, instead of through gradient-descent training.\n\nIn the headline test, GPT-6 Astra was asked to improve math ability in a small Qwen3.5 0.8B model. It traced a looping defect to a direction inside two MLP layers and adjusted roughly 131,000 weights, about 0.016% of the model, using only a few forward passes. MATH-500 accuracy jumped from 7.9% to 48.1%, with gains elsewhere too.\n\nIn separate tests, Astra named which Atari game a tiny network had been trained on just by reading its weights, and wrote game-playing networks from scratch that beat agents trained with reinforcement learning for hundreds of millions of steps. The method failed on a Gemma 3 270M model, which rarely shows the same flaw, suggesting it removes specific obstacles rather than adding capability.\n\nThe authors call this early \"sparks,\" not a general method, and plan a benchmark to study it further. It is an unreviewed blog post with no official backing from OpenAI or Alibaba."
+     },
+     "addedAt": "2026-11-02T21:22:11+00:00"
+    },
+    {
+     "id": "anthropic-s1a-retail-investors-amendment",
+     "date": "2026-11-02",
+     "type": "business",
+     "importance": 2,
+     "sourceType": "official",
+     "sourceName": "SEC EDGAR — Anthropic, PBC S-1/A filing",
+     "url": "https://www.sec.gov/Archives/edgar/data/0002130357/000162828026068676/anthropicpbc-sx1ax1.htm",
+     "originalTitle": "Anthropic, PBC - Form S-1/A",
+     "company": "Anthropic",
+     "ar": {
+      "title": "أنثروبيك تعدّل طلب طرحها العام الأولي وتضيف فصلاً للمستثمرين الأفراد",
+      "summary": "قدّمت أنثروبيك في 2 نوفمبر تعديلاً لطلب تسجيلها لدى هيئة الأوراق المالية الأمريكية يضيف فصلاً خاصاً بالبيع للمستثمرين الأفراد، تمهيداً لطرحها في بورصة ناسداك تحت رمز ANT.",
+      "details": "قدّمت شركة Anthropic نسخة معدّلة من نموذج S-1 الذي سبق أن أودعته لدى هيئة الأوراق المالية الأمريكية (SEC) في 26 أكتوبر، وذلك ضمن استعداداتها للطرح العام الأولي في بورصة ناسداك تحت الرمز ANT. التعديل الجديد، المودع في 2 نوفمبر، يضيف فصلاً مستقلاً بعنوان \"البيع للمستثمرين الأفراد\"، إلى جانب إشارات إلى عروض دولية تشمل شريحة بيع لمستثمرين أفراد في بريطانيا يُقال إنها تُرتَّب عبر منصة RetailBook.\n\nلا يزال النطاق السعري وعدد الأسهم المطروحة غائبين عن الملف، إذ تُدرَج هذه التفاصيل عادة في تعديل لاحق أقرب لبدء جولة العرض على المستثمرين، والتي لا يمكن أن تبدأ قانونياً إلا بعد 15 يوماً على الأقل من الإيداع العلني. تشير تقارير صحفية إلى أن الطرح قد يتم في النصف الثاني من نوفمبر.\n\nيعكس الملف المعدَّل أيضاً حجم التزامات أنثروبيك المتصاعدة لتأمين الحوسبة والطاقة اللازمة لنماذج Claude، بشراكات مع Google وAmazon وMicrosoft وBroadcom من بين آخرين، ومعظمها عقود \"دفع مقابل الحجز\" غير قابلة للإلغاء عملياً، ويقدّر إجمالي الالتزامات التراكمية بما يقارب 900 مليار دولار بحسب تقارير مالية استندت إلى الملف."
+     },
+     "en": {
+      "title": "Anthropic amends IPO filing, adds retail-investor sale provisions",
+      "summary": "Anthropic filed an amended S-1 with the SEC on November 2, adding a retail-investor sales section as it prepares a Nasdaq listing under ticker ANT.",
+      "details": "Anthropic filed a Form S-1/A on November 2, amending the public IPO registration it first submitted on October 26 as it prepares to list on Nasdaq under the ticker ANT. The amendment adds a new \"Sales to Retail Investors\" section, alongside references to international offerings that reportedly include a UK retail tranche arranged through the platform RetailBook.\n\nThe filing still does not disclose a price range or share count; those details typically appear in a later amendment closer to the roadshow, which cannot legally begin until at least 15 days after the public filing. Press reports point to a possible listing in the second half of November.\n\nThe amended filing also reflects the scale of Anthropic's infrastructure commitments as it races to secure compute and power for its Claude models, naming partners including Google, Amazon, Microsoft and Broadcom. Most of these obligations are structured as largely non-cancellable take-or-pay deals, and financial reporting based on the filing puts Anthropic's total committed spending at close to $900 billion."
+     },
+     "addedAt": "2026-11-02T21:22:11+00:00"
+    },
     {
      "id": "qwen-exec-open-source-commitment-statement",
      "date": "2026-11-02",
@@ -8859,6 +8972,33 @@
      "addedAt": "2026-09-27T13:25:38+00:00"
     },
     {
+     "id": "microsoft-saudi-arabia-east-region-launch",
+     "date": "2026-11-30",
+     "type": "release",
+     "importance": 1,
+     "sourceType": "official",
+     "sourceName": "Microsoft News",
+     "url": "https://news.microsoft.com/source/emea/?p=267697",
+     "originalTitle": "",
+     "company": "Microsoft",
+     "dateConfidence": "expected",
+     "ar": {
+      "title": "إطلاق منطقة Microsoft Azure السحابية الجديدة في شرق السعودية",
+      "summary": "تعتزم Microsoft إطلاق منطقتها السحابية الجديدة \"Saudi Arabia East\" بثلاث مناطق توفر خلال نوفمبر 2026، إلى جانب مركز ابتكار مايكروسوفت في المملكة.",
+      "details": "أعلنت Microsoft أن منطقتها السحابية الجديدة \"Saudi Arabia East\"، الواقعة في المنطقة الشرقية وتضم ثلاث مناطق توفر (Availability Zones) على منصة Azure، ستصبح متاحة لتشغيل أحمال العمل السحابية والذكاء الاصطناعي خلال نوفمبر 2026. يترافق الإطلاق مع افتتاح مركز ابتكار مايكروسوفت في السعودية، الذي يقدّم ورش عمل وإمكانية الوصول العملي إلى أدوات الذكاء الاصطناعي والسحابة.\n\nتقدّر دراسة بتكليف من Microsoft أن تولّد الشركة وشركاؤها وعملاؤها نحو 44 مليار دولار من العائدات الجديدة في السعودية بين 2027 و2030، مع نحو 100 ألف وظيفة جديدة. تتعاون Microsoft أيضاً مع HUMAIN على حلول ذكاء اصطناعي محلية، وأعلنت مركز تميز للذكاء الاصطناعي بالعربية بالشراكة مع وزارة الاتصالات وتقنية المعلومات.",
+      "location": "المنطقة الشرقية، المملكة العربية السعودية",
+      "dateNote": "لم تحدد Microsoft يوماً دقيقاً، واكتفت بالقول إن المنطقة ستتوفر \"خلال نوفمبر 2026\"؛ استُخدم 30 نوفمبر كتقدير لنهاية ذلك الإطار الزمني."
+     },
+     "en": {
+      "title": "Microsoft's new Saudi Arabia East Azure region set to go live",
+      "summary": "Microsoft says its new three-availability-zone Saudi Arabia East Azure region will become available to customers sometime in November 2026.",
+      "details": "Microsoft says its new \"Saudi Arabia East\" cloud region, located in the Eastern Province with three Azure Availability Zones, will become available for customers to run cloud and AI workloads during November 2026. The launch coincides with the opening of a Microsoft Innovation Hub in Saudi Arabia, offering workshops and hands-on access to Microsoft's AI and cloud tools.\n\nA Microsoft-commissioned IDC study estimates the company, its partners and its customers could generate about $44 billion in new Saudi revenue between 2027 and 2030, with roughly 100,000 new jobs. Microsoft is also working with HUMAIN on locally relevant AI solutions and has announced an Arabic-language AI Center of Excellence with Saudi's Ministry of Communications and Information Technology.",
+      "location": "Eastern Province, Saudi Arabia",
+      "dateNote": "Microsoft has not named a specific day, only saying the region will be available \"in November 2026\"; November 30 is used here as a placeholder for the end of that window."
+     },
+     "addedAt": "2026-11-02T21:22:11+00:00"
+    },
+    {
      "id": "openai-legacy-gpt-image-models-shutdown",
      "date": "2026-12-01",
      "type": "media",
@@ -8937,6 +9077,31 @@
      "addedAt": "2026-09-27T13:25:38+00:00"
     },
     {
+     "id": "world-summit-ai-qatar-doha-2026",
+     "date": "2026-12-15",
+     "type": "event",
+     "importance": 1,
+     "sourceType": "official",
+     "sourceName": "World Summit AI",
+     "url": "https://qatar.worldsummit.ai/",
+     "originalTitle": "",
+     "endDate": "2026-12-16",
+     "dateConfidence": "confirmed",
+     "ar": {
+      "title": "قمة World Summit AI تعود إلى الدوحة يومي 15 و16 ديسمبر",
+      "summary": "تعقد قمة World Summit AI نسختها في الدوحة يومي 15 و16 ديسمبر 2026، بالشراكة مع وزارة الاتصالات وتقنية المعلومات القطرية، في إطار اتفاقية تمتد خمس سنوات لتوسّع القمة في منطقة الشرق الأوسط وشمال أفريقيا.",
+      "details": "تعود قمة World Summit AI، التي ينظمها Inspired Minds، إلى الدوحة يومي 15 و16 ديسمبر 2026، بالشراكة مع وزارة الاتصالات وتقنية المعلومات القطرية، وذلك ضمن اتفاقية خمسية لتوسّع القمة في منطقة الشرق الأوسط وشمال أفريقيا. تجمع القمة باحثين وصناع سياسات ومسؤولين حكوميين وشركات كبرى وشركات ناشئة لمناقشة أبحاث الذكاء الاصطناعي وحوكمته وتطبيقاته.\n\nفي نسختها السابقة التي عُقدت في ديسمبر 2025، شاركت جامعة قطر كشريك تعليمي رسمي، وشركة MEEZA كشريك بيانات استراتيجي، إلى جانب شركاء إعلاميين من مجموعة فضاءات. لم تُعلن تفاصيل الشركاء الرسميين لنسخة 2026 بعد، لكن التواريخ مؤكدة من الموقع الرسمي للقمة.",
+      "location": "الدوحة، قطر"
+     },
+     "en": {
+      "title": "World Summit AI returns to Doha on December 15-16",
+      "summary": "World Summit AI will hold its Doha edition on December 15-16, 2026, in partnership with Qatar's Ministry of Communications and Information Technology, under a five-year MENA expansion deal.",
+      "details": "World Summit AI, organized by Inspired Minds, returns to Doha on December 15-16, 2026, in partnership with Qatar's Ministry of Communications and Information Technology under a five-year deal to expand the summit across the MENA region. The event brings together researchers, policymakers, government officials, large companies and startups to discuss AI research, governance and deployment.\n\nAt its previous Doha edition in December 2025, Qatar University took part as official education partner and MEEZA as strategic data partner, alongside media partners from the Fadaat Media group. Official partners for the 2026 edition have not yet been announced, but the dates are confirmed on the summit's own site.",
+      "location": "Doha, Qatar"
+     },
+     "addedAt": "2026-11-02T21:22:11+00:00"
+    },
+    {
      "id": "google-gemini-3-8-flash-intro-pricing-ends",
      "date": "2026-12-31",
      "type": "business",
@@ -8961,6 +9126,33 @@
       "dateNote": "Introductory pricing runs through December 31, 2026"
      },
      "addedAt": "2026-09-27T13:25:38+00:00"
+    },
+    {
+     "id": "aws-saudi-arabia-cloud-region-launch",
+     "date": "2026-12-31",
+     "type": "release",
+     "importance": 1,
+     "sourceType": "official",
+     "sourceName": "AWS / Amazon Newsroom",
+     "url": "https://www.aboutamazon.com/md/news/aws/aws-cloud-region-saudi-arabia",
+     "originalTitle": "",
+     "company": "AWS",
+     "dateConfidence": "expected",
+     "ar": {
+      "title": "AWS تستعد لإطلاق أول منطقة سحابية لها في السعودية",
+      "summary": "تخطط AWS لإطلاق أول منطقة بنية تحتية سحابية لها في السعودية خلال ديسمبر 2026، باستثمار يتجاوز 5.3 مليار دولار وبالتعاون مع HUMAIN في مجال الذكاء الاصطناعي.",
+      "details": "تقول Amazon Web Services إن أول منطقة بنية تحتية سحابية لها في السعودية \"في مسارها\" للإطلاق خلال ديسمبر 2026، باستثمار مخطط يتجاوز 5.3 مليار دولار (نحو 19.88 مليار ريال سعودي). ستوفّر AWS حتى 50 ميغاواط من القدرة ضمن أول منطقة ذكاء اصطناعي سعودية بحلول 2028، تشمل معالجات AWS Trainium وبنية NVIDIA للذكاء الاصطناعي، كما سيتوفر نموذج HUMAIN اللغوي العربي \"ALLAM\" قريباً عبر خدمة Amazon Bedrock.\n\nتقدّر دراسة بتكليف من AWS أن يساهم الذكاء الاصطناعي بنحو 130 مليار دولار في الاقتصاد السعودي بحلول 2030. تشمل خطط الإطلاق أيضاً برامج تدريبية تستهدف أكثر من 100 ألف مواطن سعودي عبر \"أكاديمية أمازون\"، وإنشاء مركزي ابتكار لدعم الشركات الناشئة ورواد الأعمال.",
+      "location": "المملكة العربية السعودية",
+      "dateNote": "أعلنت AWS فقط أن الإطلاق \"في مساره\" لشهر ديسمبر 2026 دون تحديد يوم؛ استُخدم 31 ديسمبر كتقدير لنهاية ذلك الشهر."
+     },
+     "en": {
+      "title": "AWS prepares to launch its first Saudi Arabia cloud region",
+      "summary": "AWS plans to launch its first cloud infrastructure region in Saudi Arabia in December 2026, backed by over $5.3 billion in investment and an AI partnership with HUMAIN.",
+      "details": "Amazon Web Services says its first Cloud Infrastructure Region in Saudi Arabia is \"on track\" to launch in December 2026, with planned investment of more than $5.3 billion (about 19.88 billion Saudi riyal). AWS will make up to 50 MW of capacity available in Saudi Arabia's first AI Zone by 2028, including AWS Trainium chips and NVIDIA AI infrastructure, and HUMAIN's Arabic-language model ALLAM will soon be available through Amazon Bedrock.\n\nAn AWS-commissioned study estimates AI could contribute about $130 billion to Saudi Arabia's economy by 2030. Launch plans also include training programs aiming to reach more than 100,000 Saudi citizens through an Amazon Academy, plus two new innovation centers to support startups and entrepreneurs.",
+      "location": "Saudi Arabia",
+      "dateNote": "AWS has said only that the launch is \"on track\" for December 2026, without naming a specific day; December 31 is used here as a placeholder for the end of that month."
+     },
+     "addedAt": "2026-11-02T21:22:11+00:00"
     },
     {
      "id": "colorado-admt-law-effective-2027",

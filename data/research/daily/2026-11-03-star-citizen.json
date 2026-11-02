@@ -1,0 +1,54 @@
+{
+  "topic": "star-citizen",
+  "generatedAt": "2026-11-03",
+  "news": [
+    {
+      "id": "sc-alpha-4-10-3-ptu-vanduul-incursion",
+      "date": "2026-11-02",
+      "type": "patch",
+      "importance": 2,
+      "sourceType": "official",
+      "sourceName": "RSI Comm-Link / Spectrum Patch Notes",
+      "url": "https://robertsspaceindustries.com/comm-link/transmission/21431-This-Week-In-Star-Citizen",
+      "originalTitle": "This Week in Star Citizen - November 2, 2026",
+      "ar": {
+        "title": "Alpha 4.10.3 يفتح اختبار PTU لجميع الموجات بمهام جديدة ضد الفاندول",
+        "summary": "فتحت Cloud Imperium اختبار تحديث Alpha 4.10.3 لجميع موجات PTU، مضيفة مهام Vanduul Incursion في نظام Nyx وبندقية طاقة جديدة تُدعى Skarnov.",
+        "details": "أعلنت Cloud Imperium Games فتح اختبار تحديث Star Citizen Alpha 4.10.3 لجميع موجات PTU، وذلك في تحديث \"This Week in Star Citizen\" الصادر في 2 نوفمبر. وكان البناء يُطرح تدريجياً على مجموعات الاختبار منذ أواخر أكتوبر، وتقول الشركة إن تحسينات أخيرة قيد العمل قبل إصداره على خوادم اللعب الفعلي (LIVE).\n\nيضيف التحديث سلسلة مهام جديدة من InterSec Defense Solutions مرتبطة بحبكة \"Vanduul Incursion\" عبر نظام Nyx، مما يوفر للاعبين عقود قتال جديدة ضد فصيل الفاندول. وفُتحت مواضيع التغذية الراجعة الخاصة بمهام الغزو والسلاح الجديد على منتدى Spectrum.\n\nويتمثل السلاح الجديد في بندقية Skarnov، وهي بندقية طاقة أوتوماتيكية تُباع في عدة متاجر داخل اللعبة من بينها Cubby Blast في Area18 ومتجر Skutters في Grim HEX، ولا يحتاج اللاعبون لإنهاء مهام الغزو لتجربتها. ولم تُعلن CIG بعد عن موعد إصدار 4.10.3 على خوادم LIVE."
+      },
+      "en": {
+        "title": "Star Citizen Alpha 4.10.3 PTU opens to all test waves with new Vanduul missions",
+        "summary": "Cloud Imperium opened Alpha 4.10.3 testing to all PTU waves, adding Vanduul Incursion missions in the Nyx system and a new energy rifle, the Skarnov.",
+        "details": "Cloud Imperium Games opened public testing of Star Citizen Alpha 4.10.3 to all PTU waves, the studio said in its November 2 \"This Week in Star Citizen\" update. The build had been rolling out to test groups since late October, and CIG says final improvements are underway before a live release.\n\nThe patch adds a new string of InterSec Defense Solutions missions tied to a Vanduul Incursion storyline across the Nyx system, giving players fresh combat contracts against the Vanduul faction. Feedback threads for both the Incursion missions and a new weapon are open on Spectrum.\n\nThat new weapon is the Skarnov, a fully automatic energy rifle sold at several in-game shops including Cubby Blast in Area18 and Skutters in Grim HEX; players do not need to finish the Incursion missions to try it. CIG has not yet announced a live release date for 4.10.3."
+      }
+    }
+  ],
+  "upcoming": [
+    {
+      "id": "sc-bar-citizen-world-tour-barcelona",
+      "date": "2026-11-14",
+      "endDate": null,
+      "dateConfidence": "confirmed",
+      "type": "event",
+      "sourceType": "official",
+      "sourceName": "RSI Comm-Link (This Week in Star Citizen)",
+      "url": "https://robertsspaceindustries.com/comm-link/transmission/21431-This-Week-In-Star-Citizen",
+      "ar": {
+        "title": "ختام جولة Bar Citizen World Tour 2026 في برشلونة يوم 14 نوفمبر",
+        "summary": "أكدت CIG أن آخر محطة من جولة لقاءات Bar Citizen World Tour لعام 2026 ستكون في برشلونة بإسبانيا يوم السبت 14 نوفمبر.",
+        "details": "أكدت Cloud Imperium Games في تحديث \"This Week in Star Citizen\" الصادر في 2 نوفمبر أن جولة Bar Citizen World Tour 2026 ستُختتم بلقاء في مدينة برشلونة بإسبانيا، يوم السبت 14 نوفمبر.\n\nفعاليات Bar Citizen هي لقاءات غير رسمية ينظمها المجتمع لداعمي Star Citizen، تُقام عادةً في حانة أو مقهى محلي، وينضم إليها أحياناً فريق المجتمع في CIG مع اللاعبين المحليين وسحوبات جوائز ونقاشات عن اللعبة. وتأتي محطة برشلونة بعد محطات سابقة هذا العام في مدن مثل كولونيا ومانشستر.",
+        "location": "برشلونة، إسبانيا",
+        "dateNote": "التاريخ مؤكد رسمياً في تحديث This Week in Star Citizen الصادر في 2 نوفمبر 2026 بصفته آخر محطة في الجولة."
+      },
+      "en": {
+        "title": "Bar Citizen World Tour 2026 wraps up in Barcelona on November 14",
+        "summary": "CIG's community meetup series makes its final 2026 stop in Barcelona, Spain on November 14, closing out the Bar Citizen World Tour.",
+        "details": "Cloud Imperium Games confirmed in its November 2 \"This Week in Star Citizen\" update that the Bar Citizen World Tour 2026 will conclude with a meetup in Barcelona, Spain on Saturday, November 14.\n\nBar Citizen events are informal, community-organized gatherings for Star Citizen backers, usually held at a local bar or pub, where CIG community staff sometimes join local players for raffles and game discussion. The Barcelona stop follows earlier 2026 tour dates in cities such as Cologne and Manchester.",
+        "location": "Barcelona, Spain",
+        "dateNote": "Date confirmed officially in the November 2, 2026 This Week in Star Citizen update as the tour's final stop."
+      }
+    }
+  ],
+  "removeUpcoming": [],
+  "removeNews": []
+}
