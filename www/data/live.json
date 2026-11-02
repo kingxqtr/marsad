@@ -1,4 +1,25 @@
 {
- "updatedAt": "2026-11-02T08:44:53+00:00",
- "items": []
+ "updatedAt": "2026-11-02T18:51:35+00:00",
+ "items": [
+  {
+   "id": "auto-0885eecb21cb",
+   "tab": "ai",
+   "date": "2026-11-02",
+   "publishedAt": "2026-11-02T17:45:00+00:00",
+   "type": "product",
+   "importance": 1,
+   "sourceType": "official",
+   "sourceName": "Google Blog — AI",
+   "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-october-2026/",
+   "originalTitle": "The latest AI news we announced in October 2026",
+   "en": {
+    "title": "The latest AI news we announced in October 2026",
+    "summary": "Here are Google’s latest AI updates from October 2026",
+    "details": "Here are Google’s latest AI updates from October 2026"
+   },
+   "translated": false,
+   "fetchedAt": "2026-11-02T18:51:30+00:00",
+   "company": "Google"
+  }
+ ]
 }
