@@ -1,9 +1,9 @@
 {
  "version": 1,
- "updatedAt": "2026-11-01T23:11:13+00:00",
+ "updatedAt": "2026-11-02T00:08:54+00:00",
  "coverage": {
-  "from": "2026-08-01",
-  "to": "2026-11-01"
+  "from": "2026-08-02",
+  "to": "2026-11-02"
  },
  "tabs": {
   "once-human": {
@@ -1738,33 +1738,6 @@
     }
    ],
    "upcoming": [
-    {
-     "id": "sc-game-library-launch",
-     "date": "2026-10-01",
-     "type": "community",
-     "importance": 1,
-     "sourceType": "official",
-     "sourceName": "RSI Spectrum – Announcements (FAQ)",
-     "url": "https://robertsspaceindustries.com/spectrum/community/SC/forum/1/thread/updates-to-game-access-faq",
-     "originalTitle": "",
-     "endDate": "2026-11-01",
-     "dateConfidence": "confirmed",
-     "ar": {
-      "title": "تفعيل Game Library في 1 أكتوبر مع مهلة لاختيار الحزمة المحمية",
-      "summary": "اعتبارًا من 1 أكتوبر ستُحمى حزمة واحدة لكل لعبة مملوكة من الاسترداد والإهداء، ويمكن للداعمين تغيير الحزمة المحمية من صفحة My Gear حتى 1 نوفمبر، حين تصبح الخيارات نهائية.",
-      "details": "يدخل نظام Game Library الجديد من CIG حيز التنفيذ في 1 أكتوبر 2026، وتقول الشركة إن أي إشارة إلى 8 أكتوبر مصدرها نسخة سابقة ملغاة من الإعلان.\n\n- تصبح حزمة واحدة لكل لعبة مملوكة (Star Citizen وSquadron 42) محمية لا يمكن استردادها أو إهداؤها، وقد تغطي حزمة واحدة اللعبتين معًا\n- يتم الاختيار تلقائيًا: حزمة غير قابلة للاسترداد مثل مكافآت VIP إن وُجدت، وإلا فأقدم حزمة تمنح اللعبة\n- من 1 أكتوبر إلى 1 نوفمبر يمكن نقل الحماية إلى حزمة مؤهلة أخرى من صفحة My Gear بعدد غير محدود من المرات\n- تصبح الاختيارات نهائية في 1 نوفمبر، ولن تُرسل الشركة تذكيرًا منفصلًا\n\nوحتى 1 أكتوبر تبقى القواعد الحالية سارية، فاسترداد أو إهداء الحزمة الوحيدة التي تمنح اللعبة ما زال يُفقد صاحبها الوصول إليها، بينما يمكن ترقية الحزم المحمية عبر CCU.",
-      "location": "موقع RSI – حظيرة الحساب (My Gear)",
-      "dateNote": "تبدأ الحماية في 1 أكتوبر، وتُغلق مهلة الاختيار في 1 نوفمبر 2026."
-     },
-     "en": {
-      "title": "Game Library goes live on 1 October with a pledge protection window",
-      "summary": "From 1 October, one pledge per owned game will be protected from melting and gifting. Backers can switch which pledge is protected from the My Gear page until 1 November, when choices lock.",
-      "details": "CIG's new Game Library system takes effect on 1 October 2026; the company says any mention of 8 October comes from a superseded version of the announcement.\n\n- One pledge per owned game (Star Citizen and Squadron 42) becomes protected and cannot be melted or gifted; a single pledge can cover both games\n- The pledge is chosen automatically: an existing non-meltable pledge such as a VIP reward, otherwise the oldest pledge granting that game\n- From 1 October to 1 November, backers can move protection to another eligible pledge on the My Gear page, as often as they like\n- Choices become final on 1 November, and CIG will not send a separate reminder\n\nUntil 1 October the current rules apply, so melting or gifting the only pledge that grants a game still removes access. Protected pledges can still be upgraded with CCUs.",
-      "location": "RSI website – account Hangar (My Gear)",
-      "dateNote": "Protection starts 1 October; the selection window closes 1 November 2026."
-     },
-     "addedAt": "2026-09-27T13:25:38+00:00"
-    },
     {
      "id": "sc-alpha-4-11-q4-2026",
      "date": "2026-11-18",
