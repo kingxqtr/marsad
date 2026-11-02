@@ -45,6 +45,50 @@
         "details": "OpenAI announced the Grid Protectors Program on November 2, a new initiative aimed at utility companies as the company builds out large compute campuses for its AI systems.\n\nThe program is framed as a way to help the electrical grid handle the added demand from those campuses without compromising reliability for other customers, and to help protect consumers from rising electricity costs tied to that demand growth."
       }
     }
+    ,
+    {
+      "id": "qwen-exec-open-source-commitment-statement",
+      "date": "2026-11-02",
+      "type": "business",
+      "importance": 1,
+      "sourceType": "community",
+      "sourceName": "r/LocalLLaMA",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xm28e6/official_statement_qwen_models_will_stick_to_open/",
+      "originalTitle": "Official Statement: Qwen Models Will Stick to Open Source to the End!",
+      "tool": "Qwen",
+      "ar": {
+        "title": "بيان من قيادة Qwen: النماذج القادمة ستبقى مفتوحة المصدر",
+        "summary": "نفى قائد فريق Qwen في علي بابا شائعات بأن يكون Qwen4 آخر إصدار مفتوح المصدر، مؤكداً عبر منشور تناقله مجتمع r/LocalLLaMA أن إصدارات Qwen 4.0 و5.0 ستبقى مفتوحة المصدر.",
+        "details": "تناقل مجتمع r/LocalLLaMA بياناً نُسب إلى قائد فريق Qwen في علي بابا، رداً على شائعات تداولتها الأيام الماضية بأن سلسلة Qwen4 ستكون الأخيرة بنماذج مفتوحة المصدر، وأن الإصدارات اللاحقة ستُقدَّم عبر واجهة برمجية مدفوعة فقط.\n\nوبحسب البيان، أكد القائد أن إصدارات Qwen 4.0 و5.0 القادمة ستستمر في كونها مفتوحة المصدر، معتبراً أن قيمة الذكاء الاصطناعي ينبغي ألا تبقى حكراً على فئة محدودة، بل ينبغي أن تصبح قدرة أساسية يمكن لمستخدمي العالم الوصول إليها واستخدامها والبناء عليها.\n\nوأشار البيان إلى أن سلسلة Qwen تجاوزت 3 مليارات تنزيل تراكمي حول العالم، مع إطلاق أكثر من 460 نموذجاً مفتوح المصدر وأكثر من 300 ألف نموذج مشتق منها، ما يضعها في الصدارة عالمياً من حيث عدد النماذج المشتقة."
+      },
+      "en": {
+        "title": "Qwen leadership says future models will remain open source",
+        "summary": "Alibaba's Qwen team lead denied rumors that Qwen4 would be its last open-weight series, stating in a post shared on r/LocalLLaMA that upcoming Qwen 4.0 and 5.0 releases will stay open source.",
+        "details": "A statement attributed to Qwen's team lead at Alibaba, shared on r/LocalLLaMA, responded to recent rumors that the Qwen4 series would be the last open-weight release and that future versions would be API-only.\n\nThe statement said upcoming Qwen 4.0 and 5.0 releases will remain open source, arguing that AI's value shouldn't belong to only a few, but should be a foundational capability people worldwide can access, use and build on.\n\nIt added that the Qwen series has passed 3 billion cumulative downloads worldwide, with more than 460 open-source models released and over 300,000 derivative models built on them, putting it at the top globally by that measure."
+      }
+    }
+    ,
+    {
+      "id": "openai-lifeval-benchmark",
+      "date": "2026-11-02",
+      "type": "model",
+      "importance": 1,
+      "sourceType": "official",
+      "sourceName": "OpenAI News",
+      "url": "https://openai.com/index/lifeval",
+      "originalTitle": "LifeVal",
+      "company": "OpenAI",
+      "ar": {
+        "title": "OpenAI تطلق معيار LifeVal لقياس فائدة الذكاء الاصطناعي في المهام اليومية",
+        "summary": "أعلنت OpenAI عن معيار تقييم جديد باسم LifeVal، يقيس مدى مساعدة الذكاء الاصطناعي للأشخاص في إنجاز مهام حياتية يومية، من إيجاد رعاية للأطفال إلى إدارة الشؤون المالية والمعاملات الحكومية.",
+        "details": "أعلنت OpenAI في 2 نوفمبر عن معيار تقييم جديد سمّته LifeVal، يركّز على قياس مدى فائدة أنظمة الذكاء الاصطناعي في مساعدة الأشخاص على إنجاز مهام الحياة اليومية بدلاً من مجرد حل مسائل أكاديمية أو برمجية مجردة.\n\nوبحسب الشركة، يغطي المعيار سيناريوهات تشمل إيجاد خيارات رعاية الأطفال، وإدارة الشؤون المالية الشخصية، والتعامل مع المعاملات الحكومية الورقية، في محاولة لتقييم قدرة النماذج على التعامل مع تعقيدات الحياة الواقعية. لم تنشر OpenAI في إعلانها الأولي تفصيلاً كاملاً لنتائج النماذج على هذا المعيار."
+      },
+      "en": {
+        "title": "OpenAI introduces LifeVal benchmark for everyday task assistance",
+        "summary": "OpenAI announced LifeVal, a new benchmark measuring how well AI helps people complete everyday tasks such as finding childcare, managing finances and handling government paperwork.",
+        "details": "OpenAI announced a new benchmark called LifeVal on November 2, aimed at measuring how useful AI systems are for everyday life tasks rather than abstract academic or coding problems.\n\nAccording to the company, the benchmark covers scenarios including finding childcare options, managing personal finances, and handling government paperwork, as an attempt to test how models handle the messiness of real-world life. OpenAI's initial announcement did not include a full breakdown of model results on the benchmark."
+      }
+    }
   ],
   "upcoming": [],
   "removeUpcoming": [],
