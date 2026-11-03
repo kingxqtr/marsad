@@ -1,6 +1,85 @@
 {
- "updatedAt": "2026-11-03T08:15:44+00:00",
+ "updatedAt": "2026-11-03T16:18:23+00:00",
  "items": [
+  {
+   "id": "auto-f770828ca128",
+   "tab": "once-human",
+   "date": "2026-11-03",
+   "publishedAt": "2026-11-03T09:14:06+00:00",
+   "type": "community",
+   "importance": 1,
+   "sourceType": "community",
+   "sourceName": "r/OnceHumanOfficial",
+   "url": "https://www.reddit.com/r/OnceHumanOfficial/comments/1xmoa2v/the_postapocalyptic_survival_game/",
+   "originalTitle": "The post-apocalyptic survival game",
+   "en": {
+    "title": "The post-apocalyptic survival game",
+    "summary": "Community post on r/OnceHumanOfficial. When it first announced it vs Now with all the colorful cosmetics",
+    "details": "Community post on r/OnceHumanOfficial.\n\nWhen it first announced it vs Now with all the colorful cosmetics"
+   },
+   "translated": false,
+   "fetchedAt": "2026-11-03T16:18:19+00:00"
+  },
+  {
+   "id": "auto-e0e303e02a9b",
+   "tab": "ai",
+   "date": "2026-11-03",
+   "publishedAt": "2026-11-03T15:11:46+00:00",
+   "type": "coding",
+   "importance": 1,
+   "sourceType": "official",
+   "sourceName": "GitHub Changelog",
+   "url": "https://github.blog/changelog/2026-11-03-github-copilot-is-now-available-in-jetbrains-air",
+   "originalTitle": "GitHub Copilot is now available in JetBrains Air",
+   "en": {
+    "title": "GitHub Copilot is now available in JetBrains Air",
+    "summary": "You can now delegate coding tasks, guide execution, and review results with GitHub Copilot in JetBrains Air . The integration uses the Agent Client Protocol (ACP) and supports tasks in your JetBrains IDE or in the cloud.",
+    "details": "You can now delegate coding tasks, guide execution, and review results with GitHub Copilot in JetBrains Air . The integration uses the Agent Client Protocol (ACP) and supports tasks in your JetBrains IDE or in the cloud.\n\nUse Copilot in Air alongside the GitHub Copilot plugin and choose the workflow that works best for you. For a comparison and FAQ, see GitHub Copilot in JetBrains Air .\n\nWhat’s new\n\n- GitHub Copilot in Air’s agent picker : Select GitHub Copilot and use your existing Copilot subscription for coding tasks.\n\n- Parallel work and in-context review : Track multiple agent sessions, use project context and IDE tools, and review changes alongside your code.\n\n- Cloud tasks on your GitHub Copilot subscription : Run Copilot in isolated cloud environments through Air Teams, from your IDE or browser. Tasks use your Copilot plan rather than JetBrains AI credits.\n\nGet started\n\nFor local tasks, install Air in your JetBrains IDE , select GitHub Copilot , and connect your GitHub Copilot account.\n\nFor cloud tasks, you’ll need a JetBrains account in an Air Teams-enabled business organization, a GitHub Copilot subscription, and Copilot enabled by your Air administrator. There are two ways to run cloud tasks:\n\n- Browser : Open Air in your browser , connect GitHub under Settings > VCS Providers , and create a task. Choose your repository and remote branch, select GitHub Copilot , and send your prompt. …"
+   },
+   "translated": false,
+   "fetchedAt": "2026-11-03T16:18:18+00:00",
+   "company": "GitHub"
+  },
+  {
+   "id": "auto-151e1bb0de86",
+   "tab": "ai",
+   "date": "2026-11-03",
+   "publishedAt": "2026-11-03T16:00:45+00:00",
+   "type": "hardware",
+   "importance": 1,
+   "sourceType": "official",
+   "sourceName": "NVIDIA Blog",
+   "url": "https://blogs.nvidia.com/blog/ai-semiconductor-fabs/",
+   "originalTitle": "AI Is Changing How Semiconductor Fabs Work — and Engineers Are Moving Faster Because of It",
+   "en": {
+    "title": "AI Is Changing How Semiconductor Fabs Work — and Engineers Are Moving Faster Because of It",
+    "summary": "Demand for advanced chips is rising. The processes to build them are getting more complex. And the margin for error is shrinking.",
+    "details": "Demand for advanced chips is rising. The processes to build them are getting more complex. And the margin for error is shrinking.\n\nFor engineers, understanding how a process change will behave, how a material will interact with a new step, how a defect maps back to a root cause are critical, challenging steps in semiconductor manufacturing — and these analyses can take days. Physical experiments on a fab line are slow and expensive. A wrong call on yield or process quality has real consequences.\n\nAI is transforming semiconductor manufacturing, impacting what engineers can do — and how fast.\n\nAccelerated computing shortens simulation time, allowing engineers to evaluate more alternatives before committing to physical trials.\n\nPhysics-based AI helps engineers predict process behavior without running a full simulation every time.\n\nAI agents handle sequences of engineering tasks that once consumed hours.\n\nAnd digital twins let teams test changes in a virtual environment before committing to physical trials.\n\nTogether, these capabilities describe an AI-defined fab: a semiconductor manufacturing factory where AI helps engineers optimize processes, catch problems earlier and make better decisions across the full manufacturing chip lifecycle. Engineers direct the work and make decisions based on their expertise while spending less time waiting for answers.\n\nShorter Simulation Cycles Change What Engineers Can Explore …"
+   },
+   "translated": false,
+   "fetchedAt": "2026-11-03T16:18:18+00:00",
+   "company": "NVIDIA"
+  },
+  {
+   "id": "auto-f105bf5a6727",
+   "tab": "ai",
+   "date": "2026-11-03",
+   "publishedAt": "2026-11-03T15:57:39+00:00",
+   "type": "product",
+   "importance": 1,
+   "sourceType": "official",
+   "sourceName": "Hugging Face Blog",
+   "url": "https://huggingface.co/blog/ibm-research/cuga-harness",
+   "originalTitle": "Same Model, Different Harness: CUGA, Hermes, and Deep Agents — When to Pick CUGA?",
+   "en": {
+    "title": "Same Model, Different Harness: CUGA, Hermes, and Deep Agents — When to Pick CUGA?",
+    "summary": "Same Model, Different Harness: CUGA, Hermes, and Deep Agents — When to Pick CUGA?",
+    "details": ""
+   },
+   "translated": false,
+   "fetchedAt": "2026-11-03T16:18:18+00:00",
+   "company": "Hugging Face"
+  },
   {
    "id": "auto-e432ee9b8e9c",
    "tab": "ai",
@@ -20,26 +99,6 @@
    "translated": false,
    "fetchedAt": "2026-11-03T08:15:39+00:00",
    "company": "NVIDIA"
-  },
-  {
-   "id": "auto-dd4cc698b532",
-   "tab": "ai",
-   "date": "2026-11-03",
-   "publishedAt": "2026-11-03T00:00:00+00:00",
-   "type": "product",
-   "importance": 1,
-   "sourceType": "official",
-   "sourceName": "Hugging Face Blog",
-   "url": "https://huggingface.co/blog/transformers-mic",
-   "originalTitle": "Transformers Model Integration Contracts",
-   "en": {
-    "title": "Transformers Model Integration Contracts",
-    "summary": "Transformers Model Integration Contracts",
-    "details": ""
-   },
-   "translated": false,
-   "fetchedAt": "2026-11-03T08:15:39+00:00",
-   "company": "Hugging Face"
   }
  ]
 }
