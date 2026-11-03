@@ -1,0 +1,93 @@
+{
+  "topic": "ai",
+  "generatedAt": "2026-11-04",
+  "news": [
+    {
+      "id": "openai-accelerating-engineering-physical-world",
+      "date": "2026-11-03",
+      "type": "coding",
+      "importance": 2,
+      "sourceType": "official",
+      "sourceName": "OpenAI News",
+      "url": "https://openai.com/index/accelerating-engineering-for-the-physical-world",
+      "originalTitle": "Accelerating engineering for the physical world",
+      "company": "OpenAI",
+      "ar": {
+        "title": "OpenAI تستعرض استخدام ChatGPT و Codex في تصميم CAD والدوائر الكهربائية",
+        "summary": "نشرت OpenAI أمثلة على استخدام ChatGPT و Codex لتسريع أعمال تصميم CAD وتصميم الدوائر المطبوعة ومحاكاة الهندسة الفيزيائية.",
+        "details": "نشرت OpenAI تدوينة جديدة تصف كيف يستخدم المهندسون ChatGPT و Codex لتسريع مهام تشمل نمذجة CAD وتصميم الدوائر المطبوعة (PCB) ومحاكاة الفيزياء. تُقدّم التدوينة هذه المساعدات البرمجية كأدوات مفيدة تتجاوز تطوير البرمجيات، لتشمل الهندسة المادية وتصميم المنتجات.\n\nتُظهر الأمثلة أن نماذج الذكاء الاصطناعي تتولى أعمال الصياغة والتكرار المتكررة، مما يتيح للمهندسين وقتاً أكبر لاتخاذ قرارات التصميم. لم تُعلن OpenAI عن منتج CAD مخصص جديد، بل سلّطت الضوء على قدرات ChatGPT و Codex الحالية التي يستخدمها مستخدمون وشركاء أوائل في مهام هندسية."
+      },
+      "en": {
+        "title": "OpenAI showcases ChatGPT and Codex speeding up CAD, PCB design and simulation",
+        "summary": "OpenAI published examples of engineers using ChatGPT and Codex to accelerate CAD modeling, PCB design, simulation and other physical-engineering workflows.",
+        "details": "OpenAI published a new case-study style post describing how engineers are using ChatGPT and Codex to speed up tasks across CAD modeling, PCB design, and physics simulation. The post frames these coding assistants as useful well beyond software development, extending into hardware and physical-product engineering.\n\nThe examples point to AI models handling repetitive drafting and iteration work, letting engineers spend more time on design decisions. OpenAI did not announce a new dedicated CAD product; instead, it highlighted existing ChatGPT and Codex capabilities being applied to engineering workflows by early users and partners."
+      }
+    },
+    {
+      "id": "nvidia-ai-defined-fab-partners",
+      "date": "2026-11-03",
+      "type": "hardware",
+      "importance": 2,
+      "sourceType": "official",
+      "sourceName": "NVIDIA Blog",
+      "url": "https://blogs.nvidia.com/blog/ai-semiconductor-fabs/",
+      "originalTitle": "What Is an AI-Defined Fab?",
+      "company": "NVIDIA",
+      "ar": {
+        "title": "NVIDIA تعرض مبادرة 'المصنع المعرَّف بالذكاء الاصطناعي' مع شركاء التصنيع",
+        "summary": "عرضت NVIDIA كيف تسرّع أدوات المحاكاة والذكاء الاصطناعي من شركاء مثل COMSOL وApplied Materials وSiemens وLam Research أعمال الهندسة في مصانع الرقائق.",
+        "details": "وصفت NVIDIA ما تسمّيه 'المصنع المعرَّف بالذكاء الاصطناعي'، حيث يسرّع الذكاء الاصطناعي تصنيع أشباه الموصلات من خلال المحاكاة المعجَّلة والنماذج القائمة على الفيزياء وعملاء الأتمتة والنسخ الرقمية التوأم. وأشارت الشركة إلى شركاء يستخدمون تقنيتها فعلياً داخل مصانع الرقائق.\n\nتقول COMSOL إن محاكاتها متعددة الفيزياء تعمل بسرعة أكبر بعشر مرات باستخدام مكتبة cuDSS من NVIDIA. وتسجّل Applied Materials تسريعات مماثلة لمنصة Ginestra، إضافة إلى محاكاة طوبوغرافية أسرع بما يصل إلى 35 مرة مع PhysicsNeMo، ونسخ رقمية توأم لمستوى المصنع مبنية بـ Omniverse. وتقول Siemens إن دمج cuLitho من NVIDIA في برنامج Calibre للتصوير الحجري يسرّع العملية بما يصل إلى 17 مرة.\n\nوتقول Lam Research إن PhysicsNeMo يمكنه التنبؤ بسلوك البلازما في أجزاء من الثانية بدلاً من أيام المحاكاة الكاملة، وتستخدم Advantest عملاء NeMo Switchyard من NVIDIA لأتمتة اختيار نماذج الذكاء الاصطناعي، مما يقلّص زمن الاستجابة من ساعات إلى دقائق."
+      },
+      "en": {
+        "title": "NVIDIA details 'AI-defined fab' push with COMSOL, Applied Materials, Siemens",
+        "summary": "NVIDIA outlined how AI acceleration and simulation tools from partners like COMSOL, Applied Materials, Siemens and Lam Research are speeding up chip-fab engineering.",
+        "details": "NVIDIA described what it calls an 'AI-defined fab,' where AI speeds up semiconductor manufacturing through accelerated simulation, physics-based models, automation agents and digital twins. The company pointed to partners already using its technology inside chip fabs.\n\nCOMSOL says its multiphysics simulations run up to 10 times faster using NVIDIA's cuDSS library. Applied Materials reports similar cuDSS speedups for its Ginestra materials-discovery platform and up to 35 times faster topography simulations with PhysicsNeMo, plus fab-level digital twins built with Omniverse. Siemens says integrating NVIDIA's cuLitho into its Calibre lithography software speeds that process up by as much as 17 times.\n\nLam Research says PhysicsNeMo can predict plasma behavior in milliseconds instead of the days a full simulation normally takes, and Advantest uses NVIDIA's NeMo Switchyard agents to automate AI model selection, cutting response times from hours to minutes."
+      }
+    },
+    {
+      "id": "nvidia-cities-physical-ai-agents",
+      "date": "2026-11-02",
+      "type": "business",
+      "importance": 2,
+      "sourceType": "official",
+      "sourceName": "NVIDIA Blog",
+      "url": "https://blogs.nvidia.com/blog/cities-physical-agentic-ai-applications/",
+      "originalTitle": "How Cities Worldwide Are Scaling Physical AI and Agentic AI Applications",
+      "company": "NVIDIA",
+      "ar": {
+        "title": "NVIDIA توسّع عملاء الذكاء الاصطناعي المادي في خدمات المدن حول العالم",
+        "summary": "عرضت NVIDIA نشر مدن حول العالم لعملاء الذكاء الاصطناعي المادي والنسخ الرقمية التوأم في الخدمات العامة، من إسبانيا وبولندا إلى ماليزيا ونيجيريا والمغرب.",
+        "details": "عرضت NVIDIA كيف تنشر مدن حول العالم عملاء الذكاء الاصطناعي المادي والنسخ الرقمية التوأم لخدمة القطاع العام، استكمالاً لمبادرات أُعلنت في مؤتمر GTC برلين. وتسلّط التدوينة الضوء على بنية حوسبة مشتركة تتيح لإدارات المدن والبلديات المجاورة البناء على موارد مشتركة.\n\nفي إسبانيا، تشغّل شركة 1MillionBot عملاء خدمة للمقيمين لصالح Madrid Digital وحكومة كتالونيا باستخدام نماذج ALIA مفتوحة المصدر إلى جانب Nemotron من NVIDIA. وفي بولندا، تستخدم K2K بنية ذكاء اصطناعي مشتركة لتحويل بث الكاميرات إلى رؤى حول التنقل والسلامة، بينما تخطط ITMAX في ماليزيا لتوسيع عملاء رؤية المرور إلى أكثر من 17,000 كاميرا بحلول 2027.\n\nوتستخدم Honeywell وشركة Dangote النيجيرية عملاء مدعومين بـ Nemotron ونسخة رقمية توأم مبنية بـ Omniverse في مصفاة Lekki، كما تبني شركة Cires Technologies المغربية مصنع ذكاء اصطناعي سيادياً في ميناء طنجة المتوسط. وأشارت NVIDIA أيضاً إلى مشاريع في تايوان وبرنامج تسريع لمركز برشلونة للحوسبة الفائقة لدعم الشركات الناشئة في الذكاء الاصطناعي."
+      },
+      "en": {
+        "title": "NVIDIA expands physical AI agents into city services worldwide",
+        "summary": "NVIDIA detailed city deployments of AI agents and digital twins for public services, from Spain and Poland to Malaysia, Nigeria and Morocco.",
+        "details": "NVIDIA outlined how cities worldwide are deploying physical AI agents and digital twins for public services, building on initiatives from GTC Berlin. The post highlights shared computing infrastructure that lets city departments and neighboring municipalities build on common resources.\n\nIn Spain, 1MillionBot runs resident-service agents for Madrid Digital and Catalonia's government using open-source ALIA models alongside NVIDIA Nemotron. In Poland, K2K uses shared AI infrastructure to turn camera streams into mobility and safety insights, while Malaysia's ITMAX plans to scale traffic-vision agents to more than 17,000 cameras by 2027.\n\nHoneywell and Nigeria's Dangote are using Nemotron-powered agents and an Omniverse digital twin at the Lekki refinery, and Morocco's Cires Technologies is building a sovereign AI factory at the Tanger Med port. NVIDIA also cited projects in Taiwan and a Barcelona Supercomputing Center accelerator program for AI startups."
+      }
+    },
+    {
+      "id": "github-dependabot-apm-version-updates",
+      "date": "2026-11-03",
+      "type": "coding",
+      "importance": 2,
+      "sourceType": "official",
+      "sourceName": "GitHub Changelog",
+      "url": "https://github.blog/changelog/2026-11-03-dependabot-version-updates-support-agent-package-manager",
+      "originalTitle": "Dependabot version updates now support Agent Package Manager (APM)",
+      "company": "GitHub",
+      "ar": {
+        "title": "GitHub يضيف تحديثات الإصدارات في Dependabot لمدير حزم العملاء APM",
+        "summary": "أصبح Dependabot من GitHub قادراً على فتح طلبات دمج تُحدّث مهارات وتوجيهات عملاء الذكاء الاصطناعي المعرَّفة في ملفات apm.yml.",
+        "details": "وسّعت GitHub أداة Dependabot لتشمل تبعيات Agent Package Manager (APM). يمكنها الآن فتح طلبات دمج (pull requests) تُحدّث تبعيات git المدعومة والمعرَّفة في ملف apm.yml الخاص بالمشروع، كما تُعيد توليد ملف القفل apm.lock.yaml عند وجوده.\n\nتغطي الميزة تحديثات الإصدارات فقط، لا التحديثات الأمنية. ولاستخدامها، يضيف المطورون إدخال apm إلى ملف .github/dependabot.yml، ويحدّدون المجلد الذي يحتوي على apm.yml، ويختارون جدولاً للتحديث.\n\nالميزة متوفرة الآن بشكل عام على github.com لجميع الخطط، وتقول GitHub إنها ستصل أيضاً إلى GitHub Enterprise Server 3.24."
+      },
+      "en": {
+        "title": "GitHub Dependabot adds version updates for Agent Package Manager",
+        "summary": "GitHub's Dependabot can now open pull requests that update AI agent skills, prompts and instructions declared in apm.yml files.",
+        "details": "GitHub extended Dependabot to cover Agent Package Manager (APM) dependencies. It can now open pull requests that update supported git dependencies declared in a project's apm.yml file, and it regenerates the apm.lock.yaml lock file when one is present.\n\nThe feature covers version updates only, not security updates. To use it, developers add an apm entry to .github/dependabot.yml, point it at the directory containing apm.yml, and choose an update schedule.\n\nThe feature is generally available now on github.com for all plans, and GitHub says it will also come to GitHub Enterprise Server 3.24."
+      }
+    }
+  ],
+  "upcoming": [],
+  "removeUpcoming": [],
+  "removeNews": []
+}
