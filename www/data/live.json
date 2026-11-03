@@ -1,4 +1,45 @@
 {
- "updatedAt": "2026-11-03T01:25:52+00:00",
- "items": []
+ "updatedAt": "2026-11-03T08:15:44+00:00",
+ "items": [
+  {
+   "id": "auto-e432ee9b8e9c",
+   "tab": "ai",
+   "date": "2026-11-03",
+   "publishedAt": "2026-11-03T07:00:12+00:00",
+   "type": "policy",
+   "importance": 1,
+   "sourceType": "official",
+   "sourceName": "NVIDIA Blog",
+   "url": "https://blogs.nvidia.com/blog/cities-physical-agentic-ai-applications/",
+   "originalTitle": "Cities Worldwide Build and Scale AI Services With NVIDIA Physical and Agentic AI",
+   "en": {
+    "title": "Cities Worldwide Build and Scale AI Services With NVIDIA Physical and Agentic AI",
+    "summary": "Cities generate enormous amounts of data from cameras, sensors and operational systems, but turning it into useful action — for planning, maintenance and public services — remains a challenge.",
+    "details": "Cities generate enormous amounts of data from cameras, sensors and operational systems, but turning it into useful action — for planning, maintenance and public services — remains a challenge.\n\nPhysical and agentic AI offer new ways to close that gap, from digital twins for infrastructure planning to vision and service agents, while keeping local governments in control of how sensitive data is processed and used.\n\nBuilding on initiatives announced at GTC Berlin , NVIDIA and its partners are expanding physical AI and AI agents to cities worldwide. Shared computing infrastructure gives city departments, neighboring municipalities and local developers a common foundation to build on — extending services without each organization having to acquire and manage resources of their own.\n\nAgentic AI for Cities\n\nFrom resident services to vision agents, cities are adopting NVIDIA agentic AI to deliver faster, more responsive public services. City teams don’t need a massive infrastructure investment to get started building these AI services: depending on the workload, NVIDIA RTX workstations or a small GPU system may be enough. …"
+   },
+   "translated": false,
+   "fetchedAt": "2026-11-03T08:15:39+00:00",
+   "company": "NVIDIA"
+  },
+  {
+   "id": "auto-dd4cc698b532",
+   "tab": "ai",
+   "date": "2026-11-03",
+   "publishedAt": "2026-11-03T00:00:00+00:00",
+   "type": "product",
+   "importance": 1,
+   "sourceType": "official",
+   "sourceName": "Hugging Face Blog",
+   "url": "https://huggingface.co/blog/transformers-mic",
+   "originalTitle": "Transformers Model Integration Contracts",
+   "en": {
+    "title": "Transformers Model Integration Contracts",
+    "summary": "Transformers Model Integration Contracts",
+    "details": ""
+   },
+   "translated": false,
+   "fetchedAt": "2026-11-03T08:15:39+00:00",
+   "company": "Hugging Face"
+  }
+ ]
 }
