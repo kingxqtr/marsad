@@ -3,6 +3,27 @@
   "generatedAt": "2026-11-03",
   "news": [
     {
+      "id": "openai-dan-driscoll-national-security-counselor",
+      "date": "2026-11-02",
+      "type": "business",
+      "importance": 2,
+      "sourceType": "official",
+      "sourceName": "OpenAI News",
+      "url": "https://openai.com/index/dan-driscoll-joins-openai",
+      "originalTitle": "OpenAI appoints Dan Driscoll as Senior Counselor for National Security Modernization",
+      "company": "OpenAI",
+      "ar": {
+        "title": "OpenAI تعيّن دان دريسكول مستشاراً أول لتحديث الأمن القومي",
+        "summary": "عيّنت OpenAI دان دريسكول، وزير الجيش الأمريكي السابق، مستشاراً أول لتحديث الأمن القومي، للمساعدة في توجيه استخدام الذكاء الاصطناعي بمسؤولية في هذا المجال وتعزيز التعاون مع حلفاء الولايات المتحدة.",
+        "details": "أعلنت OpenAI تعيين دان دريسكول، الذي شغل منصب وزير الجيش الأمريكي حتى استقالته في أواخر أغسطس 2026، في منصب مستشار أول لتحديث الأمن القومي.\n\nبحسب الشركة، سيساعد دريسكول في توجيه استخدام الذكاء الاصطناعي بمسؤولية في مجالات الأمن القومي وتحديث الدفاع، إلى جانب العمل على القدرة على الصمود السيبراني والتعاون مع حلفاء الولايات المتحدة.\n\nيأتي التعيين في وقت تعمّق فيه OpenAI علاقاتها مع الجهات الحكومية الأمريكية المختصة بالدفاع والأمن القومي، بعد أن أضافت الشركة سابقاً الجنرال المتقاعد بول ناكاسوني، القائد السابق لوكالة الأمن القومي والقيادة السيبرانية الأمريكية، إلى مجلس إدارتها."
+      },
+      "en": {
+        "title": "OpenAI appoints ex-Army Secretary Dan Driscoll as national security counselor",
+        "summary": "OpenAI named Dan Driscoll, who resigned as U.S. Army Secretary in late August 2026, as Senior Counselor for National Security Modernization to help guide responsible AI use in defense and allied cooperation.",
+        "details": "OpenAI announced the appointment of Dan Driscoll, who served as U.S. Secretary of the Army until resigning in late August 2026, as its Senior Counselor for National Security Modernization.\n\nAccording to the company, Driscoll will help guide the responsible use of AI in national security and defense modernization, as well as work on cyber resilience and collaboration with U.S. allies.\n\nThe appointment comes as OpenAI continues deepening ties with U.S. defense and national-security circles; the company had previously added retired General Paul Nakasone, former head of the National Security Agency and U.S. Cyber Command, to its board of directors."
+      }
+    },
+    {
       "id": "anthropic-s1a-retail-investors-amendment",
       "date": "2026-11-02",
       "type": "business",

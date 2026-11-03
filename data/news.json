@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": "2026-11-03T03:08:10+00:00",
+ "updatedAt": "2026-11-03T04:11:08+00:00",
  "coverage": {
   "from": "2026-08-03",
   "to": "2026-11-03"
@@ -1952,6 +1952,28 @@
       "details": "Anthropic filed a Form S-1/A on November 2, amending the public IPO registration it first submitted on October 26 as it prepares to list on Nasdaq under the ticker ANT. The amendment adds a new \"Sales to Retail Investors\" section, alongside references to international offerings that reportedly include a UK retail tranche arranged through the platform RetailBook.\n\nThe filing still does not disclose a price range or share count; those details typically appear in a later amendment closer to the roadshow, which cannot legally begin until at least 15 days after the public filing. Press reports point to a possible listing in the second half of November.\n\nThe amended filing also reflects the scale of Anthropic's infrastructure commitments as it races to secure compute and power for its Claude models, naming partners including Google, Amazon, Microsoft and Broadcom. Most of these obligations are structured as largely non-cancellable take-or-pay deals, and financial reporting based on the filing puts Anthropic's total committed spending at close to $900 billion."
      },
      "addedAt": "2026-11-02T21:22:11+00:00"
+    },
+    {
+     "id": "openai-dan-driscoll-national-security-counselor",
+     "date": "2026-11-02",
+     "type": "business",
+     "importance": 2,
+     "sourceType": "official",
+     "sourceName": "OpenAI News",
+     "url": "https://openai.com/index/dan-driscoll-joins-openai",
+     "originalTitle": "OpenAI appoints Dan Driscoll as Senior Counselor for National Security Modernization",
+     "company": "OpenAI",
+     "ar": {
+      "title": "OpenAI تعيّن دان دريسكول مستشاراً أول لتحديث الأمن القومي",
+      "summary": "عيّنت OpenAI دان دريسكول، وزير الجيش الأمريكي السابق، مستشاراً أول لتحديث الأمن القومي، للمساعدة في توجيه استخدام الذكاء الاصطناعي بمسؤولية في هذا المجال وتعزيز التعاون مع حلفاء الولايات المتحدة.",
+      "details": "أعلنت OpenAI تعيين دان دريسكول، الذي شغل منصب وزير الجيش الأمريكي حتى استقالته في أواخر أغسطس 2026، في منصب مستشار أول لتحديث الأمن القومي.\n\nبحسب الشركة، سيساعد دريسكول في توجيه استخدام الذكاء الاصطناعي بمسؤولية في مجالات الأمن القومي وتحديث الدفاع، إلى جانب العمل على القدرة على الصمود السيبراني والتعاون مع حلفاء الولايات المتحدة.\n\nيأتي التعيين في وقت تعمّق فيه OpenAI علاقاتها مع الجهات الحكومية الأمريكية المختصة بالدفاع والأمن القومي، بعد أن أضافت الشركة سابقاً الجنرال المتقاعد بول ناكاسوني، القائد السابق لوكالة الأمن القومي والقيادة السيبرانية الأمريكية، إلى مجلس إدارتها."
+     },
+     "en": {
+      "title": "OpenAI appoints ex-Army Secretary Dan Driscoll as national security counselor",
+      "summary": "OpenAI named Dan Driscoll, who resigned as U.S. Army Secretary in late August 2026, as Senior Counselor for National Security Modernization to help guide responsible AI use in defense and allied cooperation.",
+      "details": "OpenAI announced the appointment of Dan Driscoll, who served as U.S. Secretary of the Army until resigning in late August 2026, as its Senior Counselor for National Security Modernization.\n\nAccording to the company, Driscoll will help guide the responsible use of AI in national security and defense modernization, as well as work on cyber resilience and collaboration with U.S. allies.\n\nThe appointment comes as OpenAI continues deepening ties with U.S. defense and national-security circles; the company had previously added retired General Paul Nakasone, former head of the National Security Agency and U.S. Cyber Command, to its board of directors."
+     },
+     "addedAt": "2026-11-02T23:59:59+00:00"
     },
     {
      "id": "qwen-exec-open-source-commitment-statement",
