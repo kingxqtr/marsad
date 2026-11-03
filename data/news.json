@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": "2026-11-03T16:15:17+00:00",
+ "updatedAt": "2026-11-03T17:11:45+00:00",
  "coverage": {
   "from": "2026-08-03",
   "to": "2026-11-03"
@@ -1909,6 +1909,51 @@
   "ai": {
    "news": [
     {
+     "id": "google-antigravity-cheminformatics-skills",
+     "date": "2026-11-03",
+     "type": "product",
+     "importance": 2,
+     "sourceType": "official",
+     "sourceName": "Google DeepMind Blog",
+     "url": "https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity/",
+     "originalTitle": "Agentic cheminformatics with Google Antigravity",
+     "company": "Google",
+     "tool": "Google Antigravity",
+     "ar": {
+      "title": "Google تضيف مهارات للمعلوماتية الكيميائية إلى منصة Antigravity",
+      "summary": "أطلقت Google DeepMind مهارات Cheminformatics لمنصتها الوكيلية Antigravity، تتيح لوكيل ذكاء اصطناعي البحث عن مركبات كيميائية واقتراح مرشحات دوائية جديدة.",
+      "details": "قدّمت Google DeepMind مجموعة مهارات للمعلوماتية الكيميائية (Cheminformatics Skills) ضمن منصتها الوكيلية Google Antigravity، بهدف تسريع عمل الكيميائيين الحاسوبيين والمعمليين في اكتشاف الأدوية. تربط هذه المهارات وكيل الذكاء الاصطناعي بأداة RDKit مفتوحة المصدر وقاعدتي بيانات ChEMBL وPubChem، حيث يتولى النموذج اللغوي التحليل والاستدلال بينما تنفذ أدوات كيميائية حتمية الحسابات.\n\nوفي عرض تجريبي استخدم عقاري كريزوتينيب ولورلاتينيب لعلاج سرطان الرئة، بحث الوكيل في آلاف المركبات، وأجرى تحليل أزواج جزيئية متطابقة، واقترح مركبات حلقية كبيرة جديدة مع مسارات توليفها الكيميائي في نحو ساعة واحدة. وأوضحت Google أن قلة البيانات وتشويش الفحوصات لا يزالان يحدّان من دقة التوقعات، وأن كل تصميم مقترح يحتاج إلى تحقق معملي.\n\nوتتوفر المهارات حالياً عبر إضافة Science في تطبيق Antigravity، كما تعرض Google وصولاً مجانياً لأعلى باقة استخدام لعشرة آلاف باحث لمدة ستة أشهر، وفق معايير الأهلية والسعة المتاحة."
+     },
+     "en": {
+      "title": "Google adds cheminformatics skills to its Antigravity AI platform",
+      "summary": "Google DeepMind released Cheminformatics Skills for its Antigravity agentic platform, letting an AI agent search compounds and propose new drug candidates.",
+      "details": "Google DeepMind introduced a set of Cheminformatics Skills for Google Antigravity, its agentic development platform, aimed at speeding up drug discovery work for computational and bench chemists. The skills connect an AI agent to the open-source RDKit toolkit along with the ChEMBL and PubChem databases, with the language model handling reasoning while deterministic chemistry tools do the calculations.\n\nIn a demonstration using the lung cancer drugs crizotinib and lorlatinib, an agent searched thousands of compounds, ran matched molecular pair analysis, and proposed new rigidified macrocycles with synthetic routes in about an hour. Google cautioned that sparse data and assay noise still limit predictions, and every proposed design still needs experimental validation.\n\nThe skills are available now through the Antigravity app's Science plugin. Google is also offering 10,000 scientists free access to its highest usage tier for six months, subject to eligibility and capacity."
+     },
+     "addedAt": "2026-11-03T17:11:45+00:00"
+    },
+    {
+     "id": "github-copilot-jetbrains-air",
+     "date": "2026-11-03",
+     "type": "coding",
+     "importance": 2,
+     "sourceType": "official",
+     "sourceName": "GitHub Changelog",
+     "url": "https://github.blog/changelog/2026-11-03-github-copilot-is-now-available-in-jetbrains-air",
+     "originalTitle": "GitHub Copilot is now available in JetBrains Air",
+     "company": "GitHub",
+     "ar": {
+      "title": "GitHub Copilot يصل إلى JetBrains Air للمهام البرمجية الوكيلية",
+      "summary": "أضافت GitHub أداة Copilot إلى قائمة الوكلاء في JetBrains Air، لتفويض المهام البرمجية وتنفيذها محلياً أو في السحابة باستخدام اشتراك Copilot.",
+      "details": "أضافت GitHub خدمة Copilot كخيار ضمن قائمة الوكلاء في JetBrains Air، بما يتيح للمطورين تفويض المهام البرمجية والاطلاع على تنفيذها ومراجعة النتائج دون مغادرة بيئة التطوير. يعتمد الدمج على بروتوكول Agent Client Protocol، ويعمل جنباً إلى جنب مع إضافة Copilot الحالية لبيئات JetBrains.\n\nتُنفَّذ المهام المحلية عبر إضافة Air المتصلة بحساب Copilot، بينما تعمل المهام السحابية في بيئات معزولة ضمن Air Teams وتُحتسب من باقة Copilot الخاصة بالمستخدم بدلاً من أرصدة JetBrains AI. ويمكن تشغيل عدة جلسات وكيل بالتوازي مع مراجعة التغييرات مباشرة داخل الواجهة.\n\nيتطلب الوصول السحابي حساب مؤسسة مفعّلة على Air Teams واشتراك Copilot، إلى جانب مسؤول فعّل الخدمة، على أن يتم التحقق من الاشتراك فقط عند بدء المهمة السحابية."
+     },
+     "en": {
+      "title": "GitHub Copilot arrives in JetBrains Air for agentic coding",
+      "summary": "GitHub added Copilot to JetBrains Air's agent picker, letting developers run coding tasks locally or in the cloud using their Copilot subscription.",
+      "details": "GitHub has added Copilot as an option in JetBrains Air's agent picker, so developers can delegate coding tasks to it, guide execution, and review results without leaving their IDE. The integration uses the Agent Client Protocol and runs alongside the existing Copilot plugin for JetBrains IDEs.\n\nLocal tasks run with an installed Air plugin connected to a Copilot account, while cloud tasks execute in isolated containers through Air Teams and draw on the user's Copilot plan rather than JetBrains AI credits. Multiple agent sessions can run in parallel with in-context review of changes.\n\nCloud access requires a JetBrains Air Teams business organization, a Copilot subscription, and an administrator who has enabled Copilot; usage checks happen only when a cloud task starts."
+     },
+     "addedAt": "2026-11-03T17:11:45+00:00"
+    },
+    {
      "id": "huggingface-transformers-model-integration-contracts",
      "date": "2026-11-03",
      "type": "coding",
@@ -1930,6 +1975,28 @@
       "details": "Hugging Face researcher Tarek Ziadé published a blog post introducing Model Integration Contracts (MICs), a new way to test the widely used Transformers library for each model it supports.\n\nEach contract has three parts: a small fixture built from a real checkpoint's configuration, keeping its original layer types and unmodified tokenizer; a runnable Markdown usage path showing a common task such as text generation; and human-reviewed baseline outputs. A contract holds as long as running the usage path on the fixture still reproduces those baselines.\n\nThe effort was prompted by a bug in UMT5: enabling SDPA attention for T5 let UMT5's decoder attend to future tokens, and the bug sat undetected on the main branch for almost two months. A small UMT5 fixture (66 MB versus 1,227 MB for the full checkpoint) caught it on every replayed commit, since full GPU integration tests run too slowly to check on every pull request. The check currently reports failures without blocking merges, and Hugging Face is inviting contributors to expand coverage using a new `tmic` command-line tool."
      },
      "addedAt": "2026-11-03T11:10:41+00:00"
+    },
+    {
+     "id": "ibm-research-palette-deck-building-model",
+     "date": "2026-11-03",
+     "type": "model",
+     "importance": 1,
+     "sourceType": "official",
+     "sourceName": "Hugging Face Blog",
+     "url": "https://huggingface.co/blog/ibm-research/palette-deck-building",
+     "originalTitle": "Palette: teaching a small model to build decks in your design language",
+     "company": "IBM",
+     "ar": {
+      "title": "IBM Research تكشف عن Palette لبناء عروض تقديمية بالذكاء الاصطناعي",
+      "summary": "عرضت IBM Research نموذج Palette، نموذجاً مُدرَّباً بـ20 مليار معامل يكتب شيفرة لإنشاء عروض تقديمية منسقة، وحقق المركز الثاني في مقياس PresentBench.",
+      "details": "نشرت IBM Research تفاصيل مشروعها البحثي Palette، الذي يستخدم نموذجاً مفتوح الأوزان بحجم 20 مليار معامل ومُهيَّأ خصيصاً لإنشاء عروض تقديمية عبر كتابة شيفرة pptxgenjs لكل شريحة. يؤدي محوّل واحد دورين: \"مصمم\" يضع مخطط التصميم والمحتوى، و\"مبرمج\" يُنتج كل شريحة بالتوازي وفق لغة تصميم IBM.\n\nدُرِّب النموذج على نحو 1000 عرض تقديمي اصطناعي مع مسارات استدلال تشرح خيارات التصميم، ويمكن للمستخدمين توجيه الناتج بتوجيهات بين قوسين مزدوجين مثل [[make this a timeline]]. كما تتضمن العملية خطوة فحص وتصحيح تُظهر كل شريحة وتكتشف التداخلات أو تجاوز الحدود، ولا تُطبَّق التصحيحات إلا إذا حسّنت النتيجة فعلياً.\n\nوفي مقياس PresentBench، تصدّر Palette فئتي الاقتصاد والتعليم، وحل في المركز الثاني عموماً عبر ثلاثة مجالات بفارق 1.1 نقطة عن NotebookLM. وتقول IBM إن خططها المقبلة تشمل استخدام نتائج الفحص كإشارة للتعلم المعزز واستخراج الرسوم البيانية من المستندات المصدر."
+     },
+     "en": {
+      "title": "IBM Research unveils Palette, a model that builds slide decks",
+      "summary": "IBM Research detailed Palette, a fine-tuned 20B model that writes code to build styled slide decks, ranking second overall on the PresentBench benchmark.",
+      "details": "IBM Research published details of Palette, a research project that uses a fine-tuned 20-billion-parameter open-weight model to generate slide decks by writing pptxgenjs code for each slide. A single adapter plays two roles: a \"designer\" that drafts a layout and content brief, and a \"coder\" that renders each slide in parallel, styled to IBM's design language.\n\nThe model was trained on about 1,000 synthetic decks with reasoning traces explaining design choices, and users can steer output with bracketed directives like [[make this a timeline]]. A check-and-repair step renders each slide, flags overlaps or overflow, and keeps fixes only if they measurably improve the result.\n\nOn the PresentBench benchmark, Palette ranked first in the Economics and Education categories and placed second overall across three domains, 1.1 points behind NotebookLM. IBM says future work includes using the checker as a reinforcement-learning signal and extracting figures from source documents."
+     },
+     "addedAt": "2026-11-03T17:11:45+00:00"
     },
     {
      "id": "qwen-code-repo-qwen4-model-id-leak",
