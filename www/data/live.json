@@ -1,6 +1,63 @@
 {
- "updatedAt": "2026-11-03T16:18:23+00:00",
+ "updatedAt": "2026-11-03T21:50:55+00:00",
  "items": [
+  {
+   "id": "auto-0918f8a6f58f",
+   "tab": "star-citizen",
+   "date": "2026-11-03",
+   "publishedAt": "2026-11-03T18:50:50+00:00",
+   "type": "squadron42",
+   "importance": 1,
+   "sourceType": "official",
+   "sourceName": "RSI Comm-Link",
+   "url": "https://robertsspaceindustries.com/comm-link/transmission/21311-November-2026-Subscriber-Promotions",
+   "originalTitle": "November 2026 Subscriber Promotions",
+   "en": {
+    "title": "November 2026 Subscriber Promotions",
+    "summary": "It’s safe to say it’s been a busy few weeks in the world of Star Citizen following the recent releases and Squadron 42 news, and November’s only bringing more action with the Intergalactic Aerospace Expo.",
+    "details": "It’s safe to say it’s been a busy few weeks in the world of Star Citizen following\nthe recent releases and Squadron 42 news, and November’s only bringing more\naction with the Intergalactic Aerospace Expo. Before things heat up again, take a\nwell-deserved breather courtesy of the galaxy’s masters of meditation with this\nmonth’s Flair. The Xi’an theme continues with November’s esoteric Ships of the\nMonth, too."
+   },
+   "translated": false,
+   "fetchedAt": "2026-11-03T21:50:50+00:00"
+  },
+  {
+   "id": "auto-defa977331a2",
+   "tab": "ai",
+   "date": "2026-11-03",
+   "publishedAt": "2026-11-03T17:22:37+00:00",
+   "type": "coding",
+   "importance": 1,
+   "sourceType": "community",
+   "sourceName": "Hacker News",
+   "url": "https://news.ycombinator.com/item?id=50354960",
+   "originalTitle": "Postman silently auto-installs AI plugins and attempts to share all API data",
+   "en": {
+    "title": "Postman silently auto-installs AI plugins and attempts to share all API data",
+    "summary": "Community discussion on Hacker News (816 points, 266 comments).",
+    "details": "Community discussion on Hacker News (816 points, 266 comments)."
+   },
+   "translated": false,
+   "fetchedAt": "2026-11-03T21:50:50+00:00"
+  },
+  {
+   "id": "auto-94b3f6b0651b",
+   "tab": "ai",
+   "date": "2026-11-03",
+   "publishedAt": "2026-11-03T15:25:47+00:00",
+   "type": "product",
+   "importance": 1,
+   "sourceType": "community",
+   "sourceName": "Hacker News",
+   "url": "https://news.ycombinator.com/item?id=50353192",
+   "originalTitle": "Google will turn off search for schools that reject AI",
+   "en": {
+    "title": "Google will turn off search for schools that reject AI",
+    "summary": "Community discussion on Hacker News (457 points, 342 comments).",
+    "details": "Community discussion on Hacker News (457 points, 342 comments)."
+   },
+   "translated": false,
+   "fetchedAt": "2026-11-03T21:50:50+00:00"
+  },
   {
    "id": "auto-f770828ca128",
    "tab": "once-human",
@@ -21,46 +78,6 @@
    "fetchedAt": "2026-11-03T16:18:19+00:00"
   },
   {
-   "id": "auto-e0e303e02a9b",
-   "tab": "ai",
-   "date": "2026-11-03",
-   "publishedAt": "2026-11-03T15:11:46+00:00",
-   "type": "coding",
-   "importance": 1,
-   "sourceType": "official",
-   "sourceName": "GitHub Changelog",
-   "url": "https://github.blog/changelog/2026-11-03-github-copilot-is-now-available-in-jetbrains-air",
-   "originalTitle": "GitHub Copilot is now available in JetBrains Air",
-   "en": {
-    "title": "GitHub Copilot is now available in JetBrains Air",
-    "summary": "You can now delegate coding tasks, guide execution, and review results with GitHub Copilot in JetBrains Air . The integration uses the Agent Client Protocol (ACP) and supports tasks in your JetBrains IDE or in the cloud.",
-    "details": "You can now delegate coding tasks, guide execution, and review results with GitHub Copilot in JetBrains Air . The integration uses the Agent Client Protocol (ACP) and supports tasks in your JetBrains IDE or in the cloud.\n\nUse Copilot in Air alongside the GitHub Copilot plugin and choose the workflow that works best for you. For a comparison and FAQ, see GitHub Copilot in JetBrains Air .\n\nWhat’s new\n\n- GitHub Copilot in Air’s agent picker : Select GitHub Copilot and use your existing Copilot subscription for coding tasks.\n\n- Parallel work and in-context review : Track multiple agent sessions, use project context and IDE tools, and review changes alongside your code.\n\n- Cloud tasks on your GitHub Copilot subscription : Run Copilot in isolated cloud environments through Air Teams, from your IDE or browser. Tasks use your Copilot plan rather than JetBrains AI credits.\n\nGet started\n\nFor local tasks, install Air in your JetBrains IDE , select GitHub Copilot , and connect your GitHub Copilot account.\n\nFor cloud tasks, you’ll need a JetBrains account in an Air Teams-enabled business organization, a GitHub Copilot subscription, and Copilot enabled by your Air administrator. There are two ways to run cloud tasks:\n\n- Browser : Open Air in your browser , connect GitHub under Settings > VCS Providers , and create a task. Choose your repository and remote branch, select GitHub Copilot , and send your prompt. …"
-   },
-   "translated": false,
-   "fetchedAt": "2026-11-03T16:18:18+00:00",
-   "company": "GitHub"
-  },
-  {
-   "id": "auto-151e1bb0de86",
-   "tab": "ai",
-   "date": "2026-11-03",
-   "publishedAt": "2026-11-03T16:00:45+00:00",
-   "type": "hardware",
-   "importance": 1,
-   "sourceType": "official",
-   "sourceName": "NVIDIA Blog",
-   "url": "https://blogs.nvidia.com/blog/ai-semiconductor-fabs/",
-   "originalTitle": "AI Is Changing How Semiconductor Fabs Work — and Engineers Are Moving Faster Because of It",
-   "en": {
-    "title": "AI Is Changing How Semiconductor Fabs Work — and Engineers Are Moving Faster Because of It",
-    "summary": "Demand for advanced chips is rising. The processes to build them are getting more complex. And the margin for error is shrinking.",
-    "details": "Demand for advanced chips is rising. The processes to build them are getting more complex. And the margin for error is shrinking.\n\nFor engineers, understanding how a process change will behave, how a material will interact with a new step, how a defect maps back to a root cause are critical, challenging steps in semiconductor manufacturing — and these analyses can take days. Physical experiments on a fab line are slow and expensive. A wrong call on yield or process quality has real consequences.\n\nAI is transforming semiconductor manufacturing, impacting what engineers can do — and how fast.\n\nAccelerated computing shortens simulation time, allowing engineers to evaluate more alternatives before committing to physical trials.\n\nPhysics-based AI helps engineers predict process behavior without running a full simulation every time.\n\nAI agents handle sequences of engineering tasks that once consumed hours.\n\nAnd digital twins let teams test changes in a virtual environment before committing to physical trials.\n\nTogether, these capabilities describe an AI-defined fab: a semiconductor manufacturing factory where AI helps engineers optimize processes, catch problems earlier and make better decisions across the full manufacturing chip lifecycle. Engineers direct the work and make decisions based on their expertise while spending less time waiting for answers.\n\nShorter Simulation Cycles Change What Engineers Can Explore …"
-   },
-   "translated": false,
-   "fetchedAt": "2026-11-03T16:18:18+00:00",
-   "company": "NVIDIA"
-  },
-  {
    "id": "auto-f105bf5a6727",
    "tab": "ai",
    "date": "2026-11-03",
@@ -79,26 +96,6 @@
    "translated": false,
    "fetchedAt": "2026-11-03T16:18:18+00:00",
    "company": "Hugging Face"
-  },
-  {
-   "id": "auto-e432ee9b8e9c",
-   "tab": "ai",
-   "date": "2026-11-03",
-   "publishedAt": "2026-11-03T07:00:12+00:00",
-   "type": "policy",
-   "importance": 1,
-   "sourceType": "official",
-   "sourceName": "NVIDIA Blog",
-   "url": "https://blogs.nvidia.com/blog/cities-physical-agentic-ai-applications/",
-   "originalTitle": "Cities Worldwide Build and Scale AI Services With NVIDIA Physical and Agentic AI",
-   "en": {
-    "title": "Cities Worldwide Build and Scale AI Services With NVIDIA Physical and Agentic AI",
-    "summary": "Cities generate enormous amounts of data from cameras, sensors and operational systems, but turning it into useful action — for planning, maintenance and public services — remains a challenge.",
-    "details": "Cities generate enormous amounts of data from cameras, sensors and operational systems, but turning it into useful action — for planning, maintenance and public services — remains a challenge.\n\nPhysical and agentic AI offer new ways to close that gap, from digital twins for infrastructure planning to vision and service agents, while keeping local governments in control of how sensitive data is processed and used.\n\nBuilding on initiatives announced at GTC Berlin , NVIDIA and its partners are expanding physical AI and AI agents to cities worldwide. Shared computing infrastructure gives city departments, neighboring municipalities and local developers a common foundation to build on — extending services without each organization having to acquire and manage resources of their own.\n\nAgentic AI for Cities\n\nFrom resident services to vision agents, cities are adopting NVIDIA agentic AI to deliver faster, more responsive public services. City teams don’t need a massive infrastructure investment to get started building these AI services: depending on the workload, NVIDIA RTX workstations or a small GPU system may be enough. …"
-   },
-   "translated": false,
-   "fetchedAt": "2026-11-03T08:15:39+00:00",
-   "company": "NVIDIA"
   }
  ]
 }
