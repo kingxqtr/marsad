@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": "2026-11-03T17:11:45+00:00",
+ "updatedAt": "2026-11-03T18:11:19+00:00",
  "coverage": {
   "from": "2026-08-03",
   "to": "2026-11-03"
@@ -1954,6 +1954,28 @@
      "addedAt": "2026-11-03T17:11:45+00:00"
     },
     {
+     "id": "collinear-cwe-bench-v2-security-benchmark",
+     "date": "2026-11-03",
+     "type": "coding",
+     "importance": 1,
+     "sourceType": "official",
+     "sourceName": "Hugging Face Blog (Collinear AI)",
+     "url": "https://huggingface.co/blog/cwe-bench",
+     "originalTitle": "CWE-bench v2: More coverage, quality, and transparency",
+     "company": "Collinear AI",
+     "ar": {
+      "title": "Collinear AI تطرح CWE-bench v2 لقياس قدرة وكلاء الذكاء الاصطناعي على إصلاح الثغرات",
+      "summary": "أصدرت Collinear AI معيار CWE-bench v2 الذي يختبر 100 مهمة أمنية حقيقية؛ تصدّره Gemini 4 Argon بدقة 67.8%، فيما لا يزال نحو 19% من المهام بلا حل حتى مع أفضل النماذج.",
+      "details": "أطلقت شركة Collinear AI معياراً أمنياً علنياً باسم CWE-bench v2 على مدونة Hugging Face، لاختبار قدرة وكلاء الذكاء الاصطناعي على اكتشاف وإصلاح ثغرات أمنية في شيفرة برمجية مفتوحة المصدر حقيقية. يمنح كل من المهام المائة العلنية الوكيل نسخة من مستودع وتعليمات مختصرة لتحديد ثغرة أمنية وإصلاحها دون كسر الوظائف الحالية، وتغطي المهام 91 فئة مختلفة من ثغرات CWE، مع تصحيح تلقائي وقابل لإعادة الإنتاج، إضافة إلى مجموعة مهام مخفية لتتبّع التقدّم على مهام لم يرها أي نموذج.\n\nمن بين 11 نموذجاً خضعت للتقييم، تصدّر Gemini 4 Argon بدقة 67.8% عند أول محاولة و81.0% عند أربع محاولات، متقدماً بفارق ضئيل على Claude Opus 5.5 الذي سجّل 67.3% و78.0%. وتمكّن نموذج واحد على الأقل من حل 95 من المهام المائة، مما يشير إلى أن معظمها قابل للحل، إلا أن أفضل نموذج يفشل في نحو 19% من المهام في كل محاولة، ويصف المؤلفون \"الذيل الطويل\" من المهام الصعبة بأنه \"بعيد عن الحل\". وسجّل نموذج DeepSeek V4.1 Flash دقة 57.0% بتكلفة نحو 4 سنتات لكل محاولة، ليصبح الخيار الأكثر كفاءة من حيث التكلفة. تتوافق المهام أيضاً مع إطار Harbor وصُنِّفت لاستخدامها كبيئات للتعلم التعزيزي."
+     },
+     "en": {
+      "title": "Collinear AI releases CWE-bench v2 to test AI security-fixing agents",
+      "summary": "Collinear AI released CWE-bench v2, testing 100 real security tasks; Gemini 4 Argon led with 67.8% pass@1, while even top models still fail about 19% of tasks.",
+      "details": "Collinear AI launched a public security benchmark called CWE-bench v2 on the Hugging Face blog, testing whether AI agents can find and fix security weaknesses in real open-source code. Each of the 100 public tasks gives an agent a repository checkout and a short instruction to locate and fix a security flaw without breaking existing functionality. The tasks span 91 different CWE vulnerability classes, with automated and reproducible scoring, plus a separate held-out set tracking progress on tasks no model has seen.\n\nOf 11 models evaluated, Gemini 4 Argon scored highest with 67.8% pass@1 and 81.0% pass@4, narrowly ahead of Claude Opus 5.5 at 67.3% and 78.0%. At least one model solved 95 of the 100 tasks, suggesting most are solvable, but even the top model fails about 19% of tasks on every attempt, with the authors saying \"the long tail is far from solved.\" DeepSeek V4.1 Flash reached 57.0% pass@1 at about $0.04 per rollout, making it the most cost-efficient option. The tasks are also compatible with the Harbor framework and tagged for use as reinforcement-learning environments."
+     },
+     "addedAt": "2026-11-03T18:11:19+00:00"
+    },
+    {
      "id": "huggingface-transformers-model-integration-contracts",
      "date": "2026-11-03",
      "type": "coding",
@@ -1975,6 +1997,28 @@
       "details": "Hugging Face researcher Tarek Ziadé published a blog post introducing Model Integration Contracts (MICs), a new way to test the widely used Transformers library for each model it supports.\n\nEach contract has three parts: a small fixture built from a real checkpoint's configuration, keeping its original layer types and unmodified tokenizer; a runnable Markdown usage path showing a common task such as text generation; and human-reviewed baseline outputs. A contract holds as long as running the usage path on the fixture still reproduces those baselines.\n\nThe effort was prompted by a bug in UMT5: enabling SDPA attention for T5 let UMT5's decoder attend to future tokens, and the bug sat undetected on the main branch for almost two months. A small UMT5 fixture (66 MB versus 1,227 MB for the full checkpoint) caught it on every replayed commit, since full GPU integration tests run too slowly to check on every pull request. The check currently reports failures without blocking merges, and Hugging Face is inviting contributors to expand coverage using a new `tmic` command-line tool."
      },
      "addedAt": "2026-11-03T11:10:41+00:00"
+    },
+    {
+     "id": "ai2-statebench-state-tracking-benchmark",
+     "date": "2026-11-03",
+     "type": "model",
+     "importance": 1,
+     "sourceType": "official",
+     "sourceName": "Hugging Face Blog (Ai2)",
+     "url": "https://huggingface.co/blog/allenai/statebench",
+     "originalTitle": "StateBench",
+     "company": "Ai2",
+     "ar": {
+      "title": "Ai2 تطرح StateBench لقياس تتبّع النماذج اللغوية لتغيّر الحالة",
+      "summary": "كشف معهد Ai2 عن معيار StateBench الذي يختبر قدرة النماذج اللغوية على تتبّع قيم متغيّرة عبر نصوص طويلة؛ وسجّلت نماذج متقدمة كـClaude Opus 5.5 دقة لا تتجاوز 13% في أصعب مستوياته.",
+      "details": "نشر معهد Ai2 (allenai) على مدونة Hugging Face معياراً جديداً باسم StateBench، يقيس مدى قدرة النماذج اللغوية على تتبّع معلومات متغيّرة عن كيانات عبر نصوص طويلة، كمتغيرات تُعاد كتابتها في شيفرة برمجية أو شخصيات تتغيّر حالاتها في قصة.\n\nيقسّم المعيار المهام إلى أربعة مستويات صعوبة: قيم تُحدَّد مرة واحدة ولا تتغيّر، قيم تُستبدَل فيحتاج النموذج لتحديد آخرها، قيم تراكمية يُبنى كل تحديث فيها على السابق، ومستوى عام يسمح بتبادل القيم بين المتغيرات وهو الأصعب.\n\nأظهرت النتائج أن نماذج مفتوحة المصادر متخصصة أدت جيداً في أبسط المستويات لكنها تراجعت مع ازدياد طول المدخلات، بينما حققت نماذج متقدمة مثل Gemini 3.8 Flash وClaude Opus 5.5 وGPT-6 Sol وLuna دقة جيدة في المستويين الأولين، قبل أن تنخفض بشدة في المستويين الأصعب لتصل إلى 13% أو أقل في أطول الاختبارات. ونماذج Gated DeltaNet المدرَّبة خصيصاً على المهمة عمّمت نتائجها على تسلسلات أطول بكثير مما دُرِّبت عليه، بخلاف المحولات التقليدية التي تراجع أداؤها مع طول المدخلات ولم تتعلّم المستوى الأصعب أبداً."
+     },
+     "en": {
+      "title": "Ai2 releases StateBench to test LLM state tracking",
+      "summary": "Ai2 unveiled StateBench, a benchmark testing how well language models track changing entity state across long documents; frontier models like Claude Opus 5.5 scored as low as 13% on its hardest level.",
+      "details": "Ai2 (allenai) published a Hugging Face blog post introducing StateBench, a benchmark measuring how well language models track changing information about entities across long documents, such as variables reassigned in code or characters whose state changes in a story.\n\nThe benchmark has four difficulty levels: values set once and never changed; values overwritten, where the model must find the latest one; cumulative values where each update builds on the last; and a general level allowing variables to swap values, the hardest tier.\n\nPretrained open models handled the simplest level well but lost accuracy as inputs grew longer. Frontier models including Gemini 3.8 Flash, Claude Opus 5.5, and GPT-6 Sol and Luna did well on the two easiest levels, then dropped sharply on the harder ones, reaching 13% or lower on the longest general-level inputs. Gated DeltaNet models trained directly on the task generalized to sequences much longer than their training data, while standard transformers degraded on long inputs and never learned the hardest level."
+     },
+     "addedAt": "2026-11-03T18:11:19+00:00"
     },
     {
      "id": "ibm-research-palette-deck-building-model",
