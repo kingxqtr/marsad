@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": "2026-11-03T15:09:08+00:00",
+ "updatedAt": "2026-11-03T16:15:17+00:00",
  "coverage": {
   "from": "2026-08-03",
   "to": "2026-11-03"
@@ -1022,6 +1022,27 @@
      "addedAt": "2026-11-02T21:22:11+00:00"
     },
     {
+     "id": "sc-idris-hangar-vehicle-limit-removed",
+     "date": "2026-10-31",
+     "type": "community",
+     "importance": 1,
+     "sourceType": "community",
+     "sourceName": "r/starcitizen",
+     "url": "https://www.reddit.com/r/starcitizen/comments/1xk0izo/idris_hard_vehicle_limit_is_lifted_402_live/",
+     "originalTitle": "Idris Hard Vehicle Limit is Lifted (4.0.2 LIVE)",
+     "ar": {
+      "title": "لاعبون: الحد الأقصى لمركبات حاملة Idris يُرفع على خوادم LIVE",
+      "summary": "أفاد لاعبون في منتدى r/starcitizen أن حاملة Idris لم يعد لها حد أقصى واضح لعدد المركبات التي يمكن تحميلها في حظيرتها على خوادم اللعب الفعلي، بعد أن كان الحد سابقاً 10 مركبات.",
+      "details": "نشر لاعب على منتدى r/starcitizen نتائج اختبار شخصي أجراه على حاملة Idris في Star Citizen، قال فيه إن الحظيرة كانت تستوعب 20 مركبة كحد أقصى عند إطلاق السفينة، قبل أن يُخفَّض هذا الحد إلى 10 مركبات في تحديث لاحق.\n\nبحسب منشوره، لم يعثر على أي حد أقصى واضح للمركبات على الخوادم الحالية (اللاعب أشار إلى الإصدار 4.10.2)، بعد أن حمّل نحو 65 مركبة خلال نحو 4 ساعات من الاختبار قبل أن يتوقف. ونبّه إلى احتمال وجود حد غير مباشر (soft limit) ما زال قائماً، إذ لاحظ اختفاء بعض المركبات في ظروف معينة، مثل مثال وضعه لسفينة C2.\n\nرجّح اللاعب أن تكون Cloud Imperium تعيد النظر في بعض خصائص الحظائر تمهيداً لإطلاق سفينة Liberator المرتقبة، لكن هذا يبقى تفسيراً من المجتمع لم تؤكده الشركة رسمياً."
+     },
+     "en": {
+      "title": "Players report Idris's vehicle-hangar limit lifted on LIVE",
+      "summary": "Players on r/starcitizen say Cloud Imperium's Idris capital ship no longer has a clear hard limit on vehicles it can carry, after a previous 10-vehicle cap, based on informal in-game testing.",
+      "details": "A player posted informal test results on r/starcitizen for the Idris capital ship in Star Citizen, saying its hangar could hold a maximum of 20 vehicles when the ship launched, before that limit was later reduced to 10.\n\nAccording to the post, no clear hard vehicle cap was found on current servers (the player referenced version 4.10.2), after loading roughly 65 vehicles over about 4 hours of testing before stopping. They noted a soft limit may still exist, since some vehicles despawned under certain conditions, citing an example involving a C2 freighter.\n\nThe player speculated Cloud Imperium may be revisiting hangar attributes ahead of the upcoming Liberator ship release, but this remains a community interpretation that the studio has not officially confirmed."
+     },
+     "addedAt": "2026-10-31T23:59:59+00:00"
+    },
+    {
      "id": "squadron-42-usk-18-rating-germany",
      "date": "2026-10-28",
      "type": "community",
@@ -1999,6 +2020,28 @@
      "addedAt": "2026-11-02T21:22:11+00:00"
     },
     {
+     "id": "openai-grid-protectors-program",
+     "date": "2026-11-02",
+     "type": "business",
+     "importance": 2,
+     "sourceType": "official",
+     "sourceName": "OpenAI News",
+     "url": "https://openai.com/index/grid-protectors-program",
+     "originalTitle": "Introducing the Grid Protectors Program",
+     "company": "OpenAI",
+     "ar": {
+      "title": "OpenAI تطلق \"برنامج حماة الشبكة\" للتعاون مع شركات الكهرباء",
+      "summary": "أعلنت OpenAI عن \"برنامج حماة الشبكة\" الذي يهدف للتعاون مع شركات المرافق الكهربائية لدعم موثوقية الشبكة وحماية تكاليف الكهرباء للمستهلكين عند بناء مجمعات الحوسبة المستقبلية.",
+      "details": "أعلنت OpenAI إطلاق \"برنامج حماة الشبكة\" (Grid Protectors Program)، الذي يستهدف العمل مع شركات المرافق الكهربائية بهدف مساعدة مجمعات الحوسبة المستقبلية التابعة للشركة على دعم موثوقية شبكة الكهرباء وحماية تكاليف الكهرباء على المستهلكين العاديين.\n\nيأتي الإعلان في وقت يتصاعد فيه القلق العام والسياسي في الولايات المتحدة من أن مراكز بيانات الذكاء الاصطناعي الضخمة قد ترفع فواتير الكهرباء على المنازل والشركات الصغيرة، إذ تسعى OpenAI عبر هذا البرنامج إلى تقديم نفسها كشريك يأخذ هذه المخاوف بعين الاعتبار عند توسيع بنيتها التحتية للحوسبة.\n\nلم تنشر OpenAI حتى الآن تفاصيل تقنية أو مالية أوسع عن آلية عمل البرنامج أو الشركات المشاركة فيه."
+     },
+     "en": {
+      "title": "OpenAI launches Grid Protectors Program with utilities",
+      "summary": "OpenAI announced its Grid Protectors Program, aimed at working with utility companies to help future compute campuses support grid reliability and protect consumer electricity costs.",
+      "details": "OpenAI announced the launch of its Grid Protectors Program, aimed at working with utility companies to help the company's future compute campuses support electrical grid reliability and protect consumer electricity costs.\n\nThe announcement comes amid rising public and political concern in the U.S. that massive AI data centers could drive up electricity bills for households and small businesses, with OpenAI positioning the program as a way to address those concerns as it expands its compute infrastructure.\n\nOpenAI has not yet published further technical or financial details on how the program will operate or which utilities are participating."
+     },
+     "addedAt": "2026-11-02T16:01:52+00:00"
+    },
+    {
      "id": "openai-dan-driscoll-national-security-counselor",
      "date": "2026-11-02",
      "type": "business",
@@ -2053,38 +2096,16 @@
      "originalTitle": "LifeVal",
      "company": "OpenAI",
      "ar": {
-      "title": "OpenAI تطلق معيار LifeVal لقياس فائدة الذكاء الاصطناعي في المهام اليومية",
-      "summary": "أعلنت OpenAI عن معيار تقييم جديد باسم LifeVal، يقيس مدى مساعدة الذكاء الاصطناعي للأشخاص في إنجاز مهام حياتية يومية، من إيجاد رعاية للأطفال إلى إدارة الشؤون المالية والمعاملات الحكومية.",
-      "details": "أعلنت OpenAI في 2 نوفمبر عن معيار تقييم جديد سمّته LifeVal، يركّز على قياس مدى فائدة أنظمة الذكاء الاصطناعي في مساعدة الأشخاص على إنجاز مهام الحياة اليومية بدلاً من مجرد حل مسائل أكاديمية أو برمجية مجردة.\n\nوبحسب الشركة، يغطي المعيار سيناريوهات تشمل إيجاد خيارات رعاية الأطفال، وإدارة الشؤون المالية الشخصية، والتعامل مع المعاملات الحكومية الورقية، في محاولة لتقييم قدرة النماذج على التعامل مع تعقيدات الحياة الواقعية. لم تنشر OpenAI في إعلانها الأولي تفصيلاً كاملاً لنتائج النماذج على هذا المعيار."
+      "title": "OpenAI تطرح معيار LifeVal لقياس مساعدة الذكاء الاصطناعي في مهام الحياة اليومية",
+      "summary": "كشفت OpenAI عن معيار LifeVal الجديد، الذي يقيس كفاءة أدوات الذكاء الاصطناعي في مساعدة الناس على إنجاز مهام حياتية يومية، من البحث عن رعاية الأطفال إلى إدارة الشؤون المالية والأوراق الحكومية.",
+      "details": "أعلنت OpenAI عن معيار جديد باسم LifeVal، يهدف إلى قياس مدى فاعلية أدوات الذكاء الاصطناعي في مساعدة المستخدمين على إنجاز مهام الحياة اليومية العملية، بدلاً من التركيز فقط على اختبارات الأكاديمية أو البرمجة التقليدية.\n\nتشمل المهام التي يقيّمها المعيار بحسب الشركة أموراً كالبحث عن خدمات رعاية الأطفال، وإدارة الشؤون المالية الشخصية، والتعامل مع الأوراق والإجراءات الحكومية، في محاولة لتقييم قدرة النماذج على مساعدة الناس في تحديات الحياة اليومية الفعلية بدلاً من مهام مختبرية مجردة.\n\nلم تنشر OpenAI تفاصيل كاملة عن منهجية المعيار أو نتائج نماذج محددة عليه في إعلانها الأولي."
      },
      "en": {
-      "title": "OpenAI introduces LifeVal benchmark for everyday task assistance",
-      "summary": "OpenAI announced LifeVal, a new benchmark measuring how well AI helps people complete everyday tasks such as finding childcare, managing finances and handling government paperwork.",
-      "details": "OpenAI announced a new benchmark called LifeVal on November 2, aimed at measuring how useful AI systems are for everyday life tasks rather than abstract academic or coding problems.\n\nAccording to the company, the benchmark covers scenarios including finding childcare options, managing personal finances, and handling government paperwork, as an attempt to test how models handle the messiness of real-world life. OpenAI's initial announcement did not include a full breakdown of model results on the benchmark."
+      "title": "OpenAI introduces LifeVal benchmark for everyday-task help",
+      "summary": "OpenAI unveiled LifeVal, a new benchmark measuring how well AI helps people complete everyday tasks, from finding childcare to managing finances and government paperwork.",
+      "details": "OpenAI announced a new benchmark called LifeVal, aimed at measuring how effectively AI tools help users complete practical, everyday tasks rather than focusing only on traditional academic or coding tests.\n\nAccording to the company, the tasks the benchmark evaluates include things like finding childcare services, managing personal finances, and handling government paperwork and procedures, in an attempt to assess how well models can help people with real daily-life challenges rather than abstract lab tasks.\n\nOpenAI has not published full methodology details or specific model results on the benchmark in its initial announcement."
      },
      "addedAt": "2026-11-02T18:18:30+00:00"
-    },
-    {
-     "id": "openai-grid-protectors-program",
-     "date": "2026-11-02",
-     "type": "business",
-     "importance": 1,
-     "sourceType": "official",
-     "sourceName": "OpenAI News",
-     "url": "https://openai.com/index/grid-protectors-program",
-     "originalTitle": "Introducing the Grid Protectors Program",
-     "company": "OpenAI",
-     "ar": {
-      "title": "OpenAI تطلق برنامج Grid Protectors للتعاون مع شركات الكهرباء",
-      "summary": "أعلنت OpenAI عن برنامج Grid Protectors، مبادرة جديدة للتعاون مع شركات المرافق الكهربائية لضمان دعم مجمعات الحوسبة المستقبلية لاستقرار الشبكة الكهربائية وحماية تكاليف الكهرباء للمستهلكين.",
-      "details": "أعلنت OpenAI في 2 نوفمبر عن برنامج Grid Protectors، وهي مبادرة جديدة موجهة لشركات المرافق الكهربائية، في وقت تتوسع الشركة في بناء مجمعات حوسبة ضخمة لتشغيل أنظمتها في الذكاء الاصطناعي.\n\nويهدف البرنامج إلى مساعدة الشبكة الكهربائية على استيعاب الطلب الإضافي الناتج عن هذه المجمعات دون التأثير على استقرارها بالنسبة لبقية المستخدمين، كما يسعى إلى حماية المستهلكين من ارتفاع تكاليف الكهرباء المرتبط بهذا النمو في الطلب."
-     },
-     "en": {
-      "title": "OpenAI launches Grid Protectors Program for utilities",
-      "summary": "OpenAI introduced the Grid Protectors Program, a new effort to work with utility companies so future AI compute campuses support electrical grid reliability and help keep consumer electricity costs in check.",
-      "details": "OpenAI announced the Grid Protectors Program on November 2, a new initiative aimed at utility companies as the company builds out large compute campuses for its AI systems.\n\nThe program is framed as a way to help the electrical grid handle the added demand from those campuses without compromising reliability for other customers, and to help protect consumers from rising electricity costs tied to that demand growth."
-     },
-     "addedAt": "2026-11-02T16:01:52+00:00"
     },
     {
      "id": "qwen38-27b-gvs5h-livecodebench-claim",

@@ -150,6 +150,48 @@
       }
     },
     {
+      "id": "openai-grid-protectors-program",
+      "date": "2026-11-02",
+      "type": "business",
+      "importance": 2,
+      "sourceType": "official",
+      "sourceName": "OpenAI News",
+      "url": "https://openai.com/index/grid-protectors-program",
+      "originalTitle": "Introducing the Grid Protectors Program",
+      "company": "OpenAI",
+      "ar": {
+        "title": "OpenAI تطلق \"برنامج حماة الشبكة\" للتعاون مع شركات الكهرباء",
+        "summary": "أعلنت OpenAI عن \"برنامج حماة الشبكة\" الذي يهدف للتعاون مع شركات المرافق الكهربائية لدعم موثوقية الشبكة وحماية تكاليف الكهرباء للمستهلكين عند بناء مجمعات الحوسبة المستقبلية.",
+        "details": "أعلنت OpenAI إطلاق \"برنامج حماة الشبكة\" (Grid Protectors Program)، الذي يستهدف العمل مع شركات المرافق الكهربائية بهدف مساعدة مجمعات الحوسبة المستقبلية التابعة للشركة على دعم موثوقية شبكة الكهرباء وحماية تكاليف الكهرباء على المستهلكين العاديين.\n\nيأتي الإعلان في وقت يتصاعد فيه القلق العام والسياسي في الولايات المتحدة من أن مراكز بيانات الذكاء الاصطناعي الضخمة قد ترفع فواتير الكهرباء على المنازل والشركات الصغيرة، إذ تسعى OpenAI عبر هذا البرنامج إلى تقديم نفسها كشريك يأخذ هذه المخاوف بعين الاعتبار عند توسيع بنيتها التحتية للحوسبة.\n\nلم تنشر OpenAI حتى الآن تفاصيل تقنية أو مالية أوسع عن آلية عمل البرنامج أو الشركات المشاركة فيه."
+      },
+      "en": {
+        "title": "OpenAI launches Grid Protectors Program with utilities",
+        "summary": "OpenAI announced its Grid Protectors Program, aimed at working with utility companies to help future compute campuses support grid reliability and protect consumer electricity costs.",
+        "details": "OpenAI announced the launch of its Grid Protectors Program, aimed at working with utility companies to help the company's future compute campuses support electrical grid reliability and protect consumer electricity costs.\n\nThe announcement comes amid rising public and political concern in the U.S. that massive AI data centers could drive up electricity bills for households and small businesses, with OpenAI positioning the program as a way to address those concerns as it expands its compute infrastructure.\n\nOpenAI has not yet published further technical or financial details on how the program will operate or which utilities are participating."
+      }
+    },
+    {
+      "id": "openai-lifeval-benchmark",
+      "date": "2026-11-02",
+      "type": "model",
+      "importance": 1,
+      "sourceType": "official",
+      "sourceName": "OpenAI News",
+      "url": "https://openai.com/index/lifeval",
+      "originalTitle": "LifeVal",
+      "company": "OpenAI",
+      "ar": {
+        "title": "OpenAI تطرح معيار LifeVal لقياس مساعدة الذكاء الاصطناعي في مهام الحياة اليومية",
+        "summary": "كشفت OpenAI عن معيار LifeVal الجديد، الذي يقيس كفاءة أدوات الذكاء الاصطناعي في مساعدة الناس على إنجاز مهام حياتية يومية، من البحث عن رعاية الأطفال إلى إدارة الشؤون المالية والأوراق الحكومية.",
+        "details": "أعلنت OpenAI عن معيار جديد باسم LifeVal، يهدف إلى قياس مدى فاعلية أدوات الذكاء الاصطناعي في مساعدة المستخدمين على إنجاز مهام الحياة اليومية العملية، بدلاً من التركيز فقط على اختبارات الأكاديمية أو البرمجة التقليدية.\n\nتشمل المهام التي يقيّمها المعيار بحسب الشركة أموراً كالبحث عن خدمات رعاية الأطفال، وإدارة الشؤون المالية الشخصية، والتعامل مع الأوراق والإجراءات الحكومية، في محاولة لتقييم قدرة النماذج على مساعدة الناس في تحديات الحياة اليومية الفعلية بدلاً من مهام مختبرية مجردة.\n\nلم تنشر OpenAI تفاصيل كاملة عن منهجية المعيار أو نتائج نماذج محددة عليه في إعلانها الأولي."
+      },
+      "en": {
+        "title": "OpenAI introduces LifeVal benchmark for everyday-task help",
+        "summary": "OpenAI unveiled LifeVal, a new benchmark measuring how well AI helps people complete everyday tasks, from finding childcare to managing finances and government paperwork.",
+        "details": "OpenAI announced a new benchmark called LifeVal, aimed at measuring how effectively AI tools help users complete practical, everyday tasks rather than focusing only on traditional academic or coding tests.\n\nAccording to the company, the tasks the benchmark evaluates include things like finding childcare services, managing personal finances, and handling government paperwork and procedures, in an attempt to assess how well models can help people with real daily-life challenges rather than abstract lab tasks.\n\nOpenAI has not published full methodology details or specific model results on the benchmark in its initial announcement."
+      }
+    },
+    {
       "id": "huggingface-transformers-model-integration-contracts",
       "date": "2026-11-03",
       "type": "coding",

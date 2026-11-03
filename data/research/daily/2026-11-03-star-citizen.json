@@ -21,6 +21,26 @@
         "summary": "Cloud Imperium opened Alpha 4.10.3 testing to all PTU waves, adding Vanduul Incursion missions in the Nyx system and a new energy rifle, the Skarnov.",
         "details": "Cloud Imperium Games opened public testing of Star Citizen Alpha 4.10.3 to all PTU waves, the studio said in its November 2 \"This Week in Star Citizen\" update. The build had been rolling out to test groups since late October, and CIG says final improvements are underway before a live release.\n\nThe patch adds a new string of InterSec Defense Solutions missions tied to a Vanduul Incursion storyline across the Nyx system, giving players fresh combat contracts against the Vanduul faction. Feedback threads for both the Incursion missions and a new weapon are open on Spectrum.\n\nThat new weapon is the Skarnov, a fully automatic energy rifle sold at several in-game shops including Cubby Blast in Area18 and Skutters in Grim HEX; players do not need to finish the Incursion missions to try it. CIG has not yet announced a live release date for 4.10.3."
       }
+    },
+    {
+      "id": "sc-idris-hangar-vehicle-limit-removed",
+      "date": "2026-10-31",
+      "type": "community",
+      "importance": 1,
+      "sourceType": "community",
+      "sourceName": "r/starcitizen",
+      "url": "https://www.reddit.com/r/starcitizen/comments/1xk0izo/idris_hard_vehicle_limit_is_lifted_402_live/",
+      "originalTitle": "Idris Hard Vehicle Limit is Lifted (4.0.2 LIVE)",
+      "ar": {
+        "title": "لاعبون: الحد الأقصى لمركبات حاملة Idris يُرفع على خوادم LIVE",
+        "summary": "أفاد لاعبون في منتدى r/starcitizen أن حاملة Idris لم يعد لها حد أقصى واضح لعدد المركبات التي يمكن تحميلها في حظيرتها على خوادم اللعب الفعلي، بعد أن كان الحد سابقاً 10 مركبات.",
+        "details": "نشر لاعب على منتدى r/starcitizen نتائج اختبار شخصي أجراه على حاملة Idris في Star Citizen، قال فيه إن الحظيرة كانت تستوعب 20 مركبة كحد أقصى عند إطلاق السفينة، قبل أن يُخفَّض هذا الحد إلى 10 مركبات في تحديث لاحق.\n\nبحسب منشوره، لم يعثر على أي حد أقصى واضح للمركبات على الخوادم الحالية (اللاعب أشار إلى الإصدار 4.10.2)، بعد أن حمّل نحو 65 مركبة خلال نحو 4 ساعات من الاختبار قبل أن يتوقف. ونبّه إلى احتمال وجود حد غير مباشر (soft limit) ما زال قائماً، إذ لاحظ اختفاء بعض المركبات في ظروف معينة، مثل مثال وضعه لسفينة C2.\n\nرجّح اللاعب أن تكون Cloud Imperium تعيد النظر في بعض خصائص الحظائر تمهيداً لإطلاق سفينة Liberator المرتقبة، لكن هذا يبقى تفسيراً من المجتمع لم تؤكده الشركة رسمياً."
+      },
+      "en": {
+        "title": "Players report Idris's vehicle-hangar limit lifted on LIVE",
+        "summary": "Players on r/starcitizen say Cloud Imperium's Idris capital ship no longer has a clear hard limit on vehicles it can carry, after a previous 10-vehicle cap, based on informal in-game testing.",
+        "details": "A player posted informal test results on r/starcitizen for the Idris capital ship in Star Citizen, saying its hangar could hold a maximum of 20 vehicles when the ship launched, before that limit was later reduced to 10.\n\nAccording to the post, no clear hard vehicle cap was found on current servers (the player referenced version 4.10.2), after loading roughly 65 vehicles over about 4 hours of testing before stopping. They noted a soft limit may still exist, since some vehicles despawned under certain conditions, citing an example involving a C2 freighter.\n\nThe player speculated Cloud Imperium may be revisiting hangar attributes ahead of the upcoming Liberator ship release, but this remains a community interpretation that the studio has not officially confirmed."
+      }
     }
   ],
   "upcoming": [
