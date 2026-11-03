@@ -318,6 +318,27 @@
         "summary": "Collinear AI released CWE-bench v2, testing 100 real security tasks; Gemini 4 Argon led with 67.8% pass@1, while even top models still fail about 19% of tasks.",
         "details": "Collinear AI launched a public security benchmark called CWE-bench v2 on the Hugging Face blog, testing whether AI agents can find and fix security weaknesses in real open-source code. Each of the 100 public tasks gives an agent a repository checkout and a short instruction to locate and fix a security flaw without breaking existing functionality. The tasks span 91 different CWE vulnerability classes, with automated and reproducible scoring, plus a separate held-out set tracking progress on tasks no model has seen.\n\nOf 11 models evaluated, Gemini 4 Argon scored highest with 67.8% pass@1 and 81.0% pass@4, narrowly ahead of Claude Opus 5.5 at 67.3% and 78.0%. At least one model solved 95 of the 100 tasks, suggesting most are solvable, but even the top model fails about 19% of tasks on every attempt, with the authors saying \"the long tail is far from solved.\" DeepSeek V4.1 Flash reached 57.0% pass@1 at about $0.04 per rollout, making it the most cost-efficient option. The tasks are also compatible with the Harbor framework and tagged for use as reinforcement-learning environments."
       }
+    },
+    {
+      "id": "openai-jill-hazelbaker-chief-corporate-affairs-officer",
+      "date": "2026-11-03",
+      "type": "business",
+      "importance": 2,
+      "sourceType": "official",
+      "sourceName": "OpenAI News",
+      "url": "https://openai.com/index/jill-hazelbaker-chief-corporate-affairs-officer",
+      "originalTitle": "OpenAI appoints Jill Hazelbaker as Chief Corporate Affairs Officer",
+      "company": "OpenAI",
+      "ar": {
+        "title": "OpenAI تعيّن جيل هازلبيكر كبيرة مسؤولي الشؤون المؤسسية",
+        "summary": "عيّنت OpenAI جيل هازلبيكر، الرئيسة وكبيرة مسؤولي الشؤون المؤسسية السابقة في أوبر، في منصب كبيرة مسؤولي الشؤون المؤسسية لديها، لتقود الاتصالات العالمية وصورة الشركة.",
+        "details": "أعلنت OpenAI تعيين جيل هازلبيكر، التي شغلت منصب الرئيسة وكبيرة مسؤولي الشؤون المؤسسية في شركة أوبر، في منصب كبيرة مسؤولي الشؤون المؤسسية لدى OpenAI.\n\nبحسب الشركة، ستتولى هازلبيكر قيادة الاتصالات العالمية وسمعة الشركة، والعلامة التجارية المؤسسية وتوجهها، والتواصل عبر وسائل التواصل الاجتماعي، فضلاً عن الشراكات الثقافية والمجتمعية والفعاليات الكبرى.\n\nيأتي التعيين بعد أشهر من بقاء منصب كبير مسؤولي الاتصالات في OpenAI شاغراً، وتقارير سابقة كانت قد أشارت إلى أن هازلبيكر رفضت عرضاً مماثلاً في وقت سابق من العام قبل أن تقبل الانتقال إلى الشركة."
+      },
+      "en": {
+        "title": "OpenAI appoints Uber's Jill Hazelbaker as Chief Corporate Affairs Officer",
+        "summary": "OpenAI named Jill Hazelbaker, formerly President and Chief Corporate Affairs Officer at Uber, as its Chief Corporate Affairs Officer, leading global communications and corporate positioning.",
+        "details": "OpenAI announced the appointment of Jill Hazelbaker, who served as President and Chief Corporate Affairs Officer at Uber, to the role of Chief Corporate Affairs Officer at OpenAI.\n\nAccording to the company, Hazelbaker will lead global communications and reputation, corporate brand and positioning, social media, and cultural and community partnerships and convenings.\n\nThe move follows months in which OpenAI's top communications role sat vacant; earlier reports had said Hazelbaker turned down a similar offer from the company earlier in the year before agreeing to make the move."
+      }
     }
   ],
   "upcoming": [

@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": "2026-11-03T19:10:41+00:00",
+ "updatedAt": "2026-11-03T20:13:10+00:00",
  "coverage": {
   "from": "2026-08-03",
   "to": "2026-11-03"
@@ -1952,6 +1952,28 @@
       "details": "GitHub has added Copilot as an option in JetBrains Air's agent picker, so developers can delegate coding tasks to it, guide execution, and review results without leaving their IDE. The integration uses the Agent Client Protocol and runs alongside the existing Copilot plugin for JetBrains IDEs.\n\nLocal tasks run with an installed Air plugin connected to a Copilot account, while cloud tasks execute in isolated containers through Air Teams and draw on the user's Copilot plan rather than JetBrains AI credits. Multiple agent sessions can run in parallel with in-context review of changes.\n\nCloud access requires a JetBrains Air Teams business organization, a Copilot subscription, and an administrator who has enabled Copilot; usage checks happen only when a cloud task starts."
      },
      "addedAt": "2026-11-03T17:11:45+00:00"
+    },
+    {
+     "id": "openai-jill-hazelbaker-chief-corporate-affairs-officer",
+     "date": "2026-11-03",
+     "type": "business",
+     "importance": 2,
+     "sourceType": "official",
+     "sourceName": "OpenAI News",
+     "url": "https://openai.com/index/jill-hazelbaker-chief-corporate-affairs-officer",
+     "originalTitle": "OpenAI appoints Jill Hazelbaker as Chief Corporate Affairs Officer",
+     "company": "OpenAI",
+     "ar": {
+      "title": "OpenAI تعيّن جيل هازلبيكر كبيرة مسؤولي الشؤون المؤسسية",
+      "summary": "عيّنت OpenAI جيل هازلبيكر، الرئيسة وكبيرة مسؤولي الشؤون المؤسسية السابقة في أوبر، في منصب كبيرة مسؤولي الشؤون المؤسسية لديها، لتقود الاتصالات العالمية وصورة الشركة.",
+      "details": "أعلنت OpenAI تعيين جيل هازلبيكر، التي شغلت منصب الرئيسة وكبيرة مسؤولي الشؤون المؤسسية في شركة أوبر، في منصب كبيرة مسؤولي الشؤون المؤسسية لدى OpenAI.\n\nبحسب الشركة، ستتولى هازلبيكر قيادة الاتصالات العالمية وسمعة الشركة، والعلامة التجارية المؤسسية وتوجهها، والتواصل عبر وسائل التواصل الاجتماعي، فضلاً عن الشراكات الثقافية والمجتمعية والفعاليات الكبرى.\n\nيأتي التعيين بعد أشهر من بقاء منصب كبير مسؤولي الاتصالات في OpenAI شاغراً، وتقارير سابقة كانت قد أشارت إلى أن هازلبيكر رفضت عرضاً مماثلاً في وقت سابق من العام قبل أن تقبل الانتقال إلى الشركة."
+     },
+     "en": {
+      "title": "OpenAI appoints Uber's Jill Hazelbaker as Chief Corporate Affairs Officer",
+      "summary": "OpenAI named Jill Hazelbaker, formerly President and Chief Corporate Affairs Officer at Uber, as its Chief Corporate Affairs Officer, leading global communications and corporate positioning.",
+      "details": "OpenAI announced the appointment of Jill Hazelbaker, who served as President and Chief Corporate Affairs Officer at Uber, to the role of Chief Corporate Affairs Officer at OpenAI.\n\nAccording to the company, Hazelbaker will lead global communications and reputation, corporate brand and positioning, social media, and cultural and community partnerships and convenings.\n\nThe move follows months in which OpenAI's top communications role sat vacant; earlier reports had said Hazelbaker turned down a similar offer from the company earlier in the year before agreeing to make the move."
+     },
+     "addedAt": "2026-11-03T20:13:10+00:00"
     },
     {
      "id": "collinear-cwe-bench-v2-security-benchmark",
