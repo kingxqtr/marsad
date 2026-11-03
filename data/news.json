@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": "2026-11-03T10:09:43+00:00",
+ "updatedAt": "2026-11-03T11:10:41+00:00",
  "coverage": {
   "from": "2026-08-03",
   "to": "2026-11-03"
@@ -1887,6 +1887,51 @@
   },
   "ai": {
    "news": [
+    {
+     "id": "huggingface-transformers-model-integration-contracts",
+     "date": "2026-11-03",
+     "type": "coding",
+     "importance": 1,
+     "sourceType": "official",
+     "sourceName": "Hugging Face Blog",
+     "url": "https://huggingface.co/blog/transformers-mic",
+     "originalTitle": "Transformers Model Integration Contracts",
+     "company": "Hugging Face",
+     "tool": "Transformers",
+     "ar": {
+      "title": "Hugging Face تطرح \"عقود تكامل النماذج\" لفحص جودة مكتبة Transformers",
+      "summary": "قدّمت Hugging Face نظام Model Integration Contracts لاختبار كل نموذج في مكتبة Transformers على نسخة مصغّرة من أوزانه الحقيقية، بعد أن ظلّت علة في نموذج UMT5 نحو شهرين دون أن تُكتشف.",
+      "details": "نشر الباحث طارق زيادة على مدونة Hugging Face نظاماً جديداً أسمته \"عقود تكامل النماذج\" (Model Integration Contracts) لتحسين اختبار مكتبة Transformers المستخدَمة على نطاق واسع في تشغيل نماذج الذكاء الاصطناعي.\n\nيتكوّن كل عقد من ثلاثة عناصر: نموذج مصغّر (fixture) مبني من إعدادات نقطة تحقق حقيقية مع الحفاظ على طبقاته ومُجزّئ النصوص الأصليين، ومثال تشغيلي بصيغة Markdown يوضّح مهمة شائعة كالتوليد النصي، ونتائج مرجعية (baselines) راجعها بشر. يُعد العقد سليماً ما دام تشغيل المثال على النموذج المصغّر يُعيد إنتاج النتائج المرجعية نفسها.\n\nدفع إلى هذا النظام اكتشاف خلل في نموذج UMT5، حيث جعل تفعيل آلية SDPA في T5 طبقة فك التشفير في UMT5 \"ترى\" رموزاً مستقبلية، وبقيت العلة في الفرع الرئيسي قرابة شهرين دون أن تتسبب بأي عطل، إلى أن كشفها النموذج المصغّر الخاص بـUMT5 (66 ميغابايت فقط مقابل 1227 ميغابايت للنموذج الكامل) عند كل تحديث. يعمل هذا الفحص حالياً على تنبيه المطورين دون حظر طلبات الدمج، وتدعو Hugging Face المساهمين لتوسيع التغطية عبر أداة سطر أوامر جديدة باسم tmic."
+     },
+     "en": {
+      "title": "Hugging Face introduces \"Model Integration Contracts\" to test Transformers",
+      "summary": "Hugging Face launched Model Integration Contracts, small-fixture tests for each Transformers model, after a UMT5 bug went unnoticed in the library's main branch for nearly two months.",
+      "details": "Hugging Face researcher Tarek Ziadé published a blog post introducing Model Integration Contracts (MICs), a new way to test the widely used Transformers library for each model it supports.\n\nEach contract has three parts: a small fixture built from a real checkpoint's configuration, keeping its original layer types and unmodified tokenizer; a runnable Markdown usage path showing a common task such as text generation; and human-reviewed baseline outputs. A contract holds as long as running the usage path on the fixture still reproduces those baselines.\n\nThe effort was prompted by a bug in UMT5: enabling SDPA attention for T5 let UMT5's decoder attend to future tokens, and the bug sat undetected on the main branch for almost two months. A small UMT5 fixture (66 MB versus 1,227 MB for the full checkpoint) caught it on every replayed commit, since full GPU integration tests run too slowly to check on every pull request. The check currently reports failures without blocking merges, and Hugging Face is inviting contributors to expand coverage using a new `tmic` command-line tool."
+     },
+     "addedAt": "2026-11-03T11:10:41+00:00"
+    },
+    {
+     "id": "qwen-code-repo-qwen4-model-id-leak",
+     "date": "2026-11-03",
+     "type": "model",
+     "importance": 1,
+     "sourceType": "community",
+     "sourceName": "r/LocalLLaMA",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xmitzx/alibabas_qwen_code_repo_just_leaked_qwen4max/",
+     "originalTitle": "Alibaba's Qwen Code repo just leaked qwen4-max, qwen4-coder-plus, and qwen4-omni-120b",
+     "company": "Alibaba",
+     "ar": {
+      "title": "متتبعون يعثرون في مستودع Qwen Code على إشارات لطراز Qwen4 المرتقب",
+      "summary": "لاحظ مستخدمو r/LocalLLaMA أن طلبات دمج علنية في مستودع Qwen Code على GitHub تذكر أسماء نماذج غير مُعلنة مثل qwen4-max وqwen4-coder-plus وqwen4-omni-120b، في إشارة إلى تحضير Alibaba لسلسلة Qwen4.",
+      "details": "رصد مستخدمو منتدى r/LocalLLaMA على Reddit أن طلبي دمج علنيين (Pull Requests رقم 15762 و15987) في مستودع Qwen Code التابع لـAlibaba على GitHub يتضمنان أسماء نماذج لم تُعلن رسمياً بعد، من بينها qwen4 وqwen4-max وqwen4-plus وqwen4.5-max وqwen4-coder-plus وqwen4-omni-120b.\n\nظهرت هذه الأسماء في كود اختبارات داخلي يتعامل مع حدود طول السياق (context length)، وهو ما يُفسَّر عادة كدليل تقني على أن الشركة تُجهّز نماذج تحمل هذه التسميات لم تُطرح علناً حتى الآن.\n\nلم تؤكد Alibaba أو فريق Qwen أي تفاصيل حول هذه النماذج أو مواعيد طرحها، وتبقى المعلومة في حدود استنتاج المجتمع من كود مفتوح المصدر لا تصريحاً رسمياً."
+     },
+     "en": {
+      "title": "Qwen Code repo PRs hint at unreleased Qwen4 model lineup",
+      "summary": "Reddit's r/LocalLLaMA spotted public pull requests in Alibaba's Qwen Code GitHub repo referencing unannounced model IDs like qwen4-max, qwen4-coder-plus and qwen4-omni-120b.",
+      "details": "Users on r/LocalLLaMA found that two public pull requests (#15762 and #15987) in Alibaba's Qwen Code repository on GitHub contain references to model identifiers that haven't been officially announced, including qwen4, qwen4-max, qwen4-plus, qwen4.5-max, qwen4-coder-plus and qwen4-omni-120b.\n\nThe names appear in internal test code dealing with context-length limits, which the community reads as technical evidence that Alibaba is preparing a Qwen4 model lineup that hasn't been publicly released yet.\n\nNeither Alibaba nor the Qwen team has confirmed any details about these models or a release timeline; this remains a community inference from open-source code rather than an official statement."
+     },
+     "addedAt": "2026-11-03T11:10:41+00:00"
+    },
     {
      "id": "marvell-lumentum-115b-acquisition",
      "date": "2026-11-02",
