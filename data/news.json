@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": "2026-11-03T21:13:53+00:00",
+ "updatedAt": "2026-11-03T22:12:18+00:00",
  "coverage": {
   "from": "2026-08-03",
   "to": "2026-11-03"
@@ -1952,6 +1952,50 @@
       "details": "Google DeepMind introduced a set of Cheminformatics Skills for Google Antigravity, its agentic development platform, aimed at speeding up drug discovery work for computational and bench chemists. The skills connect an AI agent to the open-source RDKit toolkit along with the ChEMBL and PubChem databases, with the language model handling reasoning while deterministic chemistry tools do the calculations.\n\nIn a demonstration using the lung cancer drugs crizotinib and lorlatinib, an agent searched thousands of compounds, ran matched molecular pair analysis, and proposed new rigidified macrocycles with synthetic routes in about an hour. Google cautioned that sparse data and assay noise still limit predictions, and every proposed design still needs experimental validation.\n\nThe skills are available now through the Antigravity app's Science plugin. Google is also offering 10,000 scientists free access to its highest usage tier for six months, subject to eligibility and capacity."
      },
      "addedAt": "2026-11-03T17:11:45+00:00"
+    },
+    {
+     "id": "postman-desktop-unconsented-ai-plugin-install",
+     "date": "2026-11-03",
+     "type": "coding",
+     "importance": 2,
+     "sourceType": "community",
+     "sourceName": "GitHub Issue (postmanlabs/postman-app-support)",
+     "url": "https://github.com/postmanlabs/postman-app-support/issues/14370",
+     "originalTitle": "[SEVERE] Desktop auto-installs Codex/Claude plugins; installer attempts to trust its own startup hook",
+     "company": "Postman",
+     "ar": {
+      "title": "تقرير: Postman يُثبّت إضافات Codex وClaude Code تلقائياً دون موافقة المستخدم",
+      "summary": "يوثّق تقرير على GitHub بسجلات وملفات تهيئة أن Postman Desktop 12.33.4 ثبّت تلقائياً إضافتي Codex وClaude Code وخطّاف تشغيل على macOS دون موافقة صريحة، ما أثار نقاشاً واسعاً على Hacker News.",
+      "details": "يصف تقرير مُصنَّف بأنه 'خطير' على مستودع postman-app-support في GitHub، نُشر في 25 أكتوبر، أن تطبيق Postman Desktop (الإصدار 12.33.4) على نظام macOS قام بعد التحديث بتثبيت إضافة Codex وإضافة Claude Code دون موافقة المستخدم، وفعّل اتصال MCP عن بُعد، وأضاف خطّاف تشغيل يوجّه عملاء الذكاء الاصطناعي البرمجيين لتوجيه أعمال API العامة عبر مهارات Postman نفسها.\n\nونشر مُقدّم التقرير سجلات مؤرخة في 24 أكتوبر تُظهر تثبيتاً تلقائياً للإضافتين، وشيفرة مصدرية للإضافة تُظهر أن المُثبِّت يوافق على خطّاف التشغيل الخاص به، وسجل فشل مصادقة لاتصال MCP. وقال إن ذلك يدل على دمج غير مرغوب فيه لا على تسريب مؤكد للبيانات، وإنه لم يُعِد إنتاج السلوك على جهاز نظيف.\n\nوأثار الموضوع مئات التعليقات على Hacker News، وقال بعض المستخدمين إنهم تخلّوا عن Postman بعدها واقترحوا بدائل مثل Bruno وInsomnia وHoppscotch. وحتى وقت كتابة هذا التقرير، لم يرد أي موظف من Postman على التقرير."
+     },
+     "en": {
+      "title": "Report: Postman Desktop auto-installs Codex and Claude Code plugins without consent",
+      "summary": "A GitHub issue with logs and config evidence says Postman Desktop 12.33.4 silently installed Codex and Claude Code plugins and a startup hook on macOS, drawing hundreds of comments on Hacker News.",
+      "details": "A severe-labeled issue filed on GitHub's postman-app-support repository on October 25 says that after updating Postman Desktop 12.33.4 on macOS, the app installed a Codex plugin and a Claude Code plugin without the user's consent, enabled a remote MCP connection, and added a startup hook instructing AI coding agents to route general API work through Postman's own skills.\n\nThe reporter published logs timestamped October 24 showing an automatic plugin installation, plugin source code showing the installer approving its own startup hook, and a failed authentication log for the MCP connection. They said this shows unwanted integration rather than confirmed data exfiltration, and that they had not reproduced the behavior on a clean machine.\n\nThe thread drew hundreds of comments on Hacker News, with some users reporting they dropped Postman afterward and suggesting alternatives such as Bruno, Insomnia and Hoppscotch. As of this writing, no Postman staff member had replied to the issue."
+     },
+     "addedAt": "2026-11-03T22:12:18+00:00"
+    },
+    {
+     "id": "google-k12-ai-search-off-by-default",
+     "date": "2026-11-03",
+     "type": "policy",
+     "importance": 2,
+     "sourceType": "official",
+     "sourceName": "Google Blog (The Keyword)",
+     "url": "https://blog.google/products-and-platforms/products/education/ai-learning-era-updates-2026/",
+     "originalTitle": "Designing responsible AI for learning",
+     "company": "Google",
+     "ar": {
+      "title": "غوغل تُطفئ Gemini والبحث افتراضياً لحسابات طلاب المرحلة الأساسية والمتوسطة",
+      "summary": "قالت غوغل إن على مسؤولي المدارس تفعيل Gemini وGemini in Classroom وGemini Notebook وبحث غوغل يدوياً لحسابات طلاب K-12، إذ ستكون هذه الخدمات مُعطّلة افتراضياً.",
+      "details": "أعلن كريس فيليبس، نائب رئيس غوغل لشؤون التعليم، في 3 نوفمبر أن حسابات طلاب المرحلة الأساسية والمتوسطة (K-12) ستكون خدمات Gemini وGemini in Classroom وGemini Notebook وبحث غوغل مُعطّلة فيها افتراضياً، وعلى مسؤولي المدارس تفعيل كل خدمة بأنفسهم قبل أن يتمكن الطلاب من استخدامها.\n\nوقالت غوغل إنها ستشارك مزيداً من تفاصيل التطبيق مع المدارس قبل دخول التغييرات حيز التنفيذ. وربطت الشركة الإعلان بدفعة أوسع نحو التعلّم بمساعدة الذكاء الاصطناعي، تشمل وضع تعلّم جديداً باسم Guided Learning يوجّه الطلاب لحل المسائل خطوة بخطوة بدلاً من تزويدهم بالإجابة مباشرة.\n\nوميزة Guided Learning متوفرة فعلاً في Google Classroom، وستبدأ تجربة تجريبية لها في بحث غوغل في عدد محدود من المدارس الأميركية خلال نوفمبر، قبل توسيع نطاقها."
+     },
+     "en": {
+      "title": "Google to disable Gemini and Search by default for K-12 student accounts",
+      "summary": "Google said school administrators must now explicitly enable Gemini, Gemini in Classroom, Gemini Notebook and Google Search for K-12 student accounts, which will be off by default.",
+      "details": "Google's VP of Education, Chris Phillips, announced on November 3 that K-12 student accounts will have Gemini, Gemini in Classroom, Gemini Notebook and Google Search turned off by default. School administrators will need to explicitly enable each product before students can use it.\n\nGoogle said it will share more implementation details with schools before the changes take effect. The company tied the announcement to a broader push into AI-assisted learning, including a new \"Guided Learning\" study mode that walks students through problems step by step instead of giving direct answers.\n\nGuided Learning is already available in Google Classroom and will begin a pilot in Google Search at a small number of U.S. schools later in November, ahead of a wider rollout."
+     },
+     "addedAt": "2026-11-03T22:12:18+00:00"
     },
     {
      "id": "github-copilot-jetbrains-air",
