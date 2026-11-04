@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": "2026-11-04T16:12:07+00:00",
+ "updatedAt": "2026-11-04T17:14:20+00:00",
  "coverage": {
   "from": "2026-08-04",
   "to": "2026-11-04"
@@ -1905,6 +1905,28 @@
   },
   "ai": {
    "news": [
+    {
+     "id": "gemini-chat-history-trains-ai-subscribers",
+     "date": "2026-11-04",
+     "type": "policy",
+     "importance": 2,
+     "sourceType": "official",
+     "sourceName": "Google (Gemini Apps help)",
+     "url": "https://support.google.com/gemini/answer/13594961",
+     "originalTitle": "Gemini Apps Activity controls",
+     "company": "Google",
+     "ar": {
+      "title": "صفحات دعم Gemini تؤكد استخدام سجل المحادثات في تدريب الذكاء الاصطناعي حتى للمشتركين",
+      "summary": "تؤكد صفحات دعم Google أن محادثات Gemini تُستخدم لتدريب نماذجها عند تفعيل 'Keep Activity'، وأن جزءاً منها يراجعه بشر ويُحتفظ به حتى ثلاث سنوات، وهو ما لا يستثني المشتركين المدفوعين.",
+      "details": "تصدّر نقاشاً واسعاً على Hacker News يوم 4 نوفمبر حول سياسة Google بشأن بيانات Gemini، بعد أن أشار أحد المستخدمين إلى أن تطبيق Gemini يستخدم سجل المحادثات لتدريب النماذج حتى لدى المشتركين في خطط Google AI المدفوعة. وتؤكد صفحات الدعم الرسمية لدى Google هذا الأمر: فعند تفعيل إعداد 'Keep Activity'، يُستخدم نشاط Gemini لتدريب نماذج الذكاء الاصطناعي التوليدية، ويراجع بشر جزءاً من المحادثات، ويُحتفظ بالمحادثات المُراجَعة حتى ثلاث سنوات حتى بعد حذف المستخدم لنشاطه.\n\nوتقول Google إنه عند إيقاف 'Keep Activity'، تُحفظ المحادثات 72 ساعة فقط ولا تُستخدم لتدريب النماذج، إلا أن الشركة قد تستخدمها لأغراض السلامة بمراجعة بشرية في حالات معينة. أما 'المحادثات المؤقتة' (Temporary chats) فلا تُستخدم أبداً في التدريب. ولا تذكر صفحات الدعم أي استثناء لمشتركي خطط Google AI Pro أو Ultra من هذه السياسة.\n\nولم تُعلن Google تغييراً جديداً في السياسة بمناسبة هذا النقاش؛ فما تداوله المستخدمون هو إعادة تسليط الضوء على قواعد قائمة فعلاً في صفحات الدعم الرسمية."
+     },
+     "en": {
+      "title": "Google's own help pages confirm Gemini chats train its AI, even for subscribers",
+      "summary": "Google's support pages confirm Gemini app chats are used to train its models when 'Keep Activity' is on, with a subset reviewed by humans and kept up to three years, with no exemption stated for paid subscribers.",
+      "details": "A Hacker News thread on November 4 drew wide attention to Google's Gemini data policy after a poster noted that the Gemini app trains on chat history even for paid Google AI subscribers. Google's own support pages confirm this: with the 'Keep Activity' setting on, Gemini app activity is used to train generative AI models, a subset of chats is reviewed by human reviewers, and reviewed chats are retained for up to three years even after a user deletes their activity.\n\nGoogle says that turning 'Keep Activity' off limits chat retention to 72 hours and stops that chat from being used for training, though Google may still use chats for safety purposes with human review in some cases. 'Temporary chats' are never used for training. The support pages do not describe any exemption from this policy for Google AI Pro or Ultra subscribers.\n\nGoogle did not announce any new policy tied to this discussion; what spread on Hacker News was renewed attention to rules already published on its official support pages."
+     },
+     "addedAt": "2026-11-04T17:14:20+00:00"
+    },
     {
      "id": "openai-acquire-pierre-computer",
      "date": "2026-11-04",
