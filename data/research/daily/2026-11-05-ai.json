@@ -43,6 +43,28 @@
         "summary": "GitHub Copilot is now available in public preview inside Xcode's native coding assistant, starting with Xcode 27.3 beta.",
         "details": "GitHub added Copilot support to Xcode's built-in coding assistant, giving developers a second way to use Copilot inside Apple's IDE alongside the existing GitHub Copilot for Xcode extension.\n\nThe integration is in public preview and requires Xcode 27.3 beta, downloadable from Apple Developer Downloads, on a Mac running macOS Tahoe 26.6 or later. Developers can turn it on from Xcode's Settings > Intelligence panel, and all Copilot plans are supported.\n\nGitHub said it is collecting feedback through the GitHub Copilot for Xcode repository and Apple's Feedback Assistant."
       }
+    },
+    {
+      "id": "dharma-field-extractor-document-ai",
+      "date": "2026-11-04",
+      "type": "product",
+      "importance": 1,
+      "sourceType": "official",
+      "sourceName": "Dharma AI (Hugging Face blog)",
+      "url": "https://huggingface.co/blog/Dharma-AI/dharma-field-extractor",
+      "originalTitle": "Dharma Field Extractor: Any Document In, Structured Fields in JSON Out",
+      "company": "Dharma AI",
+      "tool": "Dharma Field Extractor",
+      "ar": {
+        "title": "Dharma AI تطلق Field Extractor لاستخراج بيانات الوثائق",
+        "summary": "أطلقت Dharma AI نموذج Field Extractor، أداة صغيرة مبنية على DharmaOCR-LITE تستخرج حقولًا محددة من أي وثيقة إلى JSON، وتقول الشركة إنها تتفوق على نماذج أكبر في اختبار داخلي.",
+        "details": "أطلقت شركة Dharma AI نموذج Field Extractor، وهو محوّل LoRA مبني على نموذجها DharmaOCR-LITE v1.1 ومُدرَّب على 43,384 مثالًا. يأخذ النموذج صورة وثيقة ويُعيد الحقول التي يحددها المستخدم في صيغة JSON منظمة، ويترك الحقول الناقصة فارغة (null) بدل تخمين قيمة لها.\n\nفي اختبار داخلي أجرته الشركة على 546 وثيقة و1,638 حالة طلب، سجّل النموذج دقة 0.834، متقدمًا على Claude Opus 5 (0.816) وGPT-5.6 Luna (0.741). وتقول Dharma AI إن تشغيل النموذج محليًا على معالج رسومي واحد من طراز L40S (بتكلفة 2.24 دولار للساعة) أرخص بكثير من استدعاء واجهات برمجة النماذج الكبيرة عبر الإنترنت، مع التنويه إلى أن المقارنة ليست بسعر بيع رسمي.\n\nتجدر الإشارة إلى أن منشور الشركة يذكر أن النموذج الأساسي يضم 2 مليار معلمة، بينما تُظهر صفحة النموذج على Hugging Face رقم 4 مليارات، وهو تباين لم توضحه الشركة. يمكن تجربة الأداة عبر بوابة Dharma AI للاستخراج، أو تشغيلها ذاتيًا على بنية تحتية خاصة."
+      },
+      "en": {
+        "title": "Dharma AI launches Field Extractor model for document data extraction",
+        "summary": "Dharma AI released Field Extractor, a small model built on its DharmaOCR-LITE base that pulls user-specified fields from any document into JSON, which it says beats larger frontier models on an in-house benchmark.",
+        "details": "Dharma AI released Field Extractor, a LoRA adapter trained on top of its DharmaOCR-LITE v1.1 base model using 43,384 examples. The model takes a document image and a list of fields the user wants, then returns them as structured JSON, leaving a field null rather than guessing when it is absent from the document.\n\nIn an in-house benchmark covering 546 documents and 1,638 request cases, the company reports a score of 0.834, ahead of Claude Opus 5 (0.816) and GPT-5.6 Luna (0.741). Dharma AI says self-hosting the model on a single L40S GPU, billed at $2.24 per hour, costs roughly 6 to 147 times less per extraction than calling those frontier model APIs, though it notes the comparison is not against official list prices.\n\nThe blog post describes the base model as having 2 billion parameters, while the model's own Hugging Face listing states 4 billion, a discrepancy the company did not address. The tool can be tried through Dharma AI's OCR portal or run self-hosted on a customer's own infrastructure."
+      }
     }
   ],
   "upcoming": [],
