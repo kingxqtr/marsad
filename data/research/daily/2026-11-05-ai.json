@@ -1,0 +1,51 @@
+{
+  "topic": "ai",
+  "generatedAt": "2026-11-05",
+  "news": [
+    {
+      "id": "kimi-k3-1-pro-open-weights",
+      "date": "2026-11-04",
+      "type": "model",
+      "importance": 2,
+      "sourceType": "official",
+      "sourceName": "Hugging Face (Moonshot AI)",
+      "url": "https://huggingface.co/moonshotai/Kimi-K3.1-Pro",
+      "originalTitle": "Kimi-K3.1-Pro",
+      "company": "Moonshot AI",
+      "ar": {
+        "title": "Moonshot AI تصدر الأوزان المفتوحة لنموذج Kimi K3.1 Pro",
+        "summary": "نشرت Moonshot AI أوزانًا مفتوحة لنموذج Kimi K3.1 Pro، نموذج خبراء مُجزّأ بسعة 2.8 تريليون معلمة ونافذة سياق تبلغ نحو مليون رمز.",
+        "details": "أصدرت شركة Moonshot AI الأوزان المفتوحة لنموذج Kimi K3.1 Pro، وهو أول نموذج في سلسلة K3.1 وخليفة لنموذج Kimi K3، عبر منصة Hugging Face.\n\nيعتمد النموذج على تصميم خبراء مُجزّأ (MoE) بحجم إجمالي يبلغ نحو 2.8 تريليون معلمة، مع نحو 104 مليار معلمة نشطة لكل رمز، ونافذة سياق تصل إلى نحو مليون رمز، إضافة إلى مُرمّز رؤية يتيح معالجة الصور إلى جانب النص.\n\nوتُظهر مقاييس الأداء التي نشرتها Moonshot AI نتائج قوية في اختبارات مثل BrowseComp وGPQA-Diamond، لكن النموذج يتراجع عن منافسين مثل Claude Opus 5.5 وGPT-6 Astra في بعض الاختبارات الأخرى. ويصدر النموذج بموجب ترخيص خاص يحمل اسم \"Kimi K3.1 Pro License\" بدل ترخيص مفتوح المصدر معتاد."
+      },
+      "en": {
+        "title": "Moonshot AI releases Kimi K3.1 Pro open weights",
+        "summary": "Moonshot AI published open weights for Kimi K3.1 Pro, a 2.8-trillion-parameter mixture-of-experts model with a roughly 1-million-token context window.",
+        "details": "Moonshot AI released open weights for Kimi K3.1 Pro, the first model in its K3.1 series and a successor to Kimi K3, on Hugging Face.\n\nThe model is a mixture-of-experts design with about 2.8 trillion total parameters and roughly 104 billion active per token, a context window of about 1 million tokens, and a vision encoder for image input alongside text.\n\nMoonshot's own benchmark figures show strong results on tests such as BrowseComp and GPQA-Diamond, though the company trails rivals like Claude Opus 5.5 and GPT-6 Astra on some other benchmarks. The model ships under a custom \"Kimi K3.1 Pro License\" rather than a standard open-source license."
+      }
+    },
+    {
+      "id": "github-copilot-xcode-coding-assistant",
+      "date": "2026-11-04",
+      "type": "coding",
+      "importance": 1,
+      "sourceType": "official",
+      "sourceName": "GitHub Changelog",
+      "url": "https://github.blog/changelog/2026-11-04-github-copilot-is-now-available-in-xcodes-coding-assistant",
+      "originalTitle": "GitHub Copilot is now available in Xcode's coding assistant",
+      "company": "GitHub",
+      "ar": {
+        "title": "GitHub Copilot يصل إلى مساعد الترميز المدمج في Xcode",
+        "summary": "أصبح GitHub Copilot متاحًا كمعاينة عامة داخل مساعد الترميز المدمج في Xcode، بدءًا من نسخة Xcode 27.3 التجريبية.",
+        "details": "أضافت GitHub دعم Copilot إلى مساعد الترميز المدمج في Xcode، ليصبح أمام المطورين طريقة ثانية لاستخدام Copilot داخل بيئة تطوير آبل، إلى جانب امتداد GitHub Copilot for Xcode الحالي.\n\nالميزة متاحة حاليًا كمعاينة عامة وتتطلب نسخة Xcode 27.3 التجريبية القابلة للتحميل من Apple Developer Downloads، على جهاز Mac يعمل بنظام macOS Tahoe 26.6 أو أحدث. يمكن للمطورين تفعيلها من قائمة الإعدادات > Intelligence في Xcode، وهي مدعومة لجميع باقات Copilot.\n\nوقالت GitHub إنها تجمع الملاحظات عبر مستودع GitHub Copilot for Xcode وتطبيق Apple Feedback Assistant."
+      },
+      "en": {
+        "title": "GitHub Copilot comes to Xcode's built-in coding assistant",
+        "summary": "GitHub Copilot is now available in public preview inside Xcode's native coding assistant, starting with Xcode 27.3 beta.",
+        "details": "GitHub added Copilot support to Xcode's built-in coding assistant, giving developers a second way to use Copilot inside Apple's IDE alongside the existing GitHub Copilot for Xcode extension.\n\nThe integration is in public preview and requires Xcode 27.3 beta, downloadable from Apple Developer Downloads, on a Mac running macOS Tahoe 26.6 or later. Developers can turn it on from Xcode's Settings > Intelligence panel, and all Copilot plans are supported.\n\nGitHub said it is collecting feedback through the GitHub Copilot for Xcode repository and Apple's Feedback Assistant."
+      }
+    }
+  ],
+  "upcoming": [],
+  "removeUpcoming": [],
+  "removeNews": []
+}
