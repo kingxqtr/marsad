@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": "2026-11-04T18:09:55+00:00",
+ "updatedAt": "2026-11-04T19:10:42+00:00",
  "coverage": {
   "from": "2026-08-04",
   "to": "2026-11-04"
@@ -1948,6 +1948,27 @@
       "details": "OpenAI announced it will acquire Pierre Computer Company, Inc., the company behind Code Storage and open-source developer libraries. Pierre's Trees and Diffs tools are already used inside OpenAI's Codex app for browsing files and reviewing changes, and OpenAI said it plans to bring Code Storage's features directly into Codex.\n\nThe deal is subject to customary closing conditions including regulatory approval, and OpenAI said Pierre's open-source projects will stay open source, with existing Code Storage customers able to keep using it after the deal closes. Financial terms were not disclosed.\n\nThe acquisition follows OpenAI's recent launch of Pando, its own Git backend, and was described to Axios as a move to compete more directly with Microsoft-owned GitHub in developer infrastructure."
      },
      "addedAt": "2026-11-04T15:13:36+00:00"
+    },
+    {
+     "id": "hinton-better-off-without-ai-warning",
+     "date": "2026-11-04",
+     "type": "policy",
+     "importance": 2,
+     "sourceType": "community",
+     "sourceName": "Hacker News",
+     "url": "https://news.ycombinator.com/item?id=50363554",
+     "originalTitle": "Geoffrey Hinton: it might turn out we were better off without AI",
+     "ar": {
+      "title": "هينتون يحذّر من أن البشرية قد تكون أفضل حالاً دون الذكاء الاصطناعي",
+      "summary": "أثار تصريح لجيفري هينتون، الملقّب بـ'عرّاب الذكاء الاصطناعي'، نقاشاً واسعاً على Hacker News بعد تحذيره من احتمال وقوع عطل مؤقت في الأنظمة المالية أو الطاقة خلال العام الحالي أو المقبل بسبب الذكاء الاصطناعي.",
+      "details": "أثار تصريح لعالم الحاسوب جيفري هينتون، الملقّب بـ'عرّاب الذكاء الاصطناعي'، نقاشاً واسعاً بلغ مئات التعليقات على Hacker News يوم 4 نوفمبر، بعد أن حذّر في مقابلة من أن البشرية قد تكون أفضل حالاً لو لم يُطوَّر الذكاء الاصطناعي على الإطلاق. وأشار هينتون على وجه التحديد إلى خطر وقوع عطل مؤقت في الأنظمة المالية أو أنظمة الطاقة، وقال إن ذلك قد يحدث 'هذا العام أو العام المقبل'.\n\nتركّز النقاش على مسؤولية شركات الذكاء الاصطناعي عن سرعة النشر مقابل حتمية تطوّر هذه التقنية، مع مقارنات بسباقات التسلح النووي ودور ضغط المستثمرين. كما تناول المعلّقون مخاوف عملية تشمل فقدان الوظائف وأمن البنية التحتية التقنية."
+     },
+     "en": {
+      "title": "Hinton warns humanity might be better off without AI",
+      "summary": "A Hacker News discussion of an interview with 'AI godfather' Geoffrey Hinton drew wide attention after he warned of a possible temporary blackout of financial or power systems this year or next, caused by AI.",
+      "details": "An interview with computer scientist Geoffrey Hinton, often called the 'godfather of AI,' drew hundreds of comments on Hacker News on November 4 after he said humanity might have been better off had AI never been developed. Hinton specifically pointed to the risk of a temporary blackout of financial or power systems, saying it could happen 'this year or next.'\n\nThe discussion centered on AI companies' responsibility for the pace of deployment versus the inevitability of the technology, with comparisons to nuclear arms races and the role of investor pressure. Commenters also raised practical concerns including job displacement and the security of critical infrastructure."
+     },
+     "addedAt": "2026-11-04T19:10:42+00:00"
     },
     {
      "id": "openai-daybreak-red-govcloud",
