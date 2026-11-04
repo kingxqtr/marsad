@@ -149,6 +149,48 @@
         "summary": "GitHub's Copilot usage metrics API now reports bring-your-own-key and enterprise custom-model usage separately from Copilot-hosted model usage.",
         "details": "GitHub expanded its Copilot usage metrics API to break out bring-your-own-key (BYOK) usage from Copilot-hosted model usage. The reports cover two cases: local BYOK, which developers configure in clients like Copilot CLI or the Copilot app to connect directly to their own provider key or a local model via tools such as Ollama or LM Studio, and enterprise custom models, which admins configure in GitHub settings with requests routed through GitHub itself.\n\nThe new fields appear in enterprise and organization reports at both the individual-user and aggregate level, across 1-day and 28-day reporting windows. That lets IT and platform teams track how much usage is going through outside keys and models rather than Copilot's standard hosted models."
       }
+    },
+    {
+      "id": "openai-acquire-pierre-computer",
+      "date": "2026-11-04",
+      "type": "business",
+      "importance": 2,
+      "sourceType": "official",
+      "sourceName": "OpenAI News",
+      "url": "https://openai.com/index/openai-to-acquire-pierre",
+      "originalTitle": "OpenAI to acquire Pierre Computer Company, Inc.",
+      "company": "OpenAI",
+      "ar": {
+        "title": "OpenAI تستحوذ على Pierre Computer صاحبة أدوات Code Storage في Codex",
+        "summary": "اتفقت OpenAI على الاستحواذ على شركة Pierre Computer، صاحبة مكتبتي Trees وDiffs مفتوحتي المصدر وأداة Code Storage المستخدمة فعلياً داخل تطبيق Codex، في إطار توسّعها بأدوات المطورين.",
+        "details": "أعلنت OpenAI أنها ستستحوذ على شركة Pierre Computer Company, Inc.، الشركة التي تقف خلف أداة Code Storage ومكتبات مفتوحة المصدر للمطورين. وتُستخدم مكتبتا Trees وDiffs التابعتان لـ Pierre فعلياً داخل تطبيق Codex من OpenAI لتصفح الملفات ومراجعة التغييرات، وقالت OpenAI إنها تخطط لدمج ميزات Code Storage مباشرة في Codex.\n\nالصفقة مرهونة بشروط إغلاق معتادة تشمل الحصول على الموافقات التنظيمية، وقالت OpenAI إن مشاريع Pierre مفتوحة المصدر ستبقى مفتوحة المصدر، وسيتمكن عملاء Code Storage الحاليون من الاستمرار في استخدامها بعد إغلاق الصفقة. ولم تُكشف الشروط المالية للصفقة.\n\nوتأتي الصفقة بعد إطلاق OpenAI الأخير لـ Pando، نظامها الخاص لإدارة الإصدارات (Git)، ونقلت وكالة Axios أن الخطوة تهدف إلى منافسة GitHub المملوكة لـ Microsoft بشكل مباشر في بنية أدوات المطورين."
+      },
+      "en": {
+        "title": "OpenAI to acquire Pierre Computer, maker of Codex's Code Storage tools",
+        "summary": "OpenAI agreed to acquire Pierre Computer Company, the startup behind the Trees and Diffs libraries and Code Storage already used inside the Codex app, as it pushes further into developer tooling.",
+        "details": "OpenAI announced it will acquire Pierre Computer Company, Inc., the company behind Code Storage and open-source developer libraries. Pierre's Trees and Diffs tools are already used inside OpenAI's Codex app for browsing files and reviewing changes, and OpenAI said it plans to bring Code Storage's features directly into Codex.\n\nThe deal is subject to customary closing conditions including regulatory approval, and OpenAI said Pierre's open-source projects will stay open source, with existing Code Storage customers able to keep using it after the deal closes. Financial terms were not disclosed.\n\nThe acquisition follows OpenAI's recent launch of Pando, its own Git backend, and was described to Axios as a move to compete more directly with Microsoft-owned GitHub in developer infrastructure."
+      }
+    },
+    {
+      "id": "openai-daybreak-red-govcloud",
+      "date": "2026-11-04",
+      "type": "model",
+      "importance": 1,
+      "sourceType": "official",
+      "sourceName": "OpenAI News",
+      "url": "https://openai.com/index/daybreak-red-aws-govcloud",
+      "originalTitle": "Daybreak Red is now available in AWS GovCloud (US-East)",
+      "company": "OpenAI",
+      "ar": {
+        "title": "نموذج Daybreak Red الأمني من OpenAI يصل إلى AWS GovCloud",
+        "summary": "قالت OpenAI إن برنامج Daybreak Red المقيَّد الذي يمنح الوصول إلى نموذج GPT-5.6 Cyber أصبح متوفراً عبر Amazon Bedrock في AWS GovCloud (شرق الولايات المتحدة) للعملاء المعتمدين لأعمال أمنية مرخّصة.",
+        "details": "قالت OpenAI إن برنامج Daybreak Red المقيَّد، الذي يمنح الوصول إلى نموذج GPT-5.6 Cyber المخصص لأعمال الأمن السيبراني، أصبح متوفراً الآن عبر خدمة Amazon Bedrock في منطقة AWS GovCloud (شرق الولايات المتحدة). وكان النموذج متوفراً سابقاً للعملاء المؤهلين فقط في منطقة AWS التجارية شرق الولايات المتحدة (فيرجينيا الشمالية) منذ أغسطس 2026.\n\nويبقى الوصول مقيّداً بشكل صارم: يجب على المؤسسات التسجيل بشكل منفصل في برنامج Daybreak من OpenAI، ثم تفعيله من جانب AWS، والموافقة على استخدام النموذج في مناطق أخرى لا تمنح تلقائياً الوصول إليه في GovCloud. وقالت OpenAI إن بيانات استدلال العملاء لا تُستخدم لتدريب نماذجها ولا يلزم مشاركتها معها.\n\nويُعدّ GPT-5.6 Cyber نموذجاً متخصصاً تُقدّمه OpenAI لأعمال اختبار الاختراق المرخّصة وأبحاث الثغرات الأمنية، وقالت الشركة إنه ينجح في تنفيذ الغالبية العظمى من الطلبات الأمنية الحساسة التي ترفضها نماذجها العامة."
+      },
+      "en": {
+        "title": "OpenAI's Daybreak Red cybersecurity model reaches AWS GovCloud",
+        "summary": "OpenAI said its gated Daybreak Red program, which grants GPT-5.6 Cyber, is now available through Amazon Bedrock in AWS GovCloud (US-East) for approved customers doing authorized security work.",
+        "details": "OpenAI said Daybreak Red, its gated program granting access to GPT-5.6 Cyber for cybersecurity work, is now available through Amazon Bedrock in AWS GovCloud (US-East). The model had previously been available to eligible customers only in AWS's commercial US East (N. Virginia) region since August 2026.\n\nAccess remains tightly controlled: organizations must separately enroll in OpenAI's Daybreak access program and then be enabled by AWS, and approval for the model elsewhere does not automatically grant GovCloud access. OpenAI said customer inference data is not used to train its models and does not need to be shared back with OpenAI.\n\nGPT-5.6 Cyber is a specialized model OpenAI pitches for authorized penetration testing and vulnerability research; the company has said it completes the large majority of sensitive security requests that its general-purpose models decline."
+      }
     }
   ],
   "upcoming": [],
