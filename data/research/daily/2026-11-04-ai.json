@@ -128,6 +128,27 @@
         "summary": "A GitHub issue with logs and config evidence says Postman Desktop 12.33.4 silently installed Codex and Claude Code plugins and a startup hook on macOS, drawing hundreds of comments on Hacker News.",
         "details": "A severe-labeled issue filed on GitHub's postman-app-support repository on October 25 says that after updating Postman Desktop 12.33.4 on macOS, the app installed a Codex plugin and a Claude Code plugin without the user's consent, enabled a remote MCP connection, and added a startup hook instructing AI coding agents to route general API work through Postman's own skills.\n\nThe reporter published logs timestamped October 24 showing an automatic plugin installation, plugin source code showing the installer approving its own startup hook, and a failed authentication log for the MCP connection. They said this shows unwanted integration rather than confirmed data exfiltration, and that they had not reproduced the behavior on a clean machine.\n\nThe thread drew hundreds of comments on Hacker News, with some users reporting they dropped Postman afterward and suggesting alternatives such as Bruno, Insomnia and Hoppscotch. As of this writing, no Postman staff member had replied to the issue."
       }
+    },
+    {
+      "id": "github-copilot-usage-api-byok",
+      "date": "2026-11-03",
+      "type": "coding",
+      "importance": 1,
+      "sourceType": "official",
+      "sourceName": "GitHub Changelog",
+      "url": "https://github.blog/changelog/2026-11-03-byok-and-enterprise-custom-models-in-the-copilot-usage-api",
+      "originalTitle": "BYOK and enterprise custom models in the Copilot usage API",
+      "company": "GitHub",
+      "ar": {
+        "title": "GitHub يضيف بيانات المفاتيح الخاصة والنماذج المخصصة إلى واجهة قياس استخدام Copilot",
+        "summary": "أصبحت واجهة قياس استخدام Copilot من GitHub تعرض استخدام 'أحضر مفتاحك الخاص' (BYOK) والنماذج المؤسسية المخصصة بشكل منفصل عن النماذج التي يستضيفها Copilot نفسه.",
+        "details": "وسّعت GitHub واجهة برمجة تقارير استخدام Copilot لتفصل استخدام 'أحضر مفتاحك الخاص' (BYOK) عن استخدام النماذج التي يستضيفها Copilot. تغطي التقارير نوعين: BYOK المحلي الذي يضبطه المطورون في برامجهم (مثل Copilot CLI أو تطبيق Copilot) ليتصل مباشرة بمفتاح مزوّد خدمتهم أو بنموذج محلي عبر أدوات مثل Ollama أو LM Studio، والنماذج المؤسسية المخصصة التي يضبطها المسؤولون في إعدادات GitHub وتمر طلباتها عبر GitHub نفسها.\n\nتظهر هذه البيانات في تقارير المؤسسات والمنظمات، على مستوى المستخدم الفردي والمجموع، وفي تقارير يومية وأخرى تغطي 28 يوماً، ما يتيح لفرق تقنية المعلومات تتبّع مدى استخدام الموظفين لمفاتيح ونماذج خارجية بدلاً من نماذج Copilot القياسية."
+      },
+      "en": {
+        "title": "GitHub adds BYOK and custom-model data to the Copilot usage API",
+        "summary": "GitHub's Copilot usage metrics API now reports bring-your-own-key and enterprise custom-model usage separately from Copilot-hosted model usage.",
+        "details": "GitHub expanded its Copilot usage metrics API to break out bring-your-own-key (BYOK) usage from Copilot-hosted model usage. The reports cover two cases: local BYOK, which developers configure in clients like Copilot CLI or the Copilot app to connect directly to their own provider key or a local model via tools such as Ollama or LM Studio, and enterprise custom models, which admins configure in GitHub settings with requests routed through GitHub itself.\n\nThe new fields appear in enterprise and organization reports at both the individual-user and aggregate level, across 1-day and 28-day reporting windows. That lets IT and platform teams track how much usage is going through outside keys and models rather than Copilot's standard hosted models."
+      }
     }
   ],
   "upcoming": [],

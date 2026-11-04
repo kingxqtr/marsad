@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": "2026-11-04T00:09:06+00:00",
+ "updatedAt": "2026-11-04T01:09:43+00:00",
  "coverage": {
   "from": "2026-08-04",
   "to": "2026-11-04"
@@ -2173,6 +2173,28 @@
       "details": "IBM Research published details of Palette, a research project that uses a fine-tuned 20-billion-parameter open-weight model to generate slide decks by writing pptxgenjs code for each slide. A single adapter plays two roles: a \"designer\" that drafts a layout and content brief, and a \"coder\" that renders each slide in parallel, styled to IBM's design language.\n\nThe model was trained on about 1,000 synthetic decks with reasoning traces explaining design choices, and users can steer output with bracketed directives like [[make this a timeline]]. A check-and-repair step renders each slide, flags overlaps or overflow, and keeps fixes only if they measurably improve the result.\n\nOn the PresentBench benchmark, Palette ranked first in the Economics and Education categories and placed second overall across three domains, 1.1 points behind NotebookLM. IBM says future work includes using the checker as a reinforcement-learning signal and extracting figures from source documents."
      },
      "addedAt": "2026-11-03T17:11:45+00:00"
+    },
+    {
+     "id": "github-copilot-usage-api-byok",
+     "date": "2026-11-03",
+     "type": "coding",
+     "importance": 1,
+     "sourceType": "official",
+     "sourceName": "GitHub Changelog",
+     "url": "https://github.blog/changelog/2026-11-03-byok-and-enterprise-custom-models-in-the-copilot-usage-api",
+     "originalTitle": "BYOK and enterprise custom models in the Copilot usage API",
+     "company": "GitHub",
+     "ar": {
+      "title": "GitHub يضيف بيانات المفاتيح الخاصة والنماذج المخصصة إلى واجهة قياس استخدام Copilot",
+      "summary": "أصبحت واجهة قياس استخدام Copilot من GitHub تعرض استخدام 'أحضر مفتاحك الخاص' (BYOK) والنماذج المؤسسية المخصصة بشكل منفصل عن النماذج التي يستضيفها Copilot نفسه.",
+      "details": "وسّعت GitHub واجهة برمجة تقارير استخدام Copilot لتفصل استخدام 'أحضر مفتاحك الخاص' (BYOK) عن استخدام النماذج التي يستضيفها Copilot. تغطي التقارير نوعين: BYOK المحلي الذي يضبطه المطورون في برامجهم (مثل Copilot CLI أو تطبيق Copilot) ليتصل مباشرة بمفتاح مزوّد خدمتهم أو بنموذج محلي عبر أدوات مثل Ollama أو LM Studio، والنماذج المؤسسية المخصصة التي يضبطها المسؤولون في إعدادات GitHub وتمر طلباتها عبر GitHub نفسها.\n\nتظهر هذه البيانات في تقارير المؤسسات والمنظمات، على مستوى المستخدم الفردي والمجموع، وفي تقارير يومية وأخرى تغطي 28 يوماً، ما يتيح لفرق تقنية المعلومات تتبّع مدى استخدام الموظفين لمفاتيح ونماذج خارجية بدلاً من نماذج Copilot القياسية."
+     },
+     "en": {
+      "title": "GitHub adds BYOK and custom-model data to the Copilot usage API",
+      "summary": "GitHub's Copilot usage metrics API now reports bring-your-own-key and enterprise custom-model usage separately from Copilot-hosted model usage.",
+      "details": "GitHub expanded its Copilot usage metrics API to break out bring-your-own-key (BYOK) usage from Copilot-hosted model usage. The reports cover two cases: local BYOK, which developers configure in clients like Copilot CLI or the Copilot app to connect directly to their own provider key or a local model via tools such as Ollama or LM Studio, and enterprise custom models, which admins configure in GitHub settings with requests routed through GitHub itself.\n\nThe new fields appear in enterprise and organization reports at both the individual-user and aggregate level, across 1-day and 28-day reporting windows. That lets IT and platform teams track how much usage is going through outside keys and models rather than Copilot's standard hosted models."
+     },
+     "addedAt": "2026-11-03T23:59:59+00:00"
     },
     {
      "id": "qwen-code-repo-qwen4-model-id-leak",
