@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": "2026-11-04T10:08:31+00:00",
+ "updatedAt": "2026-11-04T11:11:26+00:00",
  "coverage": {
   "from": "2026-08-04",
   "to": "2026-11-04"
@@ -8,6 +8,27 @@
  "tabs": {
   "once-human": {
    "news": [
+    {
+     "id": "oh-version-3-1-2-nailoong-crossover",
+     "date": "2026-11-04",
+     "type": "update",
+     "importance": 2,
+     "sourceType": "official",
+     "sourceName": "Once Human — Steam News",
+     "url": "https://store.steampowered.com/news/app/2139460/view/1848557880478348",
+     "originalTitle": "Version 3.1.2 Update Announcement (November 4)",
+     "ar": {
+      "title": "تحديث 3.1.2 يضيف حدث Nailoong العابر",
+      "summary": "جلب تحديث Once Human في 4 نوفمبر حدث Nailoong العابر، وتحسينات للقتال والاستكشاف بمنظور الشخص الأول، وإصلاحات لبناء الأقاليم، وخيارات صبغ جديدة، وتعليقات على السيرفرات المخصصة، مع جوائز لجميع اللاعبين.",
+      "details": "أصدر مطورو Once Human النسخة 3.1.2 بعد صيانة مجدولة في 4 نوفمبر الساعة 3:00 عصرًا بتوقيت المحيط الهادئ، استمرت نحو ساعتين.\n\n- حدث عابر جديد بعنوان \"Nailoong\" يتيح للاعبين التحول مؤقتًا إلى شخصية التميمة الكروية\n- تحسين تجربة القتال والاستكشاف بمنظور الشخص الأول\n- تحسينات على استبدال بناء الأقاليم دفعة واحدة والبناء الهولوغرامي، مع خيارات صبغ أزياء جديدة\n- إضافة ميزة التعليقات إلى Custom Server، وصندوق غنائم Lightforge جديد بعنوان \"Party Boing!\"\n- إصلاح عدد من الأخطاء المرصودة منذ التحديث السابق\n\nحصل جميع اللاعبين على جوائز تسجيل دخول مع التحديث: 1000 من Starchrom، و100 من علامات Mitsuko، وصندوق Stardust السري النادر (S15) واحد، و30 شارة ملونة، و5 من كوكيز التحول لشكل Nailoong.\n\nالتحديث التالي مقرر في 18 نوفمبر بتوقيت المحيط الهادئ؛ ولمّح المطورون إلى نمط لعب \"Visional Wheel\" المرتبط بظهور شكل ضخم فوق Nalcott، مع وعد بمزيد من التفاصيل في تدوينات المطورين المقبلة."
+     },
+     "en": {
+      "title": "Version 3.1.2 update adds Nailoong crossover event",
+      "summary": "Once Human's November 4 update brought the Nailoong crossover event, first-person combat tweaks, territory construction fixes, new dye options and Custom Server comments, plus login rewards for everyone.",
+      "details": "Once Human's developers rolled out version 3.1.2 after scheduled maintenance on November 4 at 3:00 PM PT, lasting about two hours.\n\n- A new themed crossover event, \"Nailoong\", lets players temporarily transform into the round mascot character\n- First-person combat and exploration were optimized\n- Territory construction got batch-replacement and holographic-construction improvements, plus new fashion dye options\n- Custom Servers gained a comment feature, and a new \"Party Boing!\" Lightforge Loot Crate was added\n- Various bugs reported since the last update were fixed\n\nAll players received log-in rewards for the update: 1,000 Starchrom, 100 Mitsuko's Marks, one Epic Stardust Secret Crate (S15), 30 Colorful Badges and 5 Transformation Cookies for the Nailoong form.\n\nThe next update is scheduled for November 18 (PT); developers teased a \"Visional Wheel\" game mode tied to a giant figure appearing over Nalcott, with more details promised in upcoming dev blogs."
+     },
+     "addedAt": "2026-11-04T11:11:26+00:00"
+    },
     {
      "id": "oh-3-1-1-bugfixes-nov2",
      "date": "2026-11-02",
@@ -895,30 +916,6 @@
       "details": "Once Human's Custom Servers let players rent and run their own worlds, and hosts earn a share of revenue through the Community Creation Program. On top of the standard share, a dedicated incentive pool with no upper limit pays hosts according to their servers' \"Engagement Score\".\n\nSchedule:\n- Current round: September 2–29 (PT), longer than earlier cycles\n- From then on, the \"Revenue Carnival\" resets its prize-pool data on the 1st of each month\n- The program is set to continue until the end of 2026\n\nHosts can join from Custom Server > Community Creation Program > Event tab. A new \"Excellent\" host tier, for an average daily engagement score of 200–599 over a month, also grants a free 30-day renewal of the current server size.",
       "location": "In-game (Custom Servers)",
       "dateNote": "October 1 is the first monthly reset after the current round; the program runs to the end of 2026."
-     },
-     "addedAt": "2026-09-27T13:25:38+00:00"
-    },
-    {
-     "id": "oh-upcoming-update-2026-11-04",
-     "date": "2026-11-04",
-     "type": "update",
-     "importance": 1,
-     "sourceType": "official",
-     "sourceName": "Once Human — Official Website",
-     "url": "https://www.oncehuman.game/news/devBlog/20260923/40781_1314860.html",
-     "originalTitle": "",
-     "dateConfidence": "confirmed",
-     "ar": {
-      "title": "تحديث 4 نوفمبر يضيف أوامر أسرع عبر Beast Whistle",
-      "summary": "سيتمكن Beastmaster الذي يحمل Beast Whistle من إصدار الأوامر للحيوانات بزر الوسم: زر الفأرة الأوسط على PC، وزر الوسم على الجوال، والنقر المزدوج على السهم العلوي في وحدة التحكم.",
-      "details": "حدد مطورو Once Human تحديثًا للإصدار في 4 نوفمبر بتوقيت المحيط الهادئ. والتغيير الوحيد المؤكد حتى الآن يخص فئة Beastmaster مع ازدياد عدد الحيوانات التي يمكن استدعاؤها.\n\n- عند حمل Beast Whistle يمكن إصدار الأوامر للحيوانات مباشرة عبر زر الوسم\n- الأزرار الافتراضية: زر الفأرة الأوسط على PC، وزر الوسم على الجوال، والنقر المزدوج على السهم العلوي في لوحة الاتجاهات بوحدة التحكم\n\nويأتي ذلك بعد تحديث 28 سبتمبر الذي يتيح لصافرة واحدة أمر عدة حيوانات، وتحديث 21 أكتوبر الذي يصلح سمة Nimble. ولم تُعلن بقية محتويات تحديث 4 نوفمبر بعد.",
-      "dateNote": "معلن ليوم 4 نوفمبر بتوقيت المحيط الهادئ؛ إذا بدأ في الموعد المعتاد 4:00 عصرًا فسيوافق 3:00 فجر 5 نوفمبر في قطر والسعودية (UTC+3) و4:00 فجرًا في الإمارات (UTC+4)، بعد انتهاء التوقيت الصيفي الأمريكي."
-     },
-     "en": {
-      "title": "November 4 update to add quicker Beast Whistle commands",
-      "summary": "Beastmasters carrying a Beast Whistle will be able to command animals with the tag button: middle mouse on PC, the tag button on mobile, or double-tap Up on a controller.",
-      "details": "Once Human's developers have scheduled a version update for November 4 (PT). The only confirmed change so far concerns Beastmasters, as the number of animals they can summon grows.\n\n- While carrying a Beast Whistle, Beastmasters will be able to give commands directly with the tag button\n- Default inputs: middle mouse button on PC, the tag button on mobile, and a double-tap of Up on the D-pad for controllers\n\nIt follows the September 28 update, which lets one whistle command several animals, and the October 21 update, which fixes the \"Nimble\" trait. The rest of the November 4 update's contents have not been announced yet.",
-      "dateNote": "Announced for November 4 (PT). If it keeps the usual 4:00 PM PT slot, it would begin on November 5 at 3:00 AM in Qatar and Saudi Arabia (UTC+3) and 4:00 AM in the UAE (UTC+4), after the US clock change."
      },
      "addedAt": "2026-09-27T13:25:38+00:00"
     },

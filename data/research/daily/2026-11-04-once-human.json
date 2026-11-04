@@ -1,0 +1,31 @@
+{
+  "topic": "once-human",
+  "generatedAt": "2026-11-04",
+  "news": [
+    {
+      "id": "oh-version-3-1-2-nailoong-crossover",
+      "date": "2026-11-04",
+      "type": "update",
+      "importance": 2,
+      "sourceType": "official",
+      "sourceName": "Once Human — Steam News",
+      "url": "https://store.steampowered.com/news/app/2139460/view/1848557880478348",
+      "originalTitle": "Version 3.1.2 Update Announcement (November 4)",
+      "ar": {
+        "title": "تحديث 3.1.2 يضيف حدث Nailoong العابر",
+        "summary": "جلب تحديث Once Human في 4 نوفمبر حدث Nailoong العابر، وتحسينات للقتال والاستكشاف بمنظور الشخص الأول، وإصلاحات لبناء الأقاليم، وخيارات صبغ جديدة، وتعليقات على السيرفرات المخصصة، مع جوائز لجميع اللاعبين.",
+        "details": "أصدر مطورو Once Human النسخة 3.1.2 بعد صيانة مجدولة في 4 نوفمبر الساعة 3:00 عصرًا بتوقيت المحيط الهادئ، استمرت نحو ساعتين.\n\n- حدث عابر جديد بعنوان \"Nailoong\" يتيح للاعبين التحول مؤقتًا إلى شخصية التميمة الكروية\n- تحسين تجربة القتال والاستكشاف بمنظور الشخص الأول\n- تحسينات على استبدال بناء الأقاليم دفعة واحدة والبناء الهولوغرامي، مع خيارات صبغ أزياء جديدة\n- إضافة ميزة التعليقات إلى Custom Server، وصندوق غنائم Lightforge جديد بعنوان \"Party Boing!\"\n- إصلاح عدد من الأخطاء المرصودة منذ التحديث السابق\n\nحصل جميع اللاعبين على جوائز تسجيل دخول مع التحديث: 1000 من Starchrom، و100 من علامات Mitsuko، وصندوق Stardust السري النادر (S15) واحد، و30 شارة ملونة، و5 من كوكيز التحول لشكل Nailoong.\n\nالتحديث التالي مقرر في 18 نوفمبر بتوقيت المحيط الهادئ؛ ولمّح المطورون إلى نمط لعب \"Visional Wheel\" المرتبط بظهور شكل ضخم فوق Nalcott، مع وعد بمزيد من التفاصيل في تدوينات المطورين المقبلة."
+      },
+      "en": {
+        "title": "Version 3.1.2 update adds Nailoong crossover event",
+        "summary": "Once Human's November 4 update brought the Nailoong crossover event, first-person combat tweaks, territory construction fixes, new dye options and Custom Server comments, plus login rewards for everyone.",
+        "details": "Once Human's developers rolled out version 3.1.2 after scheduled maintenance on November 4 at 3:00 PM PT, lasting about two hours.\n\n- A new themed crossover event, \"Nailoong\", lets players temporarily transform into the round mascot character\n- First-person combat and exploration were optimized\n- Territory construction got batch-replacement and holographic-construction improvements, plus new fashion dye options\n- Custom Servers gained a comment feature, and a new \"Party Boing!\" Lightforge Loot Crate was added\n- Various bugs reported since the last update were fixed\n\nAll players received log-in rewards for the update: 1,000 Starchrom, 100 Mitsuko's Marks, one Epic Stardust Secret Crate (S15), 30 Colorful Badges and 5 Transformation Cookies for the Nailoong form.\n\nThe next update is scheduled for November 18 (PT); developers teased a \"Visional Wheel\" game mode tied to a giant figure appearing over Nalcott, with more details promised in upcoming dev blogs."
+      }
+    }
+  ],
+  "upcoming": [],
+  "removeUpcoming": [
+    "oh-upcoming-update-2026-11-04"
+  ],
+  "removeNews": []
+}
