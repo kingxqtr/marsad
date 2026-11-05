@@ -21,6 +21,46 @@
         "summary": "Once Human's 12th Meta Hotline accepts a General Mod output boost, a last-played-time display on the character page, using bound Deviations during synthesis, and a building-demolition preview, after shipping a dismantle request for Lift-Off Energy Devices.",
         "details": "Once Human's development team published the 12th Meta Hotline, responding to the top requests ranked on the Feedback Platform's hot charts as of November 4.\n\nA request to dismantle Lift-Off Energy Devices and Floating Aerogels shipped with the October 27 update, freeing up backpack and depot space.\n\n- Increase General Mod output: accepted, currently in planning and development to improve how Mods are obtained and their quantities.\n- Display last-played time on the Character page: accepted, in development.\n- Allow bound Deviations with remaining uses in the main Deviation slot during synthesis, without transferring them out first: accepted, in development.\n- Improve animal-information readability: shortened some on-screen text with the November 4 update to cut scrolling wait time.\n- Preview for building demolition, to prevent accidental teardown: accepted, in planning and development, with an official release date to be announced."
       }
+    },
+    {
+      "id": "once-human-3-1-2-bug-fixes-nov5",
+      "date": "2026-11-05",
+      "type": "update",
+      "importance": 1,
+      "sourceType": "official",
+      "sourceName": "Once Human — Steam News",
+      "url": "https://store.steampowered.com/news/app/2139460/view/1848664643340552",
+      "originalTitle": "3.1.2 Bug Fixes (November 5)",
+      "ar": {
+        "title": "Once Human: إصلاحات أخطاء 3.1.2 تعالج التلوين والمعاينات وتجربة Battle Pass",
+        "summary": "أصلحت نشرة 5 نوفمبر مشاكل في تلوين مجموعة Salty Breeze، ومعاينات مجموعة Rhythm Starcore، وأيقونة Meta Bounty، وتراكم خبرة Battle Pass خلال فعالية Nailoong Egg، وتسليم هدايا العضوية على Xbox وPlayStation.",
+        "details": "نشر فريق Once Human تحديث إصلاح أخطاء بإصدار 3.1.2 في 5 نوفمبر يعالج عدة مشاكل أبلغ عنها اللاعبون.\n\n- إصلاح خلل في تلوين مجموعة Salty Breeze.\n- إصلاح خلل في معاينات الفيديو لصفات مجموعة Rhythm Starcore.\n- إصلاح أيقونة Nailoong Check الخاطئة في واجهة شراء Meta Bounty.\n- إصلاح عدم تراكم خبرة Battle Pass بشكل صحيح خلال فعالية Nailoong Egg.\n- تعطيل مؤقت لميزة المحاذاة التلقائية الجديدة لتخطيط تصميم الأراضي بعد أن أثّرت على بيانات التخطيط المحفوظة، وستُعاد بعد إصلاحها.\n- إصلاح تسليم رسائل حزم هدايا العضوية على Xbox وPlayStation؛ سيحصل اللاعبون المتأثرون على المكافآت عبر البريد داخل اللعبة خلال 3 أيام عمل."
+      },
+      "en": {
+        "title": "Once Human 3.1.2 bug fixes address dyeing, previews and Battle Pass XP",
+        "summary": "Once Human's November 5 bug-fix pass addresses outfit dyeing, item previews, a Meta Bounty icon, Battle Pass XP during the Nailoong Egg event, and Membership Gift Pack mail delivery.",
+        "details": "Once Human's team shipped a 3.1.2 bug-fix update on November 5 covering several player-reported issues.\n\n- Fixed abnormal dyeing on the Salty Breeze outfit set.\n- Fixed abnormal video previews for the Rhythm Starcore Set's traits.\n- Fixed a wrong Nailoong Check icon on the Meta Bounty purchase interface.\n- Fixed Battle Pass experience not accumulating correctly during the Nailoong Egg event.\n- Temporarily disabled the new territory design layout global-snap feature after it affected saved layout data; it will return once the fix is complete.\n- Fixed delivery of Membership Gift Pack mail on Xbox and PlayStation; affected players will receive the rewards via in-game mail within 3 business days."
+      }
+    },
+    {
+      "id": "oh-3-1-1-bugfixes-nov2",
+      "date": "2026-11-02",
+      "type": "update",
+      "importance": 1,
+      "sourceType": "official",
+      "sourceName": "Once Human — Steam News",
+      "url": "https://store.steampowered.com/news/app/2139460/view/1847920302247523",
+      "originalTitle": "Once Human 3.1.1 Bug Fixes (November 2) — Full Patch Notes",
+      "ar": {
+        "title": "Once Human يحسّن توجيه القوارب الثقيلة ويصلح خللاً في صيد Bubble Fish",
+        "summary": "أصدرت Once Human في 2 نوفمبر إصلاحات تحسّن قدرة القوارب الثقيلة على الانحراف، وتصلح عدم إمكانية إصابة Bubble Fish في بعض الحالات.",
+        "details": "أصدرت Once Human في 2 نوفمبر دفعة جديدة من إصلاحات تحديث 3.1.1، يُتوقع اكتمالها بحلول الساعة 5 صباحاً بتوقيت المحيط الهادئ.\n\nالتغيير الأول يحسّن تجربة التوجيه عندما يكون وزن القارب مرتفعاً جداً: فعندما يتجاوز وزن القارب 10,000 كيلوغرام، سيحتفظ الآن بقدر من قدرة الانحراف، مما يقلل من حالات تعذّر توجيه القارب بسبب الحمل الزائد.\n\nكما أصلحت الدفعة مشكلة كان يتعذر فيها إصابة سمكة Bubble Fish في بعض الحالات."
+      },
+      "en": {
+        "title": "Once Human improves overweight boat steering, fixes Bubble Fish hit bug",
+        "summary": "A November 2 patch lets overweight boats retain some steering ability and fixes an issue where Bubble Fish could not be hit in some situations.",
+        "details": "Once Human issued another round of 3.1.1 bug fixes on November 2, expected to complete by 5:00 AM PT.\n\nThe first change optimizes steering when a boat's weight is too high: when a boat is overweight (weight at or above 10,000kg), it now retains some steering ability, reducing situations where the boat cannot turn due to being overweight.\n\nThe patch also fixed an issue where Bubble Fish could not be hit in some situations."
+      }
     }
   ],
   "upcoming": [],

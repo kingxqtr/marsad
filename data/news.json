@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": "2026-11-05T10:09:30+00:00",
+ "updatedAt": "2026-11-05T11:17:26+00:00",
  "coverage": {
   "from": "2026-08-05",
   "to": "2026-11-05"
@@ -28,6 +28,27 @@
       "details": "Once Human's development team published the 12th Meta Hotline, responding to the top requests ranked on the Feedback Platform's hot charts as of November 4.\n\nA request to dismantle Lift-Off Energy Devices and Floating Aerogels shipped with the October 27 update, freeing up backpack and depot space.\n\n- Increase General Mod output: accepted, currently in planning and development to improve how Mods are obtained and their quantities.\n- Display last-played time on the Character page: accepted, in development.\n- Allow bound Deviations with remaining uses in the main Deviation slot during synthesis, without transferring them out first: accepted, in development.\n- Improve animal-information readability: shortened some on-screen text with the November 4 update to cut scrolling wait time.\n- Preview for building demolition, to prevent accidental teardown: accepted, in planning and development, with an official release date to be announced."
      },
      "addedAt": "2026-11-05T03:10:02+00:00"
+    },
+    {
+     "id": "once-human-3-1-2-bug-fixes-nov5",
+     "date": "2026-11-05",
+     "type": "update",
+     "importance": 1,
+     "sourceType": "official",
+     "sourceName": "Once Human — Steam News",
+     "url": "https://store.steampowered.com/news/app/2139460/view/1848664643340552",
+     "originalTitle": "3.1.2 Bug Fixes (November 5)",
+     "ar": {
+      "title": "Once Human: إصلاحات أخطاء 3.1.2 تعالج التلوين والمعاينات وتجربة Battle Pass",
+      "summary": "أصلحت نشرة 5 نوفمبر مشاكل في تلوين مجموعة Salty Breeze، ومعاينات مجموعة Rhythm Starcore، وأيقونة Meta Bounty، وتراكم خبرة Battle Pass خلال فعالية Nailoong Egg، وتسليم هدايا العضوية على Xbox وPlayStation.",
+      "details": "نشر فريق Once Human تحديث إصلاح أخطاء بإصدار 3.1.2 في 5 نوفمبر يعالج عدة مشاكل أبلغ عنها اللاعبون.\n\n- إصلاح خلل في تلوين مجموعة Salty Breeze.\n- إصلاح خلل في معاينات الفيديو لصفات مجموعة Rhythm Starcore.\n- إصلاح أيقونة Nailoong Check الخاطئة في واجهة شراء Meta Bounty.\n- إصلاح عدم تراكم خبرة Battle Pass بشكل صحيح خلال فعالية Nailoong Egg.\n- تعطيل مؤقت لميزة المحاذاة التلقائية الجديدة لتخطيط تصميم الأراضي بعد أن أثّرت على بيانات التخطيط المحفوظة، وستُعاد بعد إصلاحها.\n- إصلاح تسليم رسائل حزم هدايا العضوية على Xbox وPlayStation؛ سيحصل اللاعبون المتأثرون على المكافآت عبر البريد داخل اللعبة خلال 3 أيام عمل."
+     },
+     "en": {
+      "title": "Once Human 3.1.2 bug fixes address dyeing, previews and Battle Pass XP",
+      "summary": "Once Human's November 5 bug-fix pass addresses outfit dyeing, item previews, a Meta Bounty icon, Battle Pass XP during the Nailoong Egg event, and Membership Gift Pack mail delivery.",
+      "details": "Once Human's team shipped a 3.1.2 bug-fix update on November 5 covering several player-reported issues.\n\n- Fixed abnormal dyeing on the Salty Breeze outfit set.\n- Fixed abnormal video previews for the Rhythm Starcore Set's traits.\n- Fixed a wrong Nailoong Check icon on the Meta Bounty purchase interface.\n- Fixed Battle Pass experience not accumulating correctly during the Nailoong Egg event.\n- Temporarily disabled the new territory design layout global-snap feature after it affected saved layout data; it will return once the fix is complete.\n- Fixed delivery of Membership Gift Pack mail on Xbox and PlayStation; affected players will receive the rewards via in-game mail within 3 business days."
+     },
+     "addedAt": "2026-11-05T11:14:31+00:00"
     },
     {
      "id": "oh-version-3-1-2-nailoong-crossover",
@@ -58,7 +79,7 @@
      "sourceType": "official",
      "sourceName": "Once Human — Steam News",
      "url": "https://store.steampowered.com/news/app/2139460/view/1847920302247523",
-     "originalTitle": "3.1.1 Bug Fixes (November 2)",
+     "originalTitle": "Once Human 3.1.1 Bug Fixes (November 2) — Full Patch Notes",
      "ar": {
       "title": "Once Human يحسّن توجيه القوارب الثقيلة ويصلح خللاً في صيد Bubble Fish",
       "summary": "أصدرت Once Human في 2 نوفمبر إصلاحات تحسّن قدرة القوارب الثقيلة على الانحراف، وتصلح عدم إمكانية إصابة Bubble Fish في بعض الحالات.",
@@ -1947,6 +1968,51 @@
   },
   "ai": {
    "news": [
+    {
+     "id": "gradium-phonon-tts-on-device",
+     "date": "2026-11-05",
+     "type": "model",
+     "importance": 1,
+     "sourceType": "official",
+     "sourceName": "Hugging Face Blog",
+     "url": "https://huggingface.co/blog/phonon-tts",
+     "originalTitle": "A Closer Look at Phonon TTS. Launching High-Quality On-Device Speech That Tops the Benchmarks.",
+     "company": "Gradium",
+     "tool": "Phonon TTS",
+     "ar": {
+      "title": "Gradium تطلق Phonon TTS لتحويل النص إلى كلام على الجهاز مباشرة",
+      "summary": "أطلقت Gradium نموذجَي Phonon TTS الصغيرين (65 و75 ميجابايت) لتحويل النص إلى كلام على الجهاز دون اتصال بالإنترنت، وتصدّرا لوحة Hugging Face لقياس الوضوح والكمون في عدة لغات.",
+      "details": "نشرت شركة Gradium نموذجَي Phonon TTS على Hugging Face، وهما نموذجان صغيران لتحويل النص إلى كلام يعملان بالكامل على الجهاز دون الحاجة إلى خادم أو اتصال بالشبكة. يدعم Phonon 31m اللغة الإنجليزية فقط بترخيص Apache 2.0 المفتوح، بما يشمل الاستخدام التجاري، بينما يضيف Phonon 40m الفرنسية والألمانية والإسبانية والبرتغالية بترخيص غير تجاري.\n\nيعتمد النموذجان على بنية Pocket TTS ويستخدمان تقنية flow matching لتوليد الصوت، مع أكثر من 100 صوت جاهز وإمكانية إنشاء أصوات مخصّصة عبر استنساخ الصوت أو أدوات تصميم الصوت في Gradium Studio. يعملان على الهواتف وأجهزة الحاسوب المحمولة واللوحات الحاسوبية الصغيرة ومتصفحات الويب، من خلال إطار استدلال جديد باسم ptts وتكامل مع مكتبة Hugging Face Transformers.\n\nعلى لوحة Hugging Face لقياس جودة تحويل النص إلى كلام، تصدّر النموذجان الترتيب في وضوح اللغتين الألمانية والإسبانية، وجاءا بين أفضل ثلاثة نماذج في كل لغة تم اختبارها، وتصدّرا أيضًا زمن الاستجابة الأول عند البث على المعالج: 28 ملّي ثانية لنموذج 31m و38 ملّي ثانية لنموذج 40m، مقارنة بـ165 ملّي ثانية لنموذج Pocket TTS. وتقول Gradium إن النموذجين تجاوزا 200 ألف تحميل خلال أسبوعيهما الأولين."
+     },
+     "en": {
+      "title": "Gradium releases Phonon TTS, tiny on-device text-to-speech models",
+      "summary": "Gradium released Phonon TTS, two small on-device speech models (65MB and 75MB) that top Hugging Face's Open TTS Leaderboard for intelligibility and latency in several languages.",
+      "details": "Gradium published Phonon TTS on Hugging Face, a pair of compact text-to-speech models that run fully on-device with no server connection needed. Phonon 31m handles English only and ships under the Apache 2.0 license, including for commercial use; Phonon 40m adds French, German, Spanish and Portuguese under a non-commercial license.\n\nBoth models are based on the Pocket TTS architecture and use flow matching to generate audio, with more than 100 built-in voices and support for custom voices via cloning or Gradium Studio's voice design tools. They run on phones, laptops, single-board computers and browsers, through a new ptts inference framework and a Hugging Face Transformers integration.\n\nOn Hugging Face's Open TTS Leaderboard, the models rank first for German and Spanish intelligibility, placed top three in every language tested, and lead on CPU streaming latency: a 95th-percentile time-to-first-audio of 28ms (31m) and 38ms (40m), versus 165ms for Pocket TTS. Gradium says the models passed 200,000 downloads in their first two weeks."
+     },
+     "addedAt": "2026-11-05T11:14:31+00:00"
+    },
+    {
+     "id": "openai-compute-campus-policy-blueprint",
+     "date": "2026-11-05",
+     "type": "policy",
+     "importance": 1,
+     "sourceType": "official",
+     "sourceName": "OpenAI News",
+     "url": "https://openai.com/index/setting-new-standard-responsible-ai-infrastructure",
+     "originalTitle": "Setting a new standard for responsible AI infrastructure",
+     "company": "OpenAI",
+     "ar": {
+      "title": "OpenAI تطرح خطة للمجتمعات والسياسات حول مراكز بيانات الذكاء الاصطناعي",
+      "summary": "طرحت OpenAI \"الميثاق الوطني للمجتمعات\" و\"مخطط سياسات حرم الحوسبة\"، وهما وثيقتان تحددان التزامات تجاه المجتمعات المحلية وتوصيات سياسية لبناء بنية الذكاء الاصطناعي بمسؤولية.",
+      "details": "نشرت OpenAI تدوينة سياسات تقدّم مبادرتين مرتبطتين بمشاريع مراكز بياناتها، التي تسمّيها الشركة بشكل متزايد \"حرم الحوسبة\" (Compute Campus). يحدد \"الميثاق الوطني للمجتمعات\" التزامات تجاه المجتمعات المحلية المستقبلة لهذه المرافق، تشمل حماية الموارد المحلية مثل المياه والكهرباء، وخلق وظائف محلية.\n\nويطرح \"مخطط سياسات حرم الحوسبة\" المرفق توصيات لكيفية تخطيط الحكومات والشركات لبنية الذكاء الاصطناعي بمسؤولية. وتأتي الخطوة في إطار مسعى OpenAI، الذي تناولته تقارير منذ أوائل نوفمبر، لإعادة تسمية مراكز البيانات باسم \"حرم الحوسبة\" ومنح المجتمعات المحلية رأيًا رسميًا في كيفية بناء المشاريع، بعد تعهدات سابقة مثل وعد بأن حرم بيانات Stargate لن يرفع أسعار الكهرباء المحلية."
+     },
+     "en": {
+      "title": "OpenAI unveils community and policy plan for AI data centers",
+      "summary": "OpenAI introduced a National Community Compact and a Compute Campus Policy Blueprint, outlining commitments to local communities and policy recommendations for AI infrastructure buildouts.",
+      "details": "OpenAI published a policy post introducing two initiatives tied to its data center buildouts, which the company increasingly calls \"compute campuses.\" The National Community Compact sets out commitments to the communities that host these facilities, including protecting local resources such as water and electricity and creating local jobs.\n\nThe accompanying Compute Campus Policy Blueprint lays out recommendations for how governments and companies should plan AI infrastructure responsibly. The move continues OpenAI's push, reported since early November, to rebrand data centers as \"compute campuses\" and to offer communities a formal say in how projects are built, following earlier commitments such as a pledge that Stargate campuses would not raise local electricity prices."
+     },
+     "addedAt": "2026-11-05T11:14:31+00:00"
+    },
     {
      "id": "gemini-chat-history-trains-ai-subscribers",
      "date": "2026-11-04",
