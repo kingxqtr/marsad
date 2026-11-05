@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": "2026-11-05T20:10:13+00:00",
+ "updatedAt": "2026-11-05T21:13:17+00:00",
  "coverage": {
   "from": "2026-08-05",
   "to": "2026-11-05"
@@ -1992,6 +1992,29 @@
      "addedAt": "2026-11-05T17:10:14+00:00"
     },
     {
+     "id": "cursor-build-live-apps-nov2026",
+     "date": "2026-11-05",
+     "type": "coding",
+     "importance": 2,
+     "sourceType": "official",
+     "sourceName": "Cursor Changelog",
+     "url": "https://cursor.com/changelog/build-live-apps",
+     "originalTitle": "Build Live Apps in Cursor",
+     "company": "Anysphere",
+     "tool": "Cursor",
+     "ar": {
+      "title": "Cursor تطلق ميزة Build Live Apps لنشر تطبيقات ويب كاملة من المحادثة",
+      "summary": "تتيح ميزة Build Live Apps الجديدة في Cursor لعميله الذكي بناء تطبيق ويب كامل بقاعدة بيانات ونظام تسجيل دخول، ثم نشره عبر رابط قابل للمشاركة.",
+      "details": "لم يعد محرر الأكواد Cursor يبني تطبيقات تجريبية تعمل محليًا فقط، بل أصبح قادرًا على بناء ونشر تطبيقات ويب كاملة. يكفي بدء عميل سحابي (cloud agent) وطلب بناء تطبيق بوضوح لتفعيل ميزة Build Live Apps الجديدة.\n\nيقوم العميل الذكي ببناء هيكل التطبيق، وتجهيز قاعدة بيانات Postgres عند الحاجة، وضبط تسجيل الدخول عبر نظام تسجيل الدخول الموحّد الخاص بـCursor، وتهيئة الاستضافة تلقائيًا. وإذا احتاج التطبيق للاتصال بأنظمة خارجية مثل مستودع بيانات الشركة، يطلب العميل المفاتيح اللازمة خلال العملية.\n\nعند الانتهاء، يختار المطور نطاقًا فريدًا ليحصل على رابط مباشر يمكن لأي شخص فتحه. وتقول Cursor إن فرقًا في المبيعات والعمليات والشؤون القانونية والمالية والهندسة تستخدم الميزة فعليًا لبناء أدوات داخلية مثل تسجيل الفعاليات وتوزيع المقاعد ومواد تهيئة الموظفين الجدد."
+     },
+     "en": {
+      "title": "Cursor adds Build Live Apps, deploying full web apps from chat",
+      "summary": "Cursor's new Build Live Apps feature lets its agent scaffold a full web app with a database and authentication, then deploy it to a shareable link.",
+      "details": "Cursor's code editor can now build and publish complete web apps, not just local prototypes. Starting a cloud agent and explicitly asking it to build an app triggers the new Build Live Apps feature.\n\nThe agent scaffolds the app, provisions a Postgres database when needed, sets up authentication behind Cursor's single sign-on, and configures hosting automatically. If the app needs to connect to outside systems, such as a company data warehouse, the agent asks for the secrets it needs along the way.\n\nOnce ready, the developer picks a unique domain and gets back a live link anyone can open. Cursor says teams across sales, operations, legal, finance and engineering are already using it to build internal tools such as event registration, desk-seating assignments and new-hire onboarding guides."
+     },
+     "addedAt": "2026-11-05T21:13:17+00:00"
+    },
+    {
      "id": "meta-muse-voice-avatars",
      "date": "2026-11-05",
      "type": "product",
@@ -2080,6 +2103,28 @@
       "details": "NVIDIA added four open-weight checkpoints to its Cosmos 3 model family, all post-trained from Cosmos3-Nano, in a Hugging Face blog post published November 5.\n\n- Cosmos3-Nano-Transfer-Auto generates multi-view driving footage with varied weather, lighting and time of day, supporting up to 11 camera views including fisheye lenses.\n- Cosmos3-Nano-Sim-Auto is a causally distilled, streaming version of Transfer-Auto that produces synchronized camera and LiDAR data for driving simulation.\n- Cosmos3-Nano-Sim-Transfer turns simulator signals such as depth, segmentation and edge maps, plus a text prompt, into video.\n- Cosmos3-Nano-Sim-Bimanual predicts video from robot or camera action sequences for two-arm robots using the YAM and AgiBot platforms.\n\nNVIDIA lists the base model at 15-16 billion parameters and trained it with a four-stage recipe covering bidirectional adaptation, teacher forcing, consistency distillation and self-forcing. The models ship under NVIDIA's OpenMDW1.1 license, which allows commercial and non-commercial use."
      },
      "addedAt": "2026-11-05T20:10:13+00:00"
+    },
+    {
+     "id": "nvidia-vera-cpu-agent-throughput",
+     "date": "2026-11-05",
+     "type": "hardware",
+     "importance": 1,
+     "sourceType": "official",
+     "sourceName": "NVIDIA Blog",
+     "url": "https://blogs.nvidia.com/blog/vera-cpu-highest-throughput-fastest-agents/",
+     "originalTitle": "Vera Delivers the Best of Both Worlds: Highest Throughput and Fastest Agents",
+     "company": "NVIDIA",
+     "ar": {
+      "title": "NVIDIA: معالج Vera يوفر أعلى إنتاجية وأسرع أداء لعملاء الذكاء الاصطناعي",
+      "summary": "تقول NVIDIA إن معالجها Vera يجمع بين أسرع أداء لعملاء الذكاء الاصطناعي وأعلى سعة لكل واط، بالاستناد إلى مقارنة في مركز بيانات بقدرة 100 ميغاواط مقابل معالجات x86.",
+      "details": "لا تقتصر عملاء الذكاء الاصطناعي على توليد الإجابات، بل تبحث عن المعلومات وتستعلم قواعد البيانات وتكتب الأكواد وتنفذ إجراءات، وهذا يعني تنقّلًا مستمرًا بين الاستدلال على معالج الرسوميات والتنفيذ على المعالج المركزي في كل خطوة. تقول NVIDIA إن مراكز بيانات الذكاء الاصطناعي المحدودة بالطاقة تحتاج معالجًا مركزيًا ينفذ هذه الخطوات بسرعة وعلى نطاق واسع، دون إجبار المشغّلين على مزج معالجات x86 سريعة وأخرى كثيفة بشكل منفصل.\n\nتقول NVIDIA إن معالجها Vera يحقق الهدفين في معالج واحد. وفي مقارنة داخل مركز بيانات بقدرة 100 ميغاواط، وجدت الشركة أن Vera يتيح تشغيل 1.6 مرة أكثر من عملاء الذكاء الاصطناعي لكل واط مقارنة بأسرع معالج x86 متاح، ويشغّل العملاء بسرعة ضعف أكثر كفاءة معالج x86 من حيث الطاقة.\n\nوتضيف الشركة أن شركاء أوائل يشغّلون اختبارات شبيهة بالإنتاج يسجلون هذه المكاسب فعليًا، مع تزايد انتقال أحمال العمل القائمة على العملاء الذكية إلى مصانع الذكاء الاصطناعي المبنية على منصتها."
+     },
+     "en": {
+      "title": "NVIDIA says Vera CPU delivers highest throughput for AI agents",
+      "summary": "NVIDIA says its Vera CPU combines the fastest AI-agent performance with the highest capacity per watt, citing a 100-megawatt data-center comparison against x86 chips.",
+      "details": "AI agents don't just generate answers; they search for information, query databases, write and run code, and take action, shifting work between GPU reasoning and CPU execution at every step. NVIDIA argues that power-limited AI data centers need a CPU that handles this fast and at scale, without forcing operators to mix separate fast and dense x86 chips.\n\nNVIDIA says its Vera CPU meets both needs in one part. In a 100-megawatt data-center comparison, the company found Vera enables 1.6 times more AI agents per watt than the fastest available x86 CPU, and runs agents twice as fast as the most energy-efficient x86 CPU.\n\nNVIDIA says early partners running production-style tests are already seeing these gains, as more agentic workloads move into AI factories built on its platform."
+     },
+     "addedAt": "2026-11-05T21:13:17+00:00"
     },
     {
      "id": "openai-compute-campus-policy-blueprint",
