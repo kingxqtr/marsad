@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": "2026-11-05T02:08:51+00:00",
+ "updatedAt": "2026-11-05T03:10:02+00:00",
  "coverage": {
   "from": "2026-08-05",
   "to": "2026-11-05"
@@ -8,6 +8,27 @@
  "tabs": {
   "once-human": {
    "news": [
+    {
+     "id": "oh-meta-hotline-vol-12",
+     "date": "2026-11-05",
+     "type": "community",
+     "importance": 1,
+     "sourceType": "official",
+     "sourceName": "Once Human — Steam News",
+     "url": "https://store.steampowered.com/news/app/2139460/view/1848557880481550",
+     "originalTitle": "Meta Hotline | Hot Feedback and Optimization Progress Vol. 12",
+     "ar": {
+      "title": "Once Human: Meta Hotline الثاني عشر يقبل تحسينات للصناعة والشخصية والأقاليم",
+      "summary": "في النشرة الثانية عشرة لـMeta Hotline، أقر فريق Once Human زيادة ناتج الموديلات العامة، وعرض آخر وقت لعب في صفحة الشخصية، واستخدام الانحرافات المرتبطة أثناء التصنيع، ومعاينة لهدم المباني، بعد تنفيذ طلب تفكيك أجهزة الإقلاع والهوائيات العائمة.",
+      "details": "نشر فريق تطوير Once Human النشرة الثانية عشرة من Meta Hotline، ردًا على أكثر مقترحات لوحة التغذية الراجعة تصويتًا حتى 4 نوفمبر.\n\nنُفِّذ مقترح تفكيك أجهزة الإقلاع بالطاقة (Lift-Off Energy Devices) والهوائيات العائمة (Floating Aerogels) مع تحديث 27 أكتوبر، مما يمنح اللاعبين مساحة أكبر في الحقيبة والمستودع.\n\n- زيادة ناتج الموديلات العامة (General Mods): مقبول، وقيد التخطيط والتطوير حاليًا لتحسين طريقة الحصول عليها وكمياتها.\n- عرض آخر وقت لعب على صفحة الشخصية: مقبول، وقيد التطوير.\n- السماح باستخدام الانحرافات المرتبطة التي تملك استخدامات متبقية في خانة الانحراف الرئيسية أثناء التصنيع، دون الحاجة لنقلها خارجًا أولًا: مقبول، وقيد التطوير.\n- تحسين وضوح معلومات الحيوانات: نُفِّذ تقصير بعض النصوص في صفحة معلومات الحيوان مع تحديث 4 نوفمبر لتقليل وقت انتظار تمرير النص.\n- معاينة قبل هدم المباني لمنع الهدم العرضي: مقبول، وقيد التخطيط والتطوير، مع وعد بموعد إصدار رسمي قريبًا."
+     },
+     "en": {
+      "title": "Once Human's 12th Meta Hotline accepts crafting, profile and building fixes",
+      "summary": "Once Human's 12th Meta Hotline accepts a General Mod output boost, a last-played-time display on the character page, using bound Deviations during synthesis, and a building-demolition preview, after shipping a dismantle request for Lift-Off Energy Devices.",
+      "details": "Once Human's development team published the 12th Meta Hotline, responding to the top requests ranked on the Feedback Platform's hot charts as of November 4.\n\nA request to dismantle Lift-Off Energy Devices and Floating Aerogels shipped with the October 27 update, freeing up backpack and depot space.\n\n- Increase General Mod output: accepted, currently in planning and development to improve how Mods are obtained and their quantities.\n- Display last-played time on the Character page: accepted, in development.\n- Allow bound Deviations with remaining uses in the main Deviation slot during synthesis, without transferring them out first: accepted, in development.\n- Improve animal-information readability: shortened some on-screen text with the November 4 update to cut scrolling wait time.\n- Preview for building demolition, to prevent accidental teardown: accepted, in planning and development, with an official release date to be announced."
+     },
+     "addedAt": "2026-11-05T03:10:02+00:00"
+    },
     {
      "id": "oh-version-3-1-2-nailoong-crossover",
      "date": "2026-11-04",
