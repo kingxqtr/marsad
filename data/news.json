@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": "2026-11-05T19:11:35+00:00",
+ "updatedAt": "2026-11-05T20:10:13+00:00",
  "coverage": {
   "from": "2026-08-05",
   "to": "2026-11-05"
@@ -2058,6 +2058,28 @@
       "details": "Gradium published Phonon TTS on Hugging Face, a pair of compact text-to-speech models that run fully on-device with no server connection needed. Phonon 31m handles English only and ships under the Apache 2.0 license, including for commercial use; Phonon 40m adds French, German, Spanish and Portuguese under a non-commercial license.\n\nBoth models are based on the Pocket TTS architecture and use flow matching to generate audio, with more than 100 built-in voices and support for custom voices via cloning or Gradium Studio's voice design tools. They run on phones, laptops, single-board computers and browsers, through a new ptts inference framework and a Hugging Face Transformers integration.\n\nOn Hugging Face's Open TTS Leaderboard, the models rank first for German and Spanish intelligibility, placed top three in every language tested, and lead on CPU streaming latency: a 95th-percentile time-to-first-audio of 28ms (31m) and 38ms (40m), versus 165ms for Pocket TTS. Gradium says the models passed 200,000 downloads in their first two weeks."
      },
      "addedAt": "2026-11-05T11:14:31+00:00"
+    },
+    {
+     "id": "nvidia-cosmos3-nano-open-models",
+     "date": "2026-11-05",
+     "type": "model",
+     "importance": 1,
+     "sourceType": "official",
+     "sourceName": "Hugging Face Blog (NVIDIA)",
+     "url": "https://huggingface.co/blog/nvidia/cosmos-interactive-world-simulation",
+     "originalTitle": "New NVIDIA Cosmos 3 Open Models for Interactive World Simulation",
+     "company": "NVIDIA",
+     "ar": {
+      "title": "NVIDIA تطرح أربعة نماذج مفتوحة من Cosmos 3 Nano لمحاكاة العالم",
+      "summary": "نشرت NVIDIA أربعة نماذج مفتوحة الأوزان من عائلة Cosmos 3 Nano عبر Hugging Face، لتوليد مشاهد قيادة، وبث بيانات LiDAR، وتحويل إشارات المحاكاة إلى فيديو، والتنبؤ بحركة روبوتات ثنائية الذراع، بترخيص OpenMDW1.1.",
+      "details": "أضافت NVIDIA أربعة نماذج مفتوحة الأوزان إلى عائلة Cosmos 3، وجميعها نسخ مدرَّبة إضافيًا من Cosmos3-Nano، في منشور على مدونة Hugging Face بتاريخ 5 نوفمبر.\n\n- يولّد Cosmos3-Nano-Transfer-Auto لقطات قيادة متعددة الزوايا بتغيّرات في الطقس والإضاءة والوقت، ويدعم حتى 11 كاميرا بما فيها عدسات fisheye.\n- يُعد Cosmos3-Nano-Sim-Auto نسخة مُقطَّرة سببيًا وقابلة للبث من Transfer-Auto، وتولّد بيانات كاميرا وLiDAR متزامنة لمحاكاة القيادة.\n- يحوّل Cosmos3-Nano-Sim-Transfer إشارات المحاكي مثل العمق والتجزيء وحواف الصور، مع وصف نصي، إلى فيديو.\n- يتنبأ Cosmos3-Nano-Sim-Bimanual بالفيديو من تسلسلات حركة الروبوت أو الكاميرا لروبوتات ثنائية الذراع من طرازي YAM وAgiBot.\n\nتذكر NVIDIA أن النموذج الأساسي يضم ما بين 15 و16 مليار معلمة، وتم تدريبه بخطة من أربع مراحل تشمل التكيّف ثنائي الاتجاه، والتعليم بالإكراه، والتقطير بالاتساق، والتعليم الذاتي. وتصدر النماذج بترخيص NVIDIA الخاص OpenMDW1.1 الذي يسمح بالاستخدام التجاري وغير التجاري."
+     },
+     "en": {
+      "title": "NVIDIA releases four open Cosmos 3 Nano models for world simulation",
+      "summary": "NVIDIA published four open-weight Cosmos 3 Nano checkpoints on Hugging Face for driving-scene generation, LiDAR streaming, simulator-to-video translation and two-arm robot video prediction, under the OpenMDW1.1 license.",
+      "details": "NVIDIA added four open-weight checkpoints to its Cosmos 3 model family, all post-trained from Cosmos3-Nano, in a Hugging Face blog post published November 5.\n\n- Cosmos3-Nano-Transfer-Auto generates multi-view driving footage with varied weather, lighting and time of day, supporting up to 11 camera views including fisheye lenses.\n- Cosmos3-Nano-Sim-Auto is a causally distilled, streaming version of Transfer-Auto that produces synchronized camera and LiDAR data for driving simulation.\n- Cosmos3-Nano-Sim-Transfer turns simulator signals such as depth, segmentation and edge maps, plus a text prompt, into video.\n- Cosmos3-Nano-Sim-Bimanual predicts video from robot or camera action sequences for two-arm robots using the YAM and AgiBot platforms.\n\nNVIDIA lists the base model at 15-16 billion parameters and trained it with a four-stage recipe covering bidirectional adaptation, teacher forcing, consistency distillation and self-forcing. The models ship under NVIDIA's OpenMDW1.1 license, which allows commercial and non-commercial use."
+     },
+     "addedAt": "2026-11-05T20:10:13+00:00"
     },
     {
      "id": "openai-compute-campus-policy-blueprint",

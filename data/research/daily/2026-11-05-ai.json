@@ -173,6 +173,27 @@
         "summary": "Meta is rolling out real-time voice conversations and expressive avatars in the Muse app on mobile, web and Mac, starting in the US.",
         "details": "Meta announced it is rolling out real-time voice conversations with Muse, its personal AI agent, after previewing the feature at Connect 2026.\n\nThe feature is live now in the Muse app on mobile, web and Mac, starting in the US; tapping the phone icon opens a live conversation. Meta says voice is coming soon to AI Glasses and the Muse Charm wearable.\n\nAs Muse speaks, its avatar reacts with expressions and gestures matched to the conversation's tone. Users can choose between voice only, the avatar beside the conversation, or a full-screen view, and can interrupt mid-response.\n\nMeta pitches the feature for thinking out loud while planning, rehearsing presentations or interviews, and for handing Muse tasks hands-free."
       }
+    },
+    {
+      "id": "nvidia-cosmos3-nano-open-models",
+      "date": "2026-11-05",
+      "type": "model",
+      "importance": 1,
+      "sourceType": "official",
+      "sourceName": "Hugging Face Blog (NVIDIA)",
+      "url": "https://huggingface.co/blog/nvidia/cosmos-interactive-world-simulation",
+      "originalTitle": "New NVIDIA Cosmos 3 Open Models for Interactive World Simulation",
+      "company": "NVIDIA",
+      "ar": {
+        "title": "NVIDIA تطرح أربعة نماذج مفتوحة من Cosmos 3 Nano لمحاكاة العالم",
+        "summary": "نشرت NVIDIA أربعة نماذج مفتوحة الأوزان من عائلة Cosmos 3 Nano عبر Hugging Face، لتوليد مشاهد قيادة، وبث بيانات LiDAR، وتحويل إشارات المحاكاة إلى فيديو، والتنبؤ بحركة روبوتات ثنائية الذراع، بترخيص OpenMDW1.1.",
+        "details": "أضافت NVIDIA أربعة نماذج مفتوحة الأوزان إلى عائلة Cosmos 3، وجميعها نسخ مدرَّبة إضافيًا من Cosmos3-Nano، في منشور على مدونة Hugging Face بتاريخ 5 نوفمبر.\n\n- يولّد Cosmos3-Nano-Transfer-Auto لقطات قيادة متعددة الزوايا بتغيّرات في الطقس والإضاءة والوقت، ويدعم حتى 11 كاميرا بما فيها عدسات fisheye.\n- يُعد Cosmos3-Nano-Sim-Auto نسخة مُقطَّرة سببيًا وقابلة للبث من Transfer-Auto، وتولّد بيانات كاميرا وLiDAR متزامنة لمحاكاة القيادة.\n- يحوّل Cosmos3-Nano-Sim-Transfer إشارات المحاكي مثل العمق والتجزيء وحواف الصور، مع وصف نصي، إلى فيديو.\n- يتنبأ Cosmos3-Nano-Sim-Bimanual بالفيديو من تسلسلات حركة الروبوت أو الكاميرا لروبوتات ثنائية الذراع من طرازي YAM وAgiBot.\n\nتذكر NVIDIA أن النموذج الأساسي يضم ما بين 15 و16 مليار معلمة، وتم تدريبه بخطة من أربع مراحل تشمل التكيّف ثنائي الاتجاه، والتعليم بالإكراه، والتقطير بالاتساق، والتعليم الذاتي. وتصدر النماذج بترخيص NVIDIA الخاص OpenMDW1.1 الذي يسمح بالاستخدام التجاري وغير التجاري."
+      },
+      "en": {
+        "title": "NVIDIA releases four open Cosmos 3 Nano models for world simulation",
+        "summary": "NVIDIA published four open-weight Cosmos 3 Nano checkpoints on Hugging Face for driving-scene generation, LiDAR streaming, simulator-to-video translation and two-arm robot video prediction, under the OpenMDW1.1 license.",
+        "details": "NVIDIA added four open-weight checkpoints to its Cosmos 3 model family, all post-trained from Cosmos3-Nano, in a Hugging Face blog post published November 5.\n\n- Cosmos3-Nano-Transfer-Auto generates multi-view driving footage with varied weather, lighting and time of day, supporting up to 11 camera views including fisheye lenses.\n- Cosmos3-Nano-Sim-Auto is a causally distilled, streaming version of Transfer-Auto that produces synchronized camera and LiDAR data for driving simulation.\n- Cosmos3-Nano-Sim-Transfer turns simulator signals such as depth, segmentation and edge maps, plus a text prompt, into video.\n- Cosmos3-Nano-Sim-Bimanual predicts video from robot or camera action sequences for two-arm robots using the YAM and AgiBot platforms.\n\nNVIDIA lists the base model at 15-16 billion parameters and trained it with a four-stage recipe covering bidirectional adaptation, teacher forcing, consistency distillation and self-forcing. The models ship under NVIDIA's OpenMDW1.1 license, which allows commercial and non-commercial use."
+      }
     }
   ],
   "upcoming": [],
