@@ -108,6 +108,28 @@
         "summary": "OpenAI introduced a National Community Compact and a Compute Campus Policy Blueprint, outlining commitments to local communities and policy recommendations for AI infrastructure buildouts.",
         "details": "OpenAI published a policy post introducing two initiatives tied to its data center buildouts, which the company increasingly calls \"compute campuses.\" The National Community Compact sets out commitments to the communities that host these facilities, including protecting local resources such as water and electricity and creating local jobs.\n\nThe accompanying Compute Campus Policy Blueprint lays out recommendations for how governments and companies should plan AI infrastructure responsibly. The move continues OpenAI's push, reported since early November, to rebrand data centers as \"compute campuses\" and to offer communities a formal say in how projects are built, following earlier commitments such as a pledge that Stargate campuses would not raise local electricity prices."
       }
+    },
+    {
+      "id": "google-gemini-omni-1-2-flash",
+      "date": "2026-11-05",
+      "type": "media",
+      "importance": 2,
+      "sourceType": "official",
+      "sourceName": "Google Blog",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
+      "originalTitle": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
+      "company": "Google",
+      "tool": "Gemini Omni 1.2 Flash",
+      "ar": {
+        "title": "Google تطرح Gemini Omni 1.2 Flash لتوليد فيديو أطول وأرخص",
+        "summary": "أطلقت Google نموذج Gemini Omni 1.2 Flash لتوليد الفيديو، برفع مدة اللقطات إلى 15 ثانية وخفض السعر 30% عن النسخة السابقة.",
+        "details": "طرحت Google نموذج Gemini Omni 1.2 Flash لتوليد الفيديو، وأصبح متاحًا بشكل عام عبر Gemini API وGoogle Cloud. يرفع النموذج مدة اللقطة الواحدة إلى 15 ثانية كحد أقصى (بزيادة من 10 ثوانٍ في نسخة 1.1)، مع إمكانية ضبط المدة بخطوات ثانية واحدة بين 3 و15 ثانية.\n\nيقبل النموذج صور شخصيات ومنتجات وأنماط مرجعية، ولقطات حركة قصيرة تصل إلى 3 ثوانٍ، ومقتطفات صوتية، ويحافظ على ثبات هذه التفاصيل طوال اللقطة مع تقليل التشوه بين الإطارات. كما يتيح تعديل اللقطات عبر محادثة متعددة الخطوات (مثل تغيير منتج أو خلفية أو نسبة العرض) دون إعادة التوليد من الصفر، بالإضافة إلى حوار أكثر طبيعية وتزامن أفضل للشفاه وتحكم أدق بحركة الكاميرا.\n\nسعر النموذج أقل بنسبة 30% من نسخة Omni 1.1، عند 0.07 دولار للثانية بدقة 720p. ويتوفر النموذج أيضًا في تطبيقي Flow وGoogle Vids، وفي تطبيق Gemini لمشتركي Google AI Ultra، وفي Google Ads، مع وضع علامة مائية غير مرئية SynthID على جميع المخرجات."
+      },
+      "en": {
+        "title": "Google launches Gemini Omni 1.2 Flash with longer, cheaper video clips",
+        "summary": "Google released Gemini Omni 1.2 Flash, a video generation model that extends clips to 15 seconds and cuts pricing 30% versus the prior version.",
+        "details": "Google rolled out Gemini Omni 1.2 Flash, now generally available on the Gemini API and Google Cloud. The model extends native video generation to a maximum of 15 seconds, up from 10 seconds in Omni 1.1, adjustable in one-second steps from 3 to 15 seconds.\n\nIt accepts character, product and style reference images, short motion clips up to 3 seconds, and audio cues, keeping those details consistent across the clip while reducing drift or morphing between frames. Clips can also be refined over multiple conversational turns, such as swapping a product, background or aspect ratio, without regenerating from scratch, alongside more natural dialogue, clearer lip-sync and better camera control.\n\nPricing is 30% lower than Omni 1.1, at $0.07 per second for 720p video. The model is also available in Google's Flow and Google Vids apps, in the Gemini app for Google AI Ultra subscribers, and in Google Ads, with an imperceptible SynthID watermark applied to all outputs."
+      }
     }
   ],
   "upcoming": [],
