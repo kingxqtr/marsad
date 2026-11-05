@@ -1,9 +1,9 @@
 {
  "version": 1,
- "updatedAt": "2026-11-04T23:13:13+00:00",
+ "updatedAt": "2026-11-05T00:10:27+00:00",
  "coverage": {
-  "from": "2026-08-04",
-  "to": "2026-11-04"
+  "from": "2026-08-05",
+  "to": "2026-11-05"
  },
  "tabs": {
   "once-human": {
@@ -997,6 +997,27 @@
   },
   "star-citizen": {
    "news": [
+    {
+     "id": "sc-monthly-report-october-2026",
+     "date": "2026-11-04",
+     "type": "development",
+     "importance": 1,
+     "sourceType": "official",
+     "sourceName": "RSI Comm-Link",
+     "url": "https://robertsspaceindustries.com/comm-link/transmission/21432-Star-Citizen-Monthly-Report-October-2026",
+     "originalTitle": "Star Citizen Monthly Report: October 2026",
+     "ar": {
+      "title": "تقرير Star Citizen الشهري: أكتوبر 2026",
+      "summary": "نشرت Cloud Imperium Games تقريرها الشهري عن تطوير Star Citizen لشهر أكتوبر 2026، موضحة تقدم فرقها.",
+      "details": "نشرت Cloud Imperium Games على RSI Comm-Link تقريرها الشهري عن تطوير Star Citizen الخاص بشهر أكتوبر 2026.\n\nيستعرض التقرير، كعادته، تقدم الفرق المختلفة خلال الشهر عبر مجالات منها المواقع والشخصيات وسلوكيات الذكاء الاصطناعي داخل اللعبة والتقنية الخلفية (backend)، تمهيدًا للإصدارات الحالية والمقبلة.\n\nلم تُنشر تفاصيل محددة عن ميزات بعينها في المعاينة المتاحة من الصفحة الرسمية."
+     },
+     "en": {
+      "title": "Star Citizen Monthly Report: October 2026 published",
+      "summary": "Cloud Imperium Games posted its October 2026 development report, covering progress across locations, characters, AI behaviors and backend technology.",
+      "details": "Cloud Imperium Games published its regular monthly development report for Star Citizen, covering October 2026, on RSI Comm-Link.\n\nAs with past editions, the report rounds up progress made by different teams during the month across areas including locations, characters, in-game AI behaviors, and backend technology, ahead of current and upcoming patch releases.\n\nThe official page's own description did not list specific individual features beyond these general categories."
+     },
+     "addedAt": "2026-11-04T23:59:59+00:00"
+    },
     {
      "id": "sc-alpha-4-10-3-ptu-vanduul-incursion",
      "date": "2026-11-02",
