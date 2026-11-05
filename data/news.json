@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": "2026-11-05T18:08:58+00:00",
+ "updatedAt": "2026-11-05T19:11:35+00:00",
  "coverage": {
   "from": "2026-08-05",
   "to": "2026-11-05"
@@ -1990,6 +1990,51 @@
       "details": "Google rolled out Gemini Omni 1.2 Flash, now generally available on the Gemini API and Google Cloud. The model extends native video generation to a maximum of 15 seconds, up from 10 seconds in Omni 1.1, adjustable in one-second steps from 3 to 15 seconds.\n\nIt accepts character, product and style reference images, short motion clips up to 3 seconds, and audio cues, keeping those details consistent across the clip while reducing drift or morphing between frames. Clips can also be refined over multiple conversational turns, such as swapping a product, background or aspect ratio, without regenerating from scratch, alongside more natural dialogue, clearer lip-sync and better camera control.\n\nPricing is 30% lower than Omni 1.1, at $0.07 per second for 720p video. The model is also available in Google's Flow and Google Vids apps, in the Gemini app for Google AI Ultra subscribers, and in Google Ads, with an imperceptible SynthID watermark applied to all outputs."
      },
      "addedAt": "2026-11-05T17:10:14+00:00"
+    },
+    {
+     "id": "meta-muse-voice-avatars",
+     "date": "2026-11-05",
+     "type": "product",
+     "importance": 2,
+     "sourceType": "official",
+     "sourceName": "Meta Newsroom",
+     "url": "https://about.fb.com/news/2026/11/introducing-muse-ai-voice-expressive-avatars/",
+     "originalTitle": "Give Your Muse a Voice",
+     "company": "Meta",
+     "tool": "Muse",
+     "ar": {
+      "title": "Meta تطرح محادثات صوتية فورية وصوراً رمزية تعبيرية لمساعدها Muse",
+      "summary": "بدأت Meta بإطلاق محادثات صوتية فورية وصور رمزية تعبيرية في تطبيق Muse على الهاتف والويب وMac، بدءاً من الولايات المتحدة.",
+      "details": "أعلنت Meta طرح المحادثات الصوتية الفورية مع Muse، مساعدها الشخصي بالذكاء الاصطناعي، بعد تقديمها أول مرة في مؤتمر Connect 2026.\n\nتعمل الميزة الآن في تطبيق Muse على الهاتف والويب وأجهزة Mac، بدءاً من الولايات المتحدة؛ وبالنقر على أيقونة الهاتف تبدأ محادثة مباشرة. وتقول Meta إن الصوت سيصل قريباً إلى نظارات AI Glasses وجهاز Muse Charm القابل للارتداء.\n\nوأثناء تحدث Muse، تتفاعل صورته الرمزية بتعبيرات وحركات تتماشى مع نغمة المحادثة. ويمكن للمستخدمين الاختيار بين الصوت فقط، أو ظهور الصورة الرمزية جانب المحادثة، أو العرض بملء الشاشة، مع إمكانية المقاطعة أثناء الرد.\n\nوتقدّم Meta هذه الميزة لتدوين الأفكار بصوت مرتفع أثناء التخطيط، أو التدرب على العروض والمقابلات، أو تكليف Muse بمهام دون استخدام اليدين."
+     },
+     "en": {
+      "title": "Meta rolls out real-time voice and avatars for Muse AI companion",
+      "summary": "Meta is rolling out real-time voice conversations and expressive avatars in the Muse app on mobile, web and Mac, starting in the US.",
+      "details": "Meta announced it is rolling out real-time voice conversations with Muse, its personal AI agent, after previewing the feature at Connect 2026.\n\nThe feature is live now in the Muse app on mobile, web and Mac, starting in the US; tapping the phone icon opens a live conversation. Meta says voice is coming soon to AI Glasses and the Muse Charm wearable.\n\nAs Muse speaks, its avatar reacts with expressions and gestures matched to the conversation's tone. Users can choose between voice only, the avatar beside the conversation, or a full-screen view, and can interrupt mid-response.\n\nMeta pitches the feature for thinking out loud while planning, rehearsing presentations or interviews, and for handing Muse tasks hands-free."
+     },
+     "addedAt": "2026-11-05T19:11:35+00:00"
+    },
+    {
+     "id": "openai-gpt-6-cyber-launch",
+     "date": "2026-11-05",
+     "type": "model",
+     "importance": 2,
+     "sourceType": "official",
+     "sourceName": "OpenAI News",
+     "url": "https://openai.com/index/introducing-gpt-6-cyber",
+     "originalTitle": "GPT‑6 Cyber: Advancing the frontier of aligned cybersecurity agents",
+     "company": "OpenAI",
+     "ar": {
+      "title": "OpenAI تطرح GPT-6 Cyber، نموذجاً متخصصاً في الأمن السيبراني",
+      "summary": "كشفت OpenAI عن GPT-6 Cyber، نموذج مصمم لاكتشاف الثغرات الأمنية القابلة للاستغلال وتطوير حلول لها، مع الالتزام بنطاق مصرح به.",
+      "details": "قدّمت OpenAI نموذج GPT-6 Cyber، المتخصص في تطوير عملاء أمن سيبراني متوافقين مع القيم المحددة.\n\nصُمم النموذج لاكتشاف الثغرات الأمنية القابلة للاستغلال في الأكواد والأنظمة، والمساعدة في تطوير حلول لها، مع الالتزام بالعمل ضمن نطاق مصرح به بدلاً من كونه أداة هجومية مفتوحة.\n\nيأتي الإصدار بعد سلسلة من النماذج المتخصصة بالأمن السيبراني التي أطلقتها OpenAI هذا العام، بما فيها GPT-5.5 Cyber الذي منحت الشركة وكالة NASK البولندية وصولاً موثوقاً إليه في أكتوبر."
+     },
+     "en": {
+      "title": "OpenAI introduces GPT-6 Cyber, a cybersecurity-focused model",
+      "summary": "OpenAI unveiled GPT-6 Cyber, a model built to find exploitable vulnerabilities and develop fixes, trained to stay within an authorized scope.",
+      "details": "OpenAI introduced GPT-6 Cyber, a specialized model for advancing aligned cybersecurity agents.\n\nThe model is designed to find exploitable vulnerabilities in code and systems and help develop fixes for them, while staying within an authorized scope rather than operating as an open-ended offensive tool.\n\nThe release follows a series of cyber-focused models from OpenAI this year, including GPT-5.5 Cyber, which the company gave trusted access to Poland's NASK cybersecurity agency in October."
+     },
+     "addedAt": "2026-11-05T19:11:35+00:00"
     },
     {
      "id": "gradium-phonon-tts-on-device",
