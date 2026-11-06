@@ -1,6 +1,25 @@
 {
- "updatedAt": "2026-11-06T17:32:02+00:00",
+ "updatedAt": "2026-11-06T22:21:14+00:00",
  "items": [
+  {
+   "id": "auto-405912337fcd",
+   "tab": "ai",
+   "date": "2026-11-06",
+   "publishedAt": "2026-11-06T13:35:27+00:00",
+   "type": "product",
+   "importance": 1,
+   "sourceType": "community",
+   "sourceName": "Hacker News",
+   "url": "https://news.ycombinator.com/item?id=50392118",
+   "originalTitle": "Gemini Omni 1.2 Flash",
+   "en": {
+    "title": "Gemini Omni 1.2 Flash",
+    "summary": "Community discussion on Hacker News (272 points, 208 comments).",
+    "details": "Community discussion on Hacker News (272 points, 208 comments)."
+   },
+   "translated": false,
+   "fetchedAt": "2026-11-06T22:21:09+00:00"
+  },
   {
    "id": "auto-e534c0bce9c2",
    "tab": "ai",
