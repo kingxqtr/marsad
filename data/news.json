@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": "2026-11-06T13:11:34+00:00",
+ "updatedAt": "2026-11-06T14:13:31+00:00",
  "coverage": {
   "from": "2026-08-06",
   "to": "2026-11-06"
@@ -1905,6 +1905,28 @@
   },
   "ai": {
    "news": [
+    {
+     "id": "ai2-toyblocks-robot-learning",
+     "date": "2026-11-06",
+     "type": "model",
+     "importance": 2,
+     "sourceType": "official",
+     "sourceName": "Hugging Face Blog",
+     "url": "https://huggingface.co/blog/allenai/toyblocks",
+     "originalTitle": "ToyBlocks: A controlled world for robot learning and evaluation",
+     "company": "Ai2",
+     "ar": {
+      "title": "Ai2 تطلق ToyBlocks بيئة محاكاة مفتوحة لتعلّم الروبوتات وتقييمها",
+      "summary": "أصدر معهد Ai2 بيئة محاكاة مفتوحة تسمى ToyBlocks لتدريب أذرع روبوتية وتقييمها، مع نماذج مدرّبة ومجموعة بيانات تضم أكثر من 85 ألف عملية استعراض طويلة.",
+      "details": "أطلق معهد الذكاء الاصطناعي Ai2 بيئة محاكاة مفتوحة باسم ToyBlocks، وهي أول ما تسميه الشركة \"عالم أساس\" (FoundationWorld)، بيئة مضبوطة تحاكي ذراعًا روبوتية وقطع مكعبات على طاولة لدراسة كيفية تعلّم الروبوتات. تُوَلِّد البيئة المهام والعروض التوضيحية تلقائيًا، متجاوزة الحاجة إلى التحكم اليدوي البطيء، وتقيس سلوك الروبوت بمرور الوقت. تحمل المكعبات حروفًا وصورًا تتيح مهام بحث وفرز وترتيب.\n\nتُدرَّب المهارات بالتعلم المعزز داخل بيئة Isaac Lab من NVIDIA، ويجمعها مخطط حركة ومهام في عروض متكاملة، بتوليد يصل إلى 24 مرة سرعة الزمن الحقيقي على معالج رسوميات واحد. أصدرت Ai2 أصول المحاكاة ومولدات المهام ونموذجين مدرَّبين (أحدهما قائم على Molmo 2 والآخر على ManiFlow)، إلى جانب أكواد التدريب والتقييم ومجموعة بيانات من 85,336 عرضًا طويل المدى (نحو 1,600 ساعة و144 مليون إطار).\n\n- في اختبارات الانتقال من المحاكاة إلى الواقع، كان أداء ManiFlow للمهارة الواحدة متقاربًا بين المحاكاة (80%) والعالم الحقيقي (81.1%)، بينما نجح النظام الهرمي الذي يجمع Molmo 2 وManiFlow في 55.5% من الحلقات المحاكاة و50% من حلقات العالم الحقيقي.\n- من بين ثلاثة نماذج عالم اختُبرت، كان Wan 2.2 الأدق في التنبؤ بحركة المكعبات ونتائج المهام.\n- وعند ترك عميل ذكي يكتب وصف المهارات بنفسه، ارتفع معدل النجاح من 36% (مع وصف كتبه خبراء) إلى 63%.\n\nتقول Ai2 إنها تخطط لإصدار ثانٍ أكبر خلال أسابيع قليلة، مع مهارات إضافية وتقييم أوسع، وتتجه مستقبلًا نحو التحكم بيدين وأيدٍ روبوتية دقيقة واللعب بأكوام مكعبات غير منظمة."
+     },
+     "en": {
+      "title": "Ai2 releases ToyBlocks, an open simulation world for robot learning",
+      "summary": "Ai2 released ToyBlocks, an open robot-arm simulation framework for training and evaluating robots, with trained models and a dataset of over 85,000 long-horizon demonstrations.",
+      "details": "The Allen Institute for AI (Ai2) released ToyBlocks, an open simulation framework it calls the first \"FoundationWorld\": a controlled environment built around a robot arm and blocks on a tabletop for studying how robots learn. It automatically generates tasks and demonstrations, avoiding slow manual teleoperation, and measures robot behavior over time. The blocks carry letters and pictures, enabling search, sort and arrange tasks.\n\nSkills are trained with reinforcement learning in NVIDIA's Isaac Lab, then sequenced into demonstrations by a task-and-motion planner, generating data up to 24 times real-time on a single GPU. Ai2 released the simulation assets, task generators, two trained models (one based on Molmo 2, one on ManiFlow), training and evaluation code, and a dataset of 85,336 long-horizon demonstrations (about 1,600 hours, 144 million frames).\n\n- In sim-to-real tests, ManiFlow's single-skill success was similar in simulation (80%) and the real world (81.1%), while the hierarchical Molmo 2 + ManiFlow system succeeded in 55.5% of simulated episodes versus 50% in the real world.\n- Among three world models tested, Wan 2.2 predicted block motion and task outcomes most accurately.\n- Letting an agent write its own skill descriptions raised task success from 36% (with expert-written descriptions) to 63%.\n\nAi2 says a second, larger release is planned within a few weeks with more skills and fuller benchmarking, with future work aimed at bimanual manipulation, dexterous hands and unstructured block piles."
+     },
+     "addedAt": "2026-11-06T14:13:31+00:00"
+    },
     {
      "id": "hf-open-asr-leaderboard-egyptian-nigerian",
      "date": "2026-11-06",
