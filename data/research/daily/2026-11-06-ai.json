@@ -114,6 +114,28 @@
     "details": "GitHub added new fields to the Copilot usage metrics API that show which users are missing client telemetry or are running IDE or extension versions below the minimums required for usage metrics.\n\nThe new per-user fields appear in enterprise and organization user reports, showing whether telemetry was received for each user on a given day, and the status of each of their IDEs and Copilot extensions against the minimum supported versions. Daily counts of affected users are also added at the report level.\n\nUsers missing telemetry still count as active, but their reports lack detail such as lines of code, feature breakdowns and model breakdowns. Common causes include outdated editors or extensions, disabled IDE telemetry, or firewalls blocking events."
    },
    "addedAt": "2026-11-06T01:10:00+00:00"
+  },
+  {
+   "id": "hf-open-asr-leaderboard-egyptian-nigerian",
+   "date": "2026-11-06",
+   "type": "model",
+   "importance": 1,
+   "sourceType": "official",
+   "sourceName": "Hugging Face Blog",
+   "url": "https://huggingface.co/blog/open-asr-leaderboard-liva",
+   "originalTitle": "Egyptian and Nigerian English join the Open ASR Leaderboard",
+   "company": "Hugging Face",
+   "ar": {
+    "title": "Hugging Face تضيف اللهجتين المصرية والنيجيرية إلى Open ASR Leaderboard",
+    "summary": "تعاونت Hugging Face مع شركة Liva AI لإضافة مجموعتي بيانات صوتية خاصة باللهجتين المصرية والنيجيرية إلى لوحة تقييم التعرف على الكلام Open ASR Leaderboard.",
+    "details": "أضافت Hugging Face مجموعتي بيانات خاصتين جديدتين إلى لوحة Open ASR Leaderboard، وهي مساحة على Hugging Face تقارن أداء نماذج تحويل الكلام إلى نص، بالتعاون مع شركة بيانات الصوت Liva AI.\n\nتغطي المجموعتان نحو ساعة وربع من الكلام العفوي الحواري بلهجة مصرية، وساعة ونصف بلهجة نيجيرية، مع ترقيم وتشكيل للحروف وتدوين لحالات التلعثم. وبقاء البيانات خاصة وغير عامة يهدف إلى منع ضبط النماذج خصيصًا لتفوق في هذا المعيار بعينه.\n\nكما أعادت اللوحة تصنيف اللهجات إلى دائرة داخلية تشمل الإنجليزية الأمريكية والبريطانية والأسترالية والكندية، ودائرة خارجية تشمل الهندية والنيجيرية والمصرية، وتعتزم Hugging Face إضافة لهجات أخرى لاحقًا."
+   },
+   "en": {
+    "title": "Hugging Face adds Egyptian and Nigerian English to ASR benchmark",
+    "summary": "Hugging Face partnered with voice-data company Liva AI to add private Egyptian- and Nigerian-accented English datasets to the Open ASR Leaderboard.",
+    "details": "Hugging Face added two new private evaluation sets to the Open ASR Leaderboard, a Hugging Face Space that ranks speech-to-text model performance, in a collaboration with voice-data company Liva AI.\n\nThe new sets cover about 1.3 hours of spontaneous, conversational Egyptian-accented English and 1.6 hours of Nigerian-accented English, both punctuated, cased and marked for disfluencies. Keeping the data private rather than public is meant to stop models from being tuned specifically to beat the benchmark.\n\nThe leaderboard now groups accents into an inner circle (US, UK, Australian and Canadian English) and an outer circle (Indian, Nigerian and Egyptian English), and Hugging Face says it plans to add more accents to the outer circle over time."
+   },
+   "addedAt": "2026-11-06T11:20:00+00:00"
   }
  ],
  "upcoming": [],
