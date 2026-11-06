@@ -158,6 +158,51 @@
     "details": "The Allen Institute for AI (Ai2) released ToyBlocks, an open simulation framework it calls the first \"FoundationWorld\": a controlled environment built around a robot arm and blocks on a tabletop for studying how robots learn. It automatically generates tasks and demonstrations, avoiding slow manual teleoperation, and measures robot behavior over time. The blocks carry letters and pictures, enabling search, sort and arrange tasks.\n\nSkills are trained with reinforcement learning in NVIDIA's Isaac Lab, then sequenced into demonstrations by a task-and-motion planner, generating data up to 24 times real-time on a single GPU. Ai2 released the simulation assets, task generators, two trained models (one based on Molmo 2, one on ManiFlow), training and evaluation code, and a dataset of 85,336 long-horizon demonstrations (about 1,600 hours, 144 million frames).\n\n- In sim-to-real tests, ManiFlow's single-skill success was similar in simulation (80%) and the real world (81.1%), while the hierarchical Molmo 2 + ManiFlow system succeeded in 55.5% of simulated episodes versus 50% in the real world.\n- Among three world models tested, Wan 2.2 predicted block motion and task outcomes most accurately.\n- Letting an agent write its own skill descriptions raised task success from 36% (with expert-written descriptions) to 63%.\n\nAi2 says a second, larger release is planned within a few weeks with more skills and fuller benchmarking, with future work aimed at bimanual manipulation, dexterous hands and unstructured block piles."
    },
    "addedAt": "2026-11-06T14:15:00+00:00"
+  },
+  {
+   "id": "cursor-voice-chat-agents",
+   "date": "2026-11-06",
+   "type": "coding",
+   "importance": 2,
+   "sourceType": "official",
+   "sourceName": "Cursor Changelog",
+   "url": "https://cursor.com/changelog/voice-chat",
+   "originalTitle": "Voice Chat with Agents",
+   "company": "Anysphere",
+   "tool": "Cursor",
+   "ar": {
+    "title": "Cursor تطلق محادثة صوتية مباشرة مع العملاء الذكية",
+    "summary": "أضافت Cursor محادثة صوتية فورية مع عملائها الذكية، تتيح وصف التغييرات بصوتك وسؤال العميل عن تقدّمه وسماع ردوده أثناء العمل.",
+    "details": "أطلقت Cursor ميزة محادثة صوتية فورية مع عملائها الذكية، تختلف عن ميزة الإملاء (dictation) السابقة التي كانت تحوّل الكلام إلى نص فقط في خانة المحادثة. تبدأ المكالمة بالضغط على زر الموجة الصوتية \"Start voice chat\" الذي يظهر بديلًا عن زر الإرسال عندما يكون العميل خاملًا وخانة المحادثة فارغة.\n\nيستجيب العميل الصوتي للمستخدم ويحوّل مهام الكتابة البرمجية إلى العميل في المحادثة، ويمكن للمستخدم أثناء ذلك الاستمرار في الحديث؛ بالسؤال عن التغييرات في الفروقات (diff)، أو التحقق من تشغيل أمر، أو البحث في رسائل سابقة، أو التبديل بين عملاء يعملون داخل مشروع واحد. ويتحدث العميل البرمجي نفسه أيضًا بملاحظات تقدّم قصيرة وملخص مختصر عند الانتهاء.\n\nتعمل الميزة بالاستناد إلى تقنية Grok Voice، مع عدة أصوات يمكن الاختيار بينها، وتتوفر في نافذة العملاء وبيئة التطوير والموقع وتطبيق iOS، كما يمكن بدء مكالمة على آيفون بقول \"Hey Siri, call Cursor\"."
+   },
+   "en": {
+    "title": "Cursor launches realtime voice chat with coding agents",
+    "summary": "Cursor added a realtime voice call with its agents, letting users describe changes aloud, ask what an agent is doing, and hear its replies while it works.",
+    "details": "Cursor launched a realtime voice chat with its agents, distinct from its earlier dictation feature, which only converted speech to text in the chat input. A call starts by clicking the waveform \"Start voice chat\" button that appears in place of Send when the agent is idle and the chat input is empty.\n\nThe voice agent responds to the user and hands coding tasks to the agent in the chat; while that agent works, the user can keep talking, asking about changes in a diff, checking on a run, searching earlier messages, or switching between agents working in the same project. The coding agent itself also speaks short progress notes and a brief summary when it finishes.\n\nThe feature runs on Grok Voice, with a choice of several voices, and is available in the Agents Window, the IDE, the web app and Cursor for iOS; on iPhone, a call can also be started by saying \"Hey Siri, call Cursor.\""
+   },
+   "addedAt": "2026-11-06T20:30:00+00:00"
+  },
+  {
+   "id": "openai-biobasicsbench",
+   "date": "2026-11-06",
+   "type": "model",
+   "importance": 2,
+   "sourceType": "official",
+   "sourceName": "OpenAI News",
+   "url": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science",
+   "originalTitle": "Measuring how AI agents handle everyday wet-lab science",
+   "company": "OpenAI",
+   "ar": {
+    "title": "OpenAI تطلق BioBasicsBench لقياس أداء العملاء الذكية في مهام المختبرات الرطبة",
+    "summary": "قدّمت OpenAI معيار BioBasicsBench المكوّن من 100 مهمة لقياس قدرة العملاء الذكية على تفسير بيانات تجريبية خام والتعامل مع أعمال المختبرات الرطبة اليومية.",
+    "details": "قدّمت OpenAI معيارًا جديدًا باسم BioBasicsBench يضم 100 مهمة لتقييم كيفية تعامل عملاء الذكاء الاصطناعي مع أعمال المختبرات الرطبة الاعتيادية في علم الأحياء.\n\nيركّز المعيار على قدرة العملاء على تفسير بيانات تجريبية خام، وهي مهارة أساسية في العمل المعملي اليومي تختلف عن حل المشكلات النظرية البحتة، وذلك في إطار سلسلة من الأدوات التي تعمل عليها OpenAI لقياس أثر الذكاء الاصطناعي في تسريع البحث البيولوجي."
+   },
+   "en": {
+    "title": "OpenAI introduces BioBasicsBench to test agents on wet-lab science",
+    "summary": "OpenAI introduced BioBasicsBench, a 100-task benchmark measuring how well AI agents interpret raw experimental data and handle everyday wet-lab science.",
+    "details": "OpenAI introduced a new benchmark called BioBasicsBench, made up of 100 tasks that measure how AI agents handle everyday wet-lab biology work.\n\nThe benchmark focuses on how well agents interpret raw experimental data, a core skill in day-to-day lab work that differs from solving purely theoretical problems, as part of a broader set of tools OpenAI is building to measure AI's impact on accelerating biological research."
+   },
+   "addedAt": "2026-11-06T20:30:00+00:00"
   }
  ],
  "upcoming": [],
