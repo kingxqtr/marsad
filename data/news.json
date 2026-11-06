@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": "2026-11-06T00:11:21+00:00",
+ "updatedAt": "2026-11-06T01:12:24+00:00",
  "coverage": {
   "from": "2026-08-06",
   "to": "2026-11-06"
@@ -2086,6 +2086,29 @@
      "addedAt": "2026-11-05T21:13:17+00:00"
     },
     {
+     "id": "github-copilot-usage-metrics-telemetry-gaps",
+     "date": "2026-11-05",
+     "type": "coding",
+     "importance": 1,
+     "sourceType": "official",
+     "sourceName": "GitHub Changelog",
+     "url": "https://github.blog/changelog/2026-11-05-usage-metrics-api-flags-telemetry-and-version-gaps",
+     "originalTitle": "Usage metrics API flags telemetry and version gaps",
+     "company": "GitHub",
+     "tool": "GitHub Copilot",
+     "ar": {
+      "title": "واجهة مقاييس استخدام Copilot تكشف المستخدمين الذين تنقصهم بيانات التتبع",
+      "summary": "أضافت GitHub حقولًا جديدة لواجهة مقاييس استخدام Copilot تحدد المستخدمين الذين لا تصل منهم بيانات تتبع العميل أو يستخدمون إصدارات أقدم من الحد الأدنى المطلوب.",
+      "details": "أضافت GitHub حقولًا جديدة إلى واجهة مقاييس استخدام Copilot تظهر المستخدمين الذين تفوتهم بيانات تتبع العميل (client telemetry) أو يعملون بإصدارات من بيئة التطوير أو الإضافات أقل من الحد الأدنى المدعوم لمقاييس الاستخدام.\n\nتظهر الحقول الجديدة في تقارير المستخدمين على مستوى المؤسسات والمنظمات، وتوضح لكل مستخدم ما إذا وصلت بيانات تتبعه في ذلك اليوم، وحالة كل بيئة تطوير وإضافة Copilot يستخدمها مقارنة بالحد الأدنى المطلوب. كما تضاف أعداد يومية للمستخدمين المتأثرين على مستوى التقارير.\n\nيبقى هؤلاء المستخدمون مُحتسَبين كمستخدمين نشطين، لكن تقاريرهم تفقد تفاصيل مثل أسطر الكود المكتوبة وتوزيع الميزات والنماذج. ومن أسباب ذلك الشائعة الإصدارات القديمة للمحررات والإضافات، أو تعطيل تتبع بيئة التطوير، أو جدران حماية تحجب الأحداث."
+     },
+     "en": {
+      "title": "Copilot usage metrics API flags users missing telemetry or on old versions",
+      "summary": "GitHub added fields to the Copilot usage metrics API that identify users missing client telemetry or running IDE/extension versions below the required minimum.",
+      "details": "GitHub added new fields to the Copilot usage metrics API that show which users are missing client telemetry or are running IDE or extension versions below the minimums required for usage metrics.\n\nThe new per-user fields appear in enterprise and organization user reports, showing whether telemetry was received for each user on a given day, and the status of each of their IDEs and Copilot extensions against the minimum supported versions. Daily counts of affected users are also added at the report level.\n\nUsers missing telemetry still count as active, but their reports lack detail such as lines of code, feature breakdowns and model breakdowns. Common causes include outdated editors or extensions, disabled IDE telemetry, or firewalls blocking events."
+     },
+     "addedAt": "2026-11-05T23:59:59+00:00"
+    },
+    {
      "id": "openai-compute-campus-policy-blueprint",
      "date": "2026-11-05",
      "type": "policy",
@@ -2106,6 +2129,29 @@
       "details": "OpenAI published a policy post introducing two initiatives tied to its data center buildouts, which the company increasingly calls \"compute campuses.\" The National Community Compact sets out commitments to the communities that host these facilities, including protecting local resources such as water and electricity and creating local jobs.\n\nThe accompanying Compute Campus Policy Blueprint lays out recommendations for how governments and companies should plan AI infrastructure responsibly. The move continues OpenAI's push, reported since early November, to rebrand data centers as \"compute campuses\" and to offer communities a formal say in how projects are built, following earlier commitments such as a pledge that Stargate campuses would not raise local electricity prices."
      },
      "addedAt": "2026-11-05T11:14:31+00:00"
+    },
+    {
+     "id": "github-copilot-usage-metrics-addressed-rate",
+     "date": "2026-11-05",
+     "type": "coding",
+     "importance": 1,
+     "sourceType": "official",
+     "sourceName": "GitHub Changelog",
+     "url": "https://github.blog/changelog/2026-11-05-usage-metrics-api-adds-code-review-details-and-addressed-rate",
+     "originalTitle": "Usage metrics API adds code review details and addressed rate",
+     "company": "GitHub",
+     "tool": "GitHub Copilot",
+     "ar": {
+      "title": "واجهة مقاييس استخدام Copilot تضيف تفاصيل مراجعة الكود ومعدل الاستجابة",
+      "summary": "أضافت GitHub إلى تقارير مقاييس استخدام Copilot على مستوى المستودعات حقلًا جديدًا يوضح كم من ملاحظات مراجعة الكود استجاب المطورون لها.",
+      "details": "أضافت GitHub حقلًا جديدًا باسم copilot_code_review إلى تقارير مقاييس استخدام Copilot على مستوى المستودعات للمؤسسات والمنظمات، يُظهر ما يحدث لملاحظات مراجعة الكود التي يقدمها Copilot.\n\nيعرض الحقل عدد طلبات الدمج التي راجعها Copilot ودُمجت دون طلب تعديل لاحق من شخص، وعدد تعليقات المراجعة التي تصرف المطورون بناءً عليها، سواء بتطبيق التعديل أو تعديل الكود يدويًا أو الوعد بإصلاحه في طلب دمج لاحق. ويمكن قسمة هذا الرقم على إجمالي التعليقات المقيَّمة لحساب معدل الاستجابة لكل مستودع.\n\nكما تضيف البيانات تصنيفًا للتعليقات حسب الخطورة ومستوى المراجعة ونوع التعليق والتخصيص المستخدم، مثل التعليمات المخصصة أو المهارات أو خوادم MCP."
+     },
+     "en": {
+      "title": "Copilot usage metrics API adds code review detail and addressed rate",
+      "summary": "GitHub added a copilot_code_review field to repository-level Copilot usage metrics reports showing how many review comments developers acted on.",
+      "details": "GitHub added a new copilot_code_review object to enterprise and organization repository-level Copilot usage metrics reports, showing what happens to Copilot's code review feedback.\n\nThe field reports how many Copilot-reviewed pull requests merged without a later change request from a person, and how many review comments developers acted on, whether by applying the suggestion, editing the code, or promising a fix in a later pull request. Dividing addressed comments by evaluated comments gives an addressed rate per repository.\n\nThe data also breaks comments down by severity, review tier, comment type, and customization used, such as custom instructions, skills, or MCP servers."
+     },
+     "addedAt": "2026-11-05T23:59:59+00:00"
     },
     {
      "id": "gemini-chat-history-trains-ai-subscribers",
