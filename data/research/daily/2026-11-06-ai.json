@@ -46,6 +46,28 @@
     "details": "AI agents don't just generate answers; they search for information, query databases, write and run code, and take action, shifting work between GPU reasoning and CPU execution at every step. NVIDIA argues that power-limited AI data centers need a CPU that handles this fast and at scale, without forcing operators to mix separate fast and dense x86 chips.\n\nNVIDIA says its Vera CPU meets both needs in one part. In a 100-megawatt data-center comparison, the company found Vera enables 1.6 times more AI agents per watt than the fastest available x86 CPU, and runs agents twice as fast as the most energy-efficient x86 CPU.\n\nNVIDIA says early partners running production-style tests are already seeing these gains, as more agentic workloads move into AI factories built on its platform."
    },
    "addedAt": "2026-11-05T21:30:00+00:00"
+  },
+  {
+   "id": "nvidia-memory-full-stack-codesign",
+   "date": "2026-11-05",
+   "type": "hardware",
+   "importance": 2,
+   "sourceType": "official",
+   "sourceName": "NVIDIA Blog",
+   "url": "https://blogs.nvidia.com/blog/memory-full-stack-codesign/",
+   "originalTitle": "How NVIDIA Full-Stack Codesign Addresses AI's Memory Wall",
+   "company": "NVIDIA",
+   "ar": {
+    "title": "NVIDIA تشرح نهج تصميم الذاكرة الشامل لمواجهة أعباء الذكاء الاصطناعي",
+    "summary": "كشفت NVIDIA عن كيفية دمج معالجات GPU وCPU والشبكات والتخزين لتمديد سعة ذاكرة GPU أمام النماذج الأكبر والسياقات الأطول، مشيرة إلى زيادة تصل إلى 30 مرة في الإنتاجية لكل دولار من Blackwell Ultra إلى Vera Rubin.",
+    "details": "تصف NVIDIA في منشورها نهج \"التصميم المشترك الشامل\" لمواجهة اختناق الذاكرة في الذكاء الاصطناعي، حيث تتنافس النماذج الأكبر ونوافذ السياق الأطول والأعباء الوكيلية على سعة محدودة من ذاكرة GPU عالية النطاق الترددي (HBM).\n\nبالنسبة لأوزان النماذج، تشير الشركة إلى تنسيق NVFP4 رباعي البت المتوفر بالفعل لنماذج مثل FLUX.2 وInkling وBeam 1.0 وMeta Muse Spark وStep 5 Preview وNVIDIA Nemotron 3.5 Super VL، إلى جانب توزيع الأوزان على ما يصل إلى 72 معالج GPU ضمن نظام NVL72.\n\nأما ذاكرة التخزين المؤقت KV، فتعتمد على ضغط NVFP4 وذاكرة LPDDR في معالج Vera المرتبط بمعالجات Rubin عبر NVLink-C2C، إضافة إلى برنامج Dynamo الذي ينقل السياق غير النشط إلى تخزين CMX (بالتعاون مع شركاء مثل Dell وHPE وIBM وNetApp وWEKA) ويعيد استخدامه عبر مستويات GPU وCPU والتخزين. وللبحث المعزز بالاسترجاع، تستخدم الشركة نماذج تضمين Nemotron Retriever ومكتبة cuVS للفهرسة خارج HBM.\n\n- تقول NVIDIA إن سعة HBM لكل GPU ارتفعت بنحو 3% فقط من Blackwell Ultra إلى Vera Rubin، بينما ارتفعت الإنتاجية الوكيلية لكل دولار في معيار AgentX من SemiAnalysis بما يصل إلى 30 مرة.\n- وفي عبء عمل AgentX على نموذج DeepSeek V4 Pro، تقول الشركة إن نظام GB300 NVL72 يقدم إنتاجية لكل دولار تصل إلى 10 مرات أعلى من H200."
+   },
+   "en": {
+    "title": "NVIDIA details full-stack memory codesign for AI workloads",
+    "summary": "NVIDIA outlined how it pairs GPUs, CPUs, networking and storage to stretch GPU memory for larger models and longer contexts, citing up to 30x throughput-per-dollar gains from Blackwell Ultra to Vera Rubin.",
+    "details": "NVIDIA's blog describes a \"full-stack codesign\" approach to the AI memory bottleneck, where larger models, longer context windows and agentic workloads compete for scarce GPU high-bandwidth memory (HBM).\n\nFor model weights, NVIDIA points to 4-bit NVFP4 checkpoints, already available for models such as FLUX.2, Inkling, Beam 1.0, Meta Muse Spark, Step 5 Preview and NVIDIA Nemotron 3.5 Super VL, plus spreading weights across up to 72 GPUs in an NVL72 system.\n\nFor the KV cache, NVIDIA cites NVFP4 compression, LPDDR memory on its Vera CPU linked to Rubin GPUs over NVLink-C2C, and its Dynamo software, which offloads inactive context to CMX storage (built with partners including Dell, HPE, IBM, NetApp and WEKA) and reuses it across GPU, CPU and storage tiers. For retrieval-augmented generation, it points to Nemotron Retriever embedding models and the cuVS library for indexing outside HBM.\n\n- NVIDIA says HBM capacity per GPU rose only about 3% from Blackwell Ultra to Vera Rubin, while agentic throughput per dollar on SemiAnalysis's AgentX benchmark rose up to 30x.\n- On an AgentX DeepSeek V4 Pro workload, it says GB300 NVL72 delivers up to 10x the throughput per dollar of H200."
+   },
+   "addedAt": "2026-11-06T23:40:00+00:00"
   }
  ],
  "upcoming": [],

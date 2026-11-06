@@ -1,9 +1,9 @@
 {
  "version": 1,
- "updatedAt": "2026-11-05T23:09:42+00:00",
+ "updatedAt": "2026-11-06T00:11:21+00:00",
  "coverage": {
-  "from": "2026-08-05",
-  "to": "2026-11-05"
+  "from": "2026-08-06",
+  "to": "2026-11-06"
  },
  "tabs": {
   "once-human": {
@@ -910,27 +910,6 @@
       "details": "In the seventh Meta Hotline, based on Feedback Platform votes up to August 5, the Once Human team addressed the community's top requests.\n\n- More dungeon rewards (the most-liked request): dungeon content will be significantly reworked and brand-new dungeons will launch, with rewards redesigned to match\n- Extra Deviation Fusion pods: declined for now, to keep the current pace of Deviation evolution\n- An option to hide the Abyssal Touch outfit's tentacles: accepted, expected within two months\n- Batch removal of custom map pins: accepted, expected within six months\n- Hive voice chat: no always-on voice channel, but voice messages are coming to PC (mobile already has them and consoles will support them)\n- Skipping the Tech research animation: already delivered in the August 5 update\n\nNo release dates were given for the dungeon changes, which the team said are still being planned and tested."
      },
      "addedAt": "2026-08-06T23:59:59+00:00"
-    },
-    {
-     "id": "oh-version-3-0-3-block-adventure",
-     "date": "2026-08-05",
-     "type": "update",
-     "importance": 2,
-     "sourceType": "official",
-     "sourceName": "Once Human — Steam News",
-     "url": "https://store.steampowered.com/news/app/2139460/view/1840310314338993",
-     "originalTitle": "Version 3.0.3 Update Announcement (August 5)",
-     "ar": {
-      "title": "تحديث 3.0.3 يطلق فعالية Block Adventure وطلبات الشراء في التداول",
-      "summary": "أطلق تحديث 5 أغسطس فعالية Block Adventure حتى 23 أغسطس، وطلبات الشراء في التداول عبر الإنترنت، وتحديات شهرية في الخوادم الدائمة، وتحسينات لمنظور الشخص الأول.",
-      "details": "وصل الإصدار 3.0.3 بعد صيانة في 5 أغسطس الساعة 4:00 عصرًا بتوقيت المحيط الهادئ (2:00 فجر 6 أغسطس بتوقيت الخليج)، بحجم نحو 15.6 غيغابايت لمشغّل PC ونحو 1.2 غيغابايت على الجوال.\n\nأبرز المحتوى:\n- فعالية Block Adventure من 5 إلى 23 أغسطس: هزيمة حيوانات مكعّبة في Wish Island لفتح مواجهة الزعيم Block Wanderer مع فرصة للحصول على Deviations بأشكال مكعّبة\n- التداول عبر الإنترنت: طلبات شراء تُدفع بالبطاريات، وتقليص مدة ربط المواد المشتراة، وإتاحة عرض عناصر إضافية\n- الخوادم الدائمة: تحدٍّ شهري جديد وطريق جديد لمكافآت Mods عبر Scenario Honor\n- عودة ميزة شاشة التحميل الشخصية\n- تحسين منظور الشخص الأول: انتقالات أنعم، وإحساس أفضل بإعادة التلقيم، وتقليل الدخان والوهج عند التصويب\n- الطُعم Crankbait يمنح فرصة بين 15% و35% لصيد أسماك خاصة مثل Electric Eel\n\nودعت الملاحظات لاعبي PC والجوال إلى ربط حساباتهم قبل إطلاق نسخة المنصات في 25 أغسطس للحفاظ على تقدّمهم، وأكدت انتهاء Battle Pass الحالي مع تحديث 24 أغسطس."
-     },
-     "en": {
-      "title": "Version 3.0.3 brings Block Adventure event and buy orders for online trading",
-      "summary": "The August 5 (PT) patch launched the Block Adventure event (to Aug 23), buy orders in online trading, monthly challenges on permanent servers and first-person polish.",
-      "details": "Version 3.0.3 went live after maintenance on August 5 at 4:00 PM PT (2:00 AM on August 6, Gulf time). The PC launcher download was about 15.6 GB and mobile about 1.2 GB.\n\nHighlights:\n- Block Adventure (August 5–23): defeat \"block-ified\" animals on Wish Island to unlock a fight with the Block Wanderer boss, with a chance at blocky Morphed Deviations\n- Online trading: buy orders paid in batteries, shorter bind times on purchased materials, and more items that can be listed\n- Permanent servers: a new Monthly Challenge and a new route to Mod rewards through Scenario Honor\n- The personal loading-screen feature returned\n- First-person polish: smoother transitions, better reload feel, and less smoke and glare when aiming\n- Crankbait now gives a 15%–35% chance at special fish such as Electric Eels\n\nThe notes urged PC and mobile players to link their accounts before the console launch on August 25 so their progress would carry over, and confirmed the current Battle Pass would end with the August 24 update."
-     },
-     "addedAt": "2026-08-05T23:59:59+00:00"
     }
    ],
    "upcoming": [
@@ -1816,48 +1795,6 @@
       "details": "The Roadmap Roundup of 12 August gave the first look at Alpha 4.11, with 11 cards marked Tentative.\n\n- Nyx I: a coreless planet closest to Nyx's star, made habitable by Genesis Terraforming's experimental technology\n- Genesis Planet Tech v5: a rework of how planets are built and rendered, with emergent biomes and generation moved to the GPU\n- Starchitect: procedural placement of sectors, clusters and modular locations, plus faction-owned points of interest and a sandbox mission pack\n- Population Manager: load-balances NPCs and fits them to their surroundings\n- New gear: Kastak Arms Verdict LMG and Hellion plasma pistol, heavy combat armour and new eyebrow styles\n- Wikelo reward: an Aegis Tiburon with a unique livery\n\nTwo weeks later CIG added Nyx II and Nyx III to the same patch, and in September it moved 4.11 to Q4 2026."
      },
      "addedAt": "2026-08-12T23:59:59+00:00"
-    },
-    {
-     "id": "sc-monthly-report-july-2026",
-     "date": "2026-08-05",
-     "type": "development",
-     "importance": 2,
-     "sourceType": "official",
-     "sourceName": "RSI Comm-Link (Monthly Report)",
-     "url": "https://robertsspaceindustries.com/en/comm-link/transmission/21281-Star-Citizen-Monthly-Report-July-2026",
-     "originalTitle": "Star Citizen Monthly Report: July 2026",
-     "ar": {
-      "title": "تقرير يوليو: Drake Kraken في طريقها إلى 2027 وStingray تجتاز المراجعة النهائية",
-      "summary": "ذكر تقرير CIG لشهر يوليو أن Drake Kraken اجتازت مراجعة مرحلة greybox وما زالت على المسار للإصدار العام المقبل، فيما اجتازت Kruger Stingray مراجعة مشتركة لمرحلتي LOD0 والبوابة النهائية.",
-      "details": "قدم التقرير الشهري للكون المستمر عن يوليو 2026، المنشور في 5 أغسطس، عدة تحديثات حول السفن.\n\n- Drake Kraken: اجتازت مراجعة مرحلة greybox وما زالت على المسار للإصدار في 2027\n- Kruger Stingray: تقدمت بسرعة حتى اجتازت مراجعة مشتركة لمرحلتي LOD0 والبوابة النهائية أواخر يوليو\n- RSI Galaxy: اجتازت مراجعة مرحلة whitebox في وقت سابق من يوليو\n- Anvil Liberator: اكتملت مرحلة whitebox مع إعادة استخدام أجزاء من سفن Anvil الحالية لتسريع المراحل اللاحقة\n- Grey's Market Basher: اكتملت وأُطلقت، مع خطط لإضافة عناصر تجميلية لاحقًا هذا العام\n\nكما استعد فريق الاقتصاد لإضافة سفن طال انتظارها إلى متاجر اللعبة في Alpha 4.10، منها Kruger L-22 Alpha Wolf وDrake Golem OX وRSI Aurora Mk II مع وحداتها، إلى جانب استمرار التصميم المبدئي لنظامي التصنيع والتكرير."
-     },
-     "en": {
-      "title": "July report: Drake Kraken on track for 2027 and Stingray clears final review",
-      "summary": "CIG's July report said the Drake Kraken passed its greybox review and remains on course for release next year, while the Kruger Stingray passed a combined LOD0 and final gate review.",
-      "details": "The July 2026 PU Monthly Report, published on 5 August, gave several ship updates.\n\n- Drake Kraken: passed its greybox gate review and remains on track for release in 2027\n- Kruger Stingray: moved so quickly that it passed a combined LOD0 and final gate review at the end of July\n- RSI Galaxy: passed its whitebox gate review earlier in July\n- Anvil Liberator: whitebox wrapped up, reusing parts from existing Anvil ships to speed later stages\n- Grey's Market Basher: finalised and released, with cosmetics planned later this year\n\nThe economy team also prepared to add long-requested ships to in-game shops in Alpha 4.10, including the Kruger L-22 Alpha Wolf, Drake Golem OX and RSI Aurora Mk II with its modules, while early design work continued on crafting and refining."
-     },
-     "addedAt": "2026-08-05T23:59:59+00:00"
-    },
-    {
-     "id": "sc-scl-siege-of-orison-gameplay",
-     "date": "2026-08-05",
-     "type": "development",
-     "importance": 1,
-     "sourceType": "official",
-     "sourceName": "RSI Comm-Link (Star Citizen Live)",
-     "url": "https://robertsspaceindustries.com/en/comm-link/transmission/21283-Star-Citizen-Live",
-     "originalTitle": "Star Citizen Live - Gamedev: Siege of Orison",
-     "ar": {
-      "title": "Star Citizen Live يعرض ساعتين من اللعب في Siege of Orison",
-      "summary": "لعب مطورون في 5 أغسطس عملية Siege of Orison المُعاد بناؤها في بث مباشر ضمن برنامج Star Citizen Live، وشرحوا تصميم مهمة PvE المنفصلة قبل وصولها مع Alpha 4.10.",
-      "details": "عاد برنامج Star Citizen Live في 5 أغسطس بحلقة خاصة مدتها ساعتان من تعليق المطورين، بُثت الساعة 16:00 بتوقيت UTC عبر Twitch، ولعب خلالها Max وElliot وLoek وOlli عملية Siege of Orison القادمة مع شرح تفاصيل تصميمها.\n\nوSiege of Orison عملية دائمة ضمن محتوى PvE في الكون المستمر، تقاتل فيها الفرق عصابة Nine Tails عبر منصات مدينة Orison. وقد أُعيد بناؤها لإصدار Alpha 4.10 على أساس تقنية instancing الجديدة التي تمنح كل مجموعة نسخة مغلقة خاصة بها من منطقة المهمة.\n\nوكان التحديث حينها قيد الاختبار على PTU بعد فتحه لجميع موجات المختبرين أواخر يوليو، ثم وصل إلى الخوادم الرسمية بعد ثلاثة أسابيع في 26 أغسطس."
-     },
-     "en": {
-      "title": "Star Citizen Live streams two hours of Siege of Orison gameplay",
-      "summary": "On 5 August, developers played through the reworked Siege of Orison live on Star Citizen Live, explaining the design of the instanced PvE operation ahead of its arrival in Alpha 4.10.",
-      "details": "Star Citizen Live returned on 5 August with a special two-hour developer commentary session, streamed at 16:00 UTC on Twitch. Max, Elliot, Loek and Olli played the upcoming Siege of Orison while talking through its design.\n\nSiege of Orison is a permanent PvE operation for the Persistent Universe in which squads fight the Nine Tails gang across Orison's platforms. For Alpha 4.10 it was rebuilt around the new instancing technology, which gives each party its own closed copy of the mission area.\n\nAt the time the patch was in PTU testing, with all test waves opened at the end of July. It reached the live servers three weeks later, on 26 August."
-     },
-     "addedAt": "2026-08-05T23:59:59+00:00"
     }
    ],
    "upcoming": [
@@ -1968,6 +1905,28 @@
   },
   "ai": {
    "news": [
+    {
+     "id": "nvidia-memory-full-stack-codesign",
+     "date": "2026-11-05",
+     "type": "hardware",
+     "importance": 2,
+     "sourceType": "official",
+     "sourceName": "NVIDIA Blog",
+     "url": "https://blogs.nvidia.com/blog/memory-full-stack-codesign/",
+     "originalTitle": "How NVIDIA Full-Stack Codesign Addresses AI's Memory Wall",
+     "company": "NVIDIA",
+     "ar": {
+      "title": "NVIDIA تشرح نهج تصميم الذاكرة الشامل لمواجهة أعباء الذكاء الاصطناعي",
+      "summary": "كشفت NVIDIA عن كيفية دمج معالجات GPU وCPU والشبكات والتخزين لتمديد سعة ذاكرة GPU أمام النماذج الأكبر والسياقات الأطول، مشيرة إلى زيادة تصل إلى 30 مرة في الإنتاجية لكل دولار من Blackwell Ultra إلى Vera Rubin.",
+      "details": "تصف NVIDIA في منشورها نهج \"التصميم المشترك الشامل\" لمواجهة اختناق الذاكرة في الذكاء الاصطناعي، حيث تتنافس النماذج الأكبر ونوافذ السياق الأطول والأعباء الوكيلية على سعة محدودة من ذاكرة GPU عالية النطاق الترددي (HBM).\n\nبالنسبة لأوزان النماذج، تشير الشركة إلى تنسيق NVFP4 رباعي البت المتوفر بالفعل لنماذج مثل FLUX.2 وInkling وBeam 1.0 وMeta Muse Spark وStep 5 Preview وNVIDIA Nemotron 3.5 Super VL، إلى جانب توزيع الأوزان على ما يصل إلى 72 معالج GPU ضمن نظام NVL72.\n\nأما ذاكرة التخزين المؤقت KV، فتعتمد على ضغط NVFP4 وذاكرة LPDDR في معالج Vera المرتبط بمعالجات Rubin عبر NVLink-C2C، إضافة إلى برنامج Dynamo الذي ينقل السياق غير النشط إلى تخزين CMX (بالتعاون مع شركاء مثل Dell وHPE وIBM وNetApp وWEKA) ويعيد استخدامه عبر مستويات GPU وCPU والتخزين. وللبحث المعزز بالاسترجاع، تستخدم الشركة نماذج تضمين Nemotron Retriever ومكتبة cuVS للفهرسة خارج HBM.\n\n- تقول NVIDIA إن سعة HBM لكل GPU ارتفعت بنحو 3% فقط من Blackwell Ultra إلى Vera Rubin، بينما ارتفعت الإنتاجية الوكيلية لكل دولار في معيار AgentX من SemiAnalysis بما يصل إلى 30 مرة.\n- وفي عبء عمل AgentX على نموذج DeepSeek V4 Pro، تقول الشركة إن نظام GB300 NVL72 يقدم إنتاجية لكل دولار تصل إلى 10 مرات أعلى من H200."
+     },
+     "en": {
+      "title": "NVIDIA details full-stack memory codesign for AI workloads",
+      "summary": "NVIDIA outlined how it pairs GPUs, CPUs, networking and storage to stretch GPU memory for larger models and longer contexts, citing up to 30x throughput-per-dollar gains from Blackwell Ultra to Vera Rubin.",
+      "details": "NVIDIA's blog describes a \"full-stack codesign\" approach to the AI memory bottleneck, where larger models, longer context windows and agentic workloads compete for scarce GPU high-bandwidth memory (HBM).\n\nFor model weights, NVIDIA points to 4-bit NVFP4 checkpoints, already available for models such as FLUX.2, Inkling, Beam 1.0, Meta Muse Spark, Step 5 Preview and NVIDIA Nemotron 3.5 Super VL, plus spreading weights across up to 72 GPUs in an NVL72 system.\n\nFor the KV cache, NVIDIA cites NVFP4 compression, LPDDR memory on its Vera CPU linked to Rubin GPUs over NVLink-C2C, and its Dynamo software, which offloads inactive context to CMX storage (built with partners including Dell, HPE, IBM, NetApp and WEKA) and reuses it across GPU, CPU and storage tiers. For retrieval-augmented generation, it points to Nemotron Retriever embedding models and the cuVS library for indexing outside HBM.\n\n- NVIDIA says HBM capacity per GPU rose only about 3% from Blackwell Ultra to Vera Rubin, while agentic throughput per dollar on SemiAnalysis's AgentX benchmark rose up to 30x.\n- On an AgentX DeepSeek V4 Pro workload, it says GB300 NVL72 delivers up to 10x the throughput per dollar of H200."
+     },
+     "addedAt": "2026-11-05T23:59:59+00:00"
+    },
     {
      "id": "google-gemini-omni-1-2-flash",
      "date": "2026-11-05",
