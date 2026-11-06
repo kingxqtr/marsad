@@ -1,4 +1,25 @@
 {
- "updatedAt": "2026-11-06T02:51:47+00:00",
- "items": []
+ "updatedAt": "2026-11-06T10:15:54+00:00",
+ "items": [
+  {
+   "id": "auto-112f9c7e115c",
+   "tab": "ai",
+   "date": "2026-11-06",
+   "publishedAt": "2026-11-06T00:00:00+00:00",
+   "type": "product",
+   "importance": 1,
+   "sourceType": "official",
+   "sourceName": "Hugging Face Blog",
+   "url": "https://huggingface.co/blog/open-asr-leaderboard-liva",
+   "originalTitle": "Egyptian and Nigerian English join the Open ASR Leaderboard",
+   "en": {
+    "title": "Egyptian and Nigerian English join the Open ASR Leaderboard",
+    "summary": "Egyptian and Nigerian English join the Open ASR Leaderboard",
+    "details": ""
+   },
+   "translated": false,
+   "fetchedAt": "2026-11-06T10:15:49+00:00",
+   "company": "Hugging Face"
+  }
+ ]
 }
