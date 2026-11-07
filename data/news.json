@@ -1,9 +1,9 @@
 {
  "version": 1,
- "updatedAt": "2026-11-06T23:09:46+00:00",
+ "updatedAt": "2026-11-07T00:10:39+00:00",
  "coverage": {
-  "from": "2026-08-06",
-  "to": "2026-11-06"
+  "from": "2026-08-07",
+  "to": "2026-11-07"
  },
  "tabs": {
   "once-human": {
@@ -889,27 +889,6 @@
       "details": "A month after launching custom fashion dyes on July 9, Starry Studio admitted the system was too fiddly and too expensive: outfits were split into a dozen or more sections, each charged separately, even when a section was barely visible.\n\nChanges from the August 24 (PT) update:\n- Charging moves from each dyed section to each dyed component (such as a top), priced by the highest color tier used\n- Colors can be mixed freely within a component\n- Dyeing a full set costs about 60% less than before\n- More sets, across more rarities, gain dye support from September\n\nPlayers who had already dyed items keep their colors and get back 60% of the Crystgin and Colorful Badges they spent, sent by in-game mail within three business days after the August 25 update. For example, a player who spent 7,200 Crystgin receives 4,320."
      },
      "addedAt": "2026-08-12T23:59:59+00:00"
-    },
-    {
-     "id": "oh-meta-hotline-vol-7-dungeons",
-     "date": "2026-08-06",
-     "type": "announcement",
-     "importance": 1,
-     "sourceType": "official",
-     "sourceName": "Once Human — Official Website",
-     "url": "https://www.oncehuman.game/news/update/20260805/40780_1310273.html",
-     "originalTitle": "Meta Hotline | Hot Feedback and Optimization Progress Vol. 7",
-     "ar": {
-      "title": "Meta Hotline 7: إعادة تصميم الزنزانات وزنزانات جديدة قيد العمل",
-      "summary": "أعلن الفريق إعادة تصميم الزنزانات بمكافآت أفضل وإضافة زنزانات جديدة، ووعد بخيار لإخفاء مجسّات زي Abyssal Touch وبرسائل صوتية على PC.",
-      "details": "في التقرير السابع من Meta Hotline، المستند إلى تصويت منصة الملاحظات حتى 5 أغسطس، تناول فريق Once Human أبرز طلبات المجتمع:\n\n- مكافآت أكثر في الزنزانات (الطلب الأعلى إعجابًا): سيُعاد تصميم محتوى الزنزانات بشكل كبير وستُطلق زنزانات جديدة كليًا مع مكافآت تتناسب مع التحدي\n- إضافة حجرات دمج إضافية للـDeviations: مرفوض حاليًا للحفاظ على وتيرة تطوّرها\n- خيار لإخفاء مجسّات زي Abyssal Touch: مقبول ومتوقع خلال شهرين\n- حذف علامات الخريطة المخصصة دفعة واحدة: مقبول ومتوقع خلال ستة أشهر\n- قناة صوتية للمجموعات (Hive): لا قناة صوتية دائمة، لكن الرسائل الصوتية قادمة إلى PC (متاحة على الجوال وستدعمها المنصات المنزلية)\n- تخطي رسوم إكمال أبحاث التقنية: نُفّذ في تحديث 5 أغسطس\n\nولم يحدد الفريق موعدًا لتغييرات الزنزانات، مؤكدًا أنها ما زالت في مرحلة التخطيط والاختبار."
-     },
-     "en": {
-      "title": "Meta Hotline Vol. 7: dungeon overhaul and new dungeons in the works",
-      "summary": "Replying to top feedback, the team said dungeons will be reworked with better rewards and new dungeons, and promised a tentacle toggle for Abyssal Touch and PC voice messages.",
-      "details": "In the seventh Meta Hotline, based on Feedback Platform votes up to August 5, the Once Human team addressed the community's top requests.\n\n- More dungeon rewards (the most-liked request): dungeon content will be significantly reworked and brand-new dungeons will launch, with rewards redesigned to match\n- Extra Deviation Fusion pods: declined for now, to keep the current pace of Deviation evolution\n- An option to hide the Abyssal Touch outfit's tentacles: accepted, expected within two months\n- Batch removal of custom map pins: accepted, expected within six months\n- Hive voice chat: no always-on voice channel, but voice messages are coming to PC (mobile already has them and consoles will support them)\n- Skipping the Tech research animation: already delivered in the August 5 update\n\nNo release dates were given for the dungeon changes, which the team said are still being planned and tested."
-     },
-     "addedAt": "2026-08-06T23:59:59+00:00"
     }
    ],
    "upcoming": [
@@ -1971,6 +1950,28 @@
       "details": "OpenAI introduced a new benchmark called BioBasicsBench, made up of 100 tasks that measure how AI agents handle everyday wet-lab biology work.\n\nThe benchmark focuses on how well agents interpret raw experimental data, a core skill in day-to-day lab work that differs from solving purely theoretical problems, as part of a broader set of tools OpenAI is building to measure AI's impact on accelerating biological research."
      },
      "addedAt": "2026-11-06T20:12:02+00:00"
+    },
+    {
+     "id": "github-copilot-weekly-releases-nov-2",
+     "date": "2026-11-06",
+     "type": "coding",
+     "importance": 1,
+     "sourceType": "official",
+     "sourceName": "GitHub Changelog",
+     "url": "https://github.blog/changelog/2026-11-06-github-copilot-weekly-releases-november-2",
+     "originalTitle": "GitHub Copilot weekly releases — November 2",
+     "company": "GitHub",
+     "ar": {
+      "title": "تحديثات GitHub Copilot الأسبوعية تضيف دمج الوكيل للطلبات ولوحة إعدادات CLI",
+      "summary": "أطلقت GitHub حزمة تحديثات لـ Copilot تتيح تفعيل الدمج الآلي لطلبات السحب، وضغط المحادثة عند بلوغ حد السياق، ولوحة إعدادات موحدة في أداة سطر الأوامر.",
+      "details": "أعلنت GitHub عن حزمة تحديثات أسبوعية لـ Copilot. يمكن الآن تفعيل \"Agent Merge\" مباشرة من طلب السحب لدمجه تلقائيًا عند الجاهزية، ويبقى مفعّلًا أثناء انتظار الفحوصات المطلوبة، مع إمكانية متابعة حالة المراجعين وطلب مراجعات إضافية والنقاش حول تعليقات محددة.\n\nعند بلوغ حد السياق في محادثة، يمكن الآن ضغطها أو مراجعة ما يستهلك المساحة المتاحة مباشرة من رسالة الخطأ. كما يمكن بدء جلسة بسحب ملفات وإسقاطها على خيار \"جديد\" في الشريط الجانبي، وتُفتح ملفات CSV وTSV كجداول برؤوس ثابتة.\n\nشملت التحديثات أيضًا تحسينات لإدارة الجلسات (أرشفة الجلسات المثبتة بعد دمج أو إغلاق طلباتها، تثبيت/إزالة تثبيت عدة جلسات دفعة واحدة)، وتعليمات شخصية اختيارية للموافقة التلقائية على طلبات أدوات معينة. وفي أداة Copilot CLI، صار أمر \"/settings\" يفتح لوحة موحدة للإضافات وخوادم MCP مع بحث عبر كل الإعدادات."
+     },
+     "en": {
+      "title": "GitHub Copilot weekly releases add PR-based agent merge and a CLI settings hub",
+      "summary": "GitHub's latest Copilot update lets users enable automatic PR merging, compact conversations at the context limit, and manage all settings from one hub in the CLI.",
+      "details": "GitHub published its weekly Copilot release notes. Agent Merge can now be set up directly from a pull request to have Copilot merge it once ready, staying enabled while required checks are pending; users can also check reviewer status, request additional reviews, and discuss specific PR comments with Copilot.\n\nWhen a conversation hits its context limit, it can now be compacted or reviewed for what is using the available space directly from the error message. Sessions can also be started by dropping files onto \"New\" in the sidebar, and CSV/TSV files now open as tables with sticky headers.\n\nOther changes include session management improvements (archiving pinned sessions whose pull requests merged or closed, bulk pin/unpin) and opt-in personal instructions for assisted tool-approval. In the Copilot CLI, the \"/settings\" command now opens a unified dashboard for plugins and MCP servers with search across all settings."
+     },
+     "addedAt": "2026-11-06T23:59:59+00:00"
     },
     {
      "id": "hf-open-asr-leaderboard-egyptian-nigerian",

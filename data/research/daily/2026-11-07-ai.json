@@ -1,0 +1,30 @@
+{
+  "topic": "ai",
+  "generatedAt": "2026-11-07",
+  "news": [
+    {
+      "id": "github-copilot-weekly-releases-nov-2",
+      "date": "2026-11-06",
+      "type": "coding",
+      "importance": 1,
+      "sourceType": "official",
+      "sourceName": "GitHub Changelog",
+      "url": "https://github.blog/changelog/2026-11-06-github-copilot-weekly-releases-november-2",
+      "originalTitle": "GitHub Copilot weekly releases — November 2",
+      "company": "GitHub",
+      "ar": {
+        "title": "تحديثات GitHub Copilot الأسبوعية تضيف دمج الوكيل للطلبات ولوحة إعدادات CLI",
+        "summary": "أطلقت GitHub حزمة تحديثات لـ Copilot تتيح تفعيل الدمج الآلي لطلبات السحب، وضغط المحادثة عند بلوغ حد السياق، ولوحة إعدادات موحدة في أداة سطر الأوامر.",
+        "details": "أعلنت GitHub عن حزمة تحديثات أسبوعية لـ Copilot. يمكن الآن تفعيل \"Agent Merge\" مباشرة من طلب السحب لدمجه تلقائيًا عند الجاهزية، ويبقى مفعّلًا أثناء انتظار الفحوصات المطلوبة، مع إمكانية متابعة حالة المراجعين وطلب مراجعات إضافية والنقاش حول تعليقات محددة.\n\nعند بلوغ حد السياق في محادثة، يمكن الآن ضغطها أو مراجعة ما يستهلك المساحة المتاحة مباشرة من رسالة الخطأ. كما يمكن بدء جلسة بسحب ملفات وإسقاطها على خيار \"جديد\" في الشريط الجانبي، وتُفتح ملفات CSV وTSV كجداول برؤوس ثابتة.\n\nشملت التحديثات أيضًا تحسينات لإدارة الجلسات (أرشفة الجلسات المثبتة بعد دمج أو إغلاق طلباتها، تثبيت/إزالة تثبيت عدة جلسات دفعة واحدة)، وتعليمات شخصية اختيارية للموافقة التلقائية على طلبات أدوات معينة. وفي أداة Copilot CLI، صار أمر \"/settings\" يفتح لوحة موحدة للإضافات وخوادم MCP مع بحث عبر كل الإعدادات."
+      },
+      "en": {
+        "title": "GitHub Copilot weekly releases add PR-based agent merge and a CLI settings hub",
+        "summary": "GitHub's latest Copilot update lets users enable automatic PR merging, compact conversations at the context limit, and manage all settings from one hub in the CLI.",
+        "details": "GitHub published its weekly Copilot release notes. Agent Merge can now be set up directly from a pull request to have Copilot merge it once ready, staying enabled while required checks are pending; users can also check reviewer status, request additional reviews, and discuss specific PR comments with Copilot.\n\nWhen a conversation hits its context limit, it can now be compacted or reviewed for what is using the available space directly from the error message. Sessions can also be started by dropping files onto \"New\" in the sidebar, and CSV/TSV files now open as tables with sticky headers.\n\nOther changes include session management improvements (archiving pinned sessions whose pull requests merged or closed, bulk pin/unpin) and opt-in personal instructions for assisted tool-approval. In the Copilot CLI, the \"/settings\" command now opens a unified dashboard for plugins and MCP servers with search across all settings."
+      }
+    }
+  ],
+  "upcoming": [],
+  "removeUpcoming": [],
+  "removeNews": []
+}
