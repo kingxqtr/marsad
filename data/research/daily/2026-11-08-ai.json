@@ -1,0 +1,30 @@
+{
+  "topic": "ai",
+  "generatedAt": "2026-11-08",
+  "news": [
+    {
+      "id": "microsoft-ai-frontiers-ends",
+      "date": "2026-11-07",
+      "type": "business",
+      "importance": 2,
+      "sourceType": "community",
+      "sourceName": "Hacker News",
+      "url": "https://news.ycombinator.com/item?id=50406563",
+      "originalTitle": "The End of Microsoft Research's AI Frontiers Group",
+      "company": "Microsoft",
+      "ar": {
+        "title": "مايكروسوفت ريسرش تُغلق مجموعة AI Frontiers البحثية في الذكاء الاصطناعي",
+        "summary": "أغلقت Microsoft Research مجموعة AI Frontiers التي أُنشئت عام 2023 لتنسيق أبحاث الذكاء الاصطناعي، بعد أن رأى قائدها المشارك جون لانجفورد أن قيادة Microsoft AI الجديدة تُركّز على التوسّع على حساب البحث المفتوح، فقرر ترك الشركة.",
+        "details": "أغلقت Microsoft Research مجموعة AI Frontiers الداخلية، التي تأسست عام 2023 بعد انطلاق ChatGPT لتنسيق أبحاث الذكاء الاصطناعي في الشركة، وبناء بنية تحتية مشتركة بين مختبراتها، وتطوير تقنيات جديدة للوكلاء (agents) والنماذج.\n\nوقال جون لانجفورد John Langford، أحد مؤسسي المجموعة وصاحب مكتبة التعلم الآلي Vowpal Wabbit، إن المجموعة دُمجت في وحدة Microsoft AI في بداية سبتمبر. وأضاف أن قيادة هذه الوحدة، التي ضمّت عناصر من فريق Inflection AI سابقاً، فضّلت التوسّع في النماذج على حساب البحث الاستكشافي المفتوح، وهو توجّه وصفه بأنه غير متوافق مع نهج AI Frontiers.\n\nوغادر لانجفورد مع عدد من القادة المؤسسين للمجموعة Microsoft Research، قائلين إنهم لم يروا مساراً لاستمرار أبحاثهم داخل الشركة. ونتيجة لإغلاق المجموعة، لن تُقيم Microsoft Research برنامج التدريب الخاص بـ AI Frontiers العام المقبل."
+      },
+      "en": {
+        "title": "Microsoft Research winds down its AI Frontiers research group",
+        "summary": "Microsoft Research has closed AI Frontiers, formed in 2023 to coordinate AI research; co-founder John Langford says new Microsoft AI leadership favored scaling over open research and is leaving.",
+        "details": "Microsoft Research has shut down AI Frontiers, an internal group formed in 2023 after the launch of ChatGPT to coordinate the company's AI research, build shared infrastructure, and develop new agent frameworks and model techniques across its labs.\n\nGroup co-founder John Langford, creator of the Vowpal Wabbit machine learning library, said the group was folded into the Microsoft AI unit in early September. He said that unit's leadership, which included people from the former Inflection AI team, prioritized scaling over open-ended research, a direction he called incompatible with AI Frontiers' approach.\n\nLangford and several other founding leaders of the group have since left Microsoft Research, saying they saw no path for continuing their research inside the company. Because of the closure, Microsoft Research will not run AI Frontiers internships next year."
+      }
+    }
+  ],
+  "upcoming": [],
+  "removeUpcoming": [],
+  "removeNews": []
+}
