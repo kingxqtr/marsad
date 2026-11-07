@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": "2026-11-07T00:10:39+00:00",
+ "updatedAt": "2026-11-07T01:09:47+00:00",
  "coverage": {
   "from": "2026-08-07",
   "to": "2026-11-07"
@@ -1970,6 +1970,28 @@
       "title": "GitHub Copilot weekly releases add PR-based agent merge and a CLI settings hub",
       "summary": "GitHub's latest Copilot update lets users enable automatic PR merging, compact conversations at the context limit, and manage all settings from one hub in the CLI.",
       "details": "GitHub published its weekly Copilot release notes. Agent Merge can now be set up directly from a pull request to have Copilot merge it once ready, staying enabled while required checks are pending; users can also check reviewer status, request additional reviews, and discuss specific PR comments with Copilot.\n\nWhen a conversation hits its context limit, it can now be compacted or reviewed for what is using the available space directly from the error message. Sessions can also be started by dropping files onto \"New\" in the sidebar, and CSV/TSV files now open as tables with sticky headers.\n\nOther changes include session management improvements (archiving pinned sessions whose pull requests merged or closed, bulk pin/unpin) and opt-in personal instructions for assisted tool-approval. In the Copilot CLI, the \"/settings\" command now opens a unified dashboard for plugins and MCP servers with search across all settings."
+     },
+     "addedAt": "2026-11-06T23:59:59+00:00"
+    },
+    {
+     "id": "github-copilot-code-review-api-management-nov6",
+     "date": "2026-11-06",
+     "type": "coding",
+     "importance": 1,
+     "sourceType": "official",
+     "sourceName": "GitHub Changelog",
+     "url": "https://github.blog/changelog/2026-11-06-copilot-code-review-api-management-and-review-overview-updates",
+     "originalTitle": "Copilot code review: API management and review overview updates",
+     "company": "GitHub",
+     "ar": {
+      "title": "GitHub تتيح إدارة إعدادات مراجعة Copilot عبر API وتبسّط ملخص المراجعة",
+      "summary": "أصبح بإمكان المسؤولين ضبط إعدادات مراجعة الكود بـ Copilot عبر REST وGraphQL من مستوى المؤسسة حتى المستودع الفردي، مع ملخص مراجعة أكثر إيجازًا.",
+      "details": "أعلنت GitHub أن مسؤولي المؤسسات والمستودعات يمكنهم الآن قراءة وتعديل إعدادات مراجعة الكود بواسطة Copilot عبر REST وGraphQL، من سياسة المؤسسة وحتى مستودع واحد، مع حقول توضّح أن التعليق أو المراجعة صادرة عن Copilot وبيانات عن مستوى الجهد المستخدم عند توفرها.\n\nأصبح ملخص المراجعة أكثر إيجازًا، حيث تظهر النتائج في الأعلى وتُنقل تفاصيل الجهد والاستبيان إلى أسفل الصفحة، مع قسم جديد يجمع الملفات التي لم تُراجَع أو استُثنيت، وخيار لإضافة سبب بعد تقييم سلبي.\n\nمن التحسينات الأخرى: ظهور عدد أرصدة الذكاء الاصطناعي المستهلكة في جلسات وكيل المراجعة، ودعم قائمة استثناءات لقاعدة \"طلب مراجعة Copilot تلقائيًا\"، واستخدام مستوى الجهد المتوازن لثلاثة نماذج مراجعة يجمع نتائجها نموذج رابع. كما أُصلحت مشاكل في استمرار إعدادات الفوترة والمعاينة، وإعادة محاولة المراجعات الفاشلة مرة واحدة."
+     },
+     "en": {
+      "title": "GitHub adds API management for Copilot code review, compacts review overview",
+      "summary": "Admins can now manage Copilot code review settings via REST and GraphQL from the enterprise level down to a single repo, alongside a more compact review overview.",
+      "details": "GitHub announced that enterprise, organization and repository administrators can now read and update Copilot code review settings through the REST and GraphQL APIs, from enterprise-wide policy down to an individual repository. Reviews and comments now carry explicit attribution fields identifying them as Copilot's output, plus review effort metadata when it's available.\n\nThe review overview comment is now more compact: findings appear at the top, while effort and survey details move to a footer, and a new \"Files not reviewed\" section groups skipped or excluded files. Users can also add a reason after giving a thumbs-down rating.\n\nOther changes include showing AI credits consumed in review agent sessions, a bypass list for the \"Automatically request Copilot code review\" repository rule, and Balanced-effort reviews now running three reviewer models with a fourth model combining their findings. Fixes include billing and preview settings persisting when code review is toggled off and on, and failed or timed-out reviews being retried once."
      },
      "addedAt": "2026-11-06T23:59:59+00:00"
     },
