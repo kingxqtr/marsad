@@ -1,0 +1,31 @@
+{
+ "topic": "ai",
+ "generatedAt": "2026-11-09",
+ "news": [
+  {
+   "id": "github-secret-scanning-spacex-partner",
+   "date": "2026-11-05",
+   "type": "coding",
+   "importance": 2,
+   "sourceType": "official",
+   "sourceName": "GitHub Changelog",
+   "url": "https://github.blog/changelog/2026-11-05-secret-scanning-upgrades-detectors-adds-spacex-as-partner/",
+   "originalTitle": "Secret scanning upgrades detectors, adds SpaceX as partner",
+   "company": "GitHub",
+   "ar": {
+    "title": "GitHub يُضيف SpaceX إلى برنامج شراكة فحص الأسرار ويُحسّن كاشفاتها",
+    "summary": "انضمت SpaceX إلى برنامج شركاء GitHub لفحص الأسرار السرية، فأصبح يكشف تلقائيًا نوع سر Starlink الخاص بها في المستودعات العامة، إلى جانب تحسين كاشفات Alibaba وAWS وGoogle وغيرها لتقليل الإنذارات الكاذبة.",
+    "details": "أعلن GitHub في 5 نوفمبر انضمام شركة SpaceX إلى برنامج شركاء ميزة فحص الأسرار السرية (Secret Scanning)، الذي يُبلغ الشركات تلقائيًا عند ظهور أحد أسرارها في مستودع عام لتتمكن من إبطاله أو تدويره قبل أي استغلال.\n\nأضاف GitHub كاشفًا جديدًا لنوع سر SpaceX المسمى starlink_public_api_v2_secret، وبصفته سرًا شريكًا، تُرسَل نتائج اكتشافه في المستودعات العامة مباشرة إلى SpaceX، في حين لا يُفعَّل هذا التبليغ للمستودعات الخاصة.\n\n- تحسين كاشفات Alibaba وAWS وGoogle لتجاهل التطابقات غير المكتملة عند حذف الفلترة القاموسية السر المقابل لها.\n- تضييق نطاق المطابقة السياقية لكاشف OpenVSX الخاص بالرموز القديمة.\n- فرض فحص طول الرمز ومجموعة أحرفه الموثقة لدى Pydantic Services.\n- اشتراط وجود حروف وأرقام معًا بعد بادئة رموز Tencent."
+   },
+   "en": {
+    "title": "GitHub adds SpaceX as secret scanning partner, refines detectors",
+    "summary": "SpaceX joined GitHub's secret scanning partner program on November 5, letting GitHub auto-detect and report its Starlink API secrets in public repos; detectors for Alibaba, AWS, Google and others also got fewer false positives.",
+    "details": "GitHub announced on November 5 that SpaceX has joined its secret scanning partner program, which automatically alerts partner companies when one of their secrets turns up in a public repository so it can be revoked or rotated before misuse.\n\nGitHub added a new detector for SpaceX's starlink_public_api_v2_secret token type. As a partner secret, findings in public repositories are reported directly to SpaceX; the same reporting does not apply to private repositories.\n\n- Alibaba, AWS and Google detectors now suppress unpaired matches when dictionary filtering removes their companion secret.\n- OpenVSX narrows context matching for its legacy tokens.\n- Pydantic Services checks the documented token length and character set.\n- Tencent now requires both letters and digits after its token prefix."
+   },
+   "addedAt": "2026-11-09T00:55:00+00:00"
+  }
+ ],
+ "upcoming": [],
+ "removeUpcoming": [],
+ "removeNews": []
+}

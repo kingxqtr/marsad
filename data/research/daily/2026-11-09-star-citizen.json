@@ -1,0 +1,57 @@
+{
+ "topic": "star-citizen",
+ "generatedAt": "2026-11-09",
+ "news": [
+  {
+   "id": "sc-alpha-4-11-renamed-5-0",
+   "date": "2026-11-04",
+   "type": "development",
+   "importance": 3,
+   "sourceType": "official",
+   "sourceName": "RSI Comm-Link (Roadmap Roundup)",
+   "url": "https://robertsspaceindustries.com/en/comm-link/transmission/21422-Roadmap-Roundup-November-4-2026",
+   "originalTitle": "Roadmap Roundup - November 4, 2026",
+   "ar": {
+    "title": "Star Citizen يُعيد تسمية Alpha 4.11 إلى Alpha 5.0 مع تجميع تقنيات Genesis",
+    "summary": "في خارطة طريق 4 نوفمبر، أعادت CIG تسمية التحديث الكبير القادم من Alpha 4.11 إلى Alpha 5.0 لتجميع تقنيات توليد الكواكب Genesis حول كوكب Nyx I، مع تأجيل Nyx II وNyx III إلى Alpha 5.1.",
+    "details": "أعادت Cloud Imperium Games تسمية التحديث الكبير القادم في Star Citizen من Alpha 4.11 إلى Alpha 5.0 في نشرة خارطة الطريق الصادرة في 4 نوفمبر، قائلة إن الرقم الجديد يعكس بشكل أفضل حجم التقنيات الجديدة المجمّعة في هذا الإصدار.\n\nيتركز Alpha 5.0 حول مبادرة Genesis لبيئات الكواكب، فيجمع بين نظام Starchitect الإجرائي لتوزيع المواقع وتركيبها من مكونات معيارية، وتقنية Planet Tech v5 التي تُحدّث توليد الكواكب وعرضها بأحياء حيوية أكثر طبيعية وتوليد تضاريس عبر معالج الرسوميات. ويُعد كوكب Nyx I أول كوكب يُبنى بهذه الحزمة التقنية.\n\n- انتقل كوكبا Nyx II وNyx III، اللذان كانا مستهدفين ضمن Alpha 5.0، إلى Alpha 5.1 بصفة مبدئية.\n- خرج مسدس الدفاع الذاتي \"Skarnov\" من شركة Kastak Arms من نطاق 5.0، وأصبح مخططًا له في إصدار Alpha 4.10.3 الأقرب.\n- بقيت تقنية DGS Planet Subdivision، التي تقسّم الكواكب إلى مناطق أصغر لتوزيع الحمل بين الخوادم، ضمن نطاق 5.0.\n\nلم تُعلن CIG موعد الإصدار أو نافذة اختبار PTU لـAlpha 5.0 بعد، وتظل جميع بطاقات خارطة الطريق لهذا الإصدار بحالة \"مبدئية\"."
+   },
+   "en": {
+    "title": "Star Citizen renames Alpha 4.11 to Alpha 5.0 as Genesis tech converges",
+    "summary": "CIG's November 4 Roadmap Roundup renames Alpha 4.11 to Alpha 5.0, consolidating Genesis planet tech around Nyx I, while pushing Nyx II and III to Alpha 5.1.",
+    "details": "Cloud Imperium Games renamed Star Citizen's next major content patch from Alpha 4.11 to Alpha 5.0 in its November 4 Roadmap Roundup, saying the new number better reflects how much new technology the release bundles together.\n\nAlpha 5.0 centers on Genesis, CIG's planetary-environment initiative. It combines Starchitect, a procedural system for placing and assembling locations from modular pieces, with Planet Tech v5, which overhauls planet generation and rendering with more natural biomes and GPU-driven terrain. Nyx I is the first planet built with this tech stack.\n\n- Nyx II and Nyx III, previously targeting Alpha 5.0, move to the tentative Alpha 5.1.\n- The Kastak Arms \"Skarnov\" DMR drops out of 5.0 and is now planned for the earlier Alpha 4.10.3 release.\n- DGS Planet Subdivision, which splits planets into smaller zones so no single server handles an entire body, stays part of the 5.0 scope.\n\nCIG has not announced a release date or PTU window for Alpha 5.0. All roadmap cards for the release remain marked Tentative."
+   },
+   "addedAt": "2026-11-09T00:55:00+00:00"
+  }
+ ],
+ "upcoming": [
+  {
+   "id": "sc-alpha-4-11-q4-2026",
+   "date": "2026-11-18",
+   "endDate": null,
+   "dateConfidence": "expected",
+   "type": "patch",
+   "sourceType": "official",
+   "sourceName": "RSI Comm-Link (Roadmap Roundup)",
+   "url": "https://robertsspaceindustries.com/en/comm-link/transmission/21422-Roadmap-Roundup-November-4-2026",
+   "originalTitle": "Roadmap Roundup - November 4, 2026",
+   "ar": {
+    "title": "Alpha 5.0 (سابقًا 4.11) بكوكب Nyx I وتقنية Planet Tech v5 مقرر في الربع الرابع من 2026",
+    "summary": "أعادت CIG في 4 نوفمبر تسمية تحديثها الكبير القادم من Alpha 4.11 إلى Alpha 5.0 مع تجميع تقنيات Genesis حول كوكب Nyx I، بعد نقل كوكبي Nyx II وNyx III إلى Alpha 5.1.",
+    "details": "يُعد Alpha 5.0، الذي أُعيدت تسميته من Alpha 4.11 في 4 نوفمبر 2026، التحديث الكبير القادم في Star Citizen. وتدرجه خارطة الطريق العامة ضمن الربع الرابع من 2026، بعد أن نقلته CIG من موعد سابق في سبتمبر للتركيز على تحديثات 4.10.x.\n\n- كوكب Nyx I، أول كوكب يُبنى بحزمة تقنيات Genesis الجديدة\n- تقنية Genesis Planet Tech v5 بأحياء حيوية ناشئة وتوليد تضاريس عبر معالج الرسوميات\n- مواقع Starchitect الإجرائية ونقاط اهتمام تملكها الفصائل وحزمة مهام مفتوحة\n- تقنية DGS Planet Subdivision التي تقسّم الكواكب إلى مناطق أصغر موزعة على خوادم متعددة\n- تحسينات Item Recovery لتجهيزات السفن المخصصة\n\nوانتقل كوكبا Nyx II وNyx III، اللذان كانا مقررين لهذا الإصدار، إلى Alpha 5.1 بصفة مبدئية. كما خرج مسدس الدفاع الذاتي \"Skarnov\" من شركة Kastak Arms من نطاق 5.0، وأصبح مخططًا له في إصدار Alpha 4.10.3 الأقرب. وتظل جميع بطاقات خارطة الطريق لـAlpha 5.0 بحالة \"مبدئية\"، لذا قد يتغير المحتوى قبل الإصدار.",
+    "location": "الخوادم الرسمية للعبة Star Citizen",
+    "dateNote": "تقدير فقط: خارطة الطريق تحدد الربع الرابع من 2026 لإصدار Alpha 5.0 بعد إعادة تسميته، وقد صدر التحديث المماثل في الربع نفسه من العام الماضي (Alpha 4.4) في 18–19 نوفمبر 2025 قبيل معرض IAE."
+   },
+   "en": {
+    "title": "Alpha 5.0 (formerly 4.11), with Nyx I and Planet Tech v5, due in Q4 2026",
+    "summary": "CIG renamed its next major patch from Alpha 4.11 to Alpha 5.0 on November 4, consolidating Genesis planet tech around Nyx I; Nyx II and III now target Alpha 5.1 instead.",
+    "details": "Alpha 5.0, renamed from Alpha 4.11 on November 4, 2026, is Star Citizen's next major content patch. The public roadmap still lists it for Q4 2026, after CIG moved it from an earlier September target to focus on the 4.10.x updates.\n\n- Nyx I, the first planet built with the new Genesis tech stack\n- Genesis Planet Tech v5, with emergent biomes and GPU-driven terrain generation\n- Starchitect procedural locations, faction-owned points of interest and a sandbox mission pack\n- DGS Planet Subdivision, splitting planets into smaller zones across multiple servers\n- Item Recovery improvements for custom ship loadouts\n\nNyx II and Nyx III, previously slated for this release, have moved to the tentative Alpha 5.1. The Kastak Arms \"Skarnov\" DMR dropped out of 5.0 and is now planned for the earlier Alpha 4.10.3. All roadmap cards for Alpha 5.0 remain marked Tentative, so content may still change before release.",
+    "location": "Star Citizen live servers",
+    "dateNote": "Estimate only: the roadmap gives Q4 2026 for the renamed Alpha 5.0. Last year's Q4 content patch (Alpha 4.4) went live on 18–19 November 2025, just before IAE."
+   },
+   "addedAt": "2026-11-09T00:55:00+00:00"
+  }
+ ],
+ "removeUpcoming": [],
+ "removeNews": []
+}
