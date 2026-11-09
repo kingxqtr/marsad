@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": "2026-11-09T07:14:21+00:00",
+ "updatedAt": "2026-11-09T08:13:32+00:00",
  "coverage": {
   "from": "2026-08-09",
   "to": "2026-11-09"
@@ -8,6 +8,27 @@
  "tabs": {
   "once-human": {
    "news": [
+    {
+     "id": "once-human-3-1-2-bug-fixes-nov6",
+     "date": "2026-11-06",
+     "type": "update",
+     "importance": 1,
+     "sourceType": "official",
+     "sourceName": "Once Human — Steam News",
+     "url": "https://store.steampowered.com/news/app/2139460/view/1848664643354502",
+     "originalTitle": "3.1.2 Bug Fixes (November 6)",
+     "ar": {
+      "title": "Once Human: إصلاحات الإصدار 3.1.2 تعالج مسار جناح ومبادلة زخارف المنشآت",
+      "summary": "يصلح تحديث 6 نوفمبر مسارًا شاذًا في زخرفة Void Wings: Wildlands Cutie، وخللًا في منطقة التجارة كان يُبدّل زخارف منشآت لاعبين آخرين عن الخطأ.",
+      "details": "نشر فريق تطوير Once Human قائمة إصلاحات قصيرة للإصدار 3.1.2 في 6 نوفمبر.\n\n- إصلاح مسار شاذ في زخرفة Void Wings Skin: Wildlands Cutie.\n- إصلاح خلل في منطقة التجارة كان يتسبب، عند استبدال زخارف المنشآت بشكل جماعي، باستبدال زخارف منشآت لاعبين آخرين عن الخطأ.\n\nكان من المتوقع اكتمال إصلاح منطقة التجارة بحلول الساعة 4:00 بطوتقيت PT، مع احتمال اختلاف الوقت الفعلي."
+     },
+     "en": {
+      "title": "Once Human 3.1.2 fixes skin trail and facility skin swap bugs",
+      "summary": "The November 6 patch fixes an abnormal trail on the Void Wings: Wildlands Cutie skin and a trade-zone bug that wrongly swapped other players' facility skins.",
+      "details": "Once Human's development team published a short list of fixes for version 3.1.2 on November 6.\n\n- Fixed an abnormal trail effect on the Void Wings Skin: Wildlands Cutie.\n- Fixed an issue in the trade zone where batch-replacing facility skins could incorrectly replace other players' facility skins as well.\n\nThe trade-zone fix was expected to complete by 4:00 PT, with actual timing possibly varying."
+     },
+     "addedAt": "2026-11-06T23:59:59+00:00"
+    },
     {
      "id": "oh-meta-hotline-vol-12",
      "date": "2026-11-05",
