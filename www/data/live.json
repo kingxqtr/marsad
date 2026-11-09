@@ -1,6 +1,162 @@
 {
- "updatedAt": "2026-11-09T10:48:33+00:00",
+ "updatedAt": "2026-11-09T21:08:06+00:00",
  "items": [
+  {
+   "id": "auto-3a734b9514d5",
+   "tab": "ai",
+   "date": "2026-11-09",
+   "publishedAt": "2026-11-09T19:00:00+00:00",
+   "type": "product",
+   "importance": 1,
+   "sourceType": "official",
+   "sourceName": "OpenAI News",
+   "url": "https://openai.com/index/chatgpt-enterprise-aws-marketplace",
+   "originalTitle": "ChatGPT Enterprise now available in AWS Marketplace",
+   "en": {
+    "title": "ChatGPT Enterprise now available in AWS Marketplace",
+    "summary": "ChatGPT Enterprise is now available through AWS Marketplace, helping organizations simplify procurement through existing AWS purchasing and billing relationships.",
+    "details": "ChatGPT Enterprise is now available through AWS Marketplace, helping organizations simplify procurement through existing AWS purchasing and billing relationships."
+   },
+   "translated": false,
+   "fetchedAt": "2026-11-09T21:08:01+00:00",
+   "company": "OpenAI"
+  },
+  {
+   "id": "auto-8f9d712812cf",
+   "tab": "ai",
+   "date": "2026-11-09",
+   "publishedAt": "2026-11-09T14:00:01+00:00",
+   "type": "hardware",
+   "importance": 1,
+   "sourceType": "official",
+   "sourceName": "NVIDIA Blog",
+   "url": "https://blogs.nvidia.com/blog/robotics-simulation-advancements-corl/",
+   "originalTitle": "Practice Makes Precise: At CoRL, NVIDIA and Partners Reveal How Robots Rehearse Delicate Work in Simulation",
+   "en": {
+    "title": "Practice Makes Precise: At CoRL, NVIDIA and Partners Reveal How Robots Rehearse Delicate Work in Simulation",
+    "summary": "Simulation, which has long been the proving ground for robots learning to walk, roll and hop, is now helping researchers teach robots tasks that require a finer touch: aligning gears, connecting cables and assembling small components.",
+    "details": "Simulation, which has long been the proving ground for robots learning to walk, roll and hop, is now helping researchers teach robots tasks that require a finer touch: aligning gears, connecting cables and assembling small components.\n\nThe shift from locomotion to manipulation is taking center stage at this week’s Conference on Robot Learning (CoRL) in Austin, Texas, alongside the rise of agentic robotics — a new paradigm that integrates frontier agents to create interpretable code for physical robotics systems.\n\nAt CoRL, NVIDIA is introducing new open robotics technologies, including world action models , simulation tools, benchmarks and agentic workflows.\n\nTwo NVIDIA papers are among six finalists out of thousands of submissions for the Best Paper Awards at CoRL:\n\n- GRAIL (Generating Humanoid Loco-Manipulation from World Models), which presents a digital generation pipeline for 3D assets and simulator-ready scenes for robot learning.\n\n- RoboTTT: Context Scaling for Robot Policies , which introduces a robot model and training recipe that scales visuomotor context three orders of magnitude beyond state-of-the-art policies without growing inference latency.\n\nThese advancements help researchers train robots on complex tasks, evaluate their performance across changing conditions and use failures to guide further learning — building the precision, adaptability and autonomy needed to move from lab demonstrations to industrial deployment. …"
+   },
+   "translated": false,
+   "fetchedAt": "2026-11-09T21:08:01+00:00",
+   "company": "NVIDIA"
+  },
+  {
+   "id": "auto-2ec3b3490b91",
+   "tab": "star-citizen",
+   "date": "2026-11-09",
+   "publishedAt": "2026-11-09T18:08:01+00:00",
+   "type": "event",
+   "importance": 1,
+   "sourceType": "official",
+   "sourceName": "RSI Comm-Link",
+   "url": "https://robertsspaceindustries.com/comm-link/transmission/21434-Twitch-Drops-IAE-2956",
+   "originalTitle": "Twitch Drops: IAE 2956",
+   "en": {
+    "title": "Twitch Drops: IAE 2956",
+    "summary": "The Intergalactic Aerospace Expo 2956 is here, and so are new Twitch Drops! Celebrate the long-awaited arrival of the RSI Galaxy with a flight-ready look to match.",
+    "details": "The Intergalactic Aerospace Expo 2956 is here, and so are new Twitch Drops! Celebrate the long-awaited arrival of the RSI Galaxy with a flight-ready look to match. Watch any Drops-enabled Star Citizen stream for two hours to unlock the undersuit, four hours to add the matching armor, and six hours to complete the set with a backpack. Suit up and get ready for takeoff!"
+   },
+   "translated": false,
+   "fetchedAt": "2026-11-09T21:08:01+00:00"
+  },
+  {
+   "id": "auto-edf3b4057026",
+   "tab": "star-citizen",
+   "date": "2026-11-09",
+   "publishedAt": "2026-11-09T17:08:01+00:00",
+   "type": "event",
+   "importance": 1,
+   "sourceType": "official",
+   "sourceName": "RSI Comm-Link",
+   "url": "https://robertsspaceindustries.com/comm-link/transmission/21386-Intergalactic-Aerospace-Expo-2956-Free-Fly-And-Manufacturer-Schedule",
+   "originalTitle": "Intergalactic Aerospace Expo 2956 Free Fly and Manufacturer Schedule - Try Star Citizen for Free",
+   "en": {
+    "title": "Intergalactic Aerospace Expo 2956 Free Fly and Manufacturer Schedule - Try Star Citizen for Free",
+    "summary": "The Intergalactic Aerospace Expo opens its doors in New Babbage on microTech, and we’re celebrating this year’s premier aerospace event by launching a Free Fly event.",
+    "details": "The Intergalactic Aerospace Expo opens its doors in New Babbage on microTech, and we’re celebrating this year’s premier aerospace event by launching a Free Fly event."
+   },
+   "translated": false,
+   "fetchedAt": "2026-11-09T21:08:01+00:00"
+  },
+  {
+   "id": "auto-8995b9517fb6",
+   "tab": "star-citizen",
+   "date": "2026-11-09",
+   "publishedAt": "2026-11-09T17:08:01+00:00",
+   "type": "event",
+   "importance": 1,
+   "sourceType": "official",
+   "sourceName": "RSI Comm-Link",
+   "url": "https://robertsspaceindustries.com/comm-link/transmission/21447-Star-Citizen-Behind-The-Ships-RSI-Galaxy",
+   "originalTitle": "Star Citizen | Behind the Ships: RSI Galaxy",
+   "en": {
+    "title": "Star Citizen | Behind the Ships: RSI Galaxy",
+    "summary": "Hold your breath, RSI fans, because this long-awaited favorite is lowering its landing gear, ready to make its debut at IAE 2956. Whether healing or hauling, let’s see how this modular marvel leaves its mark on the ’verse.",
+    "details": "Hold your breath, RSI fans, because this long-awaited favorite is lowering its landing gear, ready to make its debut at IAE 2956. Whether healing or hauling, let’s see how this modular marvel leaves its mark on the ’verse."
+   },
+   "translated": false,
+   "fetchedAt": "2026-11-09T21:08:01+00:00"
+  },
+  {
+   "id": "auto-605df1adb3d2",
+   "tab": "once-human",
+   "date": "2026-11-09",
+   "publishedAt": "2026-11-09T11:03:36+00:00",
+   "type": "update",
+   "importance": 1,
+   "sourceType": "official",
+   "sourceName": "Once Human — Steam News",
+   "url": "https://store.steampowered.com/news/app/2139460/view/1848664643355025",
+   "originalTitle": "3.1.2 Bug Fixes (November 9)",
+   "en": {
+    "title": "3.1.2 Bug Fixes (November 9)",
+    "summary": "November 9 The following issues have been fixed: 1. Fixed an issue where the unclaimed attempts for the Nailoong Egg event was displayed incorrectly. 2.",
+    "details": "November 9\n\nThe following issues have been fixed:\n\n1. Fixed an issue where the unclaimed attempts for the Nailoong Egg event was displayed incorrectly.\n\n2. Fixed an issue where the limited-time hairstyle from the Meta Pass could not be obtained properly.\n\n3. Fixed an issue where the movement animation did not return to normal after recovering from fall injuries. Metas who encounter this issue can recover by signing in to the game again.\n\n4. Fixed an issue where the glowing effect of animals' element attributes (such as Lord of Thunder) was not working.\nMeanwhile, we are also aware that the glowing effect on animals still has the following two types of abnormal issues. As the related fixes involve a large amount of content, we expect to complete them in the November 18 (PT) version update:\n\n1. Animals summoned by non-Beastmaster classes do not display glowing effects properly.\n\n2. Bay Crocodiles do not display glowing effects properly."
+   },
+   "translated": false,
+   "fetchedAt": "2026-11-09T21:08:01+00:00"
+  },
+  {
+   "id": "auto-2bed7daf9a56",
+   "tab": "ai",
+   "date": "2026-11-09",
+   "publishedAt": "2026-11-09T15:05:57+00:00",
+   "type": "product",
+   "importance": 1,
+   "sourceType": "official",
+   "sourceName": "Hugging Face Blog",
+   "url": "https://huggingface.co/blog/nvidia/nemotron-personas-finance-japan",
+   "originalTitle": "Nemotron-Personas-Finance-Japan: A Synthetic Dataset Capturing Japan's Demographics and Financial Context",
+   "en": {
+    "title": "Nemotron-Personas-Finance-Japan: A Synthetic Dataset Capturing Japan's Demographics and Financial Context",
+    "summary": "Nemotron-Personas-Finance-Japan: A Synthetic Dataset Capturing Japan's Demographics and Financial Context",
+    "details": ""
+   },
+   "translated": false,
+   "fetchedAt": "2026-11-09T21:08:01+00:00",
+   "company": "Hugging Face"
+  },
+  {
+   "id": "auto-da317efc8ecf",
+   "tab": "ai",
+   "date": "2026-11-09",
+   "publishedAt": "2026-11-09T12:34:29+00:00",
+   "type": "product",
+   "importance": 1,
+   "sourceType": "official",
+   "sourceName": "Hugging Face Blog",
+   "url": "https://huggingface.co/blog/amazon/higher-order-pruning-experts",
+   "originalTitle": "Your Experts Have Partners. There's HOPE for Keeping Them Together",
+   "en": {
+    "title": "Your Experts Have Partners. There's HOPE for Keeping Them Together",
+    "summary": "Your Experts Have Partners. There's HOPE for Keeping Them Together",
+    "details": ""
+   },
+   "translated": false,
+   "fetchedAt": "2026-11-09T21:08:01+00:00",
+   "company": "Hugging Face"
+  },
   {
    "id": "auto-4f6760a15270",
    "tab": "ai",
