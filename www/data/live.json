@@ -1,4 +1,85 @@
 {
- "updatedAt": "2026-11-09T02:52:19+00:00",
- "items": []
+ "updatedAt": "2026-11-09T10:48:33+00:00",
+ "items": [
+  {
+   "id": "auto-4f6760a15270",
+   "tab": "ai",
+   "date": "2026-11-09",
+   "publishedAt": "2026-11-09T08:00:53+00:00",
+   "type": "business",
+   "importance": 1,
+   "sourceType": "official",
+   "sourceName": "NVIDIA Blog",
+   "url": "https://blogs.nvidia.com/blog/korean-startup-investments-msit/",
+   "originalTitle": "NVIDIA Announces New Planned Investments in Korean Startups at the MSIT-NVIDIA AI Startup Partnership Forum",
+   "en": {
+    "title": "NVIDIA Announces New Planned Investments in Korean Startups at the MSIT-NVIDIA AI Startup Partnership Forum",
+    "summary": "Korea’s Ministry of Science and ICT and NVIDIA hosted the MSIT -NVIDIA AI Startup Partnership Forum at COEX.",
+    "details": "Korea’s Ministry of Science and ICT and NVIDIA hosted the MSIT -NVIDIA AI Startup Partnership Forum at COEX.\n\nRyu Je-myung, vice minister of science and ICT , joined NVIDIA leaders to meet with over 20 Korean startups across foundation models, physical AI, AI infrastructure and AI semiconductors.\n\nNVIDIA also announced an investment in Korean startup Point2 , with additional investments planned in Motif Technologies , RLWRLD and Upstage.\n\nPoint2 Technology, an AI interconnect company, builds scalable, radio frequency-based interconnects that move data between chips and racks in AI factories, offering an innovative alternative to conventional copper and optical interconnect solutions for AI cluster scale-up, delivering the reach, performance and efficiency needed for next-generation AI infrastructure.\n\nMotif Technologies , a Seoul-based AI lab, develops foundation models for building AI agents that carry out complex tasks, including Motif-3, a large language model released with open weights.\n\nRLWRLD, a physical AI startup based in San Francisco, Seoul and Tokyo, develops robotics foundation models that enable humanoid and industrial robots to perform complex real-world tasks that require five-finger dexterity, such as precisely inserting components, threading nuts onto bolts and kitting parts from moving conveyors. …"
+   },
+   "translated": false,
+   "fetchedAt": "2026-11-09T10:48:28+00:00",
+   "company": "NVIDIA"
+  },
+  {
+   "id": "auto-ea0f53a41841",
+   "tab": "ai",
+   "date": "2026-11-09",
+   "publishedAt": "2026-11-09T05:00:40+00:00",
+   "type": "hardware",
+   "importance": 1,
+   "sourceType": "official",
+   "sourceName": "NVIDIA Blog",
+   "url": "https://blogs.nvidia.com/blog/korea-physical-ai-ecosystem/",
+   "originalTitle": "Korea Advances Physical AI Across Industries With NVIDIA",
+   "en": {
+    "title": "Korea Advances Physical AI Across Industries With NVIDIA",
+    "summary": "Tapping into the country’s strengths in manufacturing and engineering, NVIDIA is helping advance Korea’s physical AI ecosystem.",
+    "details": "Tapping into the country’s strengths in manufacturing and engineering, NVIDIA is helping advance Korea’s physical AI ecosystem.\n\nThe country’s industry leaders are applying accelerated computing, AI and simulation to everything from semiconductor manufacturing to robotics and autonomous vehicles.\n\nThese efforts are helping bring physical AI from development into real-world production.\n\nSamsung Advances Semiconductor Engineering With Accelerated Computing and AI Physics\n\nSamsung Electronics is expanding its collaboration with NVIDIA to advance semiconductor innovation through accelerated computing and AI physics. The work spans materials research, process development and device engineering.\n\nIn technology computer-aided design, Samsung is working with NVIDIA cuISS and NVIDIA cuDSS to accelerate computations involving sparse linear systems. The collaboration also extends to GPU acceleration for process and optical simulations. In materials research, Samsung’s sMOL platform has run selected quantum chemical calculations up to 5x faster end to end with NVIDIA cuEST . Samsung is also exploring NVIDIA cuEquivariance to speed up tensor operations used in training and inference for atomistic AI models. …"
+   },
+   "translated": false,
+   "fetchedAt": "2026-11-09T10:48:28+00:00",
+   "company": "NVIDIA"
+  },
+  {
+   "id": "auto-a16fb780f5cd",
+   "tab": "ai",
+   "date": "2026-11-09",
+   "publishedAt": "2026-11-09T05:00:39+00:00",
+   "type": "hardware",
+   "importance": 1,
+   "sourceType": "official",
+   "sourceName": "NVIDIA Blog",
+   "url": "https://blogs.nvidia.com/blog/korea-secure-agentic-ai/",
+   "originalTitle": "Korea’s AI Ecosystem Advances and Secures Agentic AI With NVIDIA",
+   "en": {
+    "title": "Korea’s AI Ecosystem Advances and Secures Agentic AI With NVIDIA",
+    "summary": "As AI agents take on more work, they need capable open models and security that advances alongside them.",
+    "details": "As AI agents take on more work, they need capable open models and security that advances alongside them.\n\nHyundai Motor Group is exploring NVIDIA NemoClaw blueprints and the NVIDIA OpenShell runtime, while AIM Intelligence is integrating its Starfort platform with NVIDIA OpenShell to support secure AI agents for employee productivity and enterprise workflows .\n\nA key component of the NVIDIA Open Agent Safety Platform, OpenShell provides a secure runtime with sandboxed execution and policy-based controls to safeguard sensitive data, manage access to enterprise tools and govern autonomous agent actions.\n\nAIM Intelligence , a Korean AI security company, is integrating its Starfort agent control platform with NVIDIA OpenShell. The goal is to combine OpenShell’s runtime access controls with Starfort’s detection of malicious instructions and data leakage. The company is also considering a preliminary proof of concept for the public energy sector, with potential applications across enterprise, industrial and robotics environments.\n\nOn the model side, LG AI Research is opening application programming interface access for K-EXAONE-2.5, developed using NVIDIA Nemotron datasets, including Nemotron-Personas-Korea . …"
+   },
+   "translated": false,
+   "fetchedAt": "2026-11-09T10:48:28+00:00",
+   "company": "NVIDIA"
+  },
+  {
+   "id": "auto-87e34468413e",
+   "tab": "ai",
+   "date": "2026-11-09",
+   "publishedAt": "2026-11-09T05:00:00+00:00",
+   "type": "hardware",
+   "importance": 1,
+   "sourceType": "official",
+   "sourceName": "NVIDIA Blog",
+   "url": "https://blogs.nvidia.com/blog/nvidia-dynamo-korea-open-models/",
+   "originalTitle": "NVIDIA Dynamo Recipes Bring Korea’s Leading Open Models to Production",
+   "en": {
+    "title": "NVIDIA Dynamo Recipes Bring Korea’s Leading Open Models to Production",
+    "summary": "NVIDIA is releasing Dynamo-optimized deployment recipes for Korea’s leading open models: A.X K2 from SK Telecom , K-EXAONE 2.0 from LG AI Research , Solar Open 2 from Upstage and Motif-3 from Motif Technologies .",
+    "details": "NVIDIA is releasing Dynamo-optimized deployment recipes for Korea’s leading open models: A.X K2 from SK Telecom , K-EXAONE 2.0 from LG AI Research , Solar Open 2 from Upstage and Motif-3 from Motif Technologies .\n\nAs models grow beyond the capacity of a single GPU, they must be split across multiple GPUs, requiring careful coordination of request routing and communication to maintain performance.\n\nNVIDIA Dynamo is an open source, distributed inference-serving framework built to deploy models in multi-node environments at data center scale. It handles this routing and communication to maximize inference performance.\n\nOptimized for NVIDIA B200 GPUs, these recipes take the guesswork out of deployment, delivering up to 2x performance out of the box. They help developers bring Korea’s open models into production faster and turn them into broadly accessible AI for All services.\n\nLearn more about NVIDIA Dynamo ."
+   },
+   "translated": false,
+   "fetchedAt": "2026-11-09T10:48:28+00:00",
+   "company": "NVIDIA"
+  }
+ ]
 }
