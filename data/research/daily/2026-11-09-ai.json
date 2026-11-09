@@ -23,6 +23,28 @@
     "details": "GitHub announced on November 5 that SpaceX has joined its secret scanning partner program, which automatically alerts partner companies when one of their secrets turns up in a public repository so it can be revoked or rotated before misuse.\n\nGitHub added a new detector for SpaceX's starlink_public_api_v2_secret token type. As a partner secret, findings in public repositories are reported directly to SpaceX; the same reporting does not apply to private repositories.\n\n- Alibaba, AWS and Google detectors now suppress unpaired matches when dictionary filtering removes their companion secret.\n- OpenVSX narrows context matching for its legacy tokens.\n- Pydantic Services checks the documented token length and character set.\n- Tencent now requires both letters and digits after its token prefix."
    },
    "addedAt": "2026-11-09T00:55:00+00:00"
+  },
+  {
+   "id": "nvidia-korea-ai-collaboration-expansion",
+   "date": "2026-11-09",
+   "type": "business",
+   "importance": 1,
+   "sourceType": "official",
+   "sourceName": "NVIDIA Blog",
+   "url": "https://blogs.nvidia.com/blog/korea-sovereign-ai-collaboration/",
+   "originalTitle": "From Chips to Skills, NVIDIA and Korea Expand Sovereign AI Collaboration",
+   "company": "NVIDIA",
+   "ar": {
+    "title": "إنفيديا توسّع تعاون الذكاء الاصطناعي السيادي مع كوريا الجنوبية",
+    "summary": "وسّعت إنفيديا ووزارة العلوم الكورية شراكتهما في الذكاء الاصطناعي باستثمارات جديدة في شركات ناشئة، وصفات نشر للنماذج المفتوحة، وأدوات أمان للعملاء الذكيين.",
+    "details": "وسّعت إنفيديا ووزارة العلوم وتقنية المعلومات الكورية (MSIT) تعاونهما المشترك في منتدى MSIT-NVIDIA لشراكة الشركات الناشئة في سيول، ليشمل الرقائق والبنية التحتية والنماذج والعملاء الذكيين والأمان.\n\nأعلنت إنفيديا عن استثمارات جديدة في الشركات الكورية الناشئة Point2 (متخصصة في وصلات الربط للذكاء الاصطناعي) وMotif Technologies وRLWRLD وUpstage، وكشفت عن صفات نشر محسّنة بتقنية Dynamo لنماذج كورية مفتوحة مثل A.X K2 من SK Telecom وK-EXAONE 2.0 من LG AI Research وSolar Open 2 من Upstage وMotif-3 من Motif Technologies، ووعدت بأداء استدلال أسرع بمقدار الضعف على معالجات NVIDIA B200.\n\n- توسّع Samsung Electronics تعاونها مع إنفيديا في تصميم الرقائق وأدوات بحث المواد.\n- تختبر Hyundai Motor Group وشركة الأمن الكورية AIM Intelligence بيئة تشغيل OpenShell من إنفيديا لتأمين العملاء الذكيين المستقلين.\n- ستتعاون SK Telecom وRebellions مع إنفيديا على بنية تحتية سيادية للذكاء الاصطناعي باستخدام تقنية NVLink Fusion."
+   },
+   "en": {
+    "title": "NVIDIA expands sovereign AI collaboration with South Korea",
+    "summary": "NVIDIA and Korea's science ministry broadened their AI partnership with new startup investments, open-model deployment recipes and agentic AI security tools.",
+    "details": "NVIDIA and South Korea's Ministry of Science and ICT expanded their joint AI push at the MSIT-NVIDIA AI Startup Partnership Forum in Seoul, covering chips, infrastructure, models, agents and security.\n\nNVIDIA announced new investments in Korean startups Point2 (AI interconnects), Motif Technologies, RLWRLD and Upstage, and unveiled Dynamo-optimized deployment recipes for Korean open models including SK Telecom's A.X K2, LG AI Research's K-EXAONE 2.0, Upstage's Solar Open 2 and Motif Technologies' Motif-3, promising up to 2x faster inference on NVIDIA B200 GPUs.\n\n- Samsung Electronics is extending its collaboration with NVIDIA on chip design and materials-research tools.\n- Hyundai Motor Group and Korean security firm AIM Intelligence are testing NVIDIA's OpenShell runtime to secure autonomous AI agents.\n- SK Telecom and Rebellions will work with NVIDIA on sovereign AI infrastructure using NVLink Fusion."
+   },
+   "addedAt": "2026-11-09T09:15:00+00:00"
   }
  ],
  "upcoming": [],
