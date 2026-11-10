@@ -1,6 +1,64 @@
 {
- "updatedAt": "2026-11-10T03:30:17+00:00",
+ "updatedAt": "2026-11-10T11:39:02+00:00",
  "items": [
+  {
+   "id": "auto-00cc1a6e6be3",
+   "tab": "once-human",
+   "date": "2026-11-10",
+   "publishedAt": "2026-11-10T09:22:22+00:00",
+   "type": "update",
+   "importance": 1,
+   "sourceType": "official",
+   "sourceName": "Once Human — Steam News",
+   "url": "https://store.steampowered.com/news/app/2139460/view/1848664643358645",
+   "originalTitle": "3.1.2 Bug Fixes (November 10)",
+   "en": {
+    "title": "3.1.2 Bug Fixes (November 10)",
+    "summary": "November 10 The following issues are expected to be fixed by 04:00 PT. Actual completion time may vary: 1.",
+    "details": "November 10\n\nThe following issues are expected to be fixed by 04:00 PT. Actual completion time may vary:\n\n1. Fixed an issue where the \"Repair All\" function for ships could not use items from the territory's water tanks across Worlds, causing repairs on Advanced Trawls to fail."
+   },
+   "translated": false,
+   "fetchedAt": "2026-11-10T11:38:56+00:00"
+  },
+  {
+   "id": "auto-754889449632",
+   "tab": "ai",
+   "date": "2026-11-10",
+   "publishedAt": "2026-11-10T09:00:00+00:00",
+   "type": "business",
+   "importance": 1,
+   "sourceType": "official",
+   "sourceName": "OpenAI News",
+   "url": "https://openai.com/index/closing-ai-guidance-gap-education",
+   "originalTitle": "Closing the AI guidance gap in education",
+   "en": {
+    "title": "Closing the AI guidance gap in education",
+    "summary": "Lessons from OpenAI’s EMEA education partnerships and new ThinkYoung research. Supporting teachers, AI literacy and independent learning.",
+    "details": "Lessons from OpenAI’s EMEA education partnerships and new ThinkYoung research. Supporting teachers, AI literacy and independent learning."
+   },
+   "translated": false,
+   "fetchedAt": "2026-11-10T11:38:56+00:00",
+   "company": "OpenAI"
+  },
+  {
+   "id": "auto-a9ade18d1acb",
+   "tab": "ai",
+   "date": "2026-11-09",
+   "publishedAt": "2026-11-09T22:22:35+00:00",
+   "type": "model",
+   "importance": 1,
+   "sourceType": "community",
+   "sourceName": "r/LocalLLaMA",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xs5pkl/is_artificialanalysis_biased_against_open_weight/",
+   "originalTitle": "Is ArtificialAnalysis biased against open weight models?",
+   "en": {
+    "title": "Is ArtificialAnalysis biased against open weight models?",
+    "summary": "Community post on r/LocalLLaMA. It seems like whenever open weight models come close to proprietary US models, ArtificialAnalysis conveniently \"re-calibrates\" their benchmarks which then shoves open weight models down the toilet.",
+    "details": "Community post on r/LocalLLaMA.\n\nIt seems like whenever open weight models come close to proprietary US models, ArtificialAnalysis conveniently \"re-calibrates\" their benchmarks which then shoves open weight models down the toilet. Then they advertise on X/Twitter this \"intelligence index\" which presents open weight models as dog s*** compared to Claude or GPT (all while ignoring the actual intelligence of models like DeepSeek or GLM in tasks that actually matter, which is coding vs telecom bullshit).\n\nAny business man looking at these charts would conclude \"open weight models are s***, Claude is where its at, I should get a subscription to Anthropic.\"\n\nThey have the excuse that they are correcting \"saturated\" benchmarks but the effect on how open weights are presented is undeniable. I have a feeling they try to do it on the sly when possible and are paid in some way."
+   },
+   "translated": false,
+   "fetchedAt": "2026-11-10T11:39:02+00:00"
+  },
   {
    "id": "auto-b29035988574",
    "tab": "ai",
@@ -14,8 +72,8 @@
    "originalTitle": "Claude Fable 5.2 scores 65 on Artificial Analysis, highest so far",
    "en": {
     "title": "Claude Fable 5.2 scores 65 on Artificial Analysis, highest so far",
-    "summary": "Community discussion on Hacker News (301 points, 225 comments).",
-    "details": "Community discussion on Hacker News (301 points, 225 comments)."
+    "summary": "Community discussion on Hacker News (351 points, 254 comments).",
+    "details": "Community discussion on Hacker News (351 points, 254 comments)."
    },
    "translated": false,
    "fetchedAt": "2026-11-10T03:30:13+00:00"
@@ -33,8 +91,8 @@
    "originalTitle": "Muse Ember: Our smallest, most efficient model",
    "en": {
     "title": "Muse Ember: Our smallest, most efficient model",
-    "summary": "Community discussion on Hacker News (259 points, 109 comments).",
-    "details": "Community discussion on Hacker News (259 points, 109 comments)."
+    "summary": "Community discussion on Hacker News (309 points, 130 comments).",
+    "details": "Community discussion on Hacker News (309 points, 130 comments)."
    },
    "translated": false,
    "fetchedAt": "2026-11-10T03:30:13+00:00"
