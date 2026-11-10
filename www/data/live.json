@@ -1,6 +1,122 @@
 {
- "updatedAt": "2026-11-09T21:08:06+00:00",
+ "updatedAt": "2026-11-10T03:30:17+00:00",
  "items": [
+  {
+   "id": "auto-b29035988574",
+   "tab": "ai",
+   "date": "2026-11-09",
+   "publishedAt": "2026-11-09T20:04:55+00:00",
+   "type": "model",
+   "importance": 1,
+   "sourceType": "community",
+   "sourceName": "Hacker News",
+   "url": "https://news.ycombinator.com/item?id=50431144",
+   "originalTitle": "Claude Fable 5.2 scores 65 on Artificial Analysis, highest so far",
+   "en": {
+    "title": "Claude Fable 5.2 scores 65 on Artificial Analysis, highest so far",
+    "summary": "Community discussion on Hacker News (301 points, 225 comments).",
+    "details": "Community discussion on Hacker News (301 points, 225 comments)."
+   },
+   "translated": false,
+   "fetchedAt": "2026-11-10T03:30:13+00:00"
+  },
+  {
+   "id": "auto-0df0c2122e99",
+   "tab": "ai",
+   "date": "2026-11-09",
+   "publishedAt": "2026-11-09T17:58:46+00:00",
+   "type": "product",
+   "importance": 1,
+   "sourceType": "community",
+   "sourceName": "Hacker News",
+   "url": "https://news.ycombinator.com/item?id=50429024",
+   "originalTitle": "Muse Ember: Our smallest, most efficient model",
+   "en": {
+    "title": "Muse Ember: Our smallest, most efficient model",
+    "summary": "Community discussion on Hacker News (259 points, 109 comments).",
+    "details": "Community discussion on Hacker News (259 points, 109 comments)."
+   },
+   "translated": false,
+   "fetchedAt": "2026-11-10T03:30:13+00:00"
+  },
+  {
+   "id": "auto-aa3b2d0fc9d6",
+   "tab": "once-human",
+   "date": "2026-11-09",
+   "publishedAt": "2026-11-09T03:42:21+00:00",
+   "type": "community",
+   "importance": 1,
+   "sourceType": "community",
+   "sourceName": "r/OnceHumanOfficial",
+   "url": "https://www.reddit.com/r/OnceHumanOfficial/comments/1xrhgrb/once_human_permanently_banned_for_prohibited/",
+   "originalTitle": "Once Human - permanently banned for prohibited behaviour that I cannot pin point",
+   "en": {
+    "title": "Once Human - permanently banned for prohibited behaviour that I cannot pin point",
+    "summary": "Community post on r/OnceHumanOfficial. Curious to know who else playing Once Human got \"permanently banned for prohibited behaviour\" since the latest server maintenance of November 4th.",
+    "details": "Community post on r/OnceHumanOfficial.\n\nCurious to know who else playing Once Human got \"permanently banned for prohibited behaviour\" since the latest server maintenance of November 4th.\nAt first, I thought it had something to do with me playing the in-game piano all day or relocating my base. I was playing in Isles of Abyss X0003 and we're practically at the last of endgame content.\nThe following days, I started hearing about other players who got banned similarly as a result of cheaters landing in their server. Basically, the AI cheat detection system would literally flag everyone in an event as cheaters as long as there is at least one or a few cheaters really in the event. If that was the case, then I might have probably participated in at least one Calamity Tower event the days prior to maintenance where unsuspecting cheaters did show up who dealt massive damage that ended the event quicker than usual. At the moment, I was willing to rule it as them having better mods or more optimized food buffs on while I knew I was already undergeared anyways. But on hindsight, maybe the in game AI cheat detection did go a bit too far.\nIt's now 4 days that I'm still appealing and it got to the point that I received this funny email from the devs, and yes it does end on a less than professional passive-aggressive kind of emoji.\n\nI just want to know. Anyone else got banned like I did recently? Thoughts on how the devs are dealing with this rather over-the-top misunderstanding?"
+   },
+   "translated": false,
+   "fetchedAt": "2026-11-10T03:30:13+00:00"
+  },
+  {
+   "id": "auto-76b78fe0d23d",
+   "tab": "ai",
+   "date": "2026-11-09",
+   "publishedAt": "2026-11-09T16:46:43+00:00",
+   "type": "coding",
+   "importance": 1,
+   "sourceType": "official",
+   "sourceName": "GitHub Changelog",
+   "url": "https://github.blog/changelog/2026-11-09-claude-fable-5-2-in-github-copilot",
+   "originalTitle": "Claude Fable 5.2 in GitHub Copilot",
+   "en": {
+    "title": "Claude Fable 5.2 in GitHub Copilot",
+    "summary": "Claude Fable 5.2, Anthropic’s newest Fable model, is now generally available in GitHub Copilot. You can use it for complex, multistep coding tasks across large codebases.",
+    "details": "Claude Fable 5.2, Anthropic’s newest Fable model, is now generally available in GitHub Copilot. You can use it for complex, multistep coding tasks across large codebases. In early testing, Fable 5.2 solved more tasks than Claude Fable 5.1 while using fewer steps and tool calls. It also completed hard tasks that earlier models missed.\n\nClaude Fable 5.2 requires data retention by default to operate Anthropic’s safety classifiers. Zero data retention access is available for certain eligible enterprise customers. Continue reading for more details.\n\nThis model is billed at provider list pricing under usage-based billing. See Models and pricing for GitHub Copilot for details.\n\nAvailability in GitHub Copilot\n\nClaude Fable 5.2 is available to Copilot Pro+, Max, Business, and Enterprise users. You can select the model in the model picker in:\n\n- Visual Studio Code\n\n- Visual Studio\n\n- Copilot CLI\n\n- GitHub Copilot coding agent\n\n- GitHub Copilot app\n\n- github.com\n\n- GitHub Mobile on iOS and Android\n\n- JetBrains IDEs\n\n- Xcode\n\n- Eclipse\n\nRollout will be gradual. Check back soon if you don’t see it yet.\n\nEnabling access\n\nCopilot Enterprise and Copilot Business plan administrators must enable the Claude Fable 5.2 policy in Copilot settings. The policy is off by default. …"
+   },
+   "translated": false,
+   "fetchedAt": "2026-11-10T03:30:05+00:00",
+   "company": "GitHub"
+  },
+  {
+   "id": "auto-5161b66cebe7",
+   "tab": "ai",
+   "date": "2026-11-09",
+   "publishedAt": "2026-11-09T13:00:00+00:00",
+   "type": "product",
+   "importance": 1,
+   "sourceType": "official",
+   "sourceName": "OpenAI News",
+   "url": "https://openai.com/index/control-room",
+   "originalTitle": "Control Room: A central system to track and stop model workloads across our research infrastructure",
+   "en": {
+    "title": "Control Room: A central system to track and stop model workloads across our research infrastructure",
+    "summary": "Learn how OpenAI’s Control Room tracks model workloads across our research infrastructure and can rapidly stop them when safety or security concerns arise.",
+    "details": "Learn how OpenAI’s Control Room tracks model workloads across our research infrastructure and can rapidly stop them when safety or security concerns arise."
+   },
+   "translated": false,
+   "fetchedAt": "2026-11-10T03:30:04+00:00",
+   "company": "OpenAI"
+  },
+  {
+   "id": "auto-d968b8c7ff47",
+   "tab": "star-citizen",
+   "date": "2026-11-09",
+   "publishedAt": "2026-11-09T22:30:04+00:00",
+   "type": "development",
+   "importance": 1,
+   "sourceType": "official",
+   "sourceName": "RSI Comm-Link",
+   "url": "https://robertsspaceindustries.com/comm-link/transmission/21445-This-Week-In-Star-Citizen",
+   "originalTitle": "This Week in Star Citizen - November 9, 2026",
+   "en": {
+    "title": "This Week in Star Citizen - November 9, 2026",
+    "summary": "Happy Monday, everyone! Let’s see what’s happening in and out of the ‘verse, This Week in Star Citizen.",
+    "details": "Happy Monday, everyone! Let’s see what’s happening in and out of the ‘verse, This Week in Star Citizen."
+   },
+   "translated": false,
+   "fetchedAt": "2026-11-10T03:30:04+00:00"
+  },
   {
    "id": "auto-3a734b9514d5",
    "tab": "ai",
@@ -171,7 +287,7 @@
    "en": {
     "title": "NVIDIA Announces New Planned Investments in Korean Startups at the MSIT-NVIDIA AI Startup Partnership Forum",
     "summary": "Korea’s Ministry of Science and ICT and NVIDIA hosted the MSIT -NVIDIA AI Startup Partnership Forum at COEX.",
-    "details": "Korea’s Ministry of Science and ICT and NVIDIA hosted the MSIT -NVIDIA AI Startup Partnership Forum at COEX.\n\nRyu Je-myung, vice minister of science and ICT , joined NVIDIA leaders to meet with over 20 Korean startups across foundation models, physical AI, AI infrastructure and AI semiconductors.\n\nNVIDIA also announced an investment in Korean startup Point2 , with additional investments planned in Motif Technologies , RLWRLD and Upstage.\n\nPoint2 Technology, an AI interconnect company, builds scalable, radio frequency-based interconnects that move data between chips and racks in AI factories, offering an innovative alternative to conventional copper and optical interconnect solutions for AI cluster scale-up, delivering the reach, performance and efficiency needed for next-generation AI infrastructure.\n\nMotif Technologies , a Seoul-based AI lab, develops foundation models for building AI agents that carry out complex tasks, including Motif-3, a large language model released with open weights.\n\nRLWRLD, a physical AI startup based in San Francisco, Seoul and Tokyo, develops robotics foundation models that enable humanoid and industrial robots to perform complex real-world tasks that require five-finger dexterity, such as precisely inserting components, threading nuts onto bolts and kitting parts from moving conveyors. …"
+    "details": "Korea’s Ministry of Science and ICT and NVIDIA hosted the MSIT -NVIDIA AI Startup Partnership Forum at COEX.\n\nRepresentatives from the Ministry of Science and ICT and NVIDIA met with over 20 Korean startups across foundation models, physical AI, AI infrastructure and AI semiconductors.\n\nNVIDIA also announced an investment in Korean startup Point2 , with additional investments planned in Motif Technologies , RLWRLD and Upstage.\n\nPoint2 Technology, an AI interconnect company, builds scalable, radio frequency-based interconnects that move data between chips and racks in AI factories, offering an innovative alternative to conventional copper and optical interconnect solutions for AI cluster scale-up, delivering the reach, performance and efficiency needed for next-generation AI infrastructure.\n\nMotif Technologies , a Seoul-based AI lab, develops foundation models for building AI agents that carry out complex tasks, including Motif-3, a large language model released with open weights.\n\nRLWRLD, a physical AI startup based in San Francisco, Seoul and Tokyo, develops robotics foundation models that enable humanoid and industrial robots to perform complex real-world tasks that require five-finger dexterity, such as precisely inserting components, threading nuts onto bolts and kitting parts from moving conveyors. …"
    },
    "translated": false,
    "fetchedAt": "2026-11-09T10:48:28+00:00",
