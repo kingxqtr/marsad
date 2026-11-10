@@ -1,6 +1,245 @@
 {
- "updatedAt": "2026-11-10T11:39:02+00:00",
+ "updatedAt": "2026-11-10T18:49:05+00:00",
  "items": [
+  {
+   "id": "auto-c153c1744a5e",
+   "tab": "ai",
+   "date": "2026-11-10",
+   "publishedAt": "2026-11-10T14:00:00+00:00",
+   "type": "business",
+   "importance": 1,
+   "sourceType": "official",
+   "sourceName": "Google Blog — AI",
+   "url": "https://blog.google/company-news/inside-google/company-announcements/adobe-google-partnership-integration/",
+   "originalTitle": "We’re bringing Adobe’s creative and productivity tools closer to your everyday Google apps.",
+   "en": {
+    "title": "We’re bringing Adobe’s creative and productivity tools closer to your everyday Google apps.",
+    "summary": "Google and Adobe are integrating creative and productivity tools. Edit PDFs in Drive and use Adobe AI in Gemini. See what’s new in this partnership.",
+    "details": "Google and Adobe are integrating creative and productivity tools. Edit PDFs in Drive and use Adobe AI in Gemini. See what’s new in this partnership."
+   },
+   "translated": false,
+   "fetchedAt": "2026-11-10T18:49:01+00:00",
+   "company": "Google"
+  },
+  {
+   "id": "auto-68ecada325b5",
+   "tab": "ai",
+   "date": "2026-11-10",
+   "publishedAt": "2026-11-10T13:00:00+00:00",
+   "type": "product",
+   "importance": 1,
+   "sourceType": "official",
+   "sourceName": "Google Blog — AI",
+   "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-for-healthcare/",
+   "originalTitle": "Google Cloud launches Gemini for healthcare.",
+   "en": {
+    "title": "Google Cloud launches Gemini for healthcare.",
+    "summary": "Google Cloud launches Gemini for healthcare to unify clinical data and automate workflows. Reduce administrative burnout. See how it works.",
+    "details": "Google Cloud launches Gemini for healthcare to unify clinical data and automate workflows. Reduce administrative burnout. See how it works."
+   },
+   "translated": false,
+   "fetchedAt": "2026-11-10T18:49:01+00:00",
+   "company": "Google"
+  },
+  {
+   "id": "auto-6fd06cc5bf95",
+   "tab": "ai",
+   "date": "2026-11-10",
+   "publishedAt": "2026-11-10T00:00:00+00:00",
+   "type": "product",
+   "importance": 1,
+   "sourceType": "official",
+   "sourceName": "Hugging Face Blog",
+   "url": "https://huggingface.co/blog/hub-gcp-marketplace",
+   "originalTitle": "Pay for Hugging Face Hub with your Google Cloud Account",
+   "en": {
+    "title": "Pay for Hugging Face Hub with your Google Cloud Account",
+    "summary": "Pay for Hugging Face Hub with your Google Cloud Account",
+    "details": ""
+   },
+   "translated": false,
+   "fetchedAt": "2026-11-10T18:49:01+00:00",
+   "company": "Hugging Face"
+  },
+  {
+   "id": "auto-e8f22730f8d6",
+   "tab": "ai",
+   "date": "2026-11-10",
+   "publishedAt": "2026-11-10T00:00:00+00:00",
+   "type": "product",
+   "importance": 1,
+   "sourceType": "official",
+   "sourceName": "Hugging Face Blog",
+   "url": "https://huggingface.co/blog/decision",
+   "originalTitle": "Decision Models in Hugging Face",
+   "en": {
+    "title": "Decision Models in Hugging Face",
+    "summary": "Decision Models in Hugging Face",
+    "details": ""
+   },
+   "translated": false,
+   "fetchedAt": "2026-11-10T18:49:01+00:00",
+   "company": "Hugging Face"
+  },
+  {
+   "id": "auto-4dac667b2e65",
+   "tab": "ai",
+   "date": "2026-11-10",
+   "publishedAt": "2026-11-10T16:00:03+00:00",
+   "type": "hardware",
+   "importance": 1,
+   "sourceType": "official",
+   "sourceName": "NVIDIA Blog",
+   "url": "https://blogs.nvidia.com/blog/open-source-openshell-infrastructure/",
+   "originalTitle": "NVIDIA Expands Open Source Commitment With OpenShell Donation and New AI Infrastructure",
+   "en": {
+    "title": "NVIDIA Expands Open Source Commitment With OpenShell Donation and New AI Infrastructure",
+    "summary": "Kubernetes, the open source system that manages how applications run across thousands of AI factories, has become the foundation for AI, and the demands on it are only growing.",
+    "details": "Kubernetes, the open source system that manages how applications run across thousands of AI factories, has become the foundation for AI, and the demands on it are only growing.\n\nTo help meet them, NVIDIA is deepening its commitment to open source at KubeCon + CloudNativeCon , the flagship conference for the Kubernetes and cloud-native communities.\n\nNVIDIA is contributing NVIDIA OpenShell , an open source runtime for securing and governing autonomous agents, to the Cloud Native Computing Foundation (CNCF), a nonprofit that is part of the Linux Foundation and the host of KubeCon. As a CNCF Sandbox project, OpenShell will be governed by the organizations building it into their products and strengthened by the expertise of security professionals worldwide.\n\nNVIDIA is also contributing to Agent Substrate , an open source Google-led framework for operating long-running agent workloads at scale on Kubernetes that has been accepted into the CNCF Sandbox.\n\nAdditionally, NVIDIA announced new components of the NVIDIA DSX AI Factory Platform : NVIDIA Kubernetes Engine , NVIDIA Kubernetes Recipes and NVIDIA Snapshot . These tools help teams deploy, manage and scale GPU infrastructure on Kubernetes for AI factories.\n\nTogether, these advancements mark a step forward in making Kubernetes the leading foundation for AI workloads at scale — empowering developers to build safer, more efficient AI infrastructure for the future.\n\nSecuring AI Agents in the Open …"
+   },
+   "translated": false,
+   "fetchedAt": "2026-11-10T18:49:01+00:00",
+   "company": "NVIDIA"
+  },
+  {
+   "id": "auto-c24568a8fa34",
+   "tab": "star-citizen",
+   "date": "2026-11-10",
+   "publishedAt": "2026-11-10T15:49:00+00:00",
+   "type": "development",
+   "importance": 1,
+   "sourceType": "official",
+   "sourceName": "RSI Comm-Link",
+   "url": "https://robertsspaceindustries.com/comm-link/transmission/20943-Monthly-Store-Bundle-2026",
+   "originalTitle": "Monthly Store Bundle 2026",
+   "en": {
+    "title": "Monthly Store Bundle 2026",
+    "summary": "Monthly Store Bundle 2026",
+    "details": ""
+   },
+   "translated": false,
+   "fetchedAt": "2026-11-10T18:49:00+00:00"
+  },
+  {
+   "id": "auto-ef8dd60bb81f",
+   "tab": "ai",
+   "date": "2026-11-10",
+   "publishedAt": "2026-11-10T17:04:10+00:00",
+   "type": "coding",
+   "importance": 1,
+   "sourceType": "official",
+   "sourceName": "GitHub Changelog",
+   "url": "https://github.blog/changelog/2026-11-10-c-language-server-now-auto-configures-msbuild-builds",
+   "originalTitle": "C++ language server now auto-configures MSBuild builds",
+   "en": {
+    "title": "C++ language server now auto-configures MSBuild builds",
+    "summary": "The Microsoft C++ Language Server for GitHub Copilot CLI now bundles its MSBuild compile commands extractor and invokes it automatically.",
+    "details": "The Microsoft C++ Language Server for GitHub Copilot CLI now bundles its MSBuild compile commands extractor and invokes it automatically. An agent no longer needs to discover and run a separate configuration skill before it can get precise code intelligence for your project. For more information, including the installation instructions, see the main repository page .\n\nWhat changed\n\nPreviously, setting up go-to-definition, find references, and other language server features for an MSBuild-based C++ project required you to either provide your own compile_commands.json file or Copilot to locate and run a configuration skill before it could generate a compilation database. That extra discovery step added setup time and consumed tokens before Copilot could start working with your code.\n\nNow:\n\n- The compile commands extractor is bundled directly with the C++ language server, so it’s always available.\n\n- Copilot invokes the extractor when starting the language server on project open, with no manual or agent-driven setup skill required.\n\n- Compilation database generation for MSBuild projects is deterministic, reducing setup token usage.\n\nConfigure other build systems\n\nFor other build systems, you can provide your own compile_commands.json or use a skill to generate one:\n\n- For CMake projects, use the generate compile commands skill introduced in the earlier C++ language server release by asking Copilot CLI to “load project.” …"
+   },
+   "translated": false,
+   "fetchedAt": "2026-11-10T18:49:00+00:00",
+   "company": "GitHub"
+  },
+  {
+   "id": "auto-e55418bb424c",
+   "tab": "ai",
+   "date": "2026-11-10",
+   "publishedAt": "2026-11-10T16:03:47+00:00",
+   "type": "model",
+   "importance": 1,
+   "sourceType": "official",
+   "sourceName": "Google DeepMind Blog",
+   "url": "https://deepmind.google/blog/gemini-4-carbon-is-now-available/",
+   "originalTitle": "Gemini 4 Carbon is now available",
+   "en": {
+    "title": "Gemini 4 Carbon is now available",
+    "summary": "Gemini 4 Carbon is now available",
+    "details": ""
+   },
+   "translated": false,
+   "fetchedAt": "2026-11-10T18:49:00+00:00",
+   "company": "Google"
+  },
+  {
+   "id": "auto-4133c672faa8",
+   "tab": "ai",
+   "date": "2026-11-10",
+   "publishedAt": "2026-11-10T12:02:28+00:00",
+   "type": "coding",
+   "importance": 1,
+   "sourceType": "official",
+   "sourceName": "Google DeepMind Blog",
+   "url": "https://deepmind.google/blog/introducing-alphaproof-code/",
+   "originalTitle": "Introducing AlphaProof Code: a breakthrough in verifying complex software at depth",
+   "en": {
+    "title": "Introducing AlphaProof Code: a breakthrough in verifying complex software at depth",
+    "summary": "AlphaProof Code agents wrote three million lines of proofs in Lean to verify Signal’s core encryption.",
+    "details": "AlphaProof Code agents wrote three million lines of proofs in Lean to verify Signal’s core encryption."
+   },
+   "translated": false,
+   "fetchedAt": "2026-11-10T18:49:00+00:00",
+   "company": "Google"
+  },
+  {
+   "id": "auto-e404dac8ec41",
+   "tab": "ai",
+   "date": "2026-11-10",
+   "publishedAt": "2026-11-10T12:00:00+00:00",
+   "type": "product",
+   "importance": 1,
+   "sourceType": "official",
+   "sourceName": "OpenAI News",
+   "url": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life",
+   "originalTitle": "Helping caregivers use AI in everyday life",
+   "en": {
+    "title": "Helping caregivers use AI in everyday life",
+    "summary": "OpenAI Academy is bringing free, hands-on ChatGPT workshops to caregivers in five U.S. cities, helping them build practical AI skills for everyday life.",
+    "details": "OpenAI Academy is bringing free, hands-on ChatGPT workshops to caregivers in five U.S. cities, helping them build practical AI skills for everyday life."
+   },
+   "translated": false,
+   "fetchedAt": "2026-11-10T18:49:00+00:00",
+   "company": "OpenAI"
+  },
+  {
+   "id": "auto-fb18e273e4ff",
+   "tab": "ai",
+   "date": "2026-11-10",
+   "publishedAt": "2026-11-10T10:00:00+00:00",
+   "type": "product",
+   "importance": 1,
+   "sourceType": "official",
+   "sourceName": "OpenAI News",
+   "url": "https://openai.com/index/introducing-businesses-chatgpt",
+   "originalTitle": "Introducing Businesses in ChatGPT",
+   "en": {
+    "title": "Introducing Businesses in ChatGPT",
+    "summary": "Manage your business information, get insights about how your business shows up, and turn interest into action in ChatGPT.",
+    "details": "Manage your business information, get insights about how your business shows up, and turn interest into action in ChatGPT."
+   },
+   "translated": false,
+   "fetchedAt": "2026-11-10T18:49:00+00:00",
+   "company": "OpenAI"
+  },
+  {
+   "id": "auto-1f81bf923bcd",
+   "tab": "ai",
+   "date": "2026-11-10",
+   "publishedAt": "2026-11-10T07:00:00+00:00",
+   "type": "product",
+   "importance": 1,
+   "sourceType": "official",
+   "sourceName": "OpenAI News",
+   "url": "https://openai.com/index/ai-effect-on-freelance-work",
+   "originalTitle": "Work at the Frontier: AI’s effect on freelance work",
+   "en": {
+    "title": "Work at the Frontier: AI’s effect on freelance work",
+    "summary": "New research from OpenAI and Upwork finds shifting demand for freelance work, new skill combinations, and larger budgets and more hours for AI-related projects.",
+    "details": "New research from OpenAI and Upwork finds shifting demand for freelance work, new skill combinations, and larger budgets and more hours for AI-related projects."
+   },
+   "translated": false,
+   "fetchedAt": "2026-11-10T18:49:00+00:00",
+   "company": "OpenAI"
+  },
   {
    "id": "auto-00cc1a6e6be3",
    "tab": "once-human",
@@ -33,12 +272,32 @@
    "originalTitle": "Closing the AI guidance gap in education",
    "en": {
     "title": "Closing the AI guidance gap in education",
-    "summary": "Lessons from OpenAI’s EMEA education partnerships and new ThinkYoung research. Supporting teachers, AI literacy and independent learning.",
-    "details": "Lessons from OpenAI’s EMEA education partnerships and new ThinkYoung research. Supporting teachers, AI literacy and independent learning."
+    "summary": "New ThinkYoung research and lessons from OpenAI’s EMEA education partnerships on supporting teachers, AI literacy, and independent learning.",
+    "details": "New ThinkYoung research and lessons from OpenAI’s EMEA education partnerships on supporting teachers, AI literacy, and independent learning."
    },
    "translated": false,
    "fetchedAt": "2026-11-10T11:38:56+00:00",
    "company": "OpenAI"
+  },
+  {
+   "id": "auto-9b9db002d7e9",
+   "tab": "ai",
+   "date": "2026-11-09",
+   "publishedAt": "2026-11-09T19:51:47+00:00",
+   "type": "product",
+   "importance": 1,
+   "sourceType": "official",
+   "sourceName": "Google DeepMind Blog",
+   "url": "https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence/",
+   "originalTitle": "Gemini Robotics 2.5 accelerates real-world general dexterity",
+   "en": {
+    "title": "Gemini Robotics 2.5 accelerates real-world general dexterity",
+    "summary": "Our most capable vision-language-action model enhances robot dexterity, reliability, and safety",
+    "details": "Our most capable vision-language-action model enhances robot dexterity, reliability, and safety"
+   },
+   "translated": false,
+   "fetchedAt": "2026-11-10T18:49:00+00:00",
+   "company": "Google"
   },
   {
    "id": "auto-a9ade18d1acb",
@@ -72,8 +331,8 @@
    "originalTitle": "Claude Fable 5.2 scores 65 on Artificial Analysis, highest so far",
    "en": {
     "title": "Claude Fable 5.2 scores 65 on Artificial Analysis, highest so far",
-    "summary": "Community discussion on Hacker News (351 points, 254 comments).",
-    "details": "Community discussion on Hacker News (351 points, 254 comments)."
+    "summary": "Community discussion on Hacker News (364 points, 262 comments).",
+    "details": "Community discussion on Hacker News (364 points, 262 comments)."
    },
    "translated": false,
    "fetchedAt": "2026-11-10T03:30:13+00:00"
@@ -91,8 +350,8 @@
    "originalTitle": "Muse Ember: Our smallest, most efficient model",
    "en": {
     "title": "Muse Ember: Our smallest, most efficient model",
-    "summary": "Community discussion on Hacker News (309 points, 130 comments).",
-    "details": "Community discussion on Hacker News (309 points, 130 comments)."
+    "summary": "Community discussion on Hacker News (322 points, 139 comments).",
+    "details": "Community discussion on Hacker News (322 points, 139 comments)."
    },
    "translated": false,
    "fetchedAt": "2026-11-10T03:30:13+00:00"
