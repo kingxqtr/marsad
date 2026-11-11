@@ -1,6 +1,66 @@
 {
- "updatedAt": "2026-11-11T03:07:51+00:00",
+ "updatedAt": "2026-11-11T10:48:17+00:00",
  "items": [
+  {
+   "id": "auto-700082c54602",
+   "tab": "ai",
+   "date": "2026-11-11",
+   "publishedAt": "2026-11-11T08:00:00+00:00",
+   "type": "product",
+   "importance": 1,
+   "sourceType": "official",
+   "sourceName": "OpenAI News",
+   "url": "https://openai.com/index/chatgpt-plus-for-veterans",
+   "originalTitle": "ChatGPT Plus for veterans and servicemembers",
+   "en": {
+    "title": "ChatGPT Plus for veterans and servicemembers",
+    "summary": "More than 20,000 veterans and transitioning service members have claimed a free year of ChatGPT Plus. See how they use it to prepare for civilian careers.",
+    "details": "More than 20,000 veterans and transitioning service members have claimed a free year of ChatGPT Plus. See how they use it to prepare for civilian careers."
+   },
+   "translated": false,
+   "fetchedAt": "2026-11-11T10:48:12+00:00",
+   "company": "OpenAI"
+  },
+  {
+   "id": "auto-8b8f55b5b1ee",
+   "tab": "ai",
+   "date": "2026-11-11",
+   "publishedAt": "2026-11-11T09:00:00+00:00",
+   "type": "product",
+   "importance": 1,
+   "sourceType": "official",
+   "sourceName": "Google Blog — AI",
+   "url": "https://blog.google/company-news/outreach-and-initiatives/arts-culture/esther-mahlangu/",
+   "originalTitle": "Experience the art and legacy of Dr. Esther Mahlangu",
+   "en": {
+    "title": "Experience the art and legacy of Dr. Esther Mahlangu",
+    "summary": "A new online archive of Esther Mahlangu’s life and art is now on Google Arts & Culture.",
+    "details": "A new online archive of Esther Mahlangu’s life and art is now on Google Arts & Culture."
+   },
+   "translated": false,
+   "fetchedAt": "2026-11-11T10:48:12+00:00",
+   "company": "Google"
+  },
+  {
+   "id": "auto-09936140454c",
+   "tab": "ai",
+   "date": "2026-11-11",
+   "publishedAt": "2026-11-11T05:01:16+00:00",
+   "type": "hardware",
+   "importance": 1,
+   "sourceType": "official",
+   "sourceName": "Hugging Face Blog",
+   "url": "https://huggingface.co/blog/qvac/botpsy",
+   "originalTitle": "BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
+   "en": {
+    "title": "BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
+    "summary": "BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
+    "details": ""
+   },
+   "translated": false,
+   "fetchedAt": "2026-11-11T10:48:12+00:00",
+   "company": "Hugging Face"
+  },
   {
    "id": "auto-09174dc51985",
    "tab": "ai",
@@ -42,6 +102,25 @@
    "company": "NVIDIA"
   },
   {
+   "id": "auto-ded16965bd1d",
+   "tab": "ai",
+   "date": "2026-11-10",
+   "publishedAt": "2026-11-10T21:25:03+00:00",
+   "type": "product",
+   "importance": 1,
+   "sourceType": "community",
+   "sourceName": "Hacker News",
+   "url": "https://news.ycombinator.com/item?id=50446520",
+   "originalTitle": "Apple has new Mac app coming to make running local AI models easy",
+   "en": {
+    "title": "Apple has new Mac app coming to make running local AI models easy",
+    "summary": "Community discussion on Hacker News (267 points, 228 comments).",
+    "details": "Community discussion on Hacker News (267 points, 228 comments)."
+   },
+   "translated": false,
+   "fetchedAt": "2026-11-11T10:48:12+00:00"
+  },
+  {
    "id": "auto-881a82c1ae81",
    "tab": "ai",
    "date": "2026-11-10",
@@ -54,8 +133,8 @@
    "originalTitle": "Show HN: Get your coding agent off ~2019 JavaScript, onto modern web primitives",
    "en": {
     "title": "Show HN: Get your coding agent off ~2019 JavaScript, onto modern web primitives",
-    "summary": "Community discussion on Hacker News (277 points, 85 comments).",
-    "details": "Community discussion on Hacker News (277 points, 85 comments)."
+    "summary": "Community discussion on Hacker News (372 points, 113 comments).",
+    "details": "Community discussion on Hacker News (372 points, 113 comments)."
    },
    "translated": false,
    "fetchedAt": "2026-11-11T03:07:46+00:00"
@@ -133,8 +212,8 @@
    "originalTitle": "AI usage generates a fragile codebase",
    "en": {
     "title": "AI usage generates a fragile codebase",
-    "summary": "Community discussion on Hacker News (404 points, 421 comments).",
-    "details": "Community discussion on Hacker News (404 points, 421 comments)."
+    "summary": "Community discussion on Hacker News (563 points, 531 comments).",
+    "details": "Community discussion on Hacker News (563 points, 531 comments)."
    },
    "translated": false,
    "fetchedAt": "2026-11-10T23:46:29+00:00"
@@ -469,8 +548,8 @@
    "originalTitle": "Claude Fable 5.2 scores 65 on Artificial Analysis, highest so far",
    "en": {
     "title": "Claude Fable 5.2 scores 65 on Artificial Analysis, highest so far",
-    "summary": "Community discussion on Hacker News (373 points, 269 comments).",
-    "details": "Community discussion on Hacker News (373 points, 269 comments)."
+    "summary": "Community discussion on Hacker News (375 points, 272 comments).",
+    "details": "Community discussion on Hacker News (375 points, 272 comments)."
    },
    "translated": false,
    "fetchedAt": "2026-11-10T03:30:13+00:00"
@@ -488,8 +567,8 @@
    "originalTitle": "Muse Ember: Our smallest, most efficient model",
    "en": {
     "title": "Muse Ember: Our smallest, most efficient model",
-    "summary": "Community discussion on Hacker News (329 points, 140 comments).",
-    "details": "Community discussion on Hacker News (329 points, 140 comments)."
+    "summary": "Community discussion on Hacker News (330 points, 140 comments).",
+    "details": "Community discussion on Hacker News (330 points, 140 comments)."
    },
    "translated": false,
    "fetchedAt": "2026-11-10T03:30:13+00:00"
