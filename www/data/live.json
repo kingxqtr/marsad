@@ -1,6 +1,65 @@
 {
- "updatedAt": "2026-11-10T23:46:34+00:00",
+ "updatedAt": "2026-11-11T03:07:51+00:00",
  "items": [
+  {
+   "id": "auto-09174dc51985",
+   "tab": "ai",
+   "date": "2026-11-11",
+   "publishedAt": "2026-11-11T00:10:31+00:00",
+   "type": "coding",
+   "importance": 1,
+   "sourceType": "official",
+   "sourceName": "GitHub Changelog",
+   "url": "https://github.blog/changelog/2026-11-10-github-app-support-for-enterprise-copilot-seat-management",
+   "originalTitle": "GitHub App support for Enterprise Copilot seat management",
+   "en": {
+    "title": "GitHub App support for Enterprise Copilot seat management",
+    "summary": "Enterprise GitHub Apps can now call the enterprise-level Copilot seat management APIs to control which users and enterprise teams are assigned Copilot seats.",
+    "details": "Enterprise GitHub Apps can now call the enterprise-level Copilot seat management APIs to control which users and enterprise teams are assigned Copilot seats.\n\nThe Copilot seat management APIs are accessible with a new enterprise fine-grained permission for Apps: Enterprise Copilot license management .\n\nThe post GitHub App support for Enterprise Copilot seat management appeared first on The GitHub Blog ."
+   },
+   "translated": false,
+   "fetchedAt": "2026-11-11T03:07:45+00:00",
+   "company": "GitHub"
+  },
+  {
+   "id": "auto-22cd787d1bd4",
+   "tab": "ai",
+   "date": "2026-11-11",
+   "publishedAt": "2026-11-11T03:00:20+00:00",
+   "type": "hardware",
+   "importance": 1,
+   "sourceType": "official",
+   "sourceName": "NVIDIA Blog",
+   "url": "https://blogs.nvidia.com/blog/ai-recycling-startups/",
+   "originalTitle": "How AI Helps Recyclers Turn Mixed Waste Into Reusable Material",
+   "en": {
+    "title": "How AI Helps Recyclers Turn Mixed Waste Into Reusable Material",
+    "summary": "How AI Helps Recyclers Turn Mixed Waste Into Reusable Material",
+    "details": ""
+   },
+   "translated": false,
+   "fetchedAt": "2026-11-11T03:07:45+00:00",
+   "company": "NVIDIA"
+  },
+  {
+   "id": "auto-881a82c1ae81",
+   "tab": "ai",
+   "date": "2026-11-10",
+   "publishedAt": "2026-11-10T18:01:15+00:00",
+   "type": "coding",
+   "importance": 1,
+   "sourceType": "community",
+   "sourceName": "Hacker News",
+   "url": "https://news.ycombinator.com/item?id=50443812",
+   "originalTitle": "Show HN: Get your coding agent off ~2019 JavaScript, onto modern web primitives",
+   "en": {
+    "title": "Show HN: Get your coding agent off ~2019 JavaScript, onto modern web primitives",
+    "summary": "Community discussion on Hacker News (277 points, 85 comments).",
+    "details": "Community discussion on Hacker News (277 points, 85 comments)."
+   },
+   "translated": false,
+   "fetchedAt": "2026-11-11T03:07:46+00:00"
+  },
   {
    "id": "auto-6f37bd791cfe",
    "tab": "ai",
@@ -74,8 +133,8 @@
    "originalTitle": "AI usage generates a fragile codebase",
    "en": {
     "title": "AI usage generates a fragile codebase",
-    "summary": "Community discussion on Hacker News (343 points, 378 comments).",
-    "details": "Community discussion on Hacker News (343 points, 378 comments)."
+    "summary": "Community discussion on Hacker News (404 points, 421 comments).",
+    "details": "Community discussion on Hacker News (404 points, 421 comments)."
    },
    "translated": false,
    "fetchedAt": "2026-11-10T23:46:29+00:00"
@@ -410,8 +469,8 @@
    "originalTitle": "Claude Fable 5.2 scores 65 on Artificial Analysis, highest so far",
    "en": {
     "title": "Claude Fable 5.2 scores 65 on Artificial Analysis, highest so far",
-    "summary": "Community discussion on Hacker News (370 points, 267 comments).",
-    "details": "Community discussion on Hacker News (370 points, 267 comments)."
+    "summary": "Community discussion on Hacker News (373 points, 269 comments).",
+    "details": "Community discussion on Hacker News (373 points, 269 comments)."
    },
    "translated": false,
    "fetchedAt": "2026-11-10T03:30:13+00:00"
@@ -429,8 +488,8 @@
    "originalTitle": "Muse Ember: Our smallest, most efficient model",
    "en": {
     "title": "Muse Ember: Our smallest, most efficient model",
-    "summary": "Community discussion on Hacker News (327 points, 139 comments).",
-    "details": "Community discussion on Hacker News (327 points, 139 comments)."
+    "summary": "Community discussion on Hacker News (329 points, 140 comments).",
+    "details": "Community discussion on Hacker News (329 points, 140 comments)."
    },
    "translated": false,
    "fetchedAt": "2026-11-10T03:30:13+00:00"
