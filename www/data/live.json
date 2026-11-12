@@ -1,6 +1,44 @@
 {
- "updatedAt": "2026-11-12T00:36:32+00:00",
+ "updatedAt": "2026-11-12T07:41:52+00:00",
  "items": [
+  {
+   "id": "auto-4c4ad46fcefe",
+   "tab": "once-human",
+   "date": "2026-11-12",
+   "publishedAt": "2026-11-12T02:37:37+00:00",
+   "type": "announcement",
+   "importance": 1,
+   "sourceType": "official",
+   "sourceName": "Once Human — Steam News",
+   "url": "https://store.steampowered.com/news/app/2139460/view/1849192144181213",
+   "originalTitle": "Dev Blog | Radiance Update, Identity Indicators Rework & Expansion",
+   "en": {
+    "title": "Dev Blog | Radiance Update, Identity Indicators Rework & Expansion",
+    "summary": "Dear Metas, Since the radiance system launched, it has been the identity mark of every Meta in this wasteland—it records your pursuit of beauty across Nalcott and preserves each Meta's unique accumulation.",
+    "details": "Dear Metas,\n\nSince the radiance system launched, it has been the identity mark of every Meta in this wasteland—it records your pursuit of beauty across Nalcott and preserves each Meta's unique accumulation. We have continued to notice that, because past cosmetics and radiance-related content were released in batches, the radiance presentation of some special cosmetics does not match the current latest standards. At the same time, the visual presentation of identity indicators and nickname displays makes it difficult to reflect the value of radiance, and there is still significant room for improvement in high-frequency scenes such as team play and dungeons.\n\nTherefore, we plan a comprehensive update to the Radiance Benefits experience: unify radiance values, rework identity indicators, add new Radiance Shop content, and extend nickname color changes to more scenes, so that identity indicators truly follow you everywhere.\n\nThis update will go live after the November 18 (PT) version update. If you have any thoughts or suggestions, Metas, please feel free to share them with us via the Feedback Platform (Once Human Feedback Platform). Below is a detailed introduction.\n\n1. Unified Update of \"Team Name Decor\" and \"Personalized Badges\" …"
+   },
+   "translated": false,
+   "fetchedAt": "2026-11-12T07:41:47+00:00"
+  },
+  {
+   "id": "auto-21262dd5598a",
+   "tab": "ai",
+   "date": "2026-11-11",
+   "publishedAt": "2026-11-11T18:32:42+00:00",
+   "type": "coding",
+   "importance": 1,
+   "sourceType": "community",
+   "sourceName": "Hacker News",
+   "url": "https://news.ycombinator.com/item?id=50456791",
+   "originalTitle": "Gemini Decisions API",
+   "en": {
+    "title": "Gemini Decisions API",
+    "summary": "Community discussion on Hacker News (393 points, 122 comments).",
+    "details": "Community discussion on Hacker News (393 points, 122 comments)."
+   },
+   "translated": false,
+   "fetchedAt": "2026-11-12T07:41:47+00:00"
+  },
   {
    "id": "auto-df29be81f28a",
    "tab": "ai",
@@ -14,8 +52,8 @@
    "originalTitle": "United Airlines bans AI agents from booking flights on behalf of travelers",
    "en": {
     "title": "United Airlines bans AI agents from booking flights on behalf of travelers",
-    "summary": "Community discussion on Hacker News (310 points, 283 comments).",
-    "details": "Community discussion on Hacker News (310 points, 283 comments)."
+    "summary": "Community discussion on Hacker News (519 points, 508 comments).",
+    "details": "Community discussion on Hacker News (519 points, 508 comments)."
    },
    "translated": false,
    "fetchedAt": "2026-11-12T00:36:27+00:00"
@@ -71,9 +109,9 @@
    "url": "https://news.ycombinator.com/item?id=50452455",
    "originalTitle": "Google SWE points 48 AI agents at NASA Lidar, finds unmapped Maya pyramid in 72h",
    "en": {
-    "title": "My AI agents found an unmapped Maya site",
-    "summary": "Community discussion on Hacker News (917 points, 335 comments).",
-    "details": "Community discussion on Hacker News (917 points, 335 comments)."
+    "title": "My AI agents found an unmapped Maya site?",
+    "summary": "Community discussion on Hacker News (973 points, 354 comments).",
+    "details": "Community discussion on Hacker News (973 points, 354 comments)."
    },
    "translated": false,
    "fetchedAt": "2026-11-11T18:08:23+00:00"
@@ -251,8 +289,8 @@
    "originalTitle": "Apple has new Mac app coming to make running local AI models easy",
    "en": {
     "title": "Apple has new Mac app coming to make running local AI models easy",
-    "summary": "Community discussion on Hacker News (515 points, 524 comments).",
-    "details": "Community discussion on Hacker News (515 points, 524 comments)."
+    "summary": "Community discussion on Hacker News (529 points, 535 comments).",
+    "details": "Community discussion on Hacker News (529 points, 535 comments)."
    },
    "translated": false,
    "fetchedAt": "2026-11-11T10:48:12+00:00"
@@ -270,8 +308,8 @@
    "originalTitle": "Show HN: Get your coding agent off ~2019 JavaScript, onto modern web primitives",
    "en": {
     "title": "Show HN: Get your coding agent off ~2019 JavaScript, onto modern web primitives",
-    "summary": "Community discussion on Hacker News (423 points, 141 comments).",
-    "details": "Community discussion on Hacker News (423 points, 141 comments)."
+    "summary": "Community discussion on Hacker News (429 points, 142 comments).",
+    "details": "Community discussion on Hacker News (429 points, 142 comments)."
    },
    "translated": false,
    "fetchedAt": "2026-11-11T03:07:46+00:00"
