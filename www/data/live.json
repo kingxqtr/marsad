@@ -1,6 +1,64 @@
 {
- "updatedAt": "2026-11-11T18:08:29+00:00",
+ "updatedAt": "2026-11-12T00:36:32+00:00",
  "items": [
+  {
+   "id": "auto-df29be81f28a",
+   "tab": "ai",
+   "date": "2026-11-11",
+   "publishedAt": "2026-11-11T21:24:35+00:00",
+   "type": "product",
+   "importance": 1,
+   "sourceType": "community",
+   "sourceName": "Hacker News",
+   "url": "https://news.ycombinator.com/item?id=50458900",
+   "originalTitle": "United Airlines bans AI agents from booking flights on behalf of travelers",
+   "en": {
+    "title": "United Airlines bans AI agents from booking flights on behalf of travelers",
+    "summary": "Community discussion on Hacker News (310 points, 283 comments).",
+    "details": "Community discussion on Hacker News (310 points, 283 comments)."
+   },
+   "translated": false,
+   "fetchedAt": "2026-11-12T00:36:27+00:00"
+  },
+  {
+   "id": "auto-438e7dc7c3d4",
+   "tab": "once-human",
+   "date": "2026-11-11",
+   "publishedAt": "2026-11-11T18:54:57+00:00",
+   "type": "community",
+   "importance": 1,
+   "sourceType": "community",
+   "sourceName": "r/OnceHumanOfficial",
+   "url": "https://www.reddit.com/r/OnceHumanOfficial/comments/1xtq8lh/my_brutally_honest_feedback_on_isles_of_abyss_its/",
+   "originalTitle": "My brutally honest feedback on Isles Of Abyss: It's NOT good",
+   "en": {
+    "title": "My brutally honest feedback on Isles Of Abyss: It's NOT good",
+    "summary": "Community post on r/OnceHumanOfficial. Picture for attention. I'm going to get flamed by toxic positivity people with this feedback but I don't care. I just do not enjoy this scenario at all.",
+    "details": "Community post on r/OnceHumanOfficial.\n\nPicture for attention. I'm going to get flamed by toxic positivity people with this feedback but I don't care. I just do not enjoy this scenario at all. Isles shouldn't have taken this long to release. There's way too many cons than pros so I'll list em:\n\nDEALBREAKER CONS:\n-No Monoliths, no silos & no real Public Crisis event. And before you say, NO. Calamity events & greenhouse goldfish does NOT count. Actually, the goldfish/carp boss looks like it was designed to be a monolith boss but got scrapped and turned into a pitiful crisis event(?)\n-No Cradles...like are they trying to seriously nerf us for no reason? Guns still end up being the meta option.\n-They scrapped the main story and forgot about Mary and so on already to favor side stories. This story itself is shallow asf. AI VOICE TOO? Are we for real now???\n-Calamity Owl, Tower, Zone and MORE Owl spam. Only pieces of repetitive content. Repetitive and shallow gameplay akin to WOW.\n-Bullet sponge to f*** hell even after it's reworked little. …"
+   },
+   "translated": false,
+   "fetchedAt": "2026-11-12T00:36:27+00:00"
+  },
+  {
+   "id": "auto-4b7190847ad2",
+   "tab": "ai",
+   "date": "2026-11-11",
+   "publishedAt": "2026-11-11T18:00:00+00:00",
+   "type": "coding",
+   "importance": 1,
+   "sourceType": "official",
+   "sourceName": "Google Blog — AI",
+   "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
+   "originalTitle": "Gemini Decisions API: Fast, calibrated multimodal decisions",
+   "en": {
+    "title": "Gemini Decisions API: Fast, calibrated multimodal decisions",
+    "summary": "Meet the Gemini Decisions API, powered by our state-of-the-art model Gemini Decision for fast, calibrated multimodal decisions.",
+    "details": "Meet the Gemini Decisions API, powered by our state-of-the-art model Gemini Decision for fast, calibrated multimodal decisions."
+   },
+   "translated": false,
+   "fetchedAt": "2026-11-12T00:36:26+00:00",
+   "company": "Google"
+  },
   {
    "id": "auto-75feeaa22656",
    "tab": "ai",
@@ -13,9 +71,9 @@
    "url": "https://news.ycombinator.com/item?id=50452455",
    "originalTitle": "Google SWE points 48 AI agents at NASA Lidar, finds unmapped Maya pyramid in 72h",
    "en": {
-    "title": "Google SWE points 48 AI agents at NASA Lidar, finds unmapped Maya pyramid in 72h",
-    "summary": "Community discussion on Hacker News (767 points, 284 comments).",
-    "details": "Community discussion on Hacker News (767 points, 284 comments)."
+    "title": "My AI agents found an unmapped Maya site",
+    "summary": "Community discussion on Hacker News (917 points, 335 comments).",
+    "details": "Community discussion on Hacker News (917 points, 335 comments)."
    },
    "translated": false,
    "fetchedAt": "2026-11-11T18:08:23+00:00"
@@ -193,8 +251,8 @@
    "originalTitle": "Apple has new Mac app coming to make running local AI models easy",
    "en": {
     "title": "Apple has new Mac app coming to make running local AI models easy",
-    "summary": "Community discussion on Hacker News (468 points, 484 comments).",
-    "details": "Community discussion on Hacker News (468 points, 484 comments)."
+    "summary": "Community discussion on Hacker News (515 points, 524 comments).",
+    "details": "Community discussion on Hacker News (515 points, 524 comments)."
    },
    "translated": false,
    "fetchedAt": "2026-11-11T10:48:12+00:00"
@@ -212,8 +270,8 @@
    "originalTitle": "Show HN: Get your coding agent off ~2019 JavaScript, onto modern web primitives",
    "en": {
     "title": "Show HN: Get your coding agent off ~2019 JavaScript, onto modern web primitives",
-    "summary": "Community discussion on Hacker News (420 points, 139 comments).",
-    "details": "Community discussion on Hacker News (420 points, 139 comments)."
+    "summary": "Community discussion on Hacker News (423 points, 141 comments).",
+    "details": "Community discussion on Hacker News (423 points, 141 comments)."
    },
    "translated": false,
    "fetchedAt": "2026-11-11T03:07:46+00:00"
@@ -291,8 +349,8 @@
    "originalTitle": "AI usage generates a fragile codebase",
    "en": {
     "title": "AI usage generates a fragile codebase",
-    "summary": "Community discussion on Hacker News (618 points, 581 comments).",
-    "details": "Community discussion on Hacker News (618 points, 581 comments)."
+    "summary": "Community discussion on Hacker News (629 points, 605 comments).",
+    "details": "Community discussion on Hacker News (629 points, 605 comments)."
    },
    "translated": false,
    "fetchedAt": "2026-11-10T23:46:29+00:00"
