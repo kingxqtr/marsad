@@ -1,6 +1,124 @@
 {
- "updatedAt": "2026-11-12T16:19:31+00:00",
+ "updatedAt": "2026-11-12T22:18:35+00:00",
  "items": [
+  {
+   "id": "auto-720825c8bbb0",
+   "tab": "ai",
+   "date": "2026-11-12",
+   "publishedAt": "2026-11-12T18:00:50+00:00",
+   "type": "model",
+   "importance": 1,
+   "sourceType": "official",
+   "sourceName": "Google DeepMind Blog",
+   "url": "https://deepmind.google/blog/introducing-gemini-4-hydrogen/",
+   "originalTitle": "Introducing Gemini 4 Hydrogen",
+   "en": {
+    "title": "Introducing Gemini 4 Hydrogen",
+    "summary": "Introducing Gemini 4 Hydrogen",
+    "details": ""
+   },
+   "translated": false,
+   "fetchedAt": "2026-11-12T22:18:30+00:00",
+   "company": "Google"
+  },
+  {
+   "id": "auto-5fe3561e6b52",
+   "tab": "star-citizen",
+   "date": "2026-11-12",
+   "publishedAt": "2026-11-12T17:18:30+00:00",
+   "type": "patch",
+   "importance": 1,
+   "sourceType": "official",
+   "sourceName": "RSI Comm-Link",
+   "url": "https://robertsspaceindustries.com/comm-link/transmission/21420-Star-Citizen-Alpha-4103-Vanduul-Incursion",
+   "originalTitle": "Star Citizen Alpha 4.10.3 Vanduul Incursion - Nyx Needs You",
+   "en": {
+    "title": "Star Citizen Alpha 4.10.3 Vanduul Incursion - Nyx Needs You",
+    "summary": "Vanduul forces are invading Nyx. InterSec Defense Solutions needs you to assist before the attacks reach more populated systems and innocent civilians.",
+    "details": "Vanduul forces are invading Nyx. InterSec Defense Solutions needs you to assist before the attacks reach more populated systems and innocent civilians."
+   },
+   "translated": false,
+   "fetchedAt": "2026-11-12T22:18:30+00:00"
+  },
+  {
+   "id": "auto-f40ced1f11ea",
+   "tab": "ai",
+   "date": "2026-11-12",
+   "publishedAt": "2026-11-12T19:07:35+00:00",
+   "type": "product",
+   "importance": 1,
+   "sourceType": "official",
+   "sourceName": "Hugging Face Blog",
+   "url": "https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite",
+   "originalTitle": "LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B",
+   "en": {
+    "title": "LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B",
+    "summary": "LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B",
+    "details": ""
+   },
+   "translated": false,
+   "fetchedAt": "2026-11-12T22:18:30+00:00",
+   "company": "Hugging Face"
+  },
+  {
+   "id": "auto-a6f5ec08d2ec",
+   "tab": "ai",
+   "date": "2026-11-12",
+   "publishedAt": "2026-11-12T18:01:48+00:00",
+   "type": "model",
+   "importance": 1,
+   "sourceType": "community",
+   "sourceName": "Hacker News",
+   "url": "https://news.ycombinator.com/item?id=50471431",
+   "originalTitle": "Gemini 4 Hydrogen",
+   "en": {
+    "title": "Gemini 4 Hydrogen",
+    "summary": "Community discussion on Hacker News (390 points, 258 comments).",
+    "details": "Community discussion on Hacker News (390 points, 258 comments)."
+   },
+   "translated": false,
+   "fetchedAt": "2026-11-12T22:18:30+00:00"
+  },
+  {
+   "id": "auto-e836720e11a9",
+   "tab": "ai",
+   "date": "2026-11-12",
+   "publishedAt": "2026-11-12T18:00:00+00:00",
+   "type": "model",
+   "importance": 1,
+   "sourceType": "official",
+   "sourceName": "Google Blog — AI",
+   "url": "https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade/",
+   "originalTitle": "Google Search gets a major upgrade with Gemini 4 Hydrogen",
+   "en": {
+    "title": "Google Search gets a major upgrade with Gemini 4 Hydrogen",
+    "summary": "We are bringing Gemini 4 Hydrogen to Google Search globally to provide you with more helpful, visual, and intuitive responses.",
+    "details": "We are bringing Gemini 4 Hydrogen to Google Search globally to provide you with more helpful, visual, and intuitive responses."
+   },
+   "translated": false,
+   "fetchedAt": "2026-11-12T22:18:30+00:00",
+   "company": "Google"
+  },
+  {
+   "id": "auto-ac8b7b1cd006",
+   "tab": "ai",
+   "date": "2026-11-12",
+   "publishedAt": "2026-11-12T17:00:03+00:00",
+   "type": "coding",
+   "importance": 1,
+   "sourceType": "official",
+   "sourceName": "Official Microsoft Blog",
+   "url": "https://blogs.microsoft.com/blog/2026/11/12/from-ai-ambition-to-business-impact/",
+   "originalTitle": "From AI ambition to business impact",
+   "en": {
+    "title": "From AI ambition to business impact",
+    "summary": "Most business leaders I meet no longer need to be convinced that AI works. They’ve seen the pilots, the demos and the copilots.",
+    "details": "Most business leaders I meet no longer need to be convinced that AI works. They’ve seen the pilots, the demos and the copilots. The question I hear in boardrooms now is different: How do we move from AI that impresses to AI that changes how the business actually runs?\n\nThat is the question Microsoft Frontier Company was built to answer, and to date, we have engaged on nearly 500 projects with over 200 customers across 28 countries.\n\nCustomers including 3M, Alaska Airlines, BMW, Core42, KT, Land O’Lakes, London Stock Exchange Group, Mastercard, McKesson, Northern Trust, Novo Nordisk, Publicis Groupe, Saint-Gobain, Siemens and Unilever are seeing real value from working side by side with our Forward Deployed Engineering teams.\n\nMore importantly, most customers where we have completed initial projects have returned for additional engagements, generating hundreds of follow-on projects. Customers don’t come back for engineers. They come back because the first engagement delivered something they could measure and they can see the next workflow worth redesigning.\n\nThe technology is ready. What slows AI down is everything around it. That means identifying where AI can deliver the greatest value, building in trust and governance, redesigning the operating models and helping people work in new ways. Technology and people have to move forward together.\n\nWhat this looks like in practice …"
+   },
+   "translated": false,
+   "fetchedAt": "2026-11-12T22:18:29+00:00",
+   "company": "Microsoft"
+  },
   {
    "id": "auto-041180e2b1f9",
    "tab": "ai",
@@ -93,8 +211,8 @@
    "originalTitle": "Gemini Decisions API",
    "en": {
     "title": "Gemini Decisions API",
-    "summary": "Community discussion on Hacker News (519 points, 150 comments).",
-    "details": "Community discussion on Hacker News (519 points, 150 comments)."
+    "summary": "Community discussion on Hacker News (553 points, 157 comments).",
+    "details": "Community discussion on Hacker News (553 points, 157 comments)."
    },
    "translated": false,
    "fetchedAt": "2026-11-12T07:41:47+00:00"
@@ -112,8 +230,8 @@
    "originalTitle": "United Airlines bans AI agents from booking flights on behalf of travelers",
    "en": {
     "title": "United Airlines bans AI agents from booking flights on behalf of travelers",
-    "summary": "Community discussion on Hacker News (635 points, 658 comments).",
-    "details": "Community discussion on Hacker News (635 points, 658 comments)."
+    "summary": "Community discussion on Hacker News (656 points, 681 comments).",
+    "details": "Community discussion on Hacker News (656 points, 681 comments)."
    },
    "translated": false,
    "fetchedAt": "2026-11-12T00:36:27+00:00"
@@ -170,8 +288,8 @@
    "originalTitle": "Google SWE points 48 AI agents at NASA Lidar, finds unmapped Maya pyramid in 72h",
    "en": {
     "title": "My AI agents found an unmapped Maya site?",
-    "summary": "Community discussion on Hacker News (1022 points, 380 comments).",
-    "details": "Community discussion on Hacker News (1022 points, 380 comments)."
+    "summary": "Community discussion on Hacker News (1025 points, 388 comments).",
+    "details": "Community discussion on Hacker News (1025 points, 388 comments)."
    },
    "translated": false,
    "fetchedAt": "2026-11-11T18:08:23+00:00"
@@ -349,8 +467,8 @@
    "originalTitle": "Apple has new Mac app coming to make running local AI models easy",
    "en": {
     "title": "Apple has new Mac app coming to make running local AI models easy",
-    "summary": "Community discussion on Hacker News (545 points, 547 comments).",
-    "details": "Community discussion on Hacker News (545 points, 547 comments)."
+    "summary": "Community discussion on Hacker News (550 points, 551 comments).",
+    "details": "Community discussion on Hacker News (550 points, 551 comments)."
    },
    "translated": false,
    "fetchedAt": "2026-11-11T10:48:12+00:00"
@@ -368,8 +486,8 @@
    "originalTitle": "Show HN: Get your coding agent off ~2019 JavaScript, onto modern web primitives",
    "en": {
     "title": "Show HN: Get your coding agent off ~2019 JavaScript, onto modern web primitives",
-    "summary": "Community discussion on Hacker News (434 points, 142 comments).",
-    "details": "Community discussion on Hacker News (434 points, 142 comments)."
+    "summary": "Community discussion on Hacker News (434 points, 145 comments).",
+    "details": "Community discussion on Hacker News (434 points, 145 comments)."
    },
    "translated": false,
    "fetchedAt": "2026-11-11T03:07:46+00:00"
@@ -545,7 +663,7 @@
    "url": "https://blogs.nvidia.com/blog/open-source-openshell-infrastructure/",
    "originalTitle": "NVIDIA Expands Open Source Commitment With OpenShell Donation and New AI Infrastructure",
    "en": {
-    "title": "NVIDIA Expands Open Source Commitment With OpenShell Donation and New AI Infrastructure",
+    "title": "NVIDIA Expands Open Source Commitment With OpenShell Contribution and New AI Infrastructure",
     "summary": "Kubernetes, the open source system that manages how applications run across thousands of AI factories, has become the foundation for AI, and the demands on it are only growing.",
     "details": "Kubernetes, the open source system that manages how applications run across thousands of AI factories, has become the foundation for AI, and the demands on it are only growing.\n\nTo help meet them, NVIDIA is deepening its commitment to open source at KubeCon + CloudNativeCon , the flagship conference for the Kubernetes and cloud-native communities.\n\nNVIDIA is contributing NVIDIA OpenShell , an open source runtime for securing and governing autonomous agents, to the Cloud Native Computing Foundation (CNCF), a nonprofit that is part of the Linux Foundation and the host of KubeCon. As a CNCF Sandbox project, OpenShell will be governed by the organizations building it into their products and strengthened by the expertise of security professionals worldwide.\n\nNVIDIA is also contributing to Agent Substrate , an open source Google-led framework for operating long-running agent workloads at scale on Kubernetes that has been accepted into the CNCF Sandbox.\n\nAdditionally, NVIDIA announced new components of the NVIDIA DSX AI Factory Platform : NVIDIA Kubernetes Engine , NVIDIA Kubernetes Recipes and NVIDIA Snapshot . These tools help teams deploy, manage and scale GPU infrastructure on Kubernetes for AI factories.\n\nTogether, these advancements mark a step forward in making Kubernetes the leading foundation for AI workloads at scale — empowering developers to build safer, more efficient AI infrastructure for the future.\n\nSecuring AI Agents in the Open …"
    },
