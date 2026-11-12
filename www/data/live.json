@@ -1,6 +1,66 @@
 {
- "updatedAt": "2026-11-12T07:41:52+00:00",
+ "updatedAt": "2026-11-12T16:19:31+00:00",
  "items": [
+  {
+   "id": "auto-041180e2b1f9",
+   "tab": "ai",
+   "date": "2026-11-12",
+   "publishedAt": "2026-11-12T16:00:02+00:00",
+   "type": "product",
+   "importance": 1,
+   "sourceType": "official",
+   "sourceName": "Official Microsoft Blog",
+   "url": "https://blogs.microsoft.com/blog/2026/11/12/scaling-ai-value-without-losing-control-lessons-from-frontier-firms/",
+   "originalTitle": "Scaling AI value without losing control: Lessons from Frontier Firms",
+   "en": {
+    "title": "Scaling AI value without losing control: Lessons from Frontier Firms",
+    "summary": "Results are widespread. Value at scale is not, and that gap is what this year’s research from IDC , commissioned by Microsoft, set out to explain.",
+    "details": "Results are widespread. Value at scale is not, and that gap is what this year’s research from IDC , commissioned by Microsoft, set out to explain.\n\nIn our fourth year commissioning IDC, more than 5,200 senior IT and business leaders across 28 industries shared what it takes to maximize value as AI scales. The clearest lessons come from Frontier Firms, the group last year’s research introduced: the top 10% of organizations on IDC’s AI maturity scale.\n\nWhat the research found\n\n- Frontier Firms lead on return. They report an average 4x return on AI versus 2.7x for slow adopters (the bottom 30% on IDC’s scale), and 39% see returns of 5x or more versus 4% of slow adopters.\n\n- Measurement is the next test . Only 61% of organizations are highly confident they can measure AI’s business value and ROI, versus 93% of Frontier Firms.\n\n- Governance is in place, but confidence lags. 65% of organizations have an established process to govern agents, yet only 60% have high confidence in addressing AI security and governance risks.\n\n- Workforce readiness is uneven. 67% say their workforce reports high trust in AI, yet only 20% have a comprehensive, organization-wide skilling strategy.\n\n“Organizations that scale AI value aren’t simply spending more. They manage AI investments, models, agents, governance and skills as one discipline, and that is what turns early results into value they can repeat across the business,” says Kathy Lange, Research Director, AI, Data and Automation Software, IDC. …"
+   },
+   "translated": false,
+   "fetchedAt": "2026-11-12T16:19:26+00:00",
+   "company": "Microsoft"
+  },
+  {
+   "id": "auto-851bd8cda7a9",
+   "tab": "ai",
+   "date": "2026-11-12",
+   "publishedAt": "2026-11-12T00:00:00+00:00",
+   "type": "media",
+   "importance": 1,
+   "sourceType": "official",
+   "sourceName": "Hugging Face Blog",
+   "url": "https://huggingface.co/blog/3d-lora-finetuning",
+   "originalTitle": "The Definitive Fine-Tuning Guide for 3D Generation Models",
+   "en": {
+    "title": "The Definitive Fine-Tuning Guide for 3D Generation Models",
+    "summary": "The Definitive Fine-Tuning Guide for 3D Generation Models",
+    "details": ""
+   },
+   "translated": false,
+   "fetchedAt": "2026-11-12T16:19:26+00:00",
+   "company": "Hugging Face"
+  },
+  {
+   "id": "auto-5b135daab0e1",
+   "tab": "ai",
+   "date": "2026-11-12",
+   "publishedAt": "2026-11-12T00:00:00+00:00",
+   "type": "product",
+   "importance": 1,
+   "sourceType": "official",
+   "sourceName": "OpenAI News",
+   "url": "https://openai.com/index/children-first-declaration",
+   "originalTitle": "Supporting research on AI and children’s safety",
+   "en": {
+    "title": "Supporting research on AI and children’s safety",
+    "summary": "OpenAI commits $2 million to research on AI and children’s safety. The work supports shared tools to measure risks and opportunities for young people.",
+    "details": "OpenAI commits $2 million to research on AI and children’s safety. The work supports shared tools to measure risks and opportunities for young people."
+   },
+   "translated": false,
+   "fetchedAt": "2026-11-12T16:19:26+00:00",
+   "company": "OpenAI"
+  },
   {
    "id": "auto-4c4ad46fcefe",
    "tab": "once-human",
@@ -33,8 +93,8 @@
    "originalTitle": "Gemini Decisions API",
    "en": {
     "title": "Gemini Decisions API",
-    "summary": "Community discussion on Hacker News (393 points, 122 comments).",
-    "details": "Community discussion on Hacker News (393 points, 122 comments)."
+    "summary": "Community discussion on Hacker News (519 points, 150 comments).",
+    "details": "Community discussion on Hacker News (519 points, 150 comments)."
    },
    "translated": false,
    "fetchedAt": "2026-11-12T07:41:47+00:00"
@@ -52,8 +112,8 @@
    "originalTitle": "United Airlines bans AI agents from booking flights on behalf of travelers",
    "en": {
     "title": "United Airlines bans AI agents from booking flights on behalf of travelers",
-    "summary": "Community discussion on Hacker News (519 points, 508 comments).",
-    "details": "Community discussion on Hacker News (519 points, 508 comments)."
+    "summary": "Community discussion on Hacker News (635 points, 658 comments).",
+    "details": "Community discussion on Hacker News (635 points, 658 comments)."
    },
    "translated": false,
    "fetchedAt": "2026-11-12T00:36:27+00:00"
@@ -110,8 +170,8 @@
    "originalTitle": "Google SWE points 48 AI agents at NASA Lidar, finds unmapped Maya pyramid in 72h",
    "en": {
     "title": "My AI agents found an unmapped Maya site?",
-    "summary": "Community discussion on Hacker News (973 points, 354 comments).",
-    "details": "Community discussion on Hacker News (973 points, 354 comments)."
+    "summary": "Community discussion on Hacker News (1022 points, 380 comments).",
+    "details": "Community discussion on Hacker News (1022 points, 380 comments)."
    },
    "translated": false,
    "fetchedAt": "2026-11-11T18:08:23+00:00"
@@ -289,8 +349,8 @@
    "originalTitle": "Apple has new Mac app coming to make running local AI models easy",
    "en": {
     "title": "Apple has new Mac app coming to make running local AI models easy",
-    "summary": "Community discussion on Hacker News (529 points, 535 comments).",
-    "details": "Community discussion on Hacker News (529 points, 535 comments)."
+    "summary": "Community discussion on Hacker News (545 points, 547 comments).",
+    "details": "Community discussion on Hacker News (545 points, 547 comments)."
    },
    "translated": false,
    "fetchedAt": "2026-11-11T10:48:12+00:00"
@@ -308,8 +368,8 @@
    "originalTitle": "Show HN: Get your coding agent off ~2019 JavaScript, onto modern web primitives",
    "en": {
     "title": "Show HN: Get your coding agent off ~2019 JavaScript, onto modern web primitives",
-    "summary": "Community discussion on Hacker News (429 points, 142 comments).",
-    "details": "Community discussion on Hacker News (429 points, 142 comments)."
+    "summary": "Community discussion on Hacker News (434 points, 142 comments).",
+    "details": "Community discussion on Hacker News (434 points, 142 comments)."
    },
    "translated": false,
    "fetchedAt": "2026-11-11T03:07:46+00:00"
