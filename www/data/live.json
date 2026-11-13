@@ -1,6 +1,124 @@
 {
- "updatedAt": "2026-11-13T17:40:05+00:00",
+ "updatedAt": "2026-11-13T22:52:17+00:00",
  "items": [
+  {
+   "id": "auto-69f8f849d550",
+   "tab": "ai",
+   "date": "2026-11-13",
+   "publishedAt": "2026-11-13T17:30:10+00:00",
+   "type": "product",
+   "importance": 1,
+   "sourceType": "community",
+   "sourceName": "Hacker News",
+   "url": "https://news.ycombinator.com/item?id=50486748",
+   "originalTitle": "AI unlocks Gödel's notebooks, said to contain hundreds of proved theorems",
+   "en": {
+    "title": "AI unlocks Gödel's notebooks, said to contain hundreds of proved theorems",
+    "summary": "Community discussion on Hacker News (280 points, 83 comments).",
+    "details": "Community discussion on Hacker News (280 points, 83 comments)."
+   },
+   "translated": false,
+   "fetchedAt": "2026-11-13T22:52:13+00:00"
+  },
+  {
+   "id": "auto-3712b94245bb",
+   "tab": "ai",
+   "date": "2026-11-13",
+   "publishedAt": "2026-11-13T11:13:46+00:00",
+   "type": "product",
+   "importance": 1,
+   "sourceType": "community",
+   "sourceName": "Hacker News",
+   "url": "https://news.ycombinator.com/item?id=50481870",
+   "originalTitle": "AI is destroying the trust between writers and readers",
+   "en": {
+    "title": "AI is destroying the trust between writers and readers",
+    "summary": "Community discussion on Hacker News (299 points, 189 comments).",
+    "details": "Community discussion on Hacker News (299 points, 189 comments)."
+   },
+   "translated": false,
+   "fetchedAt": "2026-11-13T22:52:13+00:00"
+  },
+  {
+   "id": "auto-e956ed049388",
+   "tab": "ai",
+   "date": "2026-11-13",
+   "publishedAt": "2026-11-13T18:00:39+00:00",
+   "type": "product",
+   "importance": 1,
+   "sourceType": "official",
+   "sourceName": "Hugging Face Blog",
+   "url": "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place",
+   "originalTitle": "Build a Robot Pick-and-Place Simulation with SimReady Assets",
+   "en": {
+    "title": "Build a Robot Pick-and-Place Simulation with SimReady Assets",
+    "summary": "Build a Robot Pick-and-Place Simulation with SimReady Assets",
+    "details": ""
+   },
+   "translated": false,
+   "fetchedAt": "2026-11-13T22:52:12+00:00",
+   "company": "Hugging Face"
+  },
+  {
+   "id": "auto-356ec275839b",
+   "tab": "ai",
+   "date": "2026-11-13",
+   "publishedAt": "2026-11-13T20:40:05+00:00",
+   "type": "coding",
+   "importance": 1,
+   "sourceType": "official",
+   "sourceName": "GitHub Changelog",
+   "url": "https://github.blog/changelog/2026-11-13-upcoming-deprecation-of-selected-github-copilot-models-in-december",
+   "originalTitle": "Upcoming deprecation of selected GitHub Copilot models in December",
+   "en": {
+    "title": "Upcoming deprecation of selected GitHub Copilot models in December",
+    "summary": "We will deprecate the following models across all GitHub Copilot experiences (including Copilot Chat, inline edits, ask and agent modes, and code completions) on December 14, 2026: Model Deprecation date Suggested alternative Claude Fable …",
+    "details": "We will deprecate the following models across all GitHub Copilot experiences (including Copilot Chat, inline edits, ask and agent modes, and code completions) on December 14, 2026:\n\nModel\nDeprecation date\nSuggested alternative\n\nClaude Fable 5\n2026-12-14\nClaude Fable 5.2\n\nClaude Haiku 4.5*\n2026-12-14\nClaude Haiku 5.5\n\nGemini 3.8 Flash\n2026-12-14\nGemini 4 Hydrogen\n\nGemini 4 Argon\n2026-12-14\nGemini 4 Carbon\n\nGrok 4.6\n2026-12-14\nGrok 4.7\n\nKimi K3\n2026-12-14\nTo be announced\n\n*Claude Haiku 4.5 will remain available to individual GitHub Copilot subscribers on annual plans. The deprecation of Claude Haiku 4.5 does not apply to these customers.\n\nPlease update your workflows and integrations to use the supported models before this date. Under default model enablement, the suggested alternatives are automatically enabled for Copilot Enterprise and Copilot Business customers unless an administrator has turned off the global default or explicitly disabled the model. If you’ve turned off the global default, you can enable access to the alternative models through their model policies in Copilot settings.\n\nOnce enabled, users will see the model in the Copilot Chat model selector in supported GitHub Copilot experiences. No action is required to remove the models after they have been deprecated.\n\nGitHub Enterprise customers with questions or concerns are encouraged to contact their account team for assistance.\n\nShare your feedback …"
+   },
+   "translated": false,
+   "fetchedAt": "2026-11-13T22:52:12+00:00",
+   "company": "GitHub"
+  },
+  {
+   "id": "auto-912d94762bdd",
+   "tab": "ai",
+   "date": "2026-11-13",
+   "publishedAt": "2026-11-13T18:27:13+00:00",
+   "type": "coding",
+   "importance": 1,
+   "sourceType": "official",
+   "sourceName": "GitHub Changelog",
+   "url": "https://github.blog/changelog/2026-11-13-github-enterprise-server-support-in-the-github-copilot-app",
+   "originalTitle": "GitHub Enterprise Server support in the GitHub Copilot app",
+   "en": {
+    "title": "GitHub Enterprise Server support in the GitHub Copilot app",
+    "summary": "You can now bring your work on GitHub Enterprise Server (GHES) into the GitHub Copilot app. Add your GHES account to work with remote repositories, issues, and pull requests.",
+    "details": "You can now bring your work on GitHub Enterprise Server (GHES) into the GitHub Copilot app. Add your GHES account to work with remote repositories, issues, and pull requests. This feature was previously an opt-in preview, and is now generally available.\n\nYou’ll need to sign in with a GitHub.com or GHE.com account first. Then, go to Settings > Accounts > Add account and choose GitHub Enterprise Server .\n\nAvailable in GitHub Copilot app 1.2.0 and later. Cloud sessions aren’t available for GHES. Learn more in our Copilot GHES documentation .\n\nThe post GitHub Enterprise Server support in the GitHub Copilot app appeared first on The GitHub Blog ."
+   },
+   "translated": false,
+   "fetchedAt": "2026-11-13T22:52:12+00:00",
+   "company": "GitHub"
+  },
+  {
+   "id": "auto-e1cd1aa77e0e",
+   "tab": "ai",
+   "date": "2026-11-13",
+   "publishedAt": "2026-11-13T18:23:48+00:00",
+   "type": "coding",
+   "importance": 1,
+   "sourceType": "official",
+   "sourceName": "GitHub Changelog",
+   "url": "https://github.blog/changelog/2026-11-13-gemini-4-hydrogen-in-github-copilot",
+   "originalTitle": "Gemini 4 Hydrogen in GitHub Copilot",
+   "en": {
+    "title": "Gemini 4 Hydrogen in GitHub Copilot",
+    "summary": "Gemini 4 Hydrogen, Google’s latest Flash model, is now generally available in GitHub Copilot. It is designed for fast, efficient agentic coding, tool use, and multistep workflows, with improved instruction following over Gemini 3.8 Flash.",
+    "details": "Gemini 4 Hydrogen, Google’s latest Flash model, is now generally available in GitHub Copilot. It is designed for fast, efficient agentic coding, tool use, and multistep workflows, with improved instruction following over Gemini 3.8 Flash.\n\nThis model is billed at provider list pricing under usage-based billing. See Models and pricing for GitHub Copilot for details.\n\nAvailability in GitHub Copilot\n\nGemini 4 Hydrogen is available to Copilot Pro, Pro+, Max, Business, and Enterprise users. You can select the model in the model picker in:\n\n- Visual Studio Code\n\n- Visual Studio\n\n- Copilot CLI\n\n- GitHub Copilot coding agent\n\n- GitHub Copilot app\n\n- github.com\n\n- GitHub Mobile on iOS and Android\n\n- JetBrains IDEs\n\n- Xcode\n\n- Eclipse\n\n- Copilot SDK\n\nRollout will be gradual. Check back soon if you don’t see it yet.\n\nEnabling access\n\nCopilot Enterprise and Copilot Business plan administrators can manage access to Gemini 4 Hydrogen through the model policy in Copilot settings. Under default model enablement, new models are automatically enabled unless an administrator has turned off the global default or explicitly disables this model.\n\nLearn more\n\nTo explore all models available in GitHub Copilot, see our documentation on models and get started with Copilot.\n\nShare your feedback\n\nJoin the GitHub Community to share your feedback.\n\nThe post Gemini 4 Hydrogen in GitHub Copilot appeared first on The GitHub Blog ."
+   },
+   "translated": false,
+   "fetchedAt": "2026-11-13T22:52:12+00:00",
+   "company": "GitHub"
+  },
   {
    "id": "auto-7e6096d03cd1",
    "tab": "ai",
@@ -113,8 +231,8 @@
    "originalTitle": "Elevated errors on claude.ai, Claude Code, and platform.claude.com",
    "en": {
     "title": "Elevated errors on claude.ai, Claude Code, and platform.claude.com",
-    "summary": "Community discussion on Hacker News (435 points, 353 comments).",
-    "details": "Community discussion on Hacker News (435 points, 353 comments)."
+    "summary": "Community discussion on Hacker News (479 points, 379 comments).",
+    "details": "Community discussion on Hacker News (479 points, 379 comments)."
    },
    "translated": false,
    "fetchedAt": "2026-11-13T17:40:00+00:00"
@@ -285,8 +403,8 @@
    "originalTitle": "Edge0-145B: Frontier AI Capabilities on Your Own Computer",
    "en": {
     "title": "Edge0-145B: Frontier AI Capabilities on Your Own Computer",
-    "summary": "Community discussion on Hacker News (319 points, 96 comments).",
-    "details": "Community discussion on Hacker News (319 points, 96 comments)."
+    "summary": "Community discussion on Hacker News (337 points, 104 comments).",
+    "details": "Community discussion on Hacker News (337 points, 104 comments)."
    },
    "translated": false,
    "fetchedAt": "2026-11-13T17:40:00+00:00"
@@ -323,8 +441,8 @@
    "originalTitle": "Chinese frontier AI models carry the fingerprint of export-controlled GPUs",
    "en": {
     "title": "Chinese frontier AI models carry the fingerprint of export-controlled GPUs",
-    "summary": "Community discussion on Hacker News (339 points, 143 comments).",
-    "details": "Community discussion on Hacker News (339 points, 143 comments)."
+    "summary": "Community discussion on Hacker News (353 points, 149 comments).",
+    "details": "Community discussion on Hacker News (353 points, 149 comments)."
    },
    "translated": false,
    "fetchedAt": "2026-11-13T10:03:32+00:00"
@@ -401,8 +519,8 @@
    "originalTitle": "Gemini 4 Hydrogen",
    "en": {
     "title": "Gemini 4 Hydrogen",
-    "summary": "Community discussion on Hacker News (554 points, 345 comments).",
-    "details": "Community discussion on Hacker News (554 points, 345 comments)."
+    "summary": "Community discussion on Hacker News (556 points, 348 comments).",
+    "details": "Community discussion on Hacker News (556 points, 348 comments)."
    },
    "translated": false,
    "fetchedAt": "2026-11-12T22:18:30+00:00"
