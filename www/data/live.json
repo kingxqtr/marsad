@@ -1,6 +1,44 @@
 {
- "updatedAt": "2026-11-13T02:41:06+00:00",
+ "updatedAt": "2026-11-13T10:03:37+00:00",
  "items": [
+  {
+   "id": "auto-2b67a5e305e2",
+   "tab": "once-human",
+   "date": "2026-11-12",
+   "publishedAt": "2026-11-12T09:02:44+00:00",
+   "type": "community",
+   "importance": 1,
+   "sourceType": "community",
+   "sourceName": "r/OnceHumanOfficial",
+   "url": "https://www.reddit.com/r/OnceHumanOfficial/comments/1xu7zz6/i_tried_a_darker_skin_with_my_new_creation_and/",
+   "originalTitle": "I tried a darker skin with my new creation, and she's gorgeous!",
+   "en": {
+    "title": "I tried a darker skin with my new creation, and she's gorgeous!",
+    "summary": "Community post on r/OnceHumanOfficial.",
+    "details": "Community post on r/OnceHumanOfficial."
+   },
+   "translated": false,
+   "fetchedAt": "2026-11-13T10:03:33+00:00"
+  },
+  {
+   "id": "auto-d94032b36502",
+   "tab": "ai",
+   "date": "2026-11-12",
+   "publishedAt": "2026-11-12T21:56:11+00:00",
+   "type": "hardware",
+   "importance": 1,
+   "sourceType": "community",
+   "sourceName": "Hacker News",
+   "url": "https://news.ycombinator.com/item?id=50474883",
+   "originalTitle": "Chinese frontier AI models carry the fingerprint of export-controlled GPUs",
+   "en": {
+    "title": "Chinese frontier AI models carry the fingerprint of export-controlled GPUs",
+    "summary": "Community discussion on Hacker News (296 points, 105 comments).",
+    "details": "Community discussion on Hacker News (296 points, 105 comments)."
+   },
+   "translated": false,
+   "fetchedAt": "2026-11-13T10:03:32+00:00"
+  },
   {
    "id": "auto-720825c8bbb0",
    "tab": "ai",
@@ -73,8 +111,8 @@
    "originalTitle": "Gemini 4 Hydrogen",
    "en": {
     "title": "Gemini 4 Hydrogen",
-    "summary": "Community discussion on Hacker News (472 points, 300 comments).",
-    "details": "Community discussion on Hacker News (472 points, 300 comments)."
+    "summary": "Community discussion on Hacker News (529 points, 333 comments).",
+    "details": "Community discussion on Hacker News (529 points, 333 comments)."
    },
    "translated": false,
    "fetchedAt": "2026-11-12T22:18:30+00:00"
@@ -211,8 +249,8 @@
    "originalTitle": "Gemini Decisions API",
    "en": {
     "title": "Gemini Decisions API",
-    "summary": "Community discussion on Hacker News (554 points, 157 comments).",
-    "details": "Community discussion on Hacker News (554 points, 157 comments)."
+    "summary": "Community discussion on Hacker News (561 points, 160 comments).",
+    "details": "Community discussion on Hacker News (561 points, 160 comments)."
    },
    "translated": false,
    "fetchedAt": "2026-11-12T07:41:47+00:00"
@@ -230,8 +268,8 @@
    "originalTitle": "United Airlines bans AI agents from booking flights on behalf of travelers",
    "en": {
     "title": "United Airlines bans AI agents from booking flights on behalf of travelers",
-    "summary": "Community discussion on Hacker News (661 points, 688 comments).",
-    "details": "Community discussion on Hacker News (661 points, 688 comments)."
+    "summary": "Community discussion on Hacker News (670 points, 696 comments).",
+    "details": "Community discussion on Hacker News (670 points, 696 comments)."
    },
    "translated": false,
    "fetchedAt": "2026-11-12T00:36:27+00:00"
@@ -288,8 +326,8 @@
    "originalTitle": "Google SWE points 48 AI agents at NASA Lidar, finds unmapped Maya pyramid in 72h",
    "en": {
     "title": "My AI agents found an unmapped Maya site?",
-    "summary": "Community discussion on Hacker News (1028 points, 391 comments).",
-    "details": "Community discussion on Hacker News (1028 points, 391 comments)."
+    "summary": "Community discussion on Hacker News (1032 points, 391 comments).",
+    "details": "Community discussion on Hacker News (1032 points, 391 comments)."
    },
    "translated": false,
    "fetchedAt": "2026-11-11T18:08:23+00:00"
@@ -467,8 +505,8 @@
    "originalTitle": "Apple has new Mac app coming to make running local AI models easy",
    "en": {
     "title": "Apple has new Mac app coming to make running local AI models easy",
-    "summary": "Community discussion on Hacker News (550 points, 551 comments).",
-    "details": "Community discussion on Hacker News (550 points, 551 comments)."
+    "summary": "Community discussion on Hacker News (557 points, 552 comments).",
+    "details": "Community discussion on Hacker News (557 points, 552 comments)."
    },
    "translated": false,
    "fetchedAt": "2026-11-11T10:48:12+00:00"
