@@ -1,6 +1,296 @@
 {
- "updatedAt": "2026-11-13T10:03:37+00:00",
+ "updatedAt": "2026-11-13T17:40:05+00:00",
  "items": [
+  {
+   "id": "auto-7e6096d03cd1",
+   "tab": "ai",
+   "date": "2026-11-13",
+   "publishedAt": "2026-11-13T12:22:41+00:00",
+   "type": "coding",
+   "importance": 1,
+   "sourceType": "official",
+   "sourceName": "GitHub Changelog",
+   "url": "https://github.blog/changelog/2026-11-13-manage-ai-scan-for-repositories-using-the-rest-api",
+   "originalTitle": "Manage AI Scan for repositories using the REST API",
+   "en": {
+    "title": "Manage AI Scan for repositories using the REST API",
+    "summary": "You can now turn GitHub code scanning’s AI Scan for repositories on or off with the REST API at the organization and repository levels. This public preview adds a repository_scan setting to the existing AI Scan enablement endpoints.",
+    "details": "You can now turn GitHub code scanning’s AI Scan for repositories on or off with the REST API at the organization and repository levels. This public preview adds a repository_scan setting to the existing AI Scan enablement endpoints. You can roll out AI Scan for repositories with scripts and infrastructure as code instead of changing settings one organization or repository at a time.\n\nManage AI Scan for repositories at scale\n\nSet the repository_scan property to enabled or disabled on the AI Scan enablement endpoints :\n\n- GET and PATCH /orgs/{org}/code-scanning/ai-scan\n\n- GET and PATCH /repos/{owner}/{repo}/code-scanning/ai-scan\n\nThe setting works the same way as the existing pr_scan setting for AI Scan for pull requests:\n\n- When an organization disables AI Scan for repositories, its repositories can’t enable it\n\n- When an organization enables it, its repositories inherit the setting and can opt out individually\n\n- When an enterprise policy doesn’t allow AI Scan, requests to enable it return a 422 error\n\nYou can update pr_scan and repository_scan in the same request. If either change is blocked, the request returns a 422 error and neither setting changes.\n\nTurning on AI Scan for repositories doesn’t start a scan. Users with write access still run scans on demand, and each scan consumes GitHub Code Security AI credits.\n\nWho can use it …"
+   },
+   "translated": false,
+   "fetchedAt": "2026-11-13T17:40:00+00:00",
+   "company": "GitHub"
+  },
+  {
+   "id": "auto-6dfb1b59872a",
+   "tab": "once-human",
+   "date": "2026-11-13",
+   "publishedAt": "2026-11-13T10:10:00+00:00",
+   "type": "announcement",
+   "importance": 1,
+   "sourceType": "official",
+   "sourceName": "Once Human — Steam News",
+   "url": "https://store.steampowered.com/news/app/2139460/view/1849192144186647",
+   "originalTitle": "Dev Blog | Visional Wheel S5 \"Dissonant Resonance\" Foresight",
+   "en": {
+    "title": "Dev Blog | Visional Wheel S5 \"Dissonant Resonance\" Foresight",
+    "summary": "Dear Metas, Deep in the Nova, a colossal face gazes down upon the land.",
+    "details": "Dear Metas,\n\nDeep in the Nova, a colossal face gazes down upon the land. An unfamiliar frequency pierces through the ruins, weaving joy, enrage, sorrow, and fear into a single score—not a blessing for this world, but the final movement of destruction that the new Great One, \"The Echo,\" seeks to perform.\n\nThe Visional Wheel spins once more. This time, the clue to confronting the Vision lies hidden within scattered Notes. Defeat the Deviants modified by the power of notes, rearrange and purify the broken Score, and turn the enemy's power into your own melody. As the Gulped in the sky casts its gaze, brave Metas will respond to this \"performance\" from the unknown in their own way.\n\nOpening Time\n\nOpens after the November 18, 2026 （PT ）version update\n\nAffected scenarios:\n\nManibus (excluding Novice Scenario), Evolution's Call, Prismverse's Clash, The Way of Winter, Endless Dream, Deviation: Survive, Capture, Preserve, and Isles of Abyss. Metas can switch to the \"Vision\" world via the Worldstone to experience it.\n\nI. Dissonant Husk's Otherworldly Gaze …"
+   },
+   "translated": false,
+   "fetchedAt": "2026-11-13T17:40:00+00:00"
+  },
+  {
+   "id": "auto-88726910c980",
+   "tab": "ai",
+   "date": "2026-11-13",
+   "publishedAt": "2026-11-13T13:00:42+00:00",
+   "type": "hardware",
+   "importance": 1,
+   "sourceType": "official",
+   "sourceName": "NVIDIA Blog",
+   "url": "https://blogs.nvidia.com/blog/how-ai-is-helping-care-teams/",
+   "originalTitle": "How AI Is Helping Care Teams Get Patients the Right Care, Sooner",
+   "en": {
+    "title": "How AI Is Helping Care Teams Get Patients the Right Care, Sooner",
+    "summary": "From pediatric research to smart hospitals, AI is helping care teams spend less time on routine tasks and more time with patients.",
+    "details": "From pediatric research to smart hospitals, AI is helping care teams spend less time on routine tasks and more time with patients.\n\nHealth systems and startups are putting it to work across healthcare, from matching patients to clinical trials to supporting radiologists, hospital teams and patients at home. Clinicians stay at the center, reviewing AI outputs and guiding decisions, while NVIDIA technologies provide the compute behind the applications.\n\nRead on to learn how healthcare teams are using AI to improve and speed patient care.\n\nFriday, Nov. 13, 5:00 a.m. PT\n\nDyania Health Uses AI to Turn Decades of Patient Records Into Better Care\n\nHospitals hold decades of patient history, most of it written in free text, as physicians’ notes, operative reports, imaging and pathology reads and discharge summaries. To understand one patient’s full story, a clinician would need to read through years of charts .\n\nDyania Health , a New Jersey-based clinical AI company, built Synapsis AI to do just that. Synapsis AI is a clinical reasoning engine: It works across every note, report and lab result in a patient’s record, connecting findings that may be years apart to answer clinical questions the way a specialist reviewing the chart would.\n\nThe output is a set of clinical signals, each traceable to its source in the record, that tells care teams which patients need attention and why. Clinicians review the evidence and make every decision.\n\nKeeping Patient Data Inside the Hospital Walls …"
+   },
+   "translated": false,
+   "fetchedAt": "2026-11-13T17:40:00+00:00",
+   "company": "NVIDIA"
+  },
+  {
+   "id": "auto-89f29999c796",
+   "tab": "ai",
+   "date": "2026-11-13",
+   "publishedAt": "2026-11-13T17:02:35+00:00",
+   "type": "product",
+   "importance": 1,
+   "sourceType": "official",
+   "sourceName": "Hugging Face Blog",
+   "url": "https://huggingface.co/blog/allenai/xybench",
+   "originalTitle": "XYBench: Helping with the problem behind the question",
+   "en": {
+    "title": "XYBench: Helping with the problem behind the question",
+    "summary": "XYBench: Helping with the problem behind the question",
+    "details": ""
+   },
+   "translated": false,
+   "fetchedAt": "2026-11-13T17:40:00+00:00",
+   "company": "Hugging Face"
+  },
+  {
+   "id": "auto-1c1521c176fd",
+   "tab": "ai",
+   "date": "2026-11-13",
+   "publishedAt": "2026-11-13T14:05:22+00:00",
+   "type": "product",
+   "importance": 1,
+   "sourceType": "official",
+   "sourceName": "Hugging Face Blog",
+   "url": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
+   "originalTitle": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
+   "en": {
+    "title": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
+    "summary": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
+    "details": ""
+   },
+   "translated": false,
+   "fetchedAt": "2026-11-13T17:40:00+00:00",
+   "company": "Hugging Face"
+  },
+  {
+   "id": "auto-4de8658a9149",
+   "tab": "ai",
+   "date": "2026-11-13",
+   "publishedAt": "2026-11-13T10:18:13+00:00",
+   "type": "coding",
+   "importance": 1,
+   "sourceType": "community",
+   "sourceName": "Hacker News",
+   "url": "https://news.ycombinator.com/item?id=50481187",
+   "originalTitle": "Elevated errors on claude.ai, Claude Code, and platform.claude.com",
+   "en": {
+    "title": "Elevated errors on claude.ai, Claude Code, and platform.claude.com",
+    "summary": "Community discussion on Hacker News (435 points, 353 comments).",
+    "details": "Community discussion on Hacker News (435 points, 353 comments)."
+   },
+   "translated": false,
+   "fetchedAt": "2026-11-13T17:40:00+00:00"
+  },
+  {
+   "id": "auto-dcace20b4800",
+   "tab": "once-human",
+   "date": "2026-11-13",
+   "publishedAt": "2026-11-13T06:53:24+00:00",
+   "type": "community",
+   "importance": 1,
+   "sourceType": "community",
+   "sourceName": "r/OnceHumanOfficial",
+   "url": "https://www.reddit.com/r/OnceHumanOfficial/comments/1xv0zcj/devs_please_increase_structure_limit/",
+   "originalTitle": "Devs please increase structure limit 🙏 😢",
+   "en": {
+    "title": "Devs please increase structure limit 🙏 😢",
+    "summary": "Community post on r/OnceHumanOfficial. I feel like the limits for strutures and furnitures are not enough. *only 2 rooms in the main house has furnitures for now",
+    "details": "Community post on r/OnceHumanOfficial.\n\nI feel like the limits for strutures and furnitures are not enough. *only 2 rooms in the main house has furnitures for now"
+   },
+   "translated": false,
+   "fetchedAt": "2026-11-13T17:40:00+00:00"
+  },
+  {
+   "id": "auto-ffbe393e0840",
+   "tab": "star-citizen",
+   "date": "2026-11-13",
+   "publishedAt": "2026-11-13T15:39:59+00:00",
+   "type": "ship",
+   "importance": 1,
+   "sourceType": "official",
+   "sourceName": "RSI Comm-Link",
+   "url": "https://robertsspaceindustries.com/comm-link/engineering/21448-Q-A-IAE-2956-New-Ships",
+   "originalTitle": "Q&A: IAE 2956 New Ships",
+   "en": {
+    "title": "Q&A: IAE 2956 New Ships",
+    "summary": "Intergalactic Aerospace Expo 2956 brings a full payload of new ships, and we know you’re eager for the details. We asked the Vehicle and Gameplay teams a few questions about every ship debuting at the show.",
+    "details": "Intergalactic Aerospace Expo 2956 brings a full payload of new ships, and we know you’re eager for the details. We asked the Vehicle and Gameplay teams a few questions about every ship debuting at the show."
+   },
+   "translated": false,
+   "fetchedAt": "2026-11-13T17:39:59+00:00"
+  },
+  {
+   "id": "auto-370b8e2367e5",
+   "tab": "star-citizen",
+   "date": "2026-11-13",
+   "publishedAt": "2026-11-13T15:39:59+00:00",
+   "type": "event",
+   "importance": 1,
+   "sourceType": "official",
+   "sourceName": "RSI Comm-Link",
+   "url": "https://robertsspaceindustries.com/comm-link/transmission/21412-IAE-2956-RSI",
+   "originalTitle": "IAE 2956 RSI",
+   "en": {
+    "title": "IAE 2956 RSI",
+    "summary": "This year’s sponsor, RSI, launches IAE with the much-anticipated modular Galaxy.",
+    "details": "This year’s sponsor, RSI, launches IAE with the much-anticipated modular Galaxy."
+   },
+   "translated": false,
+   "fetchedAt": "2026-11-13T17:39:59+00:00"
+  },
+  {
+   "id": "auto-88f92e3f716f",
+   "tab": "star-citizen",
+   "date": "2026-11-13",
+   "publishedAt": "2026-11-13T15:39:59+00:00",
+   "type": "event",
+   "importance": 1,
+   "sourceType": "official",
+   "sourceName": "RSI Comm-Link",
+   "url": "https://robertsspaceindustries.com/comm-link/transmission/21415-IAE-2956-Merchandise",
+   "originalTitle": "IAE 2956 Merchandise",
+   "en": {
+    "title": "IAE 2956 Merchandise",
+    "summary": "Show your love for your favorite shipbuilder.",
+    "details": "Show your love for your favorite shipbuilder."
+   },
+   "translated": false,
+   "fetchedAt": "2026-11-13T17:39:59+00:00"
+  },
+  {
+   "id": "auto-937799e49577",
+   "tab": "star-citizen",
+   "date": "2026-11-13",
+   "publishedAt": "2026-11-13T15:39:59+00:00",
+   "type": "event",
+   "importance": 1,
+   "sourceType": "official",
+   "sourceName": "RSI Comm-Link",
+   "url": "https://robertsspaceindustries.com/comm-link/transmission/21414-IAE-2956-About",
+   "originalTitle": "IAE 2956 About",
+   "en": {
+    "title": "IAE 2956 About",
+    "summary": "The doors to the expo are open!",
+    "details": "The doors to the expo are open!"
+   },
+   "translated": false,
+   "fetchedAt": "2026-11-13T17:39:59+00:00"
+  },
+  {
+   "id": "auto-267e95df9a0c",
+   "tab": "star-citizen",
+   "date": "2026-11-13",
+   "publishedAt": "2026-11-13T15:39:59+00:00",
+   "type": "development",
+   "importance": 1,
+   "sourceType": "official",
+   "sourceName": "RSI Comm-Link",
+   "url": "https://robertsspaceindustries.com/comm-link/transmission/21347-RSI-Skylark",
+   "originalTitle": "RSI Skylark - A Little Goes a Long Way",
+   "en": {
+    "title": "RSI Skylark - A Little Goes a Long Way",
+    "summary": "Armed for the fight, shielded for the fray, and fueled to scout the frontier.",
+    "details": "Armed for the fight, shielded for the fray, and fueled to scout the frontier."
+   },
+   "translated": false,
+   "fetchedAt": "2026-11-13T17:39:59+00:00"
+  },
+  {
+   "id": "auto-dc3be6f501dd",
+   "tab": "star-citizen",
+   "date": "2026-11-13",
+   "publishedAt": "2026-11-13T15:39:59+00:00",
+   "type": "development",
+   "importance": 1,
+   "sourceType": "official",
+   "sourceName": "RSI Comm-Link",
+   "url": "https://robertsspaceindustries.com/comm-link/transmission/21346-RSI-Galaxy",
+   "originalTitle": "RSI Galaxy - Mission Made",
+   "en": {
+    "title": "RSI Galaxy - Mission Made",
+    "summary": "The RSI Galaxy pairs a modular midship with the firepower and protection to see the mission through.",
+    "details": "The RSI Galaxy pairs a modular midship with the firepower and protection to see the mission through."
+   },
+   "translated": false,
+   "fetchedAt": "2026-11-13T17:39:59+00:00"
+  },
+  {
+   "id": "auto-b75d22b73a0d",
+   "tab": "ai",
+   "date": "2026-11-13",
+   "publishedAt": "2026-11-13T15:00:00+00:00",
+   "type": "coding",
+   "importance": 1,
+   "sourceType": "official",
+   "sourceName": "OpenAI News",
+   "url": "https://openai.com/index/introducing-chatgpt-wallet",
+   "originalTitle": "Introducing ChatGPT Wallet",
+   "en": {
+    "title": "Introducing ChatGPT Wallet",
+    "summary": "Introducing ChatGPT Wallet, a secure way for agents in ChatGPT Work, Codex, and dots to complete purchases with user approval and existing card protections.",
+    "details": "Introducing ChatGPT Wallet, a secure way for agents in ChatGPT Work, Codex, and dots to complete purchases with user approval and existing card protections."
+   },
+   "translated": false,
+   "fetchedAt": "2026-11-13T17:39:59+00:00",
+   "company": "OpenAI"
+  },
+  {
+   "id": "auto-ff349aa3be43",
+   "tab": "ai",
+   "date": "2026-11-12",
+   "publishedAt": "2026-11-12T23:06:17+00:00",
+   "type": "product",
+   "importance": 1,
+   "sourceType": "community",
+   "sourceName": "Hacker News",
+   "url": "https://news.ycombinator.com/item?id=50475713",
+   "originalTitle": "Edge0-145B: Frontier AI Capabilities on Your Own Computer",
+   "en": {
+    "title": "Edge0-145B: Frontier AI Capabilities on Your Own Computer",
+    "summary": "Community discussion on Hacker News (319 points, 96 comments).",
+    "details": "Community discussion on Hacker News (319 points, 96 comments)."
+   },
+   "translated": false,
+   "fetchedAt": "2026-11-13T17:40:00+00:00"
+  },
   {
    "id": "auto-2b67a5e305e2",
    "tab": "once-human",
@@ -33,8 +323,8 @@
    "originalTitle": "Chinese frontier AI models carry the fingerprint of export-controlled GPUs",
    "en": {
     "title": "Chinese frontier AI models carry the fingerprint of export-controlled GPUs",
-    "summary": "Community discussion on Hacker News (296 points, 105 comments).",
-    "details": "Community discussion on Hacker News (296 points, 105 comments)."
+    "summary": "Community discussion on Hacker News (339 points, 143 comments).",
+    "details": "Community discussion on Hacker News (339 points, 143 comments)."
    },
    "translated": false,
    "fetchedAt": "2026-11-13T10:03:32+00:00"
@@ -111,8 +401,8 @@
    "originalTitle": "Gemini 4 Hydrogen",
    "en": {
     "title": "Gemini 4 Hydrogen",
-    "summary": "Community discussion on Hacker News (529 points, 333 comments).",
-    "details": "Community discussion on Hacker News (529 points, 333 comments)."
+    "summary": "Community discussion on Hacker News (554 points, 345 comments).",
+    "details": "Community discussion on Hacker News (554 points, 345 comments)."
    },
    "translated": false,
    "fetchedAt": "2026-11-12T22:18:30+00:00"
@@ -249,8 +539,8 @@
    "originalTitle": "Gemini Decisions API",
    "en": {
     "title": "Gemini Decisions API",
-    "summary": "Community discussion on Hacker News (561 points, 160 comments).",
-    "details": "Community discussion on Hacker News (561 points, 160 comments)."
+    "summary": "Community discussion on Hacker News (565 points, 160 comments).",
+    "details": "Community discussion on Hacker News (565 points, 160 comments)."
    },
    "translated": false,
    "fetchedAt": "2026-11-12T07:41:47+00:00"
@@ -268,8 +558,8 @@
    "originalTitle": "United Airlines bans AI agents from booking flights on behalf of travelers",
    "en": {
     "title": "United Airlines bans AI agents from booking flights on behalf of travelers",
-    "summary": "Community discussion on Hacker News (670 points, 696 comments).",
-    "details": "Community discussion on Hacker News (670 points, 696 comments)."
+    "summary": "Community discussion on Hacker News (676 points, 698 comments).",
+    "details": "Community discussion on Hacker News (676 points, 698 comments)."
    },
    "translated": false,
    "fetchedAt": "2026-11-12T00:36:27+00:00"
@@ -491,6 +781,26 @@
    "translated": false,
    "fetchedAt": "2026-11-11T03:07:45+00:00",
    "company": "NVIDIA"
+  },
+  {
+   "id": "auto-4bfeb0f1df49",
+   "tab": "ai",
+   "date": "2026-11-10",
+   "publishedAt": "2026-11-10T11:13:04+00:00",
+   "type": "product",
+   "importance": 1,
+   "sourceType": "official",
+   "sourceName": "Google DeepMind Blog",
+   "url": "https://deepmind.google/blog/opening-the-datasets-behind-our-ai-weather-models/",
+   "originalTitle": "Opening the datasets behind our AI weather models",
+   "en": {
+    "title": "Opening the datasets behind our AI weather models",
+    "summary": "Foundational precipitation and geostationary satellite datasets to observe the planet clearly.",
+    "details": "Foundational precipitation and geostationary satellite datasets to observe the planet clearly."
+   },
+   "translated": false,
+   "fetchedAt": "2026-11-13T17:39:59+00:00",
+   "company": "Google"
   },
   {
    "id": "auto-ded16965bd1d",
