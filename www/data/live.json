@@ -1,6 +1,25 @@
 {
- "updatedAt": "2026-11-14T09:44:39+00:00",
+ "updatedAt": "2026-11-14T16:09:09+00:00",
  "items": [
+  {
+   "id": "auto-440797c9a898",
+   "tab": "star-citizen",
+   "date": "2026-11-14",
+   "publishedAt": "2026-11-14T16:09:04+00:00",
+   "type": "event",
+   "importance": 1,
+   "sourceType": "official",
+   "sourceName": "RSI Comm-Link",
+   "url": "https://robertsspaceindustries.com/comm-link/transmission/21411-IAE-2956-Origin-Jumpworks",
+   "originalTitle": "IAE 2956 Origin Jumpworks",
+   "en": {
+    "title": "IAE 2956 Origin Jumpworks",
+    "summary": "High-tech vehicles with the ultimate in luxury.",
+    "details": "High-tech vehicles with the ultimate in luxury."
+   },
+   "translated": false,
+   "fetchedAt": "2026-11-14T16:09:04+00:00"
+  },
   {
    "id": "auto-cd7a725df94a",
    "tab": "ai",
@@ -14,8 +33,8 @@
    "originalTitle": "Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs",
    "en": {
     "title": "Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs",
-    "summary": "Community discussion on Hacker News (548 points, 327 comments).",
-    "details": "Community discussion on Hacker News (548 points, 327 comments)."
+    "summary": "Community discussion on Hacker News (885 points, 527 comments).",
+    "details": "Community discussion on Hacker News (885 points, 527 comments)."
    },
    "translated": false,
    "fetchedAt": "2026-11-14T09:44:35+00:00"
@@ -52,8 +71,8 @@
    "originalTitle": "Jonathan Blow – If AI solved coding, why is my software still the same? [video]",
    "en": {
     "title": "Jonathan Blow – If AI solved coding, why is my software still the same? [video]",
-    "summary": "Community discussion on Hacker News (286 points, 331 comments).",
-    "details": "Community discussion on Hacker News (286 points, 331 comments)."
+    "summary": "Community discussion on Hacker News (412 points, 571 comments).",
+    "details": "Community discussion on Hacker News (412 points, 571 comments)."
    },
    "translated": false,
    "fetchedAt": "2026-11-14T09:44:35+00:00"
@@ -71,8 +90,8 @@
    "originalTitle": "AI unlocks Gödel's notebooks, said to contain hundreds of proved theorems",
    "en": {
     "title": "AI unlocks Gödel's notebooks, said to contain hundreds of proved theorems",
-    "summary": "Community discussion on Hacker News (392 points, 97 comments).",
-    "details": "Community discussion on Hacker News (392 points, 97 comments)."
+    "summary": "Community discussion on Hacker News (408 points, 103 comments).",
+    "details": "Community discussion on Hacker News (408 points, 103 comments)."
    },
    "translated": false,
    "fetchedAt": "2026-11-13T22:52:13+00:00"
@@ -90,8 +109,8 @@
    "originalTitle": "AI is destroying the trust between writers and readers",
    "en": {
     "title": "AI is destroying the trust between writers and readers",
-    "summary": "Community discussion on Hacker News (341 points, 206 comments).",
-    "details": "Community discussion on Hacker News (341 points, 206 comments)."
+    "summary": "Community discussion on Hacker News (355 points, 223 comments).",
+    "details": "Community discussion on Hacker News (355 points, 223 comments)."
    },
    "translated": false,
    "fetchedAt": "2026-11-13T22:52:13+00:00"
@@ -288,8 +307,8 @@
    "originalTitle": "Elevated errors on claude.ai, Claude Code, and platform.claude.com",
    "en": {
     "title": "Elevated errors on claude.ai, Claude Code, and platform.claude.com",
-    "summary": "Community discussion on Hacker News (488 points, 384 comments).",
-    "details": "Community discussion on Hacker News (488 points, 384 comments)."
+    "summary": "Community discussion on Hacker News (489 points, 389 comments).",
+    "details": "Community discussion on Hacker News (489 points, 389 comments)."
    },
    "translated": false,
    "fetchedAt": "2026-11-13T17:40:00+00:00"
@@ -479,8 +498,8 @@
    "originalTitle": "Edge0-145B: Frontier AI Capabilities on Your Own Computer",
    "en": {
     "title": "Edge0-145B: Frontier AI Capabilities on Your Own Computer",
-    "summary": "Community discussion on Hacker News (344 points, 105 comments).",
-    "details": "Community discussion on Hacker News (344 points, 105 comments)."
+    "summary": "Community discussion on Hacker News (347 points, 105 comments).",
+    "details": "Community discussion on Hacker News (347 points, 105 comments)."
    },
    "translated": false,
    "fetchedAt": "2026-11-13T17:40:00+00:00"
