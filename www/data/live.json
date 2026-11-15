@@ -1,6 +1,44 @@
 {
- "updatedAt": "2026-11-15T06:55:32+00:00",
+ "updatedAt": "2026-11-15T14:29:12+00:00",
  "items": [
+  {
+   "id": "auto-5a21a1c2d8a9",
+   "tab": "ai",
+   "date": "2026-11-14",
+   "publishedAt": "2026-11-14T00:06:04+00:00",
+   "type": "model",
+   "importance": 1,
+   "sourceType": "community",
+   "sourceName": "Hacker News",
+   "url": "https://news.ycombinator.com/item?id=50491980",
+   "originalTitle": "Unsloth Qwen3.8-27B Quantizations – Dynamic v3.1 Update",
+   "en": {
+    "title": "Unsloth Qwen3.8-27B Quantizations – Dynamic v3.1 Update",
+    "summary": "Community discussion on Hacker News (252 points, 83 comments).",
+    "details": "Community discussion on Hacker News (252 points, 83 comments)."
+   },
+   "translated": false,
+   "fetchedAt": "2026-11-15T14:29:08+00:00"
+  },
+  {
+   "id": "auto-d48492f86d91",
+   "tab": "once-human",
+   "date": "2026-11-14",
+   "publishedAt": "2026-11-14T11:02:25+00:00",
+   "type": "community",
+   "importance": 1,
+   "sourceType": "community",
+   "sourceName": "r/OnceHumanOfficial",
+   "url": "https://www.reddit.com/r/OnceHumanOfficial/comments/1xvzrkl/new_character/",
+   "originalTitle": "New character",
+   "en": {
+    "title": "New character",
+    "summary": "Community post on r/OnceHumanOfficial.",
+    "details": "Community post on r/OnceHumanOfficial."
+   },
+   "translated": false,
+   "fetchedAt": "2026-11-15T14:29:08+00:00"
+  },
   {
    "id": "auto-440797c9a898",
    "tab": "star-citizen",
@@ -33,8 +71,8 @@
    "originalTitle": "Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs",
    "en": {
     "title": "Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs",
-    "summary": "Community discussion on Hacker News (1063 points, 629 comments).",
-    "details": "Community discussion on Hacker News (1063 points, 629 comments)."
+    "summary": "Community discussion on Hacker News (1081 points, 643 comments).",
+    "details": "Community discussion on Hacker News (1081 points, 643 comments)."
    },
    "translated": false,
    "fetchedAt": "2026-11-14T09:44:35+00:00"
@@ -71,8 +109,8 @@
    "originalTitle": "Jonathan Blow – If AI solved coding, why is my software still the same? [video]",
    "en": {
     "title": "Jonathan Blow – If AI solved coding, why is my software still the same? [video]",
-    "summary": "Community discussion on Hacker News (468 points, 688 comments).",
-    "details": "Community discussion on Hacker News (468 points, 688 comments)."
+    "summary": "Community discussion on Hacker News (473 points, 715 comments).",
+    "details": "Community discussion on Hacker News (473 points, 715 comments)."
    },
    "translated": false,
    "fetchedAt": "2026-11-14T09:44:35+00:00"
@@ -90,8 +128,8 @@
    "originalTitle": "AI unlocks Gödel's notebooks, said to contain hundreds of proved theorems",
    "en": {
     "title": "AI unlocks Gödel's notebooks, said to contain hundreds of proved theorems",
-    "summary": "Community discussion on Hacker News (427 points, 108 comments).",
-    "details": "Community discussion on Hacker News (427 points, 108 comments)."
+    "summary": "Community discussion on Hacker News (430 points, 110 comments).",
+    "details": "Community discussion on Hacker News (430 points, 110 comments)."
    },
    "translated": false,
    "fetchedAt": "2026-11-13T22:52:13+00:00"
@@ -109,8 +147,8 @@
    "originalTitle": "AI is destroying the trust between writers and readers",
    "en": {
     "title": "AI is destroying the trust between writers and readers",
-    "summary": "Community discussion on Hacker News (366 points, 228 comments).",
-    "details": "Community discussion on Hacker News (366 points, 228 comments)."
+    "summary": "Community discussion on Hacker News (367 points, 232 comments).",
+    "details": "Community discussion on Hacker News (367 points, 232 comments)."
    },
    "translated": false,
    "fetchedAt": "2026-11-13T22:52:13+00:00"
@@ -307,8 +345,8 @@
    "originalTitle": "Elevated errors on claude.ai, Claude Code, and platform.claude.com",
    "en": {
     "title": "Elevated errors on claude.ai, Claude Code, and platform.claude.com",
-    "summary": "Community discussion on Hacker News (493 points, 391 comments).",
-    "details": "Community discussion on Hacker News (493 points, 391 comments)."
+    "summary": "Community discussion on Hacker News (493 points, 389 comments).",
+    "details": "Community discussion on Hacker News (493 points, 389 comments)."
    },
    "translated": false,
    "fetchedAt": "2026-11-13T17:40:00+00:00"
