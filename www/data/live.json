@@ -1,6 +1,82 @@
 {
- "updatedAt": "2026-11-15T14:29:12+00:00",
+ "updatedAt": "2026-11-15T19:55:04+00:00",
  "items": [
+  {
+   "id": "auto-141e223eb03f",
+   "tab": "ai",
+   "date": "2026-11-15",
+   "publishedAt": "2026-11-15T14:46:58+00:00",
+   "type": "coding",
+   "importance": 1,
+   "sourceType": "community",
+   "sourceName": "Hacker News",
+   "url": "https://news.ycombinator.com/item?id=50507303",
+   "originalTitle": "All AI-generated code should be Open Source",
+   "en": {
+    "title": "All AI-generated code should be Open Source",
+    "summary": "Community discussion on Hacker News (848 points, 453 comments).",
+    "details": "Community discussion on Hacker News (848 points, 453 comments)."
+   },
+   "translated": false,
+   "fetchedAt": "2026-11-15T19:54:59+00:00"
+  },
+  {
+   "id": "auto-d13311815154",
+   "tab": "star-citizen",
+   "date": "2026-11-15",
+   "publishedAt": "2026-11-15T15:54:59+00:00",
+   "type": "ship",
+   "importance": 1,
+   "sourceType": "official",
+   "sourceName": "RSI Comm-Link",
+   "url": "https://robertsspaceindustries.com/comm-link/transmission/21452-Star-Citizen-Behind-The-Ships-Anvil-Liberator",
+   "originalTitle": "Star Citizen | Behind the Ships: Anvil Liberator",
+   "en": {
+    "title": "Star Citizen | Behind the Ships: Anvil Liberator",
+    "summary": "Load up and learn what the Liberator brings to the ‘verse… and what your fleet could bring to the Liberator. They don’t call it a logistical powerhouse for nothing.",
+    "details": "Load up and learn what the Liberator brings to the ‘verse… and what your fleet could bring to the Liberator. They don’t call it a logistical powerhouse for nothing."
+   },
+   "translated": false,
+   "fetchedAt": "2026-11-15T19:54:59+00:00"
+  },
+  {
+   "id": "auto-72741112e6d3",
+   "tab": "star-citizen",
+   "date": "2026-11-15",
+   "publishedAt": "2026-11-15T15:54:59+00:00",
+   "type": "ship",
+   "importance": 1,
+   "sourceType": "official",
+   "sourceName": "RSI Comm-Link",
+   "url": "https://robertsspaceindustries.com/comm-link/transmission/21410-IAE-2956-Anvil-Aerospace",
+   "originalTitle": "IAE 2956 Anvil Aerospace",
+   "en": {
+    "title": "IAE 2956 Anvil Aerospace",
+    "summary": "Make way for the hotly anticipated military-spec carrier, the Liberator.",
+    "details": "Make way for the hotly anticipated military-spec carrier, the Liberator."
+   },
+   "translated": false,
+   "fetchedAt": "2026-11-15T19:54:59+00:00"
+  },
+  {
+   "id": "auto-61354524a2b9",
+   "tab": "star-citizen",
+   "date": "2026-11-15",
+   "publishedAt": "2026-11-15T15:54:59+00:00",
+   "type": "ship",
+   "importance": 1,
+   "sourceType": "official",
+   "sourceName": "RSI Comm-Link",
+   "url": "https://robertsspaceindustries.com/comm-link/transmission/21348-Anvil-Liberator",
+   "originalTitle": "Anvil Liberator - Load Up Your Loadout",
+   "en": {
+    "title": "Anvil Liberator - Load Up Your Loadout",
+    "summary": "Take your fleet further with this military-spec, long-range transport vessel.",
+    "details": "Take your fleet further with this military-spec, long-range transport vessel."
+   },
+   "translated": false,
+   "fetchedAt": "2026-11-15T19:54:59+00:00"
+  },
   {
    "id": "auto-5a21a1c2d8a9",
    "tab": "ai",
@@ -14,8 +90,8 @@
    "originalTitle": "Unsloth Qwen3.8-27B Quantizations – Dynamic v3.1 Update",
    "en": {
     "title": "Unsloth Qwen3.8-27B Quantizations – Dynamic v3.1 Update",
-    "summary": "Community discussion on Hacker News (252 points, 83 comments).",
-    "details": "Community discussion on Hacker News (252 points, 83 comments)."
+    "summary": "Community discussion on Hacker News (256 points, 84 comments).",
+    "details": "Community discussion on Hacker News (256 points, 84 comments)."
    },
    "translated": false,
    "fetchedAt": "2026-11-15T14:29:08+00:00"
@@ -71,8 +147,8 @@
    "originalTitle": "Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs",
    "en": {
     "title": "Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs",
-    "summary": "Community discussion on Hacker News (1081 points, 643 comments).",
-    "details": "Community discussion on Hacker News (1081 points, 643 comments)."
+    "summary": "Community discussion on Hacker News (1090 points, 646 comments).",
+    "details": "Community discussion on Hacker News (1090 points, 646 comments)."
    },
    "translated": false,
    "fetchedAt": "2026-11-14T09:44:35+00:00"
@@ -97,6 +173,44 @@
    "fetchedAt": "2026-11-14T02:52:07+00:00"
   },
   {
+   "id": "auto-995a3a42ee55",
+   "tab": "star-citizen",
+   "date": "2026-11-13",
+   "publishedAt": "2026-11-13T01:08:16+00:00",
+   "type": "community",
+   "importance": 1,
+   "sourceType": "community",
+   "sourceName": "r/starcitizen",
+   "url": "https://www.reddit.com/r/starcitizen/comments/1xuuczq/the_fact_that_liberator_was_changed_from_a_light/",
+   "originalTitle": "The fact that Liberator was changed from a Light Carrier to a Drop Ship is absolutely unacceptable.",
+   "en": {
+    "title": "The fact that Liberator was changed from a Light Carrier to a Drop Ship is absolutely unacceptable.",
+    "summary": "Community post on r/starcitizen. Changing the Liberator from a Light Carrier to a Drop Ship is absolutely unacceptable; please revert it to a Light Carrier immediately.",
+    "details": "Community post on r/starcitizen.\n\nChanging the Liberator from a Light Carrier to a Drop Ship is absolutely unacceptable; please revert it to a Light Carrier immediately.\n\nThe image in which the Liberator’s role is listed as \"Light Carrier\" was taken on November 10, 2026—three days before the Liberator was implemented.\n\nP.S.\nWe’ve received a response from CIG! It looks like they’re going to resolve this issue!\nhttps://www.reddit.com/r/starcitizen/s/4YRYTuqqdb"
+   },
+   "translated": false,
+   "fetchedAt": "2026-11-15T19:55:02+00:00"
+  },
+  {
+   "id": "auto-ccd9e1546434",
+   "tab": "star-citizen",
+   "date": "2026-11-13",
+   "publishedAt": "2026-11-13T14:23:10+00:00",
+   "type": "community",
+   "importance": 1,
+   "sourceType": "community",
+   "sourceName": "r/starcitizen",
+   "url": "https://www.reddit.com/r/starcitizen/comments/1xv96pl/cigif_you_not_ready_for_galaxy_dont_rush_it/",
+   "originalTitle": "CIG:If you not ready for Galaxy, don’t rush it.",
+   "en": {
+    "title": "CIG:If you not ready for Galaxy, don’t rush it.",
+    "summary": "Community post on r/starcitizen. No offense, but I have to say that the release of the Galaxy in terms of ship design was an epic disaster as famous as the Polaris. The same expectation, followed by the same disappointment.",
+    "details": "Community post on r/starcitizen.\n\nNo offense, but I have to say that the release of the Galaxy - in terms of ship design - was an epic disaster as famous as the Polaris.\n\nThe same expectation, followed by the same disappointment.\n\nThe screenshot I uploaded highlights the following points:\n\n1.⁠ The cockpit is essentially a repetition of the Perseus; it looks like they simply stuffed half of the cockpit layout of the Perseus into the model, while the other half is exposed.\n\n2.In addition, they are not even properly aligned - the driver’s seat is actually not in the middle.\n\n3.There is a serious problem with the surface normal of the whole model. ( As an architecture student, I can tell you that if my professor sees such a modeling quality, he will punish me, and this poor interior design.)\n\n4.⁠ I don’t understand why the external texture of almost all RSI ships has become so dirty; in most light conditions, the hull looks extremely plastic and cheap.\n\n- The interior also has serious defects: the layout is messy, and the combination of large blue panels, sparse light and low ceilings creates an oppressive and suffocating atmosphere. It also lacks details - it seems that they repeat the same mistake on the Galaxy and repeat the mistakes on the Polar.\n\nI realized that this post may not change anything - of course, CIG will not turn back and completely remake the ship - but when you see it side by side with the Liberator, this contrast is really painful.。 …"
+   },
+   "translated": false,
+   "fetchedAt": "2026-11-15T19:55:02+00:00"
+  },
+  {
    "id": "auto-54fabef2294d",
    "tab": "ai",
    "date": "2026-11-13",
@@ -109,8 +223,8 @@
    "originalTitle": "Jonathan Blow – If AI solved coding, why is my software still the same? [video]",
    "en": {
     "title": "Jonathan Blow – If AI solved coding, why is my software still the same? [video]",
-    "summary": "Community discussion on Hacker News (473 points, 715 comments).",
-    "details": "Community discussion on Hacker News (473 points, 715 comments)."
+    "summary": "Community discussion on Hacker News (478 points, 723 comments).",
+    "details": "Community discussion on Hacker News (478 points, 723 comments)."
    },
    "translated": false,
    "fetchedAt": "2026-11-14T09:44:35+00:00"
@@ -128,8 +242,8 @@
    "originalTitle": "AI unlocks Gödel's notebooks, said to contain hundreds of proved theorems",
    "en": {
     "title": "AI unlocks Gödel's notebooks, said to contain hundreds of proved theorems",
-    "summary": "Community discussion on Hacker News (430 points, 110 comments).",
-    "details": "Community discussion on Hacker News (430 points, 110 comments)."
+    "summary": "Community discussion on Hacker News (435 points, 110 comments).",
+    "details": "Community discussion on Hacker News (435 points, 110 comments)."
    },
    "translated": false,
    "fetchedAt": "2026-11-13T22:52:13+00:00"
@@ -147,8 +261,8 @@
    "originalTitle": "AI is destroying the trust between writers and readers",
    "en": {
     "title": "AI is destroying the trust between writers and readers",
-    "summary": "Community discussion on Hacker News (367 points, 232 comments).",
-    "details": "Community discussion on Hacker News (367 points, 232 comments)."
+    "summary": "Community discussion on Hacker News (369 points, 234 comments).",
+    "details": "Community discussion on Hacker News (369 points, 234 comments)."
    },
    "translated": false,
    "fetchedAt": "2026-11-13T22:52:13+00:00"
@@ -776,6 +890,25 @@
    },
    "translated": false,
    "fetchedAt": "2026-11-12T07:41:47+00:00"
+  },
+  {
+   "id": "auto-eeb05330d851",
+   "tab": "star-citizen",
+   "date": "2026-11-11",
+   "publishedAt": "2026-11-11T18:46:15+00:00",
+   "type": "community",
+   "importance": 1,
+   "sourceType": "community",
+   "sourceName": "r/starcitizen",
+   "url": "https://www.reddit.com/r/starcitizen/comments/1xtq0bd/rip_lightning/",
+   "originalTitle": "RIP Lightning",
+   "en": {
+    "title": "RIP Lightning",
+    "summary": "Community post on r/starcitizen. Judging from the images, the Drake Marauder seems to be a medium fighter with seven weapon hardpoints ranging from S2 to S3. The Marauder would absolutely outclass a Lightning equipped with all NDBs.",
+    "details": "Community post on r/starcitizen.\n\nJudging from the images, the Drake Marauder seems to be a medium fighter with seven weapon hardpoints ranging from S2 to S3.\n\nThe Marauder would absolutely outclass a Lightning equipped with all NDBs.\n\nIf all seven hardpoints turn out to be S3 and it’s more agile than the F7A Hornet Mk II, it could very well become the new PvP meta.\n\nDon’t worry, the F8X and F7X are scheduled to become the new meta during ILW.\n\nAt this point, I’m convinced CIG has completely forgotten about the Scorpius."
+   },
+   "translated": false,
+   "fetchedAt": "2026-11-15T19:55:02+00:00"
   },
   {
    "id": "auto-21262dd5598a",
@@ -1447,6 +1580,25 @@
    "translated": false,
    "fetchedAt": "2026-11-10T11:38:56+00:00",
    "company": "OpenAI"
+  },
+  {
+   "id": "auto-4d95d1ef1874",
+   "tab": "star-citizen",
+   "date": "2026-11-09",
+   "publishedAt": "2026-11-09T18:02:43+00:00",
+   "type": "community",
+   "importance": 1,
+   "sourceType": "community",
+   "sourceName": "r/starcitizen",
+   "url": "https://www.reddit.com/r/starcitizen/comments/1xryt5y/alright_then_i_guess/",
+   "originalTitle": "Alright then, I guess.",
+   "en": {
+    "title": "Alright then, I guess.",
+    "summary": "Community post on r/starcitizen. With every new release, the idea of ​​not giving weapons to the Polaris pilot seems increasingly wrong. Reposting because I was being dumb last time and wrote \"Multirow\" instead of \"Multirole.\"",
+    "details": "Community post on r/starcitizen.\n\nWith every new release, the idea of ​​not giving weapons to the Polaris pilot seems increasingly wrong.\n\nReposting because I was being dumb last time and wrote \"Multirow\" instead of \"Multirole.\""
+   },
+   "translated": false,
+   "fetchedAt": "2026-11-15T19:55:02+00:00"
   },
   {
    "id": "auto-9b9db002d7e9",
