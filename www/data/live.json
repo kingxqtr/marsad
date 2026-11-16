@@ -1,6 +1,65 @@
 {
- "updatedAt": "2026-11-15T23:41:45+00:00",
+ "updatedAt": "2026-11-16T03:13:56+00:00",
  "items": [
+  {
+   "id": "auto-bb8abd0732b2",
+   "tab": "ai",
+   "date": "2026-11-16",
+   "publishedAt": "2026-11-16T01:18:33+00:00",
+   "type": "product",
+   "importance": 1,
+   "sourceType": "official",
+   "sourceName": "Apple Newsroom",
+   "url": "https://www.apple.com/newsroom/2026/11/apple-launches-research-study-to-explore-the-use-of-ai-for-health/",
+   "originalTitle": "Apple launches research study to explore the use of AI for health",
+   "en": {
+    "title": "Apple launches research study to explore the use of AI for health",
+    "summary": "Apple today announced the launch of the Apple Health AI Usage Study in the United States, which includes a virtual research study and associated app.",
+    "details": "Apple today announced the launch of the Apple Health AI Usage Study in the United States, which includes a virtual research study and associated app."
+   },
+   "translated": false,
+   "fetchedAt": "2026-11-16T03:13:43+00:00",
+   "company": "Apple"
+  },
+  {
+   "id": "auto-b769d3981376",
+   "tab": "ai",
+   "date": "2026-11-16",
+   "publishedAt": "2026-11-16T00:00:28+00:00",
+   "type": "coding",
+   "importance": 1,
+   "sourceType": "official",
+   "sourceName": "NVIDIA Blog",
+   "url": "https://blogs.nvidia.com/blog/ai-day-seoul-wrapup/",
+   "originalTitle": "AI Day Seoul Brings Together Korea’s Industry Leaders, Startups and Developer Communities",
+   "en": {
+    "title": "AI Day Seoul Brings Together Korea’s Industry Leaders, Startups and Developer Communities",
+    "summary": "Over two days at COEX, more than 2,000 attendees converged for AI Day Seoul, bringing together Korea’s industry leaders, startups and developer communities advancing physical AI and AI agents.",
+    "details": "Over two days at COEX, more than 2,000 attendees converged for AI Day Seoul, bringing together Korea’s industry leaders, startups and developer communities advancing physical AI and AI agents.\n\nAt the plenary sessions, Deepu Talla, vice president of robotics and edge AI at NVIDIA, said Korea is “punching above its weight,” with Doosan Robotics, Hyundai Motor Group, LG Electronics and SK Group — as well as startups like Real World and Luda Robotics — using NVIDIA platforms to bring general-purpose robotics into the real world.\n\nJonathan Cohen, vice president of applied research at NVIDIA, showed how enterprises can build agents they own and control. Breakout sessions featured speakers from Coupang Intelligent Cloud, Doosan Robotics, LG AI Research, LG Electronics, NAVER Cloud, SK Telecom and Upstage.\n\n“It was a genuinely enjoyable time to have candid conversations,” said Hyunho Yang, research engineer for omnimodal foundation models at SK Telecom. “Seeing the passion of fellow AI developers was a real source of inspiration for me.”\n\nCommunity leaders share how they build with open models and tools at AI Day Seoul. …"
+   },
+   "translated": false,
+   "fetchedAt": "2026-11-16T03:13:43+00:00",
+   "company": "NVIDIA"
+  },
+  {
+   "id": "auto-d63ff9ff3d46",
+   "tab": "once-human",
+   "date": "2026-11-15",
+   "publishedAt": "2026-11-15T16:58:20+00:00",
+   "type": "community",
+   "importance": 1,
+   "sourceType": "community",
+   "sourceName": "r/OnceHumanOfficial",
+   "url": "https://www.reddit.com/r/OnceHumanOfficial/comments/1xx0ihl/isles_of_abyss_perm_servers_are_dead_and_i_blame/",
+   "originalTitle": "Isles of Abyss Perm Servers are dead and I blame lack of silos and dungeons for that.",
+   "en": {
+    "title": "Isles of Abyss Perm Servers are dead and I blame lack of silos and dungeons for that.",
+    "summary": "Community post on r/OnceHumanOfficial. I was really enjoying this scenario until we reached the final phase, which honestly came as a shock as someone who has been waiting for this scenario for over a year.",
+    "details": "Community post on r/OnceHumanOfficial.\n\nI was really enjoying this scenario until we reached the final phase, which honestly came as a shock as someone who has been waiting for this scenario for over a year. I expected a lot more activity and end-game content, but all we got was a single dungeon. Sure, it's a fun dungeon, but it's not something I see myself grinding over and over again.\n\nThe end-game experience in this scenario feels very different from what we have in previous scenarios. We have no new silos, no boss fights, no Public Crisis events, and very limited world activities that eventually become repetitive and lose their appeal.\n\nI genuinely hope the devs will consider revamping the server and introducing more end-game content. As much as I'd love to stay on the server and continue enjoying the map, I've tried forcing myself to keep playing, but there's simply not enough to do.\n\nThe server feels dead, and there isn't much of a community left running activities. It's disappointing to see a scenario with so much potential lose its momentum right when players should have the most reasons to keep playing.\n\nWe want new silos, bosses, and public activity like ED and Manibus. …"
+   },
+   "translated": false,
+   "fetchedAt": "2026-11-16T03:13:52+00:00"
+  },
   {
    "id": "auto-141e223eb03f",
    "tab": "ai",
@@ -14,8 +73,8 @@
    "originalTitle": "All AI-generated code should be Open Source",
    "en": {
     "title": "All AI-generated code should be Open Source",
-    "summary": "Community discussion on Hacker News (1040 points, 570 comments).",
-    "details": "Community discussion on Hacker News (1040 points, 570 comments)."
+    "summary": "Community discussion on Hacker News (1107 points, 597 comments).",
+    "details": "Community discussion on Hacker News (1107 points, 597 comments)."
    },
    "translated": false,
    "fetchedAt": "2026-11-15T19:54:59+00:00"
@@ -90,8 +149,8 @@
    "originalTitle": "Unsloth Qwen3.8-27B Quantizations – Dynamic v3.1 Update",
    "en": {
     "title": "Unsloth Qwen3.8-27B Quantizations – Dynamic v3.1 Update",
-    "summary": "Community discussion on Hacker News (257 points, 84 comments).",
-    "details": "Community discussion on Hacker News (257 points, 84 comments)."
+    "summary": "Community discussion on Hacker News (259 points, 85 comments).",
+    "details": "Community discussion on Hacker News (259 points, 85 comments)."
    },
    "translated": false,
    "fetchedAt": "2026-11-15T14:29:08+00:00"
@@ -147,8 +206,8 @@
    "originalTitle": "Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs",
    "en": {
     "title": "Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs",
-    "summary": "Community discussion on Hacker News (1098 points, 646 comments).",
-    "details": "Community discussion on Hacker News (1098 points, 646 comments)."
+    "summary": "Community discussion on Hacker News (1101 points, 649 comments).",
+    "details": "Community discussion on Hacker News (1101 points, 649 comments)."
    },
    "translated": false,
    "fetchedAt": "2026-11-14T09:44:35+00:00"
@@ -223,8 +282,8 @@
    "originalTitle": "Jonathan Blow – If AI solved coding, why is my software still the same? [video]",
    "en": {
     "title": "Jonathan Blow – If AI solved coding, why is my software still the same? [video]",
-    "summary": "Community discussion on Hacker News (482 points, 724 comments).",
-    "details": "Community discussion on Hacker News (482 points, 724 comments)."
+    "summary": "Community discussion on Hacker News (482 points, 725 comments).",
+    "details": "Community discussion on Hacker News (482 points, 725 comments)."
    },
    "translated": false,
    "fetchedAt": "2026-11-14T09:44:35+00:00"
@@ -242,8 +301,8 @@
    "originalTitle": "AI unlocks Gödel's notebooks, said to contain hundreds of proved theorems",
    "en": {
     "title": "AI unlocks Gödel's notebooks, said to contain hundreds of proved theorems",
-    "summary": "Community discussion on Hacker News (437 points, 110 comments).",
-    "details": "Community discussion on Hacker News (437 points, 110 comments)."
+    "summary": "Community discussion on Hacker News (438 points, 110 comments).",
+    "details": "Community discussion on Hacker News (438 points, 110 comments)."
    },
    "translated": false,
    "fetchedAt": "2026-11-13T22:52:13+00:00"
@@ -261,8 +320,8 @@
    "originalTitle": "AI is destroying the trust between writers and readers",
    "en": {
     "title": "AI is destroying the trust between writers and readers",
-    "summary": "Community discussion on Hacker News (369 points, 234 comments).",
-    "details": "Community discussion on Hacker News (369 points, 234 comments)."
+    "summary": "Community discussion on Hacker News (370 points, 234 comments).",
+    "details": "Community discussion on Hacker News (370 points, 234 comments)."
    },
    "translated": false,
    "fetchedAt": "2026-11-13T22:52:13+00:00"
@@ -1580,6 +1639,25 @@
    "translated": false,
    "fetchedAt": "2026-11-10T11:38:56+00:00",
    "company": "OpenAI"
+  },
+  {
+   "id": "auto-ad0c2492b60c",
+   "tab": "star-citizen",
+   "date": "2026-11-09",
+   "publishedAt": "2026-11-09T03:13:43+00:00",
+   "type": "ship",
+   "importance": 1,
+   "sourceType": "official",
+   "sourceName": "RSI Comm-Link",
+   "url": "https://robertsspaceindustries.com/comm-link/transmission/21389-Countdown-To-IAE-2956",
+   "originalTitle": "Countdown to IAE 2956 - The Ultimate Ship Show Returns",
+   "en": {
+    "title": "Countdown to IAE 2956 - The Ultimate Ship Show Returns",
+    "summary": "Try out coveted new releases and revered classics from the outstanding manufacturers of the ‘verse FOR FREE at the Intergalactic Aerospace Expo!",
+    "details": "Try out coveted new releases and revered classics from the outstanding manufacturers of the ‘verse FOR FREE at the Intergalactic Aerospace Expo!"
+   },
+   "translated": false,
+   "fetchedAt": "2026-11-16T03:13:43+00:00"
   },
   {
    "id": "auto-4d95d1ef1874",
