@@ -1,6 +1,65 @@
 {
- "updatedAt": "2026-11-16T03:13:56+00:00",
+ "updatedAt": "2026-11-16T11:32:19+00:00",
  "items": [
+  {
+   "id": "auto-1319013831a5",
+   "tab": "ai",
+   "date": "2026-11-16",
+   "publishedAt": "2026-11-16T02:14:44+00:00",
+   "type": "model",
+   "importance": 1,
+   "sourceType": "community",
+   "sourceName": "Hacker News",
+   "url": "https://news.ycombinator.com/item?id=50513215",
+   "originalTitle": "Qwen4-Max",
+   "en": {
+    "title": "Qwen4-Max",
+    "summary": "Community discussion on Hacker News (578 points, 241 comments).",
+    "details": "Community discussion on Hacker News (578 points, 241 comments)."
+   },
+   "translated": false,
+   "fetchedAt": "2026-11-16T11:32:15+00:00"
+  },
+  {
+   "id": "auto-83aa2fcde358",
+   "tab": "ai",
+   "date": "2026-11-16",
+   "publishedAt": "2026-11-16T06:25:27+00:00",
+   "type": "policy",
+   "importance": 1,
+   "sourceType": "official",
+   "sourceName": "Meta Newsroom",
+   "url": "https://about.fb.com/news/2026/11/94-of-singapore-small-business-owners-surveyed-say-more-ai-guidance-is-needed/",
+   "originalTitle": "94% of Singapore Small Business Owners Surveyed Say More AI Guidance Is Needed",
+   "en": {
+    "title": "94% of Singapore Small Business Owners Surveyed Say More AI Guidance Is Needed",
+    "summary": "From left to right – Shanti Alexander , Director of Policy Programs and Campaigns (APAC), Meta; Elin Wong , Public Policy Manager (Singapore & ASEAN), Meta; Nicole Tan , Managing Director, Meta Singapore; Sarim Aziz , Director, Public …",
+    "details": "From left to right – Shanti Alexander , Director of Policy Programs and Campaigns (APAC), Meta; Elin Wong , Public Policy Manager (Singapore & ASEAN), Meta; Nicole Tan , Managing Director, Meta Singapore; Sarim Aziz , Director, Public Policy (Southeast Asia), Meta; Rachel Lee , Business Development Lead, Honeymill; Low Yen Ling , Senior Minister of State, Ministry of Culture, Community and Youth & Ministry of Energy, Trade and Industry; Gerald Wong , Co-Founder and Lead Trainer, SpeakEasy Lab; Taabeer Ather , Economic Impact Programs Lead (APAC), Meta; Janilaine Ng , Director, Head of Industry, Meta Singapore; Johnson Poh , Assistant Chief Executive, Enterprise Transformation and Innovation Group, Infocomm Media Development Authority; Daniel Lim , Head of Public Policy, Meta Singapore .\n\nTakeaways:\n\n- 94% of Singapore small business owners surveyed agree that small businesses need more guidance to gain the full benefits of AI, according to YouGov research commissioned by Meta.\n\n- Meta Upskill Day 2026 brought Singapore small businesses, heartland merchants and creator-entrepreneurs together for practical training on Meta Business Agents and AI-powered business tools.\n\n- Meta Upskill Day forms part of the Met a Small Business Growth Academy , which helps small businesses build practical digital and AI skills. …"
+   },
+   "translated": false,
+   "fetchedAt": "2026-11-16T11:32:14+00:00",
+   "company": "Meta"
+  },
+  {
+   "id": "auto-8f9bc1e31d81",
+   "tab": "ai",
+   "date": "2026-11-16",
+   "publishedAt": "2026-11-16T09:00:00+00:00",
+   "type": "business",
+   "importance": 1,
+   "sourceType": "official",
+   "sourceName": "OpenAI News",
+   "url": "https://openai.com/index/lvmh-media-division-partnership",
+   "originalTitle": "LVMH’s Media Division announces strategic partnership with OpenAI",
+   "en": {
+    "title": "LVMH’s Media Division announces strategic partnership with OpenAI",
+    "summary": "LVMH’s Media Division and OpenAI announce a partnership to support journalism with AI and make its publications more accessible through ChatGPT.",
+    "details": "LVMH’s Media Division and OpenAI announce a partnership to support journalism with AI and make its publications more accessible through ChatGPT."
+   },
+   "translated": false,
+   "fetchedAt": "2026-11-16T11:32:14+00:00",
+   "company": "OpenAI"
+  },
   {
    "id": "auto-bb8abd0732b2",
    "tab": "ai",
@@ -42,6 +101,25 @@
    "company": "NVIDIA"
   },
   {
+   "id": "auto-9fc2a93b0349",
+   "tab": "once-human",
+   "date": "2026-11-15",
+   "publishedAt": "2026-11-15T22:20:11+00:00",
+   "type": "community",
+   "importance": 1,
+   "sourceType": "community",
+   "sourceName": "r/OnceHumanOfficial",
+   "url": "https://www.reddit.com/r/OnceHumanOfficial/comments/1xx8i5f/saying_goodbye_to_my_christmas_house/",
+   "originalTitle": "Saying goodbye to my Christmas house",
+   "en": {
+    "title": "Saying goodbye to my Christmas house",
+    "summary": "Community post on r/OnceHumanOfficial. Leaving the server in a few days is very hard for me to do this. i had this Christmas house for about a year . I need some guidance people. this is a really hard move for me...",
+    "details": "Community post on r/OnceHumanOfficial.\n\nLeaving the server in a few days is very hard for me to do this. i had this Christmas house for about a year . I need some guidance people. this is a really hard move for me..."
+   },
+   "translated": false,
+   "fetchedAt": "2026-11-16T11:32:15+00:00"
+  },
+  {
    "id": "auto-d63ff9ff3d46",
    "tab": "once-human",
    "date": "2026-11-15",
@@ -73,8 +151,8 @@
    "originalTitle": "All AI-generated code should be Open Source",
    "en": {
     "title": "All AI-generated code should be Open Source",
-    "summary": "Community discussion on Hacker News (1107 points, 597 comments).",
-    "details": "Community discussion on Hacker News (1107 points, 597 comments)."
+    "summary": "Community discussion on Hacker News (1172 points, 619 comments).",
+    "details": "Community discussion on Hacker News (1172 points, 619 comments)."
    },
    "translated": false,
    "fetchedAt": "2026-11-15T19:54:59+00:00"
@@ -206,8 +284,8 @@
    "originalTitle": "Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs",
    "en": {
     "title": "Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs",
-    "summary": "Community discussion on Hacker News (1101 points, 649 comments).",
-    "details": "Community discussion on Hacker News (1101 points, 649 comments)."
+    "summary": "Community discussion on Hacker News (1103 points, 650 comments).",
+    "details": "Community discussion on Hacker News (1103 points, 650 comments)."
    },
    "translated": false,
    "fetchedAt": "2026-11-14T09:44:35+00:00"
@@ -282,8 +360,8 @@
    "originalTitle": "Jonathan Blow – If AI solved coding, why is my software still the same? [video]",
    "en": {
     "title": "Jonathan Blow – If AI solved coding, why is my software still the same? [video]",
-    "summary": "Community discussion on Hacker News (482 points, 725 comments).",
-    "details": "Community discussion on Hacker News (482 points, 725 comments)."
+    "summary": "Community discussion on Hacker News (487 points, 728 comments).",
+    "details": "Community discussion on Hacker News (487 points, 728 comments)."
    },
    "translated": false,
    "fetchedAt": "2026-11-14T09:44:35+00:00"
@@ -301,8 +379,8 @@
    "originalTitle": "AI unlocks Gödel's notebooks, said to contain hundreds of proved theorems",
    "en": {
     "title": "AI unlocks Gödel's notebooks, said to contain hundreds of proved theorems",
-    "summary": "Community discussion on Hacker News (438 points, 110 comments).",
-    "details": "Community discussion on Hacker News (438 points, 110 comments)."
+    "summary": "Community discussion on Hacker News (441 points, 110 comments).",
+    "details": "Community discussion on Hacker News (441 points, 110 comments)."
    },
    "translated": false,
    "fetchedAt": "2026-11-13T22:52:13+00:00"
