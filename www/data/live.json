@@ -1,6 +1,404 @@
 {
- "updatedAt": "2026-11-16T11:32:19+00:00",
+ "updatedAt": "2026-11-16T21:13:20+00:00",
  "items": [
+  {
+   "id": "auto-10e76c80aedd",
+   "tab": "ai",
+   "date": "2026-11-16",
+   "publishedAt": "2026-11-16T14:00:00+00:00",
+   "type": "product",
+   "importance": 1,
+   "sourceType": "official",
+   "sourceName": "Google Blog — AI",
+   "url": "https://blog.google/products-and-platforms/products/maps/ask-maps-holiday-travel-features-2026/",
+   "originalTitle": "New Ask Maps features to help with holiday travel and prep",
+   "en": {
+    "title": "New Ask Maps features to help with holiday travel and prep",
+    "summary": "Plan holiday road trips, get route tips, find local appointments, and search your saved lists with new Ask Maps features.",
+    "details": "Plan holiday road trips, get route tips, find local appointments, and search your saved lists with new Ask Maps features."
+   },
+   "translated": false,
+   "fetchedAt": "2026-11-16T21:13:16+00:00",
+   "company": "Google"
+  },
+  {
+   "id": "auto-ac2621c1ce46",
+   "tab": "ai",
+   "date": "2026-11-16",
+   "publishedAt": "2026-11-16T00:00:00+00:00",
+   "type": "model",
+   "importance": 1,
+   "sourceType": "official",
+   "sourceName": "Hugging Face Blog",
+   "url": "https://huggingface.co/blog/openrouter",
+   "originalTitle": "Hugging Face and OpenRouter join forces to make open-weight models easy to run",
+   "en": {
+    "title": "Hugging Face and OpenRouter join forces to make open-weight models easy to run",
+    "summary": "Hugging Face and OpenRouter join forces to make open-weight models easy to run",
+    "details": ""
+   },
+   "translated": false,
+   "fetchedAt": "2026-11-16T21:13:16+00:00",
+   "company": "Hugging Face"
+  },
+  {
+   "id": "auto-3f04f4ac8751",
+   "tab": "ai",
+   "date": "2026-11-16",
+   "publishedAt": "2026-11-16T20:25:20+00:00",
+   "type": "coding",
+   "importance": 1,
+   "sourceType": "official",
+   "sourceName": "GitHub Changelog",
+   "url": "https://github.blog/changelog/2026-11-16-github-copilot-models-deprecated-on-november-16-2026",
+   "originalTitle": "GitHub Copilot models deprecated on November 16, 2026",
+   "en": {
+    "title": "GitHub Copilot models deprecated on November 16, 2026",
+    "summary": "As of today, November 16, 2026, we have deprecated the following models across most GitHub Copilot experiences (including Copilot Chat, inline edits, ask and agent modes, and code completions).",
+    "details": "As of today, November 16, 2026, we have deprecated the following models across most GitHub Copilot experiences (including Copilot Chat, inline edits, ask and agent modes, and code completions). Note that Claude Opus 4.8 is still available to individual GitHub Copilot subscribers on annual plans.\n\nThese deprecations were announced on October 15, 2026 .\n\nModel\nDeprecation date\nSuggested alternative\n\nClaude Opus 4.8\n2026-11-16\nClaude Opus 5.5\n\nClaude Opus 5\n2026-11-16\nClaude Opus 5.5\n\nGPT-5.6 Terra\n2026-11-16\nGPT-6.1 Sol or GPT-6 Luna\n\nClaude Opus 5 has been removed from the model picker but remains available for runtime refusal fallback through existing authorized access. Existing enterprise model policies continue to apply.\n\nPlease update your workflows and integrations to use supported models. Under default model enablement, the suggested alternatives are automatically enabled for Copilot Enterprise and Copilot Business customers unless an administrator has turned off the global default or explicitly disabled the model. If you’ve turned off the global default, you can enable access to the alternative models through their model policies in Copilot settings.\n\nOnce enabled, users will see the model in the Copilot Chat model selector in supported GitHub Copilot experiences. No action is required to remove the deprecated models.\n\nGitHub Enterprise customers with questions or concerns are encouraged to reach out to their account manager for further assistance. …"
+   },
+   "translated": false,
+   "fetchedAt": "2026-11-16T21:13:16+00:00",
+   "company": "GitHub"
+  },
+  {
+   "id": "auto-ab4fca3f7976",
+   "tab": "ai",
+   "date": "2026-11-16",
+   "publishedAt": "2026-11-16T15:50:22+00:00",
+   "type": "coding",
+   "importance": 1,
+   "sourceType": "official",
+   "sourceName": "GitHub Changelog",
+   "url": "https://github.blog/changelog/2026-11-16-bulk-start-ai-scan-for-repositories",
+   "originalTitle": "Bulk start AI Scan for repositories",
+   "en": {
+    "title": "Bulk start AI Scan for repositories",
+    "summary": "AI Scan for repositories finds security vulnerabilities on your repository’s default branch. It covers languages CodeQL doesn’t support and finds additional issues in languages CodeQL already analyzes.",
+    "details": "AI Scan for repositories finds security vulnerabilities on your repository’s default branch. It covers languages CodeQL doesn’t support and finds additional issues in languages CodeQL already analyzes. Findings appear in your code scanning backlog alongside CodeQL alerts.\n\nYou can now start AI Scans for up to 20 repositories at once. Start scans for selected repositories when you enable the organization-level setting, or from the code scanning organization alerts page. You can also start a scan for an individual repository from its alerts page.\n\nBulk start for AI Scan for repositories is in public preview. AI Scan for repositories is available on github.com and GitHub Enterprise Cloud with data residency. A GitHub Copilot license isn’t required.\n\nLearn more about AI Scan and join the discussion in GitHub Community .\n\nThe post Bulk start AI Scan for repositories appeared first on The GitHub Blog ."
+   },
+   "translated": false,
+   "fetchedAt": "2026-11-16T21:13:16+00:00",
+   "company": "GitHub"
+  },
+  {
+   "id": "auto-15f59f063e90",
+   "tab": "ai",
+   "date": "2026-11-16",
+   "publishedAt": "2026-11-16T14:30:07+00:00",
+   "type": "coding",
+   "importance": 1,
+   "sourceType": "official",
+   "sourceName": "GitHub Changelog",
+   "url": "https://github.blog/changelog/2026-11-16-take-github-mobile-with-you-on-iphone-duo",
+   "originalTitle": "Take GitHub Mobile with you on iPhone Duo",
+   "en": {
+    "title": "Take GitHub Mobile with you on iPhone Duo",
+    "summary": "GitHub Mobile now supports iPhone Duo, with a layout that adapts when unfolded and vertical tabs to help you move between key areas like Copilot, Pull Requests, Issues, and Notifications.",
+    "details": "GitHub Mobile now supports iPhone Duo, with a layout that adapts when unfolded and vertical tabs to help you move between key areas like Copilot, Pull Requests, Issues, and Notifications. Whether you’re catching up on activity or working with your repositories, you can navigate GitHub on the go.\n\nWe’ll continue building on this support and refining the app to make fuller use of the larger screen.\n\nThis update is now available in GitHub Mobile on iOS .\n\nJoin the discussion within GitHub Community .\n\nThe post Take GitHub Mobile with you on iPhone Duo appeared first on The GitHub Blog ."
+   },
+   "translated": false,
+   "fetchedAt": "2026-11-16T21:13:16+00:00",
+   "company": "GitHub"
+  },
+  {
+   "id": "auto-c0e4d197c876",
+   "tab": "ai",
+   "date": "2026-11-16",
+   "publishedAt": "2026-11-16T17:00:00+00:00",
+   "type": "product",
+   "importance": 1,
+   "sourceType": "official",
+   "sourceName": "OpenAI News",
+   "url": "https://openai.com/index/expanding-chatgpt-for-academic-researchers",
+   "originalTitle": "Broadening access to AI for scientists",
+   "en": {
+    "title": "Broadening access to AI for scientists",
+    "summary": "We’re expanding our ChatGPT for Academic Researchers program to offer 200,000 researchers worldwide free access to our frontier models.",
+    "details": "We’re expanding our ChatGPT for Academic Researchers program to offer 200,000 researchers worldwide free access to our frontier models."
+   },
+   "translated": false,
+   "fetchedAt": "2026-11-16T21:13:16+00:00",
+   "company": "OpenAI"
+  },
+  {
+   "id": "auto-14bff1948ca4",
+   "tab": "ai",
+   "date": "2026-11-16",
+   "publishedAt": "2026-11-16T17:00:00+00:00",
+   "type": "business",
+   "importance": 1,
+   "sourceType": "official",
+   "sourceName": "OpenAI News",
+   "url": "https://openai.com/index/strengthening-online-child-safety",
+   "originalTitle": "Strengthening the fight against online child sexual abuse with new tools and support",
+   "en": {
+    "title": "Strengthening the fight against online child sexual abuse with new tools and support",
+    "summary": "New tools, practical guidance, and partnerships will help prevent, detect and respond to online child sexual exploitation and abuse.",
+    "details": "New tools, practical guidance, and partnerships will help prevent, detect and respond to online child sexual exploitation and abuse."
+   },
+   "translated": false,
+   "fetchedAt": "2026-11-16T21:13:16+00:00",
+   "company": "OpenAI"
+  },
+  {
+   "id": "auto-a5206efda457",
+   "tab": "ai",
+   "date": "2026-11-16",
+   "publishedAt": "2026-11-16T12:00:00+00:00",
+   "type": "product",
+   "importance": 1,
+   "sourceType": "official",
+   "sourceName": "OpenAI News",
+   "url": "https://openai.com/index/science-at-the-frontier",
+   "originalTitle": "Science at the Frontier: How scientists use ChatGPT",
+   "en": {
+    "title": "Science at the Frontier: How scientists use ChatGPT",
+    "summary": "Explore how more than 1,800 scientists use ChatGPT in research. See findings on daily workflows, reported productivity, and expectations for discovery.",
+    "details": "Explore how more than 1,800 scientists use ChatGPT in research. See findings on daily workflows, reported productivity, and expectations for discovery."
+   },
+   "translated": false,
+   "fetchedAt": "2026-11-16T21:13:16+00:00",
+   "company": "OpenAI"
+  },
+  {
+   "id": "auto-b49c86c1e736",
+   "tab": "ai",
+   "date": "2026-11-16",
+   "publishedAt": "2026-11-16T08:00:00+00:00",
+   "type": "product",
+   "importance": 1,
+   "sourceType": "official",
+   "sourceName": "OpenAI News",
+   "url": "https://openai.com/index/our-first-phase-of-embedded-assessments",
+   "originalTitle": "Our first phase of embedded assessments",
+   "en": {
+    "title": "Our first phase of embedded assessments",
+    "summary": "OpenAI begins embedded assessments with Apollo Research, METR, and Transluce, and Goodfire to independently evaluate model alignment, safeguards, and monitoring systems.",
+    "details": "OpenAI begins embedded assessments with Apollo Research, METR, and Transluce, and Goodfire to independently evaluate model alignment, safeguards, and monitoring systems."
+   },
+   "translated": false,
+   "fetchedAt": "2026-11-16T21:13:16+00:00",
+   "company": "OpenAI"
+  },
+  {
+   "id": "auto-885a6773d108",
+   "tab": "ai",
+   "date": "2026-11-16",
+   "publishedAt": "2026-11-16T06:00:00+00:00",
+   "type": "product",
+   "importance": 1,
+   "sourceType": "official",
+   "sourceName": "OpenAI News",
+   "url": "https://openai.com/index/advancing-computer-use-for-healthcare-teams",
+   "originalTitle": "Advancing computer-use agents for healthcare teams",
+   "en": {
+    "title": "Advancing computer-use agents for healthcare teams",
+    "summary": "Advancing computer-use agents for healthcare teams",
+    "details": ""
+   },
+   "translated": false,
+   "fetchedAt": "2026-11-16T21:13:16+00:00",
+   "company": "OpenAI"
+  },
+  {
+   "id": "auto-a66b1be9b24f",
+   "tab": "ai",
+   "date": "2026-11-16",
+   "publishedAt": "2026-11-16T06:00:00+00:00",
+   "type": "product",
+   "importance": 1,
+   "sourceType": "official",
+   "sourceName": "OpenAI News",
+   "url": "https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare",
+   "originalTitle": "More ways to move care forward with ChatGPT for Healthcare",
+   "en": {
+    "title": "More ways to move care forward with ChatGPT for Healthcare",
+    "summary": "Introducing computer-use agents, improved clinical answers, and new healthcare plugins that work across healthcare software to get real work done.",
+    "details": "Introducing computer-use agents, improved clinical answers, and new healthcare plugins that work across healthcare software to get real work done."
+   },
+   "translated": false,
+   "fetchedAt": "2026-11-16T21:13:16+00:00",
+   "company": "OpenAI"
+  },
+  {
+   "id": "auto-47b4a14ea3c2",
+   "tab": "ai",
+   "date": "2026-11-16",
+   "publishedAt": "2026-11-16T00:00:00+00:00",
+   "type": "business",
+   "importance": 1,
+   "sourceType": "official",
+   "sourceName": "OpenAI News",
+   "url": "https://openai.com/index/the-kings-trust-and-openai",
+   "originalTitle": "The King’s Trust and OpenAI launch £1m partnership",
+   "en": {
+    "title": "The King’s Trust and OpenAI launch £1m partnership",
+    "summary": "The King’s Trust and OpenAI launch a £1m partnership to help up to 25,000 young people across the UK build practical AI skills for work.",
+    "details": "The King’s Trust and OpenAI launch a £1m partnership to help up to 25,000 young people across the UK build practical AI skills for work."
+   },
+   "translated": false,
+   "fetchedAt": "2026-11-16T21:13:16+00:00",
+   "company": "OpenAI"
+  },
+  {
+   "id": "auto-1a25473ed1a8",
+   "tab": "ai",
+   "date": "2026-11-16",
+   "publishedAt": "2026-11-16T20:00:37+00:00",
+   "type": "hardware",
+   "importance": 1,
+   "sourceType": "official",
+   "sourceName": "NVIDIA Blog",
+   "url": "https://blogs.nvidia.com/blog/ai-infrastructure-supply-chain/",
+   "originalTitle": "How the World’s Most Advanced AI Infrastructure Supply Chain Invents the Future",
+   "en": {
+    "title": "How the World’s Most Advanced AI Infrastructure Supply Chain Invents the Future",
+    "summary": "Deb Shoquist leads operations at NVIDIA, overseeing the supply chain and manufacturing behind its AI platforms. That description sums up the job, but it doesn’t begin to encompass what Shoquist has made possible over decades.",
+    "details": "Deb Shoquist leads operations at NVIDIA, overseeing the supply chain and manufacturing behind its AI platforms. That description sums up the job, but it doesn’t begin to encompass what Shoquist has made possible over decades.\n\nShoquist, her team and their global network of manufacturing partners enable NVIDIA to introduce world-leading technologies year-round.\n\nMuch of the team’s success comes down to her deep relationships with some of the world’s most accomplished manufacturers, including TSMC, Foxconn, Wistron, SPIL, King Yuan Electronics (KYEC), Unimicron, Lumentum, Coherent and Amkor. TSMC has partnered with NVIDIA since 1998. SPIL and KYEC were assembling and testing its chips more than two decades ago.\n\nFor Shoquist, those relationships grow stronger through each challenge solved together on the factory floor, as every generation of technology demands more from the people and tools behind it.\n\nAsk her about the global network she relies on, and she starts with the people. There’s the supplier in Taiwan so eager to get production moving that he calls her at 3 a.m. with a fix to the latest problem. There are the factory workers in Vietnam whose only ask of her are more tools to get more work done. She remembers the partners that supported NVIDIA when it was small, and the work they’ve done to help each other grow. …"
+   },
+   "translated": false,
+   "fetchedAt": "2026-11-16T21:13:16+00:00",
+   "company": "NVIDIA"
+  },
+  {
+   "id": "auto-d028ab64f189",
+   "tab": "ai",
+   "date": "2026-11-16",
+   "publishedAt": "2026-11-16T16:00:51+00:00",
+   "type": "hardware",
+   "importance": 1,
+   "sourceType": "official",
+   "sourceName": "NVIDIA Blog",
+   "url": "https://blogs.nvidia.com/blog/lambda-photonics/",
+   "originalTitle": "Lambda Boosts AI Factory Resiliency and Efficiency With NVIDIA Photonics",
+   "en": {
+    "title": "Lambda Boosts AI Factory Resiliency and Efficiency With NVIDIA Photonics",
+    "summary": "To train an AI model, thousands of GPUs have to work together, requiring a network that’s fast, efficient and resilient. Lambda is tackling the network piece of the puzzle with NVIDIA Photonics co-packaged optics (CPO) switches.",
+    "details": "To train an AI model, thousands of GPUs have to work together, requiring a network that’s fast, efficient and resilient.\n\nLambda is tackling the network piece of the puzzle with NVIDIA Photonics co-packaged optics (CPO) switches. The cloud provider is using the switches to connect NVIDIA GB300 NVL72 racks with more than 10,000 GPUs, delivering lower power, higher resiliency and longer mean time between interruptions (MTBI) to an AI factory at scale.\n\n“Networking has to keep pace with the demands of increasingly large AI clusters,” said Dave Ward, president of cloud services at Lambda. “Bringing co-packaged optics into a deployment of this scale is an important step toward building the infrastructure needed to support the next generation of AI.”\n\nRead All NVIDIA Announcements From SC26\n\nIn the company’s tests using the switches, network latency — the time needed for moving data — dropped by about 4% at rack scale and by up to about 10% at pod scale. Across rack, scalable unit and pod configurations, the network maintains the same throughput as conventional pluggable optics.\n\nDelivering Power Efficiency and Resiliency at Scale\n\nImproving power efficiency and resiliency matters because the network sits at the center of AI factory productivity. …"
+   },
+   "translated": false,
+   "fetchedAt": "2026-11-16T21:13:16+00:00",
+   "company": "NVIDIA"
+  },
+  {
+   "id": "auto-e97facab85e7",
+   "tab": "ai",
+   "date": "2026-11-16",
+   "publishedAt": "2026-11-16T16:00:25+00:00",
+   "type": "model",
+   "importance": 1,
+   "sourceType": "official",
+   "sourceName": "NVIDIA Blog",
+   "url": "https://blogs.nvidia.com/blog/mlperf-training-endpoints-vera-rubin/",
+   "originalTitle": "NVIDIA Sweeps MLPerf Training and Endpoints as Vera Rubin Debuts With Leading Performance",
+   "en": {
+    "title": "NVIDIA Sweeps MLPerf Training and Endpoints as Vera Rubin Debuts With Leading Performance",
+    "summary": "In its MLPerf benchmarks debut, with results released today, the NVIDIA Vera Rubin platform delivers leading performance across training, post-training and agentic inference.",
+    "details": "In its MLPerf benchmarks debut, with results released today, the NVIDIA Vera Rubin platform delivers leading performance across training, post-training and agentic inference.\n\nNVIDIA swept every MLPerf Training v6.1 benchmark and, in its first MLPerf Endpoints submission, delivered more than 10x generational gains in throughput per watt for agentic AI — measuring how much agentic work a system delivers with each watt of power.\n\nThese results are just the beginning. Vera Rubin performance will keep climbing through continuous optimization of NVIDIA’s CUDA-powered software stack , so the infrastructure that customers invest in today delivers more value over time.\n\nNVIDIA Sweeps MLPerf Training v6.1\n\nAI agents are now everywhere, writing code, running business workflows, answering customer questions and, as this week’s SC26 conference highlights , advancing scientific research.\n\nFaster training means smarter agents can reach users sooner, drug discovery models can keep pace with new lab data and fraud-detection models can adapt to new threats faster.\n\nMLPerf Training measures how fast a system can train a range of AI models to a target level of accuracy. …"
+   },
+   "translated": false,
+   "fetchedAt": "2026-11-16T21:13:16+00:00",
+   "company": "NVIDIA"
+  },
+  {
+   "id": "auto-25eb7a3b0246",
+   "tab": "ai",
+   "date": "2026-11-16",
+   "publishedAt": "2026-11-16T16:00:16+00:00",
+   "type": "hardware",
+   "importance": 1,
+   "sourceType": "official",
+   "sourceName": "NVIDIA Blog",
+   "url": "https://blogs.nvidia.com/blog/cuda-x-libraries-agents-accelerate-scientific-discovery/",
+   "originalTitle": "NVIDIA CUDA-X Libraries Give Agents the Tools to Accelerate Scientific Discovery",
+   "en": {
+    "title": "NVIDIA CUDA-X Libraries Give Agents the Tools to Accelerate Scientific Discovery",
+    "summary": "With expanded NVIDIA CUDA-X libraries, including cuPhoton, cuPotential and cuSpa, researchers can sift through vast amounts of data to accelerate research, from astrophysics and materials science to single-cell biology.",
+    "details": "With expanded NVIDIA CUDA-X libraries, including cuPhoton, cuPotential and cuSpa, researchers can sift through vast amounts of data to accelerate research, from astrophysics and materials science to single-cell biology.\n\nThe speedups are helping scientists analyze larger datasets and model more complex systems.\n\nThe new libraries give AI agents the tools to help researchers make discoveries faster than ever.\n\nRead All NVIDIA Announcements From SC26\n\nBringing Black Holes Into Focus\n\nSeeing a black hole takes a telescope the size of Earth. The Event Horizon Telescope links radio dishes worldwide, generating petabytes of data that can take months to process.\n\nWith NVIDIA cuPhoton.xBeam, a module within the cuPhoton Toolkit , black hole observations from the Event Horizon Telescope can now be correlated orders of magnitude faster than ever. Analysis that once took over a month now takes eight minutes.\n\nBy combining global radio dishes into Earth-sized aperture, cuPhoton delivers unprecedented astronomical imaging resolution. cuPhoton successfully correlated observations of powerful black hole jets J1924 and 3C279 in the night sky — making it a reality to reconstruct a Messier 87* black hole galaxy in real time.\n\nThe entire pipeline, from data loading and processing to visualization, runs on distributed multi-GPU systems or a compact NVIDIA DGX Spark system, helping scientists study how gas spirals inward under a black hole’s powerful gravitational pull. …"
+   },
+   "translated": false,
+   "fetchedAt": "2026-11-16T21:13:16+00:00",
+   "company": "NVIDIA"
+  },
+  {
+   "id": "auto-7b249ee02257",
+   "tab": "ai",
+   "date": "2026-11-16",
+   "publishedAt": "2026-11-16T16:00:11+00:00",
+   "type": "coding",
+   "importance": 1,
+   "sourceType": "official",
+   "sourceName": "NVIDIA Blog",
+   "url": "https://blogs.nvidia.com/blog/20-years-cuda/",
+   "originalTitle": "CUDA at 20: How the Platform Transformed Scientific Computing",
+   "en": {
+    "title": "CUDA at 20: How the Platform Transformed Scientific Computing",
+    "summary": "This week at SC26, NVIDIA is marking two decades of CUDA by honoring the researchers, developers and engineers who helped make GPU computing a foundation for modern science and AI.",
+    "details": "This week at SC26, NVIDIA is marking two decades of CUDA by honoring the researchers, developers and engineers who helped make GPU computing a foundation for modern science and AI.\n\nCUDA’s 20th anniversary presents an occasion to reflect across computing eras, from the people who wrote the very first CUDA programs to the AI developers building on their work today.\n\nAt the platform’s core is this developer community whose experiments, tools and persistence expanded what accelerated computing could do.\n\nFrom SC06 to SC26\n\nNVIDIA announced CUDA in November 2006 and brought it to the scientific community at SC06, giving scientists and developers a familiar, high-level programming model for using GPUs. It fundamentally extended accelerated computing beyond graphics use cases to accelerate demanding applications for science, simulation and more.\n\nIn the two decades since, developers have used CUDA to advance Nobel Prize-winning AI research , accelerate scientific applications on supercomputers and support visual effects in Oscar-winning films .\n\nToday, more than 11 million developers build on CUDA across the computing stack.\n\nRead All NVIDIA Announcements From SC26\n\nHonoring the Architects of Progress\n\nNow, at SC26, NVIDIA is looking back at some of the CUDA luminaries who’ve spearheaded breakthroughs in science and AI: …"
+   },
+   "translated": false,
+   "fetchedAt": "2026-11-16T21:13:16+00:00",
+   "company": "NVIDIA"
+  },
+  {
+   "id": "auto-1bb7ce0ebad7",
+   "tab": "ai",
+   "date": "2026-11-16",
+   "publishedAt": "2026-11-16T16:00:01+00:00",
+   "type": "media",
+   "importance": 1,
+   "sourceType": "official",
+   "sourceName": "NVIDIA Blog",
+   "url": "https://blogs.nvidia.com/blog/rubin-hpc/",
+   "originalTitle": "NVIDIA Announces Rubin HPC — A New GPU to Accelerate Agents for Science, Engineering and Analytics",
+   "en": {
+    "title": "NVIDIA Announces Rubin HPC — A New GPU to Accelerate Agents for Science, Engineering and Analytics",
+    "summary": "Announced today at SC26, NVIDIA Rubin HPC is a new GPU in the NVIDIA Vera Rubin platform designed to accelerate simulation and data processing for science, engineering and analytics workflows.",
+    "details": "Announced today at SC26, NVIDIA Rubin HPC is a new GPU in the NVIDIA Vera Rubin platform designed to accelerate simulation and data processing for science, engineering and analytics workflows.\n\nAs agents help scientists and engineers explore more candidate materials, molecules and designs, they rely on simulations to test those ideas and guide their next steps. Rubin HPC will accelerate those simulations, shortening the path from exploration to scientific discovery and industrial design.\n\nThe Rubin HPC GPU features a record number of CUDA cores — more than 50,000 on a single GPU — as well as a sparse data acceleration capability that keeps those cores fed with data, and accelerates GPU-to-GPU connectivity with seventh-generation NVIDIA NVLink interconnect technology.\n\nRead All NVIDIA Announcements From SC26\n\nScientists and engineers rely on simulation to understand complex systems before committing to experiments or physical prototypes. Working with agents, these teams can explore more candidate materials, molecules and designs. This increases demand for the GPU-accelerated simulations needed to evaluate those ideas and guide next steps. …"
+   },
+   "translated": false,
+   "fetchedAt": "2026-11-16T21:13:16+00:00",
+   "company": "NVIDIA"
+  },
+  {
+   "id": "auto-d52618036e51",
+   "tab": "star-citizen",
+   "date": "2026-11-16",
+   "publishedAt": "2026-11-16T16:13:15+00:00",
+   "type": "ship",
+   "importance": 1,
+   "sourceType": "official",
+   "sourceName": "RSI Comm-Link",
+   "url": "https://robertsspaceindustries.com/comm-link/transmission/21408-IAE-2956-Tumbril-Land-Systems",
+   "originalTitle": "IAE 2956 Tumbril Land Systems",
+   "en": {
+    "title": "IAE 2956 Tumbril Land Systems",
+    "summary": "The biggest name in the deadliest ground vehicles.",
+    "details": "The biggest name in the deadliest ground vehicles."
+   },
+   "translated": false,
+   "fetchedAt": "2026-11-16T21:13:15+00:00"
+  },
+  {
+   "id": "auto-09d7dacf3292",
+   "tab": "star-citizen",
+   "date": "2026-11-16",
+   "publishedAt": "2026-11-16T16:13:15+00:00",
+   "type": "event",
+   "importance": 1,
+   "sourceType": "official",
+   "sourceName": "RSI Comm-Link",
+   "url": "https://robertsspaceindustries.com/comm-link/transmission/21409-IAE-2956-Crusader-Industries",
+   "originalTitle": "IAE 2956 Crusader Industries",
+   "en": {
+    "title": "IAE 2956 Crusader Industries",
+    "summary": "Beautifully built ships, bold engineering, and a commitment to innovation.",
+    "details": "Beautifully built ships, bold engineering, and a commitment to innovation."
+   },
+   "translated": false,
+   "fetchedAt": "2026-11-16T21:13:15+00:00"
+  },
   {
    "id": "auto-1319013831a5",
    "tab": "ai",
@@ -14,8 +412,8 @@
    "originalTitle": "Qwen4-Max",
    "en": {
     "title": "Qwen4-Max",
-    "summary": "Community discussion on Hacker News (578 points, 241 comments).",
-    "details": "Community discussion on Hacker News (578 points, 241 comments)."
+    "summary": "Community discussion on Hacker News (842 points, 461 comments).",
+    "details": "Community discussion on Hacker News (842 points, 461 comments)."
    },
    "translated": false,
    "fetchedAt": "2026-11-16T11:32:15+00:00"
@@ -151,8 +549,8 @@
    "originalTitle": "All AI-generated code should be Open Source",
    "en": {
     "title": "All AI-generated code should be Open Source",
-    "summary": "Community discussion on Hacker News (1172 points, 619 comments).",
-    "details": "Community discussion on Hacker News (1172 points, 619 comments)."
+    "summary": "Community discussion on Hacker News (1241 points, 650 comments).",
+    "details": "Community discussion on Hacker News (1241 points, 650 comments)."
    },
    "translated": false,
    "fetchedAt": "2026-11-15T19:54:59+00:00"
@@ -284,8 +682,8 @@
    "originalTitle": "Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs",
    "en": {
     "title": "Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs",
-    "summary": "Community discussion on Hacker News (1103 points, 650 comments).",
-    "details": "Community discussion on Hacker News (1103 points, 650 comments)."
+    "summary": "Community discussion on Hacker News (1111 points, 649 comments).",
+    "details": "Community discussion on Hacker News (1111 points, 649 comments)."
    },
    "translated": false,
    "fetchedAt": "2026-11-14T09:44:35+00:00"
@@ -360,8 +758,8 @@
    "originalTitle": "Jonathan Blow – If AI solved coding, why is my software still the same? [video]",
    "en": {
     "title": "Jonathan Blow – If AI solved coding, why is my software still the same? [video]",
-    "summary": "Community discussion on Hacker News (487 points, 728 comments).",
-    "details": "Community discussion on Hacker News (487 points, 728 comments)."
+    "summary": "Community discussion on Hacker News (489 points, 731 comments).",
+    "details": "Community discussion on Hacker News (489 points, 731 comments)."
    },
    "translated": false,
    "fetchedAt": "2026-11-14T09:44:35+00:00"
@@ -379,8 +777,8 @@
    "originalTitle": "AI unlocks Gödel's notebooks, said to contain hundreds of proved theorems",
    "en": {
     "title": "AI unlocks Gödel's notebooks, said to contain hundreds of proved theorems",
-    "summary": "Community discussion on Hacker News (441 points, 110 comments).",
-    "details": "Community discussion on Hacker News (441 points, 110 comments)."
+    "summary": "Community discussion on Hacker News (442 points, 111 comments).",
+    "details": "Community discussion on Hacker News (442 points, 111 comments)."
    },
    "translated": false,
    "fetchedAt": "2026-11-13T22:52:13+00:00"
@@ -943,7 +1341,7 @@
    "en": {
     "title": "From AI ambition to business impact",
     "summary": "Most business leaders I meet no longer need to be convinced that AI works. They’ve seen the pilots, the demos and the copilots.",
-    "details": "Most business leaders I meet no longer need to be convinced that AI works. They’ve seen the pilots, the demos and the copilots. The question I hear in boardrooms now is different: How do we move from AI that impresses to AI that changes how the business actually runs?\n\nThat is the question Microsoft Frontier Company was built to answer, and to date, we have engaged on nearly 500 projects with over 200 customers across 28 countries.\n\nCustomers including 3M, Alaska Airlines, BMW, Core42, KT, Land O’Lakes, London Stock Exchange Group, Mastercard, McKesson, Northern Trust, Novo Nordisk, Publicis Groupe, Saint-Gobain, Siemens and Unilever are seeing real value from working side by side with our Forward Deployed Engineering teams.\n\nMore importantly, most customers where we have completed initial projects have returned for additional engagements, generating hundreds of follow-on projects. Customers don’t come back for engineers. They come back because the first engagement delivered something they could measure and they can see the next workflow worth redesigning.\n\nThe technology is ready. What slows AI down is everything around it. That means identifying where AI can deliver the greatest value, building in trust and governance, redesigning the operating models and helping people work in new ways. Technology and people have to move forward together.\n\nWhat this looks like in practice …"
+    "details": "Most business leaders I meet no longer need to be convinced that AI works. They’ve seen the pilots, the demos and the copilots. The question I hear in boardrooms now is different: How do we move from AI that impresses to AI that changes how the business actually runs?\n\nThat is the question Microsoft Frontier Company was built to answer, and to date, we have engaged on nearly 500 projects with over 200 customers across 28 countries.\n\nCustomers including 3M, Alaska Airlines, BMW, Core42, KT, Land O’Lakes, London Stock Exchange Group, Mastercard, McKesson, Northern Trust, Novo Nordisk, P&G, Publicis Groupe, Saint-Gobain, Siemens and Unilever are seeing real value from working side by side with our Forward Deployed Engineering teams.\n\nMore importantly, most customers where we have completed initial projects have returned for additional engagements, generating hundreds of follow-on projects. Customers don’t come back for engineers. They come back because the first engagement delivered something they could measure and they can see the next workflow worth redesigning.\n\nThe technology is ready. What slows AI down is everything around it. That means identifying where AI can deliver the greatest value, building in trust and governance, redesigning the operating models and helping people work in new ways. Technology and people have to move forward together.\n\nWhat this looks like in practice …"
    },
    "translated": false,
    "fetchedAt": "2026-11-12T22:18:29+00:00",
