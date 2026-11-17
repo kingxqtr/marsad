@@ -5,15 +5,20 @@
   },
   "metadata": {
     "description": "إضافات المرصد لـClaude.",
-    "version": "2.0.0"
+    "version": "3.0.0"
   },
   "plugins": [
     {
       "name": "marsad-ships",
       "source": "./plugins/marsad-ships",
-      "description": "تقارير عربية تفاعلية شاملة عن سفن Star Citizen مع حاسبات الوقود الكمي والسعر بالدولار والريال القطري ومقارنات بين السفن.",
-      "version": "2.0.0",
-      "keywords": ["star-citizen", "ships", "arabic", "report"]
+      "description": "تقرير عربي تفاعلي شامل عن أي سفينة في Star Citizen: الأسعار، التجهيز، الضرر، التكاليف، الترقيات، والمشاركة.",
+      "version": "3.0.0",
+      "keywords": [
+        "star-citizen",
+        "ships",
+        "arabic",
+        "report"
+      ]
     }
   ]
 }

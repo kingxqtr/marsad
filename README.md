@@ -14,7 +14,7 @@
 /plugin marketplace add kingxqtr/marsad
 /plugin install marsad-ships@marsad
 ```
-ملفات جاهزة للرفع: `dist/marsad-ships.plugin` (Cowork) و`dist/star-citizen-ship-encyclopedia.zip` (مهارة claude.ai). لإعادة بنائها: `bash plugins/build_dist.sh`.
+ملفات جاهزة للرفع: `dist/marsad-ships.plugin` (Cowork) و`dist/ship-report.zip` (مهارة claude.ai). لإعادة بنائها: `bash plugins/build_dist.sh`.
 
 ## Layout
 - `plugins/marsad-ships/` — the Claude plugin (skill, scripts, report template); `.claude-plugin/marketplace.json` lists it.
