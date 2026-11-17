@@ -1,6 +1,144 @@
 {
- "updatedAt": "2026-11-16T21:13:20+00:00",
+ "updatedAt": "2026-11-17T03:56:38+00:00",
  "items": [
+  {
+   "id": "auto-fc7589f7e98b",
+   "tab": "ai",
+   "date": "2026-11-17",
+   "publishedAt": "2026-11-17T01:00:48+00:00",
+   "type": "product",
+   "importance": 1,
+   "sourceType": "official",
+   "sourceName": "Meta Newsroom",
+   "url": "https://about.fb.com/news/2026/11/introducing-direct-an-app-just-for-messaging/",
+   "originalTitle": "Introducing Direct: An App Just for Messaging",
+   "en": {
+    "title": "Introducing Direct: An App Just for Messaging",
+    "summary": "Today, we’re introducing Direct, a new messaging app brought to you by Instagram for chatting one-on-one or in groups with friends and family.",
+    "details": "Today, we’re introducing Direct, a new messaging app brought to you by Instagram for chatting one-on-one or in groups with friends and family.\n\nPeople rely on messaging to stay in touch with friends and family, and we built Direct to provide a dedicated space for these close connections. Direct has creative, customizable messaging tools made to make chats unique to you, including:\n\n- Draw: Draw and sketch directly inside your chat threads.\n\n- Notes: Catch quick updates from friends right at the top of your inbox.\n\n- Stickers: Create custom stickers to express yourself and share with friends and family.\n\n- Voice Effects: Add fun audio effects like crowd laughter or underwater sounds to your replies.\n\n- Themes: Personalize your chat backgrounds with custom visual themes.\n\nHow to Access Direct\n\nDirect is now testing in Türkiye and Thailand, and is available with or without an Instagram account. You can sign up for Direct by using your email or phone number. If you have an existing Instagram account, you can log in to Direct with the same username and password, and your existing chats will sync across both apps. If you use Direct without an Instagram account, only your contacts can start a chat with you or add you to a group. To add a contact, enter their exact username or scan their QR code in person.\n\nProtections Built in From the Start …"
+   },
+   "translated": false,
+   "fetchedAt": "2026-11-17T03:56:32+00:00",
+   "company": "Meta"
+  },
+  {
+   "id": "auto-ec1e41d13e99",
+   "tab": "once-human",
+   "date": "2026-11-16",
+   "publishedAt": "2026-11-16T09:29:16+00:00",
+   "type": "community",
+   "importance": 1,
+   "sourceType": "community",
+   "sourceName": "r/OnceHumanOfficial",
+   "url": "https://www.reddit.com/r/OnceHumanOfficial/comments/1xxl3qe/new_lightforge_lootcrate_full_preview/",
+   "originalTitle": "NEW LIGHTFORGE LOOTCRATE FULL PREVIEW",
+   "en": {
+    "title": "NEW LIGHTFORGE LOOTCRATE FULL PREVIEW",
+    "summary": "Community post on r/OnceHumanOfficial. NOV 18 PT",
+    "details": "Community post on r/OnceHumanOfficial.\n\nNOV 18 PT"
+   },
+   "translated": false,
+   "fetchedAt": "2026-11-17T03:56:34+00:00"
+  },
+  {
+   "id": "auto-1b13eb00b287",
+   "tab": "ai",
+   "date": "2026-11-16",
+   "publishedAt": "2026-11-16T21:34:53+00:00",
+   "type": "coding",
+   "importance": 1,
+   "sourceType": "official",
+   "sourceName": "GitHub Changelog",
+   "url": "https://github.blog/changelog/2026-11-16-github-copilot-weekly-releases-november-9",
+   "originalTitle": "GitHub Copilot weekly releases — November 9",
+   "en": {
+    "title": "GitHub Copilot weekly releases — November 9",
+    "summary": "This week, bring GitHub Enterprise Server repositories into the Copilot app and see which agent sessions need you first in VS Code. You can also try two new models, Claude Fable 5.2 and Gemini 4 Carbon.",
+    "details": "This week, bring GitHub Enterprise Server repositories into the Copilot app and see which agent sessions need you first in VS Code. You can also try two new models, Claude Fable 5.2 and Gemini 4 Carbon.\n\nGitHub Copilot\n\n- Claude Fable 5.2 is available to Copilot Pro+, Max, Business, and Enterprise users. It requires data retention by default, and Copilot Business and Enterprise administrators must turn on its policy, which is off by default. Learn more about Claude Fable 5.2 .\n\n- Gemini 4 Carbon is available to Copilot Pro+, Max, Business, and Enterprise users.\n\nGitHub Copilot app\n\n- Continue cloud and Codespace sessions on your phone. A new Open in menu includes a GitHub Mobile option that shows a QR code.\n\n- Sign back in to MCP servers such as Slack without leaving the conversation. When a server needs you to sign in again, the conversation offers the matching connector, connects it in place, and resumes your task.\n\n- Work with repositories, issues, and pull requests from GitHub Enterprise Server in the Copilot app, now generally available. You’ll still need a GitHub.com or GHE.com account, and cloud sessions aren’t available for GHES. Learn more about signing in with GHES .\n\n- Schedule Project automations down to the minute, or use a custom cron schedule such as weekdays at 9:30.\n\n- Dictate in French, Spanish, and other languages. Download the multilingual voice model in settings, then choose Auto or a specific language. …"
+   },
+   "translated": false,
+   "fetchedAt": "2026-11-17T03:56:33+00:00",
+   "company": "GitHub"
+  },
+  {
+   "id": "auto-4e2ae56a43c0",
+   "tab": "ai",
+   "date": "2026-11-16",
+   "publishedAt": "2026-11-16T19:48:33+00:00",
+   "type": "coding",
+   "importance": 1,
+   "sourceType": "official",
+   "sourceName": "GitHub Changelog",
+   "url": "https://github.blog/changelog/2026-11-16-control-where-github-copilot-customizations-come-from",
+   "originalTitle": "Control where GitHub Copilot customizations come from",
+   "en": {
+    "title": "Control where GitHub Copilot customizations come from",
+    "summary": "As an enterprise administrator, you can now require selected GitHub Copilot customizations to come from plugins or managed settings, rather than standalone user or project configuration.",
+    "details": "As an enterprise administrator, you can now require selected GitHub Copilot customizations to come from plugins or managed settings, rather than standalone user or project configuration. Combined with marketplace restrictions, this lets you distribute approved MCP tools and canvases through a shared plugin library without disabling those capabilities entirely.\n\nChoose which customizations require plugins\n\nThe strictPluginOnlyCustomization managed setting blocks standalone customizations from user and project sources. Eligible plugins and managed settings remain allowed, subject to your other policies.\n\nYou can apply the restriction to all five supported categories or select individual ones: skills, custom agents, hooks, MCP servers, and executable Copilot extensions. For example, restrict MCP servers and extensions while leaving skills, agents, and hooks open. Extensions here include executable canvas providers, not VS Code Marketplace extensions.\n\nCombine with your marketplace policies\n\nPlugin-only does not mean enterprise-managed plugins only, and it isn’t a marketplace allowlist. Pair it with strictKnownMarketplaces to restrict eligible marketplace sources. Your existing managed settings can supply marketplace definitions and require or block specific plugins.\n\nEnterprise administrators can configure these controls on GitHub Enterprise Cloud for members with Copilot Business or Copilot Enterprise licenses issued by the enterprise or one of its organizations. …"
+   },
+   "translated": false,
+   "fetchedAt": "2026-11-17T03:56:33+00:00",
+   "company": "GitHub"
+  },
+  {
+   "id": "auto-5e6d137418a7",
+   "tab": "ai",
+   "date": "2026-11-16",
+   "publishedAt": "2026-11-16T19:22:56+00:00",
+   "type": "coding",
+   "importance": 1,
+   "sourceType": "official",
+   "sourceName": "GitHub Changelog",
+   "url": "https://github.blog/changelog/2026-11-16-vs-code-retires-the-local-harness-in-february-2027",
+   "originalTitle": "VS Code retires the Local harness in February 2027",
+   "en": {
+    "title": "VS Code retires the Local harness in February 2027",
+    "summary": "Visual Studio Code 1.146 deprecates the Local harness, the older software that coordinates the model, context, and tools for GitHub Copilot agent sessions in the editor. The Local harness will be removed in February 2027.",
+    "details": "Visual Studio Code 1.146 deprecates the Local harness, the older software that coordinates the model, context, and tools for GitHub Copilot agent sessions in the editor. The Local harness will be removed in February 2027.\n\nIts replacement, the Microsoft Copilot harness , is built into VS Code and has been the default for new sessions since VS Code 1.143. You can keep working in VS Code and running agent commands on your machine. Choosing the Copilot harness doesn’t move your files to the cloud.\n\nDuring the three-month transition, the Local harness remains available where your organization’s policy permits. However, new features and improvements will focus on the Copilot harness.\n\nWhy use the Copilot harness\n\nBuilt on the Copilot SDK , the Copilot harness shares its coding-agent runtime with Copilot CLI and the GitHub Copilot app. You can continue the same session between the editor and the Agents window in VS Code while the session’s Agent Host process stays running. Editor-provided tools still require a connected editor.\n\nWith the Copilot harness, you can:\n\n- Let Copilot Fusion choose models and, on supported tiers, coordinate drafting and review for your task.\n\n- Reduce approval interruptions with assisted permissions . Calls that are not approved by the risk assessment will still come to you for confirmation.\n\n- Bring context from your team’s services using Copilot connectors , without configuring MCP servers yourself. Connectors are in preview. …"
+   },
+   "translated": false,
+   "fetchedAt": "2026-11-17T03:56:33+00:00",
+   "company": "GitHub"
+  },
+  {
+   "id": "auto-865e14a5b70a",
+   "tab": "ai",
+   "date": "2026-11-16",
+   "publishedAt": "2026-11-16T23:00:05+00:00",
+   "type": "coding",
+   "importance": 1,
+   "sourceType": "official",
+   "sourceName": "NVIDIA Blog",
+   "url": "https://blogs.nvidia.com/blog/dgx-spark-hpc-developer-kit-sc26/",
+   "originalTitle": "NVIDIA DGX Spark Developer Kit Turns a Desk Into a Supercomputing Lab",
+   "en": {
+    "title": "NVIDIA DGX Spark Developer Kit Turns a Desk Into a Supercomputing Lab",
+    "summary": "At SC26, an annual supercomputing conference taking place this week in Chicago, NVIDIA is introducing the DGX Spark HPC Developer Kit for researchers, academics and developers.",
+    "details": "At SC26, an annual supercomputing conference taking place this week in Chicago, NVIDIA is introducing the DGX Spark HPC Developer Kit for researchers, academics and developers.\n\nThe kit is a four-node cluster of NVIDIA DGX Spark systems , each connected directly to its two neighbors in a ring, with an NVIDIA HPC SDK installation playbook coming soon. Researchers get a place at their desk to run multi-node scientific workloads, AI models and agents, instead of waiting for time on a shared GPU cluster. The kit puts the GB10 Grace Blackwell Superchip on researchers’ desks.\n\nA Supercomputing Lab on Any Desk\n\nThe DGX Spark Developer Kit changes how researchers work.\n\nRead All NVIDIA Announcements From SC26\n\nIt scales from one system, or node, to four — linked directly to one another over NVIDIA ConnectX-7 networking, with no network switch to buy or set up.\n\nAt four nodes, it provides 512GB of combined memory and 20TB of NVMe storage that provides researchers more capacity to distribute models and scientific workloads across the cluster. With NVFP4, researchers can deploy models with up to 700B parameters locally across the four DGX Spark clusters, such as DeepSeek V4.1.\n\nWith that much power at the desk, researchers with a fixed compute and server allocation no longer have to wait in a queue for every job. Teams can develop and debug on their own, saving server hours for production runs and keeping unpublished results, and proprietary datasets on premises. …"
+   },
+   "translated": false,
+   "fetchedAt": "2026-11-17T03:56:33+00:00",
+   "company": "NVIDIA"
+  },
+  {
+   "id": "auto-c2a7e1ce092c",
+   "tab": "star-citizen",
+   "date": "2026-11-16",
+   "publishedAt": "2026-11-16T22:56:33+00:00",
+   "type": "development",
+   "importance": 1,
+   "sourceType": "official",
+   "sourceName": "RSI Comm-Link",
+   "url": "https://robertsspaceindustries.com/comm-link/transmission/21454-This-Week-In-Star-Citizen",
+   "originalTitle": "This Week in Star Citizen - November 16, 2026",
+   "en": {
+    "title": "This Week in Star Citizen - November 16, 2026",
+    "summary": "Happy Monday, everyone! Let’s see what’s happening in and out of the ‘verse, This Week in Star Citizen.",
+    "details": "Happy Monday, everyone! Let’s see what’s happening in and out of the ‘verse, This Week in Star Citizen."
+   },
+   "translated": false,
+   "fetchedAt": "2026-11-17T03:56:33+00:00"
+  },
   {
    "id": "auto-10e76c80aedd",
    "tab": "ai",
@@ -412,8 +550,8 @@
    "originalTitle": "Qwen4-Max",
    "en": {
     "title": "Qwen4-Max",
-    "summary": "Community discussion on Hacker News (842 points, 461 comments).",
-    "details": "Community discussion on Hacker News (842 points, 461 comments)."
+    "summary": "Community discussion on Hacker News (854 points, 472 comments).",
+    "details": "Community discussion on Hacker News (854 points, 472 comments)."
    },
    "translated": false,
    "fetchedAt": "2026-11-16T11:32:15+00:00"
@@ -549,8 +687,8 @@
    "originalTitle": "All AI-generated code should be Open Source",
    "en": {
     "title": "All AI-generated code should be Open Source",
-    "summary": "Community discussion on Hacker News (1241 points, 650 comments).",
-    "details": "Community discussion on Hacker News (1241 points, 650 comments)."
+    "summary": "Community discussion on Hacker News (1267 points, 656 comments).",
+    "details": "Community discussion on Hacker News (1267 points, 656 comments)."
    },
    "translated": false,
    "fetchedAt": "2026-11-15T19:54:59+00:00"
@@ -682,8 +820,8 @@
    "originalTitle": "Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs",
    "en": {
     "title": "Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs",
-    "summary": "Community discussion on Hacker News (1111 points, 649 comments).",
-    "details": "Community discussion on Hacker News (1111 points, 649 comments)."
+    "summary": "Community discussion on Hacker News (1112 points, 649 comments).",
+    "details": "Community discussion on Hacker News (1112 points, 649 comments)."
    },
    "translated": false,
    "fetchedAt": "2026-11-14T09:44:35+00:00"
@@ -758,8 +896,8 @@
    "originalTitle": "Jonathan Blow – If AI solved coding, why is my software still the same? [video]",
    "en": {
     "title": "Jonathan Blow – If AI solved coding, why is my software still the same? [video]",
-    "summary": "Community discussion on Hacker News (489 points, 731 comments).",
-    "details": "Community discussion on Hacker News (489 points, 731 comments)."
+    "summary": "Community discussion on Hacker News (489 points, 732 comments).",
+    "details": "Community discussion on Hacker News (489 points, 732 comments)."
    },
    "translated": false,
    "fetchedAt": "2026-11-14T09:44:35+00:00"
