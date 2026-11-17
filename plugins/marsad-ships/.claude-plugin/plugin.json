@@ -1,11 +1,21 @@
 {
   "name": "marsad-ships",
-  "version": "2.0.0",
-  "description": "مرصد السفن: تقارير عربية تفاعلية شاملة عن سفن Star Citizen من بيانات اللعبة الحالية، مع حاسبة الوقود الكمي وحاسبة السعر بالدولار والريال القطري، وتفاصيل الأسلحة والضرر ودليل إعادة التعبئة، ومقارنات إبداعية بين السفن.",
+  "version": "3.0.0",
+  "description": "مرصد السفن: اكتب اسم أي سفينة في Star Citizen فيجهز لك تقريرًا عربيًا تفاعليًا محدّثًا لآخر إصدار: الأسعار Standard وWarbond بالضريبة وبدونها بالدولار والريال القطري وaUEC، التجهيز الافتراضي وهل تأتي معبأة، ضرر الطيار وحده والطاقم والإجمالي، التعبئة وتكاليفها، حاسبة التكاليف الشاملة، مخطط الترقيات، حاسبة الوقود الكمي، وزر مشاركة.",
   "author": {
     "name": "Marsad"
   },
   "homepage": "https://github.com/kingxqtr/marsad",
   "repository": "https://github.com/kingxqtr/marsad",
-  "keywords": ["star-citizen", "ships", "arabic", "rtl", "report", "artifact", "dps", "quantum", "qar"]
+  "keywords": [
+    "star-citizen",
+    "ships",
+    "arabic",
+    "rtl",
+    "report",
+    "artifact",
+    "dps",
+    "quantum",
+    "qar"
+  ]
 }
