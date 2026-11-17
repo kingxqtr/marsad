@@ -1,6 +1,324 @@
 {
- "updatedAt": "2026-11-17T12:46:26+00:00",
+ "updatedAt": "2026-11-17T21:23:45+00:00",
  "items": [
+  {
+   "id": "auto-9235aaac8965",
+   "tab": "ai",
+   "date": "2026-11-17",
+   "publishedAt": "2026-11-17T17:45:00+00:00",
+   "type": "model",
+   "importance": 1,
+   "sourceType": "official",
+   "sourceName": "OpenAI News",
+   "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol",
+   "originalTitle": "Introducing GPT-6.2 Astra and Sol",
+   "en": {
+    "title": "Introducing GPT-6.2 Astra and Sol",
+    "summary": "Introducing GPT‑6.2 Astra and Sol, with better professional outputs, coding, computer use, and efficiency at lower cost across ChatGPT Work, Codex, and the API.",
+    "details": "Introducing GPT‑6.2 Astra and Sol, with better professional outputs, coding, computer use, and efficiency at lower cost across ChatGPT Work, Codex, and the API."
+   },
+   "translated": false,
+   "fetchedAt": "2026-11-17T21:23:41+00:00",
+   "company": "OpenAI"
+  },
+  {
+   "id": "auto-11ff5063fa2b",
+   "tab": "ai",
+   "date": "2026-11-17",
+   "publishedAt": "2026-11-17T00:00:00+00:00",
+   "type": "policy",
+   "importance": 1,
+   "sourceType": "official",
+   "sourceName": "OpenAI News",
+   "url": "https://openai.com/index/introducing-openai-for-chile",
+   "originalTitle": "Introducing OpenAI for Chile",
+   "en": {
+    "title": "Introducing OpenAI for Chile",
+    "summary": "OpenAI and the Government of Chile are partnering to support responsible AI adoption, build public-sector skills and help local startups develop AI applications.",
+    "details": "OpenAI and the Government of Chile are partnering to support responsible AI adoption, build public-sector skills and help local startups develop AI applications."
+   },
+   "translated": false,
+   "fetchedAt": "2026-11-17T21:23:41+00:00",
+   "company": "OpenAI"
+  },
+  {
+   "id": "auto-a18b695b7e9b",
+   "tab": "ai",
+   "date": "2026-11-17",
+   "publishedAt": "2026-11-17T00:00:00+00:00",
+   "type": "business",
+   "importance": 1,
+   "sourceType": "official",
+   "sourceName": "OpenAI News",
+   "url": "https://openai.com/index/astra-law-6-2",
+   "originalTitle": "Astra for Law leads in legal intelligence",
+   "en": {
+    "title": "Astra for Law leads in legal intelligence",
+    "summary": "Astra for Law ranked first in a launch evaluation spanning 24 areas of law. Every ChatGPT Enterprise customer can now request access.",
+    "details": "Astra for Law ranked first in a launch evaluation spanning 24 areas of law. Every ChatGPT Enterprise customer can now request access."
+   },
+   "translated": false,
+   "fetchedAt": "2026-11-17T21:23:41+00:00",
+   "company": "OpenAI"
+  },
+  {
+   "id": "auto-3c18683b12f5",
+   "tab": "ai",
+   "date": "2026-11-17",
+   "publishedAt": "2026-11-17T20:20:29+00:00",
+   "type": "coding",
+   "importance": 1,
+   "sourceType": "official",
+   "sourceName": "GitHub Changelog",
+   "url": "https://github.blog/changelog/2026-11-17-openais-gpt-6-2-astra-and-gpt-6-2-sol-now-available",
+   "originalTitle": "OpenAI’s GPT-6.2 Astra and GPT-6.2 Sol now available",
+   "en": {
+    "title": "OpenAI’s GPT-6.2 Astra and GPT-6.2 Sol now available",
+    "summary": "OpenAI’s GPT-6.2 Astra and GPT-6.2 Sol are now generally available in GitHub Copilot. Both models are designed for agentic coding and code review, with stronger coding judgment than earlier GPT-6 models.",
+    "details": "OpenAI’s GPT-6.2 Astra and GPT-6.2 Sol are now generally available in GitHub Copilot. Both models are designed for agentic coding and code review, with stronger coding judgment than earlier GPT-6 models. In early testing, both caught significantly more real issues in code review than earlier GPT-6 models while using fewer tokens.\n\n- GPT-6.2 Astra: OpenAI’s latest Astra model for agentic coding and terminal work. In early testing, it caught significantly more issues in code review than GPT-6 Astra and completed agentic coding tasks using noticeably fewer tokens.\n\n- GPT-6.2 Sol: OpenAI’s latest Sol model for complex agentic coding and in-depth code review. In early testing, it caught nearly twice as many real issues in code review as GPT-6.1 Sol while keeping its findings accurate.\n\nThese models are billed at provider list pricing under usage-based billing. See Models and pricing for GitHub Copilot for details.\n\nAvailability in GitHub Copilot\n\nGPT-6.2 Astra and GPT-6.2 Sol are available to Copilot Pro+, Max, Business, and Enterprise users.\n\nYou can select the models in the model picker in:\n\n- Visual Studio Code\n\n- Visual Studio\n\n- Copilot CLI\n\n- GitHub Copilot coding agent\n\n- GitHub Copilot app\n\n- github.com\n\n- GitHub Mobile on iOS and Android\n\n- JetBrains IDEs\n\n- Xcode\n\n- Eclipse\n\nRollout will be gradual. Check back soon if you don’t see the models yet.\n\nEnabling access …"
+   },
+   "translated": false,
+   "fetchedAt": "2026-11-17T21:23:41+00:00",
+   "company": "GitHub"
+  },
+  {
+   "id": "auto-be88ae7f5d5d",
+   "tab": "ai",
+   "date": "2026-11-17",
+   "publishedAt": "2026-11-17T18:04:48+00:00",
+   "type": "coding",
+   "importance": 1,
+   "sourceType": "official",
+   "sourceName": "GitHub Changelog",
+   "url": "https://github.blog/changelog/2026-11-17-github-copilot-fusion-updates-more-availability-benchmarks-and-models",
+   "originalTitle": "GitHub Copilot Fusion updates: more availability, benchmarks, and models",
+   "en": {
+    "title": "GitHub Copilot Fusion updates: more availability, benchmarks, and models",
+    "summary": "Today, we’re expanding GitHub Copilot Fusion with new models, available on more Copilot surfaces, and results on two public Terminal-Bench leaderboards, giving you more ways to use Fusion and compare its performance.",
+    "details": "Today, we’re expanding GitHub Copilot Fusion with new models, available on more Copilot surfaces, and results on two public Terminal-Bench leaderboards, giving you more ways to use Fusion and compare its performance.\n\nGitHub Copilot Fusion joins public Terminal-Bench 4.1 leaderboard\n\nCopilot Fusion is now listed on Terminal-Bench 4.1 public leaderboards hosted by Stanford, Harbor, and the Laude Institute: Terminal-Bench 4.1 measures how well AI agents complete hard, realistic tasks in a terminal.\n\nOn Terminal-Bench 4.1, Copilot Fusion Max achieved a 71.2% resolution rate, 5.4 percentage points ahead of leading frontier models Opus 5.5 and Fable 5.2, while costing 88% less than Fable 5.2 and 57% less than Opus 5.5.\n\nIndependent leaderboards let you compare Copilot with other agents on the same tasks, using the same evaluation rules.\n\nCopilot Fusion is now available on web, mobile, and Visual Studio\n\nCopilot Fusion is coming to more places you use Copilot. With this release, you can select Copilot Fusion on the latest versions of github.com, Visual Studio, and GitHub Mobile beta apps for iOS and Android. Support in the production GitHub Mobile apps is coming shortly.\n\nSelect Copilot Fusion in the model picker and let it choose and coordinate models for each task. You set the effort level and Copilot handles the rest.\n\nMore models added\n\nWith this release we are adding:\n\n- Claude Sonnet 5.5 to Copilot Fusion Max\n\n- GPT-6.1 Terra to Copilot Fusion High …"
+   },
+   "translated": false,
+   "fetchedAt": "2026-11-17T21:23:41+00:00",
+   "company": "GitHub"
+  },
+  {
+   "id": "auto-1d0d2b363bae",
+   "tab": "ai",
+   "date": "2026-11-17",
+   "publishedAt": "2026-11-17T18:03:42+00:00",
+   "type": "coding",
+   "importance": 1,
+   "sourceType": "official",
+   "sourceName": "GitHub Changelog",
+   "url": "https://github.blog/changelog/2026-11-17-github-copilot-app-microsoft-ignite-releases",
+   "originalTitle": "GitHub Copilot app, Microsoft Ignite releases",
+   "en": {
+    "title": "GitHub Copilot app, Microsoft Ignite releases",
+    "summary": "Copilot is most useful when it can work where you do. The GitHub Copilot app now supports your Azure DevOps repositories, your GitHub Enterprise Server instance, and the browser you’re already signed in to.",
+    "details": "Copilot is most useful when it can work where you do. The GitHub Copilot app now supports your Azure DevOps repositories, your GitHub Enterprise Server instance, and the browser you’re already signed in to.\n\nWork with Azure DevOps repositories in the GitHub Copilot app\n\nClone an Azure DevOps repository, ask an agent to create a branch, make code changes, and open a pull request, then see it through to completion without leaving the GitHub Copilot app. Track its status in the sidebar, click Fix on a review comment to have an agent address it, or turn on agent merge to let an agent fix CI failures and complete the pull request once your Azure DevOps checks and policies pass.\n\nAzure DevOps integration is now in public preview. To get started, open Settings > Experimental and turn on Azure DevOps integration , then go to Accounts > Add account and sign in with the Microsoft account you use for Azure DevOps. Cloud sessions aren’t available for Azure DevOps repositories.\n\nFor more information, see the Azure DevOps documentation .\n\nLet Copilot work in your browser\n\nAsk Copilot to fill out forms, pull information from webpages, or test and debug the web app you’re building, right in the browser you’re already signed in to. Browser use, now in public preview, works in Chromium-based browsers, including Google Chrome and Microsoft Edge, with the GitHub Copilot extension for Chrome and runs in an isolated tab group. It also works alongside computer use. …"
+   },
+   "translated": false,
+   "fetchedAt": "2026-11-17T21:23:41+00:00",
+   "company": "GitHub"
+  },
+  {
+   "id": "auto-265694efdbc2",
+   "tab": "ai",
+   "date": "2026-11-17",
+   "publishedAt": "2026-11-17T18:02:05+00:00",
+   "type": "coding",
+   "importance": 1,
+   "sourceType": "official",
+   "sourceName": "GitHub Changelog",
+   "url": "https://github.blog/changelog/2026-11-17-copilot-code-review-adaptive-effort-secret-detection-and-more",
+   "originalTitle": "Copilot code review: Adaptive effort, secret detection, and more",
+   "en": {
+    "title": "Copilot code review: Adaptive effort, secret detection, and more",
+    "summary": "GitHub Copilot code review now helps you catch more issues earlier, with less effort. Adaptive matches review depth to each pull request, so routine changes get a quick pass and risky changes get a deeper look.",
+    "details": "GitHub Copilot code review now helps you catch more issues earlier, with less effort. Adaptive matches review depth to each pull request, so routine changes get a quick pass and risky changes get a deeper look. Reviews can also draw on related repositories and flag exposed secrets before they reach your main branch. Features in public preview are subject to change.\n\nAdaptive, cross-repository context, and secret detection are available to Copilot Pro, Pro+, Max, Business, and Enterprise plans.\n\n🎯 Adaptive: The right review effort for each pull request\n\nToday, someone has to decide in settings or when requesting a review, what review effort level each pull request needs. A documentation update may only need Lite , while a change to authentication logic benefits from Max . Adaptive makes that choice for you. Copilot looks at each pull request’s complexity and risk, then reviews it with Lite , Balanced , or Max . Each review shows which effort level Adaptive picked. Adaptive is now in public preview.\n\n⚙️ Configure Adaptive\n\nYou can select Adaptive for a single pull request from the “Reviewers” bar, or set it as your default review effort in personal, repository, organization, or enterprise settings. Balanced remains the default review effort level.\n\nAdaptive never picks a level above the maximum review effort level set for your enterprise, organization, or repository. To learn more, see Configuring code review by GitHub Copilot . …"
+   },
+   "translated": false,
+   "fetchedAt": "2026-11-17T21:23:41+00:00",
+   "company": "GitHub"
+  },
+  {
+   "id": "auto-773a935e5f56",
+   "tab": "ai",
+   "date": "2026-11-17",
+   "publishedAt": "2026-11-17T18:01:45+00:00",
+   "type": "coding",
+   "importance": 1,
+   "sourceType": "official",
+   "sourceName": "GitHub Changelog",
+   "url": "https://github.blog/changelog/2026-11-17-mai-code-2-and-mai-code-2-flash-in-github-copilot",
+   "originalTitle": "MAI Code 2 and MAI Code 2 Flash in GitHub Copilot",
+   "en": {
+    "title": "MAI Code 2 and MAI Code 2 Flash in GitHub Copilot",
+    "summary": "The next generation of Microsoft AI (MAI) coding models has arrived in GitHub Copilot.",
+    "details": "The next generation of Microsoft AI (MAI) coding models has arrived in GitHub Copilot. Introducing MAI Code 2 and MAI Code 2 Flash , two new models that represent a major step forward for the MAI-Code family, expanding from lightweight coding assistance to complex, agentic software engineering.\n\n- MAI Code 2: A powerful, general purpose coding model built to help developers get from request to result with focused responses, practical code changes, and less unnecessary back and forth. Ideal for complex tasks like deep debugging, multi-file implementation, refactoring, and repository-wide reasoning.\n\n- MAI Code 2 Flash: A lightweight, cost-efficient coding model optimized for everyday development workflows. Well suited for code explanations, targeted edits, routine fixes, and rapid iteration.\n\nBoth models are designed for agentic coding workflows, giving developers more flexibility to choose the model that best fits their task.\n\nRead the MAI Code 2 and MAI Code 2 Flash announcement for a deeper look at the model’s vision support, coding performance improvements, and efficiency gains.\n\nThese models are billed under usage-based billing. For more details, see Models and pricing for GitHub Copilot .\n\nAvailability in GitHub Copilot\n\n- MAI Code 2: Copilot Pro, Pro+, Max, Business, and Enterprise\n\n- MAI Code 2 Flash: Copilot Free, Student, Pro, Pro+, Max, Business, and Enterprise\n\nBoth models are available to eligible GitHub Copilot subscribers on annual plans. …"
+   },
+   "translated": false,
+   "fetchedAt": "2026-11-17T21:23:41+00:00",
+   "company": "GitHub"
+  },
+  {
+   "id": "auto-51c213adc4c1",
+   "tab": "ai",
+   "date": "2026-11-17",
+   "publishedAt": "2026-11-17T18:00:59+00:00",
+   "type": "coding",
+   "importance": 1,
+   "sourceType": "official",
+   "sourceName": "GitHub Changelog",
+   "url": "https://github.blog/changelog/2026-11-17-github-copilot-in-jetbrains-ignite-releases",
+   "originalTitle": "GitHub Copilot in JetBrains, Ignite releases",
+   "en": {
+    "title": "GitHub Copilot in JetBrains, Ignite releases",
+    "summary": "This update brings remote access, on-device voice dictation, and browser use controls to GitHub Copilot for JetBrains.",
+    "details": "This update brings remote access, on-device voice dictation, and browser use controls to GitHub Copilot for JetBrains. Copilot users in JetBrains IDEs also get context usage shortcuts, historical diffs, simpler follow-up controls, and improvements to chat reliability.\n\nWhat’s new\n\nCloud sandbox (public preview)\n\nCloud sandbox runs Copilot sessions in an isolated, GitHub-hosted environment instead of on your computer. Copilot can make code changes and run commands and tests there, freeing local resources and allowing parallel sessions. We’re rolling this out in phases.\n\nRemote access (public preview)\n\nYou can now opt in to remote access to make Copilot chats available in other Copilot clients, such as VS Code and the Copilot app. Discover shared sessions from remotely accessible computers, or reopen remote sessions from history to continue the conversation. We’re rolling this out in phases.\n\nBrowser use (public preview)\n\nPaired with GitHub Copilot in Chrome , Copilot’s built-in browser use plugin can open and navigate web pages, read their content, and interact with links, buttons, and forms to gather information or complete web-based tasks.\n\nEnable Browser Use in JetBrains under GitHub Copilot > Chat > Enable Browser Use .\n\nOn-device voice dictation (public preview)\n\nYou can now dictate chat messages on supported native plugin packages with Editor Preview enabled. Opt in and download a model to get started. Transcripts stay as editable drafts until you select Send . …"
+   },
+   "translated": false,
+   "fetchedAt": "2026-11-17T21:23:41+00:00",
+   "company": "GitHub"
+  },
+  {
+   "id": "auto-174e603776aa",
+   "tab": "ai",
+   "date": "2026-11-17",
+   "publishedAt": "2026-11-17T18:00:59+00:00",
+   "type": "coding",
+   "importance": 1,
+   "sourceType": "official",
+   "sourceName": "GitHub Changelog",
+   "url": "https://github.blog/changelog/2026-11-17-monitor-github-copilot-activity-through-microsoft-agent-365",
+   "originalTitle": "Monitor GitHub Copilot activity through Microsoft Agent 365",
+   "en": {
+    "title": "Monitor GitHub Copilot activity through Microsoft Agent 365",
+    "summary": "Enterprises can now stream GitHub Copilot agent activity directly into Microsoft Agent 365 .",
+    "details": "Enterprises can now stream GitHub Copilot agent activity directly into\n\nMicrosoft Agent 365 . This lets you bring audit data from across GitHub Copilot clients into Microsoft’s agent control plane, where you can review Copilot activity alongside other AI workloads.\n\nWith this release, administrators can:\n\n- See activity across Copilot clients, including cloud agents on GitHub.com, Copilot CLI, Visual Studio Code, Visual Studio, and partner IDEs such as JetBrains and Eclipse.\n\n- Review user sessions, including prompts, responses, and tool calls, and view usage trends in Agent 365.\n\n- Access additional risk information in Microsoft Purview and Defender to investigate and mitigate risk.\n\nThis is available for GitHub Enterprise Cloud customers with Enterprise Managed Users. To get started, see Streaming the audit log for your enterprise on GitHub Docs.\n\nThe post Monitor GitHub Copilot activity through Microsoft Agent 365 appeared first on The GitHub Blog ."
+   },
+   "translated": false,
+   "fetchedAt": "2026-11-17T21:23:41+00:00",
+   "company": "GitHub"
+  },
+  {
+   "id": "auto-54776ccdf5a2",
+   "tab": "ai",
+   "date": "2026-11-17",
+   "publishedAt": "2026-11-17T18:00:35+00:00",
+   "type": "coding",
+   "importance": 1,
+   "sourceType": "official",
+   "sourceName": "GitHub Changelog",
+   "url": "https://github.blog/changelog/2026-11-17-github-copilot-cli-adds-microsoft-entra-sign-in-as-a-preview",
+   "originalTitle": "GitHub Copilot CLI adds Microsoft Entra sign-in as a preview",
+   "en": {
+    "title": "GitHub Copilot CLI adds Microsoft Entra sign-in as a preview",
+    "summary": "GitHub Copilot CLI now supports Microsoft Entra authentication in public preview.",
+    "details": "GitHub Copilot CLI now supports Microsoft Entra authentication in public preview. You can sign in with your Microsoft Entra account to silently authenticate to a linked GitHub Enterprise Managed User (EMU) account, use your Microsoft 365 Copilot license, or both, depending on your organization’s entitlements.\n\nMicrosoft Entra authentication for both EMUs and Microsoft 365 Copilot is currently supported on Windows and macOS. Linux support will follow.\n\nEnterprise Managed User support\n\nFor enterprises using EMUs via OIDC , GitHub Copilot CLI now supports silent SSO using Microsoft Entra authentication. You can access GitHub from GitHub Copilot CLI using your Microsoft Entra identity without a separate GitHub sign-in. You must have an assigned Copilot Business or Copilot Enterprise license, and your organization must enable the Copilot CLI policy. In this scenario, GitHub Copilot CLI uses GitHub inference, and usage is governed by the organization’s GitHub Copilot plan.\n\nThis SSO experience is currently limited to GitHub Copilot CLI and VS Code and is available only to enterprises using OIDC for EMU.\n\nTo enable Enterprise Managed Authorization for your enterprise on GitHub Enterprise Cloud, see the Enterprise Managed Authorization documentation .\n\nMicrosoft 365 Copilot license support …"
+   },
+   "translated": false,
+   "fetchedAt": "2026-11-17T21:23:41+00:00",
+   "company": "GitHub"
+  },
+  {
+   "id": "auto-6599f156b339",
+   "tab": "ai",
+   "date": "2026-11-17",
+   "publishedAt": "2026-11-17T18:00:31+00:00",
+   "type": "product",
+   "importance": 1,
+   "sourceType": "official",
+   "sourceName": "Meta Newsroom",
+   "url": "https://about.fb.com/news/2026/11/muse-is-now-available-in-australia/",
+   "originalTitle": "Muse Is Now Available in Australia: The World’s First Personal AI Agent Built for Everyone",
+   "en": {
+    "title": "Muse Is Now Available in Australia: The World’s First Personal AI Agent Built for Everyone",
+    "summary": "Takeaways Muse is a personal AI agent. It doesn’t just answer questions, it actually does the work. It helps people stay on top of things, takes tasks and projects off their plate, and turns long-term goals into action plans.",
+    "details": "Takeaways\n\n- Muse is a personal AI agent. It doesn’t just answer questions, it actually does the work. It helps people stay on top of things, takes tasks and projects off their plate, and turns long-term goals into action plans.\n\n- Muse is available in Australia from today, with local connector experiences across creativity, shopping, property, fitness and entertainment rolling out progressively.\n\n- Meta built Muse from the ground up to be a safe, secure, private, and widely available personal AI agent.\n\n- Each person stays in control of their Muse and decides how much access it gets.\n\nFollowing our global announcement of Muse , we are excited to share that Muse is now available in Australia.\n\nWhat Muse can do in Australia\n\nConnectors are a big reason Muse can do so much. People in Australia can connect their Muse to apps and services they already use, such as Gmail, Google Calendar, Instagram and OpenTable, so it can help them manage emails, coordinate schedules, draw on saved content and make a restaurant reservation—all part of getting everyday tasks done.\n\nEarly local connector partners in Australia include Canva, Domain, Kogan, MECCA, Officeworks, realestate.com.au, SWEAT, ShopBack, and Ticketek. Connector features will roll out progressively, with some experiences becoming available after launch. Canva, the global all-in-one visual communication platform that empowers anyone to design, is also available as a connector for Muse users around the world. …"
+   },
+   "translated": false,
+   "fetchedAt": "2026-11-17T21:23:41+00:00",
+   "company": "Meta"
+  },
+  {
+   "id": "auto-8bed329b46d9",
+   "tab": "star-citizen",
+   "date": "2026-11-17",
+   "publishedAt": "2026-11-17T16:23:41+00:00",
+   "type": "ship",
+   "importance": 1,
+   "sourceType": "official",
+   "sourceName": "RSI Comm-Link",
+   "url": "https://robertsspaceindustries.com/comm-link/transmission/21407-IAE-2956-Drake-Interplanetary",
+   "originalTitle": "IAE 2956 Drake Interplanetary",
+   "en": {
+    "title": "IAE 2956 Drake Interplanetary",
+    "summary": "Drake’s back to say you CAN go it alone in the ‘verse with its new medium fighter.",
+    "details": "Drake’s back to say you CAN go it alone in the ‘verse with its new medium fighter."
+   },
+   "translated": false,
+   "fetchedAt": "2026-11-17T21:23:41+00:00"
+  },
+  {
+   "id": "auto-666e50c50390",
+   "tab": "star-citizen",
+   "date": "2026-11-17",
+   "publishedAt": "2026-11-17T16:23:41+00:00",
+   "type": "ship",
+   "importance": 1,
+   "sourceType": "official",
+   "sourceName": "RSI Comm-Link",
+   "url": "https://robertsspaceindustries.com/comm-link/transmission/21345-Drake-Marauder",
+   "originalTitle": "Drake Marauder - Welcome to the Gun Show",
+   "en": {
+    "title": "Drake Marauder - Welcome to the Gun Show",
+    "summary": "Seven guns, one pilot, zero restraint.",
+    "details": "Seven guns, one pilot, zero restraint."
+   },
+   "translated": false,
+   "fetchedAt": "2026-11-17T21:23:41+00:00"
+  },
+  {
+   "id": "auto-721955dc316e",
+   "tab": "ai",
+   "date": "2026-11-17",
+   "publishedAt": "2026-11-17T14:00:10+00:00",
+   "type": "coding",
+   "importance": 1,
+   "sourceType": "official",
+   "sourceName": "NVIDIA Blog",
+   "url": "https://blogs.nvidia.com/blog/ian-buck-sc26/",
+   "originalTitle": "Ian Buck Kicks Off NVIDIA’s Week at SC26 as Science Enters the Age of Agents",
+   "en": {
+    "title": "Ian Buck Kicks Off NVIDIA’s Week at SC26 as Science Enters the Age of Agents",
+    "summary": "NVIDIA’s Ian Buck kicked off the company’s week at SC26 in Chicago on Monday with new tools for AI agents, software that can plan experiments, run code and check results on researchers’ own systems.",
+    "details": "NVIDIA’s Ian Buck kicked off the company’s week at SC26 in Chicago on Monday with new tools for AI agents, software that can plan experiments, run code and check results on researchers’ own systems.\n\nIn NVIDIA’s special address, Buck announced Nemotron for Science , the Rubin HPC GPU and an expanded Vera CPU platform for high-performance computing . He also detailed a new collaboration in quantum computing with IBM and Fermi National Accelerator Laboratory .\n\n“The frontier of computing and the new scientific stack is going to be simulation, as always, but combined with AI and the future of quantum,” said Buck, vice president of hyperscale and high-performance computing at NVIDIA.\n\nBuck opened the talk by looking back to his first public talk on CUDA, at an SC06 tutorial in Tampa, Florida, 20 years ago. NVIDIA now offers more than 1,000 CUDA-X libraries , he said.\n\nOpen Models for Science Agents\n\n“[Agents] have been just a game changer in how we interface with our supercomputers, with our devices, our instruments and how we can do the research,” Buck said.\n\nSimulation remains the foundation of scientific computing, “which will always be on the top,” Buck said, with AI, quantum and now agents working alongside it.\n\nNemotron for Science combines the Nemotron 3.5 Super VL open model with a new open chemistry dataset and post-training recipes for life sciences and chemistry, Buck explained. Researchers can run it locally on a DGX Spark, a workstation or their own supercomputer. …"
+   },
+   "translated": false,
+   "fetchedAt": "2026-11-17T21:23:41+00:00",
+   "company": "NVIDIA"
+  },
+  {
+   "id": "auto-ec2fa1f89550",
+   "tab": "ai",
+   "date": "2026-11-17",
+   "publishedAt": "2026-11-17T17:00:00+00:00",
+   "type": "product",
+   "importance": 1,
+   "sourceType": "official",
+   "sourceName": "Google Blog — AI",
+   "url": "https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features/",
+   "originalTitle": "Put Gemini to work for you",
+   "en": {
+    "title": "Put Gemini to work for you",
+    "summary": "Tasks in Gemini is now free of charge in six countries, with new features starting in the U.S. and deeper Google Workspace integration to get things done on your behalf.",
+    "details": "Tasks in Gemini is now free of charge in six countries, with new features starting in the U.S. and deeper Google Workspace integration to get things done on your behalf."
+   },
+   "translated": false,
+   "fetchedAt": "2026-11-17T21:23:41+00:00",
+   "company": "Google"
+  },
   {
    "id": "auto-c0cf430d04b4",
    "tab": "ai",
@@ -134,7 +452,7 @@
    "en": {
     "title": "NVIDIA DGX Spark Developer Kit Turns a Desk Into a Supercomputing Lab",
     "summary": "At SC26, an annual supercomputing conference taking place this week in Chicago, NVIDIA is introducing the DGX Spark HPC Developer Kit for researchers, academics and developers.",
-    "details": "At SC26, an annual supercomputing conference taking place this week in Chicago, NVIDIA is introducing the DGX Spark HPC Developer Kit for researchers, academics and developers.\n\nThe kit is a four-node cluster of NVIDIA DGX Spark systems , each connected directly to its two neighbors in a ring, with an NVIDIA HPC SDK installation playbook coming soon. Researchers get a place at their desk to run multi-node scientific workloads, AI models and agents, instead of waiting for time on a shared GPU cluster. The kit puts the GB10 Grace Blackwell Superchip on researchers’ desks.\n\nA Supercomputing Lab on Any Desk\n\nThe DGX Spark Developer Kit changes how researchers work.\n\nRead All NVIDIA Announcements From SC26\n\nIt scales from one system, or node, to four — linked directly to one another over NVIDIA ConnectX-7 networking, with no network switch to buy or set up.\n\nAt four nodes, it provides 512GB of combined memory and 20TB of NVMe storage that provides researchers more capacity to distribute models and scientific workloads across the cluster. With NVFP4, researchers can deploy models with up to 700B parameters locally across the four DGX Spark clusters, such as DeepSeek V4.1.\n\nWith that much power at the desk, researchers with a fixed compute and server allocation no longer have to wait in a queue for every job. Teams can develop and debug on their own, saving server hours for production runs and keeping unpublished results, and proprietary datasets on premises. …"
+    "details": "At SC26, an annual supercomputing conference taking place this week in Chicago, NVIDIA is introducing the DGX Spark HPC Developer Kit for researchers, academics and developers.\n\nThe kit is a four-node cluster of NVIDIA DGX Spark systems , each connected directly to its two neighbors in a ring, with an NVIDIA HPC SDK installation playbook coming soon. Researchers get a place at their desk to run multi-node scientific workloads, AI models and agents, instead of waiting for time on a shared GPU cluster. The kit puts the GB10 Grace Blackwell Superchip on researchers’ desks.\n\nA Supercomputing Lab on Any Desk\n\nThe DGX Spark Developer Kit changes how researchers work.\n\nRead All NVIDIA Announcements From SC26\n\nIt scales from one system, or node, to four — linked directly to one another over NVIDIA ConnectX-7 networking, with no network switch to buy or set up.\n\nAt four nodes, it provides 512GB of combined memory and 16TB of NVMe storage that provides researchers more capacity to distribute models and scientific workloads across the cluster. With NVFP4, researchers can deploy models with up to 700B parameters locally across the four DGX Spark clusters, such as DeepSeek V4.1.\n\nWith that much power at the desk, researchers with a fixed compute and server allocation no longer have to wait in a queue for every job. Teams can develop and debug on their own, saving server hours for production runs and keeping unpublished results, and proprietary datasets on premises. …"
    },
    "translated": false,
    "fetchedAt": "2026-11-17T03:56:33+00:00",
@@ -570,8 +888,8 @@
    "originalTitle": "Qwen4-Max",
    "en": {
     "title": "Qwen4-Max",
-    "summary": "Community discussion on Hacker News (866 points, 479 comments).",
-    "details": "Community discussion on Hacker News (866 points, 479 comments)."
+    "summary": "Community discussion on Hacker News (872 points, 483 comments).",
+    "details": "Community discussion on Hacker News (872 points, 483 comments)."
    },
    "translated": false,
    "fetchedAt": "2026-11-16T11:32:15+00:00"
@@ -707,8 +1025,8 @@
    "originalTitle": "All AI-generated code should be Open Source",
    "en": {
     "title": "All AI-generated code should be Open Source",
-    "summary": "Community discussion on Hacker News (1273 points, 662 comments).",
-    "details": "Community discussion on Hacker News (1273 points, 662 comments)."
+    "summary": "Community discussion on Hacker News (1278 points, 668 comments).",
+    "details": "Community discussion on Hacker News (1278 points, 668 comments)."
    },
    "translated": false,
    "fetchedAt": "2026-11-15T19:54:59+00:00"
@@ -840,8 +1158,8 @@
    "originalTitle": "Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs",
    "en": {
     "title": "Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs",
-    "summary": "Community discussion on Hacker News (1112 points, 649 comments).",
-    "details": "Community discussion on Hacker News (1112 points, 649 comments)."
+    "summary": "Community discussion on Hacker News (1113 points, 650 comments).",
+    "details": "Community discussion on Hacker News (1113 points, 650 comments)."
    },
    "translated": false,
    "fetchedAt": "2026-11-14T09:44:35+00:00"
@@ -916,8 +1234,8 @@
    "originalTitle": "Jonathan Blow – If AI solved coding, why is my software still the same? [video]",
    "en": {
     "title": "Jonathan Blow – If AI solved coding, why is my software still the same? [video]",
-    "summary": "Community discussion on Hacker News (493 points, 741 comments).",
-    "details": "Community discussion on Hacker News (493 points, 741 comments)."
+    "summary": "Community discussion on Hacker News (494 points, 746 comments).",
+    "details": "Community discussion on Hacker News (494 points, 746 comments)."
    },
    "translated": false,
    "fetchedAt": "2026-11-14T09:44:35+00:00"
@@ -935,8 +1253,8 @@
    "originalTitle": "AI unlocks Gödel's notebooks, said to contain hundreds of proved theorems",
    "en": {
     "title": "AI unlocks Gödel's notebooks, said to contain hundreds of proved theorems",
-    "summary": "Community discussion on Hacker News (443 points, 111 comments).",
-    "details": "Community discussion on Hacker News (443 points, 111 comments)."
+    "summary": "Community discussion on Hacker News (444 points, 112 comments).",
+    "details": "Community discussion on Hacker News (444 points, 112 comments)."
    },
    "translated": false,
    "fetchedAt": "2026-11-13T22:52:13+00:00"
