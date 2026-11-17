@@ -1,0 +1,2397 @@
+{
+ "meta": {
+  "schema": "marsad-ships/2",
+  "game_version": "Alpha 4.10.3 LIVE",
+  "build": "13165946",
+  "verified_on": "2026-11-17",
+  "fx_qar_per_usd": 3.64,
+  "gallery_url": "https://robertsspaceindustries.com/pledge/ships/polaris/Polaris",
+  "gallery_label": "افتح المعرض الرسمي للسفينة",
+  "show_sources": false,
+  "sources": [
+   {
+    "label": "Star Citizen Wiki API (بيانات ملفات اللعبة 4.10.3)",
+    "url": "https://api.star-citizen.wiki/api/v2/vehicles/rsi-polaris"
+   },
+   {
+    "label": "RSI Ship Matrix",
+    "url": "https://robertsspaceindustries.com/ship-matrix/index"
+   },
+   {
+    "label": "Q&A: RSI Polaris",
+    "url": "https://robertsspaceindustries.com/en/comm-link/engineering/20314-Q-A-RSI-Polaris"
+   },
+   {
+    "label": "ملاحظات Alpha 4.8.0 و4.10.0 و4.10.3",
+    "url": "https://starcitizen.tools/Update:Star_Citizen_Alpha_4.10.0"
+   },
+   {
+    "label": "UEX",
+    "url": "https://uexcorp.space"
+   },
+   {
+    "label": "Spectrum: Polaris with 6 players vs Tiburon and Perseus",
+    "url": "https://robertsspaceindustries.com/spectrum/community/SC/forum/65300/thread/polaris-with-6-players-vs-tiburon-and-perseus"
+   },
+   {
+    "label": "Spectrum: Polaris - The Kind Torpedo",
+    "url": "https://robertsspaceindustries.com/spectrum/community/SC/forum/65293/thread/polaris-the-kind-torpedo"
+   }
+  ]
+ },
+ "ships": [
+  {
+   "id": "rsi-polaris",
+   "name": "Polaris",
+   "variant": "Polaris",
+   "manufacturer": "Roberts Space Industries",
+   "manufacturer_code": "RSI",
+   "status": "Flight Ready",
+   "role_ar": "كورفيت قتالية من الفئة الرأسمالية لاصطياد السفن الكبيرة",
+   "role_en": "Corvette",
+   "career_en": "Combat",
+   "size_en": "Capital",
+   "tagline": "أول سفينة عسكرية رأسمالية في الكون المستمر: 28 توربيدًا من الحجم 10، وخمسة أبراج مأهولة، وحظيرة لمقاتلة صغيرة، ومنفذا التحام جانبيان.",
+   "sections_tag": {
+    "identity": "official",
+    "weapons": "community",
+    "dps": "community",
+    "durability": "community",
+    "mobility": "community",
+    "components": "community",
+    "cargo": "community"
+   },
+   "hero_stats": [
+    {
+     "label": "Hull HP",
+     "value": 3947100
+    },
+    {
+     "label": "Shield HP",
+     "value": 648000
+    },
+    {
+     "label": "ضرر الطيار وحده DPS",
+     "value": 2182
+    },
+    {
+     "label": "الطيار والطاقم DPS",
+     "value": 18771
+    },
+    {
+     "label": "مدى الكوانتم",
+     "value": 435.6,
+     "unit": "Gm",
+     "decimals": 1
+    },
+    {
+     "label": "التوربيدات S10",
+     "value": 28
+    }
+   ],
+   "images": [
+    {
+     "url": "https://media.robertsspaceindustries.com/oe0wikh6g3ltm/store_slideshow_large.jpg",
+     "section": "hero",
+     "caption": "Polaris — صورة المتجر الرسمية من RSI",
+     "kind": "official"
+    },
+    {
+     "url": "https://media.starcitizen.tools/thumb/1/18/Polaris_destroying_Idris_over_world.jpg/1600px-Polaris_destroying_Idris_over_world.jpg.webp?3mh1c",
+     "section": "uses",
+     "caption": "Polaris تهاجم Idris بالتوربيدات فوق كوكب",
+     "kind": "official"
+    },
+    {
+     "url": "https://media.starcitizen.tools/thumb/9/9b/Polaris_landed_beside_port_with_cargo_ramp_open.jpg/1600px-Polaris_landed_beside_port_with_cargo_ramp_open.jpg.webp?dvji2",
+     "section": "identity",
+     "caption": "Polaris هابطة بجوار ميناء ومنحدر الشحن مفتوح — يوضح الحجم",
+     "kind": "official"
+    },
+    {
+     "url": "https://media.starcitizen.tools/thumb/9/93/Polaris_Torpedo_and_missile_launchers_with_graphics.jpg/1600px-Polaris_Torpedo_and_missile_launchers_with_graphics.jpg.webp?r9lfx",
+     "section": "weapons",
+     "caption": "أنابيب التوربيد ورفوف الصواريخ",
+     "kind": "official"
+    },
+    {
+     "url": "https://media.starcitizen.tools/thumb/2/25/Polaris_primary_turret_with_graphics.jpg/1600px-Polaris_primary_turret_with_graphics.jpg.webp?ig0f8",
+     "section": "weapons",
+     "caption": "البرج الأمامي الرئيسي بمدفعي Maris S6",
+     "kind": "official"
+    },
+    {
+     "url": "https://media.starcitizen.tools/thumb/6/69/Polaris_turrets_with_graphics.jpg/1600px-Polaris_turrets_with_graphics.jpg.webp?oy5zy",
+     "section": "dps",
+     "caption": "الأبراج المأهولة العلوية والجانبية",
+     "kind": "official"
+    },
+    {
+     "url": "https://media.starcitizen.tools/thumb/2/2c/IAE2954-day5-polaris-pdc.jpg/1600px-IAE2954-day5-polaris-pdc.jpg.webp?lx2ke",
+     "section": "durability",
+     "caption": "برج دفاع نقطي PDC آلي — لقطة من داخل اللعبة",
+     "kind": "official"
+    },
+    {
+     "url": "https://media.starcitizen.tools/thumb/8/8e/Polaris_in_planetary_ring_-_Cropped.jpg/1600px-Polaris_in_planetary_ring_-_Cropped.jpg.webp?kp5ku",
+     "section": "mobility",
+     "caption": "Polaris تعبر حلقة كوكبية",
+     "kind": "official"
+    },
+    {
+     "url": "https://media.starcitizen.tools/thumb/3/3f/Polaris_Engineering_room.jpg/1600px-Polaris_Engineering_room.jpg.webp?i1nyx",
+     "section": "components",
+     "caption": "غرفة الهندسة",
+     "kind": "official"
+    },
+    {
+     "url": "https://media.starcitizen.tools/thumb/3/36/Polaris_hangar_with_Scorpius_inside.jpg/1600px-Polaris_hangar_with_Scorpius_inside.jpg.webp?sozdj",
+     "section": "cargo",
+     "caption": "الحظيرة وبداخلها RSI Scorpius",
+     "kind": "official"
+    },
+    {
+     "url": "https://media.starcitizen.tools/thumb/b/b4/Polaris_cargo_hold_looking_back.jpg/1600px-Polaris_cargo_hold_looking_back.jpg.webp?ecoy2",
+     "section": "cargo",
+     "caption": "مخزن الشحن",
+     "kind": "official"
+    },
+    {
+     "url": "https://media.starcitizen.tools/thumb/0/0e/Polaris_medical_station.jpg/1600px-Polaris_medical_station.jpg.webp?o83mn",
+     "section": "cargo",
+     "caption": "المحطة الطبية",
+     "kind": "official"
+    },
+    {
+     "url": "https://media.starcitizen.tools/thumb/c/c4/Polaris_torpedo_room.jpg/1600px-Polaris_torpedo_room.jpg.webp?galab",
+     "section": "rearm",
+     "caption": "غرفة التوربيدات — مكان إعادة التحميل اليدوي",
+     "kind": "official"
+    },
+    {
+     "url": "https://media.starcitizen.tools/thumb/b/bf/Polaris_torpedo_rotary_feeders.jpg/1600px-Polaris_torpedo_rotary_feeders.jpg.webp?8psj3",
+     "section": "rearm",
+     "caption": "المغذيات الدوّارة: سبعة توربيدات لكل أنبوب",
+     "kind": "official"
+    }
+   ],
+   "uses": {
+    "primary": "اصطياد السفن الكبيرة والرأسمالية بالتوربيدات من مسافة بعيدة، بينما تحمي الأبراج السفينة من المقاتلات.",
+    "secondary": [
+     "منصة قيادة لعمليات الأسطول",
+     "حاملة لمقاتلة بحجم Sabre",
+     "خدمة السفن الهابطة في حظيرتها منذ 4.8",
+     "دوريات أمنية وبحث وإنقاذ",
+     "شحن متوسط 576 SCU"
+    ],
+    "best_for": [
+     "ضرب السفن الكبيرة مثل Hammerhead وIdris بعد إسقاط دروعها",
+     "العمل ضمن مجموعة من عدة Polaris أو مع مرافقة مقاتلات",
+     "العمليات المنظمة لطاقم من 6 إلى 12 لاعبًا"
+    ],
+    "excels": [
+     "رشقة من 4 توربيدات Veritas = 2,600,000 ضرر نظري",
+     "المدفع الأمامي Maris S6 الباليستي ضد الأهداف الثقيلة",
+     "اعتراض المقذوفات القادمة بسبعة أبراج PDC آلية"
+    ],
+    "limited": [
+     "قتال أسراب المقاتلات السريعة بالتجهيز الأصلي",
+     "اللعب الفردي: الطيار وحده يملك برجًا خلفيًا واحدًا وصواريخ",
+     "الشحن التجاري مقارنة بسفن الشحن المخصصة"
+    ],
+    "solo": [
+     "الطيران والقفز الكمي",
+     "ربط البرج الخلفي السفلي بمقعد الطيار وإطلاق صواريخ Arrester III",
+     "نقل حمولة خفيفة"
+    ],
+    "crew_needed": [
+     "تشغيل الأبراج المأهولة الخمسة",
+     "محطة التوربيدات وكاميرا التوجيه",
+     "الهندسة وإدارة الطاقة والإصلاح",
+     "إعادة تحميل التوربيدات يدويًا بالـTractor Beam"
+    ],
+    "strengths": [
+     "أقوى ضربة انفجارية في فئتها: 28 توربيدًا S10",
+     "شيلد Quadrant بسعة 648,000 HP يتجدد كاملًا في 13.6 ثانية",
+     "دروع تخفض الضرر الطاقي 40% والمادي 25%",
+     "حظيرة لمقاتلة صغيرة مع خدمات تزويد وإصلاح",
+     "منفذا التحام جانبيان للمحطات"
+    ],
+    "weaknesses": [
+     "التوربيدات بطيئة (270 m/s) وتعترضها الدفاعات النقطية حسب تجارب اللاعبين",
+     "تحتاج طاقمًا كبيرًا لتصل لقوتها الكاملة",
+     "دوران بطيء: Pitch 10 وYaw 8 درجات في الثانية",
+     "غير متاحة للشراء بعملة اللعبة في 4.10.3",
+     "تعويض التوربيد الواحد 30,785 aUEC"
+    ],
+    "limits": [
+     "تحتاج حظيرة XL أو منفذ التحام للهبوط في المحطات",
+     "المقذوفات والذخيرة لا تعود مع الاستدعاء بالتأمين منذ 4.8",
+     "غرفة القبطان كانت مغلقة عند الإطلاق ولم أتحقق من فتحها في 4.10.3"
+    ],
+    "ratings": [
+     {
+      "axis": "القتال",
+      "score": 8.5,
+      "why": "قوة نارية ضخمة بالتوربيدات والأبراج، لكنها تعتمد على الطاقم وإصابة التوربيدات."
+     },
+     {
+      "axis": "الدفاع",
+      "score": 8,
+      "why": "شيلد Quadrant ودروع مقاومة وPDC آلي."
+     },
+     {
+      "axis": "الشحن",
+      "score": 5,
+      "why": "576 SCU في شبكة اللعبة؛ القتال أولويتها."
+     },
+     {
+      "axis": "الاستكشاف",
+      "score": 6,
+      "why": "مدى كمي 435.6 Gm ومحرك قفز وسكن للطاقم، دون ماسحات متخصصة."
+     },
+     {
+      "axis": "اللعب الفردي",
+      "score": 3,
+      "why": "الطيار وحده يحقق 2,182 DPS من أصل 18,771."
+     },
+     {
+      "axis": "العمل مع طاقم",
+      "score": 9.5,
+      "why": "مصممة لطاقم من 6 إلى 12 مع حظيرة لمقاتلة."
+     }
+    ],
+    "notes": []
+   },
+   "identity": {
+    "rows": [
+     {
+      "k": "الاسم الكامل والنسخة",
+      "v": "RSI Polaris (النسخة الأساسية، لا توجد نسخ أخرى)",
+      "tag": "official"
+     },
+     {
+      "k": "الشركة المصنعة",
+      "v": "Roberts Space Industries (RSI)",
+      "tag": "official"
+     },
+     {
+      "k": "الفئة والدور",
+      "v": "Combat · Corvette",
+      "tag": "official"
+     },
+     {
+      "k": "الحجم",
+      "v": "Capital — تحتاج حظيرة S6/XL",
+      "tag": "official"
+     },
+     {
+      "k": "الأبعاد ط × ع × ر",
+      "v": "181 × 87 × 40 m",
+      "tag": "official"
+     },
+     {
+      "k": "الكتلة",
+      "v": "10,427,000 kg (الهيكل) · 11,113,607 kg مع التجهيز",
+      "tag": "official"
+     },
+     {
+      "k": "الطاقم الرسمي",
+      "v": "12 (الحد الأدنى = الأقصى في Ship Matrix)",
+      "tag": "official"
+     },
+     {
+      "k": "التشغيل العملي",
+      "v": "يطير بفرد واحد؛ 6 أفراد للضرر المدفعي الكامل؛ 12 للتشغيل الكامل مع التوربيدات والهندسة",
+      "tag": "community"
+     },
+     {
+      "k": "الحالة",
+      "v": "Flight Ready — أُضيفت في Alpha 3.24.3",
+      "tag": "official"
+     },
+     {
+      "k": "الحمولة الرسمية مقابل شبكة اللعبة",
+      "v": "620 SCU رسميًا · 576 SCU في شبكة الشحن داخل اللعبة",
+      "tag": "community"
+     }
+    ],
+    "dims": {
+     "length": 181,
+     "beam": 87,
+     "height": 40
+    },
+    "mass_kg": 11113607,
+    "crew": {
+     "min": 12,
+     "max": 12,
+     "recommended": 12
+    },
+    "playable": "نعم — Flight Ready منذ Alpha 3.24.3 وتعمل في LIVE 4.10.3.",
+    "notes": []
+   },
+   "weapons": {
+    "summary": "التجهيز الأصلي: خمسة أبراج مأهولة (أمامي بمدفعي Maris S6 باليستيين، وعلويان بمدافع ليزر Omnisky XII S4، وجانبيان بمكررات CF-337 S3)، وبرجان عن بُعد (مكررات خلفية سفلية يربطها الطيار بمقعده، ورف صواريخ خلفي علوي)، وسبعة أبراج PDC آلية، وأربعة أنابيب توربيد S10.",
+    "mounts": [
+     {
+      "name": "CF-337 Panther Repeater",
+      "manufacturer": "Klaus & Werner",
+      "category": "Laser Repeater",
+      "damage_type": "Energy",
+      "count": 4,
+      "size": 3,
+      "mount_size": 5,
+      "location": "البرج الجانبي الأيمن",
+      "mount": "Manned Turret",
+      "station": "البرج الجانبي الأيمن",
+      "stock": true,
+      "sold_separately": "yes",
+      "swappable": "yes",
+      "bespoke": "no",
+      "control": {
+       "pilot": false,
+       "copilot": false,
+       "turret": true,
+       "auto": false
+      },
+      "alpha": 43.7,
+      "rpm": 750,
+      "dps_each": 545.6,
+      "range_m": 1924,
+      "speed_mps": 1480,
+      "ammo": {
+       "needs_refill": false,
+       "capacity": null,
+       "kind": "energy",
+       "refill": "لا يحتاج ذخيرة: يشحن من مكثف أسلحة السفينة.",
+       "cost_auec": null,
+       "cost_note": "لا شيء"
+      },
+      "capacitor": "مكثف أسلحة السفينة",
+      "regen": "يتجدد تلقائيًا",
+      "tag": "community"
+     },
+     {
+      "name": "CF-337 Panther Repeater",
+      "manufacturer": "Klaus & Werner",
+      "category": "Laser Repeater",
+      "damage_type": "Energy",
+      "count": 4,
+      "size": 3,
+      "mount_size": 5,
+      "location": "البرج الجانبي الأيسر",
+      "mount": "Manned Turret",
+      "station": "البرج الجانبي الأيسر",
+      "stock": true,
+      "sold_separately": "yes",
+      "swappable": "yes",
+      "bespoke": "no",
+      "control": {
+       "pilot": false,
+       "copilot": false,
+       "turret": true,
+       "auto": false
+      },
+      "alpha": 43.7,
+      "rpm": 750,
+      "dps_each": 545.6,
+      "range_m": 1924,
+      "speed_mps": 1480,
+      "ammo": {
+       "needs_refill": false,
+       "capacity": null,
+       "kind": "energy",
+       "refill": "لا يحتاج ذخيرة: يشحن من مكثف أسلحة السفينة.",
+       "cost_auec": null,
+       "cost_note": "لا شيء"
+      },
+      "capacitor": "مكثف أسلحة السفينة",
+      "regen": "يتجدد تلقائيًا",
+      "tag": "community"
+     },
+     {
+      "name": "Omnisky XII Cannon",
+      "manufacturer": "Amon & Reese Co.",
+      "category": "Laser Cannon",
+      "damage_type": "Energy",
+      "count": 4,
+      "size": 4,
+      "mount_size": 5,
+      "location": "البرج العلوي الأيمن",
+      "mount": "Manned Turret",
+      "station": "البرج العلوي الأيمن",
+      "stock": true,
+      "sold_separately": "yes",
+      "swappable": "yes",
+      "bespoke": "no",
+      "control": {
+       "pilot": false,
+       "copilot": false,
+       "turret": true,
+       "auto": false
+      },
+      "alpha": 327.9,
+      "rpm": 150,
+      "dps_each": 819.7,
+      "range_m": 2799,
+      "speed_mps": 1152,
+      "ammo": {
+       "needs_refill": false,
+       "capacity": null,
+       "kind": "energy",
+       "refill": "لا يحتاج ذخيرة: يشحن من مكثف أسلحة السفينة.",
+       "cost_auec": null,
+       "cost_note": "لا شيء"
+      },
+      "capacitor": "مكثف أسلحة السفينة",
+      "regen": "يتجدد تلقائيًا",
+      "tag": "community"
+     },
+     {
+      "name": "Omnisky XII Cannon",
+      "manufacturer": "Amon & Reese Co.",
+      "category": "Laser Cannon",
+      "damage_type": "Energy",
+      "count": 4,
+      "size": 4,
+      "mount_size": 5,
+      "location": "البرج العلوي الأيسر",
+      "mount": "Manned Turret",
+      "station": "البرج العلوي الأيسر",
+      "stock": true,
+      "sold_separately": "yes",
+      "swappable": "yes",
+      "bespoke": "no",
+      "control": {
+       "pilot": false,
+       "copilot": false,
+       "turret": true,
+       "auto": false
+      },
+      "alpha": 327.9,
+      "rpm": 150,
+      "dps_each": 819.7,
+      "range_m": 2799,
+      "speed_mps": 1152,
+      "ammo": {
+       "needs_refill": false,
+       "capacity": null,
+       "kind": "energy",
+       "refill": "لا يحتاج ذخيرة: يشحن من مكثف أسلحة السفينة.",
+       "cost_auec": null,
+       "cost_note": "لا شيء"
+      },
+      "capacitor": "مكثف أسلحة السفينة",
+      "regen": "يتجدد تلقائيًا",
+      "tag": "community"
+     },
+     {
+      "name": "Maris Cannon",
+      "manufacturer": "Roberts Space Industries",
+      "category": "Ballistic Cannon",
+      "damage_type": "Ballistic",
+      "count": 2,
+      "size": 6,
+      "mount_size": 5,
+      "location": "البرج الأمامي",
+      "mount": "Manned Turret",
+      "station": "البرج الأمامي",
+      "stock": true,
+      "sold_separately": "no",
+      "swappable": "no",
+      "bespoke": "yes",
+      "control": {
+       "pilot": false,
+       "copilot": false,
+       "turret": true,
+       "auto": false
+      },
+      "alpha": 3400.0,
+      "rpm": 50,
+      "dps_each": 2833.3,
+      "range_m": 5004,
+      "speed_mps": 1112,
+      "ammo": {
+       "needs_refill": true,
+       "capacity": 2700.0,
+       "kind": "ballistic",
+       "refill": "Restock من خدمات الهبوط في المحطة أو المدينة، أو في حظيرة سفينة مضيفة. لا تعود الذخيرة مع الاستدعاء بالتأمين.",
+       "cost_auec": null,
+       "cost_note": "تظهر في شاشة الخدمة"
+      },
+      "capacitor": "ذخيرة مادية",
+      "regen": "—",
+      "tag": "community"
+     },
+     {
+      "name": "CF-337 Panther Repeater",
+      "manufacturer": "Klaus & Werner",
+      "category": "Laser Repeater",
+      "damage_type": "Energy",
+      "count": 4,
+      "size": 3,
+      "mount_size": 4,
+      "location": "البرج الخلفي السفلي (عن بُعد)",
+      "mount": "Remote Turret",
+      "station": "الطيار أو مقعد الأبراج الأيمن في الجسر (ليس الاثنان معًا)",
+      "stock": true,
+      "sold_separately": "yes",
+      "swappable": "yes",
+      "bespoke": "no",
+      "control": {
+       "pilot": true,
+       "copilot": false,
+       "turret": true,
+       "auto": false
+      },
+      "alpha": 43.7,
+      "rpm": 750,
+      "dps_each": 545.6,
+      "range_m": 1924,
+      "speed_mps": 1480,
+      "ammo": {
+       "needs_refill": false,
+       "capacity": null,
+       "kind": "energy",
+       "refill": "لا يحتاج ذخيرة: يشحن من مكثف أسلحة السفينة.",
+       "cost_auec": null,
+       "cost_note": "لا شيء"
+      },
+      "capacitor": "مكثف أسلحة السفينة",
+      "regen": "يتجدد تلقائيًا",
+      "tag": "community"
+     },
+     {
+      "name": "M2C \"Swarm\"",
+      "manufacturer": "Behring Applied Technology",
+      "category": "Laser Turret",
+      "damage_type": "Energy",
+      "count": 7,
+      "size": 1,
+      "mount_size": 2,
+      "location": "أبراج الدفاع النقطي (7)",
+      "mount": "PDC (automatic)",
+      "station": "آلي بالكامل",
+      "stock": true,
+      "sold_separately": "no",
+      "swappable": "no",
+      "bespoke": "yes",
+      "control": {
+       "pilot": false,
+       "copilot": false,
+       "turret": false,
+       "auto": true
+      },
+      "alpha": 10.0,
+      "rpm": 1000,
+      "dps_each": 166.7,
+      "range_m": 1605,
+      "speed_mps": 1500,
+      "ammo": {
+       "needs_refill": false,
+       "capacity": null,
+       "kind": "energy",
+       "refill": "لا يحتاج ذخيرة: سلاح طاقة آلي.",
+       "cost_auec": null,
+       "cost_note": "لا شيء"
+      },
+      "capacitor": "مكثف PDC",
+      "regen": "يتجدد تلقائيًا",
+      "tag": "community"
+     }
+    ],
+    "ordnance": [
+     {
+      "kind": "torpedo",
+      "name": "VT-T10 \"Veritas\" Torpedo",
+      "manufacturer": "Behring",
+      "size": 10,
+      "launchers": 4,
+      "per_launcher": 7,
+      "loaded": 28,
+      "max": 28,
+      "reserve": 0,
+      "salvo": 4,
+      "damage_each": 650000,
+      "damage_type": "Physical (انفجاري)",
+      "guidance": "IR (حراري)",
+      "range_m": 30000,
+      "lock_time_s": 7,
+      "speed_mps": 270,
+      "control": "محطة التوربيدات في الجسر عبر كاميرا التوجيه عن بُعد",
+      "comes_with_ship": "partial",
+      "needs_purchase": "بعد الاستخدام أو بعد كل Claim: Restock من الخدمات، أو شراء من CenterMass بـ30,785 aUEC للقطعة",
+      "first_fill": "لا يلزم عادة بعد الشراء من RSI (افحص العدد)؛ يلزم بعد كل Claim",
+      "reload_in_combat": "نعم يدويًا: نقل التوربيد بالـTractor Beam من مخزون على متن السفينة إلى المغذّي",
+      "unit_price_auec": 30785,
+      "shop": "CenterMass — New Babbage / Area18",
+      "tag": "community"
+     },
+     {
+      "kind": "missile",
+      "name": "Arrester III Missile",
+      "manufacturer": "Firestorm Kinetics",
+      "size": 3,
+      "launchers": 2,
+      "per_launcher": 8,
+      "loaded": 16,
+      "max": 16,
+      "reserve": 0,
+      "salvo": 1,
+      "damage_each": 3200,
+      "damage_type": "Physical (انفجاري)",
+      "guidance": "CS (المقطع العرضي)",
+      "range_m": 25000,
+      "lock_time_s": 1,
+      "speed_mps": 857.5,
+      "control": "الطيار (وحدة MISSILES في مقعده)",
+      "comes_with_ship": "partial",
+      "needs_purchase": "بعد الاستخدام أو بعد كل Claim: Restock أو متاجر Ship Weapons بـ550 aUEC",
+      "first_fill": "لا يلزم عادة بعد الشراء من RSI؛ يلزم بعد كل Claim",
+      "reload_in_combat": "لا — يُعاد ملؤها بالخدمات",
+      "unit_price_auec": 550,
+      "shop": "Ship Weapons — HUR-L4 / Seraphim / Baijini Point",
+      "tag": "community"
+     },
+     {
+      "kind": "missile",
+      "name": "Ignite II Missile",
+      "manufacturer": "Firestorm Kinetics",
+      "size": 2,
+      "launchers": 1,
+      "per_launcher": 12,
+      "loaded": 12,
+      "max": 12,
+      "reserve": 0,
+      "salvo": 1,
+      "damage_each": 1440,
+      "damage_type": "Physical (انفجاري)",
+      "guidance": "IR (حراري)",
+      "range_m": 10000,
+      "lock_time_s": 0.3,
+      "speed_mps": 1029,
+      "control": "مقعد الأبراج الأيسر في الجسر (صواريخ فقط) — البرج الخلفي العلوي",
+      "comes_with_ship": "partial",
+      "needs_purchase": "بعد الاستخدام أو بعد كل Claim: Restock أو متاجر Ship Weapons بـ315 aUEC",
+      "first_fill": "لا يلزم عادة بعد الشراء من RSI؛ يلزم بعد كل Claim",
+      "reload_in_combat": "لا — يُعاد ملؤها بالخدمات",
+      "unit_price_auec": 315,
+      "shop": "Ship Weapons — HUR-L3 / GrimHEX / MIC-L2",
+      "tag": "community"
+     }
+    ],
+    "countermeasures": [
+     {
+      "name": "Joker Defcon — Noise Launcher",
+      "kind": "noise",
+      "count": 2
+     },
+     {
+      "name": "Joker Defcon — Flares Ammo",
+      "kind": "decoy",
+      "count": 4
+     }
+    ],
+    "notes": [
+     "عدد الإجراءات المضادة هنا عدد القواذف وحاويات الذخيرة في بيانات اللعبة، وليس عدد الطلقات."
+    ]
+   },
+   "dps": {
+    "stations": [
+     {
+      "id": "pilot",
+      "label": "الطيار (البرج الخلفي السفلي 4× CF-337)",
+      "kind": "pilot",
+      "dps": 2182.4,
+      "crew": 1
+     },
+     {
+      "id": "turret1",
+      "label": "البرج الجانبي الأيمن (4× CF-337)",
+      "kind": "turret",
+      "dps": 2182.4,
+      "sustained": 1115.6,
+      "crew": 1
+     },
+     {
+      "id": "turret2",
+      "label": "البرج الجانبي الأيسر (4× CF-337)",
+      "kind": "turret",
+      "dps": 2182.4,
+      "sustained": 1115.6,
+      "crew": 1
+     },
+     {
+      "id": "turret3",
+      "label": "البرج العلوي الأيمن (4× Omnisky XII)",
+      "kind": "turret",
+      "dps": 3278.8,
+      "sustained": 1740.8,
+      "crew": 1
+     },
+     {
+      "id": "turret4",
+      "label": "البرج العلوي الأيسر (4× Omnisky XII)",
+      "kind": "turret",
+      "dps": 3278.8,
+      "sustained": 1740.8,
+      "crew": 1
+     },
+     {
+      "id": "turret5",
+      "label": "البرج الأمامي (2× Maris S6)",
+      "kind": "turret",
+      "dps": 5666.6,
+      "sustained": 4636.4,
+      "crew": 1
+     },
+     {
+      "id": "pdc",
+      "label": "الدفاع النقطي (7× M2C Swarm)",
+      "kind": "pdc",
+      "dps": 1166.9,
+      "crew": 0,
+      "auto": true
+     }
+    ],
+    "pilot_only": 2182.4,
+    "crew_only": 16589.0,
+    "total": 18771.4,
+    "crew_for_total": 6,
+    "burst": 18771.4,
+    "sustained": 11464.8,
+    "distortion": null,
+    "ordnance": [
+     {
+      "name": "VT-T10 \"Veritas\" Torpedo",
+      "each": 650000,
+      "salvo_damage": 650000,
+      "total": 18200000
+     },
+     {
+      "name": "Arrester III Missile",
+      "each": 3200,
+      "salvo_damage": 3200,
+      "total": 51200
+     },
+     {
+      "name": "Ignite II Missile",
+      "each": 1440,
+      "salvo_damage": 1440,
+      "total": 17280
+     }
+    ],
+    "formula": [
+     "DPS = damage per shot × RPM ÷ 60 × weapon count",
+     "CF-337: 43.7 × 750 ÷ 60 = 545.6 per gun · Omnisky XII: 819.7 · Maris S6: 2,833.3",
+     "Pilot 2,182.4 + Crew 16,589.0 = 18,771.4 (PDC 1,166.9 automatic, not added)"
+    ],
+    "caveats": [
+     "الأرقام Burst نظرية عند إصابة كل الطلقات.",
+     "Sustained DPS (11,465) يحسب الحرارة والمكثفات خلال 60 ثانية.",
+     "نادرًا ما تصوّب الأبراج الخمسة على هدف واحد بسبب زوايا التغطية.",
+     "مدفعا Maris يحملان 2,700 طلقة لكل منهما بمعدل 50 طلقة في الدقيقة، أي نحو 54 دقيقة إطلاق متواصل حتى النفاد.",
+     "منذ 4.10.0 تُحدث أسلحة الطاقة ضررًا أعلى ضد الشيلد، والباليستية أنسب للدروع والهياكل.",
+     "لا توجد أسلحة Distortion في التجهيز الأصلي."
+    ]
+   },
+   "durability": {
+    "hull_hp": 3947100,
+    "shield": {
+     "hp": 648000,
+     "faces": "Quadrant",
+     "regen_per_s": 47520,
+     "regen_time_s": 13.64,
+     "generators": [
+      {
+       "name": "Deterrent",
+       "manufacturer": "Roberts Space Industries",
+       "size": 4,
+       "count": 1,
+       "grade": "A"
+      }
+     ],
+     "delay_note": "لم أجد رقمًا مؤكدًا للإصدار الحالي",
+     "stop_note": "يتوقف التجدد أثناء تلقي الضرر ثم يعود بعد التأخير"
+    },
+    "armor": {
+     "physical": 0.75,
+     "energy": 0.6,
+     "distortion": 1,
+     "thermal": 1,
+     "notes": "صحة الدروع 48,960 HP؛ مضاعِف إشارات IR/EM/CS = 0.8"
+    },
+    "rows": [
+     {
+      "k": "صحة الدروع Armor HP",
+      "v": "48,960 HP"
+     },
+     {
+      "k": "مضاعِف البصمة IR / EM / CS",
+      "v": "0.8 — بصمة أقل بنسبة 20%"
+     },
+     {
+      "k": "ملاحظة عن HP",
+      "v": "مجموع صحة الأجزاء ليس الضرر اللازم للتدمير؛ الجزء الحاسم هو الجسم الرئيسي"
+     }
+    ],
+    "weak_points": [
+     "الدوران البطيء يترك مناطق خارج زوايا الأبراج أمام المقاتلات",
+     "اصطدام سفن الذكاء الاصطناعي بها يستنزف الدروع حسب تجارب اللاعبين (مايو 2026)",
+     "بعد إسقاط الشيلد يصبح الهيكل مكشوفًا إن نفدت صحة الدروع"
+    ],
+    "defenses": [
+     "سبعة أبراج PDC آلية: تستهدف المقذوفات القادمة أولًا ثم السفن القريبة (رسمي)",
+     "قاذفا Noise وحاويات Flares",
+     "منفذا التحام يسمحان بالبقاء ملتحمة بالمحطة بدل الهبوط"
+    ],
+    "notes": [
+     "رفعت 4.8 مقاومة دروع السفن الكبيرة، وخفّضت معظم سعات الشيلد بنحو 20% مقابل تجدد أسرع."
+    ],
+    "vital": {
+     "part": "الجسم الرئيسي M_Body",
+     "hp": 918000
+    }
+   },
+   "mobility": {
+    "speeds": {
+     "scm": 145,
+     "max": 940,
+     "boost_fwd": 250,
+     "boost_back": 155
+    },
+    "accel": {
+     "zero_to_scm_s": 4.99,
+     "zero_to_max_s": 32.32,
+     "scm_to_zero_s": 9.11,
+     "max_to_zero_s": 59.05
+    },
+    "rotation": {
+     "pitch": 10,
+     "yaw": 8,
+     "roll": 14,
+     "pitch_boost": 15,
+     "yaw_boost": 12,
+     "roll_boost": 28
+    },
+    "fuel": {
+     "hydrogen_scu": 58.8,
+     "quantum_scu": 21.6,
+     "scoop": "لا (لا يوجد Fuel Scoop؛ مأخذ الهيدروجين يعيد الملء ببطء)",
+     "refuel_others": "نعم للسفن الهابطة في حظيرتها منذ 4.8 (من وقود مخزّن في شبكة الشحن)",
+     "qt_price_auec": 1735,
+     "h2_price_auec": 759
+    },
+    "quantum": {
+     "stock": "Erebos",
+     "drives": [
+      {
+       "name": "Erebos",
+       "manufacturer": "Roberts Space Industries",
+       "size": 3,
+       "grade": "A",
+       "class": "Civilian",
+       "speed_mps": 629281300,
+       "spool_s": 7.3,
+       "cooldown_s": 12.6,
+       "fuel_rate": 0.049588,
+       "accel1": 4152769,
+       "accel2": 5772488,
+       "stock": true,
+       "price_auec": 336000
+      },
+      {
+       "name": "Agni",
+       "manufacturer": "Juno Starwerk",
+       "size": 3,
+       "grade": "B",
+       "class": "Industrial",
+       "speed_mps": 585715600,
+       "spool_s": 8.5,
+       "cooldown_s": 21.6,
+       "fuel_rate": 0.036064,
+       "accel1": 4685175,
+       "accel2": 5969838,
+       "stock": false,
+       "price_auec": 430920
+      },
+      {
+       "name": "Impulse",
+       "manufacturer": "ArcCorp",
+       "size": 3,
+       "grade": "B",
+       "class": "Civilian",
+       "speed_mps": 559092200,
+       "spool_s": 7.7,
+       "cooldown_s": 17.1,
+       "fuel_rate": 0.074704,
+       "accel1": 3904313,
+       "accel2": 5155769,
+       "stock": false,
+       "price_auec": 168000
+      },
+      {
+       "name": "Kama",
+       "manufacturer": "Juno Starwerk",
+       "size": 3,
+       "grade": "C",
+       "class": "Industrial",
+       "speed_mps": 532468700,
+       "spool_s": 9.3,
+       "cooldown_s": 24,
+       "fuel_rate": 0.03864,
+       "accel1": 4259250,
+       "accel2": 5427125,
+       "stock": false,
+       "price_auec": 192781
+      },
+      {
+       "name": "Tyche",
+       "manufacturer": "Roberts Space Industries",
+       "size": 3,
+       "grade": "B",
+       "class": "Civilian",
+       "speed_mps": 532468700,
+       "spool_s": 8.1,
+       "cooldown_s": 16.2,
+       "fuel_rate": 0.054096,
+       "accel1": 3513881,
+       "accel2": 4884413,
+       "stock": false,
+       "price_auec": 168000
+      },
+      {
+       "name": "TS-2",
+       "manufacturer": "Wei-Tek",
+       "size": 3,
+       "grade": "A",
+       "class": "Military",
+       "speed_mps": 509717800,
+       "spool_s": 6.3,
+       "cooldown_s": 13.9,
+       "fuel_rate": 0.14168,
+       "accel1": 5075606,
+       "accel2": 6349736,
+       "stock": false,
+       "price_auec": null
+      },
+      {
+       "name": "Fissure",
+       "manufacturer": "ArcCorp",
+       "size": 3,
+       "grade": "C",
+       "class": "Civilian",
+       "speed_mps": 508265600,
+       "spool_s": 8.5,
+       "cooldown_s": 19,
+       "fuel_rate": 0.070196,
+       "accel1": 3549375,
+       "accel2": 4687063,
+       "stock": false,
+       "price_auec": 84000
+      },
+      {
+       "name": "Ranger",
+       "manufacturer": "Tarsus",
+       "size": 3,
+       "grade": "B",
+       "class": "Civilian",
+       "speed_mps": 505845300,
+       "spool_s": 7.4,
+       "cooldown_s": 17.1,
+       "fuel_rate": 0.06118,
+       "accel1": 3709097,
+       "accel2": 5155769,
+       "stock": false,
+       "price_auec": 168000
+      },
+      {
+       "name": "Metis",
+       "manufacturer": "Roberts Space Industries",
+       "size": 3,
+       "grade": "C",
+       "class": "Civilian",
+       "speed_mps": 484062500,
+       "spool_s": 8.9,
+       "cooldown_s": 18,
+       "fuel_rate": 0.059892,
+       "accel1": 3194438,
+       "accel2": 4440375,
+       "stock": false,
+       "price_auec": 84000
+      },
+      {
+       "name": "Vesta",
+       "manufacturer": "Juno Starwerk",
+       "size": 3,
+       "grade": "D",
+       "class": "Industrial",
+       "speed_mps": 479221900,
+       "spool_s": 10.1,
+       "cooldown_s": 26.4,
+       "fuel_rate": 0.039928,
+       "accel1": 3833325,
+       "accel2": 4884413,
+       "stock": false,
+       "price_auec": 107730
+      },
+      {
+       "name": "Wanderer",
+       "manufacturer": "Tarsus",
+       "size": 3,
+       "grade": "C",
+       "class": "Civilian",
+       "speed_mps": 459859400,
+       "spool_s": 8.1,
+       "cooldown_s": 19,
+       "fuel_rate": 0.0644,
+       "accel1": 3371906,
+       "accel2": 4687063,
+       "stock": false,
+       "price_auec": 84000
+      },
+      {
+       "name": "Echo",
+       "manufacturer": "ArcCorp",
+       "size": 3,
+       "grade": "D",
+       "class": "Civilian",
+       "speed_mps": 457439100,
+       "spool_s": 9.3,
+       "cooldown_s": 20.9,
+       "fuel_rate": 0.049588,
+       "accel1": 3194438,
+       "accel2": 4218356,
+       "stock": false,
+       "price_auec": 42000
+      },
+      {
+       "name": "Balandin",
+       "manufacturer": "Wei-Tek",
+       "size": 3,
+       "grade": "B",
+       "class": "Military",
+       "speed_mps": 431299700,
+       "spool_s": 7,
+       "cooldown_s": 17.8,
+       "fuel_rate": 0.13524,
+       "accel1": 4294744,
+       "accel2": 5372854,
+       "stock": false,
+       "price_auec": null
+      },
+      {
+       "name": "Drifter",
+       "manufacturer": "Tarsus",
+       "size": 3,
+       "grade": "D",
+       "class": "Civilian",
+       "speed_mps": 413873400,
+       "spool_s": 8.8,
+       "cooldown_s": 20.9,
+       "fuel_rate": 0.066332,
+       "accel1": 3034716,
+       "accel2": 4218356,
+       "stock": false,
+       "price_auec": 42000
+      },
+      {
+       "name": "Pontes",
+       "manufacturer": "Wei-Tek",
+       "size": 3,
+       "grade": "C",
+       "class": "Military",
+       "speed_mps": 392090600,
+       "spool_s": 7.7,
+       "cooldown_s": 19.8,
+       "fuel_rate": 0.12236,
+       "accel1": 3904313,
+       "accel2": 4884413,
+       "stock": false,
+       "price_auec": null
+      }
+     ],
+     "range_gm": 435.6,
+     "routes": [
+      {
+       "sys": "Stanton",
+       "a": "ArcCorp",
+       "b": "Crusader",
+       "gm": 42.0,
+       "v": "4.3.2"
+      },
+      {
+       "sys": "Stanton",
+       "a": "ArcCorp",
+       "b": "Hurston",
+       "gm": 23.0,
+       "v": "4.3.2"
+      },
+      {
+       "sys": "Stanton",
+       "a": "ArcCorp",
+       "b": "Magnus Gateway (Stanton system)",
+       "gm": 95.0,
+       "v": "4.3.2"
+      },
+      {
+       "sys": "Stanton",
+       "a": "ArcCorp",
+       "b": "microTech",
+       "gm": 59.0,
+       "v": "4.3.2"
+      },
+      {
+       "sys": "Stanton",
+       "a": "ArcCorp",
+       "b": "Nyx Gateway (Stanton system)",
+       "gm": 95.0,
+       "v": "4.4"
+      },
+      {
+       "sys": "Stanton",
+       "a": "ArcCorp",
+       "b": "Pyro Gateway (Stanton system)",
+       "gm": 17.0,
+       "v": "4.3.2"
+      },
+      {
+       "sys": "Stanton",
+       "a": "ArcCorp",
+       "b": "Terra Gateway (Stanton system)",
+       "gm": 37.0,
+       "v": "4.3.2"
+      },
+      {
+       "sys": "Stanton",
+       "a": "Crusader",
+       "b": "Hurston",
+       "gm": 32.0,
+       "v": "4.3.2"
+      },
+      {
+       "sys": "Stanton",
+       "a": "Crusader",
+       "b": "Magnus Gateway (Stanton system)",
+       "gm": 54.0,
+       "v": "4.3.2"
+      },
+      {
+       "sys": "Stanton",
+       "a": "Crusader",
+       "b": "microTech",
+       "gm": 57.0,
+       "v": "4.3.2"
+      },
+      {
+       "sys": "Stanton",
+       "a": "Crusader",
+       "b": "Nyx Gateway (Stanton system)",
+       "gm": 54.0,
+       "v": "4.4"
+      },
+      {
+       "sys": "Stanton",
+       "a": "Crusader",
+       "b": "Pyro Gateway (Stanton system)",
+       "gm": 34.0,
+       "v": "4.3.2"
+      },
+      {
+       "sys": "Stanton",
+       "a": "Crusader",
+       "b": "Terra Gateway (Stanton system)",
+       "gm": 70.0,
+       "v": "4.3.2"
+      },
+      {
+       "sys": "Stanton",
+       "a": "Hurston",
+       "b": "Magnus Gateway (Stanton system)",
+       "gm": 81.0,
+       "v": "4.3.2"
+      },
+      {
+       "sys": "Stanton",
+       "a": "Hurston",
+       "b": "microTech",
+       "gm": 38.0,
+       "v": "4.3.2"
+      },
+      {
+       "sys": "Stanton",
+       "a": "Hurston",
+       "b": "Nyx Gateway (Stanton system)",
+       "gm": 81.0,
+       "v": "4.4"
+      },
+      {
+       "sys": "Stanton",
+       "a": "Hurston",
+       "b": "Pyro Gateway (Stanton system)",
+       "gm": 30.0,
+       "v": "4.3.2"
+      },
+      {
+       "sys": "Stanton",
+       "a": "Hurston",
+       "b": "Terra Gateway (Stanton system)",
+       "gm": 39.0,
+       "v": "4.7"
+      },
+      {
+       "sys": "Stanton",
+       "a": "Magnus Gateway (Stanton system)",
+       "b": "microTech",
+       "gm": 88.0,
+       "v": "4.3.2"
+      },
+      {
+       "sys": "Stanton",
+       "a": "Magnus Gateway (Stanton system)",
+       "b": "Pyro Gateway (Stanton system)",
+       "gm": 86.0,
+       "v": "4.0.1"
+      },
+      {
+       "sys": "Stanton",
+       "a": "Magnus Gateway (Stanton system)",
+       "b": "Terra Gateway (Stanton system)",
+       "gm": 120.0,
+       "v": "4.0.1"
+      },
+      {
+       "sys": "Stanton",
+       "a": "microTech",
+       "b": "Nyx Gateway (Stanton system)",
+       "gm": 88.0,
+       "v": "4.4"
+      },
+      {
+       "sys": "Stanton",
+       "a": "microTech",
+       "b": "Pyro Gateway (Stanton system)",
+       "gm": 68.0,
+       "v": "4.5"
+      },
+      {
+       "sys": "Stanton",
+       "a": "microTech",
+       "b": "Terra Gateway (Stanton system)",
+       "gm": 51.0,
+       "v": "4.3.2"
+      },
+      {
+       "sys": "Stanton",
+       "a": "Nyx Gateway (Stanton system)",
+       "b": "Pyro Gateway (Stanton system)",
+       "gm": 86.0,
+       "v": "4.5"
+      },
+      {
+       "sys": "Stanton",
+       "a": "Nyx Gateway (Stanton system)",
+       "b": "Terra Gateway (Stanton system)",
+       "gm": 119.0,
+       "v": "4.4"
+      },
+      {
+       "sys": "Stanton",
+       "a": "Pyro Gateway (Stanton system)",
+       "b": "Terra Gateway (Stanton system)",
+       "gm": 53.0,
+       "v": "4.5"
+      },
+      {
+       "sys": "Pyro",
+       "a": "Bloom",
+       "b": "Monox",
+       "gm": 28.0,
+       "v": "4.3.2"
+      },
+      {
+       "sys": "Pyro",
+       "a": "Bloom",
+       "b": "Nyx Gateway (Pyro system)",
+       "gm": 48.0,
+       "v": "4.4"
+      },
+      {
+       "sys": "Pyro",
+       "a": "Bloom",
+       "b": "Pyro I",
+       "gm": 13.0,
+       "v": "4.3.2"
+      },
+      {
+       "sys": "Pyro",
+       "a": "Bloom",
+       "b": "Pyro IV",
+       "gm": 52.0,
+       "v": "4.4"
+      },
+      {
+       "sys": "Pyro",
+       "a": "Bloom",
+       "b": "Pyro V",
+       "gm": 52.0,
+       "v": "4.3.2"
+      },
+      {
+       "sys": "Pyro",
+       "a": "Bloom",
+       "b": "Stanton Gateway (Pyro system)",
+       "gm": 60.0,
+       "v": "4.5"
+      },
+      {
+       "sys": "Pyro",
+       "a": "Bloom",
+       "b": "Terminus",
+       "gm": 52.0,
+       "v": "4.5"
+      },
+      {
+       "sys": "Pyro",
+       "a": "Monox",
+       "b": "Nyx Gateway (Pyro system)",
+       "gm": 50.0,
+       "v": "4.4"
+      },
+      {
+       "sys": "Pyro",
+       "a": "Monox",
+       "b": "Pyro I",
+       "gm": 15.0,
+       "v": "4.3.2"
+      },
+      {
+       "sys": "Pyro",
+       "a": "Monox",
+       "b": "Pyro IV",
+       "gm": 36.0,
+       "v": "4.4"
+      },
+      {
+       "sys": "Pyro",
+       "a": "Monox",
+       "b": "Pyro V",
+       "gm": 35.0,
+       "v": "4.3.2"
+      },
+      {
+       "sys": "Pyro",
+       "a": "Monox",
+       "b": "Stanton Gateway (Pyro system)",
+       "gm": 57.0,
+       "v": "4.5"
+      },
+      {
+       "sys": "Pyro",
+       "a": "Monox",
+       "b": "Terminus",
+       "gm": 79.0,
+       "v": "4.3.2"
+      },
+      {
+       "sys": "Pyro",
+       "a": "Nyx Gateway (Pyro system)",
+       "b": "Pyro I",
+       "gm": 43.0,
+       "v": "4.4"
+      },
+      {
+       "sys": "Pyro",
+       "a": "Nyx Gateway (Pyro system)",
+       "b": "Pyro IV",
+       "gm": 32.0,
+       "v": "4.5"
+      },
+      {
+       "sys": "Pyro",
+       "a": "Nyx Gateway (Pyro system)",
+       "b": "Pyro V",
+       "gm": 32.0,
+       "v": "4.4"
+      },
+      {
+       "sys": "Pyro",
+       "a": "Nyx Gateway (Pyro system)",
+       "b": "Stanton Gateway (Pyro system)",
+       "gm": 103.0,
+       "v": "4.5"
+      },
+      {
+       "sys": "Pyro",
+       "a": "Nyx Gateway (Pyro system)",
+       "b": "Terminus",
+       "gm": 86.0,
+       "v": "4.5"
+      },
+      {
+       "sys": "Pyro",
+       "a": "Pyro I",
+       "b": "Pyro IV",
+       "gm": 41.0,
+       "v": "4.4"
+      },
+      {
+       "sys": "Pyro",
+       "a": "Pyro I",
+       "b": "Pyro V",
+       "gm": 41.0,
+       "v": "4.3.2"
+      },
+      {
+       "sys": "Pyro",
+       "a": "Pyro I",
+       "b": "Stanton Gateway (Pyro system)",
+       "gm": 60.0,
+       "v": "4.5"
+      },
+      {
+       "sys": "Pyro",
+       "a": "Pyro I",
+       "b": "Terminus",
+       "gm": 65.0,
+       "v": "4.5"
+      },
+      {
+       "sys": "Pyro",
+       "a": "Pyro IV",
+       "b": "Pyro V",
+       "gm": 0.0,
+       "v": "4.7"
+      },
+      {
+       "sys": "Pyro",
+       "a": "Pyro IV",
+       "b": "Stanton Gateway (Pyro system)",
+       "gm": 92.0,
+       "v": "4.5"
+      },
+      {
+       "sys": "Pyro",
+       "a": "Pyro IV",
+       "b": "Terminus",
+       "gm": 102.0,
+       "v": "4.4"
+      },
+      {
+       "sys": "Pyro",
+       "a": "Pyro V",
+       "b": "Stanton Gateway (Pyro system)",
+       "gm": 92.0,
+       "v": "4.5"
+      },
+      {
+       "sys": "Pyro",
+       "a": "Pyro V",
+       "b": "Terminus",
+       "gm": 101.0,
+       "v": "4.7"
+      },
+      {
+       "sys": "Pyro",
+       "a": "Stanton Gateway (Pyro system)",
+       "b": "Terminus",
+       "gm": 83.0,
+       "v": "4.5"
+      },
+      {
+       "sys": "Nyx",
+       "a": "Delamar",
+       "b": "Pyro Gateway (Nyx system)",
+       "gm": 32.0,
+       "v": "4.5"
+      },
+      {
+       "sys": "Nyx",
+       "a": "Delamar",
+       "b": "Stanton Gateway (Nyx system)",
+       "gm": 13.0,
+       "v": "4.5"
+      },
+      {
+       "sys": "Nyx",
+       "a": "Pyro Gateway (Nyx system)",
+       "b": "Stanton Gateway (Nyx system)",
+       "gm": 44.0,
+       "v": "4.4"
+      }
+     ]
+    },
+    "rows": [
+     {
+      "k": "محرك الكوانتم الأصلي",
+      "v": "Erebos S3 Grade A Civilian (RSI)"
+     },
+     {
+      "k": "سرعة الكوانتم وزمن الشحن",
+      "v": "629.3 Mm/s · 7.3 ث"
+     },
+     {
+      "k": "محرك القفز Jump Drive",
+      "v": "Exodus S3 Grade C (Tarsus) للعبور بين الأنظمة"
+     },
+     {
+      "k": "الاستهلاك",
+      "v": "0.0496 SCU لكل Gm مع Erebos"
+     }
+    ],
+    "notes": [
+     "المسافات الجاهزة في الحاسبة من بيانات UEX ومقرّبة لأقرب Gm.",
+     "لا يوجد مدى ثابت للطيران بالهيدروجين لأن الاستهلاك يتغير مع التسارع والجاذبية والغلاف الجوي."
+    ]
+   },
+   "components": [
+    {
+     "type": "Power Plant",
+     "name": "Stellate",
+     "manufacturer": "Roberts Space Industries",
+     "count": 1,
+     "size": 4,
+     "class": "Civilian",
+     "grade": "A",
+     "perf": "مولد الطاقة الرئيسي",
+     "swappable": null,
+     "stock": true,
+     "tag": "community"
+    },
+    {
+     "type": "Shield Generator",
+     "name": "Deterrent",
+     "manufacturer": "Roberts Space Industries",
+     "count": 1,
+     "size": 4,
+     "class": null,
+     "grade": "A",
+     "perf": "648,000 HP بنظام Quadrant",
+     "swappable": null,
+     "stock": true,
+     "tag": "community"
+    },
+    {
+     "type": "Cooler",
+     "name": "Serac",
+     "manufacturer": "Roberts Space Industries",
+     "count": 1,
+     "size": 4,
+     "class": "Civilian",
+     "grade": "A",
+     "perf": "تبريد السفينة",
+     "swappable": null,
+     "stock": true,
+     "tag": "community"
+    },
+    {
+     "type": "Self Destruct",
+     "name": "Self Destruct Unit",
+     "manufacturer": "Unknown",
+     "count": 1,
+     "size": 1,
+     "class": null,
+     "grade": "A",
+     "perf": "نظام التدمير الذاتي",
+     "swappable": null,
+     "stock": true,
+     "tag": "community"
+    },
+    {
+     "type": "Quantum Drive",
+     "name": "Erebos",
+     "manufacturer": "Roberts Space Industries",
+     "count": 1,
+     "size": 3,
+     "class": "Civilian",
+     "grade": "A",
+     "perf": "629.3 Mm/s · 0.0496 SCU/Gm",
+     "swappable": null,
+     "stock": true,
+     "tag": "community"
+    },
+    {
+     "type": "Jump Drive",
+     "name": "Exodus",
+     "manufacturer": "Tarsus",
+     "count": 1,
+     "size": 3,
+     "class": "Civilian",
+     "grade": "C",
+     "perf": "عبور نقاط القفز بين الأنظمة",
+     "swappable": null,
+     "stock": true,
+     "tag": "community"
+    },
+    {
+     "type": "Life Support",
+     "name": "Safehab",
+     "manufacturer": "Tyler Design & Tech",
+     "count": 1,
+     "size": 4,
+     "class": null,
+     "grade": "C",
+     "perf": "دعم الحياة",
+     "swappable": null,
+     "stock": true,
+     "tag": "community"
+    },
+    {
+     "type": "Radar",
+     "name": "Polaris Radar (S4)",
+     "manufacturer": "Roberts Space Industries",
+     "count": 1,
+     "size": 4,
+     "class": null,
+     "grade": "A",
+     "perf": "رادار S4",
+     "swappable": null,
+     "stock": true,
+     "tag": "community"
+    },
+    {
+     "type": "Hydrogen Fuel Tank",
+     "name": "Internal Tank",
+     "manufacturer": "Unknown",
+     "count": 1,
+     "size": 1,
+     "class": null,
+     "grade": "A",
+     "perf": "58.8 SCU",
+     "swappable": null,
+     "stock": true,
+     "tag": "community"
+    },
+    {
+     "type": "Quantum Fuel Tank",
+     "name": "Internal Tank",
+     "manufacturer": "Unknown",
+     "count": 1,
+     "size": 1,
+     "class": null,
+     "grade": "A",
+     "perf": "21.6 SCU",
+     "swappable": null,
+     "stock": true,
+     "tag": "community"
+    },
+    {
+     "type": "Tractor Beam",
+     "name": "SureGrip S2 Tractor Beam",
+     "manufacturer": "Greycat Industrial",
+     "count": 1,
+     "size": 2,
+     "class": null,
+     "grade": "A",
+     "perf": "تحميل التوربيدات والبضائع",
+     "swappable": null,
+     "stock": true,
+     "tag": "community"
+    }
+   ],
+   "components_notes": [
+    "قابلية استبدال المكونات الرأسمالية S4 عبر Vehicle Loadout Manager لم تُتحقق لهذا التقرير.",
+    "أُصلح في 4.10.3 اسم ووصف مولد الشيلد S4 الخاص بـPolaris."
+   ],
+   "cargo": {
+    "scu": 576,
+    "max_box": "16 SCU",
+    "rows": [
+     {
+      "k": "شبكات الشحن",
+      "v": "288 SCU + 288 SCU"
+     },
+     {
+      "k": "التخزين الشخصي",
+      "v": "41.6 SCU"
+     },
+     {
+      "k": "حوامل الأسلحة",
+      "v": "9 خزائن · 7 بندقية · 40 مسدس"
+     },
+     {
+      "k": "الأسرّة",
+      "v": 13
+     },
+     {
+      "k": "الحمولة الرسمية",
+      "v": "620 SCU في Ship Matrix",
+      "tag": "official"
+     }
+    ],
+    "hangar": {
+     "rows": [
+      {
+       "k": "أكبر سفينة مصممة للحظيرة",
+       "v": "Aegis Sabre",
+       "tag": "official"
+      },
+      {
+       "k": "السفينة المعارة Loaner",
+       "v": "F7C-M Super Hornet Mk I"
+      },
+      {
+       "k": "خدمات الحظيرة منذ 4.8",
+       "v": "إصلاح وتزويد بالوقود وإعادة تسليح للسفن الهابطة، من موارد مخزنة في شبكة الشحن"
+      }
+     ],
+     "fits": [
+      "Aegis Sabre — الحجم المصمم للحظيرة (رسمي)",
+      "RSI Scorpius — تظهر داخل الحظيرة في الصور الرسمية"
+     ],
+     "note": "دخول سفينة إلى الحظيرة لا يعني أن تشغيلها وتخزينها آمن."
+    },
+    "facilities": [
+     {
+      "k": "الجسر",
+      "v": "خمسة مقاعد: الطيار ومساعده والقبطان ومقعدا أبراج عن بُعد، ومحطة التوربيدات",
+      "state": "works"
+     },
+     {
+      "k": "المستشفى",
+      "v": "Tier 2 بأربعة أسرّة طبية",
+      "state": "works"
+     },
+     {
+      "k": "السجن Brig",
+      "v": "محطة أمن وزنازين",
+      "state": "works"
+     },
+     {
+      "k": "مستودع الأسلحة",
+      "v": "9 خزائن: 7 بنادق و40 مسدسًا",
+      "state": "works"
+     },
+     {
+      "k": "قاعة الطعام",
+      "v": "Crew mess",
+      "state": "works"
+     },
+     {
+      "k": "غرف الطاقم",
+      "v": "غرف أسرّة جماعية، 13 سريرًا",
+      "state": "works"
+     },
+     {
+      "k": "غرفة الهندسة",
+      "v": "إدارة المكونات والإصلاح",
+      "state": "works"
+     },
+     {
+      "k": "غرفة التوربيدات",
+      "v": "مغذيات دوّارة وإعادة تحميل يدوي",
+      "state": "works"
+     },
+     {
+      "k": "منفذا الالتحام",
+      "v": "منفذ كبير على كل جانب",
+      "state": "works"
+     },
+     {
+      "k": "مصعد الشحن",
+      "v": "أُصلح انجراف الأغراض عليه في 4.10.0",
+      "state": "works"
+     },
+     {
+      "k": "غرفة القبطان",
+      "v": "كانت مغلقة عند الإطلاق",
+      "state": "unknown"
+     }
+    ],
+    "medical": {
+     "tier": "T2",
+     "beds": 4
+    },
+    "notes": [
+     "Polaris ليست سفينة معيارية: لا يمكن تبديل غرفها (رسمي)."
+    ]
+   },
+   "pricing": {
+    "pledge": [
+     {
+      "label": "سفينة مستقلة Standalone",
+      "usd": 975,
+      "kind": "standalone",
+      "available": true,
+      "note": "معروضة في متجر RSI عند تاريخ التحقق (إصدار 10 Year)"
+     },
+     {
+      "label": "هدف ترقية CCU",
+      "usd": 975,
+      "kind": "ccu",
+      "available": true,
+      "note": "قيمة الهدف؛ تدفع الفرق عن سفينتك الحالية"
+     },
+     {
+      "label": "Warbond في العروض",
+      "usd": 875,
+      "kind": "warbond",
+      "available": false,
+      "note": "ظهر في عروض سابقة"
+     },
+     {
+      "label": "حزمة 2955 Best in Show",
+      "usd": 1425,
+      "kind": "package",
+      "available": false,
+      "note": "حزمة سابقة"
+     },
+     {
+      "label": "السعر الأصلي عند الطرح 2016",
+      "usd": 750,
+      "kind": "standalone",
+      "available": false,
+      "note": "تاريخي — 625 دولارًا Warbond"
+     }
+    ],
+    "default_option": 0,
+    "availability": "تُباع Polaris في فترات محدودة. عند تاريخ التحقق تظهر في متجر RSI بسعر 975 دولارًا كسفينة مستقلة وكهدف ترقية، ولا يظهر عرض Warbond حاليًا.",
+    "tax_note": "قطر لا تطبق ضريبة القيمة المضافة حتى تاريخ التحقق، لذا السعر بدون ضريبة هو المتوقع لفوترة قطرية. متجر RSI يضيف الضريبة حسب بلد الفوترة.",
+    "ingame": {
+     "buy_auec": null,
+     "available": false,
+     "where": [],
+     "rent": [],
+     "version_note": "UEX وبيانات اللعبة 4.10.3",
+     "note": "لا يوجد سعر شراء أو إيجار للـPolaris في UEX ولا في بيانات اللعبة للإصدار 4.10.3؛ الحصول عليها حاليًا من متجر RSI."
+    },
+    "running": [
+     {
+      "k": "تعبئة خزان الكوانتم كاملًا",
+      "auec": 37476,
+      "note": "السعة 21.6 SCU × متوسط السعر 1,735 aUEC لكل SCU"
+     },
+     {
+      "k": "تعبئة خزان الهيدروجين كاملًا",
+      "auec": 44629,
+      "note": "السعة 58.8 SCU × متوسط السعر 759 aUEC لكل SCU"
+     },
+     {
+      "k": "تعويض VT-T10 \"Veritas\" Torpedo من الصفر",
+      "auec": 861980,
+      "note": "سعر المتجر: 28 × 30,785 aUEC"
+     },
+     {
+      "k": "ذخيرة مدفعي Maris",
+      "auec": null,
+      "v": "تظهر في شاشة Restock",
+      "note": "2,700 طلقة لكل مدفع"
+     },
+     {
+      "k": "تعويض Arrester III Missile من الصفر",
+      "auec": 8800,
+      "note": "سعر المتجر: 16 × 550 aUEC"
+     },
+     {
+      "k": "تعويض Ignite II Missile من الصفر",
+      "auec": 3780,
+      "note": "سعر المتجر: 12 × 315 aUEC"
+     },
+     {
+      "k": "استدعاء سريع Expedite",
+      "auec": 44030,
+      "note": "عند فقدان السفينة"
+     }
+    ],
+    "insurance": {
+     "claim_min": 75.83,
+     "expedite_min": 18.96,
+     "expedite_auec": 44030,
+     "note": "منذ 4.10.0 يتناسب زمن الاستدعاء مع قيمة السفينة، والـExpedite رسوم مريحة بسقف عُشر تكلفة الاستدعاء."
+    },
+    "loaners": [
+     "F7C-M Super Hornet Mk I"
+    ],
+    "notes": [
+     "أسعار الدولار لا تشمل الضريبة، والريال القطري محسوب بسعر الربط 3.64.",
+     "ارتفعت أسعار المقذوفات في 4.10.0."
+    ]
+   },
+   "opinions": {
+    "praised": [
+     "قوة التوربيدات عند العمل كمجموعة: لاعب يذكر أن 3 سفن Polaris بطاقم 3 لكل منها تتغلب على دفاعات Idris (نوفمبر 2024)",
+     "المدفع الأمامي S6 يقتل السفن الأكبر، والأبراج S4 تمزق المقاتلات بأسلحة مناسبة حسب لاعب (مايو 2026)",
+     "الحظيرة تسمح بإطلاق مقاتلة إضافية تكمل نقص السفينة أمام الأسراب (مايو 2026)"
+    ],
+    "criticized": [
+     "التوربيدات تعترضها الـPDC والأبراج بسهولة وتكلفتها مرتفعة (نوفمبر 2024، 25 تصويتًا)",
+     "التجهيز الأصلي غير متوازن: المكررات لا تقتل المقاتلات الثقيلة والمدافع لا تصيب الصغيرة (مايو 2026، 69 تصويتًا)",
+     "طواقم Perseus وTiburon بنصف العدد أنهت المهام أسرع في التجربة نفسها",
+     "الأبراج عن بُعد مملة ومجال رؤيتها محدود حسب منشورات Spectrum"
+    ],
+    "combat": "قوية ضد الأهداف الكبيرة عند إصابة التوربيدات والمدفع الأمامي، وأضعف أمام أسراب المقاتلات بعد تغييرات الشيلد في 2026.",
+    "solo": "غير مناسبة للعب الفردي: الطيار وحده يملك البرج الخلفي السفلي والصواريخ.",
+    "crew": "تحتاج 6 أفراد على الأقل لتشغيل الأبراج، ويوصي لاعبون باستخدامها كمجموعة أو مع مقاتلة في الحظيرة.",
+    "usability": "اشتكى اللاعبون عند الإطلاق من غياب اللافتات داخلها، وأقر المطوّر بذلك في الـQ&A الرسمي.",
+    "bugs": [
+     {
+      "title": "انجراف الأغراض على مصعد الشحن",
+      "status": "أُصلح في 4.10.0",
+      "note": "ملاحظات الإصدار"
+     },
+     {
+      "title": "تعذر Restock للصواريخ والذخيرة من تبويب Landing Services",
+      "status": "أُصلح في 4.10.0 (STARC-210582)",
+      "note": "عام لكل السفن"
+     },
+     {
+      "title": "اسم ووصف خاطئ لمولد الشيلد S4",
+      "status": "أُصلح في 4.10.3",
+      "note": "ملاحظات الإصدار"
+     },
+     {
+      "title": "غرفة القبطان مغلقة",
+      "status": "مغلقة عند الإطلاق",
+      "note": "لم أتحقق من 4.10.3"
+     }
+    ],
+    "satisfaction": {
+     "score": 5,
+     "label": "تقدير من نقاشات Spectrum"
+    },
+    "period": "منشورات Spectrum من نوفمبر 2024 إلى مايو 2026، أي قبل 4.10",
+    "notes": [
+     "رأي لاعب واحد ليس إجماعًا؛ الأرقام بين القوسين عدد التصويتات على المنشور."
+    ]
+   },
+   "rearm": {
+    "delivery_qa": [
+     {
+      "q": "هل تأتي بجميع أسلحتها؟",
+      "a": "yes",
+      "note": "تُسلَّم بالتجهيز الأصلي: خمسة أبراج مأهولة، برجان عن بُعد، سبعة PDC، أربعة أنابيب توربيد، رفّا صواريخ."
+     },
+     {
+      "q": "هل الأسلحة مركبة وجاهزة؟",
+      "a": "yes",
+      "note": "مركبة في أبراجها؛ أسلحة الطاقة جاهزة فورًا."
+     },
+     {
+      "q": "هل تأتي الصواريخ؟",
+      "a": "partial",
+      "note": "16 Arrester III و12 Ignite II ضمن التجهيز الأصلي، ولا تعود مع الاستدعاء بالتأمين (4.8 رسمي)."
+     },
+     {
+      "q": "هل تأتي التوربيدات؟",
+      "a": "partial",
+      "note": "28 Veritas S10 ضمن التجهيز الأصلي، ولا تعود بعد الاستدعاء بالتأمين."
+     },
+     {
+      "q": "هل تأتي القنابل؟",
+      "a": "no",
+      "note": "لا تحمل Polaris قنابل."
+     },
+     {
+      "q": "هل الذخيرة الباليستية ممتلئة عند الاستلام؟",
+      "a": "partial",
+      "note": "مدفعا Maris يحملان 2,700 طلقة لكل منهما في التجهيز الأصلي؛ الذخيرة لا تعود مع الاستدعاء بالتأمين."
+     },
+     {
+      "q": "هل القواذف موجودة والمقذوفات غائبة؟",
+      "a": "partial",
+      "note": "نعم بعد الاستدعاء بالتأمين: القواذف موجودة والمقذوفات تحتاج Restock."
+     },
+     {
+      "q": "هل أحتاج شراء الصواريخ أو التوربيدات منفصلة؟",
+      "a": "partial",
+      "note": "لا في الاستلام الأول عادة؛ نعم بعد الاستخدام أو بعد كل استدعاء."
+     },
+     {
+      "q": "هل تصلح للقتال فور الاستلام؟",
+      "a": "yes",
+      "note": "بأسلحة الطاقة نعم؛ افحص عدد التوربيدات والصواريخ وذخيرة Maris قبل المهمة."
+     },
+     {
+      "q": "هل يوجد مخزون احتياطي؟",
+      "a": "no",
+      "note": "لا يوجد مخزن احتياطي مدمج؛ الاحتياطي ما تخزنه بنفسك في شبكة الشحن للتحميل اليدوي."
+     }
+    ],
+    "delivery_table": [
+     {
+      "name": "VT-T10 \"Veritas\" Torpedo",
+      "size": 10,
+      "included": 28,
+      "loaded": 28,
+      "max": 28,
+      "reserve": 0,
+      "to_buy": 0
+     },
+     {
+      "name": "Arrester III Missile",
+      "size": 3,
+      "included": 16,
+      "loaded": 16,
+      "max": 16,
+      "reserve": 0,
+      "to_buy": 0
+     },
+     {
+      "name": "Ignite II Missile",
+      "size": 2,
+      "included": 12,
+      "loaded": 12,
+      "max": 12,
+      "reserve": 0,
+      "to_buy": 0
+     }
+    ],
+    "cases": [
+     {
+      "case": "الاستلام الأول بعد الشراء من RSI",
+      "result": "تُسلَّم بالتجهيز الأصلي للمصنع؛ بيانات اللعبة تتضمن 28 توربيدًا و28 صاروخًا محمّلة. افحص العدد قبل الإقلاع."
+     },
+     {
+      "case": "الاستلام الأول بعد الشراء داخل اللعبة",
+      "result": "غير منطبق: لا تُباع Polaris بعملة aUEC في 4.10.3."
+     },
+     {
+      "case": "الاستدعاء بعد الفقدان عبر التأمين Claim",
+      "result": "رسميًا منذ 4.8 لا تعود الذخيرة والصواريخ مع Insured loadout claim، ويذكر لاعبون أن Manufacturer claim لا يعيدها أيضًا. نفّذ Restock بعد كل استدعاء."
+     },
+     {
+      "case": "إعادة التعبئة بعد الاستخدام",
+      "result": "Restock من خدمات الهبوط في موقع يخدم حجمها، أو يدويًا بالـTractor Beam من مخزون على متنها."
+     },
+     {
+      "case": "تركيب أسلحة أو صواريخ مختلفة عن التجهيز الأصلي",
+      "result": "عبر Vehicle Loadout Manager، ثم احفظ لقطة التجهيز في ASOP؛ اللقطة لا تشمل الذخيرة والصواريخ."
+     }
+    ],
+    "check_steps": [
+     "استدعِ السفينة من ASOP واطلب حظيرة XL أو منفذ التحام.",
+     "اصعد بالمصعد أو منحدر الشحن واتجه إلى الجسر.",
+     "اجلس في مقعد الطيار وشغّل الطاقة.",
+     "افتح شاشة الأسلحة في الـMFD واقرأ عدد صواريخ Arrester III.",
+     "انتقل إلى محطة التوربيدات وادخل كاميرا التوجيه لترى عدد التوربيدات في الأنابيب والمغذيات.",
+     "من مقعد الأبراج الأيسر في الجسر تحقق من صواريخ Ignite II في البرج الخلفي العلوي.",
+     "في البرج الأمامي تحقق من عداد ذخيرة مدفعي Maris (2,700 لكل مدفع عند الامتلاء).",
+     "علامة الجاهزية: العدد يساوي السعة القصوى. علامة الحاجة للتعبئة: أصفار أو عدد ناقص."
+    ],
+    "auto": {
+     "best": [
+      "أي مدينة أو محطة تقبل حظيرة XL أو التحامًا مع خدمات هبوط",
+      "Seraphim Station وأماكن TDD ومكاتب الإدارة في المحطات الكبرى تبيع مواد خدمات السفن منذ 4.8 (رسمي)",
+      "CenterMass في New Babbage وArea18 يبيع توربيد Veritas بـ30,785 aUEC"
+     ],
+     "steps": [
+      {
+       "title": "اختر الموقع",
+       "text": "مدينة أو محطة تقبل حجم S6/XL."
+      },
+      {
+       "title": "حظيرة أم التحام",
+       "text": "اهبط في حظيرة XL أو التحم بمنفذ المحطة عبر أحد المنفذين الجانبيين."
+      },
+      {
+       "title": "اطلب الإذن",
+       "text": "اطلب الهبوط أو الالتحام من ATC؛ يرفض الطلب إن لم تتوفر حظيرة بحجمها."
+      },
+      {
+       "title": "مكان الإيقاف",
+       "text": "اهبط في الحظيرة المخصصة أو أكمل الالتحام حتى يظهر التأكيد."
+      },
+      {
+       "title": "المحركات",
+       "text": "لم أجد شرطًا رسميًا لإطفاء المحركات؛ الشرط الرسمي البقاء جالسًا في السفينة."
+      },
+      {
+       "title": "ابقَ في السفينة",
+       "text": "ابقَ جالسًا في مقعدك أثناء الطلب."
+      },
+      {
+       "title": "افتح الخدمات",
+       "text": "افتح mobiGlas ثم تطبيق Vehicle Maintenance Services، وهو نفس الواجهة في المحطات والمدن."
+      },
+      {
+       "title": "تبويب الهبوط",
+       "text": "ادخل تبويب Landing Services (أُصلح فيه خلل الـRestock في 4.10.0)."
+      },
+      {
+       "title": "خيار Restock",
+       "text": "اختر Restock لملء الصواريخ والتوربيدات والذخيرة والإجراءات المضادة."
+      },
+      {
+       "title": "حدد ما تريد",
+       "text": "اختر العناصر الناقصة. اختيار Repair يمنع بقية الخدمات حتى ينتهي."
+      },
+      {
+       "title": "اطّلع على التكلفة",
+       "text": "تظهر التكلفة بالـaUEC قبل التأكيد؛ أسعار المقذوفات ارتفعت في 4.10.0."
+      },
+      {
+       "title": "الدفع",
+       "text": "يُدفع المبلغ عند تأكيد الطلب في نفس الواجهة."
+      },
+      {
+       "title": "انتظر الاكتمال",
+       "text": "راقب التقدم حتى تكتمل الخدمة."
+      },
+      {
+       "title": "تحقق من العدد",
+       "text": "افحص 28 توربيدًا و16 + 12 صاروخًا وذخيرة Maris."
+      },
+      {
+       "title": "المغادرة",
+       "text": "اطلب الإقلاع من ATC وغادر مباشرة."
+      }
+     ],
+     "notes": [
+      "الـRestock يوفر المقذوفات مقابل الدفع مباشرة؛ لا يلزم شراؤها من متجر أولًا.",
+      "لم أتأكد أن كل محطة تقدم Restock للتوربيدات S10؛ إن لم يظهر الخيار جرّب موقعًا آخر أو التحميل اليدوي.",
+      "أسماء القوائم من ملاحظات الإصدارات 4.8 و4.10.0، وقد تختلف قليلًا في الواجهة."
+     ]
+    },
+    "purchase": {
+     "items": [
+      {
+       "name": "VT-T10 \"Veritas\" Torpedo",
+       "size": 10,
+       "type": "torpedo",
+       "unit_auec": 30785,
+       "qty": 28,
+       "shop": "CenterMass - New Babbage",
+       "location": "New Babbage"
+      },
+      {
+       "name": "Arrester III Missile",
+       "size": 3,
+       "type": "missile",
+       "unit_auec": 550,
+       "qty": 16,
+       "shop": "Ship Weapons - HUR-L4",
+       "location": "HUR-L4 Melodic Fields Station"
+      },
+      {
+       "name": "Ignite II Missile",
+       "size": 2,
+       "type": "missile",
+       "unit_auec": 315,
+       "qty": 12,
+       "shop": "Ship Weapons - HUR-L3",
+       "location": "HUR-L3 Thundering Express Station"
+      }
+     ],
+     "steps": [
+      "اذهب إلى CenterMass في New Babbage أو Area18 للتوربيدات، أو متاجر Ship Weapons في محطات Lagrange للصواريخ.",
+      "اختر المقذوف من الكشك وحدد الكمية ثم اشترِ.",
+      "تنتقل المشتريات إلى مخزون الموقع Local Inventory.",
+      "استدعِ السفينة إلى الحظيرة في نفس الموقع.",
+      "انقل المقذوفات إلى شبكة الشحن عبر مصعد الشحن Freight Elevator، أو ركّبها عبر Vehicle Loadout Manager.",
+      "للتحميل اليدوي: احملها بالـTractor Beam إلى غرفة التوربيدات وضعها في المغذّي؛ منذ 4.9 يظهر إطار المقذوف عند وضعه."
+     ],
+     "diff": [
+      {
+       "k": "شراء السلاح",
+       "v": "شراء مدفع بديل من متجر أسلحة السفن ثم تركيبه في Vehicle Loadout Manager (CF-337 وOmnisky قابلان للتغيير، وMaris خاص بالسفينة)."
+      },
+      {
+       "k": "شراء الذخيرة",
+       "v": "Restock في خدمات الهبوط يملأ الذخيرة الباليستية والصواريخ والتوربيدات مقابل aUEC."
+      },
+      {
+       "k": "تركيب المقذوف",
+       "v": "وضع صاروخ أو توربيد اشتريته في رفه، عبر Vehicle Loadout Manager أو يدويًا بالـTractor Beam."
+      },
+      {
+       "k": "تعبئة السلاح",
+       "v": "أسلحة الليزر لا تحتاج تعبئة؛ تشحن من مكثف السفينة تلقائيًا."
+      }
+     ]
+    },
+    "install_steps": [
+     "اشترِ المقذوف المتوافق: توربيد S10 أو صاروخ بالحجم الصحيح.",
+     "تأكد أنه في مخزون الموقع نفسه الذي فيه السفينة.",
+     "افتح Vehicle Loadout Manager من الكشك أو mobiGlas.",
+     "اختر Polaris.",
+     "ادخل قسم الصواريخ.",
+     "اختر الحامل: رفوف التوربيد ثابتة، وفتحات التوربيد داخلها قابلة للتغيير في بيانات اللعبة.",
+     "اختر المقذوف من المخزون لكل فتحة.",
+     "كرر حتى العدد المطلوب ثم احفظ التغييرات.",
+     "استدعِ السفينة مجددًا إن طُلب ذلك.",
+     "احفظ لقطة التجهيز Snapshot في ASOP وتحقق من العدد (اللقطة لا تشمل الذخيرة والصواريخ)."
+    ],
+    "manual": {
+     "supported": "yes",
+     "steps": [
+      "خزّن توربيدات إضافية على متن السفينة في شبكة الشحن.",
+      "استخدم Multi-Tool بملحق Tractor Beam، أو SureGrip المركب في السفينة.",
+      "انقل التوربيد إلى غرفة التوربيدات قرب مخزن الشحن.",
+      "ضعه في المغذّي الدوّار للأنبوب الفارغ حتى يثبت.",
+      "يمر التوربيد عبر المصعد ويدور إلى موضعه في الأنبوب، ويمكن رؤية ذلك من نوافذ الأنابيب.",
+      "تأكد من عداد الأنبوب في محطة التوربيدات قبل الإطلاق."
+     ],
+     "notes": [
+      "رسمي: بعد إطلاق كل التوربيدات يمكن إعادة تحميلها يدويًا بالـTractor Beam إذا كانت هناك ذخيرة إضافية على متن السفينة.",
+      "ينفذها لاعب واحد، لكن أثناء القتال يُفضّل فرد مخصص.",
+      "لا توجد آلية يدوية لإعادة ملء صواريخ Arrester وIgnite؛ تُملأ بالخدمات."
+     ]
+    },
+    "final_table": [
+     {
+      "weapon": "CF-337 Panther Repeater (12 + 4)",
+      "comes": "yes",
+      "buy": "no",
+      "refill": "no",
+      "max": "طاقة",
+      "method": "يشحن من المكثف تلقائيًا",
+      "cost": "لا شيء"
+     },
+     {
+      "weapon": "Omnisky XII Cannon (8)",
+      "comes": "yes",
+      "buy": "no",
+      "refill": "no",
+      "max": "طاقة",
+      "method": "يشحن من المكثف تلقائيًا",
+      "cost": "لا شيء"
+     },
+     {
+      "weapon": "Maris Cannon S6 (2)",
+      "comes": "yes",
+      "buy": "no",
+      "refill": "yes",
+      "max": "2,700 لكل مدفع",
+      "method": "Restock في خدمات الهبوط",
+      "cost": "تظهر في شاشة الخدمة"
+     },
+     {
+      "weapon": "M2C Swarm PDC (7)",
+      "comes": "yes",
+      "buy": "no",
+      "refill": "no",
+      "max": "طاقة",
+      "method": "آلي من المكثف",
+      "cost": "لا شيء"
+     },
+     {
+      "weapon": "VT-T10 Veritas Torpedo S10",
+      "comes": "partial",
+      "buy": "partial",
+      "refill": "yes",
+      "max": "28 (4 × 7)",
+      "method": "Restock أو يدويًا بالـTractor Beam",
+      "cost": "30,785 aUEC للقطعة · 861,980 من الصفر"
+     },
+     {
+      "weapon": "Arrester III Missile S3",
+      "comes": "partial",
+      "buy": "partial",
+      "refill": "yes",
+      "max": "16 (2 × 8)",
+      "method": "Restock في خدمات الهبوط",
+      "cost": "550 aUEC للقطعة · 8,800 من الصفر"
+     },
+     {
+      "weapon": "Ignite II Missile S2",
+      "comes": "partial",
+      "buy": "partial",
+      "refill": "yes",
+      "max": "12",
+      "method": "Restock في خدمات الهبوط",
+      "cost": "315 aUEC للقطعة · 3,780 من الصفر"
+     }
+    ],
+    "troubleshooting": [
+     {
+      "problem": "خيار Restock لا يظهر أو العدد بقي صفرًا",
+      "fix": "تأكد أنك جالس في السفينة وأن الموقع يقدم خدمات الهبوط لحجمها، ثم أعد فتح Vehicle Maintenance Services. خلل Landing Services أُصلح في 4.10.0؛ إن ظهر مجددًا جرّب موقعًا آخر."
+     },
+     {
+      "problem": "رفض ATC طلب الهبوط",
+      "fix": "Polaris تحتاج حظيرة XL؛ اختر موقعًا آخر أو استخدم منفذ الالتحام."
+     },
+     {
+      "problem": "التوربيدات لا تعود بعد الاستدعاء",
+      "fix": "سلوك متوقع منذ 4.8: الذخيرة والصواريخ لا تعود مع الاستدعاء. نفّذ Restock أو حمّلها يدويًا."
+     },
+     {
+      "problem": "اختيار Repair منع الخدمات الأخرى",
+      "fix": "انتظر انتهاء الإصلاح ثم اطلب Restock؛ هذا سلوك مقصود في 4.10.0."
+     },
+     {
+      "problem": "التوربيد لا يثبت في المغذّي يدويًا",
+      "fix": "قرّبه بالـTractor Beam حتى يظهر إطار المقذوف ثم ثبّته؛ تأكد أن الأنبوب فارغ وأن التوربيد بالحجم S10."
+     }
+    ],
+    "best_way": [
+     {
+      "q": "أفضل طريقة للتعبئة؟",
+      "a": "Restock في خدمات الهبوط بعد كل مهمة أو استدعاء."
+     },
+     {
+      "q": "أسرع طريقة؟",
+      "a": "التحميل اليدوي من مخزون على متنها أثناء المهمة، دون الرجوع للمحطة."
+     },
+     {
+      "q": "الأقل تكلفة؟",
+      "a": "لم أجد مقارنة مؤكدة بين سعر الـRestock وسعر المتجر؛ سعر المتجر 30,785 aUEC للتوربيد."
+     },
+     {
+      "q": "هل أشتري الذخيرة مسبقًا؟",
+      "a": "نعم إن كنت ستقاتل بعيدًا: خزّن توربيدات في شبكة الشحن للتحميل اليدوي."
+     },
+     {
+      "q": "هل يكفي Rearm؟",
+      "a": "نعم لملء كل المقذوفات والذخيرة في موقع يخدم حجمها."
+     },
+     {
+      "q": "هل أستطيع وحدي؟",
+      "a": "التعبئة نعم؛ القتال الفعّال لا، لأن معظم الضرر في الأبراج المأهولة."
+     },
+     {
+      "q": "هل هي جاهزة للقتال مباشرة بعد الشراء؟",
+      "a": "نعم بالتجهيز الأصلي؛ افحص المقذوفات أولًا."
+     },
+     {
+      "q": "ما أول شيء أفعله؟",
+      "a": "افحص العدادات، ثم احفظ لقطة التجهيز في ASOP، وجهّز توربيدات احتياطية في الشحن."
+     }
+    ]
+   },
+   "summary": {
+    "verdict": "Polaris سفينة طاقم بامتياز: ضربتها بالتوربيدات والمدفع الأمامي قوية ضد الأهداف الكبيرة، لكنها ضعيفة في اللعب الفردي وتعتمد على إصابة التوربيدات وتنسيق ستة أفراد على الأقل.",
+    "score": 7.5,
+    "readiness": "جاهزة بالتجهيز الأصلي",
+    "pros": [
+     "28 توربيدًا S10 ومدفع أمامي S6",
+     "شيلد ودروع قوية مع PDC آلي",
+     "حظيرة لمقاتلة وخدمات تزويد وإصلاح",
+     "مرافق كاملة لطاقم من 12"
+    ],
+    "cons": [
+     "ضعيفة للاعب الواحد",
+     "التوربيدات تُعترض بسهولة حسب اللاعبين",
+     "تعويض المقذوفات مكلف ولا يعود مع الاستدعاء",
+     "غير متاحة بعملة اللعبة"
+    ],
+    "best_uses": [
+     "ضرب السفن الكبيرة ضمن مجموعة",
+     "قيادة عمليات الطاقم",
+     "دعم مقاتلة في الحظيرة"
+    ],
+    "for_whom": "لمجموعة منظمة من 6 إلى 12 لاعبًا تريد سفينة قتال رأسمالية بقدرات قيادة ودعم، وليست لمن يلعب منفردًا.",
+    "extras": [
+     "توربيدات احتياطية في شبكة الشحن",
+     "Multi-Tool بملحق Tractor Beam",
+     "مقاتلة صغيرة للحظيرة (Sabre أو أصغر)"
+    ],
+    "key_costs": [
+     "تعويض 28 توربيدًا: 861,980 aUEC",
+     "تعبئة الكوانتم كاملًا: 37,476 aUEC",
+     "تعبئة الهيدروجين كاملًا: 44,629 aUEC",
+     "Expedite عند الفقدان: 44,030 aUEC"
+    ]
+   },
+   "unverified": [
+    "أن التسليم الأول في 4.10.3 يأتي بالمقذوفات ممتلئة فعليًا (بيانات اللعبة تتضمنها؛ لم أجد اختبارًا موثقًا).",
+    "ربط رفوف Arrester III بمقعد الطيار بالتحديد.",
+    "عدد الرشقة الفعلي للتوربيدات في واجهة 4.10.3 (افترضت 4 بعدد الأنابيب).",
+    "تأخير تجدد الشيلد بعد الضرر للإصدار الحالي.",
+    "توفر Restock للتوربيدات S10 في كل محطة، وسعر خدمة الـRestock مقارنة بسعر المتجر.",
+    "فتح غرفة القبطان في 4.10.3.",
+    "قابلية استبدال المكونات الرأسمالية S4."
+   ]
+  }
+ ]
+}
