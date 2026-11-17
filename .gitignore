@@ -1,7 +1,3 @@
 build/
 __pycache__/
 .DS_Store
-
-# marsad-ships report work files
-marsad-ships-work/
-.image-cache/
