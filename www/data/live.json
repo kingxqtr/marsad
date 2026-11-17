@@ -1,6 +1,26 @@
 {
- "updatedAt": "2026-11-17T03:56:38+00:00",
+ "updatedAt": "2026-11-17T10:48:18+00:00",
  "items": [
+  {
+   "id": "auto-c0cf430d04b4",
+   "tab": "ai",
+   "date": "2026-11-17",
+   "publishedAt": "2026-11-17T00:00:00+00:00",
+   "type": "product",
+   "importance": 1,
+   "sourceType": "official",
+   "sourceName": "OpenAI News",
+   "url": "https://openai.com/index/strengthening-nato-allied-cyber-defences-ai",
+   "originalTitle": "Strengthening NATO and allied cyber defenses with AI",
+   "en": {
+    "title": "Strengthening NATO and allied cyber defenses with AI",
+    "summary": "How OpenAI is working with NATO and allied cyber agencies to help trusted defenders find vulnerabilities, test fixes and protect essential systems.",
+    "details": "How OpenAI is working with NATO and allied cyber agencies to help trusted defenders find vulnerabilities, test fixes and protect essential systems."
+   },
+   "translated": false,
+   "fetchedAt": "2026-11-17T10:48:13+00:00",
+   "company": "OpenAI"
+  },
   {
    "id": "auto-fc7589f7e98b",
    "tab": "ai",
@@ -550,8 +570,8 @@
    "originalTitle": "Qwen4-Max",
    "en": {
     "title": "Qwen4-Max",
-    "summary": "Community discussion on Hacker News (854 points, 472 comments).",
-    "details": "Community discussion on Hacker News (854 points, 472 comments)."
+    "summary": "Community discussion on Hacker News (863 points, 477 comments).",
+    "details": "Community discussion on Hacker News (863 points, 477 comments)."
    },
    "translated": false,
    "fetchedAt": "2026-11-16T11:32:15+00:00"
@@ -687,8 +707,8 @@
    "originalTitle": "All AI-generated code should be Open Source",
    "en": {
     "title": "All AI-generated code should be Open Source",
-    "summary": "Community discussion on Hacker News (1267 points, 656 comments).",
-    "details": "Community discussion on Hacker News (1267 points, 656 comments)."
+    "summary": "Community discussion on Hacker News (1272 points, 660 comments).",
+    "details": "Community discussion on Hacker News (1272 points, 660 comments)."
    },
    "translated": false,
    "fetchedAt": "2026-11-15T19:54:59+00:00"
@@ -763,8 +783,8 @@
    "originalTitle": "Unsloth Qwen3.8-27B Quantizations – Dynamic v3.1 Update",
    "en": {
     "title": "Unsloth Qwen3.8-27B Quantizations – Dynamic v3.1 Update",
-    "summary": "Community discussion on Hacker News (259 points, 85 comments).",
-    "details": "Community discussion on Hacker News (259 points, 85 comments)."
+    "summary": "Community discussion on Hacker News (260 points, 85 comments).",
+    "details": "Community discussion on Hacker News (260 points, 85 comments)."
    },
    "translated": false,
    "fetchedAt": "2026-11-15T14:29:08+00:00"
@@ -896,8 +916,8 @@
    "originalTitle": "Jonathan Blow – If AI solved coding, why is my software still the same? [video]",
    "en": {
     "title": "Jonathan Blow – If AI solved coding, why is my software still the same? [video]",
-    "summary": "Community discussion on Hacker News (489 points, 732 comments).",
-    "details": "Community discussion on Hacker News (489 points, 732 comments)."
+    "summary": "Community discussion on Hacker News (492 points, 739 comments).",
+    "details": "Community discussion on Hacker News (492 points, 739 comments)."
    },
    "translated": false,
    "fetchedAt": "2026-11-14T09:44:35+00:00"
@@ -915,8 +935,8 @@
    "originalTitle": "AI unlocks Gödel's notebooks, said to contain hundreds of proved theorems",
    "en": {
     "title": "AI unlocks Gödel's notebooks, said to contain hundreds of proved theorems",
-    "summary": "Community discussion on Hacker News (442 points, 111 comments).",
-    "details": "Community discussion on Hacker News (442 points, 111 comments)."
+    "summary": "Community discussion on Hacker News (443 points, 111 comments).",
+    "details": "Community discussion on Hacker News (443 points, 111 comments)."
    },
    "translated": false,
    "fetchedAt": "2026-11-13T22:52:13+00:00"
