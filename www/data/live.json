@@ -1,6 +1,83 @@
 {
- "updatedAt": "2026-11-18T03:00:13+00:00",
+ "updatedAt": "2026-11-18T11:27:40+00:00",
  "items": [
+  {
+   "id": "auto-737c7e3e9edb",
+   "tab": "ai",
+   "date": "2026-11-18",
+   "publishedAt": "2026-11-18T06:47:26+00:00",
+   "type": "product",
+   "importance": 1,
+   "sourceType": "community",
+   "sourceName": "Hacker News",
+   "url": "https://news.ycombinator.com/item?id=50542705",
+   "originalTitle": "AI is killing All About Berlin",
+   "en": {
+    "title": "AI is killing All About Berlin",
+    "summary": "Community discussion on Hacker News (375 points, 346 comments).",
+    "details": "Community discussion on Hacker News (375 points, 346 comments)."
+   },
+   "translated": false,
+   "fetchedAt": "2026-11-18T11:27:36+00:00"
+  },
+  {
+   "id": "auto-82eb4e2dd959",
+   "tab": "ai",
+   "date": "2026-11-18",
+   "publishedAt": "2026-11-18T00:17:58+00:00",
+   "type": "product",
+   "importance": 1,
+   "sourceType": "community",
+   "sourceName": "Hacker News",
+   "url": "https://news.ycombinator.com/item?id=50540178",
+   "originalTitle": "Google's AI answers reducing search traffic by 40%",
+   "en": {
+    "title": "Google's AI answers reducing search traffic by 40%",
+    "summary": "Community discussion on Hacker News (425 points, 311 comments).",
+    "details": "Community discussion on Hacker News (425 points, 311 comments)."
+   },
+   "translated": false,
+   "fetchedAt": "2026-11-18T11:27:36+00:00"
+  },
+  {
+   "id": "auto-47fcddaa7a94",
+   "tab": "once-human",
+   "date": "2026-11-18",
+   "publishedAt": "2026-11-18T08:55:23+00:00",
+   "type": "update",
+   "importance": 1,
+   "sourceType": "official",
+   "sourceName": "Once Human — Steam News",
+   "url": "https://store.steampowered.com/news/app/2139460/view/1849827110423343",
+   "originalTitle": "Version 3.2.1 Update Announcement (November 18)",
+   "en": {
+    "title": "Version 3.2.1 Update Announcement (November 18)",
+    "summary": "Dear Metas, We will perform server maintenance and an update on November 18, 2026, 3:00 PM (PT). Due to data center relocation, the maintenance is expected to last 3.5 hours for South America regions, and 2 hours for other regions.",
+    "details": "Dear Metas,\n\nWe will perform server maintenance and an update on November 18, 2026, 3:00 PM (PT). Due to data center relocation, the maintenance is expected to last 3.5 hours for South America regions, and 2 hours for other regions. Please manage your time wisely.\n\nThis update introduces Visional Wheel S5: Dissonant Resonance, combat balance adjustments, the limited-time Lightforge Legacy redemption event, Shop returns.\n\nThe update size is approximately 3.21 GB on PC launchers, 214 MB on the PC client (NOTE: If the update is delayed on Steam, it may be downloaded more than once), 600 MB on Android, and 615 MB on iOS (actual size may differ). We recommend downloading the update over Wi-Fi.\n\nAfter this maintenance, all players will receive the following rewards: Starchrom ×1,000, Mitsuko's Mark ×100, Stardust Secret Crate: S15 (Epic) ×1, and Colorful Badge ×30!\n\nThe next update is scheduled for December 2, 2026, at 3:00 PM (PT). Please take note of the time, Metas.\n\nBelow are the details of this update:\n\nContent/Feature Updates\n\nVisional Wheel S5: Dissonant Resonance Has Descended\n\nDeep in the Nova, a colossal face gazes down upon the earth. A strange frequency drifts through the ruins, weaving joy, fury, sorrow, and fear into a single symphony. It is not a blessing for this world, but the final movement of destruction that the new Great One, \"The Echo\", seeks to compose. …"
+   },
+   "translated": false,
+   "fetchedAt": "2026-11-18T11:27:36+00:00"
+  },
+  {
+   "id": "auto-943092080611",
+   "tab": "ai",
+   "date": "2026-11-18",
+   "publishedAt": "2026-11-18T00:00:00+00:00",
+   "type": "product",
+   "importance": 1,
+   "sourceType": "official",
+   "sourceName": "OpenAI News",
+   "url": "https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership",
+   "originalTitle": "Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT",
+   "en": {
+    "title": "Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT",
+    "summary": "Le Groupe Figaro and OpenAI partner to bring Le Figaro’s journalism to ChatGPT through summaries and excerpts, with links to original stories.",
+    "details": "Le Groupe Figaro and OpenAI partner to bring Le Figaro’s journalism to ChatGPT through summaries and excerpts, with links to original stories."
+   },
+   "translated": false,
+   "fetchedAt": "2026-11-18T11:27:35+00:00",
+   "company": "OpenAI"
+  },
   {
    "id": "auto-17ce0a7e9d0c",
    "tab": "ai",
@@ -255,7 +332,7 @@
    "en": {
     "title": "Muse Is Now Available in Australia: The World’s First Personal AI Agent Built for Everyone",
     "summary": "Takeaways Muse is a personal AI agent. It doesn’t just answer questions, it actually does the work. It helps people stay on top of things, takes tasks and projects off their plate, and turns long-term goals into action plans.",
-    "details": "Takeaways\n\n- Muse is a personal AI agent. It doesn’t just answer questions, it actually does the work. It helps people stay on top of things, takes tasks and projects off their plate, and turns long-term goals into action plans.\n\n- Muse is available in Australia from today, with local connector experiences across creativity, shopping, property, fitness and entertainment rolling out progressively.\n\n- Meta built Muse from the ground up to be a safe, secure, private, and widely available personal AI agent.\n\n- Each person stays in control of their Muse and decides how much access it gets.\n\nFollowing our global announcement of Muse , we are excited to share that Muse is now available in Australia.\n\nWhat Muse can do in Australia\n\nConnectors are a big reason Muse can do so much. People in Australia can connect their Muse to apps and services they already use, such as Gmail, Google Calendar, Instagram and OpenTable, so it can help them manage emails, coordinate schedules, draw on saved content and make a restaurant reservation—all part of getting everyday tasks done.\n\nEarly local connector partners in Australia include Canva, Domain, Kogan, MECCA, Officeworks, realestate.com.au, SWEAT, ShopBack, and Ticketek. Connector features will roll out progressively, with some experiences becoming available after launch. Canva, the global all-in-one visual communication platform that empowers anyone to design, is also available as a connector for Muse users around the world. …"
+    "details": "Takeaways\n\n- Muse is a personal AI agent. It doesn’t just answer questions, it actually does the work. It helps people stay on top of things, takes tasks and projects off their plate, and turns long-term goals into action plans.\n\n- Muse is available in Australia from today, with local connector experiences across creativity, shopping, property, fitness and entertainment rolling out progressively.\n\n- Meta built Muse from the ground up to be a safe, secure, private, and widely available personal AI agent.\n\n- Each person stays in control of their Muse and decides how much access it gets.\n\nFollowing our global announcement of Muse , we are excited to share that Muse is now available in Australia.\n\nhttps://about.fb.com/wp-content/uploads/2026/11/Muse-Sizzle-16x9-1.mp4\n\nWhat Muse can do in Australia\n\nConnectors are a big reason Muse can do so much. People in Australia can connect their Muse to apps and services they already use, such as Gmail, Google Calendar, Instagram and OpenTable, so it can help them manage emails, coordinate schedules, draw on saved content and make a restaurant reservation—all part of getting everyday tasks done. …"
    },
    "translated": false,
    "fetchedAt": "2026-11-17T21:23:41+00:00",
@@ -908,8 +985,8 @@
    "originalTitle": "Qwen4-Max",
    "en": {
     "title": "Qwen4-Max",
-    "summary": "Community discussion on Hacker News (875 points, 483 comments).",
-    "details": "Community discussion on Hacker News (875 points, 483 comments)."
+    "summary": "Community discussion on Hacker News (877 points, 484 comments).",
+    "details": "Community discussion on Hacker News (877 points, 484 comments)."
    },
    "translated": false,
    "fetchedAt": "2026-11-16T11:32:15+00:00"
@@ -1045,8 +1122,8 @@
    "originalTitle": "All AI-generated code should be Open Source",
    "en": {
     "title": "All AI-generated code should be Open Source",
-    "summary": "Community discussion on Hacker News (1279 points, 669 comments).",
-    "details": "Community discussion on Hacker News (1279 points, 669 comments)."
+    "summary": "Community discussion on Hacker News (1280 points, 669 comments).",
+    "details": "Community discussion on Hacker News (1280 points, 669 comments)."
    },
    "translated": false,
    "fetchedAt": "2026-11-15T19:54:59+00:00"
@@ -1121,8 +1198,8 @@
    "originalTitle": "Unsloth Qwen3.8-27B Quantizations – Dynamic v3.1 Update",
    "en": {
     "title": "Unsloth Qwen3.8-27B Quantizations – Dynamic v3.1 Update",
-    "summary": "Community discussion on Hacker News (261 points, 85 comments).",
-    "details": "Community discussion on Hacker News (261 points, 85 comments)."
+    "summary": "Community discussion on Hacker News (261 points, 86 comments).",
+    "details": "Community discussion on Hacker News (261 points, 86 comments)."
    },
    "translated": false,
    "fetchedAt": "2026-11-15T14:29:08+00:00"
