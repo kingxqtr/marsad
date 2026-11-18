@@ -1,6 +1,301 @@
 {
- "updatedAt": "2026-11-18T11:27:40+00:00",
+ "updatedAt": "2026-11-18T19:30:08+00:00",
  "items": [
+  {
+   "id": "auto-7f72d3fffdb7",
+   "tab": "ai",
+   "date": "2026-11-18",
+   "publishedAt": "2026-11-18T16:08:24+00:00",
+   "type": "model",
+   "importance": 1,
+   "sourceType": "community",
+   "sourceName": "Hacker News",
+   "url": "https://news.ycombinator.com/item?id=50548021",
+   "originalTitle": "Seven new models at scalable price-performance",
+   "en": {
+    "title": "Seven new models at scalable price-performance",
+    "summary": "Community discussion on Hacker News (267 points, 169 comments).",
+    "details": "Community discussion on Hacker News (267 points, 169 comments)."
+   },
+   "translated": false,
+   "fetchedAt": "2026-11-18T19:30:04+00:00"
+  },
+  {
+   "id": "auto-aef2139e6226",
+   "tab": "ai",
+   "date": "2026-11-18",
+   "publishedAt": "2026-11-18T17:00:00+00:00",
+   "type": "media",
+   "importance": 1,
+   "sourceType": "official",
+   "sourceName": "Google Blog — AI",
+   "url": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-lower-memory-devices/",
+   "originalTitle": "The Gemini app is now available on lower-memory Android devices.",
+   "en": {
+    "title": "The Gemini app is now available on lower-memory Android devices.",
+    "summary": "The Google Gemini app now supports lower-memory Android devices. Access Gemini Live and custom image creation on your phone. Download the app today.",
+    "details": "The Google Gemini app now supports lower-memory Android devices. Access Gemini Live and custom image creation on your phone. Download the app today."
+   },
+   "translated": false,
+   "fetchedAt": "2026-11-18T19:30:03+00:00",
+   "company": "Google"
+  },
+  {
+   "id": "auto-9b89ce392fda",
+   "tab": "ai",
+   "date": "2026-11-18",
+   "publishedAt": "2026-11-18T16:00:13+00:00",
+   "type": "coding",
+   "importance": 1,
+   "sourceType": "official",
+   "sourceName": "GitHub Changelog",
+   "url": "https://github.blog/changelog/2026-11-18-customize-github-copilot-for-your-team",
+   "originalTitle": "Customize GitHub Copilot for your team",
+   "en": {
+    "title": "Customize GitHub Copilot for your team",
+    "summary": "You can now share the GitHub Copilot plugins your team relies on without asking every member to repeat the same setup. Team customizations are generally available for organization teams.",
+    "details": "You can now share the GitHub Copilot plugins your team relies on without asking every member to repeat the same setup. Team customizations are generally available for organization teams.\n\nTeam maintainers and organization owners can select approved Agent Plugins as team defaults. This gives your team a shared starting point between individual customization and organization-wide policy.\n\nSet up plugins for a team\n\nIf you’re a team maintainer or organization owner, open your organization team on github.com and select the Customize Copilot tab. From there, you can:\n\n- Browse plugins from the marketplaces built into Copilot, your enterprise’s marketplaces, and any marketplaces the team adds. You can then add individual plugins to the team.\n\n- Add a marketplace from a GitHub repository that contains a plugin marketplace. This makes its plugins available to browse. You can add individual plugins to the team to enable them.\n\nSelected plugins are enabled by default for the team’s direct members in VS Code, the GitHub Copilot app, and Copilot CLI. Members of child teams don’t inherit them. Team defaults are optional. Members can turn a team plugin off in their Copilot client where policy permits.\n\nYour policies still apply\n\nEnterprise and organization policies take precedence over team choices. Copilot clients continue to enforce which marketplaces are allowed and which plugins are required or blocked. Team defaults don’t override those controls. …"
+   },
+   "translated": false,
+   "fetchedAt": "2026-11-18T19:30:03+00:00",
+   "company": "GitHub"
+  },
+  {
+   "id": "auto-db8651fe3ff5",
+   "tab": "ai",
+   "date": "2026-11-18",
+   "publishedAt": "2026-11-18T18:13:42+00:00",
+   "type": "product",
+   "importance": 1,
+   "sourceType": "official",
+   "sourceName": "Google DeepMind Blog",
+   "url": "https://deepmind.google/blog/genie-4-is-now-available/",
+   "originalTitle": "Genie 4 is now available",
+   "en": {
+    "title": "Genie 4 is now available",
+    "summary": "Genie 4 is now available",
+    "details": ""
+   },
+   "translated": false,
+   "fetchedAt": "2026-11-18T19:30:03+00:00",
+   "company": "Google"
+  },
+  {
+   "id": "auto-715823832071",
+   "tab": "ai",
+   "date": "2026-11-18",
+   "publishedAt": "2026-11-18T14:00:31+00:00",
+   "type": "media",
+   "importance": 1,
+   "sourceType": "official",
+   "sourceName": "NVIDIA Blog",
+   "url": "https://blogs.nvidia.com/blog/rtx-spark-desktop-local-ai-available-now/",
+   "originalTitle": "NVIDIA RTX Spark Compact Desktops Out Now",
+   "en": {
+    "title": "NVIDIA RTX Spark Compact Desktops Out Now",
+    "summary": "New NVIDIA RTX Spark compact desktops from ASUS, Dell and MSI are available today, bringing local AI agents, image and video generation, and model fine-tuning to a dedicated Windows PC.",
+    "details": "New NVIDIA RTX Spark compact desktops from ASUS, Dell and MSI are available today, bringing local AI agents, image and video generation, and model fine-tuning to a dedicated Windows PC.\n\nWith up to 128GB of unified memory and NVIDIA’s AI software stack, these systems provide room for larger local models alongside RTX-accelerated creative and development tools. A dedicated desktop can keep agents and scheduled tasks running while a laptop travels or handles other work.\n\nAlongside the new desktops, an expanding software ecosystem brings more creative and development workflows to RTX Spark laptops and compact desktops.\n\nNative Windows on Arm applications from Adobe, the NVIDIA DLSS Ray Reconstruction feature in Blender and local generation workflows in ComfyUI expand what creators and developers can do on RTX Spark — all on one Windows PC.\n\nA Windows PC Built for Local AI\n\nAs workflows expand to include local AI models and agents, more work can continue beyond an active editing session — from generating assets to processing long renders or scheduled tasks.\n\nRTX Spark compact desktops give developers, creators and AI enthusiasts a dedicated Windows PC for local models and always-on agents. They bring together image and video generation, model fine-tuning, creative applications and development tools in one compact system. …"
+   },
+   "translated": false,
+   "fetchedAt": "2026-11-18T19:30:03+00:00",
+   "company": "NVIDIA"
+  },
+  {
+   "id": "auto-369e1f9ba926",
+   "tab": "star-citizen",
+   "date": "2026-11-18",
+   "publishedAt": "2026-11-18T16:30:03+00:00",
+   "type": "event",
+   "importance": 1,
+   "sourceType": "official",
+   "sourceName": "RSI Comm-Link",
+   "url": "https://robertsspaceindustries.com/comm-link/transmission/21403-IAE-2956-Greys-Market",
+   "originalTitle": "IAE 2956 Grey's Market",
+   "en": {
+    "title": "IAE 2956 Grey's Market",
+    "summary": "Patchwork spacecraft built with cunning ingenuity.",
+    "details": "Patchwork spacecraft built with cunning ingenuity."
+   },
+   "translated": false,
+   "fetchedAt": "2026-11-18T19:30:03+00:00"
+  },
+  {
+   "id": "auto-543c66d28594",
+   "tab": "star-citizen",
+   "date": "2026-11-18",
+   "publishedAt": "2026-11-18T16:30:03+00:00",
+   "type": "ship",
+   "importance": 1,
+   "sourceType": "official",
+   "sourceName": "RSI Comm-Link",
+   "url": "https://robertsspaceindustries.com/comm-link/transmission/21404-IAE-2956-Greycat-Industrial",
+   "originalTitle": "IAE 2956 Greycat Industrial",
+   "en": {
+    "title": "IAE 2956 Greycat Industrial",
+    "summary": "Discover the latest ground vehicles from this manufacturing titan.",
+    "details": "Discover the latest ground vehicles from this manufacturing titan."
+   },
+   "translated": false,
+   "fetchedAt": "2026-11-18T19:30:03+00:00"
+  },
+  {
+   "id": "auto-b9fa3ec8e8fd",
+   "tab": "star-citizen",
+   "date": "2026-11-18",
+   "publishedAt": "2026-11-18T15:30:03+00:00",
+   "type": "ship",
+   "importance": 1,
+   "sourceType": "official",
+   "sourceName": "RSI Comm-Link",
+   "url": "https://robertsspaceindustries.com/comm-link/transmission/21405-IAE-2956-Consolidated-Outland",
+   "originalTitle": "IAE 2956 Consolidated Outland",
+   "en": {
+    "title": "IAE 2956 Consolidated Outland",
+    "summary": "Revolutionary designs with innovative technology.",
+    "details": "Revolutionary designs with innovative technology."
+   },
+   "translated": false,
+   "fetchedAt": "2026-11-18T19:30:03+00:00"
+  },
+  {
+   "id": "auto-4e22e26157dd",
+   "tab": "star-citizen",
+   "date": "2026-11-18",
+   "publishedAt": "2026-11-18T15:30:03+00:00",
+   "type": "ship",
+   "importance": 1,
+   "sourceType": "official",
+   "sourceName": "RSI Comm-Link",
+   "url": "https://robertsspaceindustries.com/comm-link/transmission/21406-IAE-2956-Argo-Astronautics",
+   "originalTitle": "IAE 2956 Argo Astronautics",
+   "en": {
+    "title": "IAE 2956 Argo Astronautics",
+    "summary": "Career ships that keep the empire running.",
+    "details": "Career ships that keep the empire running."
+   },
+   "translated": false,
+   "fetchedAt": "2026-11-18T19:30:03+00:00"
+  },
+  {
+   "id": "auto-47969bbe68f0",
+   "tab": "ai",
+   "date": "2026-11-18",
+   "publishedAt": "2026-11-18T18:53:43+00:00",
+   "type": "product",
+   "importance": 1,
+   "sourceType": "official",
+   "sourceName": "Hugging Face Blog",
+   "url": "https://huggingface.co/blog/Dharma-AI/predicting-fine-tuning-time",
+   "originalTitle": "Why your fine-tuning job takes longer than the FLOPs say",
+   "en": {
+    "title": "Why your fine-tuning job takes longer than the FLOPs say",
+    "summary": "Why your fine-tuning job takes longer than the FLOPs say",
+    "details": ""
+   },
+   "translated": false,
+   "fetchedAt": "2026-11-18T19:30:03+00:00",
+   "company": "Hugging Face"
+  },
+  {
+   "id": "auto-49631bdc003b",
+   "tab": "ai",
+   "date": "2026-11-18",
+   "publishedAt": "2026-11-18T15:00:23+00:00",
+   "type": "product",
+   "importance": 1,
+   "sourceType": "official",
+   "sourceName": "Hugging Face Blog",
+   "url": "https://huggingface.co/blog/ibm-research/time-series-powered-streamhouse",
+   "originalTitle": "Time-Series Models in the Streamhouse: A New Frontier and Use Cases",
+   "en": {
+    "title": "Time-Series Models in the Streamhouse: A New Frontier and Use Cases",
+    "summary": "Time-Series Models in the Streamhouse: A New Frontier and Use Cases",
+    "details": ""
+   },
+   "translated": false,
+   "fetchedAt": "2026-11-18T19:30:03+00:00",
+   "company": "Hugging Face"
+  },
+  {
+   "id": "auto-9e41dec45730",
+   "tab": "ai",
+   "date": "2026-11-18",
+   "publishedAt": "2026-11-18T00:00:00+00:00",
+   "type": "product",
+   "importance": 1,
+   "sourceType": "official",
+   "sourceName": "Hugging Face Blog",
+   "url": "https://huggingface.co/blog/moe-expert-streaming",
+   "originalTitle": "180B Parameters, 32GB of RAM: Pushing MoE Inference to the Limit with Transformers",
+   "en": {
+    "title": "180B Parameters, 32GB of RAM: Pushing MoE Inference to the Limit with Transformers",
+    "summary": "180B Parameters, 32GB of RAM: Pushing MoE Inference to the Limit with Transformers",
+    "details": ""
+   },
+   "translated": false,
+   "fetchedAt": "2026-11-18T19:30:03+00:00",
+   "company": "Hugging Face"
+  },
+  {
+   "id": "auto-2c130790b9d3",
+   "tab": "ai",
+   "date": "2026-11-18",
+   "publishedAt": "2026-11-18T00:00:00+00:00",
+   "type": "product",
+   "importance": 1,
+   "sourceType": "official",
+   "sourceName": "Hugging Face Blog",
+   "url": "https://huggingface.co/blog/rumble-2-flash",
+   "originalTitle": "Rumble-2-Flash: an open 0.5B speech model for 40+ languages",
+   "en": {
+    "title": "Rumble-2-Flash: an open 0.5B speech model for 40+ languages",
+    "summary": "Rumble-2-Flash: an open 0.5B speech model for 40+ languages",
+    "details": ""
+   },
+   "translated": false,
+   "fetchedAt": "2026-11-18T19:30:03+00:00",
+   "company": "Hugging Face"
+  },
+  {
+   "id": "auto-ddadc868c02a",
+   "tab": "ai",
+   "date": "2026-11-18",
+   "publishedAt": "2026-11-18T00:00:00+00:00",
+   "type": "media",
+   "importance": 1,
+   "sourceType": "official",
+   "sourceName": "OpenAI News",
+   "url": "https://openai.com/index/advancing-chip-design-with-our-models",
+   "originalTitle": "Advancing chip design with OpenAI models",
+   "en": {
+    "title": "Advancing chip design with OpenAI models",
+    "summary": "OpenAI models optimized circuits used in Jalapeño silicon and improved RISC‑V core designs, showing progress in AI-assisted chip design with GPT‑6 Astra.",
+    "details": "OpenAI models optimized circuits used in Jalapeño silicon and improved RISC‑V core designs, showing progress in AI-assisted chip design with GPT‑6 Astra."
+   },
+   "translated": false,
+   "fetchedAt": "2026-11-18T19:30:02+00:00",
+   "company": "OpenAI"
+  },
+  {
+   "id": "auto-931146580158",
+   "tab": "ai",
+   "date": "2026-11-18",
+   "publishedAt": "2026-11-18T14:07:00+00:00",
+   "type": "product",
+   "importance": 1,
+   "sourceType": "official",
+   "sourceName": "Meta Newsroom",
+   "url": "https://about.fb.com/news/2026/11/meta-welcomes-loblaw-as-first-canadian-retail-partner-to-muse/",
+   "originalTitle": "Meta Welcomes Loblaw as First Canadian Retail Partner to Muse",
+   "en": {
+    "title": "Meta Welcomes Loblaw as First Canadian Retail Partner to Muse",
+    "summary": "Starting today, Loblaw is bringing its catalogue to Muse as a partner connector, the first Canadian retailer to do so. Connectors are a big reason Muse can do so much.",
+    "details": "Starting today, Loblaw is bringing its catalogue to Muse as a partner connector, the first Canadian retailer to do so.\n\nConnectors are a big reason Muse can do so much. Canadians can connect their Muse to apps they already use, including Gmail, Google Calendar and Instagram, so it can help them manage email, coordinate schedules and draw on saved content to get everyday tasks done.\n\nWith participating Loblaw banners, Canadian shoppers can now ask Muse to help with meal planning, build their basket and check-out, all in Muse. Muse can remember brand preferences and information like food allergies, making next week’s planning even easier.\n\nMaking this technology work for everyone requires careful design and engineering to operate more safely. Muse runs on Muse Secure VM , a dedicated computer in the cloud that securely stores the data and credentials for the services you connect, while keeping passwords and payment methods out of the agent’s view. You choose what your Muse can access, and it checks with you before sensitive actions such as sending an email or making a purchase. To learn more about how we built safety into Muse, this post explains our approach in detail.\n\nTalk It Through With Muse: Voice Now Available in Canada …"
+   },
+   "translated": false,
+   "fetchedAt": "2026-11-18T19:30:02+00:00",
+   "company": "Meta"
+  },
   {
    "id": "auto-737c7e3e9edb",
    "tab": "ai",
@@ -14,8 +309,8 @@
    "originalTitle": "AI is killing All About Berlin",
    "en": {
     "title": "AI is killing All About Berlin",
-    "summary": "Community discussion on Hacker News (375 points, 346 comments).",
-    "details": "Community discussion on Hacker News (375 points, 346 comments)."
+    "summary": "Community discussion on Hacker News (714 points, 649 comments).",
+    "details": "Community discussion on Hacker News (714 points, 649 comments)."
    },
    "translated": false,
    "fetchedAt": "2026-11-18T11:27:36+00:00"
@@ -33,8 +328,8 @@
    "originalTitle": "Google's AI answers reducing search traffic by 40%",
    "en": {
     "title": "Google's AI answers reducing search traffic by 40%",
-    "summary": "Community discussion on Hacker News (425 points, 311 comments).",
-    "details": "Community discussion on Hacker News (425 points, 311 comments)."
+    "summary": "Community discussion on Hacker News (665 points, 518 comments).",
+    "details": "Community discussion on Hacker News (665 points, 518 comments)."
    },
    "translated": false,
    "fetchedAt": "2026-11-18T11:27:36+00:00"
@@ -77,6 +372,25 @@
    "translated": false,
    "fetchedAt": "2026-11-18T11:27:35+00:00",
    "company": "OpenAI"
+  },
+  {
+   "id": "auto-42ee35ceda07",
+   "tab": "ai",
+   "date": "2026-11-17",
+   "publishedAt": "2026-11-17T21:16:12+00:00",
+   "type": "coding",
+   "importance": 1,
+   "sourceType": "community",
+   "sourceName": "Hacker News",
+   "url": "https://news.ycombinator.com/item?id=50538303",
+   "originalTitle": "Harvard researchers find AI coding agents shifted the bottleneck to code review",
+   "en": {
+    "title": "Harvard researchers find AI coding agents shifted the bottleneck to code review",
+    "summary": "Community discussion on Hacker News (307 points, 410 comments).",
+    "details": "Community discussion on Hacker News (307 points, 410 comments)."
+   },
+   "translated": false,
+   "fetchedAt": "2026-11-18T19:30:04+00:00"
   },
   {
    "id": "auto-17ce0a7e9d0c",
@@ -985,8 +1299,8 @@
    "originalTitle": "Qwen4-Max",
    "en": {
     "title": "Qwen4-Max",
-    "summary": "Community discussion on Hacker News (877 points, 484 comments).",
-    "details": "Community discussion on Hacker News (877 points, 484 comments)."
+    "summary": "Community discussion on Hacker News (879 points, 487 comments).",
+    "details": "Community discussion on Hacker News (879 points, 487 comments)."
    },
    "translated": false,
    "fetchedAt": "2026-11-16T11:32:15+00:00"
@@ -1122,8 +1436,8 @@
    "originalTitle": "All AI-generated code should be Open Source",
    "en": {
     "title": "All AI-generated code should be Open Source",
-    "summary": "Community discussion on Hacker News (1280 points, 669 comments).",
-    "details": "Community discussion on Hacker News (1280 points, 669 comments)."
+    "summary": "Community discussion on Hacker News (1281 points, 670 comments).",
+    "details": "Community discussion on Hacker News (1281 points, 670 comments)."
    },
    "translated": false,
    "fetchedAt": "2026-11-15T19:54:59+00:00"
