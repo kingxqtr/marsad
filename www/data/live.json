@@ -1,6 +1,26 @@
 {
- "updatedAt": "2026-11-17T21:23:45+00:00",
+ "updatedAt": "2026-11-18T03:00:13+00:00",
  "items": [
+  {
+   "id": "auto-17ce0a7e9d0c",
+   "tab": "ai",
+   "date": "2026-11-17",
+   "publishedAt": "2026-11-17T08:00:00+00:00",
+   "type": "product",
+   "importance": 1,
+   "sourceType": "official",
+   "sourceName": "OpenAI News",
+   "url": "https://openai.com/index/introducing-chatgpt-for-sales",
+   "originalTitle": "Introducing ChatGPT for Sales",
+   "en": {
+    "title": "Introducing ChatGPT for Sales",
+    "summary": "Explore the new Sales plugin and 30+ new and expanded partner plugins in ChatGPT to research prospects, prepare pitches, update your CRM, and move deals forward.",
+    "details": "Explore the new Sales plugin and 30+ new and expanded partner plugins in ChatGPT to research prospects, prepare pitches, update your CRM, and move deals forward."
+   },
+   "translated": false,
+   "fetchedAt": "2026-11-18T03:00:06+00:00",
+   "company": "OpenAI"
+  },
   {
    "id": "auto-9235aaac8965",
    "tab": "ai",
@@ -888,8 +908,8 @@
    "originalTitle": "Qwen4-Max",
    "en": {
     "title": "Qwen4-Max",
-    "summary": "Community discussion on Hacker News (872 points, 483 comments).",
-    "details": "Community discussion on Hacker News (872 points, 483 comments)."
+    "summary": "Community discussion on Hacker News (875 points, 483 comments).",
+    "details": "Community discussion on Hacker News (875 points, 483 comments)."
    },
    "translated": false,
    "fetchedAt": "2026-11-16T11:32:15+00:00"
@@ -907,8 +927,8 @@
    "originalTitle": "94% of Singapore Small Business Owners Surveyed Say More AI Guidance Is Needed",
    "en": {
     "title": "94% of Singapore Small Business Owners Surveyed Say More AI Guidance Is Needed",
-    "summary": "From left to right – Shanti Alexander , Director of Policy Programs and Campaigns (APAC), Meta; Elin Wong , Public Policy Manager (Singapore & ASEAN), Meta; Nicole Tan , Managing Director, Meta Singapore; Sarim Aziz , Director, Public …",
-    "details": "From left to right – Shanti Alexander , Director of Policy Programs and Campaigns (APAC), Meta; Elin Wong , Public Policy Manager (Singapore & ASEAN), Meta; Nicole Tan , Managing Director, Meta Singapore; Sarim Aziz , Director, Public Policy (Southeast Asia), Meta; Rachel Lee , Business Development Lead, Honeymill; Low Yen Ling , Senior Minister of State, Ministry of Culture, Community and Youth & Ministry of Energy, Trade and Industry; Gerald Wong , Co-Founder and Lead Trainer, SpeakEasy Lab; Taabeer Ather , Economic Impact Programs Lead (APAC), Meta; Janilaine Ng , Director, Head of Industry, Meta Singapore; Johnson Poh , Assistant Chief Executive, Enterprise Transformation and Innovation Group, Infocomm Media Development Authority; Daniel Lim , Head of Public Policy, Meta Singapore .\n\nTakeaways:\n\n- 94% of Singapore small business owners surveyed agree that small businesses need more guidance to gain the full benefits of AI, according to YouGov research commissioned by Meta.\n\n- Meta Upskill Day 2026 brought Singapore small businesses, heartland merchants and creator-entrepreneurs together for practical training on Meta Business Agents and AI-powered business tools.\n\n- Meta Upskill Day forms part of the Met a Small Business Growth Academy , which helps small businesses build practical digital and AI skills. …"
+    "summary": "Takeaways: 94% of Singapore small business owners surveyed agree that small businesses need more guidance to gain the full benefits of AI, according to YouGov research commissioned by Meta.",
+    "details": "Takeaways:\n\n- 94% of Singapore small business owners surveyed agree that small businesses need more guidance to gain the full benefits of AI, according to YouGov research commissioned by Meta.\n\n- Meta Upskill Day 2026 brought Singapore small businesses, heartland merchants and creator-entrepreneurs together for practical training on Meta Business Agents and AI-powered business tools.\n\n- Meta Upskill Day forms part of the Met a Small Business Growth Academy , which helps small businesses build practical digital and AI skills.\n\nToday, Meta brought over 180 small businesses, heartland merchants and creator-entrepreneurs together at Meta Upskill Day 2026 in Singapore, part of its Small Business Growth Academy , with Guest of Honor Ms Low Yen Ling, Senior Minister of State, Ministry of Culture, Community and Youth & Ministry of Energy, Trade and Industry, in attendance. The Academy helps owners use Meta’s digital and AI-enabled tools to find customers, improve productivity and grow. Through hands-on Business Agent training, demonstrations and discussions with Meta experts, participants explored how to apply these tools to their everyday business needs. …"
    },
    "translated": false,
    "fetchedAt": "2026-11-16T11:32:14+00:00",
@@ -1025,8 +1045,8 @@
    "originalTitle": "All AI-generated code should be Open Source",
    "en": {
     "title": "All AI-generated code should be Open Source",
-    "summary": "Community discussion on Hacker News (1278 points, 668 comments).",
-    "details": "Community discussion on Hacker News (1278 points, 668 comments)."
+    "summary": "Community discussion on Hacker News (1279 points, 669 comments).",
+    "details": "Community discussion on Hacker News (1279 points, 669 comments)."
    },
    "translated": false,
    "fetchedAt": "2026-11-15T19:54:59+00:00"
@@ -1234,8 +1254,8 @@
    "originalTitle": "Jonathan Blow – If AI solved coding, why is my software still the same? [video]",
    "en": {
     "title": "Jonathan Blow – If AI solved coding, why is my software still the same? [video]",
-    "summary": "Community discussion on Hacker News (494 points, 746 comments).",
-    "details": "Community discussion on Hacker News (494 points, 746 comments)."
+    "summary": "Community discussion on Hacker News (494 points, 747 comments).",
+    "details": "Community discussion on Hacker News (494 points, 747 comments)."
    },
    "translated": false,
    "fetchedAt": "2026-11-14T09:44:35+00:00"
