@@ -1,6 +1,122 @@
 {
- "updatedAt": "2026-11-19T09:03:17+00:00",
+ "updatedAt": "2026-11-19T18:11:52+00:00",
  "items": [
+  {
+   "id": "auto-39f4ab974413",
+   "tab": "ai",
+   "date": "2026-11-19",
+   "publishedAt": "2026-11-19T14:00:12+00:00",
+   "type": "hardware",
+   "importance": 1,
+   "sourceType": "official",
+   "sourceName": "NVIDIA Blog",
+   "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-black-friday-2026/",
+   "originalTitle": "Season’s Streamings and Savings: Black Friday Deals Come to GeForce NOW",
+   "en": {
+    "title": "Season’s Streamings and Savings: Black Friday Deals Come to GeForce NOW",
+    "summary": "GeForce NOW is kicking off Black Friday with more reasons to make time for gaming. Six-month memberships are back for a limited time. Save 30% on the first six-month term of a Performance or Ultimate membership .",
+    "details": "GeForce NOW is kicking off Black Friday with more reasons to make time for gaming. Six-month memberships are back for a limited time. Save 30% on the first six-month term of a Performance or Ultimate membership . Big gaming plans, smaller price tag.\n\nKeep the holiday savings going: Check out more NVIDIA holiday deals for gamers, creators and AI enthusiasts.\n\nThe living room gets a little more playtime, too. GeForce NOW arrives on Amazon Fire TV Stick HD, Fire TV Stick 4K Select and Fire TV Stick 4K (2026 model) running Vega OS, alongside an Amazon offer launching later today for 90% off the first month of an eligible Performance or Ultimate membership in participating countries. It brings console-style gaming to the TV, straight from the Amazon cart.\n\nBethesda fans have more in store, with five favorites adding GOG support as part of nine games joining GeForce NOW this week.\n\nBig RTX Power, Black Friday Price\n\nThousands of games are calling from the cloud.\n\nSix-month Performance and Ultimate memberships are back for Black Friday, with 30% off the first six months for new memberships and eligible upgrades in select regions. The sale runs through Monday, Nov. 30, while supplies last.\n\nGo Ultimate for GeForce RTX 5080-class performance across PCs, Macs, Steam Deck and other supported handhelds, browsers, mobile devices, compatible TVs and more . Sessions lasting up to eight hours and first-priority server access leave more room for marathon play. …"
+   },
+   "translated": false,
+   "fetchedAt": "2026-11-19T18:11:47+00:00",
+   "company": "NVIDIA"
+  },
+  {
+   "id": "auto-e0e7238e9b49",
+   "tab": "once-human",
+   "date": "2026-11-19",
+   "publishedAt": "2026-11-19T09:06:29+00:00",
+   "type": "update",
+   "importance": 1,
+   "sourceType": "official",
+   "sourceName": "Once Human — Steam News",
+   "url": "https://store.steampowered.com/news/app/2139460/view/1849827110427628",
+   "originalTitle": "3.2.1 Bug Fixes (November 19)",
+   "en": {
+    "title": "3.2.1 Bug Fixes (November 19)",
+    "summary": "November 19 The following issues are expected to be fixed by 02:00 PT. Actual completion time may vary: 1. In the last version update announcement, we listed the wrong release date for the \\ feature.",
+    "details": "November 19\n\nThe following issues are expected to be fixed by 02:00 PT. Actual completion time may vary:\n\n1. In the last version update announcement, we listed the wrong release date for the \\ feature. It is actually scheduled to go live with the December 2 (PT) update and was not included in this update.\nTherefore, customizing standing actions in the \\ interface is temporarily unavailable. We sincerely apologize for the confusion and inconvenience caused by our announcement error. Once the feature goes live, you can access it via the \\ interface. Please refer to the December 2 (PT) update notes for details.\n\n2. Fixed an issue where the Shrapnel Souvenir Mod would restore the wrong amount of ammo.\n\n3. Fixed a parameter error that occurred when crafting items after switching tabs in the Supplies Workbench.\n\n4. Fixed an issue where the free camera could not be opened in Custom Servers."
+   },
+   "translated": false,
+   "fetchedAt": "2026-11-19T18:11:47+00:00"
+  },
+  {
+   "id": "auto-712c4ad88856",
+   "tab": "star-citizen",
+   "date": "2026-11-19",
+   "publishedAt": "2026-11-19T16:11:47+00:00",
+   "type": "ship",
+   "importance": 1,
+   "sourceType": "official",
+   "sourceName": "RSI Comm-Link",
+   "url": "https://robertsspaceindustries.com/comm-link/transmission/21400-IAE-2956-Kruger-Intergalactic",
+   "originalTitle": "IAE 2956 Kruger Intergalactic",
+   "en": {
+    "title": "IAE 2956 Kruger Intergalactic",
+    "summary": "Specializing in compact spacecraft and high-performance components, Kruger always brings its A-game.",
+    "details": "Specializing in compact spacecraft and high-performance components, Kruger always brings its A-game."
+   },
+   "translated": false,
+   "fetchedAt": "2026-11-19T18:11:47+00:00"
+  },
+  {
+   "id": "auto-a4146c6f9955",
+   "tab": "star-citizen",
+   "date": "2026-11-19",
+   "publishedAt": "2026-11-19T16:11:47+00:00",
+   "type": "ship",
+   "importance": 1,
+   "sourceType": "official",
+   "sourceName": "RSI Comm-Link",
+   "url": "https://robertsspaceindustries.com/comm-link/transmission/21401-IAE-2956-Mirai",
+   "originalTitle": "IAE 2956 Mirai",
+   "en": {
+    "title": "IAE 2956 Mirai",
+    "summary": "Fast, light, and laser-focused on performance.",
+    "details": "Fast, light, and laser-focused on performance."
+   },
+   "translated": false,
+   "fetchedAt": "2026-11-19T18:11:47+00:00"
+  },
+  {
+   "id": "auto-010325f95a25",
+   "tab": "star-citizen",
+   "date": "2026-11-19",
+   "publishedAt": "2026-11-19T16:11:47+00:00",
+   "type": "ship",
+   "importance": 1,
+   "sourceType": "official",
+   "sourceName": "RSI Comm-Link",
+   "url": "https://robertsspaceindustries.com/comm-link/transmission/21402-IAE-2956-MISC",
+   "originalTitle": "IAE 2956 MISC",
+   "en": {
+    "title": "IAE 2956 MISC",
+    "summary": "A Legendary shipbuilder with a focus on heavy industry.",
+    "details": "A Legendary shipbuilder with a focus on heavy industry."
+   },
+   "translated": false,
+   "fetchedAt": "2026-11-19T18:11:47+00:00"
+  },
+  {
+   "id": "auto-87a61550c7ef",
+   "tab": "ai",
+   "date": "2026-11-19",
+   "publishedAt": "2026-11-19T17:00:00+00:00",
+   "type": "product",
+   "importance": 1,
+   "sourceType": "official",
+   "sourceName": "Google Blog — AI",
+   "url": "https://blog.google/innovation-and-ai/technology/ai/dialogues-walter-isaacson/",
+   "originalTitle": "Walter Isaacson on curiosity and creativity in the AI age.",
+   "en": {
+    "title": "Walter Isaacson on curiosity and creativity in the AI age.",
+    "summary": "Walter Isaacson joins Google to discuss how history’s greatest innovators inspire creativity and human judgment in the AI age. Watch the episode.",
+    "details": "Walter Isaacson joins Google to discuss how history’s greatest innovators inspire creativity and human judgment in the AI age. Watch the episode."
+   },
+   "translated": false,
+   "fetchedAt": "2026-11-19T18:11:47+00:00",
+   "company": "Google"
+  },
   {
    "id": "auto-8f8d4a09c5b4",
    "tab": "ai",
@@ -73,8 +189,8 @@
    "originalTitle": "Gemini 4 Neon",
    "en": {
     "title": "Gemini 4 Neon",
-    "summary": "Community discussion on Hacker News (789 points, 649 comments).",
-    "details": "Community discussion on Hacker News (789 points, 649 comments)."
+    "summary": "Community discussion on Hacker News (980 points, 744 comments).",
+    "details": "Community discussion on Hacker News (980 points, 744 comments)."
    },
    "translated": false,
    "fetchedAt": "2026-11-19T01:25:05+00:00"
@@ -92,8 +208,8 @@
    "originalTitle": "AI agents ask better questions than KPMG accountants in audit trial",
    "en": {
     "title": "AI agents ask better questions than KPMG accountants in audit trial",
-    "summary": "Community discussion on Hacker News (451 points, 205 comments).",
-    "details": "Community discussion on Hacker News (451 points, 205 comments)."
+    "summary": "Community discussion on Hacker News (478 points, 241 comments).",
+    "details": "Community discussion on Hacker News (478 points, 241 comments)."
    },
    "translated": false,
    "fetchedAt": "2026-11-19T01:25:05+00:00"
@@ -250,8 +366,8 @@
    "originalTitle": "Seven new models at scalable price-performance",
    "en": {
     "title": "Seven new models at scalable price-performance",
-    "summary": "Community discussion on Hacker News (534 points, 347 comments).",
-    "details": "Community discussion on Hacker News (534 points, 347 comments)."
+    "summary": "Community discussion on Hacker News (588 points, 370 comments).",
+    "details": "Community discussion on Hacker News (588 points, 370 comments)."
    },
    "translated": false,
    "fetchedAt": "2026-11-18T19:30:04+00:00"
@@ -545,8 +661,8 @@
    "originalTitle": "AI is killing All About Berlin",
    "en": {
     "title": "AI is killing All About Berlin",
-    "summary": "Community discussion on Hacker News (781 points, 695 comments).",
-    "details": "Community discussion on Hacker News (781 points, 695 comments)."
+    "summary": "Community discussion on Hacker News (798 points, 706 comments).",
+    "details": "Community discussion on Hacker News (798 points, 706 comments)."
    },
    "translated": false,
    "fetchedAt": "2026-11-18T11:27:36+00:00"
@@ -564,8 +680,8 @@
    "originalTitle": "Google's AI answers reducing search traffic by 40%",
    "en": {
     "title": "Google's AI answers reducing search traffic by 40%",
-    "summary": "Community discussion on Hacker News (697 points, 546 comments).",
-    "details": "Community discussion on Hacker News (697 points, 546 comments)."
+    "summary": "Community discussion on Hacker News (708 points, 559 comments).",
+    "details": "Community discussion on Hacker News (708 points, 559 comments)."
    },
    "translated": false,
    "fetchedAt": "2026-11-18T11:27:36+00:00"
@@ -622,8 +738,8 @@
    "originalTitle": "Harvard researchers find AI coding agents shifted the bottleneck to code review",
    "en": {
     "title": "Harvard researchers find AI coding agents shifted the bottleneck to code review",
-    "summary": "Community discussion on Hacker News (320 points, 443 comments).",
-    "details": "Community discussion on Hacker News (320 points, 443 comments)."
+    "summary": "Community discussion on Hacker News (322 points, 454 comments).",
+    "details": "Community discussion on Hacker News (322 points, 454 comments)."
    },
    "translated": false,
    "fetchedAt": "2026-11-18T19:30:04+00:00"
