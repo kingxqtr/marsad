@@ -1,6 +1,203 @@
 {
- "updatedAt": "2026-11-18T19:30:08+00:00",
+ "updatedAt": "2026-11-19T01:25:09+00:00",
  "items": [
+  {
+   "id": "auto-b122ae650e10",
+   "tab": "ai",
+   "date": "2026-11-19",
+   "publishedAt": "2026-11-19T00:00:13+00:00",
+   "type": "coding",
+   "importance": 1,
+   "sourceType": "official",
+   "sourceName": "GitHub Changelog",
+   "url": "https://github.blog/changelog/2026-11-18-wait-for-pull-request-events-with-github-cli",
+   "originalTitle": "Wait for pull request events with GitHub CLI",
+   "en": {
+    "title": "Wait for pull request events with GitHub CLI",
+    "summary": "GitHub CLI now supports GitHub Event Streams . With gh v2.105.0 , you and your agents can wait for a pull request to change with a single command instead of polling it in a loop.",
+    "details": "GitHub CLI now supports GitHub Event Streams . With gh v2.105.0 , you and your agents can wait for a pull request to change with a single command instead of polling it in a loop.\n\nRun gh event listen with a pull request URL and the events you care about, such as a submitted review. It creates the subscription, opens the stream and prints each event as a line of JSON.\n\n- By default, it exits after the first event, so it slots into scripts and agent loops.\n\n- Use --count to wait for several events, --follow to keep listening, and --timeout to stop waiting.\n\n- Use --jq or --template to pull out just the fields you need.\n\nYou can wait for submitted reviews, pull request state and head changes, merge conflicts and completed check suites. To manage subscriptions directly, use gh event subscription create , list , view , and delete .\n\nAgents discover the new commands on their own: gh pr create , gh pr view , gh run view , gh run watch , and gh api now suggest gh event listen instead of polling.\n\nAvailability\n\nThe gh event commands are in preview and may change. They require access to Event Streams, which is in preview on GitHub.com. To get access, sign up for the Event Streams waitlist .\n\nTo get started, upgrade to gh v2.105.0 or later. For details, see the gh event manual and the Event Streams documentation , or run gh event --help .\n\nShare your feedback in the GitHub Community discussion .\n\nThe post Wait for pull request events with GitHub CLI appeared first on The GitHub Blog ."
+   },
+   "translated": false,
+   "fetchedAt": "2026-11-19T01:25:04+00:00",
+   "company": "GitHub"
+  },
+  {
+   "id": "auto-738ab4527093",
+   "tab": "ai",
+   "date": "2026-11-18",
+   "publishedAt": "2026-11-18T21:34:07+00:00",
+   "type": "model",
+   "importance": 1,
+   "sourceType": "community",
+   "sourceName": "Hacker News",
+   "url": "https://news.ycombinator.com/item?id=50552424",
+   "originalTitle": "Gemini 4 Neon",
+   "en": {
+    "title": "Gemini 4 Neon",
+    "summary": "Community discussion on Hacker News (420 points, 400 comments).",
+    "details": "Community discussion on Hacker News (420 points, 400 comments)."
+   },
+   "translated": false,
+   "fetchedAt": "2026-11-19T01:25:05+00:00"
+  },
+  {
+   "id": "auto-0e0e709dee10",
+   "tab": "ai",
+   "date": "2026-11-18",
+   "publishedAt": "2026-11-18T15:49:34+00:00",
+   "type": "product",
+   "importance": 1,
+   "sourceType": "community",
+   "sourceName": "Hacker News",
+   "url": "https://news.ycombinator.com/item?id=50547777",
+   "originalTitle": "AI agents ask better questions than KPMG accountants in audit trial",
+   "en": {
+    "title": "AI agents ask better questions than KPMG accountants in audit trial",
+    "summary": "Community discussion on Hacker News (350 points, 160 comments).",
+    "details": "Community discussion on Hacker News (350 points, 160 comments)."
+   },
+   "translated": false,
+   "fetchedAt": "2026-11-19T01:25:05+00:00"
+  },
+  {
+   "id": "auto-ac068984e256",
+   "tab": "ai",
+   "date": "2026-11-18",
+   "publishedAt": "2026-11-18T22:04:50+00:00",
+   "type": "coding",
+   "importance": 1,
+   "sourceType": "official",
+   "sourceName": "GitHub Changelog",
+   "url": "https://github.blog/changelog/2026-11-18-connect-supabase-box-calendly-and-more-to-copilot",
+   "originalTitle": "Connect Supabase, Box, Calendly, and more to Copilot",
+   "en": {
+    "title": "Connect Supabase, Box, Calendly, and more to Copilot",
+    "summary": "You can now connect eight more services to Copilot using GitHub-verified MCP servers, or connectors, available in public preview. New services you can connect Box : Search and manage content, and use Box AI.",
+    "details": "You can now connect eight more services to Copilot using GitHub-verified MCP servers, or connectors, available in public preview.\n\nNew services you can connect\n\n- Box : Search and manage content, and use Box AI.\n\n- Buildkite : Work with pipelines and builds.\n\n- Calendly : Manage scheduling and meetings.\n\n- ClickUp : Track tasks and projects.\n\n- Mixpanel : Explore product analytics.\n\n- Supabase : Work with projects and databases.\n\n- Webflow : Manage sites and content.\n\n- Wix : Manage sites and business tools.\n\nFor example, you can ask Copilot why your latest Buildkite build failed and have it fix the code in the same session, or have it check your Supabase schema before it writes a migration. You can still also connect to services like Slack, Figma, and Sentry.\n\nConnect these services once, and you can use them across Copilot.\n\nConnect a service\n\nYou connect these services the same way as any other connector:\n\n- Copilot app : Open Customize and select Connect on the service you want.\n\n- Copilot CLI : Run /mcp , switch to the Connectors tab, and select Connect on the service you want.\n\n- VS Code : Open the Agents window, go to Customizations , and connect the service you want.\n\n- github.com : Browse services on the Copilot customization page and select the service you want.\n\nAvailability …"
+   },
+   "translated": false,
+   "fetchedAt": "2026-11-19T01:25:04+00:00",
+   "company": "GitHub"
+  },
+  {
+   "id": "auto-4fb2659434c0",
+   "tab": "ai",
+   "date": "2026-11-18",
+   "publishedAt": "2026-11-18T21:49:21+00:00",
+   "type": "coding",
+   "importance": 1,
+   "sourceType": "official",
+   "sourceName": "GitHub Changelog",
+   "url": "https://github.blog/changelog/2026-11-18-gemini-4-neon-in-github-copilot",
+   "originalTitle": "Gemini 4 Neon in GitHub Copilot",
+   "en": {
+    "title": "Gemini 4 Neon in GitHub Copilot",
+    "summary": "Gemini 4 Neon is now generally available in GitHub Copilot. It is designed for agentic coding, multistep tool use, and knowledge work.",
+    "details": "Gemini 4 Neon is now generally available in GitHub Copilot. It is designed for agentic coding, multistep tool use, and knowledge work. According to Google, Gemini 4 Neon delivers quality close to Gemini 4 Carbon at a lower token cost per task. Google also reports that, compared with Gemini 4 Carbon, it starts responding faster and makes fewer unrequested changes on coding tasks. It is also less likely to make unsupported claims about code, tool, or test results.\n\nThis model is billed at provider list pricing under usage-based billing. See Models and pricing for GitHub Copilot for details.\n\nAvailability in GitHub Copilot\n\nGemini 4 Neon is available to Copilot Pro+, Max, Business, and Enterprise users. You can select the model in the model picker in:\n\n- Visual Studio Code\n\n- Visual Studio\n\n- Copilot CLI\n\n- GitHub Copilot coding agent\n\n- GitHub Copilot app\n\n- github.com\n\n- GitHub Mobile on iOS and Android\n\n- JetBrains IDEs\n\n- Xcode\n\n- Eclipse\n\nRollout will be gradual. Check back soon if you don’t see it yet.\n\nEnabling access\n\nCopilot Enterprise and Copilot Business plan administrators can manage access to Gemini 4 Neon through the model policy in Copilot settings. Under default model enablement, new models are automatically enabled unless an administrator has turned off the global default or explicitly disables this model.\n\nLearn more\n\nTo explore all models available in GitHub Copilot, see our documentation on models and get started with Copilot.\n\nShare your feedback …"
+   },
+   "translated": false,
+   "fetchedAt": "2026-11-19T01:25:04+00:00",
+   "company": "GitHub"
+  },
+  {
+   "id": "auto-863fbd573235",
+   "tab": "star-citizen",
+   "date": "2026-11-18",
+   "publishedAt": "2026-11-18T21:25:04+00:00",
+   "type": "development",
+   "importance": 1,
+   "sourceType": "official",
+   "sourceName": "RSI Comm-Link",
+   "url": "https://robertsspaceindustries.com/comm-link/transmission/21455-Roadmap-Roundup-November-18-2026",
+   "originalTitle": "Roadmap Roundup - November 18, 2026",
+   "en": {
+    "title": "Roadmap Roundup - November 18, 2026",
+    "summary": "With the Roadmap just updated, here is a brief explanatory note to give you insight into the decision-making that led to any changes.",
+    "details": "With the Roadmap just updated, here is a brief explanatory note to give you insight into the decision-making that led to any changes."
+   },
+   "translated": false,
+   "fetchedAt": "2026-11-19T01:25:04+00:00"
+  },
+  {
+   "id": "auto-52640666a81a",
+   "tab": "ai",
+   "date": "2026-11-18",
+   "publishedAt": "2026-11-18T21:35:43+00:00",
+   "type": "model",
+   "importance": 1,
+   "sourceType": "official",
+   "sourceName": "Google DeepMind Blog",
+   "url": "https://deepmind.google/blog/introducing-gemini-4-neon/",
+   "originalTitle": "Introducing Gemini 4 Neon",
+   "en": {
+    "title": "Introducing Gemini 4 Neon",
+    "summary": "Introducing Gemini 4 Neon",
+    "details": ""
+   },
+   "translated": false,
+   "fetchedAt": "2026-11-19T01:25:04+00:00",
+   "company": "Google"
+  },
+  {
+   "id": "auto-e41150d27145",
+   "tab": "ai",
+   "date": "2026-11-18",
+   "publishedAt": "2026-11-18T08:00:00+00:00",
+   "type": "coding",
+   "importance": 1,
+   "sourceType": "official",
+   "sourceName": "OpenAI News",
+   "url": "https://openai.com/index/research-acceleration-jagged-frontier",
+   "originalTitle": "Research acceleration: The jagged frontier",
+   "en": {
+    "title": "Research acceleration: The jagged frontier",
+    "summary": "OpenAI measures how coding agents are accelerating AI research, where their performance remains uneven, and what this signals about recursive self-improvement.",
+    "details": "OpenAI measures how coding agents are accelerating AI research, where their performance remains uneven, and what this signals about recursive self-improvement."
+   },
+   "translated": false,
+   "fetchedAt": "2026-11-19T01:25:04+00:00",
+   "company": "OpenAI"
+  },
+  {
+   "id": "auto-16cd912d3052",
+   "tab": "ai",
+   "date": "2026-11-18",
+   "publishedAt": "2026-11-18T06:00:00+00:00",
+   "type": "product",
+   "importance": 1,
+   "sourceType": "official",
+   "sourceName": "OpenAI News",
+   "url": "https://openai.com/index/managing-frontier-ai-risk",
+   "originalTitle": "Managing frontier AI risk: From training to deployment",
+   "en": {
+    "title": "Managing frontier AI risk: From training to deployment",
+    "summary": "OpenAI explains how it manages frontier AI risk from training through deployment with model alignment, sandboxing, blocking safeguards, and monitoring.",
+    "details": "OpenAI explains how it manages frontier AI risk from training through deployment with model alignment, sandboxing, blocking safeguards, and monitoring."
+   },
+   "translated": false,
+   "fetchedAt": "2026-11-19T01:25:04+00:00",
+   "company": "OpenAI"
+  },
+  {
+   "id": "auto-b32907a6f843",
+   "tab": "ai",
+   "date": "2026-11-18",
+   "publishedAt": "2026-11-18T19:54:56+00:00",
+   "type": "product",
+   "importance": 1,
+   "sourceType": "official",
+   "sourceName": "Hugging Face Blog",
+   "url": "https://huggingface.co/blog/RadixArk/daisyrose-27b-pushing-the-frontier-of-post-trainin",
+   "originalTitle": "DaisyRose-27B: Pushing the Frontier of Post-Training Efficiency",
+   "en": {
+    "title": "DaisyRose-27B: Pushing the Frontier of Post-Training Efficiency",
+    "summary": "DaisyRose-27B: Pushing the Frontier of Post-Training Efficiency",
+    "details": ""
+   },
+   "translated": false,
+   "fetchedAt": "2026-11-19T01:25:04+00:00",
+   "company": "Hugging Face"
+  },
   {
    "id": "auto-7f72d3fffdb7",
    "tab": "ai",
@@ -14,8 +211,8 @@
    "originalTitle": "Seven new models at scalable price-performance",
    "en": {
     "title": "Seven new models at scalable price-performance",
-    "summary": "Community discussion on Hacker News (267 points, 169 comments).",
-    "details": "Community discussion on Hacker News (267 points, 169 comments)."
+    "summary": "Community discussion on Hacker News (445 points, 308 comments).",
+    "details": "Community discussion on Hacker News (445 points, 308 comments)."
    },
    "translated": false,
    "fetchedAt": "2026-11-18T19:30:04+00:00"
@@ -309,8 +506,8 @@
    "originalTitle": "AI is killing All About Berlin",
    "en": {
     "title": "AI is killing All About Berlin",
-    "summary": "Community discussion on Hacker News (714 points, 649 comments).",
-    "details": "Community discussion on Hacker News (714 points, 649 comments)."
+    "summary": "Community discussion on Hacker News (757 points, 684 comments).",
+    "details": "Community discussion on Hacker News (757 points, 684 comments)."
    },
    "translated": false,
    "fetchedAt": "2026-11-18T11:27:36+00:00"
@@ -328,8 +525,8 @@
    "originalTitle": "Google's AI answers reducing search traffic by 40%",
    "en": {
     "title": "Google's AI answers reducing search traffic by 40%",
-    "summary": "Community discussion on Hacker News (665 points, 518 comments).",
-    "details": "Community discussion on Hacker News (665 points, 518 comments)."
+    "summary": "Community discussion on Hacker News (689 points, 538 comments).",
+    "details": "Community discussion on Hacker News (689 points, 538 comments)."
    },
    "translated": false,
    "fetchedAt": "2026-11-18T11:27:36+00:00"
@@ -386,8 +583,8 @@
    "originalTitle": "Harvard researchers find AI coding agents shifted the bottleneck to code review",
    "en": {
     "title": "Harvard researchers find AI coding agents shifted the bottleneck to code review",
-    "summary": "Community discussion on Hacker News (307 points, 410 comments).",
-    "details": "Community discussion on Hacker News (307 points, 410 comments)."
+    "summary": "Community discussion on Hacker News (319 points, 439 comments).",
+    "details": "Community discussion on Hacker News (319 points, 439 comments)."
    },
    "translated": false,
    "fetchedAt": "2026-11-18T19:30:04+00:00"
