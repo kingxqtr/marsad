@@ -1,6 +1,45 @@
 {
- "updatedAt": "2026-11-19T01:25:09+00:00",
+ "updatedAt": "2026-11-19T09:03:17+00:00",
  "items": [
+  {
+   "id": "auto-8f8d4a09c5b4",
+   "tab": "ai",
+   "date": "2026-11-19",
+   "publishedAt": "2026-11-19T06:05:13+00:00",
+   "type": "product",
+   "importance": 1,
+   "sourceType": "official",
+   "sourceName": "Meta Newsroom",
+   "url": "https://about.fb.com/news/2026/11/forum-a-dedicated-app-for-facebook-groups-is-now-available-in-indonesia/",
+   "originalTitle": "Forum, a Dedicated App for Facebook Groups, Is Now Available in Indonesia",
+   "en": {
+    "title": "Forum, a Dedicated App for Facebook Groups, Is Now Available in Indonesia",
+    "summary": "We’re announcing the availability of Forum in Indonesia—a purpose-built app for people who want to go deeper on Facebook Groups.",
+    "details": "We’re announcing the availability of Forum in Indonesia—a purpose-built app for people who want to go deeper on Facebook Groups. Forum brings your Facebook Groups into one dedicated app, making it easier to join conversations, find answers and participate in discussions that interest you.\n\nIt is available to download on Android and will be available soon on iOS. Just log in with your Facebook account to find your groups and discover new ones.\n\n“Facebook has always been about connecting people. In Indonesia, we see how communities play an important role in bringing people together around shared interests, experiences, and needs. Through our conversations with local Facebook Group admins, we recognize the importance of making it easier for them to nurture these connections and support meaningful interactions. With Forum, we hope to better support Indonesia’s vibrant communities for its members and the admins who help them thrive,” said Pieter Lydian, Country Managing Director Meta for Indonesia.\n\nNew Experiences on Forum\n\nForum feed: Surfaces the most active conversations happening locally from your groups as well as groups related to your interests, including discussions from other groups you may be interested in. Posts in your Facebook groups and Forum are synced.\n\nProfile on Forum: Brings your posts, comments, and reactions from different groups together in one place, making it easier to revisit previous conversations. …"
+   },
+   "translated": false,
+   "fetchedAt": "2026-11-19T09:03:12+00:00",
+   "company": "Meta"
+  },
+  {
+   "id": "auto-78ad3f7f1605",
+   "tab": "once-human",
+   "date": "2026-11-19",
+   "publishedAt": "2026-11-19T02:00:41+00:00",
+   "type": "update",
+   "importance": 1,
+   "sourceType": "official",
+   "sourceName": "Once Human — Steam News",
+   "url": "https://store.steampowered.com/news/app/2139460/view/1849827110426729",
+   "originalTitle": "Meta Hotline | Hot Feedback and Optimization Progress Vol. 13",
+   "en": {
+    "title": "Meta Hotline | Hot Feedback and Optimization Progress Vol. 13",
+    "summary": "Dear Metas, After the v2.3.7 update, we added the Feedback Hot Charts section to the Once Human Feedback Platform, listing recent popular requests from the community.",
+    "details": "Dear Metas,\n\nAfter the v2.3.7 update, we added the Feedback Hot Charts section to the Once Human Feedback Platform, listing recent popular requests from the community. After logging in to the Feedback Platform, you can like the feedback you support and dislike any feedback you disagree with. The Feedback Hot Charts will display likes and dislikes in real time, and our development team will use these results to help determine development priorities. (Feedback Platform link: Once Human Feedback Platform)\n\nThe Feedback Hot Charts will also be updated with each version update. After each update, we'll share our plans and progress for addressing the player requests featured in the previous list. We value your feedback and hope the Feedback Hot Charts will give us more opportunities to communicate with you and share our development plans and progress.\n\nIt's time to unveil the results of Meta Hotline Vol. 13! As of November 17 (PT), here's how the Feedback Hot Charts looks:\n\nThank you all for taking part. Every piece of feedback, every like, and every dislike helps the dev team better understand which needs matter most from the players' perspective. Below are the follow-up details for this cycle's top suggestions.\n\n\\ Add Class Change Feature …"
+   },
+   "translated": false,
+   "fetchedAt": "2026-11-19T09:03:12+00:00"
+  },
   {
    "id": "auto-b122ae650e10",
    "tab": "ai",
@@ -34,8 +73,8 @@
    "originalTitle": "Gemini 4 Neon",
    "en": {
     "title": "Gemini 4 Neon",
-    "summary": "Community discussion on Hacker News (420 points, 400 comments).",
-    "details": "Community discussion on Hacker News (420 points, 400 comments)."
+    "summary": "Community discussion on Hacker News (789 points, 649 comments).",
+    "details": "Community discussion on Hacker News (789 points, 649 comments)."
    },
    "translated": false,
    "fetchedAt": "2026-11-19T01:25:05+00:00"
@@ -53,8 +92,8 @@
    "originalTitle": "AI agents ask better questions than KPMG accountants in audit trial",
    "en": {
     "title": "AI agents ask better questions than KPMG accountants in audit trial",
-    "summary": "Community discussion on Hacker News (350 points, 160 comments).",
-    "details": "Community discussion on Hacker News (350 points, 160 comments)."
+    "summary": "Community discussion on Hacker News (451 points, 205 comments).",
+    "details": "Community discussion on Hacker News (451 points, 205 comments)."
    },
    "translated": false,
    "fetchedAt": "2026-11-19T01:25:05+00:00"
@@ -72,8 +111,8 @@
    "originalTitle": "Connect Supabase, Box, Calendly, and more to Copilot",
    "en": {
     "title": "Connect Supabase, Box, Calendly, and more to Copilot",
-    "summary": "You can now connect eight more services to Copilot using GitHub-verified MCP servers, or connectors, available in public preview. New services you can connect Box : Search and manage content, and use Box AI.",
-    "details": "You can now connect eight more services to Copilot using GitHub-verified MCP servers, or connectors, available in public preview.\n\nNew services you can connect\n\n- Box : Search and manage content, and use Box AI.\n\n- Buildkite : Work with pipelines and builds.\n\n- Calendly : Manage scheduling and meetings.\n\n- ClickUp : Track tasks and projects.\n\n- Mixpanel : Explore product analytics.\n\n- Supabase : Work with projects and databases.\n\n- Webflow : Manage sites and content.\n\n- Wix : Manage sites and business tools.\n\nFor example, you can ask Copilot why your latest Buildkite build failed and have it fix the code in the same session, or have it check your Supabase schema before it writes a migration. You can still also connect to services like Slack, Figma, and Sentry.\n\nConnect these services once, and you can use them across Copilot.\n\nConnect a service\n\nYou connect these services the same way as any other connector:\n\n- Copilot app : Open Customize and select Connect on the service you want.\n\n- Copilot CLI : Run /mcp , switch to the Connectors tab, and select Connect on the service you want.\n\n- VS Code : Open the Agents window, go to Customizations , and connect the service you want.\n\n- github.com : Browse services on the Copilot customization page and select the service you want.\n\nAvailability …"
+    "summary": "You can now connect eight more services to Copilot using GitHub-verified MCP servers, or connectors, available in public preview. They join more than 25 services you can already connect, like Slack, Figma, and Sentry.",
+    "details": "You can now connect eight more services to Copilot using GitHub-verified MCP servers, or connectors, available in public preview. They join more than 25 services you can already connect, like Slack, Figma, and Sentry. To see the full list, open Customize in the Copilot app or browse the Copilot customization page .\n\nNew services you can connect\n\n- Box : Search and manage content, and use Box AI.\n\n- Buildkite : Work with pipelines and builds.\n\n- Calendly : Manage scheduling and meetings.\n\n- ClickUp : Track tasks and projects.\n\n- Mixpanel : Explore product analytics.\n\n- Supabase : Work with projects and databases.\n\n- Webflow : Manage sites and content.\n\n- Wix : Manage sites and business tools.\n\nFor example, you can ask Copilot why your latest Buildkite build failed and have it fix the code in the same session, or have it check your Supabase schema before it writes a migration.\n\nConnect these services once, and you can use them across Copilot.\n\nConnect a service\n\nYou connect these services the same way as any other connector:\n\n- Copilot app : Open Customize and select Connect on the service you want.\n\n- Copilot CLI : Run /mcp , switch to the Connectors tab, and select Connect on the service you want.\n\n- VS Code : Open the Agents window, go to Customizations , and connect the service you want.\n\n- github.com : Browse services on the Copilot customization page and select the service you want.\n\nAvailability …"
    },
    "translated": false,
    "fetchedAt": "2026-11-19T01:25:04+00:00",
@@ -211,8 +250,8 @@
    "originalTitle": "Seven new models at scalable price-performance",
    "en": {
     "title": "Seven new models at scalable price-performance",
-    "summary": "Community discussion on Hacker News (445 points, 308 comments).",
-    "details": "Community discussion on Hacker News (445 points, 308 comments)."
+    "summary": "Community discussion on Hacker News (534 points, 347 comments).",
+    "details": "Community discussion on Hacker News (534 points, 347 comments)."
    },
    "translated": false,
    "fetchedAt": "2026-11-18T19:30:04+00:00"
@@ -506,8 +545,8 @@
    "originalTitle": "AI is killing All About Berlin",
    "en": {
     "title": "AI is killing All About Berlin",
-    "summary": "Community discussion on Hacker News (757 points, 684 comments).",
-    "details": "Community discussion on Hacker News (757 points, 684 comments)."
+    "summary": "Community discussion on Hacker News (781 points, 695 comments).",
+    "details": "Community discussion on Hacker News (781 points, 695 comments)."
    },
    "translated": false,
    "fetchedAt": "2026-11-18T11:27:36+00:00"
@@ -525,8 +564,8 @@
    "originalTitle": "Google's AI answers reducing search traffic by 40%",
    "en": {
     "title": "Google's AI answers reducing search traffic by 40%",
-    "summary": "Community discussion on Hacker News (689 points, 538 comments).",
-    "details": "Community discussion on Hacker News (689 points, 538 comments)."
+    "summary": "Community discussion on Hacker News (697 points, 546 comments).",
+    "details": "Community discussion on Hacker News (697 points, 546 comments)."
    },
    "translated": false,
    "fetchedAt": "2026-11-18T11:27:36+00:00"
@@ -583,8 +622,8 @@
    "originalTitle": "Harvard researchers find AI coding agents shifted the bottleneck to code review",
    "en": {
     "title": "Harvard researchers find AI coding agents shifted the bottleneck to code review",
-    "summary": "Community discussion on Hacker News (319 points, 439 comments).",
-    "details": "Community discussion on Hacker News (319 points, 439 comments)."
+    "summary": "Community discussion on Hacker News (320 points, 443 comments).",
+    "details": "Community discussion on Hacker News (320 points, 443 comments)."
    },
    "translated": false,
    "fetchedAt": "2026-11-18T19:30:04+00:00"
