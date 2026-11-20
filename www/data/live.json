@@ -1,6 +1,84 @@
 {
- "updatedAt": "2026-11-19T18:11:52+00:00",
+ "updatedAt": "2026-11-20T00:40:18+00:00",
  "items": [
+  {
+   "id": "auto-b735436d7fc7",
+   "tab": "ai",
+   "date": "2026-11-19",
+   "publishedAt": "2026-11-19T17:02:40+00:00",
+   "type": "product",
+   "importance": 1,
+   "sourceType": "community",
+   "sourceName": "Hacker News",
+   "url": "https://news.ycombinator.com/item?id=50562754",
+   "originalTitle": "Anthropic’s Nasdaq debut",
+   "en": {
+    "title": "Anthropic’s Nasdaq debut",
+    "summary": "Community discussion on Hacker News (863 points, 1675 comments).",
+    "details": "Community discussion on Hacker News (863 points, 1675 comments)."
+   },
+   "translated": false,
+   "fetchedAt": "2026-11-20T00:40:14+00:00"
+  },
+  {
+   "id": "auto-be0fb5adae6f",
+   "tab": "ai",
+   "date": "2026-11-19",
+   "publishedAt": "2026-11-19T16:30:18+00:00",
+   "type": "product",
+   "importance": 1,
+   "sourceType": "community",
+   "sourceName": "Hacker News",
+   "url": "https://news.ycombinator.com/item?id=50562262",
+   "originalTitle": "Fuck Your AI Safeguards",
+   "en": {
+    "title": "Fuck Your AI Safeguards",
+    "summary": "Community discussion on Hacker News (464 points, 191 comments).",
+    "details": "Community discussion on Hacker News (464 points, 191 comments)."
+   },
+   "translated": false,
+   "fetchedAt": "2026-11-20T00:40:14+00:00"
+  },
+  {
+   "id": "auto-815ba644c53f",
+   "tab": "ai",
+   "date": "2026-11-19",
+   "publishedAt": "2026-11-19T20:00:15+00:00",
+   "type": "hardware",
+   "importance": 1,
+   "sourceType": "official",
+   "sourceName": "NVIDIA Blog",
+   "url": "https://blogs.nvidia.com/blog/microsoft-ignite-accelerated-computing-azure-windows-pcs/",
+   "originalTitle": "NVIDIA and Microsoft Expand Accelerated Computing From Azure to Windows PCs",
+   "en": {
+    "title": "NVIDIA and Microsoft Expand Accelerated Computing From Azure to Windows PCs",
+    "summary": "NVIDIA and Microsoft are extending their full-stack collaboration to help organizations build, customize and deploy intelligent applications — from next-generation infrastructure on Azure to industrial systems and Windows PCs.",
+    "details": "NVIDIA and Microsoft are extending their full-stack collaboration to help organizations build, customize and deploy intelligent applications — from next-generation infrastructure on Azure to industrial systems and Windows PCs.\n\nAt Microsoft Ignite , the companies are expanding access to Azure virtual machines powered by NVIDIA Vera Rubin NVL72 systems, as well as adding customer availability to NVIDIA open models and customization capabilities through Microsoft Foundry, and new options for running AI at the edge, where businesses generate and use their data.\n\nMicrosoft is also using NVIDIA technologies to accelerate its own models and services, including NVIDIA Dynamo inference software for post-training and NVIDIA RTX PRO 6000 Blackwell GPUs for Bing search models.\n\nNVIDIA Vera Rubin NVL72 Running in Azure\n\nNVIDIA Vera Rubin NVL72 systems are running in Azure data centers , providing infrastructure designed for demanding reasoning, agentic applications, and large-scale model training and inference.\n\nMicrosoft and NVIDIA are also collaborating to extend confidential computing to bare-metal and rack-scale AI infrastructure. The work will help protect sensitive models and data while they are being processed, supporting organizations that need to work with proprietary or regulated information. …"
+   },
+   "translated": false,
+   "fetchedAt": "2026-11-20T00:40:14+00:00",
+   "company": "NVIDIA"
+  },
+  {
+   "id": "auto-278dc93a7337",
+   "tab": "ai",
+   "date": "2026-11-19",
+   "publishedAt": "2026-11-19T18:00:00+00:00",
+   "type": "coding",
+   "importance": 1,
+   "sourceType": "official",
+   "sourceName": "Google Blog — AI",
+   "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval/",
+   "originalTitle": "Introducing Tool Retrieval in the Gemini API",
+   "en": {
+    "title": "Introducing Tool Retrieval in the Gemini API",
+    "summary": "Give your agents access to hundreds of tools while using fewer tokens with Tool Retrieval, now in preview in the Gemini API.",
+    "details": "Give your agents access to hundreds of tools while using fewer tokens with Tool Retrieval, now in preview in the Gemini API."
+   },
+   "translated": false,
+   "fetchedAt": "2026-11-20T00:40:14+00:00",
+   "company": "Google"
+  },
   {
    "id": "auto-39f4ab974413",
    "tab": "ai",
@@ -189,8 +267,8 @@
    "originalTitle": "Gemini 4 Neon",
    "en": {
     "title": "Gemini 4 Neon",
-    "summary": "Community discussion on Hacker News (980 points, 744 comments).",
-    "details": "Community discussion on Hacker News (980 points, 744 comments)."
+    "summary": "Community discussion on Hacker News (1013 points, 761 comments).",
+    "details": "Community discussion on Hacker News (1013 points, 761 comments)."
    },
    "translated": false,
    "fetchedAt": "2026-11-19T01:25:05+00:00"
@@ -208,8 +286,8 @@
    "originalTitle": "AI agents ask better questions than KPMG accountants in audit trial",
    "en": {
     "title": "AI agents ask better questions than KPMG accountants in audit trial",
-    "summary": "Community discussion on Hacker News (478 points, 241 comments).",
-    "details": "Community discussion on Hacker News (478 points, 241 comments)."
+    "summary": "Community discussion on Hacker News (482 points, 249 comments).",
+    "details": "Community discussion on Hacker News (482 points, 249 comments)."
    },
    "translated": false,
    "fetchedAt": "2026-11-19T01:25:05+00:00"
@@ -366,8 +444,8 @@
    "originalTitle": "Seven new models at scalable price-performance",
    "en": {
     "title": "Seven new models at scalable price-performance",
-    "summary": "Community discussion on Hacker News (588 points, 370 comments).",
-    "details": "Community discussion on Hacker News (588 points, 370 comments)."
+    "summary": "Community discussion on Hacker News (592 points, 376 comments).",
+    "details": "Community discussion on Hacker News (592 points, 376 comments)."
    },
    "translated": false,
    "fetchedAt": "2026-11-18T19:30:04+00:00"
@@ -661,8 +739,8 @@
    "originalTitle": "AI is killing All About Berlin",
    "en": {
     "title": "AI is killing All About Berlin",
-    "summary": "Community discussion on Hacker News (798 points, 706 comments).",
-    "details": "Community discussion on Hacker News (798 points, 706 comments)."
+    "summary": "Community discussion on Hacker News (803 points, 710 comments).",
+    "details": "Community discussion on Hacker News (803 points, 710 comments)."
    },
    "translated": false,
    "fetchedAt": "2026-11-18T11:27:36+00:00"
