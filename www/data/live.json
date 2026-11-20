@@ -1,6 +1,86 @@
 {
- "updatedAt": "2026-11-20T16:25:56+00:00",
+ "updatedAt": "2026-11-20T22:44:34+00:00",
  "items": [
+  {
+   "id": "auto-8a4cf7fa5e14",
+   "tab": "ai",
+   "date": "2026-11-20",
+   "publishedAt": "2026-11-20T00:00:00+00:00",
+   "type": "product",
+   "importance": 1,
+   "sourceType": "official",
+   "sourceName": "OpenAI News",
+   "url": "https://openai.com/index/introducing-medchembench",
+   "originalTitle": "Can AI help scientists identify promising drug candidates?",
+   "en": {
+    "title": "Can AI help scientists identify promising drug candidates?",
+    "summary": "MedChemBench evaluates how well AI models interpret molecular structures, reason from experimental evidence, and select compounds in early drug discovery.",
+    "details": "MedChemBench evaluates how well AI models interpret molecular structures, reason from experimental evidence, and select compounds in early drug discovery."
+   },
+   "translated": false,
+   "fetchedAt": "2026-11-20T22:44:29+00:00",
+   "company": "OpenAI"
+  },
+  {
+   "id": "auto-a1d1698ea526",
+   "tab": "ai",
+   "date": "2026-11-20",
+   "publishedAt": "2026-11-20T20:41:26+00:00",
+   "type": "coding",
+   "importance": 1,
+   "sourceType": "official",
+   "sourceName": "GitHub Changelog",
+   "url": "https://github.blog/changelog/2026-11-20-github-enterprise-server-3-23-release-candidate",
+   "originalTitle": "GitHub Enterprise Server 3.23 release candidate",
+   "en": {
+    "title": "GitHub Enterprise Server 3.23 release candidate",
+    "summary": "GitHub Enterprise Server (GHES) 3.23 is now available and introduces new capabilities across the platform.",
+    "details": "GitHub Enterprise Server (GHES) 3.23 is now available and introduces new capabilities across the platform. Here are a few highlights in the 3.23 release:\n\n- When working in GitHub Projects, you can create more precise project views by combining filters with logical OR , explicit AND , and parentheses for grouping. For example, (status:Done OR status:Todo) is:issue shows issues with either status.\n\n-\nIf your enterprise uses GitHub Secret Protection, you can detect unstructured secrets entirely within your network using AI secret detection on GHES, including in air-gapped environments. A self-contained, fine-tuned model runs on the appliance’s CPU without a GPU, hosted LLM, or outbound connection. This feature is in public preview and subject to change.\n\n-\nAs a developer, you can identify known malicious packages in PyPI, Maven, RubyGems, NuGet, Go, Rust, and Composer through the GitHub Advisory Database, in addition to npm. The database automatically ingests malware advisories from OpenSSF’s malicious-packages repository to expand coverage across these ecosystems.\n\n-\nBy default, Dependabot waits until a package version has been available on its registry for at least three days before opening a version update pull request. This cooldown gives maintainers and the community more time to detect and report compromised or buggy releases before users merge updates. …"
+   },
+   "translated": false,
+   "fetchedAt": "2026-11-20T22:44:29+00:00",
+   "company": "GitHub"
+  },
+  {
+   "id": "auto-a4f31a72ec57",
+   "tab": "ai",
+   "date": "2026-11-20",
+   "publishedAt": "2026-11-20T00:00:00+00:00",
+   "type": "product",
+   "importance": 1,
+   "sourceType": "official",
+   "sourceName": "Hugging Face Blog",
+   "url": "https://huggingface.co/blog/inkling2mini",
+   "originalTitle": "Welcome Inkling 2 Mini, Cutting-edge Performance for your Local Setup",
+   "en": {
+    "title": "Welcome Inkling 2 Mini, Cutting-edge Performance for your Local Setup",
+    "summary": "Welcome Inkling 2 Mini, Cutting-edge Performance for your Local Setup",
+    "details": ""
+   },
+   "translated": false,
+   "fetchedAt": "2026-11-20T22:44:29+00:00",
+   "company": "Hugging Face"
+  },
+  {
+   "id": "auto-46960a72cd69",
+   "tab": "ai",
+   "date": "2026-11-20",
+   "publishedAt": "2026-11-20T18:30:45+00:00",
+   "type": "product",
+   "importance": 1,
+   "sourceType": "official",
+   "sourceName": "Meta Newsroom",
+   "url": "https://about.fb.com/news/2026/11/advancing-science-together-highlights-from-the-open-source-ai-for-science-summit/",
+   "originalTitle": "Advancing Science Together: Highlights From the Open Source AI For Science Summit",
+   "en": {
+    "title": "Advancing Science Together: Highlights From the Open Source AI For Science Summit",
+    "summary": "From studying the brain to discovering new materials, open source AI is giving scientists new ways to tackle difficult problems.",
+    "details": "From studying the brain to discovering new materials, open source AI is giving scientists new ways to tackle difficult problems. Last month, Meta’s Fundamental AI Research (FAIR) team brought researchers from universities, hospitals, and industry together at our Menlo Park, California, headquarters for the Open Source AI for Science Summit.\n\nOver two days, attendees explored how openly shared AI models, tools, and data can advance healthcare, neuroscience, chemistry, materials science, and mathematics. Hands-on workshops also gave attendees a chance to collaborate directly with the scientists behind Meta’s models.\n\nHere are a few highlights.\n\nAdvancing Medical Research and Real-World Applications\n\nWe announced an expansion of the Digital Brain Project , launched with the Rothschild Hospital Foundation and the University of Montreal. The project funds researchers to collect de-identified brain data and share it openly. We’re increasing the project’s data target from 15,000 hours of brain data to 25,000, to help researchers understand human intelligence and explore ways to improve neurological health.\n\nResearchers are also exploring how AI can support greater independence for people with disabilities.The University of Pittsburgh presented an assistive-robotics system built on DINOv3 and SAM 3 . The team plans to demonstrate a robot that can help a person eat and is experimenting with letting users give instructions in their own words. …"
+   },
+   "translated": false,
+   "fetchedAt": "2026-11-20T22:44:28+00:00",
+   "company": "Meta"
+  },
   {
    "id": "auto-daa5ed95b3ec",
    "tab": "ai",
@@ -53,8 +133,8 @@
    "originalTitle": "Frostbite: A new CPU architecture discovered, designed and verified by AI",
    "en": {
     "title": "Frostbite: A new CPU architecture discovered, designed and verified by AI",
-    "summary": "Community discussion on Hacker News (422 points, 256 comments).",
-    "details": "Community discussion on Hacker News (422 points, 256 comments)."
+    "summary": "Community discussion on Hacker News (594 points, 315 comments).",
+    "details": "Community discussion on Hacker News (594 points, 315 comments)."
    },
    "translated": false,
    "fetchedAt": "2026-11-20T16:25:52+00:00"
@@ -91,8 +171,8 @@
    "originalTitle": "Pete Warden on local AI, open models, voice interfaces, the future of hardware",
    "en": {
     "title": "Pete Warden on local AI, open models, voice interfaces, the future of hardware",
-    "summary": "Community discussion on Hacker News (264 points, 240 comments).",
-    "details": "Community discussion on Hacker News (264 points, 240 comments)."
+    "summary": "Community discussion on Hacker News (267 points, 247 comments).",
+    "details": "Community discussion on Hacker News (267 points, 247 comments)."
    },
    "translated": false,
    "fetchedAt": "2026-11-20T16:25:52+00:00"
@@ -110,8 +190,8 @@
    "originalTitle": "Anthropic’s Nasdaq debut",
    "en": {
     "title": "Anthropic’s Nasdaq debut",
-    "summary": "Community discussion on Hacker News (1111 points, 2237 comments).",
-    "details": "Community discussion on Hacker News (1111 points, 2237 comments)."
+    "summary": "Community discussion on Hacker News (1127 points, 2287 comments).",
+    "details": "Community discussion on Hacker News (1127 points, 2287 comments)."
    },
    "translated": false,
    "fetchedAt": "2026-11-20T00:40:14+00:00"
@@ -129,8 +209,8 @@
    "originalTitle": "Fuck Your AI Safeguards",
    "en": {
     "title": "Fuck Your AI Safeguards",
-    "summary": "Community discussion on Hacker News (580 points, 237 comments).",
-    "details": "Community discussion on Hacker News (580 points, 237 comments)."
+    "summary": "Community discussion on Hacker News (595 points, 245 comments).",
+    "details": "Community discussion on Hacker News (595 points, 245 comments)."
    },
    "translated": false,
    "fetchedAt": "2026-11-20T00:40:14+00:00"
@@ -363,8 +443,8 @@
    "originalTitle": "Gemini 4 Neon",
    "en": {
     "title": "Gemini 4 Neon",
-    "summary": "Community discussion on Hacker News (1041 points, 773 comments).",
-    "details": "Community discussion on Hacker News (1041 points, 773 comments)."
+    "summary": "Community discussion on Hacker News (1048 points, 776 comments).",
+    "details": "Community discussion on Hacker News (1048 points, 776 comments)."
    },
    "translated": false,
    "fetchedAt": "2026-11-19T01:25:05+00:00"
@@ -540,8 +620,8 @@
    "originalTitle": "Seven new models at scalable price-performance",
    "en": {
     "title": "Seven new models at scalable price-performance",
-    "summary": "Community discussion on Hacker News (600 points, 377 comments).",
-    "details": "Community discussion on Hacker News (600 points, 377 comments)."
+    "summary": "Community discussion on Hacker News (602 points, 377 comments).",
+    "details": "Community discussion on Hacker News (602 points, 377 comments)."
    },
    "translated": false,
    "fetchedAt": "2026-11-18T19:30:04+00:00"
