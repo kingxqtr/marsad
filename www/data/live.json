@@ -1,6 +1,120 @@
 {
- "updatedAt": "2026-11-21T11:42:43+00:00",
+ "updatedAt": "2026-11-21T18:15:02+00:00",
  "items": [
+  {
+   "id": "auto-98d842ed64f7",
+   "tab": "star-citizen",
+   "date": "2026-11-21",
+   "publishedAt": "2026-11-21T16:14:57+00:00",
+   "type": "ship",
+   "importance": 1,
+   "sourceType": "official",
+   "sourceName": "RSI Comm-Link",
+   "url": "https://robertsspaceindustries.com/comm-link/transmission/21462-Star-Citizen-Behind-The-Ships-Gatac-Hy-n",
+   "originalTitle": "Star Citizen | Behind the Ships: Gatac Hyūn",
+   "en": {
+    "title": "Star Citizen | Behind the Ships: Gatac Hyūn",
+    "summary": "What is an Industrial Generalist and how does this first one work? Let our ship team take you on a tour of this alien anomaly.",
+    "details": "What is an Industrial Generalist and how does this first one work? Let our ship team take you on a tour of this alien anomaly."
+   },
+   "translated": false,
+   "fetchedAt": "2026-11-21T18:14:57+00:00"
+  },
+  {
+   "id": "auto-9037625fc40c",
+   "tab": "star-citizen",
+   "date": "2026-11-21",
+   "publishedAt": "2026-11-21T16:14:57+00:00",
+   "type": "ship",
+   "importance": 1,
+   "sourceType": "official",
+   "sourceName": "RSI Comm-Link",
+   "url": "https://robertsspaceindustries.com/comm-link/transmission/21395-IAE-2956-Esperia",
+   "originalTitle": "IAE 2956 Esperia",
+   "en": {
+    "title": "IAE 2956 Esperia",
+    "summary": "Accurate replicas of historic Tevarin and Vanduul spacecraft.",
+    "details": "Accurate replicas of historic Tevarin and Vanduul spacecraft."
+   },
+   "translated": false,
+   "fetchedAt": "2026-11-21T18:14:57+00:00"
+  },
+  {
+   "id": "auto-9dd2b8bf25b9",
+   "tab": "star-citizen",
+   "date": "2026-11-21",
+   "publishedAt": "2026-11-21T16:14:57+00:00",
+   "type": "ship",
+   "importance": 1,
+   "sourceType": "official",
+   "sourceName": "RSI Comm-Link",
+   "url": "https://robertsspaceindustries.com/comm-link/transmission/21396-IAE-2956-Banu",
+   "originalTitle": "IAE 2956 Banu",
+   "en": {
+    "title": "IAE 2956 Banu",
+    "summary": "Esoteric ships for those in the know.",
+    "details": "Esoteric ships for those in the know."
+   },
+   "translated": false,
+   "fetchedAt": "2026-11-21T18:14:57+00:00"
+  },
+  {
+   "id": "auto-8609cb43c491",
+   "tab": "star-citizen",
+   "date": "2026-11-21",
+   "publishedAt": "2026-11-21T16:14:57+00:00",
+   "type": "ship",
+   "importance": 1,
+   "sourceType": "official",
+   "sourceName": "RSI Comm-Link",
+   "url": "https://robertsspaceindustries.com/comm-link/transmission/21397-IAE-2956-Aopoa",
+   "originalTitle": "IAE 2956 Aopoa",
+   "en": {
+    "title": "IAE 2956 Aopoa",
+    "summary": "Genuine alien fighters, adapted for Human use.",
+    "details": "Genuine alien fighters, adapted for Human use."
+   },
+   "translated": false,
+   "fetchedAt": "2026-11-21T18:14:57+00:00"
+  },
+  {
+   "id": "auto-7b7e1894cec8",
+   "tab": "star-citizen",
+   "date": "2026-11-21",
+   "publishedAt": "2026-11-21T16:14:57+00:00",
+   "type": "ship",
+   "importance": 1,
+   "sourceType": "official",
+   "sourceName": "RSI Comm-Link",
+   "url": "https://robertsspaceindustries.com/comm-link/transmission/21394-IAE-2956-Gatac-Manufacture",
+   "originalTitle": "IAE 2956 Gatac Manufacture",
+   "en": {
+    "title": "IAE 2956 Gatac Manufacture",
+    "summary": "Introducing the Xi’an-designed mining/salvage hybrid ship.",
+    "details": "Introducing the Xi’an-designed mining/salvage hybrid ship."
+   },
+   "translated": false,
+   "fetchedAt": "2026-11-21T18:14:57+00:00"
+  },
+  {
+   "id": "auto-6925682bdeeb",
+   "tab": "star-citizen",
+   "date": "2026-11-21",
+   "publishedAt": "2026-11-21T16:14:57+00:00",
+   "type": "ship",
+   "importance": 1,
+   "sourceType": "official",
+   "sourceName": "RSI Comm-Link",
+   "url": "https://robertsspaceindustries.com/comm-link/transmission/21349-Gatac-Hy-n",
+   "originalTitle": "Gatac Hyūn - Wealth in Opportunity",
+   "en": {
+    "title": "Gatac Hyūn - Wealth in Opportunity",
+    "summary": "From rocks to wrecks, the Xi’an-designed Gatac Hyūn lets you mine and salvage with a single, solo-pilot ship.",
+    "details": "From rocks to wrecks, the Xi’an-designed Gatac Hyūn lets you mine and salvage with a single, solo-pilot ship."
+   },
+   "translated": false,
+   "fetchedAt": "2026-11-21T18:14:57+00:00"
+  },
   {
    "id": "auto-a7f63723c96a",
    "tab": "once-human",
@@ -33,8 +147,8 @@
    "originalTitle": "Nasdaq erases all 2026 gains as AI sell-off dampens Anthropic’s second day",
    "en": {
     "title": "Nasdaq erases all 2026 gains as AI sell-off dampens Anthropic’s second day",
-    "summary": "Community discussion on Hacker News (331 points, 611 comments).",
-    "details": "Community discussion on Hacker News (331 points, 611 comments)."
+    "summary": "Community discussion on Hacker News (451 points, 794 comments).",
+    "details": "Community discussion on Hacker News (451 points, 794 comments)."
    },
    "translated": false,
    "fetchedAt": "2026-11-21T11:42:39+00:00"
@@ -52,8 +166,8 @@
    "originalTitle": "Google workers tell their employer not to punish schools that don't want AI",
    "en": {
     "title": "Google workers tell their employer not to punish schools that don't want AI",
-    "summary": "Community discussion on Hacker News (276 points, 214 comments).",
-    "details": "Community discussion on Hacker News (276 points, 214 comments)."
+    "summary": "Community discussion on Hacker News (278 points, 222 comments).",
+    "details": "Community discussion on Hacker News (278 points, 222 comments)."
    },
    "translated": false,
    "fetchedAt": "2026-11-21T03:31:05+00:00"
@@ -71,8 +185,8 @@
    "originalTitle": "Restricting AI agents in mobile operating systems platforms from capturing data",
    "en": {
     "title": "Restricting AI agents in mobile operating systems platforms from capturing data",
-    "summary": "Community discussion on Hacker News (556 points, 323 comments).",
-    "details": "Community discussion on Hacker News (556 points, 323 comments)."
+    "summary": "Community discussion on Hacker News (562 points, 332 comments).",
+    "details": "Community discussion on Hacker News (562 points, 332 comments)."
    },
    "translated": false,
    "fetchedAt": "2026-11-21T03:31:05+00:00"
@@ -209,8 +323,8 @@
    "originalTitle": "Frostbite: A new CPU architecture discovered, designed and verified by AI",
    "en": {
     "title": "Frostbite: A new CPU architecture discovered, designed and verified by AI",
-    "summary": "Community discussion on Hacker News (648 points, 335 comments).",
-    "details": "Community discussion on Hacker News (648 points, 335 comments)."
+    "summary": "Community discussion on Hacker News (663 points, 350 comments).",
+    "details": "Community discussion on Hacker News (663 points, 350 comments)."
    },
    "translated": false,
    "fetchedAt": "2026-11-20T16:25:52+00:00"
@@ -266,8 +380,8 @@
    "originalTitle": "Anthropic’s Nasdaq debut",
    "en": {
     "title": "Anthropic’s Nasdaq debut",
-    "summary": "Community discussion on Hacker News (1133 points, 2301 comments).",
-    "details": "Community discussion on Hacker News (1133 points, 2301 comments)."
+    "summary": "Community discussion on Hacker News (1137 points, 2314 comments).",
+    "details": "Community discussion on Hacker News (1137 points, 2314 comments)."
    },
    "translated": false,
    "fetchedAt": "2026-11-20T00:40:14+00:00"
@@ -285,8 +399,8 @@
    "originalTitle": "Fuck Your AI Safeguards",
    "en": {
     "title": "Fuck Your AI Safeguards",
-    "summary": "Community discussion on Hacker News (609 points, 249 comments).",
-    "details": "Community discussion on Hacker News (609 points, 249 comments)."
+    "summary": "Community discussion on Hacker News (614 points, 249 comments).",
+    "details": "Community discussion on Hacker News (614 points, 249 comments)."
    },
    "translated": false,
    "fetchedAt": "2026-11-20T00:40:14+00:00"
