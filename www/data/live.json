@@ -1,6 +1,44 @@
 {
- "updatedAt": "2026-11-20T22:44:34+00:00",
+ "updatedAt": "2026-11-21T03:31:09+00:00",
  "items": [
+  {
+   "id": "auto-53421cf8249e",
+   "tab": "ai",
+   "date": "2026-11-20",
+   "publishedAt": "2026-11-20T16:59:27+00:00",
+   "type": "product",
+   "importance": 1,
+   "sourceType": "community",
+   "sourceName": "Hacker News",
+   "url": "https://news.ycombinator.com/item?id=50577901",
+   "originalTitle": "Google workers tell their employer not to punish schools that don't want AI",
+   "en": {
+    "title": "Google workers tell their employer not to punish schools that don't want AI",
+    "summary": "Community discussion on Hacker News (268 points, 198 comments).",
+    "details": "Community discussion on Hacker News (268 points, 198 comments)."
+   },
+   "translated": false,
+   "fetchedAt": "2026-11-21T03:31:05+00:00"
+  },
+  {
+   "id": "auto-c555df7032a3",
+   "tab": "ai",
+   "date": "2026-11-20",
+   "publishedAt": "2026-11-20T09:42:16+00:00",
+   "type": "product",
+   "importance": 1,
+   "sourceType": "community",
+   "sourceName": "Hacker News",
+   "url": "https://news.ycombinator.com/item?id=50572348",
+   "originalTitle": "Restricting AI agents in mobile operating systems platforms from capturing data",
+   "en": {
+    "title": "Restricting AI agents in mobile operating systems platforms from capturing data",
+    "summary": "Community discussion on Hacker News (525 points, 310 comments).",
+    "details": "Community discussion on Hacker News (525 points, 310 comments)."
+   },
+   "translated": false,
+   "fetchedAt": "2026-11-21T03:31:05+00:00"
+  },
   {
    "id": "auto-8a4cf7fa5e14",
    "tab": "ai",
@@ -133,8 +171,8 @@
    "originalTitle": "Frostbite: A new CPU architecture discovered, designed and verified by AI",
    "en": {
     "title": "Frostbite: A new CPU architecture discovered, designed and verified by AI",
-    "summary": "Community discussion on Hacker News (594 points, 315 comments).",
-    "details": "Community discussion on Hacker News (594 points, 315 comments)."
+    "summary": "Community discussion on Hacker News (632 points, 328 comments).",
+    "details": "Community discussion on Hacker News (632 points, 328 comments)."
    },
    "translated": false,
    "fetchedAt": "2026-11-20T16:25:52+00:00"
@@ -171,8 +209,8 @@
    "originalTitle": "Pete Warden on local AI, open models, voice interfaces, the future of hardware",
    "en": {
     "title": "Pete Warden on local AI, open models, voice interfaces, the future of hardware",
-    "summary": "Community discussion on Hacker News (267 points, 247 comments).",
-    "details": "Community discussion on Hacker News (267 points, 247 comments)."
+    "summary": "Community discussion on Hacker News (269 points, 247 comments).",
+    "details": "Community discussion on Hacker News (269 points, 247 comments)."
    },
    "translated": false,
    "fetchedAt": "2026-11-20T16:25:52+00:00"
@@ -190,8 +228,8 @@
    "originalTitle": "Anthropic’s Nasdaq debut",
    "en": {
     "title": "Anthropic’s Nasdaq debut",
-    "summary": "Community discussion on Hacker News (1127 points, 2287 comments).",
-    "details": "Community discussion on Hacker News (1127 points, 2287 comments)."
+    "summary": "Community discussion on Hacker News (1131 points, 2299 comments).",
+    "details": "Community discussion on Hacker News (1131 points, 2299 comments)."
    },
    "translated": false,
    "fetchedAt": "2026-11-20T00:40:14+00:00"
@@ -209,8 +247,8 @@
    "originalTitle": "Fuck Your AI Safeguards",
    "en": {
     "title": "Fuck Your AI Safeguards",
-    "summary": "Community discussion on Hacker News (595 points, 245 comments).",
-    "details": "Community discussion on Hacker News (595 points, 245 comments)."
+    "summary": "Community discussion on Hacker News (599 points, 246 comments).",
+    "details": "Community discussion on Hacker News (599 points, 246 comments)."
    },
    "translated": false,
    "fetchedAt": "2026-11-20T00:40:14+00:00"
