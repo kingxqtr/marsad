@@ -1,6 +1,64 @@
 {
- "updatedAt": "2026-11-22T11:46:08+00:00",
+ "updatedAt": "2026-11-22T18:40:14+00:00",
  "items": [
+  {
+   "id": "auto-e7019145c62d",
+   "tab": "ai",
+   "date": "2026-11-22",
+   "publishedAt": "2026-11-22T08:57:34+00:00",
+   "type": "product",
+   "importance": 1,
+   "sourceType": "community",
+   "sourceName": "Hacker News",
+   "url": "https://news.ycombinator.com/item?id=50597612",
+   "originalTitle": "87% of the Anthropic power will come from gas and 11% from coal in 2028",
+   "en": {
+    "title": "87% of the Anthropic power will come from gas and 11% from coal in 2028",
+    "summary": "Community discussion on Hacker News (588 points, 660 comments).",
+    "details": "Community discussion on Hacker News (588 points, 660 comments)."
+   },
+   "translated": false,
+   "fetchedAt": "2026-11-22T18:40:10+00:00"
+  },
+  {
+   "id": "auto-a51d6a728d83",
+   "tab": "star-citizen",
+   "date": "2026-11-22",
+   "publishedAt": "2026-11-22T15:40:09+00:00",
+   "type": "event",
+   "importance": 1,
+   "sourceType": "official",
+   "sourceName": "RSI Comm-Link",
+   "url": "https://robertsspaceindustries.com/comm-link/transmission/21393-IAE-2956-Best-In-Show",
+   "originalTitle": "IAE 2956 Best In Show",
+   "en": {
+    "title": "IAE 2956 Best In Show",
+    "summary": "Celebrate the winners of Ship Showdown 2956.",
+    "details": "Celebrate the winners of Ship Showdown 2956."
+   },
+   "translated": false,
+   "fetchedAt": "2026-11-22T18:40:09+00:00"
+  },
+  {
+   "id": "auto-bd545a438b27",
+   "tab": "ai",
+   "date": "2026-11-22",
+   "publishedAt": "2026-11-22T00:00:00+00:00",
+   "type": "coding",
+   "importance": 1,
+   "sourceType": "official",
+   "sourceName": "OpenAI News",
+   "url": "https://openai.com/index/perplexity-and-intelligence",
+   "originalTitle": "Perplexity and Intelligence",
+   "en": {
+    "title": "Perplexity and Intelligence",
+    "summary": "How perplexity measures progress in AI models, and why it could help developers establish a shared approach to evaluating emerging capabilities.",
+    "details": "How perplexity measures progress in AI models, and why it could help developers establish a shared approach to evaluating emerging capabilities."
+   },
+   "translated": false,
+   "fetchedAt": "2026-11-22T18:40:09+00:00",
+   "company": "OpenAI"
+  },
   {
    "id": "auto-98d842ed64f7",
    "tab": "star-citizen",
@@ -147,8 +205,8 @@
    "originalTitle": "Nasdaq erases all 2026 gains as AI sell-off dampens Anthropic’s second day",
    "en": {
     "title": "Nasdaq erases all 2026 gains as AI sell-off dampens Anthropic’s second day",
-    "summary": "Community discussion on Hacker News (513 points, 896 comments).",
-    "details": "Community discussion on Hacker News (513 points, 896 comments)."
+    "summary": "Community discussion on Hacker News (523 points, 917 comments).",
+    "details": "Community discussion on Hacker News (523 points, 917 comments)."
    },
    "translated": false,
    "fetchedAt": "2026-11-21T11:42:39+00:00"
@@ -166,8 +224,8 @@
    "originalTitle": "Google workers tell their employer not to punish schools that don't want AI",
    "en": {
     "title": "Google workers tell their employer not to punish schools that don't want AI",
-    "summary": "Community discussion on Hacker News (282 points, 228 comments).",
-    "details": "Community discussion on Hacker News (282 points, 228 comments)."
+    "summary": "Community discussion on Hacker News (283 points, 229 comments).",
+    "details": "Community discussion on Hacker News (283 points, 229 comments)."
    },
    "translated": false,
    "fetchedAt": "2026-11-21T03:31:05+00:00"
@@ -185,8 +243,8 @@
    "originalTitle": "Restricting AI agents in mobile operating systems platforms from capturing data",
    "en": {
     "title": "Restricting AI agents in mobile operating systems platforms from capturing data",
-    "summary": "Community discussion on Hacker News (574 points, 341 comments).",
-    "details": "Community discussion on Hacker News (574 points, 341 comments)."
+    "summary": "Community discussion on Hacker News (577 points, 346 comments).",
+    "details": "Community discussion on Hacker News (577 points, 346 comments)."
    },
    "translated": false,
    "fetchedAt": "2026-11-21T03:31:05+00:00"
@@ -323,8 +381,8 @@
    "originalTitle": "Frostbite: A new CPU architecture discovered, designed and verified by AI",
    "en": {
     "title": "Frostbite: A new CPU architecture discovered, designed and verified by AI",
-    "summary": "Community discussion on Hacker News (671 points, 359 comments).",
-    "details": "Community discussion on Hacker News (671 points, 359 comments)."
+    "summary": "Community discussion on Hacker News (675 points, 362 comments).",
+    "details": "Community discussion on Hacker News (675 points, 362 comments)."
    },
    "translated": false,
    "fetchedAt": "2026-11-20T16:25:52+00:00"
@@ -380,8 +438,8 @@
    "originalTitle": "Anthropic’s Nasdaq debut",
    "en": {
     "title": "Anthropic’s Nasdaq debut",
-    "summary": "Community discussion on Hacker News (1140 points, 2323 comments).",
-    "details": "Community discussion on Hacker News (1140 points, 2323 comments)."
+    "summary": "Community discussion on Hacker News (1140 points, 2328 comments).",
+    "details": "Community discussion on Hacker News (1140 points, 2328 comments)."
    },
    "translated": false,
    "fetchedAt": "2026-11-20T00:40:14+00:00"
