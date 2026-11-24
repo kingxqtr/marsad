@@ -1,6 +1,145 @@
 {
- "updatedAt": "2026-11-23T16:09:06+00:00",
+ "updatedAt": "2026-11-24T02:53:26+00:00",
  "items": [
+  {
+   "id": "auto-875060338ff1",
+   "tab": "ai",
+   "date": "2026-11-23",
+   "publishedAt": "2026-11-23T16:59:40+00:00",
+   "type": "product",
+   "importance": 1,
+   "sourceType": "official",
+   "sourceName": "Google DeepMind Blog",
+   "url": "https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification/",
+   "originalTitle": "Finding faster quantum algorithms with agents and formal verification",
+   "en": {
+    "title": "Finding faster quantum algorithms with agents and formal verification",
+    "summary": "Using agent teams and formal verification to improve quantum algorithms for fusion and chemistry.",
+    "details": "Using agent teams and formal verification to improve quantum algorithms for fusion and chemistry."
+   },
+   "translated": false,
+   "fetchedAt": "2026-11-24T02:53:21+00:00",
+   "company": "Google"
+  },
+  {
+   "id": "auto-cb92857c6063",
+   "tab": "ai",
+   "date": "2026-11-23",
+   "publishedAt": "2026-11-23T17:00:00+00:00",
+   "type": "product",
+   "importance": 1,
+   "sourceType": "official",
+   "sourceName": "Google Blog — AI",
+   "url": "https://blog.google/products-and-platforms/products/search/google-search-personal-intelligence-apps/",
+   "originalTitle": "A more tailored Google Search that’s uniquely yours",
+   "en": {
+    "title": "A more tailored Google Search that’s uniquely yours",
+    "summary": "Get more helpful Search responses by securely opting in to connect Google Wallet, Drive, and the Gemini app to Personal Intelligence in AI Mode.",
+    "details": "Get more helpful Search responses by securely opting in to connect Google Wallet, Drive, and the Gemini app to Personal Intelligence in AI Mode."
+   },
+   "translated": false,
+   "fetchedAt": "2026-11-24T02:53:21+00:00",
+   "company": "Google"
+  },
+  {
+   "id": "auto-cc43133d3e40",
+   "tab": "ai",
+   "date": "2026-11-23",
+   "publishedAt": "2026-11-23T17:20:37+00:00",
+   "type": "product",
+   "importance": 1,
+   "sourceType": "official",
+   "sourceName": "Hugging Face Blog",
+   "url": "https://huggingface.co/blog/allenai/robotrack",
+   "originalTitle": "RoboTrack: Point tracking for real-world robotic manipulation",
+   "en": {
+    "title": "RoboTrack: Point tracking for real-world robotic manipulation",
+    "summary": "RoboTrack: Point tracking for real-world robotic manipulation",
+    "details": ""
+   },
+   "translated": false,
+   "fetchedAt": "2026-11-24T02:53:21+00:00",
+   "company": "Hugging Face"
+  },
+  {
+   "id": "auto-81795005562a",
+   "tab": "star-citizen",
+   "date": "2026-11-23",
+   "publishedAt": "2026-11-23T16:53:21+00:00",
+   "type": "development",
+   "importance": 1,
+   "sourceType": "official",
+   "sourceName": "RSI Comm-Link",
+   "url": "https://robertsspaceindustries.com/comm-link/transmission/21459-This-Week-In-Star-Citizen",
+   "originalTitle": "This Week in Star Citizen - November 23, 2026",
+   "en": {
+    "title": "This Week in Star Citizen - November 23, 2026",
+    "summary": "Happy Monday, everyone! Let’s see what’s happening in and out of the ‘verse, This Week in Star Citizen.",
+    "details": "Happy Monday, everyone! Let’s see what’s happening in and out of the ‘verse, This Week in Star Citizen."
+   },
+   "translated": false,
+   "fetchedAt": "2026-11-24T02:53:21+00:00"
+  },
+  {
+   "id": "auto-be0f0dd0c361",
+   "tab": "ai",
+   "date": "2026-11-23",
+   "publishedAt": "2026-11-23T20:37:11+00:00",
+   "type": "coding",
+   "importance": 1,
+   "sourceType": "official",
+   "sourceName": "GitHub Changelog",
+   "url": "https://github.blog/changelog/2026-11-23-issue-statuses-and-repository-boards-are-in-public-preview",
+   "originalTitle": "Issue statuses and repository boards are in public preview",
+   "en": {
+    "title": "Issue statuses and repository boards are in public preview",
+    "summary": "Open or closed doesn’t always tell you where an issue stands. You can now use more specific statuses to give your team and agents shared context about what’s in flight and what to work on next, then visualize your progress with repository …",
+    "details": "Open or closed doesn’t always tell you where an issue stands. You can now use more specific statuses to give your team and agents shared context about what’s in flight and what to work on next, then visualize your progress with repository boards.\n\nIssue statuses\n\nTrack progress directly on an issue. Choose a status when creating an issue or change it from the issue header. You’ll see it reflected in issue icons across the repository issues page, the issues dashboard , and repository boards, where you can use the status: filter to find the issues you’re looking for.\n\nAvailable statuses are:\n\n- Backlog\n\n- Todo\n\n- In progress\n\n- In review\n\n- Done\n\n- Not planned\n\n- Duplicate\n\nAutomated status updates. To help keep your statuses accurate, the following automations are applied to your issues:\n\n- Linking a draft pull request to an issue moves the issue to In progress .\n\n- Marking a draft pull request as Ready for review moves the issue to In review .\n\n- Linking an open pull request to an issue moves the issue to In review .\n\n- Assigning a user to an issue moves it to Todo .\n\n- Assigning an agent to an issue moves it to In progress .\n\n- If a GitHub Project has a status value that matches an issue status, changing either status updates the other. …"
+   },
+   "translated": false,
+   "fetchedAt": "2026-11-24T02:53:21+00:00",
+   "company": "GitHub"
+  },
+  {
+   "id": "auto-1a1867aebb84",
+   "tab": "ai",
+   "date": "2026-11-23",
+   "publishedAt": "2026-11-23T10:29:36+00:00",
+   "type": "coding",
+   "importance": 1,
+   "sourceType": "official",
+   "sourceName": "GitHub Changelog",
+   "url": "https://github.blog/changelog/2026-11-23-usage-reports-will-include-a-user-id-column-starting-december-1",
+   "originalTitle": "Usage reports will include a user ID column starting December 1",
+   "en": {
+    "title": "Usage reports will include a user ID column starting December 1",
+    "summary": "Starting December 1, 2026, usage reports that include a username column will also include a user_id column next to it. Every column after username will move one position to the right.",
+    "details": "Starting December 1, 2026, usage reports that include a username column will also include a user_id column next to it. Every column after username will move one position to the right.\n\nThis change applies to the detailed usage report, the AI usage report, and the premium request usage report, including exports you create with the GitHub REST API. The summarized usage report won’t change.\n\nThese changes apply to all GitHub Enterprise Cloud account types and standalone organizations on GitHub Team.\n\nWhat you need to do\n\nIf your scripts or tools read these reports by column position, update them to read columns by header name before December 1.\n\nWhat’s changing\n\nThe user_id column contains the ID of the account that generated the usage, including bot accounts. It’s empty for usage that isn’t tied to an account. With this column, you can:\n\n- Identify usage from deleted accounts, which currently have an empty username .\n\n- Follow a user’s usage after they change their username.\n\n- Match report rows to events in your audit log.\n\nUsage from different deleted accounts will also appear on separate rows instead of combined in one row with an empty username . We’ll calculate amounts the same way, but because we round each row separately, totals you add up from the report may differ slightly in the last decimal places.\n\nTo learn more, see Usage report fields .\n\nThe post Usage reports will include a user ID column starting December 1 appeared first on The GitHub Blog ."
+   },
+   "translated": false,
+   "fetchedAt": "2026-11-24T02:53:21+00:00",
+   "company": "GitHub"
+  },
+  {
+   "id": "auto-63c67798034f",
+   "tab": "ai",
+   "date": "2026-11-23",
+   "publishedAt": "2026-11-23T18:00:01+00:00",
+   "type": "business",
+   "importance": 1,
+   "sourceType": "official",
+   "sourceName": "Meta Newsroom",
+   "url": "https://about.fb.com/news/2026/11/researchers-using-meta-open-weight-ai-models-medical-breakthroughs/",
+   "originalTitle": "Researchers Are Using Meta’s Open-Weight AI Models to Transform Medicine",
+   "en": {
+    "title": "Researchers Are Using Meta’s Open-Weight AI Models to Transform Medicine",
+    "summary": "Open science is critical to advancing medical research. To accelerate this progress, we’ve expanded our academic partnerships , giving researchers funding and access to our AI models like Muse Glimmer, SAM3, DINOv3, and Brain2Qwertyv2.",
+    "details": "Open science is critical to advancing medical research. To accelerate this progress, we’ve expanded our academic partnerships , giving researchers funding and access to our AI models like Muse Glimmer, SAM3, DINOv3, and Brain2Qwertyv2. These researchers are independently adapting our models for their own investigational research. Here are a few of the projects that are benefitting from our partnership:\n\nTraining Doctors in Virtual Reality\n\nAt Louisiana State University, Dr. Peter DeBlieux and his team are using Muse Glimmer, SAM 3, DINOv3, and other models from Meta, along with Meta Quest 3 headsets to develop COPES, an experimental coaching platform that supports healthcare professionals with medical procedural training in virtual reality. The system will aim to provide adaptive guidance, real-time performance assessment, and personalized feedback across technical execution, patient communication, clinical reasoning, and decision-making. Working virtually means medical students can learn complicated procedures in situations where practicing on real patients may be risky, and virtual instruction means more medical professionals can receive high quality technical and communications training — no matter where they are.\n\nhttps://about.fb.com/wp-content/uploads/2027/11/NRP_NEWS-3325__PeterDeBlieux_v2.wav\n\nHelping Doctors Find the Source of Epilepsy …"
+   },
+   "translated": false,
+   "fetchedAt": "2026-11-24T02:53:21+00:00",
+   "company": "Meta"
+  },
   {
    "id": "auto-a7ba78342831",
    "tab": "once-human",
@@ -72,8 +211,8 @@
    "originalTitle": "A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
    "en": {
     "title": "A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
-    "summary": "Community discussion on Hacker News (657 points, 266 comments).",
-    "details": "Community discussion on Hacker News (657 points, 266 comments)."
+    "summary": "Community discussion on Hacker News (745 points, 297 comments).",
+    "details": "Community discussion on Hacker News (745 points, 297 comments)."
    },
    "translated": false,
    "fetchedAt": "2026-11-23T05:17:49+00:00"
@@ -91,8 +230,8 @@
    "originalTitle": "87% of the Anthropic power will come from gas and 11% from coal in 2028",
    "en": {
     "title": "87% of the Anthropic power will come from gas and 11% from coal in 2028",
-    "summary": "Community discussion on Hacker News (1001 points, 981 comments).",
-    "details": "Community discussion on Hacker News (1001 points, 981 comments)."
+    "summary": "Community discussion on Hacker News (1027 points, 1005 comments).",
+    "details": "Community discussion on Hacker News (1027 points, 1005 comments)."
    },
    "translated": false,
    "fetchedAt": "2026-11-22T18:40:10+00:00"
@@ -282,8 +421,8 @@
    "originalTitle": "Nasdaq erases all 2026 gains as AI sell-off dampens Anthropic’s second day",
    "en": {
     "title": "Nasdaq erases all 2026 gains as AI sell-off dampens Anthropic’s second day",
-    "summary": "Community discussion on Hacker News (530 points, 927 comments).",
-    "details": "Community discussion on Hacker News (530 points, 927 comments)."
+    "summary": "Community discussion on Hacker News (530 points, 931 comments).",
+    "details": "Community discussion on Hacker News (530 points, 931 comments)."
    },
    "translated": false,
    "fetchedAt": "2026-11-21T11:42:39+00:00"
@@ -320,8 +459,8 @@
    "originalTitle": "Restricting AI agents in mobile operating systems platforms from capturing data",
    "en": {
     "title": "Restricting AI agents in mobile operating systems platforms from capturing data",
-    "summary": "Community discussion on Hacker News (581 points, 348 comments).",
-    "details": "Community discussion on Hacker News (581 points, 348 comments)."
+    "summary": "Community discussion on Hacker News (581 points, 349 comments).",
+    "details": "Community discussion on Hacker News (581 points, 349 comments)."
    },
    "translated": false,
    "fetchedAt": "2026-11-21T03:31:05+00:00"
@@ -398,7 +537,7 @@
    "url": "https://about.fb.com/news/2026/11/advancing-science-together-highlights-from-the-open-source-ai-for-science-summit/",
    "originalTitle": "Advancing Science Together: Highlights From the Open Source AI For Science Summit",
    "en": {
-    "title": "Advancing Science Together: Highlights From the Open Source AI For Science Summit",
+    "title": "Advancing Science Together: Highlights From the Open Source AI for Science Summit",
     "summary": "From studying the brain to discovering new materials, open source AI is giving scientists new ways to tackle difficult problems.",
     "details": "From studying the brain to discovering new materials, open source AI is giving scientists new ways to tackle difficult problems. Last month, Meta’s Fundamental AI Research (FAIR) team brought researchers from universities, hospitals, and industry together at our Menlo Park, California, headquarters for the Open Source AI for Science Summit.\n\nOver two days, attendees explored how openly shared AI models, tools, and data can advance healthcare, neuroscience, chemistry, materials science, and mathematics. Hands-on workshops also gave attendees a chance to collaborate directly with the scientists behind Meta’s models.\n\nHere are a few highlights.\n\nAdvancing Medical Research and Real-World Applications\n\nWe announced an expansion of the Digital Brain Project , launched with the Rothschild Hospital Foundation and the University of Montreal. The project funds researchers to collect de-identified brain data and share it openly. We’re increasing the project’s data target from 15,000 hours of brain data to 25,000, to help researchers understand human intelligence and explore ways to improve neurological health.\n\nResearchers are also exploring how AI can support greater independence for people with disabilities.The University of Pittsburgh presented an assistive-robotics system built on DINOv3 and SAM 3 . The team plans to demonstrate a robot that can help a person eat and is experimenting with letting users give instructions in their own words. …"
    },
@@ -458,8 +597,8 @@
    "originalTitle": "Frostbite: A new CPU architecture discovered, designed and verified by AI",
    "en": {
     "title": "Frostbite: A new CPU architecture discovered, designed and verified by AI",
-    "summary": "Community discussion on Hacker News (682 points, 364 comments).",
-    "details": "Community discussion on Hacker News (682 points, 364 comments)."
+    "summary": "Community discussion on Hacker News (684 points, 366 comments).",
+    "details": "Community discussion on Hacker News (684 points, 366 comments)."
    },
    "translated": false,
    "fetchedAt": "2026-11-20T16:25:52+00:00"
