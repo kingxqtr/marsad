@@ -1,6 +1,65 @@
 {
- "updatedAt": "2026-11-24T13:11:52+00:00",
+ "updatedAt": "2026-11-24T23:03:08+00:00",
  "items": [
+  {
+   "id": "auto-c9181e1f67e4",
+   "tab": "ai",
+   "date": "2026-11-24",
+   "publishedAt": "2026-11-24T16:12:38+00:00",
+   "type": "media",
+   "importance": 1,
+   "sourceType": "community",
+   "sourceName": "Hacker News",
+   "url": "https://news.ycombinator.com/item?id=50630309",
+   "originalTitle": "Tidal bans AI-generated music",
+   "en": {
+    "title": "Tidal bans AI-generated music",
+    "summary": "Community discussion on Hacker News (310 points, 296 comments).",
+    "details": "Community discussion on Hacker News (310 points, 296 comments)."
+   },
+   "translated": false,
+   "fetchedAt": "2026-11-24T23:03:04+00:00"
+  },
+  {
+   "id": "auto-04b2af0679b5",
+   "tab": "ai",
+   "date": "2026-11-24",
+   "publishedAt": "2026-11-24T16:00:00+00:00",
+   "type": "product",
+   "importance": 1,
+   "sourceType": "official",
+   "sourceName": "Google Blog — AI",
+   "url": "https://blog.google/products-and-platforms/products/gemini/gemini-golden-state/",
+   "originalTitle": "How Gemini is changing the game for Golden State's organization and fans.",
+   "en": {
+    "title": "How Gemini is changing the game for Golden State's organization and fans.",
+    "summary": "Google Gemini partners with Golden State to power fan experiences and business operations for the Warriors, Valkyries, and Chase Center. See the news.",
+    "details": "Google Gemini partners with Golden State to power fan experiences and business operations for the Warriors, Valkyries, and Chase Center. See the news."
+   },
+   "translated": false,
+   "fetchedAt": "2026-11-24T23:03:02+00:00",
+   "company": "Google"
+  },
+  {
+   "id": "auto-17a2c9f04327",
+   "tab": "ai",
+   "date": "2026-11-24",
+   "publishedAt": "2026-11-24T16:34:13+00:00",
+   "type": "product",
+   "importance": 1,
+   "sourceType": "official",
+   "sourceName": "Hugging Face Blog",
+   "url": "https://huggingface.co/blog/nvidia/microduck-obstacle-avoidance",
+   "originalTitle": "Microduck Obstacle Avoidance: A Sim2Real Workflow with Isaac Lab and Newton",
+   "en": {
+    "title": "Microduck Obstacle Avoidance: A Sim2Real Workflow with Isaac Lab and Newton",
+    "summary": "Microduck Obstacle Avoidance: A Sim2Real Workflow with Isaac Lab and Newton",
+    "details": ""
+   },
+   "translated": false,
+   "fetchedAt": "2026-11-24T23:03:02+00:00",
+   "company": "Hugging Face"
+  },
   {
    "id": "auto-744246248ed2",
    "tab": "ai",
@@ -251,8 +310,8 @@
    "originalTitle": "A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
    "en": {
     "title": "A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
-    "summary": "Community discussion on Hacker News (762 points, 310 comments).",
-    "details": "Community discussion on Hacker News (762 points, 310 comments)."
+    "summary": "Community discussion on Hacker News (770 points, 313 comments).",
+    "details": "Community discussion on Hacker News (770 points, 313 comments)."
    },
    "translated": false,
    "fetchedAt": "2026-11-23T05:17:49+00:00"
@@ -270,8 +329,8 @@
    "originalTitle": "87% of the Anthropic power will come from gas and 11% from coal in 2028",
    "en": {
     "title": "87% of the Anthropic power will come from gas and 11% from coal in 2028",
-    "summary": "Community discussion on Hacker News (1034 points, 1007 comments).",
-    "details": "Community discussion on Hacker News (1034 points, 1007 comments)."
+    "summary": "Community discussion on Hacker News (1038 points, 1007 comments).",
+    "details": "Community discussion on Hacker News (1038 points, 1007 comments)."
    },
    "translated": false,
    "fetchedAt": "2026-11-22T18:40:10+00:00"
@@ -461,8 +520,8 @@
    "originalTitle": "Nasdaq erases all 2026 gains as AI sell-off dampens Anthropic’s second day",
    "en": {
     "title": "Nasdaq erases all 2026 gains as AI sell-off dampens Anthropic’s second day",
-    "summary": "Community discussion on Hacker News (530 points, 935 comments).",
-    "details": "Community discussion on Hacker News (530 points, 935 comments)."
+    "summary": "Community discussion on Hacker News (530 points, 938 comments).",
+    "details": "Community discussion on Hacker News (530 points, 938 comments)."
    },
    "translated": false,
    "fetchedAt": "2026-11-21T11:42:39+00:00"
@@ -637,8 +696,8 @@
    "originalTitle": "Frostbite: A new CPU architecture discovered, designed and verified by AI",
    "en": {
     "title": "Frostbite: A new CPU architecture discovered, designed and verified by AI",
-    "summary": "Community discussion on Hacker News (684 points, 366 comments).",
-    "details": "Community discussion on Hacker News (684 points, 366 comments)."
+    "summary": "Community discussion on Hacker News (686 points, 369 comments).",
+    "details": "Community discussion on Hacker News (686 points, 369 comments)."
    },
    "translated": false,
    "fetchedAt": "2026-11-20T16:25:52+00:00"
