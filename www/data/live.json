@@ -1,6 +1,46 @@
 {
- "updatedAt": "2026-11-24T02:53:26+00:00",
+ "updatedAt": "2026-11-24T13:11:52+00:00",
  "items": [
+  {
+   "id": "auto-744246248ed2",
+   "tab": "ai",
+   "date": "2026-11-24",
+   "publishedAt": "2026-11-24T06:00:40+00:00",
+   "type": "product",
+   "importance": 1,
+   "sourceType": "official",
+   "sourceName": "Meta Newsroom",
+   "url": "https://about.fb.com/news/2026/11/introducing-muse-in-the-uk-a-personal-ai-agent-you-control/",
+   "originalTitle": "Introducing Muse in the UK: A Personal AI Agent You Control",
+   "en": {
+    "title": "Introducing Muse in the UK: A Personal AI Agent You Control",
+    "summary": "From doing the Christmas shopping and searching for a cheaper energy deal, to sorting the school calendar or turning your saved travel Reels into a holiday itinerary, Muse can get it done for you.",
+    "details": "From doing the Christmas shopping and searching for a cheaper energy deal, to sorting the school calendar or turning your saved travel Reels into a holiday itinerary, Muse can get it done for you. And from today, Meta’s personal AI agent, which proactively helps with your goals and suggests ideas, is available in the UK.\n\nIt’s simple to use. Chat with Muse in the app or directly in WhatsApp, tell it what it needs to get done, check its output, and it takes action. Powered by Muse Spark – the first model from Meta Superintelligence Labs, built for real-world agentic work — Muse can turn your requests into plans, work through tasks across connected apps and websites, and keep working towards your goal.\n\nAnd with Muse, you’re in control. You choose what it can access, approve important actions before Muse carries them out , and can ask it to remember and or forget something. We built Muse to be private, safe, and secure by design. Every Muse gets its own virtual computer in the cloud, like a laptop that’s just for you. Your information and logins are kept there, not in Meta’s other services, and no one else’s Muse can access them.\n\nhttps://about.fb.com/wp-content/uploads/2026/11/009_3018_Hatch-Sizzle_NAM_Acq_EN_UAC_1920x1080_83s_Null_Muse_M0-1996.mp4\n\nWhat Your Muse Can Do\n\nMuse works straight away, with no technical experience needed. Unlike other agents, Muse was built to work for billions of people worldwide, so there’s no learning curve. …"
+   },
+   "translated": false,
+   "fetchedAt": "2026-11-24T13:11:47+00:00",
+   "company": "Meta"
+  },
+  {
+   "id": "auto-2a935b398fef",
+   "tab": "ai",
+   "date": "2026-11-24",
+   "publishedAt": "2026-11-24T06:00:04+00:00",
+   "type": "product",
+   "importance": 1,
+   "sourceType": "official",
+   "sourceName": "Meta Newsroom",
+   "url": "https://about.fb.com/news/2026/11/muse-now-available-in-the-uk-muse-does-the-work-you-stay-in-control/",
+   "originalTitle": "Muse Now Available in the UK: Muse Does the Work, You Stay in Control",
+   "en": {
+    "title": "Muse Now Available in the UK: Muse Does the Work, You Stay in Control",
+    "summary": "Muse, Meta’s personal AI agent, is now available to adults in the UK. Think of it as a helping hand for the jobs that pile up, like chasing a refund, renewing car insurance or keeping on top of the school calendar.",
+    "details": "Muse, Meta’s personal AI agent, is now available to adults in the UK. Think of it as a helping hand for the jobs that pile up, like chasing a refund, renewing car insurance or keeping on top of the school calendar. To get those jobs done you can connect Muse to the apps you already use, from your email and calendar to the retailer apps you shop on. Handing tasks to an AI agent is new for most of us, and we know it’s an act of trust. That’s why we’ve designed Muse so you stay in control at every step. Here’s how.\n\nMuse Asks You to Approve Anything Important\n\nOnce you’ve decided what Muse is connected to and what you want it to do, with your oversight, it can handle tasks like searching, comparing and planning for you. But before it does anything like sending an email or buying something, it shows you exactly what it’s about to do and waits for your go-ahead. A separate security agent checks Muse’s actions and the information it sends out against the permissions you’ve granted. You can also choose how often it checks in with you in Settings.\n\nYou Decide What It Can Access – and for How Long …"
+   },
+   "translated": false,
+   "fetchedAt": "2026-11-24T13:11:47+00:00",
+   "company": "Meta"
+  },
   {
    "id": "auto-875060338ff1",
    "tab": "ai",
@@ -211,8 +251,8 @@
    "originalTitle": "A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
    "en": {
     "title": "A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
-    "summary": "Community discussion on Hacker News (745 points, 297 comments).",
-    "details": "Community discussion on Hacker News (745 points, 297 comments)."
+    "summary": "Community discussion on Hacker News (762 points, 310 comments).",
+    "details": "Community discussion on Hacker News (762 points, 310 comments)."
    },
    "translated": false,
    "fetchedAt": "2026-11-23T05:17:49+00:00"
@@ -230,8 +270,8 @@
    "originalTitle": "87% of the Anthropic power will come from gas and 11% from coal in 2028",
    "en": {
     "title": "87% of the Anthropic power will come from gas and 11% from coal in 2028",
-    "summary": "Community discussion on Hacker News (1027 points, 1005 comments).",
-    "details": "Community discussion on Hacker News (1027 points, 1005 comments)."
+    "summary": "Community discussion on Hacker News (1034 points, 1007 comments).",
+    "details": "Community discussion on Hacker News (1034 points, 1007 comments)."
    },
    "translated": false,
    "fetchedAt": "2026-11-22T18:40:10+00:00"
@@ -421,8 +461,8 @@
    "originalTitle": "Nasdaq erases all 2026 gains as AI sell-off dampens Anthropic’s second day",
    "en": {
     "title": "Nasdaq erases all 2026 gains as AI sell-off dampens Anthropic’s second day",
-    "summary": "Community discussion on Hacker News (530 points, 931 comments).",
-    "details": "Community discussion on Hacker News (530 points, 931 comments)."
+    "summary": "Community discussion on Hacker News (530 points, 935 comments).",
+    "details": "Community discussion on Hacker News (530 points, 935 comments)."
    },
    "translated": false,
    "fetchedAt": "2026-11-21T11:42:39+00:00"
@@ -459,8 +499,8 @@
    "originalTitle": "Restricting AI agents in mobile operating systems platforms from capturing data",
    "en": {
     "title": "Restricting AI agents in mobile operating systems platforms from capturing data",
-    "summary": "Community discussion on Hacker News (581 points, 349 comments).",
-    "details": "Community discussion on Hacker News (581 points, 349 comments)."
+    "summary": "Community discussion on Hacker News (583 points, 349 comments).",
+    "details": "Community discussion on Hacker News (583 points, 349 comments)."
    },
    "translated": false,
    "fetchedAt": "2026-11-21T03:31:05+00:00"
