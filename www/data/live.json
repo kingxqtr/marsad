@@ -1,6 +1,66 @@
 {
- "updatedAt": "2026-11-25T15:53:12+00:00",
+ "updatedAt": "2026-11-25T23:57:08+00:00",
  "items": [
+  {
+   "id": "auto-64b9fce100a8",
+   "tab": "ai",
+   "date": "2026-11-25",
+   "publishedAt": "2026-11-25T22:18:03+00:00",
+   "type": "coding",
+   "importance": 1,
+   "sourceType": "official",
+   "sourceName": "GitHub Changelog",
+   "url": "https://github.blog/changelog/2026-11-25-copilot-code-review-billing-will-default-to-the-organization",
+   "originalTitle": "Copilot code review billing will default to the organization",
+   "en": {
+    "title": "Copilot code review billing will default to the organization",
+    "summary": "If you haven’t chosen how to bill Copilot code review for members with a Copilot license, those reviews will be billed to your organization starting December 30, 2026. To keep billing unchanged, select Member before then.",
+    "details": "If you haven’t chosen how to bill Copilot code review for members with a Copilot license, those reviews will be billed to your organization starting December 30, 2026. To keep billing unchanged, select Member before then. This change applies to organizations and enterprises with Copilot Business or Copilot Enterprise.\n\nWhat’s changing\n\nToday, when no billing choice is saved, reviews by members who have a paid Copilot license use the member’s Copilot entitlement. Starting December 30, 2026, those reviews will be billed to the organization that owns the repository. Accounts that don’t have AI Credits paid usage enabled, have a billing lock, or have no billable customer will be set to Member instead.\n\n- If you already chose Member or Organization , your choice stays in effect.\n\n- The separate setting for members without a Copilot license doesn’t change.\n\nKeep member billing\n\nUntil then, unset settings show Default (Member) with a notice about the change. To keep using members’ Copilot entitlements, select Member in your enterprise or organization Copilot policy settings. That choice stays in effect after the default changes.\n\nIf your enterprise manages this setting, an enterprise owner makes this choice.\n\nOrganization billing requires AI Credits paid usage and can increase your organization’s spending.\n\nTo learn more, see Configuring code review by GitHub Copilot .\n\nThe post Copilot code review billing will default to the organization appeared first on The GitHub Blog ."
+   },
+   "translated": false,
+   "fetchedAt": "2026-11-25T23:57:03+00:00",
+   "company": "GitHub"
+  },
+  {
+   "id": "auto-e75e0ef6805f",
+   "tab": "ai",
+   "date": "2026-11-25",
+   "publishedAt": "2026-11-25T18:52:55+00:00",
+   "type": "product",
+   "importance": 1,
+   "sourceType": "official",
+   "sourceName": "Hugging Face Blog",
+   "url": "https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents",
+   "originalTitle": "Where scientists draw the line on AI agents",
+   "en": {
+    "title": "Where scientists draw the line on AI agents",
+    "summary": "Where scientists draw the line on AI agents",
+    "details": ""
+   },
+   "translated": false,
+   "fetchedAt": "2026-11-25T23:57:03+00:00",
+   "company": "Hugging Face"
+  },
+  {
+   "id": "auto-f30cab37fe70",
+   "tab": "ai",
+   "date": "2026-11-25",
+   "publishedAt": "2026-11-25T00:00:00+00:00",
+   "type": "product",
+   "importance": 1,
+   "sourceType": "official",
+   "sourceName": "Hugging Face Blog",
+   "url": "https://huggingface.co/blog/inkling-2-mini-inference-hillclimb",
+   "originalTitle": "Hill-climbing Inkling 2 Mini inference on one RTX PRO 6000",
+   "en": {
+    "title": "Hill-climbing Inkling 2 Mini inference on one RTX PRO 6000",
+    "summary": "Hill-climbing Inkling 2 Mini inference on one RTX PRO 6000",
+    "details": ""
+   },
+   "translated": false,
+   "fetchedAt": "2026-11-25T23:57:03+00:00",
+   "company": "Hugging Face"
+  },
   {
    "id": "auto-18ed269c8046",
    "tab": "ai",
@@ -41,6 +101,26 @@
    "fetchedAt": "2026-11-25T05:23:25+00:00"
   },
   {
+   "id": "auto-bdfe516ecee3",
+   "tab": "ai",
+   "date": "2026-11-24",
+   "publishedAt": "2026-11-24T13:07:53+00:00",
+   "type": "product",
+   "importance": 1,
+   "sourceType": "official",
+   "sourceName": "Google DeepMind Blog",
+   "url": "https://deepmind.google/blog/interpreting-mass-spectra-with-google-antigravity/",
+   "originalTitle": "From spectrum to structure: Identifying molecules with Mass Spec Skills for Google Antigravity",
+   "en": {
+    "title": "From spectrum to structure: Identifying molecules with Mass Spec Skills for Google Antigravity",
+    "summary": "Mass Spec Skills empowers scientists using Google Antigravity to interpret tandem mass spectra.",
+    "details": "Mass Spec Skills empowers scientists using Google Antigravity to interpret tandem mass spectra."
+   },
+   "translated": false,
+   "fetchedAt": "2026-11-25T23:57:03+00:00",
+   "company": "Google"
+  },
+  {
    "id": "auto-3e0a805d6b3e",
    "tab": "ai",
    "date": "2026-11-24",
@@ -53,8 +133,8 @@
    "originalTitle": "Ask HN: Anthropic is accusing my company of distilling. How can I prove I'm not?",
    "en": {
     "title": "Ask HN: Anthropic is accusing my company of distilling. How can I prove I'm not?",
-    "summary": "Community discussion on Hacker News (396 points, 308 comments).",
-    "details": "Community discussion on Hacker News (396 points, 308 comments)."
+    "summary": "Community discussion on Hacker News (437 points, 335 comments).",
+    "details": "Community discussion on Hacker News (437 points, 335 comments)."
    },
    "translated": false,
    "fetchedAt": "2026-11-25T15:53:08+00:00"
@@ -72,8 +152,8 @@
    "originalTitle": "Tidal bans AI-generated music",
    "en": {
     "title": "Tidal bans AI-generated music",
-    "summary": "Community discussion on Hacker News (333 points, 319 comments).",
-    "details": "Community discussion on Hacker News (333 points, 319 comments)."
+    "summary": "Community discussion on Hacker News (334 points, 330 comments).",
+    "details": "Community discussion on Hacker News (334 points, 330 comments)."
    },
    "translated": false,
    "fetchedAt": "2026-11-24T23:03:04+00:00"
@@ -368,8 +448,8 @@
    "originalTitle": "A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
    "en": {
     "title": "A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
-    "summary": "Community discussion on Hacker News (774 points, 315 comments).",
-    "details": "Community discussion on Hacker News (774 points, 315 comments)."
+    "summary": "Community discussion on Hacker News (776 points, 318 comments).",
+    "details": "Community discussion on Hacker News (776 points, 318 comments)."
    },
    "translated": false,
    "fetchedAt": "2026-11-23T05:17:49+00:00"
@@ -387,8 +467,8 @@
    "originalTitle": "87% of the Anthropic power will come from gas and 11% from coal in 2028",
    "en": {
     "title": "87% of the Anthropic power will come from gas and 11% from coal in 2028",
-    "summary": "Community discussion on Hacker News (1042 points, 1008 comments).",
-    "details": "Community discussion on Hacker News (1042 points, 1008 comments)."
+    "summary": "Community discussion on Hacker News (1042 points, 1010 comments).",
+    "details": "Community discussion on Hacker News (1042 points, 1010 comments)."
    },
    "translated": false,
    "fetchedAt": "2026-11-22T18:40:10+00:00"
@@ -578,8 +658,8 @@
    "originalTitle": "Nasdaq erases all 2026 gains as AI sell-off dampens Anthropic’s second day",
    "en": {
     "title": "Nasdaq erases all 2026 gains as AI sell-off dampens Anthropic’s second day",
-    "summary": "Community discussion on Hacker News (530 points, 938 comments).",
-    "details": "Community discussion on Hacker News (530 points, 938 comments)."
+    "summary": "Community discussion on Hacker News (530 points, 940 comments).",
+    "details": "Community discussion on Hacker News (530 points, 940 comments)."
    },
    "translated": false,
    "fetchedAt": "2026-11-21T11:42:39+00:00"
