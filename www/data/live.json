@@ -1,6 +1,25 @@
 {
- "updatedAt": "2026-11-24T23:03:08+00:00",
+ "updatedAt": "2026-11-25T05:23:30+00:00",
  "items": [
+  {
+   "id": "auto-d4773ad1c066",
+   "tab": "once-human",
+   "date": "2026-11-25",
+   "publishedAt": "2026-11-25T02:12:09+00:00",
+   "type": "update",
+   "importance": 1,
+   "sourceType": "official",
+   "sourceName": "Once Human — Steam News",
+   "url": "https://store.steampowered.com/news/app/2139460/view/1850460852979495",
+   "originalTitle": "3.2.1 Bug Fixes (November 24)",
+   "en": {
+    "title": "3.2.1 Bug Fixes (November 24)",
+    "summary": "November 24 The following issues have been fixed: 1. Fixed an issue where some visual effects did not display correctly after the Duet Deviation was placed in the Securement Pod. 2.",
+    "details": "November 24\n\nThe following issues have been fixed:\n\n1. Fixed an issue where some visual effects did not display correctly after the Duet Deviation was placed in the Securement Pod.\n\n2. Fixed an issue where ships could sometimes not be placed when some players merged into Isles of Abyss (Permanent Server)."
+   },
+   "translated": false,
+   "fetchedAt": "2026-11-25T05:23:25+00:00"
+  },
   {
    "id": "auto-c9181e1f67e4",
    "tab": "ai",
@@ -14,8 +33,8 @@
    "originalTitle": "Tidal bans AI-generated music",
    "en": {
     "title": "Tidal bans AI-generated music",
-    "summary": "Community discussion on Hacker News (310 points, 296 comments).",
-    "details": "Community discussion on Hacker News (310 points, 296 comments)."
+    "summary": "Community discussion on Hacker News (320 points, 308 comments).",
+    "details": "Community discussion on Hacker News (320 points, 308 comments)."
    },
    "translated": false,
    "fetchedAt": "2026-11-24T23:03:04+00:00"
@@ -310,8 +329,8 @@
    "originalTitle": "A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
    "en": {
     "title": "A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
-    "summary": "Community discussion on Hacker News (770 points, 313 comments).",
-    "details": "Community discussion on Hacker News (770 points, 313 comments)."
+    "summary": "Community discussion on Hacker News (773 points, 313 comments).",
+    "details": "Community discussion on Hacker News (773 points, 313 comments)."
    },
    "translated": false,
    "fetchedAt": "2026-11-23T05:17:49+00:00"
@@ -329,8 +348,8 @@
    "originalTitle": "87% of the Anthropic power will come from gas and 11% from coal in 2028",
    "en": {
     "title": "87% of the Anthropic power will come from gas and 11% from coal in 2028",
-    "summary": "Community discussion on Hacker News (1038 points, 1007 comments).",
-    "details": "Community discussion on Hacker News (1038 points, 1007 comments)."
+    "summary": "Community discussion on Hacker News (1039 points, 1008 comments).",
+    "details": "Community discussion on Hacker News (1039 points, 1008 comments)."
    },
    "translated": false,
    "fetchedAt": "2026-11-22T18:40:10+00:00"
