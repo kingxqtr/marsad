@@ -1,6 +1,46 @@
 {
- "updatedAt": "2026-11-26T07:01:43+00:00",
+ "updatedAt": "2026-11-26T17:40:22+00:00",
  "items": [
+  {
+   "id": "auto-49da20359108",
+   "tab": "ai",
+   "date": "2026-11-26",
+   "publishedAt": "2026-11-26T11:37:17+00:00",
+   "type": "model",
+   "importance": 1,
+   "sourceType": "official",
+   "sourceName": "Hugging Face Blog",
+   "url": "https://huggingface.co/blog/ggml-org/llamacpp-amd-bench",
+   "originalTitle": "Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon",
+   "en": {
+    "title": "Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon",
+    "summary": "Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon",
+    "details": ""
+   },
+   "translated": false,
+   "fetchedAt": "2026-11-26T17:40:17+00:00",
+   "company": "Hugging Face"
+  },
+  {
+   "id": "auto-f3901ac52050",
+   "tab": "ai",
+   "date": "2026-11-26",
+   "publishedAt": "2026-11-26T00:00:00+00:00",
+   "type": "product",
+   "importance": 1,
+   "sourceType": "official",
+   "sourceName": "Hugging Face Blog",
+   "url": "https://huggingface.co/blog/training-swarms",
+   "originalTitle": "Swarms, Flocks, Gangs: How to build, train, and evaluate multi-agent systems",
+   "en": {
+    "title": "Swarms, Flocks, Gangs: How to build, train, and evaluate multi-agent systems",
+    "summary": "Swarms, Flocks, Gangs: How to build, train, and evaluate multi-agent systems",
+    "details": ""
+   },
+   "translated": false,
+   "fetchedAt": "2026-11-26T17:40:17+00:00",
+   "company": "Hugging Face"
+  },
   {
    "id": "auto-5905285b7b66",
    "tab": "ai",
@@ -34,8 +74,8 @@
    "originalTitle": "The New York Times warns photographers not to update Photoshop over AI features",
    "en": {
     "title": "The New York Times warns photographers not to update Photoshop over AI features",
-    "summary": "Community discussion on Hacker News (313 points, 270 comments).",
-    "details": "Community discussion on Hacker News (313 points, 270 comments)."
+    "summary": "Community discussion on Hacker News (558 points, 466 comments).",
+    "details": "Community discussion on Hacker News (558 points, 466 comments)."
    },
    "translated": false,
    "fetchedAt": "2026-11-26T07:01:39+00:00"
@@ -172,8 +212,8 @@
    "originalTitle": "Ask HN: Anthropic is accusing my company of distilling. How can I prove I'm not?",
    "en": {
     "title": "Ask HN: Anthropic is accusing my company of distilling. How can I prove I'm not?",
-    "summary": "Community discussion on Hacker News (449 points, 344 comments).",
-    "details": "Community discussion on Hacker News (449 points, 344 comments)."
+    "summary": "Community discussion on Hacker News (460 points, 352 comments).",
+    "details": "Community discussion on Hacker News (460 points, 352 comments)."
    },
    "translated": false,
    "fetchedAt": "2026-11-25T15:53:08+00:00"
@@ -191,8 +231,8 @@
    "originalTitle": "Tidal bans AI-generated music",
    "en": {
     "title": "Tidal bans AI-generated music",
-    "summary": "Community discussion on Hacker News (336 points, 333 comments).",
-    "details": "Community discussion on Hacker News (336 points, 333 comments)."
+    "summary": "Community discussion on Hacker News (337 points, 333 comments).",
+    "details": "Community discussion on Hacker News (337 points, 333 comments)."
    },
    "translated": false,
    "fetchedAt": "2026-11-24T23:03:04+00:00"
@@ -487,8 +527,8 @@
    "originalTitle": "A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
    "en": {
     "title": "A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
-    "summary": "Community discussion on Hacker News (776 points, 318 comments).",
-    "details": "Community discussion on Hacker News (776 points, 318 comments)."
+    "summary": "Community discussion on Hacker News (779 points, 319 comments).",
+    "details": "Community discussion on Hacker News (779 points, 319 comments)."
    },
    "translated": false,
    "fetchedAt": "2026-11-23T05:17:49+00:00"
@@ -506,8 +546,8 @@
    "originalTitle": "87% of the Anthropic power will come from gas and 11% from coal in 2028",
    "en": {
     "title": "87% of the Anthropic power will come from gas and 11% from coal in 2028",
-    "summary": "Community discussion on Hacker News (1042 points, 1010 comments).",
-    "details": "Community discussion on Hacker News (1042 points, 1010 comments)."
+    "summary": "Community discussion on Hacker News (1043 points, 1010 comments).",
+    "details": "Community discussion on Hacker News (1043 points, 1010 comments)."
    },
    "translated": false,
    "fetchedAt": "2026-11-22T18:40:10+00:00"
@@ -716,8 +756,8 @@
    "originalTitle": "Google workers tell their employer not to punish schools that don't want AI",
    "en": {
     "title": "Google workers tell their employer not to punish schools that don't want AI",
-    "summary": "Community discussion on Hacker News (284 points, 230 comments).",
-    "details": "Community discussion on Hacker News (284 points, 230 comments)."
+    "summary": "Community discussion on Hacker News (285 points, 230 comments).",
+    "details": "Community discussion on Hacker News (285 points, 230 comments)."
    },
    "translated": false,
    "fetchedAt": "2026-11-21T03:31:05+00:00"
