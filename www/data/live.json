@@ -1,6 +1,45 @@
 {
- "updatedAt": "2026-11-25T23:57:08+00:00",
+ "updatedAt": "2026-11-26T07:01:43+00:00",
  "items": [
+  {
+   "id": "auto-5905285b7b66",
+   "tab": "ai",
+   "date": "2026-11-26",
+   "publishedAt": "2026-11-26T05:05:36+00:00",
+   "type": "product",
+   "importance": 1,
+   "sourceType": "official",
+   "sourceName": "Hugging Face Blog",
+   "url": "https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin",
+   "originalTitle": "Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference",
+   "en": {
+    "title": "Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference",
+    "summary": "Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference",
+    "details": ""
+   },
+   "translated": false,
+   "fetchedAt": "2026-11-26T07:01:38+00:00",
+   "company": "Hugging Face"
+  },
+  {
+   "id": "auto-d19f863b0c99",
+   "tab": "ai",
+   "date": "2026-11-25",
+   "publishedAt": "2026-11-25T21:18:02+00:00",
+   "type": "product",
+   "importance": 1,
+   "sourceType": "community",
+   "sourceName": "Hacker News",
+   "url": "https://news.ycombinator.com/item?id=50647673",
+   "originalTitle": "The New York Times warns photographers not to update Photoshop over AI features",
+   "en": {
+    "title": "The New York Times warns photographers not to update Photoshop over AI features",
+    "summary": "Community discussion on Hacker News (313 points, 270 comments).",
+    "details": "Community discussion on Hacker News (313 points, 270 comments)."
+   },
+   "translated": false,
+   "fetchedAt": "2026-11-26T07:01:39+00:00"
+  },
   {
    "id": "auto-64b9fce100a8",
    "tab": "ai",
@@ -133,8 +172,8 @@
    "originalTitle": "Ask HN: Anthropic is accusing my company of distilling. How can I prove I'm not?",
    "en": {
     "title": "Ask HN: Anthropic is accusing my company of distilling. How can I prove I'm not?",
-    "summary": "Community discussion on Hacker News (437 points, 335 comments).",
-    "details": "Community discussion on Hacker News (437 points, 335 comments)."
+    "summary": "Community discussion on Hacker News (449 points, 344 comments).",
+    "details": "Community discussion on Hacker News (449 points, 344 comments)."
    },
    "translated": false,
    "fetchedAt": "2026-11-25T15:53:08+00:00"
@@ -152,8 +191,8 @@
    "originalTitle": "Tidal bans AI-generated music",
    "en": {
     "title": "Tidal bans AI-generated music",
-    "summary": "Community discussion on Hacker News (334 points, 330 comments).",
-    "details": "Community discussion on Hacker News (334 points, 330 comments)."
+    "summary": "Community discussion on Hacker News (336 points, 333 comments).",
+    "details": "Community discussion on Hacker News (336 points, 333 comments)."
    },
    "translated": false,
    "fetchedAt": "2026-11-24T23:03:04+00:00"
@@ -677,8 +716,8 @@
    "originalTitle": "Google workers tell their employer not to punish schools that don't want AI",
    "en": {
     "title": "Google workers tell their employer not to punish schools that don't want AI",
-    "summary": "Community discussion on Hacker News (284 points, 229 comments).",
-    "details": "Community discussion on Hacker News (284 points, 229 comments)."
+    "summary": "Community discussion on Hacker News (284 points, 230 comments).",
+    "details": "Community discussion on Hacker News (284 points, 230 comments)."
    },
    "translated": false,
    "fetchedAt": "2026-11-21T03:31:05+00:00"
