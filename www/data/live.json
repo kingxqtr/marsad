@@ -1,6 +1,44 @@
 {
- "updatedAt": "2026-11-26T17:40:22+00:00",
+ "updatedAt": "2026-11-27T01:09:37+00:00",
  "items": [
+  {
+   "id": "auto-22d69f076446",
+   "tab": "ai",
+   "date": "2026-11-26",
+   "publishedAt": "2026-11-26T21:47:45+00:00",
+   "type": "product",
+   "importance": 1,
+   "sourceType": "community",
+   "sourceName": "Hacker News",
+   "url": "https://news.ycombinator.com/item?id=50660180",
+   "originalTitle": "AI made self-hosting fun again",
+   "en": {
+    "title": "AI made self-hosting fun again",
+    "summary": "Community discussion on Hacker News (263 points, 147 comments).",
+    "details": "Community discussion on Hacker News (263 points, 147 comments)."
+   },
+   "translated": false,
+   "fetchedAt": "2026-11-27T01:09:33+00:00"
+  },
+  {
+   "id": "auto-b6787be1bf87",
+   "tab": "ai",
+   "date": "2026-11-26",
+   "publishedAt": "2026-11-26T17:16:41+00:00",
+   "type": "product",
+   "importance": 1,
+   "sourceType": "community",
+   "sourceName": "Hacker News",
+   "url": "https://news.ycombinator.com/item?id=50657307",
+   "originalTitle": "Tracking Diseases Cured by AI",
+   "en": {
+    "title": "Tracking Diseases Cured by AI",
+    "summary": "Community discussion on Hacker News (299 points, 180 comments).",
+    "details": "Community discussion on Hacker News (299 points, 180 comments)."
+   },
+   "translated": false,
+   "fetchedAt": "2026-11-27T01:09:33+00:00"
+  },
   {
    "id": "auto-49da20359108",
    "tab": "ai",
@@ -74,8 +112,8 @@
    "originalTitle": "The New York Times warns photographers not to update Photoshop over AI features",
    "en": {
     "title": "The New York Times warns photographers not to update Photoshop over AI features",
-    "summary": "Community discussion on Hacker News (558 points, 466 comments).",
-    "details": "Community discussion on Hacker News (558 points, 466 comments)."
+    "summary": "Community discussion on Hacker News (650 points, 517 comments).",
+    "details": "Community discussion on Hacker News (650 points, 517 comments)."
    },
    "translated": false,
    "fetchedAt": "2026-11-26T07:01:39+00:00"
@@ -212,8 +250,8 @@
    "originalTitle": "Ask HN: Anthropic is accusing my company of distilling. How can I prove I'm not?",
    "en": {
     "title": "Ask HN: Anthropic is accusing my company of distilling. How can I prove I'm not?",
-    "summary": "Community discussion on Hacker News (460 points, 352 comments).",
-    "details": "Community discussion on Hacker News (460 points, 352 comments)."
+    "summary": "Community discussion on Hacker News (465 points, 356 comments).",
+    "details": "Community discussion on Hacker News (465 points, 356 comments)."
    },
    "translated": false,
    "fetchedAt": "2026-11-25T15:53:08+00:00"
@@ -231,8 +269,8 @@
    "originalTitle": "Tidal bans AI-generated music",
    "en": {
     "title": "Tidal bans AI-generated music",
-    "summary": "Community discussion on Hacker News (337 points, 333 comments).",
-    "details": "Community discussion on Hacker News (337 points, 333 comments)."
+    "summary": "Community discussion on Hacker News (337 points, 344 comments).",
+    "details": "Community discussion on Hacker News (337 points, 344 comments)."
    },
    "translated": false,
    "fetchedAt": "2026-11-24T23:03:04+00:00"
@@ -527,8 +565,8 @@
    "originalTitle": "A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
    "en": {
     "title": "A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
-    "summary": "Community discussion on Hacker News (779 points, 319 comments).",
-    "details": "Community discussion on Hacker News (779 points, 319 comments)."
+    "summary": "Community discussion on Hacker News (780 points, 319 comments).",
+    "details": "Community discussion on Hacker News (780 points, 319 comments)."
    },
    "translated": false,
    "fetchedAt": "2026-11-23T05:17:49+00:00"
