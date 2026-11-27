@@ -1,6 +1,63 @@
 {
- "updatedAt": "2026-11-27T01:09:37+00:00",
+ "updatedAt": "2026-11-27T09:38:45+00:00",
  "items": [
+  {
+   "id": "auto-643557345893",
+   "tab": "once-human",
+   "date": "2026-11-27",
+   "publishedAt": "2026-11-27T08:12:34+00:00",
+   "type": "announcement",
+   "importance": 1,
+   "sourceType": "official",
+   "sourceName": "Once Human — Steam News",
+   "url": "https://store.steampowered.com/news/app/2139460/view/1850460852988560",
+   "originalTitle": "Dev Blog | Visional Wheel S5 \"Dissonant Resonance\": Adjustments and Compensation",
+   "en": {
+    "title": "Dev Blog | Visional Wheel S5 \"Dissonant Resonance\": Adjustments and Compensation",
+    "summary": "Dear Metas, Since Visional Wheel S5 \"Dissonant Resonance\" went live, we've received a lot of feedback about challenge difficulty, availability windows, teamplay pressure, and how much time and effort it takes to earn rewards.",
+    "details": "Dear Metas,\n\nSince Visional Wheel S5 \"Dissonant Resonance\" went live, we've received a lot of feedback about challenge difficulty, availability windows, teamplay pressure, and how much time and effort it takes to earn rewards. After reviewing and discussing this feedback, the development team will focus on three things: making it easier to participate, cutting down on unnecessary waiting, and making sure Wilderness gameplay also offers a meaningful way to progress toward key rewards. We sincerely apologize for the strain our gameplay design and the pace of our adjustments have caused, and for the time and effort this has cost.\n\nBelow are the specific details of this round of adjustments and the compensation arrangements.\n\nI. Adjustment Details\n\n1. The Echo War Adjustments\n\nAdjustment\n\nBefore\n\nAfter\n\nRelease Date\n\nAvailability Window\n\nEach Vision round is open for 15 minutes.\n\nEach availability window will be extended to 30 minutes.\n\nDecember 2 PT\n\nBoss Stats\n\nThe boss has high HP, making the challenge particularly demanding in some scenarios.\n\nThe boss's max HP will be lowered separately for solo and team challenges. In the scenarios \\[Deviation: Survive, Capture, Preserve\\] and \\ , max HP will be reduced further based on each scenario's balance to shorten individual runs.\n\nDecember 2 PT\n\nTuning Fork Mechanic …"
+   },
+   "translated": false,
+   "fetchedAt": "2026-11-27T09:38:41+00:00"
+  },
+  {
+   "id": "auto-65c4480ea2c1",
+   "tab": "once-human",
+   "date": "2026-11-27",
+   "publishedAt": "2026-11-27T02:01:17+00:00",
+   "type": "update",
+   "importance": 1,
+   "sourceType": "official",
+   "sourceName": "Once Human — Steam News",
+   "url": "https://store.steampowered.com/news/app/2139460/view/1850460852987799",
+   "originalTitle": "3.2.1 Bug Fixes (November 26)",
+   "en": {
+    "title": "3.2.1 Bug Fixes (November 26)",
+    "summary": "November 26 The following issues have been fixed: 1. Fixed an issue where players could get stuck in certain terrain or inside hollow structures when teleporting in Resonant Movements. 2.",
+    "details": "November 26\n\nThe following issues have been fixed:\n\n1. Fixed an issue where players could get stuck in certain terrain or inside hollow structures when teleporting in Resonant Movements.\n\n2. Fixed an issue where players could not precisely adjust the height of design layouts when placing them in some territories on Custom Servers."
+   },
+   "translated": false,
+   "fetchedAt": "2026-11-27T09:38:41+00:00"
+  },
+  {
+   "id": "auto-06edcfbd402e",
+   "tab": "ai",
+   "date": "2026-11-26",
+   "publishedAt": "2026-11-26T09:44:23+00:00",
+   "type": "product",
+   "importance": 1,
+   "sourceType": "community",
+   "sourceName": "Hacker News",
+   "url": "https://news.ycombinator.com/item?id=50653477",
+   "originalTitle": "Google Will Make AI Agents Use Its MCP Servers. The Gmail One Can't Send Email",
+   "en": {
+    "title": "Google Will Make AI Agents Use Its MCP Servers. The Gmail One Can't Send Email",
+    "summary": "Community discussion on Hacker News (327 points, 293 comments).",
+    "details": "Community discussion on Hacker News (327 points, 293 comments)."
+   },
+   "translated": false,
+   "fetchedAt": "2026-11-27T09:38:41+00:00"
+  },
   {
    "id": "auto-22d69f076446",
    "tab": "ai",
@@ -14,8 +71,8 @@
    "originalTitle": "AI made self-hosting fun again",
    "en": {
     "title": "AI made self-hosting fun again",
-    "summary": "Community discussion on Hacker News (263 points, 147 comments).",
-    "details": "Community discussion on Hacker News (263 points, 147 comments)."
+    "summary": "Community discussion on Hacker News (673 points, 340 comments).",
+    "details": "Community discussion on Hacker News (673 points, 340 comments)."
    },
    "translated": false,
    "fetchedAt": "2026-11-27T01:09:33+00:00"
@@ -33,8 +90,8 @@
    "originalTitle": "Tracking Diseases Cured by AI",
    "en": {
     "title": "Tracking Diseases Cured by AI",
-    "summary": "Community discussion on Hacker News (299 points, 180 comments).",
-    "details": "Community discussion on Hacker News (299 points, 180 comments)."
+    "summary": "Community discussion on Hacker News (310 points, 189 comments).",
+    "details": "Community discussion on Hacker News (310 points, 189 comments)."
    },
    "translated": false,
    "fetchedAt": "2026-11-27T01:09:33+00:00"
@@ -112,8 +169,8 @@
    "originalTitle": "The New York Times warns photographers not to update Photoshop over AI features",
    "en": {
     "title": "The New York Times warns photographers not to update Photoshop over AI features",
-    "summary": "Community discussion on Hacker News (650 points, 517 comments).",
-    "details": "Community discussion on Hacker News (650 points, 517 comments)."
+    "summary": "Community discussion on Hacker News (671 points, 530 comments).",
+    "details": "Community discussion on Hacker News (671 points, 530 comments)."
    },
    "translated": false,
    "fetchedAt": "2026-11-26T07:01:39+00:00"
@@ -250,8 +307,8 @@
    "originalTitle": "Ask HN: Anthropic is accusing my company of distilling. How can I prove I'm not?",
    "en": {
     "title": "Ask HN: Anthropic is accusing my company of distilling. How can I prove I'm not?",
-    "summary": "Community discussion on Hacker News (465 points, 356 comments).",
-    "details": "Community discussion on Hacker News (465 points, 356 comments)."
+    "summary": "Community discussion on Hacker News (467 points, 358 comments).",
+    "details": "Community discussion on Hacker News (467 points, 358 comments)."
    },
    "translated": false,
    "fetchedAt": "2026-11-25T15:53:08+00:00"
