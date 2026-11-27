@@ -1,6 +1,64 @@
 {
- "updatedAt": "2026-11-27T09:38:45+00:00",
+ "updatedAt": "2026-11-27T19:10:28+00:00",
  "items": [
+  {
+   "id": "auto-d9c6106ced22",
+   "tab": "ai",
+   "date": "2026-11-27",
+   "publishedAt": "2026-11-27T06:44:34+00:00",
+   "type": "product",
+   "importance": 1,
+   "sourceType": "community",
+   "sourceName": "Hacker News",
+   "url": "https://news.ycombinator.com/item?id=50663595",
+   "originalTitle": "Group chat where your AI talks behind your back",
+   "en": {
+    "title": "Group chat where your AI talks behind your back",
+    "summary": "Community discussion on Hacker News (605 points, 255 comments).",
+    "details": "Community discussion on Hacker News (605 points, 255 comments)."
+   },
+   "translated": false,
+   "fetchedAt": "2026-11-27T19:10:24+00:00"
+  },
+  {
+   "id": "auto-19f761a4ed2e",
+   "tab": "star-citizen",
+   "date": "2026-11-27",
+   "publishedAt": "2026-11-27T16:10:23+00:00",
+   "type": "development",
+   "importance": 1,
+   "sourceType": "official",
+   "sourceName": "RSI Comm-Link",
+   "url": "https://robertsspaceindustries.com/comm-link/transmission/21466-10-From-The-Community",
+   "originalTitle": "10 From the Community - Professional Pursuits",
+   "en": {
+    "title": "10 From the Community - Professional Pursuits",
+    "summary": "From mining and medicine to bounty hunting, salvage, crafting, and commerce, we’re talking professions in this episode of 10 From the Community.",
+    "details": "From mining and medicine to bounty hunting, salvage, crafting, and commerce, we’re talking professions in this episode of 10 From the Community. Join us as we answer ten (or eleven) questions from the Star Citizen community about expanding existing gameplay loops, creating new opportunities, and building a more connected, profession-based experience across the ’verse."
+   },
+   "translated": false,
+   "fetchedAt": "2026-11-27T19:10:23+00:00"
+  },
+  {
+   "id": "auto-c1d113f52f2a",
+   "tab": "ai",
+   "date": "2026-11-27",
+   "publishedAt": "2026-11-27T00:00:00+00:00",
+   "type": "media",
+   "importance": 1,
+   "sourceType": "official",
+   "sourceName": "Hugging Face Blog",
+   "url": "https://huggingface.co/blog/video-trainium3",
+   "originalTitle": "Taking Trainium3 to the Track: Generating Videos with LTX-2.5",
+   "en": {
+    "title": "Taking Trainium3 to the Track: Generating Videos with LTX-2.5",
+    "summary": "Taking Trainium3 to the Track: Generating Videos with LTX-2.5",
+    "details": ""
+   },
+   "translated": false,
+   "fetchedAt": "2026-11-27T19:10:23+00:00",
+   "company": "Hugging Face"
+  },
   {
    "id": "auto-643557345893",
    "tab": "once-human",
@@ -52,8 +110,8 @@
    "originalTitle": "Google Will Make AI Agents Use Its MCP Servers. The Gmail One Can't Send Email",
    "en": {
     "title": "Google Will Make AI Agents Use Its MCP Servers. The Gmail One Can't Send Email",
-    "summary": "Community discussion on Hacker News (327 points, 293 comments).",
-    "details": "Community discussion on Hacker News (327 points, 293 comments)."
+    "summary": "Community discussion on Hacker News (411 points, 328 comments).",
+    "details": "Community discussion on Hacker News (411 points, 328 comments)."
    },
    "translated": false,
    "fetchedAt": "2026-11-27T09:38:41+00:00"
@@ -71,8 +129,8 @@
    "originalTitle": "AI made self-hosting fun again",
    "en": {
     "title": "AI made self-hosting fun again",
-    "summary": "Community discussion on Hacker News (673 points, 340 comments).",
-    "details": "Community discussion on Hacker News (673 points, 340 comments)."
+    "summary": "Community discussion on Hacker News (1014 points, 484 comments).",
+    "details": "Community discussion on Hacker News (1014 points, 484 comments)."
    },
    "translated": false,
    "fetchedAt": "2026-11-27T01:09:33+00:00"
@@ -90,8 +148,8 @@
    "originalTitle": "Tracking Diseases Cured by AI",
    "en": {
     "title": "Tracking Diseases Cured by AI",
-    "summary": "Community discussion on Hacker News (310 points, 189 comments).",
-    "details": "Community discussion on Hacker News (310 points, 189 comments)."
+    "summary": "Community discussion on Hacker News (317 points, 192 comments).",
+    "details": "Community discussion on Hacker News (317 points, 192 comments)."
    },
    "translated": false,
    "fetchedAt": "2026-11-27T01:09:33+00:00"
@@ -169,8 +227,8 @@
    "originalTitle": "The New York Times warns photographers not to update Photoshop over AI features",
    "en": {
     "title": "The New York Times warns photographers not to update Photoshop over AI features",
-    "summary": "Community discussion on Hacker News (671 points, 530 comments).",
-    "details": "Community discussion on Hacker News (671 points, 530 comments)."
+    "summary": "Community discussion on Hacker News (678 points, 543 comments).",
+    "details": "Community discussion on Hacker News (678 points, 543 comments)."
    },
    "translated": false,
    "fetchedAt": "2026-11-26T07:01:39+00:00"
@@ -307,8 +365,8 @@
    "originalTitle": "Ask HN: Anthropic is accusing my company of distilling. How can I prove I'm not?",
    "en": {
     "title": "Ask HN: Anthropic is accusing my company of distilling. How can I prove I'm not?",
-    "summary": "Community discussion on Hacker News (467 points, 358 comments).",
-    "details": "Community discussion on Hacker News (467 points, 358 comments)."
+    "summary": "Community discussion on Hacker News (471 points, 360 comments).",
+    "details": "Community discussion on Hacker News (471 points, 360 comments)."
    },
    "translated": false,
    "fetchedAt": "2026-11-25T15:53:08+00:00"
