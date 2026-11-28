@@ -1,6 +1,25 @@
 {
- "updatedAt": "2026-11-27T19:10:28+00:00",
+ "updatedAt": "2026-11-28T02:01:28+00:00",
  "items": [
+  {
+   "id": "auto-4faaa9fa4b17",
+   "tab": "star-citizen",
+   "date": "2026-11-27",
+   "publishedAt": "2026-11-27T20:01:20+00:00",
+   "type": "event",
+   "importance": 1,
+   "sourceType": "official",
+   "sourceName": "RSI Comm-Link",
+   "url": "https://robertsspaceindustries.com/comm-link/transmission/21391-IAE-2956-Farewell",
+   "originalTitle": "IAE 2956 Farewell",
+   "en": {
+    "title": "IAE 2956 Farewell",
+    "summary": "The expo doors are closed for another year. See you next time!",
+    "details": "The expo doors are closed for another year. See you next time!"
+   },
+   "translated": false,
+   "fetchedAt": "2026-11-28T02:01:20+00:00"
+  },
   {
    "id": "auto-d9c6106ced22",
    "tab": "ai",
@@ -14,8 +33,8 @@
    "originalTitle": "Group chat where your AI talks behind your back",
    "en": {
     "title": "Group chat where your AI talks behind your back",
-    "summary": "Community discussion on Hacker News (605 points, 255 comments).",
-    "details": "Community discussion on Hacker News (605 points, 255 comments)."
+    "summary": "Community discussion on Hacker News (683 points, 285 comments).",
+    "details": "Community discussion on Hacker News (683 points, 285 comments)."
    },
    "translated": false,
    "fetchedAt": "2026-11-27T19:10:24+00:00"
@@ -110,8 +129,8 @@
    "originalTitle": "Google Will Make AI Agents Use Its MCP Servers. The Gmail One Can't Send Email",
    "en": {
     "title": "Google Will Make AI Agents Use Its MCP Servers. The Gmail One Can't Send Email",
-    "summary": "Community discussion on Hacker News (411 points, 328 comments).",
-    "details": "Community discussion on Hacker News (411 points, 328 comments)."
+    "summary": "Community discussion on Hacker News (420 points, 333 comments).",
+    "details": "Community discussion on Hacker News (420 points, 333 comments)."
    },
    "translated": false,
    "fetchedAt": "2026-11-27T09:38:41+00:00"
@@ -129,8 +148,8 @@
    "originalTitle": "AI made self-hosting fun again",
    "en": {
     "title": "AI made self-hosting fun again",
-    "summary": "Community discussion on Hacker News (1014 points, 484 comments).",
-    "details": "Community discussion on Hacker News (1014 points, 484 comments)."
+    "summary": "Community discussion on Hacker News (1101 points, 507 comments).",
+    "details": "Community discussion on Hacker News (1101 points, 507 comments)."
    },
    "translated": false,
    "fetchedAt": "2026-11-27T01:09:33+00:00"
@@ -148,8 +167,8 @@
    "originalTitle": "Tracking Diseases Cured by AI",
    "en": {
     "title": "Tracking Diseases Cured by AI",
-    "summary": "Community discussion on Hacker News (317 points, 192 comments).",
-    "details": "Community discussion on Hacker News (317 points, 192 comments)."
+    "summary": "Community discussion on Hacker News (321 points, 195 comments).",
+    "details": "Community discussion on Hacker News (321 points, 195 comments)."
    },
    "translated": false,
    "fetchedAt": "2026-11-27T01:09:33+00:00"
@@ -227,8 +246,8 @@
    "originalTitle": "The New York Times warns photographers not to update Photoshop over AI features",
    "en": {
     "title": "The New York Times warns photographers not to update Photoshop over AI features",
-    "summary": "Community discussion on Hacker News (678 points, 543 comments).",
-    "details": "Community discussion on Hacker News (678 points, 543 comments)."
+    "summary": "Community discussion on Hacker News (679 points, 543 comments).",
+    "details": "Community discussion on Hacker News (679 points, 543 comments)."
    },
    "translated": false,
    "fetchedAt": "2026-11-26T07:01:39+00:00"
@@ -365,8 +384,8 @@
    "originalTitle": "Ask HN: Anthropic is accusing my company of distilling. How can I prove I'm not?",
    "en": {
     "title": "Ask HN: Anthropic is accusing my company of distilling. How can I prove I'm not?",
-    "summary": "Community discussion on Hacker News (471 points, 360 comments).",
-    "details": "Community discussion on Hacker News (471 points, 360 comments)."
+    "summary": "Community discussion on Hacker News (474 points, 362 comments).",
+    "details": "Community discussion on Hacker News (474 points, 362 comments)."
    },
    "translated": false,
    "fetchedAt": "2026-11-25T15:53:08+00:00"
